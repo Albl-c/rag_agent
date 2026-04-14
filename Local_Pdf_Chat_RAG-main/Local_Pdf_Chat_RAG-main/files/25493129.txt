@@ -1,0 +1,16 @@
+25493129
+BACKGROUND	Recent research has investigated the use of ultrasound ( US ) for confirming endotracheal tube ( ETT ) placement with varying techniques , accuracies , and challenges .
+BACKGROUND	Our objective was to evaluate the accuracy of a novel , simplified , four-step ( 4S ) technique .
+METHODS	We conducted a blinded , randomized trial of the 4S technique utilizing an adult human cadaver model .
+METHODS	ETT placement was randomized to tracheal or esophageal location .
+METHODS	Three US experts and 45 emergency medicine residents ( EMR ) performed a total of 150 scans .
+METHODS	The primary outcome was the overall sensitivity and specificity of both experts and EMRs to detect location of ETT placement .
+METHODS	Secondary outcomes included a priori subgroup comparison of experts and EMRs for thin and obese cadavers , time to detection , and level of operator confidence .
+RESULTS	Experts had a sensitivity of 100 % ( 95 % CI = 72 % to 100 % ) and specificity of 100 % ( 95 % CI = 77 % to 100 % ) on thin , and a sensitivity of 93 % ( 95 % CI = 66 % to 100 % ) and specificity of 100 % ( 95 % CI = 75 % to 100 % ) on obese cadavers .
+RESULTS	EMRs had a sensitivity of 91 % ( 95 % CI = 69 % to 98 % ) and of specificity 96 % ( 95 % CI = 76 % to 100 % ) on thin , and a sensitivity of 100 % ( 95 % CI = 82 % to 100 % ) specificity of 48 % ( 95 % CI = 27 % to 69 % ) on obese cadavers .
+RESULTS	The overall mean time to detection was 17 seconds ( 95 % CI = 13 seconds to 20 seconds , range : 2 to 63 seconds ) for US experts and 29 seconds ( 95 % CI = 25 seconds to 33 seconds ; range : 6 to 120 seconds ) for EMRs .
+RESULTS	There was a statistically significant decrease in the specificity of this technique on obese cadavers when comparing the EMRs and experts , as well as an increased overall time to detection among the EMRs .
+CONCLUSIONS	The simplified 4S technique was accurate and rapid for US experts .
+CONCLUSIONS	Among novices , the 4S technique was accurate in thin , but appears less accurate in obese cadavers .
+CONCLUSIONS	Further studies will determine optimal teaching time and accuracy in emergency department patients .
+

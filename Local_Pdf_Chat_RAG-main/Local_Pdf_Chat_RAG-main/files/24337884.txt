@@ -1,0 +1,17 @@
+24337884
+BACKGROUND	Endoscopic submucosal dissection ( ESD ) is a standard treatment for gastric neoplasia limited to the mucosa without lymph node metastasis .
+BACKGROUND	However , there are neither standardized guidelines nor studies on the best time to start oral intake after ESD .
+BACKGROUND	The aim of this study was to compare patient satisfaction , safety , length of hospital stay , and economic feasibility between an early post-ESD diet and the conventional immediate fasting protocol .
+METHODS	A total of 130 patients with 156 gastric epithelial neoplasias who underwent ESD by a single expert endoscopist were consecutively and prospectively enrolled .
+METHODS	Enrolled patients were randomized to an early diet group or a control group .
+METHODS	The early diet group started meals as a clear liquid diet on day 0 , and a soft diet and general diet in sequence on day 1 .
+METHODS	The fasting group was fasted for 2 days .
+METHODS	Patients in both groups underwent second-look endoscopy within 2 days following ESD and follow-up endoscopy after 2 months .
+RESULTS	In the course of the study , ten patients were excluded .
+RESULTS	The total number of patients in the early diet group and control group was 63 and 57 , respectively .
+RESULTS	Mean age was 62 years ( 9.4 ) .
+RESULTS	There were no significant differences in clinicopathologic conditions or endoscopic results such as procedure time or size of lesions between the two groups .
+RESULTS	There were no significant differences in abdominal pain score , rate of post-ESD bleeding or healing rate of ESD-induced ulcer between the two groups .
+RESULTS	However , the early diet protocol led to significantly higher patient satisfaction ( p = 0.001 ) , lower hospital costs ( p < 0.001 ) , and shorter hospital stay ( p < 0.001 ) than the conventional fasting protocol .
+CONCLUSIONS	An early post-ESD diet protocol provides higher patient satisfaction , is more cost effective , decreases hospital stay , and does not influence complication rates such as post-ESD bleeding , abdominal pain , or ulcer healing compared with the conventional fasting protocol .
+

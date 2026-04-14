@@ -1,0 +1,12 @@
+24976433
+OBJECTIVE	Selenium supplementation for women infected with HIV may increase genital shedding of HIV-1 , however , to our knowledge , no studies have examined the effect on viral shedding in breast milk .
+OBJECTIVE	The aim of this study was to determine the effect of selenium supplementation on HIV-1 RNA detection in breast milk of HIV-infected women .
+METHODS	HIV-infected pregnant women enrolled at 12 to 27 wk gestation in a randomized , double-blind , placebo-controlled trial of daily selenium ( 200 g as selenomethionine ) had cell-free HIV-1 RNA quantified in breast milk at 4 to 9 wk postpartum .
+METHODS	All participants received high-dose multivitamins containing vitamin B complex , C , and E as standard of care .
+RESULTS	The proportion of women with detectable ( > 50 copies/mL ) HIV-1 RNA in breast milk appeared to be increased in the selenium group ( 36.4 % ) compared with those in the placebo group ( 27.5 % ) among the total cohort ( N = 420 ) , but results were borderline statistically significant ( relative risk [ RR ] , 1.32 ; 95 % confidence interval [ CI ] , 1.00-1 .76 ; P = 0.05 ) .
+RESULTS	In secondary analyses , the proportion of women with detectable HIV-1 RNA in breast milk was significantly greater in the selenium group ( 37.8 % ) compared with placebo group ( 27.5 % ) among women who did not receive highly active antiretroviral therapy ( HAART ; RR , 1.37 ; 95 % CI , 1.03-1 .82 ; P = 0.03 ) .
+RESULTS	This relationship was primarily due to a significant effect of selenium among primiparous women ( RR , 2.24 ; 95 % CI , 1.30-3 .86 ; P < 0.01 ) , but not multiparous women ( RR , 1.14 ; 95 % CI , 0.81-1 .59 ; P = 0.54 ) ( P-value for interaction = 0.02 ) .
+RESULTS	Too few women received HAART in this study ( n = 12 ) to establish the effect of selenium supplementation .
+CONCLUSIONS	Selenium supplementation appears to increase HIV-1 RNA detection in breast milk among primiparous women not receiving HAART .
+CONCLUSIONS	Safety studies among pregnant women on HAART need to be conducted before administering selenium-containing supplements .
+

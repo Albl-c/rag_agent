@@ -1,0 +1,12 @@
+25376971
+BACKGROUND	The pectoral nerves ( Pecs ) block types I and II are novel techniques to block the pectoral , intercostobrachial , third to sixth intercostals , and the long thoracic nerves .
+BACKGROUND	They may provide good analgesia during and after breast surgery .
+BACKGROUND	Our study aimed to compare prospectively the quality of analgesia after modified radical mastectomy surgery using general anesthesia and Pecs blocks versus general anesthesia alone .
+METHODS	One hundred twenty adult female patients scheduled for elective unilateral modified radical mastectomy under general anesthesia were randomly allocated to receive either general anesthesia plus Pecs block ( Pecs group , n = 60 ) or general anesthesia alone ( control group , n = 60 ) .
+RESULTS	Statistically significant lower visual analog scale pain scores were observed in the Pecs group than in the control group patients .
+RESULTS	Moreover , postoperative morphine consumption in the Pecs group was lower in the first 12 hours after surgery than in the control group .
+RESULTS	In addition , statistically significant lower intraoperative fentanyl consumption was observed in the Pecs group than in the control group .
+RESULTS	In the postanesthesia care unit , nausea and vomiting as well as sedation scores were lower in the Pecs group compared with the control group .
+RESULTS	Overall , postanesthesia care unit and hospital stays were shorter in the Pecs group than in the control group .
+CONCLUSIONS	The combined Pecs I and II block is a simple , easy-to-learn technique that produces good analgesia for radical breast surgery .
+

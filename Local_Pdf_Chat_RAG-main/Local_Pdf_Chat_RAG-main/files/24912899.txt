@@ -1,0 +1,15 @@
+24912899
+OBJECTIVE	To document the rate and outcome of trastuzumab-associated cardiac dysfunction in patients following 1 or 2 years of adjuvant therapy .
+METHODS	The Herceptin Adjuvant ( HERA ) trial is a three-arm , randomized trial comparing 2 years or 1 year of trastuzumab with observation in 5,102 patients with human epidermal growth factor receptor 2 ( HER2 ) - positive early-stage breast cancer .
+METHODS	Cardiac function was closely monitored .
+METHODS	Eligible patients had left ventricular ejection fraction ( LVEF ) 55 % at study entry following neoadjuvant chemotherapy with or without radiotherapy .
+METHODS	This 8-year median follow-up analysis considered patients randomly assigned to 2 years or 1 year of trastuzumab or observation .
+RESULTS	The as-treated safety population for 2 years of trastuzumab ( n = 1,673 ) , 1 year of trastuzumab ( n = 1,682 ) , and observation ( n = 1,744 ) is reported .
+RESULTS	Cardiac adverse events leading to discontinuation of trastuzumab occurred in 9.4 % of patients in the 2-year arm and 5.2 % of patients in the 1-year arm .
+RESULTS	Cardiac death , severe congestive heart failure ( CHF ) , and confirmed significant LVEF decrease remained low in all three arms .
+RESULTS	The incidence of severe CHF ( 0.8 % , 0.8 % , and 0.0 % , respectively ) and confirmed significant LVEF decrease ( 7.2 % , 4.1 % , and 0.9 % , respectively ) was significantly higher in the 2-year and 1-year trastuzumab arms compared with the observation arm .
+RESULTS	Severe CHF was the same for 2-year and 1-year trastuzumab .
+RESULTS	Of patients with confirmed LVEF decrease receiving 2-year trastuzumab , 87.5 % reached acute recovery .
+RESULTS	Of patients with confirmed LVEF decrease receiving 1-year trastuzumab , 81.2 % reached acute recovery .
+CONCLUSIONS	Long-term assessment at 8-year median follow-up confirms the low incidence of cardiac events for trastuzumab given sequentially after chemotherapy and radiotherapy , and cardiac events were reversible in the vast majority of patients .
+

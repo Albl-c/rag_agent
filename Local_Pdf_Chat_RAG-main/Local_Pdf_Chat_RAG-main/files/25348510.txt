@@ -1,0 +1,15 @@
+25348510
+BACKGROUND	Left ventricular hypertrophy is associated with adverse outcomes , including death , during cardiac surgery .
+BACKGROUND	This may be facilitated by an increased oxygen demand and diastolic dysfunction .
+BACKGROUND	Levosimendan augments haemodynamics without further oxygen consumption and improves echocardiographic indices of diastolic dysfunction .
+BACKGROUND	This study aimed to describe the haemodynamic effects of short-term pre - and intra-operative levosimendan infusion including advanced echocardiographic measures of diastolic and systolic heart function .
+METHODS	The study was randomised , double-blinded and placebo-controlled performed at a single-centre university hospital .
+METHODS	Patients with left ventricular hypertrophy and ejection fraction > 45 % scheduled for single procedure aortic valve replacement were included and randomised to infusion of either levosimendan 0.1 g/kg/min or placebo from 4 h before anaesthesia to the end of surgery .
+METHODS	Outcome measures were echocardiographic indices of left ventricular diastolic function : E/e ' ( primary endpoint ) , e ' , e ' / a ' and indices of systolic function : longitudinal strain , ejection fraction and s ' .
+METHODS	Patients were followed until 6 months after surgery .
+METHODS	In addition , invasive haemodynamic measures were obtained perioperatively .
+RESULTS	The trial was prematurely terminated due to an overall high incidence of post-operative atrial fibrillation ( 15/20 , P = 0.002 ) after inclusion of 20 patients .
+RESULTS	The relative decrease in perioperative cardiac index was lower ( P = 0.016 ) in the levosimendan group .
+RESULTS	There was no difference in E/e ' , and similar results were found for all measures of systolic function .
+CONCLUSIONS	Short-term levosimendan caused a transient relative increase in cardiac index , but no effect was seen on the first post-operative day and up to 6 months post-operatively with indices of systolic and diastolic heart function .
+

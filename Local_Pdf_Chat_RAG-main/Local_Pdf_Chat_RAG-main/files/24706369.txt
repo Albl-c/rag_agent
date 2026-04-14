@@ -1,0 +1,16 @@
+24706369
+OBJECTIVE	Handling emergency telephone consultations ( ETCs ) is a challenging and very important task for doctors .
+OBJECTIVE	The aims of the study were to document insecurity in medical students during ETCs and to identify the reasons for that insecurity .
+OBJECTIVE	We hypothesised that insecurity is associated with advising more urgent action ( e.g. advice to call for an ambulance ) in ETCs .
+METHODS	We used ETCs with simulated patients ( SPs ) , with each student randomly allocated two of four possible cases .
+METHODS	After the training , 137 students reported on any insecurity that they had in the various ETC phases .
+METHODS	We analysed the reasons for insecurity using descriptive statistics .
+METHODS	The association between the students ' advice that urgent action was needed and their insecurity was analysed with Spearman rank correlation .
+RESULTS	Overall , 95 % of the students felt insecure in at least one phase of their ETC. .
+RESULTS	History taking was the phase in which students felt most insecure ( 63.1 % ) , followed by the phase of analysing the information given by the patient ( 44.9 % ) .
+RESULTS	Perceived insecurity was associated with more urgent advice in one case scenario ( abdominal pain ; correlation r = 0.46 ; p < 0.01 ) .
+RESULTS	The other two cases ( child with fever ; chest pain ) also had a positive , but not statistically significant , correlation trend ( p < 0.12 ; p < 0.08 ) .
+CONCLUSIONS	Insecurity is highly prevalent among medical students in their ETC decision-making .
+CONCLUSIONS	ETC training in medical schools , with a focus on structured history taking and formulating discriminating questions , might help decrease insecurity in ETCs .
+CONCLUSIONS	Medical education should also teach management of insecurity .
+

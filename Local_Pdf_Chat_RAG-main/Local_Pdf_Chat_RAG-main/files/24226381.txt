@@ -1,0 +1,17 @@
+24226381
+BACKGROUND	This paper describes a randomized prospective study conducted in 308 patients undergoing caesarean section in spinal anaesthesia at a single hospital between 2010 and 2012 to find a suitable anti-emetic strategy for these patients .
+METHODS	Spinal anesthesia was performed in left prone position , at L3/L4 with hyperbaric 0.5 % Bupivacaine according to a cc/cm body height ratio .
+METHODS	There were no opioids given peri-operatively .
+METHODS	The patients received either no prophylaxis ( Group I ) or tropisetron and metoclopramide ( Group II ) or dimenhydrinate and dexamethasone ( Group III ) , or tropisetron as a single medication ( Group IV ) .
+METHODS	The primary outcome was nausea and/or vomiting ( NV ) in the intraoperative , early ( 0-2 h ) or late ( 2-24 h ) postoperative period .
+METHODS	Multivariate statistical analysis was conducted with a regression analysis and a backward elimination of factors without significant correlation .
+RESULTS	All prophylactic agents significantly reduced NV incidence intraoperatively .
+RESULTS	Relative risk reduction for NV by prophylaxis was most effective ( 59.5 % ) in Group II ( tropisetron and metoclopramide ) .
+RESULTS	In Group III ( dimenhydrinate and dexamethasone ) , NV risk was reduced by 29.9 % and by 28.7 % in Group IV ( tropisetron mono-therapy ) .
+RESULTS	The incidence of NV in the early ( 0 ?
+RESULTS	2 h ) and the late ( 2 ?
+RESULTS	24 h ) postoperative period was low all over ( 7.8 % ) , but the relative risk reduction of NV in the early postoperative period was 54.1 % ( Group IV ) , 45.1 % ( Group III ) , and 34.8 % ( Group II ) , respectively .
+RESULTS	In the late postoperative period , there was no significant difference between the 4 groups .
+CONCLUSIONS	We recommend a prophylactic medication with tropisetron 2 mg and metoclopramide 20 mg for patients during caesarean section .
+CONCLUSIONS	These agents are safe , reasonably priced , and highly efficient in preventing nausea and vomiting .
+

@@ -1,0 +1,21 @@
+25863654
+BACKGROUND	Macrosomic fetuses are at increased risk of shoulder dystocia .
+BACKGROUND	We aimed to compare induction of labour with expectant management for large-for-date fetuses for prevention of shoulder dystocia and other neonatal and maternal morbidity associated with macrosomia .
+METHODS	We did this pragmatic , randomised controlled trial between Oct 1 , 2002 , and Jan 1 , 2009 , in 19 tertiary-care centres in France , Switzerland , and Belgium .
+METHODS	Women with singleton fetuses whose estimated weight exceeded the 95th percentile , were randomly assigned ( 1:1 ) , via computer-generated permuted-block randomisation ( block size of four to eight ) to receive induction of labour within 3 days between 37 ( +0 ) weeks and 38 ( +6 ) weeks of gestation , or expectant management .
+METHODS	Randomisation was stratified by centre .
+METHODS	Participants and caregivers were not masked to group assignment .
+METHODS	Our primary outcome was a composite of clinically significant shoulder dystocia , fracture of the clavicle , brachial plexus injury , intracranial haemorrhage , or death .
+METHODS	We did analyses by intention to treat .
+METHODS	This trial is registered with ClinicalTrials.gov , number NCT00190320 .
+RESULTS	We randomly assigned 409 women to the induction group and 413 women to the expectant management group , of whom 407 women and 411 women , respectively , were included in the final analysis .
+RESULTS	Mean birthweight was 3831 g ( SD 324 ) in the induction group and 4118 g ( 392 ) in the expectant group .
+RESULTS	Induction of labour significantly reduced the risk of shoulder dystocia or associated morbidity ( n = 8 ) compared with expectant management ( n = 25 ; relative risk [ RR ] 032 , 95 % CI 015-071 ; p = 0004 ) .
+RESULTS	We recorded no brachial plexus injuries , intracranial haemorrhages , or perinatal deaths .
+RESULTS	The likelihood of spontaneous vaginal delivery was higher in women in the induction group than in those in the expectant management group ( RR 114 , 95 % CI 101-129 ) .
+RESULTS	Caesarean delivery and neonatal morbidity did not differ significantly between the groups .
+CONCLUSIONS	Induction of labour for suspected large-for-date fetuses is associated with a reduced risk of shoulder dystocia and associated morbidity compared with expectant management .
+CONCLUSIONS	Induction of labour does not increase the risk of caesarean delivery and improves the likelihood of spontaneous vaginal delivery .
+CONCLUSIONS	These benefits should be balanced with the effects of early-term induction of labour .
+BACKGROUND	Assistance Publique-Hpitaux de Paris and the University of Geneva .
+

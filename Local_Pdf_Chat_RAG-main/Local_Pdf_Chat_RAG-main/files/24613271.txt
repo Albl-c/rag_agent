@@ -1,0 +1,16 @@
+24613271
+OBJECTIVE	The effects of nutritional management among other intervention components have not been examined for hip-fractured elderly persons with poor nutritional status .
+OBJECTIVE	Accordingly , this study explored the intervention effects of an in-home program using a comprehensive care model that included a nutrition-management component on recovery of hip-fractured older persons with poor nutritional status at hospital discharge .
+METHODS	A secondary analysis of data from a randomized controlled trial with 24-month follow-up .
+METHODS	A 3000-bed medical center in northern Taiwan .
+METHODS	Subjects were included only if they had `` poor nutritional status '' at hospital discharge , including those at risk for malnutrition or malnourished .
+METHODS	The subsample included 80 subjects with poor nutritional status in the comprehensive care group , 87 in the interdisciplinary care group , and 85 in the usual care group .
+METHODS	The 3 care models were usual care , interdisciplinary care , and comprehensive care .
+METHODS	Usual care provided no in-home care , interdisciplinary care provided 4 months of in-home rehabilitation , and comprehensive care included management of depressive symptoms , falls , and nutrition as well as 1 year of in-home rehabilitation .
+METHODS	Data were collected on nutritional status and physical functions , including range of motion , muscle power , proprioception , balance and functional independence , and analyzed using a generalized estimating equation approach .
+METHODS	We also compared patients ' baseline characteristics : demographic characteristics , type of surgery , comorbidities , length of hospital stay , cognitive function , and depression .
+RESULTS	Patients with poor nutritional status who received comprehensive care were 1.67 times ( 95 % confidence interval 1.06-2 .61 ) more likely to recover their nutritional status than those who received interdisciplinary and usual care .
+RESULTS	Furthermore , the comprehensive care model improved the functional independence and balance of patients who recovered their nutritional status over the first year following discharge , but not of those who had not yet recovered .
+CONCLUSIONS	An in-home program using the comprehensive care model with a nutritional component effectively improved the nutritional status of hip-fractured patients with poor nutrition .
+CONCLUSIONS	This comprehensive care intervention more effectively improved recovery of functional independence and balance for patients with recovered nutritional status .
+

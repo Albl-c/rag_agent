@@ -1,0 +1,21 @@
+24983434
+OBJECTIVE	To compare patient satisfaction between telemedicine and in-person follow-up appointments for orthopedic trauma .
+METHODS	Prospective randomized controlled trial ( pilot study ) .
+METHODS	Level I trauma center .
+METHODS	Twenty-four patients were enrolled and randomized into 2 groups .
+METHODS	Eight patients who had telemedicine follow-up appointments and 9 who had in-person follow-up visits were included in a per-protocol analysis .
+METHODS	In the telemedicine group , 2 patients left the study because of nonadherence , 1 patient withdrew because of a weak Internet connection , and 1 patient sustained an open fracture .
+METHODS	Three control patients left the study because of nonadherence .
+METHODS	The patients had 4 follow-up appointments during a 6-month period .
+METHODS	Patients either had their 6-week and 6-month follow-ups through video calls or in the clinic .
+METHODS	After 6-week and 6-month follow-up appointments , the patients were given survey questions that were developed using literature-supported methods to compare follow-up experiences .
+METHODS	The patients were monitored for complications .
+RESULTS	There was no significant difference in patient satisfaction between telemedicine and in-person clinic visits ( telemedicine : 89 % satisfied ; control : 100 % satisfied ; P = 0.74 ) .
+RESULTS	Zero percent of patients in the telemedicine group took time off their work for their appointment compared with 55.6 % in the control ( P = 0.03 ) .
+RESULTS	Telemedicine patients spent significantly less time on their visits ( P = 0.01 ) .
+RESULTS	The majority of the patients in the telemedicine group reported clear visual ( 87.5 % ) and sound quality ( 100 % ) through and agreed to future follow-up visits through telemedicine ( 75.0 % ) .
+RESULTS	One patient in each group developed complications .
+CONCLUSIONS	Telemedicine may be a viable alternative to some in-person clinic visits because of similar measures of patient satisfaction but with significantly less time and distance traveled .
+METHODS	Therapeutic level II .
+METHODS	See Instructions for authors for a complete description of levels of evidence .
+

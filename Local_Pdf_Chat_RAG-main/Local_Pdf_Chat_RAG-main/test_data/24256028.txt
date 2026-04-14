@@ -1,0 +1,16 @@
+24256028
+OBJECTIVE	Acupuncture is increasingly used in patients with allergic asthma , but there is a lack of evidence on the cost-benefit relationship of this treatment .
+OBJECTIVE	The aim of this study was to assess economic aspects of additional acupuncture treatment in patients with allergic bronchial asthma compared to patients receiving routine care alone .
+OBJECTIVE	DESIGN , SUBJECTS , INTERVENTION , OUTCOME MEASURES : In a randomized controlled trial , patients with allergic bronchial asthma were either allocated to a group receiving acupuncture immediately or a waiting-list control group .
+OBJECTIVE	Both groups were free to use routine care treatment .
+OBJECTIVE	The resource consumption , costs , and health-related quality of life were evaluated at baseline , and after 3 and 6 months by using statutory health insurance information and standardized questionnaires .
+OBJECTIVE	Main economic outcome parameters were direct and indirect cost differences during the study period and the incremental cost-effectiveness ratio ( ICER ) of acupuncture treatment .
+RESULTS	Three hundred and six ( 306 ) patients ( 159 acupuncture ; 147 controls ) were included ( mean age 46.513.11 years , female 57.2 % ) and were comparable at baseline .
+RESULTS	Acupuncture treatment was associated with significantly higher costs compared to control patients ( overall costs : 860.76 [ 95 % confidence interval ( CI ) 705.04-1016 .47 ] versus 518.80 [ 95 % CI 356.66-680 .93 ] ; p = 0.003 ; asthma-related costs : 517.52 [ 95 % CI 485.63-549 .40 ] versus 144.87 [ 95 % CI 111.70-178 .05 ] ; p < 0.001 ) .
+RESULTS	These additional costs seem essentially driven by acupuncture costs themselves ( 378.40 [ 95 % CI 367.10-389 .69 ] ) .
+RESULTS	However , acupuncture was associated with superior effectiveness in terms of quality-adjusted life years ( QALYs ) .
+RESULTS	Resulting ICER lay between 23,231 ( overall ) and 25,315 ( diagnosis-specific ) per additional QALY .
+RESULTS	When using German acupuncture prices of year 2012 , the ICER would improve to 12.810 ( overall ) versus 14,911 ( diagnosis-specific ) per QALY gained .
+CONCLUSIONS	Treating patients who have allergic bronchial asthma with acupuncture in addition to routine care resulted in additional costs and better effects in terms of patients ' quality of life .
+CONCLUSIONS	Acupuncture therefore seems to be a useful and cost-effective add-on treatment .
+

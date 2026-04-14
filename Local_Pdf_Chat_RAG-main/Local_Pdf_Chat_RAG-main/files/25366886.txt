@@ -1,0 +1,18 @@
+25366886
+BACKGROUND	Survival rates after sudden cardiac arrest could be increased if bystanders could be encouraged to perform CPR until emergency services arrive .
+BACKGROUND	This should be initiated by the dispatcher at the emergency control facility who receives the call .
+BACKGROUND	For the first time the ERC guidelines of 2010 included instructions to be given to untrained rescuers by the dispatcher .
+BACKGROUND	Rapid recognition of cardiac arrest and initiation of emergency measures is assured by means of specific training for the dispatchers .
+OBJECTIVE	The aim of this investigation was to determine whether the time between an emergency call and beginning of cardiopulmonary resuscitation ( CPR ) could be shortened using a simple protocol and whether a relationship exists between the intensity of phone contact between dispatcher and caller and if this improves the results .
+METHODS	In known cases of unconsciousness , group 1 ( 45 persons ) received short CPR instructions via the phone , where the dispatcher was on the phone for continuous advice until emergency services arrived .
+METHODS	Group 2 ( 45 persons ) received identical phone instructions like group 1 , but the phone call was terminated by the dispatcher after the information was provided .
+METHODS	Group 3 ( 29 persons ) only received instructions to start CPR .
+RESULTS	On average , all test persons in group 1 started reanimation after 68.033.5 s , in group 2 after 68.325.2 s , and in group 3 after 64.934.4 s.
+RESULTS	The compression frequency on average was 98.3 / min in group 1 , 84.8 / min in group 2 , and 85.2 / min in group 3 ; therefore , all groups reached an average frequency of > 80/min .
+RESULTS	The correct compression depth was achieved by 47.8 % of test persons in group 1 , by 44.2 % in group 2 , and by 30.2 % in group 3 .
+RESULTS	All volunteers felt well supported .
+RESULTS	Of the 90 people , 70 did not feel that they were missing instructions .
+CONCLUSIONS	There were no significant differences between the groups regarding the target variables .
+CONCLUSIONS	The results show that already extremely short instructions or advice by the dispatcher to start CPR is sufficient to encourage bystanders to give assistance in an emergency .
+CONCLUSIONS	Continuous support over the phone does not appear to be necessary .
+

@@ -1,0 +1,15 @@
+25243647
+OBJECTIVE	To examine whether 12 weeks of treatment with a dipeptidyl peptidase-4 ( DPP-4 ) inhibitor , sitagliptin , influences the insulin secretion induced by glucose , glucose-dependent insulinotropic polypeptide ( GIP ) and glucagon-like peptide-1 ( GLP-1 ) during a hyperglycaemic clamp in patients with type 2 diabetes ( T2DM ) .
+METHODS	A randomized , double-blind , placebo-controlled study was conducted over 12 weeks , during which 25 patients with T2DM completed treatment with either sitagliptin ( 100mg once daily ) or placebo as add-on therapy to metformin [ sitagliptin group ( n = 12 ) : meanstandard error of the mean ( s.e.m. ) age 542.5 years , means.e.m .
+METHODS	HbA1c 7.80.2 % ; placebo group ( n = 13 ) : means.e.m .
+METHODS	age : 573.0 years , means.e.m .
+METHODS	HbA1c 7.90.2 % ] .
+METHODS	In weeks 1 and 12 , the patients underwent three 2-h 15-mM hyperglycaemic clamp experiments with infusion of either saline , GLP-1 or GIP .
+METHODS	- cell function was evaluated according to first-phase , second-phase , incremental and total insulin and C-peptide responses .
+RESULTS	In the sitagliptin group , the mean HbA1c concentration was significantly reduced by 0.9 % ( p = 0.01 ) .
+RESULTS	The total - cell response during GIP infusion improved significantly from week 1 to week 12 , both within the sitagliptin group ( p = 0.004 ) and when compared with the placebo group ( p = 0.04 ) .
+RESULTS	The total - cell response during GLP-1 infusion was significantly higher ( p = 0.001 ) when compared with saline and GIP infusion , but with no improvement from week 1 to week 12 .
+RESULTS	No significant changes in - cell function occurred in the placebo group .
+CONCLUSIONS	Treatment with the DPP-4 inhibitor sitagliptin over 12 weeks in patients with T2DM partially restored the lost insulinotropic effect of GIP , whereas the preserved insulinotropic effect of GLP-1 was not further improved .
+CONCLUSIONS	A gradual enhancement of the insulinotropic effect of GIP , therefore , possibly contributes to the antidiabetic actions of DPP-4 inhibitors .
+

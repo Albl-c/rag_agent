@@ -1,0 +1,11 @@
+24760248
+OBJECTIVE	To investigate whether magnesium oxide reduces the interfraction motion of the prostate and the amount of rectal filling and rectal gas , which influences prostate position during radiotherapy for prostate cancer .
+METHODS	From December 2008 to February 2010 , 92 prostate cancer patients scheduled for intensity-modulated radiotherapy ( 77 Gy in 35 fractions ) using fiducial marker-based position verification were randomly assigned to receive magnesium oxide ( 500 mg twice a day ) or placebo during radiotherapy .
+METHODS	In a previous study , we investigated the effect on intrafraction motion and did not find a difference between the treatment arms .
+METHODS	Here , we compared the interfraction prostate motion between the two treatment arms as well as the amount of rectal filling and rectal air pockets using pretreatment planning computed tomography and magnetic resonance imagingscans .
+RESULTS	There was no statistically significant difference between the treatment arms in translation and rotation of the prostate between treatment fractions , except for the rotation around the cranial caudal axis .
+RESULTS	However , the difference was less than 1 and therefore considered not clinically relevant .
+RESULTS	There was no significant difference in the amount of rectal filling and rectal air pockets between the treatment arms .
+CONCLUSIONS	Magnesium oxide is not effective in reducing the interfraction prostate motion or the amount of rectal filling and rectal gas during external-beam radiotherapy .
+CONCLUSIONS	Therefore , magnesium oxide is not recommended in clinical practice for these purposes .
+

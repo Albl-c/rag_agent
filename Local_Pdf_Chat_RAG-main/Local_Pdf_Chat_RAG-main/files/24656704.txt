@@ -1,0 +1,12 @@
+24656704
+OBJECTIVE	This is a controlled , prospective study which compares the effects of a low-dose heat patch for self-medication on the reduction of pain symptoms in dysmenorrhea .
+METHODS	The sample group included female sophomore students studying at a university in Istanbul , Turkey , between 2007 and 2008 .
+METHODS	These female participants completed the Dysmenorrhea Identification Form to determine the sample group , and a total of 193 female students possessed the eligible criteria .
+METHODS	The research control group consisted of 66 patients , the analgesia group consisted of 61 , and the heat patch group consisted of 66 .
+METHODS	The control group did not use any treatments , while the self-medication group used analgesic medication ( single dose ) , and the heat patch group applied a heat patch on the lower abdomen , against the skin , for an application period of 2 menstrual cycles .
+METHODS	Using a visual analog scale ( VAS ) , the pain severity was recorded at the baseline , after 4 hours of intervention , and after 8 hours of intervention .
+METHODS	The data were examined using ANOVA .
+RESULTS	There were significant differences between the groups in terms of pain severity after 8 hours of application ( P < .001 ) .
+RESULTS	All groups had similar pain levels at baseline and during the fourth and eighth hours , with no significant differences between the groups during the first and the second menstrual cycles ( P > .05 ) .
+CONCLUSIONS	The authors conclude that the heat patch is an effective method for reducing dysmenorrhea .
+

@@ -1,0 +1,18 @@
+24807604
+BACKGROUND	Dyschezia is a defecatory disorder that places a heavy burden on a patient 's quality of life .
+BACKGROUND	Biofeedback is the recommended treatment in most cases .
+OBJECTIVE	The objective of our study was to test whether a CO2-releasing suppository for patients with dyschezia could be effective in improving biofeedback training results .
+METHODS	A randomized , double-blind , multicenter , placebo-controlled study was conducted in patients ( 18-75 years of age ) with dyschezia defined according to the modified Rome III criteria .
+METHODS	Patients were randomly assigned to either a CO2-releasing suppository or placebo suppository once per day for 21 days .
+METHODS	This was a multicenter trial .
+METHODS	A total of 122 patients were randomly assigned ( 62 intervention group and 60 placebo group ) .
+METHODS	The primary end point was the change from day 0 to day 21 in intensity of symptoms on the basis of a self-assessed dyschezia using a visual analog scale ( range , 0-100 ) .
+METHODS	Analyses were performed using intention-to-treat principles .
+RESULTS	A greater reduction from baseline to day 21 in symptom visual analog scale score was observed in the intervention group ( -41.3 mm ) than in the control group ( -22.3 mm ) .
+RESULTS	Some secondary efficacy parameters improved more in the intervention group , including the percentage of patients who improved 50 % , symptom intensity over 21 days , stool stains on underwear or pads , and need to practice manual maneuvers to facilitate defecation at day 21 .
+RESULTS	At day 21 , rectal sensitivity in the intervention group ( 31.4 mL ) was lower than in the control group ( 39.1 mL ) .
+CONCLUSIONS	There was a lower number of patients recruited than planned by the protocol .
+CONCLUSIONS	The sponsor stopped the trial before the inclusion of 306 participants , with no intermediate analysis .
+CONCLUSIONS	In addition , the main analysis conducted on the full analysis set population could have led to a statistical bias .
+CONCLUSIONS	The results of this multicenter trial demonstrate the added benefits of a CO2-releasing suppository in patients with dyschezia who were treated by anorectal biofeedback training .
+

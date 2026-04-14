@@ -1,0 +1,12 @@
+26467136
+BACKGROUND	Classical laparoscopic cholecystectomy involves four ports while most novel ` single port ' technique only requires one incision on the abdominal wall .
+BACKGROUND	This technique is thought to decrease surgical trauma and improve cosmesis although there are reports pointing out that classical laparoscopic cholecystectomy is also feasible in terms of cosmesis .
+OBJECTIVE	In this study we tried to determine if there are certain advantages in quality of life after single port surgery which would justify its utilization instead of classical laparoscopic cholecystectomy .
+METHODS	This is aprospective randomized study which enrolled 30 patients randomized either into classical laparoscopic cholecystectomy or single port surgery .
+METHODS	The primary endpoint was patient satisfaction after surgery .
+METHODS	This was assessed with short form 36 and gastrointestinal quality of life index ( first preoperatively and then 3months postoperatively ) and avisual analogue scale on the first and seventh days .
+RESULTS	There was not astatistically significant difference between groups in the emotional role , social functions , mental health , vitality and general health subscales of short form 36 .
+RESULTS	At the end of 12 weeks , both groups demonstrated increases in the gastrointestinal and social subscales of the gastrointestinal quality of life index .
+RESULTS	There was not astatistically significant difference between groups when the visual analogue scale scores on first and seventh days were compared .
+CONCLUSIONS	The equal length of hospitalization , patient quality of life and pain perception and the longer operative times , high likelihood of incisional hernia and surgical site infection call into question the utilization of single port surgery , as it does not seem to confer an advantage over classical laparoscopic cholecystectomy .
+

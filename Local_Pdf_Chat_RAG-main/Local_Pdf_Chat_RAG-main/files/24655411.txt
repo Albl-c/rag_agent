@@ -1,0 +1,13 @@
+24655411
+BACKGROUND	Recent studies have assessed the therapeutic potential and drawbacks of mesenchymal stem cells ( MSCs ) .
+BACKGROUND	The adverse reactions of intravenous transplantation of bone marrow ( BM ) - derived MSCs were examined at varying doses and frequencies of administration .
+BACKGROUND	Nine healthy beagle dogs were purchased from a commercial laboratory .
+BACKGROUND	The dogs were distributed equally ( n = 3 per group ) and randomly into three groups .
+BACKGROUND	All dogs received allogeneic BM-derived MSCs : 210 once ( group A ) , 210 once ( group B ) , and 210 for three consecutive days ( group C ) .
+BACKGROUND	Various laboratory examinations , multi-detector computed tomography features and histopathology were evaluated to clarify the clinical and diagnostic features of adverse reactions of MSCs administration , prior to receiving MSCs ( pre procedure ) and on days 1 , 3 , and 7 post transplantation .
+RESULTS	Only one dog had clinical signs during and after MSCs transplantation .
+RESULTS	Dogs receiving 210 MSCs showed increased numbers of lymphocytes but the total white blood cell counts were not elevated ( P < 0.01 ) .
+RESULTS	Multi-detector computed tomography ( MDCT ) revealed pulmonary parenchymal changes in one dog and histopathologic examination revealed pulmonary parenchymal edema and hemorrhage in four dogs .
+RESULTS	The presence of pulmonary thromboembolism was not detected in either examination .
+CONCLUSIONS	We considered the presence of pulmonary edema and hemorrhage as possible adverse reactions after intravenous MSCs transplantation ; however these results should be cautiously interpreted .
+

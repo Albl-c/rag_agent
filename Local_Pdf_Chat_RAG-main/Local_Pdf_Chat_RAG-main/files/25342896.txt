@@ -1,0 +1,13 @@
+25342896
+BACKGROUND	Aging involves a progressive reduction of respiratory muscle strength as well as muscle strength .
+OBJECTIVE	Compare the effects of resistance training volume on the maximum inspiratory pressure ( MIP ) , maximum expiratory pressure ( MEP ) , functional performance , and muscle strength in elderly women .
+METHODS	Thirty elderly women were randomly assigned to a group performing either single sets ( 1-SET ) or three sets ( 3-SET ) of exercises .
+METHODS	The sit-to-stand test , MIP , MEP , and muscle strength were assessed before and after 24 training sessions .
+METHODS	Progressive resistance training was performed two times per week for a total of 8-12 repetitions , using the main muscle groups of the upper and lower limbs .
+RESULTS	The main results showed that the participants significantly increased their MEP ( P < 0.05 ; 1-SET : 34.6 % ; 3-SET : 35.8 % ) and MIP ( P < 0.05 ; 1-SET : 13.7 % ; 3-SET : 11.2 % ) .
+RESULTS	Both groups also improved in the sit-to-stand test ( P < 0.05 ; 1-SET : 10.6 % ; 3-SET : 17.1 % ) .
+RESULTS	After 24 training sessions , muscle strength also significantly increased ( P < 0.0001 ; 40 % -80 % ) in both groups .
+RESULTS	An intergroup comparison did not show any statistically significant differences between the groups in any of the parameters analyzed .
+CONCLUSIONS	Single - and multiple-set resistance training programs increased MIP , MEP , muscle strength , and sit-to-stand test performance in elderly women after 24 sessions of training .
+CONCLUSIONS	In conclusion , our results suggested that elderly women who are not in the habit of physical activity may start with single-set resistance training programs as a short-term strategy for the maintenance of health .
+

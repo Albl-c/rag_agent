@@ -1,0 +1,15 @@
+25588782
+OBJECTIVE	To estimate the efficacy of a probiotic yogurt compared to a pasteurised yogurt for the prevention of antibiotic-associated diarrhoea in children .
+METHODS	This was a multisite , randomised , double-blind , placebo-controlled clinical trial conducted between September 2009 and 2012 .
+METHODS	The study was conducted through general practices and pharmacies in Launceston , Tasmania , Australia .
+METHODS	Children ( aged 1-12years ) prescribed antibiotics , were randomised to receive 200g/day of either yogurt ( probiotic ) containing Lactobacillus rhamnosus GG ( LGG ) , Bifidobacterium lactis ( Bb-12 ) and Lactobacillus acidophilus ( La-5 ) or a pasteurised yogurt ( placebo ) for the same duration as their antibiotic treatment .
+RESULTS	Stool frequency and consistency were recorded for the duration of treatment plus 1week .
+RESULTS	Primary outcome was stool frequency and consistency , classified at different levels of diarrhoea severity .
+RESULTS	Due to the small number of cases of diarrhoea , comparisons between groups were made using Fisher 's exact analysis .
+RESULTS	72 children commenced and 70 children ( 36 placebo and 34 probiotic ) completed the trial .
+RESULTS	There were no incidents of severe diarrhoea ( stool consistency 6 , 3 stools/day for 2 consecutive days ) in the probiotic group and six in the placebo group ( Fisher 's exact p = 0.025 ) .
+RESULTS	There was also only one episode of minor diarrhoea ( stool consistency 5 , 2 stools/day for 2days in the probiotic group compared to 21 in the placebo group ( Fisher 's exact p < 0.001 ) .
+RESULTS	The probiotic group reported fewer adverse events ( 1 had abdominal pain , 1 vomited and 1 had headache ) than the placebo group ( 6 had abdominal pain , 4 had loss of appetite and 1 had nausea ) .
+CONCLUSIONS	A yogurt combination of LGG , La-5 and Bb-12 is an effective method for reducing the incidence of antibiotic-associated diarrhoea in children .
+BACKGROUND	Australian New Zealand Clinical Trials Registry ACTRN12609000281291 .
+

@@ -1,0 +1,12 @@
+25265151
+BACKGROUND	Reduced estimated glomerular filtration rate ( eGFR ) using the cystatin-C derived equations might be a better predictor of cardiovascular disease ( CVD ) mortality compared with the creatinine-derived equations , but this association remains unclear in elderly individuals .
+OBJECTIVE	The aims of this study were to compare the predictive values of the Chronic Kidney Disease Epidemiology Collaboration ( CKD-EPI ) - creatinine , CKD-EPI-cystatin C and CKD-EPI-creatinine-cystatin C eGFR equations for all-cause mortality and CVD events ( hospitalizationsmortality ) .
+METHODS	Prospective cohort study of 1165 elderly women aged > 70 years .
+METHODS	Associations between eGFR and outcomes were examined using Cox regression analysis .
+METHODS	Test accuracy of eGFR equations for predicting outcomes was examined using Receiver Operating Characteristic ( ROC ) analysis and net reclassification improvement ( NRI ) .
+RESULTS	Risk of all-cause mortality for every incremental reduction in eGFR determined using CKD-EPI-creatinine , CKD-EPI-cystatin C and the CKD-EPI-creatinine-cystatic C equations was similar .
+RESULTS	Areas under the ROC curves of CKD-EPI-creatinine , CKD-EPI-cystatin C and CKD-EPI-creatinine-cystatin C equations for all-cause mortality were 0.604 ( 95 % CI 0.561-0 .647 ) , 0.606 ( 95 % CI 0.563-0 .649 ; p = 0.963 ) and 0.606 ( 95 % CI 0.563-0 .649 ; p = 0.894 ) respectively .
+RESULTS	For all-cause mortality , there was no improvement in the reclassification of eGFR categories using the CKD-EPI-cystatin C ( NRI -4.1 % ; p = 0.401 ) and CKD-EPI-creatinine-cystatin C ( NRI -1.2 % ; p = 0.748 ) compared with CKD-EPI-creatinine equation .
+RESULTS	Similar findings were observed for CVD events .
+CONCLUSIONS	eGFR derived from CKD-EPI cystatin C and CKD-EPI creatinine-cystatin C equations did not improve the accuracy or predictive ability for clinical events compared to CKD-EPI-creatinine equation in this cohort of elderly women .
+

@@ -1,0 +1,12 @@
+24418670
+OBJECTIVE	To examine how the location where reading takes place and the availability of prior images can affect performance in breast test-set reading .
+METHODS	Under optimized viewing conditions , 10 expert screen readers each interpreted a reader-specific set of images containing 200 mammographic cases .
+METHODS	Readers , randomly divided into two groups read images under one of two pairs of conditions : clinical read with prior images and laboratory read with prior images ; laboratory read with prior images and laboratory read without prior images .
+METHODS	Region-of-interest ( ROI ) figure-of-merit ( FOM ) was analysed using JAFROC software .
+METHODS	Breast side-specific sensitivity and specificity were tested using Wilcoxon matched-pairs signed rank tests .
+METHODS	Agreement between pairs of readings was measured using Kendall 's coefficient of concordance .
+RESULTS	Group performances between test-set readings demonstrated similar ROI FOMs , sensitivity and specificity median values , and acceptable levels of agreement between pairs of readings were shown ( W = 0.75-0 .79 , p < 0.001 ) for both pairs of reading conditions .
+RESULTS	On an individual reader level , two readers demonstrated significant decreases ( p < 0.05 ) in ROI FOMs when prior images were unavailable .
+RESULTS	Reading location had an inconsistent impact on individual performance .
+CONCLUSIONS	Reading location and availability of prior images did not significantly alter group performance .
+

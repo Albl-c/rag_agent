@@ -1,0 +1,14 @@
+25776532
+BACKGROUND	Early , goal-directed therapy ( EGDT ) is recommended in international guidelines for the resuscitation of patients presenting with early septic shock .
+BACKGROUND	However , adoption has been limited , and uncertainty about its effectiveness remains .
+METHODS	We conducted a pragmatic randomized trial with an integrated cost-effectiveness analysis in 56 hospitals in England .
+METHODS	Patients were randomly assigned to receive either EGDT ( a 6-hour resuscitation protocol ) or usual care .
+METHODS	The primary clinical outcome was all-cause mortality at 90 days .
+RESULTS	We enrolled 1260 patients , with 630 assigned to EGDT and 630 to usual care .
+RESULTS	By 90 days , 184 of 623 patients ( 29.5 % ) in the EGDT group and 181 of 620 patients ( 29.2 % ) in the usual-care group had died ( relative risk in the EGDT group , 1.01 ; 95 % confidence interval [ CI ] , 0.85 to 1.20 ; P = 0.90 ) , for an absolute risk reduction in the EGDT group of -0.3 percentage points ( 95 % CI , -5.4 to 4.7 ) .
+RESULTS	Increased treatment intensity in the EGDT group was indicated by increased use of intravenous fluids , vasoactive drugs , and red-cell transfusions and reflected by significantly worse organ-failure scores , more days receiving advanced cardiovascular support , and longer stays in the intensive care unit .
+RESULTS	There were no significant differences in any other secondary outcomes , including health-related quality of life , or in rates of serious adverse events .
+RESULTS	On average , EGDT increased costs , and the probability that it was cost-effective was below 20 % .
+CONCLUSIONS	In patients with septic shock who were identified early and received intravenous antibiotics and adequate fluid resuscitation , hemodynamic management according to a strict EGDT protocol did not lead to an improvement in outcome .
+CONCLUSIONS	( Funded by the United Kingdom National Institute for Health Research Health Technology Assessment Programme ; ProMISe Current Controlled Trials number , ISRCTN36307479 . )
+

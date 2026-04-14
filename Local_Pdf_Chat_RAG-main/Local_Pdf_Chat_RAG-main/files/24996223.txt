@@ -1,0 +1,13 @@
+24996223
+BACKGROUND	To compare pain response outcomes for patients with spinal bone metastases treated with resistance training of the spinal musculature versus passive physical therapy during radiotherapy ( RT ) .
+METHODS	In this randomized trial , 60 consecutive patients were treated from September 2011 until March 2013 within one of the two groups : resistance training ( Arm A ) or passive physical therapy ( Arm B ) with thirty patients in each group during RT. .
+METHODS	The course of pain according to visual analog scale ( VAS ) , concurrent medication , and oral morphine equivalent dose ( OMED ) were assessed at baseline , three months , and six months after RT. .
+METHODS	Pain response was determined using International Bone Consensus response definitions .
+RESULTS	The course of VAS in the intervention group ( Arm A ) was significantly lower both during and after RT ( AUC , p < .001 ) .
+RESULTS	The use of analgetic medication showed the same result , with significantly fewer analgetics being necessary both during and after RT in arm A ( p < .001 ) .
+RESULTS	In the course of time , the OMED decreased in arm A , but increased in arm B.
+RESULTS	After 6 month , 72.2 % of patients in arm A , and 22.2 % in arm B were responders ( p = .014 ) .
+CONCLUSIONS	Our trial demonstrated that guided isometric resistance training of the paravertebral muscles can improve pain relief over a 6-months period in patients with stable spinal metastases .
+CONCLUSIONS	Importantly , the intervention was able to reduce OMED as well as concomitant pain medication .
+CONCLUSIONS	The trial is registered in Clinical trial identifier NCT 01409720 ( http://www.clinicaltrials.gov/ ) since 2nd of August 2011 .
+

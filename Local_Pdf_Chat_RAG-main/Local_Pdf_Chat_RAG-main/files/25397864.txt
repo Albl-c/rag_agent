@@ -1,0 +1,19 @@
+25397864
+BACKGROUND	Near-infrared ( NIR ) light therapy is purported to act as an ergogenic aid by enhancing the contractile function of skeletal muscle .
+BACKGROUND	Improving muscle function is a new avenue for research in the area of laser therapy ; however , very few researchers have examined the ergogenic effects of NIR light therapy and the influence it may have on the recovery process during rehabilitation .
+OBJECTIVE	To evaluate the ergogenic effect of NIR light therapy on skeletal muscle function .
+METHODS	Crossover study .
+METHODS	Controlled laboratory .
+METHODS	Thirty-nine healthy men ( n = 21 ) and women ( n = 18 ; age = 20.0 0.2 years , height = 169 2 cm , mass = 68.4 1.8 kg , body mass index = 23.8 0.4 kg/m ( 2 ) ) .
+METHODS	Each participant received active and sham treatments on the biceps brachii muscle on 2 separate days .
+METHODS	The order of treatment was randomized .
+METHODS	A class 4 laser with a cumulative dose of 360 J was used for the active treatment .
+METHODS	After receiving the treatment on each day , participants completed an elbow-flexion resistance-exercise protocol .
+METHODS	The dependent variables were elbow range of motion , muscle point tenderness , and strength ( peak torque ) .
+METHODS	Analysis of variance with repeated measures was used to assess changes in these measures between treatments at baseline and at follow-up , 48 hours postexercise .
+METHODS	Additionally , immediate strength loss postexercise was compared between treatments using a paired t test .
+RESULTS	Preexercise to postexercise strength loss for the active laser treatment , although small , was less than with the sham treatment ( P = .05 ) .
+CONCLUSIONS	Applied to skeletal muscle before resistance exercise , NIR light therapy effectively attenuated strength loss .
+CONCLUSIONS	Therefore , NIR light therapy may be a beneficial , noninvasive modality for improving muscle function during rehabilitation after musculoskeletal injury .
+CONCLUSIONS	However , future studies using higher treatment doses are warranted .
+

@@ -1,0 +1,15 @@
+25833732
+BACKGROUND	Developing and evaluating interventions for patients with age-associated disorders is a rising field in psychotherapy research .
+BACKGROUND	Its methodological challenges include the high between-subject variability and the wealth of influencing factors associated with longer lifetime .
+BACKGROUND	Latent change score modeling ( LCSM ) , a technique based on structural equation modeling , may be well suited to analyzing longitudinal data sets obtained in clinical trials .
+BACKGROUND	Here , we used LCSM to evaluate the antidepressant effect of a combined cognitive behavioral/cognitive rehabilitation ( CB/CR ) intervention in Alzheimer 's disease ( AD ) .
+METHODS	LCSM was applied to predict the change in depressive symptoms from baseline as an outcome of the CORDIAL study , a randomized controlled trial involving 201 patients with mild AD .
+METHODS	The participants underwent either the CORDIAL CB/CR program or standard treatment .
+METHODS	Using LCSM , the model best predicting changes in Geriatric Depression Scale scores was determined based on this data set .
+RESULTS	The best fit was achieved by a model predicting a decline in depressive symptoms between before and after testing .
+RESULTS	Assignment to the intervention group as well as female gender revealed significant effects in model fit indices , which remained stable at 6 - and 12-month follow-up examinations .
+RESULTS	The pre-post effect was pronounced for patients with clinically relevant depressive symptoms at baseline .
+CONCLUSIONS	LCSM confirmed the antidepressant effect of the CORDIAL therapy program , which was limited to women .
+CONCLUSIONS	The effect was pronounced in patients with clinically relevant depressive symptoms at baseline .
+CONCLUSIONS	Methodologically , LCSM appears well suited to analyzing longitudinal data from clinical trials in aged populations , by accounting for the high between-subject variability and providing information on the differential indication of the probed intervention .
+

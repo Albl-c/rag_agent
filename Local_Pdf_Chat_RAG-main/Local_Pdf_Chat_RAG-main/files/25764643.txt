@@ -1,0 +1,13 @@
+25764643
+OBJECTIVE	To study post-operative pain and blood loss after intraoperative periarticular injection with the multimodal drugs diclofenac , adrenaline , marcaine ( bupivacaine ) and morphine in total knee arthroplasty .
+METHODS	A prospective randomized controlled trial of knee osteoarthritis patients age more than 55 years undergoing total knee arthroplasty at Maharat Nakhon Ratchasima hospital from January 2011 through June 2012 was performed .
+METHODS	A group receiving intra-operative periarticular injections was compared to a control group receiving no injections .
+METHODS	Half of a group of forty-two patients , 2 males and 40 females , average age 67.9 years ( range 57-84 years ) , were randomly assigned to receive the periarticular injection ( the injection group ) , the others to the control group .
+METHODS	Pain was measured by two methods : visual analog score at 6 , 12 , 24 and 48 hours post-operation and by patient controlled analgesia ( PCA ) measuring the daily amount of intravenous morphine used .
+METHODS	The amount of blood loss post operation ( in the redivac drain ) , degree of knee flexion , time to onset of assisted ambulation , length of hospital stay and any complications were also analyzed .
+RESULTS	The mean VAS at 6 and 12 hours post operation of the injection group were 2.67 and 2.48 , whereas the values for the control group were 6.10 and 4.95 , respectively ( p < 0.05 ) .
+RESULTS	Mean quantities of morphine used by PCA by the injection group during the first day was 9.43 mg , significantly lower than the 18.81 mg used by the control group .
+RESULTS	Average blood loss of the injection group at 263.8 ml was also significantly below the 362.1 ml of the control group ( p < 0.05 ) .
+RESULTS	The degree of knee flexion , time to onset of assist ambulation , length of hospital stay and complications , however were not significantly different between the groups .
+CONCLUSIONS	Multimodal drugs , periarticular injections consisting of diclofenac , adrenaline , Marcaine plus a patient controled anesthetic machine ( PCA ) with morphine can significantly reduce post-operative pain and blood loss in total knee arthroplasty without significant adverse effects .
+

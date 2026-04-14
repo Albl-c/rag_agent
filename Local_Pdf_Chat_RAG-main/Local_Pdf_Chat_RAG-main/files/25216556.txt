@@ -1,0 +1,15 @@
+25216556
+BACKGROUND	Repetitive transcranial magnetic stimulation ( rTMS ) is a noninvasive tool for modulating cortical activity .
+OBJECTIVE	In this pilot study , we evaluated the effects of high frequency rTMS applied over the right inferior frontal gyrus ( IFG ) on cognitive functions in patients with amnestic mild cognitive impairment ( MCI ) or incipient dementia due to Alzheimer 's disease ( AD ) .
+METHODS	Ten patients ( 6 men ; 4 women , mean age of 72 8 years ; MMSE 23 3.56 ) were enrolled in a randomized , placebo-controlled study with a crossover design .
+METHODS	All participants received 2 sessions of 10 Hz rTMS over the non-dominant right hemisphere in random order : IFG ( active stimulation site ) and vertex ( control stimulation site ) .
+METHODS	Intensities were adjusted to 90 % of resting motor threshold .
+METHODS	A total of 2250 pulses were applied in a session .
+METHODS	The Trail Making Test ( TMT ) , the Stroop test , and the complex visual scene encoding task ( CVSET ) were administered before and immediately after each session .
+METHODS	The Wilcoxon paired test was used for data analysis .
+RESULTS	Stimulation applied over the IFG induced improvement in the TMT parts A ( p = 0.037 ) and B ( p = 0.049 ) .
+RESULTS	No significant changes were found in the Stroop test or the CVSET after the IFG stimulation .
+RESULTS	We observed no significant cognitive aftereffects of rTMS applied over the vertex .
+CONCLUSIONS	High frequency rTMS of the right IFG induced significant improvement of attention and psychomotor speed in patients with MCI/mild dementia due to AD .
+CONCLUSIONS	This pilot study is part of a more complex protocol and ongoing research .
+

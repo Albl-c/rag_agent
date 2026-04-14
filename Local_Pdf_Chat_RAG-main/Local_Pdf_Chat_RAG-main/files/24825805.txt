@@ -1,0 +1,12 @@
+24825805
+OBJECTIVE	To compare the efficacy and safety of intramuscular meperidine injection with periprostatic nerve block ( PNB ) during transrectal ultrasound-guided prostate biopsy .
+METHODS	This study was carried out from July 2010 to June 2012 at the First Affiliated Hospital of Fujian Medical University , Fuzhou , Fujian , China .
+METHODS	This controlled , double-blinded , randomized study included 186 patients .
+METHODS	These patients were randomly assigned to 3 treatment groups : PNB by injection 10 minutes prior to the prostate biopsy ; intramuscular meperidine injection administered 30 minutes before the biopsy , and a control group ( n = 62 , each ) .
+METHODS	At the time of ultrasound probe insertion , during biopsy , and 30 minutes after biopsy , patients graded their level of pain on a 10-point visual analog scale ( VAS ) .
+RESULTS	There was no statistical difference in clinical features of the 3 groups .
+RESULTS	The patients administered meperidine had the minimum mean VAS score during probe insertion .
+RESULTS	During the prostate biopsy , there was no significant difference in VAS scores between patients in the PNB and meperidine groups , and both were significantly lower than that of the control group .
+RESULTS	The VAS scores recorded 30 minutes after biopsy were similar among the 3 groups .
+CONCLUSIONS	Intramuscular meperidine injection is a safe and effective analgesic for use during transrectal ultrasound-guided prostate biopsy , and provides better analgesia than PNB during the probe insertion .
+

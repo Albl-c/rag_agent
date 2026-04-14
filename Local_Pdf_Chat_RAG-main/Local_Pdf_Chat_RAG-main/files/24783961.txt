@@ -1,0 +1,15 @@
+24783961
+BACKGROUND	Improving nutrition and physical activity behaviors associated with childhood obesity are significant national public health goals .
+BACKGROUND	Energy Balance for Kids with Play ( EB4K with Play ) , developed through a partnership between the Academy of Nutrition and Dietetics Foundation and Playworks , is a multi-component school-based intervention designed to address youth 's nutrition and physical activity behaviors .
+BACKGROUND	This article describes the EB4K with Play intervention and evaluation study and presents the baseline data .
+METHODS	The evaluation is a 2-year cluster-randomized design targeting third - to fifth-grade students enrolled in a low-income , urban school district in northern California .
+METHODS	Six schools were recruited to participate .
+METHODS	Four were randomized to the intervention group and two into a control group .
+METHODS	Baseline student-level data pertaining to nutrition , physical activity , fitness , and BMI were collected in the fall of 2011 .
+METHODS	The EB4K with Play program , which includes direct-to-student nutrition and physical activity interventions , a school wellness component , and parent/community partner outreach components , began immediately after baseline data collection .
+RESULTS	An ethnically diverse sample of students ( n = 844 ) was recruited to participate in the study .
+RESULTS	Baseline data showed a higher percent of eligibility for free and reduced-price school lunch and higher rates of obesity/overweight than the California state averages .
+RESULTS	Fitness levels and levels of moderate-to-vigorous physical activity were comparable to state averages .
+CONCLUSIONS	End-point data will be collected after 2 years of the intervention .
+CONCLUSIONS	The findings from this study should help guide future efforts to design effective intervention programs to support the prevention of pediatric obesity .
+

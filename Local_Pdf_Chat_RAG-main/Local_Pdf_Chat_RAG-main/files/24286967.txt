@@ -1,0 +1,12 @@
+24286967
+BACKGROUND	Heavy alcohol consumption in HIV patients is an increasing health concern .
+BACKGROUND	Applying the drinking motivational model to HIV primary care patients , drinking motives ( drinking to cope with negative affect , for social facilitation , and in response to social pressure ) were associated with alcohol consumption at a baseline interview .
+BACKGROUND	However , whether these motives predict continued heavy drinking or alcohol dependence in this population is unknown .
+METHODS	Participants were 254 heavy-drinking urban HIV primary care patients ( 78.0 % male ; 94.5 % African American or Hispanic ) participating in a randomized trial of brief drinking-reduction interventions .
+METHODS	Drinking motive scales , as well as measures of alcohol consumption and alcohol dependence , were administered at baseline .
+METHODS	Consumption and dependence measures were re-administered at the end of treatment two months later .
+METHODS	Regression analyses tested whether baseline drinking motive scale scores predicted continued heavy drinking and alcohol dependence status at the end of treatment , and whether motives interacted with treatment condition .
+RESULTS	Baseline drinking to cope with negative affect predicted continued heavy drinking ( p < 0.05 ) and alcohol dependence , the latter in both in the full sample ( adjusted odds ratio [ AOR ] = 2.14 ) and among those with baseline dependence ( AOR = 2.52 ) .
+RESULTS	Motives did not interact with treatment condition in predicting alcohol outcomes .
+CONCLUSIONS	Drinking to cope with negative affect may identify HIV patients needing targeted intervention to reduce drinking , and may inform development of more effective interventions addressing ways other than heavy drinking to cope with negative affect .
+

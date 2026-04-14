@@ -1,0 +1,15 @@
+24899755
+OBJECTIVE	To compare pregabalin versus placebo and pramipexole for reducing restless legs syndrome ( RLS ) - related sleep disturbance .
+METHODS	Randomized , double-blinded , crossover trial .
+METHODS	Twenty-three US sleep centers .
+METHODS	Eighty-five individuals with moderate to severe idiopathic RLS and associated sleep disturbance .
+METHODS	Participants were randomized across 6 treatment sequences comprising three 4-week periods on pregabalin 300 mg/day ( n = 75 ) , pramipexole 0.5 mg/day ( n = 76 ) , or placebo ( n = 73 ) .
+RESULTS	Polysomnography was conducted over 2 nights at the end of each period .
+RESULTS	Primary ( wake after sleep onset [ WASO ] , pregabalin vs placebo ) and key secondary endpoints were analyzed for statistical significance , with descriptive statistics for other endpoints .
+RESULTS	Pregabalin improved sleep maintenance , demonstrated by reductions in WASO ( -27.1 min vs placebo [ P < 0.0001 ] ; -26.9 vs pramipexole ) and number of awakenings after sleep onset ( -2.7 vs placebo ; -7.9 vs pramipexole [ P < 0.0001 ] ) by polysomnography , and an increase in subjective total sleep time ( 30.8 min vs placebo [ P < 0.0001 ] ; 26.8 vs pramipexole ) .
+RESULTS	Pregabalin also increased slow wave sleep duration ( 20.9 min vs placebo ; 32.1 vs pramipexole [ P < 0.0001 ] ) .
+RESULTS	Reduction in periodic limb movement arousal index ( PLMAI ) with pregabalin was similar to pramipexole and greater than placebo ( -3.7 PLMA/h [ P < 0.0001 ] ) , although reduction in total PLM in sleep was less than for pramipexole .
+CONCLUSIONS	This study demonstrated improvements in objective and subjective measures of sleep maintenance and sleep architecture with pregabalin compared with placebo and pramipexole .
+CONCLUSIONS	Effects of pregabalin on periodic limb movement arousal index were comparable to pramipexole .
+BACKGROUND	ClinicalTrials.gov identifier , NCT00991276 ; http://clinicaltrials.gov/show/NCT00991276 .
+

@@ -1,0 +1,17 @@
+25398374
+OBJECTIVE	Tofacitinib is an oral Janus kinase ( JAK ) inhibitor for the treatment of rheumatoid arthritis ( RA ) .
+OBJECTIVE	The pathways affected by tofacitinib and the effects on gene expression in situ are unknown .
+OBJECTIVE	Therefore , tofacitinib effects on synovial pathobiology were investigated .
+METHODS	A randomised , double-blind , phase II serial synovial biopsy study ( A3921073 ; NCT00976599 ) in patients with RA with an inadequate methotrexate response .
+METHODS	Patients on background methotrexate received tofacitinib 10mg twice daily or placebo for 28days .
+METHODS	Synovial biopsies were performed on Days -7 and 28 and analysed by immunoassay or quantitative PCR .
+METHODS	Clinical response was determined by disease activity score and European League Against Rheumatism ( EULAR ) response on Day 28 in A3921073 , and at Month 3 in a long-term extension study ( A3921024 ; NCT00413699 ) .
+RESULTS	Tofacitinib exposure led to EULAR moderate to good responses ( 11/14 patients ) , while placebo was ineffective ( 1/14 patients ) on Day 28 .
+RESULTS	Tofacitinib treatment significantly reduced synovial mRNA expression of matrix metalloproteinase ( MMP ) -1 and MMP-3 ( p < 0.05 ) and chemokines CCL2 , CXCL10 and CXCL13 ( p < 0.05 ) .
+RESULTS	No overall changes were observed in synovial inflammation score or the presence of T cells , B cells or macrophages .
+RESULTS	Changes in synovial phosphorylation of signal transducer and activator of transcription 1 ( STAT1 ) and STAT3 strongly correlated with 4-month clinical responses ( p < 0.002 ) .
+RESULTS	Tofacitinib significantly decreased plasma CXCL10 ( p < 0.005 ) at Day 28 compared with placebo .
+CONCLUSIONS	Tofacitinib reduces metalloproteinase and interferon-regulated gene expression in rheumatoid synovium , and clinical improvement correlates with reductions in STAT1 and STAT3 phosphorylation .
+CONCLUSIONS	JAK1-mediated interferon and interleukin-6 signalling likely play a key role in the synovial response .
+BACKGROUND	NCT00976599 .
+

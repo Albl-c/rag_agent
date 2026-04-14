@@ -1,0 +1,16 @@
+25337948
+OBJECTIVE	To compare treatment effects when patients with insomnia and depression receive treatment for either insomnia or depression .
+METHODS	A 9-w randomized controlled trial with 6 - and 12-mo follow-up .
+METHODS	Internet Psychiatry Clinic , Stockholm , Sweden .
+METHODS	Forty-three adults in whom comorbid insomnia and depression were diagnosed , recruited via media and assessed by psychiatrists .
+METHODS	Guided Internet-delivered cognitive behavior therapy ( ICBT ) for either insomnia or depression .
+RESULTS	Primary outcome measures were symptom self-rating scales ( Insomnia Severity Index [ ISI ] and the Montgomery sberg Depression Rating Scale [ MADRS-S ] ) , assessed before and after treatment with follow-up after 6 and 12 mo. .
+RESULTS	The participants ' use of sleep medication and need for further treatment after completion of ICBT was also investigated .
+RESULTS	The insomnia treatment was more effective than the depression treatment in reducing insomnia severity during treatment ( P = 0.05 ) , and equally effective in reducing depression severity .
+RESULTS	Group differences in insomnia severity were maintained during the 12-mo follow-up period .
+RESULTS	Post treatment , participants receiving treatment for insomnia had significantly less self-rated need for further insomnia treatment ( P < 0.001 ) and used less sleep medication ( P < 0.05 ) than participants receiving treatment for depression .
+RESULTS	The need for depression treatment was similar in both groups .
+CONCLUSIONS	In this study , Internet-delivered treatment with cognitive behavior therapy ( ICBT ) for insomnia was more effective than ICBT for depression for patients with both diagnoses .
+CONCLUSIONS	This indicates , in line with previous research , that insomnia when comorbid with depression is not merely a symptom of depression , but needs specific treatment .
+BACKGROUND	The trial was registered at Clinicaltrials.gov , registration ID : NCT01256099 .
+

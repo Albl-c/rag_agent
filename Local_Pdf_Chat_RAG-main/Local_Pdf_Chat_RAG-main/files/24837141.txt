@@ -1,0 +1,15 @@
+24837141
+OBJECTIVE	This study aimed to evaluate the effectiveness of a static ground reaction ankle foot orthosis and strapping system on improving gait parameters in children with spastic diplegic cerebral palsy .
+METHODS	The current study was conducted at the physical therapy faculty of Cairo University , Egypt .
+METHODS	This study included 57 children of both sexes , aged 6 to 8 years .
+METHODS	Three-armed randomized control trial .
+METHODS	Participants in all groups received a traditional neuro-developmental physical therapy program that included standing and gait training exercises .
+METHODS	Children in group A performed the training program without any orthotic management , in group B with the TheraTogs strapping system , and in group C with the TheraTogs strapping system and static ground reaction ankle foot orthoses .
+METHODS	Children underwent treatment for two hours daily , except on weekends , for twelve successive weeks .
+METHODS	Gait speed , cadence , stride length , and hip and knee flexion angles in the mid-stance phase were evaluated pre-and post-treatment using a three-dimensional motion analysis system ( pre-reflex system ) .
+RESULTS	Statistically significant differences were recorded among the three groups post-treatment in gait speed , cadences , and stride length .
+RESULTS	The P-values for these variable differences were 0.03 , 0.011 , and 0.001 respectively .
+RESULTS	Significant post-treatment differences were also recorded for bilateral hip-and knee-flexion angles .
+RESULTS	For all measured parameters , better significant results were registered for group C than for the other groups .
+CONCLUSIONS	Orthotic intervention composed of a static ground reaction ankle foot orthosis combined with the TheraTogs strapping system improves gait more than conventional treatment with or without TheraTogs in children with spastic diplegic cerebral palsy .
+

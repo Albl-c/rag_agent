@@ -1,0 +1,17 @@
+24314835
+OBJECTIVE	To determine if volunteers can simulate and reproduce 3 types of neurologic field defects : hemianopia , quadrantanopia , and central scotoma .
+METHODS	Cross-sectional study .
+METHODS	Thirty healthy volunteers new to perimetry ( including automated perimetry ) .
+METHODS	After informed consent , volunteers were randomized to 1 of the 3 visual field defects listed above .
+METHODS	All visual field testing was performed on the right eye using the Humphrey Field Analyzer ( HFA ; Carl Zeiss Meditec , Dublin , CA ) SITA Fast 24-2 protocol .
+METHODS	Each volunteer was provided with standard new patient instructions and was shown a diagram of the defect to be simulated .
+METHODS	Two sets of visual fields were performed on the right eye with 10 minutes between tests .
+METHODS	Three experts used the Ocular Hypertension Treatment Study reading center criteria and determined if the simulation was successful .
+METHODS	Proportion of volunteers able to simulate the assigned visual field .
+RESULTS	All 10 volunteers ( 100 % ) successfully simulated a hemianopia on the first and second fields .
+RESULTS	All 10 volunteers ( 100 % ) simulated a quadrantanopia on the first field and 9 ( 90 % ) did so on the second field .
+RESULTS	Eight volunteers ( 80 % ) successfully simulated a central scotoma in the first field and all 10 ( 100 % ) did so on in the second field .
+RESULTS	Reliability criteria were excellent .
+RESULTS	Forty-seven fields ( 78 % ) had 0 fixation losses , 48 ( 80 % ) had 0 false-positive results , and 44 ( 73 % ) had 0 false-negative results .
+CONCLUSIONS	It is easy to simulate reproducible and reliable neurologic field defects on automated perimetry using HFA .
+

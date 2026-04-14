@@ -1,0 +1,12 @@
+24833327
+BACKGROUND	Although high-dose N-acetylcysteine ( NAC ) has been suggested to reduce COPD exacerbations , it is unclear which category of patients with COPD would benefit most from NAC treatment .
+BACKGROUND	The objective of this study was to compare the effect of high-dose NAC ( 600 mg bid ) between high-risk and low-risk Chinese patients with COPD .
+METHODS	Patients with spirometry-confirmed stable COPD were randomized to treatment with either NAC 600 mg bid or placebo in addition to their usual treatments .
+METHODS	Patients were followed up every 16 weeks for a total of 1 year .
+METHODS	Further analysis was performed according to each patient 's exacerbation risk at baseline as defined by the current GOLD ( Global Initiative for Chronic Obstructive Lung Disease ) strategy to analyze the effect of high-dose NAC in high-risk and low-risk patients .
+RESULTS	Of the 120 patients with COPD randomized ( men , 93.2 % ; mean age , 70.8 0.74 years ; prebronchodilator FEV , 53.9 2.0 % ; baseline characteristics comparable between treatment groups ) , 108 ( NAC , 52 ; placebo , 56 ) completed the 1-year study .
+RESULTS	For high-risk patients ( n = 89 ) , high-dose NAC compared with placebo significantly reduced exacerbation frequency ( 0.85 vs 1.59 [ P = .019 ] and 1.08 vs 2.22 [ P = .04 ] at 8 and 12 months , respectively ) , prolonged time to first exacerbation ( P = .02 ) , and increased the probability of being exacerbation free at 1 year ( 51.3 % vs 24.4 % , P = .013 ) .
+RESULTS	This beneficial effect of high-dose NAC vs placebo was not significant in low-risk patients .
+CONCLUSIONS	High-dose NAC ( 600 mg bid ) for 1 year reduces exacerbations and prolongs time to first exacerbation in high-risk but not in low-risk Chinese patients with COPD .
+BACKGROUND	ClinicalTrials.gov ; No. : NCT01136239 ; URL : www.clinicaltrials.gov .
+

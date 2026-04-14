@@ -1,0 +1,12 @@
+25733652
+BACKGROUND	Although iron supplementation in malaria-free areas mostly reduces infectious morbidity , it can sometimes increase morbidity from infections as a result of the dependence of pathogenic microorganisms on iron .
+BACKGROUND	Supplementation with n-3 ( -3 ) long-chain polyunsaturated fatty acids ( LCPUFAs ) improved morbidity in several human studies .
+BACKGROUND	However , information on the combined effect of iron and n-3 LCPUFA supplementation on infectious morbidity is limited .
+OBJECTIVE	We determined whether n-3 LCPUFAs and iron supplementation , alone or in combination , affected absenteeism and illness in iron-deficient schoolchildren with low fish intake .
+METHODS	A total of 321 South African children ( aged 6-11 y ) with iron deficiency ( ID ) were randomly divided into 4 groups to receive 1 ) iron plus placebo , 2 ) a mixture of docosahexaenoic acid and eicosapentaenoic acid ( DHA/EPA ) plus placebo , 3 ) iron plus DHA/EPA , or 4 ) placebo plus placebo as oral supplements 4 times/wk for 8.5 mo. .
+METHODS	Morbidity was recorded , and iron-status indexes were measured .
+METHODS	The total phospholipid fatty acid composition of peripheral blood mononuclear cell membranes was analyzed in a subsample ( n = 130 ) .
+RESULTS	Iron supplementation increased the number of days with illness when all symptoms were considered ( B : 0.87 ; 95 % CI : 0.71 , 1.03 ) as well as illness that was specifically caused by respiratory symptoms ( B : 1.45 ; 95 % CI : 1.21 , 1.70 ) , whereas DHA/EPA reduced the number of days with illness at school ( B : -0.96 ; 95 % CI : -1.33 , -0.59 ) .
+RESULTS	The increases caused by iron were reduced to the levels seen in the placebo plus placebo group when iron was provided in combination with DHA/EPA as indicated by significant iron DHA/EPA interactions ( both P < 0.001 ) .
+CONCLUSIONS	Iron supplementation increased morbidity ( mostly respiratory ) in iron-deficient South African schoolchildren with low DHA/EPA intake , but when iron was given in combination with DHA/EPA , this effect was prevented .
+

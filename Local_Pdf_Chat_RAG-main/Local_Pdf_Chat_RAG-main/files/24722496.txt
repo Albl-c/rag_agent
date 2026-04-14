@@ -1,0 +1,11 @@
+24722496
+OBJECTIVE	INT131 besylate is a potent , nonthiazolidinedione , selective peroxisome proliferator-activated receptor ( PPAR ) modulator ( SPPARM ) designed to improve glucose metabolism while minimizing the side effects of full PPAR agonists .
+OBJECTIVE	This placebo-controlled study compared the efficacy and side effects of INT131 besylate versus 45 mg pioglitazone HCl in subjects with type 2 diabetes ( T2D ) .
+METHODS	This was a 24-week randomized , double-blind , placebo - and active-controlled study of 0.5-3 .0 mg INT131 versus 45 mg pioglitazone or placebo daily in 367 subjects with T2D on sulfonylurea or sulfonylurea plus metformin .
+METHODS	The primary efficacy analysis was the comparison of change from baseline to week 24 in hemoglobin A1c ( HbA1c ) across treatment groups .
+METHODS	Fluid status was assessed with a prospective scoring system for lower-extremity pitting edema .
+RESULTS	INT131 had a steep dose response for efficacy as measured by changes in HbA1c .
+RESULTS	After 24 weeks ' treatment , the 0.5-mg dose demonstrated minimal efficacy ( HbA1c -0.3 0.12 % ) and the 2-mg dose demonstrated near-maximal efficacy ( HbA1c -1.1 0.12 % ) , which was not statistically different from the efficacy of 45 mg pioglitazone ( HbA1c -0.9 0.12 % ; P < 0.01 for noninferiority ) .
+RESULTS	With the 1-mg dose , INT131 provided significant improvements in glycemic control ( HbA1c 0.8 0.12 ; P < 0.001 vs. placebo ) but with less edema , weight gain , and hemodilution than observed with 45 mg pioglitazone .
+CONCLUSIONS	INT131 demonstrated dose-dependent reductions in HbA1c , equivalent to 45 mg pioglitazone , but with less fluid accumulation and weight gain , consistent with its SPPARM design .
+

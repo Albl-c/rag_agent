@@ -1,0 +1,15 @@
+25429720
+BACKGROUND	Chronic thoracic pain after cardiac surgery is prevalent ( 11 to 56 % ) and may affect patients ' physical and mental health status .
+BACKGROUND	Despite its favorable pharmacokinetic and pharmacodynamic properties , high doses of remifentanil administered during surgery are reported to cause acute postoperative pain and increased requirements for analgesics .
+BACKGROUND	Recently , an association between remifentanil use and the incidence of chronic thoracic pain in the long term was also reported .
+BACKGROUND	Our objective is to investigate the influence of the intraoperative remifentanil on chronic postoperative pain in a prospective randomized controlled trial .
+METHODS	In this prospective , randomized , single-blind clinical trial , all patients ( N = 126 ) between 18 and 85 years undergoing cardiac surgery via sternotomy receive a continuous infusion of propofol together with intermittent intravenous fentanyl at predetermined times perioperatively .
+METHODS	Patients are randomized to receive either an additional continuous infusion of remifentanil ( 0.15 g ( -1 ) kgIBW ( -1 ) min ( -1 ) ) or additional fentanyl ( 200 to 500 g ) as needed during surgery.The primary end point is the prevalence of chronic thoracic pain 12 months after surgery .
+METHODS	Secondary end points include acute postoperative pain ; postoperative analgesic use ; chronic thoracic pain 3 and 6 months after surgery ; quality of life ( SF-12 ) at 3 , 6 and 12 months after surgery ; work productivity ; and use of health care .
+METHODS	In addition , thermal detection and pain thresholds are measured preoperatively , 3 days after surgery and 12 months after surgery using quantitative sensory testing ( QST ) .
+METHODS	Finally , the influence of several genetic variances on the different outcomes will be measured .
+CONCLUSIONS	Chronic thoracic pain is prevalent after cardiac surgery , and research is needed to minimize the risk of chronic persistent postoperative pain , which is an invalidating , long-term complication of surgery .
+CONCLUSIONS	The objective of this trial is to determine the influence of perioperative remifentanil on long-term pain outcomes for cardiac patients in a prospective randomized trial .
+CONCLUSIONS	The results may be used to optimize perioperative analgesia techniques and , thereby , improve quality of life after cardiac surgery .
+BACKGROUND	Clinicaltrials.gov NCT02031016 on 13 December 2013 .
+

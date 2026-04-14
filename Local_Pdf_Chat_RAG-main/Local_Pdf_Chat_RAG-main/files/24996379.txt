@@ -1,0 +1,18 @@
+24996379
+OBJECTIVE	There are scarce data regarding the impact of sphincterotome design on cannulation success .
+OBJECTIVE	We aimed to compare two different 5.5 Fr standard sphincterotomes to determine initial cannulation success .
+METHODS	Adult patients with naive papillae were enrolled in a prospective , randomized , crossover study .
+METHODS	Two different 5.5 Fr sphincterotomes preloaded with guidewire ( GW ) were used in two groups with 140 patients included per group .
+METHODS	A total of five papillary attempts and two pancreatic channel entries were allowed as maximum targets .
+METHODS	In a case of more than two pancreatic entries , a double GW technique was attempted before crossover .
+METHODS	If choledochal cannulation was not achieved within ten papillary attempts or more than four pancreatic entries despite crossover , access papillotomy was performed .
+METHODS	Successful biliary cannulation was the primary outcome .
+METHODS	Secondary outcomes were incidence of early complications and overall cannulation success .
+RESULTS	Higher initial cannulation success was achieved in group I compared with group II ( 88.5 vs. 77.1 % , p = 0.011 ) .
+RESULTS	The crossover and double GW techniques reduced the need for precut from 11.7 to 5.3 % .
+RESULTS	The overall cannulation success including precut for failed cases was 99.2 % ( group I ) and 98.5 % ( group II ) .
+RESULTS	Sphincterotome type , presence of crossover , and number of cannulation attempts were predictors of successful cannulation in multivariate analysis .
+CONCLUSIONS	There was a significant difference in cannulation success between two different 5.5 Fr sphincterotomes .
+CONCLUSIONS	The cannulation success was mainly governed by sphincterotome design which serves a proper spatial orientation during the procedure .
+CONCLUSIONS	The combined use of crossover and double GW techniques may substantially decrease precut necessity .
+

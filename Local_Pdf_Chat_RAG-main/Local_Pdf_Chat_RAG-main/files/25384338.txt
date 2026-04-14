@@ -1,0 +1,12 @@
+25384338
+BACKGROUND	Multiple phase-2 trials in men with biochemically-recurrent prostate cancer ( BRPC ) have assessed the impact of nonhormonal agents on PSA kinetics .
+BACKGROUND	We have previously demonstrated that changes in PSA kinetics correlate with metastasis-free survival ; however , it is unknown whether these changes also correlate with overall survival ( OS ) .
+METHODS	We performed a combined retrospective analysis of 146 men with BRPC treated on phase-2 trials using one of four investigational drugs : lenalidomide ( n = 60 ) , marimastat ( n = 39 ) , ATN-224 ( n = 22 ) and imatinib ( n = 25 ) .
+METHODS	We examined factors influencing OS , including within-subject changes in PSA kinetics ( PSA slope , PSA doubling time and PSA velocity ) , before and 6 months after treatment initiation .
+RESULTS	After a median follow-up of 83.1 months , 49 of 146 men had died .
+RESULTS	In univariate Cox regression analysis , two factors were associated with OS : baseline PSA velocity and change in PSA velocity on therapy .
+RESULTS	In a landmark multivariable model , stratified by study ( which controlled for age , Gleason score , type of local therapy and use of androgen-deprivation therapy prior to metastases ) , baseline PSA velocity and increase in PSA velocity on therapy remained independent predictors of OS .
+RESULTS	Median OS for men with an increase in PSA velocity on treatment was 115.4 months and was not reached for men with a decrease in PSA velocity ( hazard ratio = 0.47 , 95 % confidence interval 0.25-0 .88 ; P = 0.02 ) .
+CONCLUSIONS	This hypothesis-generating study suggests that within-subject changes in PSA velocity after initiation of nonhormonal therapy may correlate with OS in men with BRPC .
+CONCLUSIONS	If validated in prospective trials , change in PSA velocity may represent a reasonable intermediate end point for screening new agents in these patients .
+

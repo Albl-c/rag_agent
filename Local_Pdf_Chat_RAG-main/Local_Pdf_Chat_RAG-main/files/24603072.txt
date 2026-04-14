@@ -1,0 +1,13 @@
+24603072
+OBJECTIVE	Intravenous recombinant tissue-type plasminogen activator ( r-tPA ) , despite a risk of early symptomatic intracranial hemorrhage ( sICH ) , is of net clinical benefit to acute stroke patients .
+OBJECTIVE	We tested if predictive models could identify patients least likely to be harmed by sICH or those who gained no net benefit .
+METHODS	We used the Third International Stroke Trial ( IST-3 ) trial data set , an international , multicenter , open treatment randomized trial of 0.9 mg/kg r-tPA versus control in 3035 patients with acute ischemic stroke .
+METHODS	We compared the discrimination and calibration of previously developed predictive models for ICH and poststroke poor outcome and developed a new model using variables selected by systematic review .
+METHODS	We calculated the absolute and relative risk reduction of death or dependency with r-tPA in patients at a low , medium , or high predicted risk of sICH or poor functional outcome .
+RESULTS	Prediction models for sICH or poor outcome ( Hemorrhage After Thrombolysis [ HAT ] ; Sugar , Early Infarct Signs , Dense Artery , Age , National Institutes of Health ( NIH ) Stroke Score ( SEDAN ) ; Glucose Race Age Sex Pressure Stroke Severity [ GRASPS ] ; Stroke Thrombolytic Predictive Instrument ; Dense Artery , Rankin Score , Age , Glucose , Onset to Treatment Time , NIHSS [ DRAGON ] ; Totaled Health Risks in Vascular Events [ THRIVE ] ; our new model ; and a model with National Institutes of Health Stroke Scale and age ) had similar area under receiver operator characteristic curves ( AUROCC ) to predict sICH ( P for difference > 0.05 ) .
+RESULTS	The simplest model ( with covariates National Institutes of Health Stroke Scale and age ) predicted both sICH ( AUROCC , 0.63 ; 95 % CI , 0.58-0 .68 ) and poststroke poor functional outcome ( AUROCC , 0.80 ; 95 % CI , 0.77-0 .82 ) similarly to complex models .
+RESULTS	There was no evidence that the effect of r-tPA in patients at high predicted risk of sICH or poor functional outcome after stroke was less than in those at lower risk .
+CONCLUSIONS	There is a clinically relevant net positive effect of r-tPA in patients with acute stroke at a high predicted risk of sICH or poor functional outcome .
+BACKGROUND	http://www.controlled-trials.com .
+BACKGROUND	Unique identifier : ISRCTN25765518 .
+

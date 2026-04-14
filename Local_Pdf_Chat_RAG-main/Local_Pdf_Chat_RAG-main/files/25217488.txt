@@ -1,0 +1,16 @@
+25217488
+OBJECTIVE	To evaluate the usefulness of velocity ratio ( VR ) in patients with low gradient severe aortic stenosis ( LGSAS ) and preserved EF .
+BACKGROUND	LGSAS despite preserved EF represents a clinically challenging entity .
+BACKGROUND	Reliance on mean pressure gradient ( MPG ) may underestimate stenosis severity as has been reported in the context of paradoxical low flow , LGSAS .
+BACKGROUND	On the other hand , grading of stenosis severity by aortic valve area ( AVA ) may overrate stenosis severity due to erroneous underestimation of LV outflow tract ( LVOT ) diameter , small body size or inconsistencies in cut-off values for severe stenosis .
+BACKGROUND	We hypothesised that VR may have conceptual advantages over MPG and AVA , predict clinical outcomes and thereby be useful in the management of patients with LGSAS .
+METHODS	Patients from the prospective Simvastatin and Ezetimibe in Aortic Stenosis ( SEAS ) study with an AVA < 1.0 cm ( 2 ) , MPG40mmHg and EF55 % and asymptomatic at baseline were stratified according to VR with a cut-off value of 0.25 .
+METHODS	Outcomes were evaluated according to aortic valve-related events and cardiovascular death .
+RESULTS	Of 435 patients with LGSAS , 197 ( 45 % ) had VR < 0.25 suggesting severe and 238 ( 55 % ) had VR0 .25 suggesting non-severe stenosis .
+RESULTS	Aortic valve-related events ( mean follow-up 4214months ) were more frequent in patients with VR < 0.25 ( 57 % vs 41 % ; p < 0.001 ) as was cardiovascular death within the first 24months ( p < 0.05 ) .
+RESULTS	In multivariable Cox regression analysis , MPG was the strongest independent predictor of aortic valve events ( p < 0.001 ) followed by VR ( p < 0.02 ) .
+RESULTS	Adjusting AVA by VR increased predictive accuracy for aortic valve events ( area under the receiver operating curve 0.62 ( 95 % CI 0.57 to 0.67 ) vs 0.56 ( 95 % CI 0.51 to 0.61 ) for AVA , p = 0.02 ) with net reclassification improvement calculated at 0.36 ( 95 % CI 0.17 to 0.54 , p < 0.001 ) .
+RESULTS	VR did not improve the prediction of clinical events by MPG .
+CONCLUSIONS	In the difficult setting of LGSAS , VR shows a strong association with valve-related events and-although not outperforming MPG-may be particularly useful in guiding clinical management .
+BACKGROUND	NCT00092677 .
+

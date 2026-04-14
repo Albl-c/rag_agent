@@ -1,0 +1,12 @@
+24607046
+BACKGROUND	MP29-02 is a novel intranasal formulation of azelastine hydrochloride and fluticasone propionate ( FP ) in an advanced delivery system for the treatment of seasonal allergic rhinitis .
+OBJECTIVE	The objective of this study was to evaluate the long-term safety of MP29-02 in subjects with chronic allergic ( perennial ) or nonallergic ( vasomotor ) rhinitis .
+METHODS	This was a 1-year , randomized , open-label , active-controlled , parallel-group study in subjects with chronic allergic or nonallergic rhinitis .
+METHODS	A total of 612 subjects were randomized in a 2:1 ratio to ( 1 ) MP29-02 , one spray per nostril twice daily ( total daily doses of azelastine hydrochloride and FP were 548 mcg and 200 mcg , respectively ) ; or ( 2 ) FP , 2 sprays per nostril once daily ( total daily dose 200 mcg ) .
+METHODS	Safety and tolerability assessments were made at months 1 , 3 , 6 , 9 , and 12 .
+RESULTS	The incidence of treatment-related adverse events was low with both MP29-02 ( 9.4 % ) and FP ( 11.1 % ) , with no evidence of late-occurring adverse events .
+RESULTS	Nasal examinations showed no evidence of nasal mucosal ulcerations or septal perforations with MP29-02 , and the overall incidence of adverse findings was reduced as the study progressed .
+RESULTS	There were no unusual or unexpected ocular examination findings and no clinically important laboratory findings or clinically important differences between groups in fasting AM serum cortisol levels after 12 months of treatment .
+CONCLUSIONS	MP29-02 was well tolerated .
+CONCLUSIONS	There were no safety findings that would preclude the long-term use of MP29-02 in the treatment of allergic rhinitis .
+

@@ -1,0 +1,17 @@
+25295434
+OBJECTIVE	Effects of depression treatment are obscured by heterogeneity among patients .
+OBJECTIVE	Personality types could be one source of heterogeneity that explains variability in treatment response .
+OBJECTIVE	Clinically meaningful variations in personality patterns could be captured with data-driven subgroups .
+OBJECTIVE	The aim of this study was to identify such personality types and to explore their predictive value for treatment efficacy .
+METHODS	Participants ( N = 146 ) in the current exploratory study came from a randomized controlled trial in primary care depressed patients , conducted between January 1998 and June 2003 , comparing different treatments .
+METHODS	All participants were diagnosed with a major depressive disorder ( MDD ) according to the DSM-IV .
+METHODS	Primary ( care as usual [ CAU ] or CAU plus a psychoeducational prevention program [ PEP ] ) and specialized ( CAU + PEP + psychiatric consultation or cognitive-behavioral therapy ) treatment were compared .
+METHODS	Personality was assessed with the Neuroticism-Extraversion-Openness Five-Factor Inventory ( NEO-FFI ) .
+METHODS	Personality classes were identified with latent profile analysis ( LPA ) .
+METHODS	During 1 year , weekly depression ratings were obtained by trimonthly assessment with the Composite International Diagnostic Interview .
+METHODS	Mixed models were used to analyze the effects of personality on treatment efficacy .
+RESULTS	A 2-class LPA solution fit best to the NEO-FFI data : Class 1 ( vulnerable , n = 94 ) was characterized by high neuroticism , low extraversion , and low conscientiousness , and Class 2 ( resilient , n = 52 ) by medium neuroticism and extraversion and higher agreeableness and conscientiousness .
+RESULTS	Recovery was quicker in the resilient class ( class time : P < .001 ) .
+RESULTS	Importantly , specialized treatment had added value only in the vulnerable class , in which it was associated with quicker recovery than primary treatment ( class time treatment : P < .001 ) .
+CONCLUSIONS	Personality profile may predict whether specialized clinical efforts have added value , showing potential implications for planning of treatments .
+

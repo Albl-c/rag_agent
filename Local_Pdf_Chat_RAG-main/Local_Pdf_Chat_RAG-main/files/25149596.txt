@@ -1,0 +1,13 @@
+25149596
+OBJECTIVE	Ipragliflozin is a novel and highly selective sodium-glucose transporter 2 ( SGLT2 ) inhibitor that reduces plasma glucose levels by enhancing urinary glucose excretion in patients with type 2 diabetes mellitus ( T2DM ) .
+OBJECTIVE	We examined the pharmacokinetic and pharmacodynamic characteristics of two oral doses of ipragliflozin in Japanese patients with T2DM .
+METHODS	In this randomized , placebo-controlled , double-blind study , patients were treated with placebo , 50mg or 100mg ipragliflozin once daily for 14 days .
+METHODS	Plasma and urine pharmacodynamic parameters were measured on Days -1 and 14 , and pharmacokinetic parameters on Day 14 .
+METHODS	Pharmacodynamic characteristics included area under the curve ( AUC ) for plasma glucose and insulin for 0-3h ( AUC0-3h ) and 0-24h ( AUC0-24h ) .
+METHODS	Pharmacokinetic characteristics included AUC0-24h , maximum ipragliflozin concentration ( Cmax ) , and time to maximum plasma ipragliflozin concentration ( tmax ) .
+RESULTS	Thirty patients were enrolled ; 28 were included in pharmacokinetic/pharmacodynamic analyses and 30 in safety analyses .
+RESULTS	Administration of 50 and 100mg ipragliflozin significantly reduced fasting plasma glucose , as well as the AUC0-3h and AUC0-24h for plasma glucose relative to placebo .
+RESULTS	Both doses of ipragliflozin also reduced AUC0-24h for insulin , body weight , and glycoalbumin , while urinary glucose excretion increased remarkably .
+RESULTS	Cmax and AUC0-24h were 1.7 - and 1.9-fold higher , respectively , in the 100-mg group than in the 50-mg group .
+CONCLUSIONS	Ipragliflozin increased urinary glucose excretion and improved fasting and postprandial glucose , confirming its pharmacokinetic/pharmacodynamic properties in Japanese patients with T2DM .
+

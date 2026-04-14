@@ -1,0 +1,17 @@
+24373326
+OBJECTIVE	To compare the outcome of deep sclerectomy ( DS ) with and without mitomycin-C ( MMC ) in patients with normal-tension glaucoma ( NTG ) .
+METHODS	We prospectively analysed the results of 37 eyes of 37 consecutive patients with NTG ( age ; mean SD ; 64 7 years ) who underwent DS with a collagen implant .
+METHODS	Patients were randomized to the MMC and non-MMC groups .
+METHODS	Subconjunctival MMC ( 0.4 mg/ml for 3 min ) was used intraoperatively in 15 of 37 eyes .
+METHODS	We defined total success as 25 % reduction in intraocular pressure ( IOP ) without medication .
+METHODS	Follow-up time was 12 months .
+RESULTS	The mean preoperative IOP was significantly reduced from 15.2 2.8 mmHg to 9.3 2.7 ( p < 0.001 ) in the MMC group after 12-month follow-up and from 15.1 2.9 mmHg to 11.8 2.0 ( p < 0.001 ) in the non-MMC group .
+RESULTS	At 12 months , the mean IOP was significantly lower in the MMC group ( p = 0.003 ) compared with the non-MMC group .
+RESULTS	Total success was achieved in 10 of 15 eyes ( 67 % ) in MMC group and in nine of 22 eyes ( 41 % ) in non-MMC group ( p = 0.12 ) .
+RESULTS	The number of glaucoma medications was decreased from 2.2 0.8 to 0.5 1.2 in MMC group ( p = 0.001 ) and from 2.6 1.0 to 0.5 0.7 in non-MMC group ( p < 0.001 ) .
+RESULTS	Goniopuncture was performed in seven eyes ( 47 % ) in the MMC group , compared with 16 eyes ( 73 % ) in the non-MMC group ( p = 0.13 ) .
+RESULTS	IOP < 10 mmHg was achieved in seven of 15 eyes in the MMC group and in two of 22 in the non-MMC group ( p = 0.009 ) .
+RESULTS	Complication rate was low , and no difference between groups was evident .
+CONCLUSIONS	Deep sclerectomy seems to be effective and safe in reducing IOP in patients with NTG .
+CONCLUSIONS	Intraoperative use of MMC results in lower postoperative IOP 12-month postoperatively without increased rate of complications .
+

@@ -1,0 +1,16 @@
+24885032
+BACKGROUND	Each year approximately 3000 patients in the United Kingdom undergo surgery for esophagogastric cancer .
+BACKGROUND	Jejunostomy feeding tubes , placed at the time of surgery for early postoperative nutrition , have been shown to have a positive impact on clinical outcomes in the short term .
+BACKGROUND	Whether feeding out of hospital is of benefit is unknown .
+BACKGROUND	Local experience has identified that between 15 and 20 % of patients required ` rescue ' jejunostomy feeding for nutritional problems and weight loss while at home .
+BACKGROUND	This weight loss and poor nutrition may contribute to the detrimental effect on the overall quality of life ( QoL ) reported in these patients .
+METHODS	This randomized pilot and feasibility study will provide preliminary information on the routine use of jejunostomy feeding after hospital discharge in terms of clinical benefits and QoL .
+METHODS	Sixty participants undergoing esophagectomy or total gastrectomy will be randomized to receive either a planned program of six weeks of home jejunostomy feeding after discharge from hospital ( intervention ) or treatment-as-usual ( control ) .
+METHODS	The intention of this study is to inform a multi-centre randomized controlled trial .
+METHODS	The primary outcome measures will be recruitment and retention rates at six weeks and six months .
+METHODS	Secondary outcome measures will include disease specific and general QoL measures , nutritional parameters , total and oral nutritional intake , hospital readmission rates , and estimates of healthcare costs .
+METHODS	Up to 20 participants will also be enrolled in a qualitative sub-study that will explore participants ' and carers ' experiences of home tube feeding.The results will be disseminated by presentation at surgical , gastroenterological and dietetic meetings and publication in appropriate peer review journals .
+METHODS	A patient-friendly lay summary will be made available on the University of Leicester and the University Hospitals of Leicester NHS Trust websites .
+METHODS	The study has full ethical and institutional approval and started recruitment in July 2012 .
+BACKGROUND	UKClinical Research Network ID # 12447 ( Main study ) ; UKCRN ID # 13361 ( Qualitative sub study ) ; ClinicalTrials.gov #NCT 01870817 ( First registered 28 May 2013 ) .
+

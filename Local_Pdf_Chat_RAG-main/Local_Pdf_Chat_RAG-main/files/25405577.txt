@@ -1,0 +1,16 @@
+25405577
+OBJECTIVE	This study aimed to describe pretreatment patient characteristics and baseline quality-of-life scores as they relate to the development of grade 3 or 4 toxicity in patients receiving chemotherapy for advanced/recurrent cervical cancer .
+METHODS	The study sample was drawn from Gynecologic Oncology Group protocols 179 and 204 .
+METHODS	Grade 3 or 4 toxicities were considered in 4 specified categories as follows : peripheral neuropathy , fatigue , hematological , and gastrointestinal ( GI ) .
+METHODS	The data variables explored included age , stage , pretreatment radiation , performance status ( PS ) at treatment initiation , and baseline Functional Assessment of Cancer Therapy-Cervix ( FACT-Cx ) score .
+METHODS	A logistic regression model was developed with various adverse events as binary ( 0/1 ) outcomes .
+RESULTS	Six hundred seventy-three patient-reported questionnaires were used in the analyses .
+RESULTS	At baseline , pain was the most severe patient-reported symptom .
+RESULTS	Baseline line-item patient concerns did demonstrate specific correlations with the development of individual toxicities .
+RESULTS	In 401 patients who were enrolled on Gynecologic Oncology Group 204 ( fatigue not measured on 179 ) , a worse PS predicted the development of grade 3 or 4 fatigue ( odds ratio , 2.78 ; 95 % confidence interval , 1.66-4 .68 ) .
+RESULTS	Exposure to previous radiation , treatment regimen , and a worse FACT-Cx score were associated with the reporting of both grade 3 or 4 leukopenia ( P < 0.05 ) and anemia ( P < 0.0005 ) .
+RESULTS	Performance status and treatment regimen ( P < 0.05 ) were associated with the development of grade 3 or 4 thrombocytopenia .
+RESULTS	Age and treatment regimen ( P < 0.05 ) were associated with the development of grade 3 or 4 neutropenia .
+RESULTS	The FACT-Cx score ( P = 0.0016 ) predicted grade 3 or 4 GI toxicity .
+CONCLUSIONS	The development of fatigue , hematological , and GI toxicity might be predictable based on factors other than treatment assignment such as age , PS , and patient-reported quality-of-life measurement .
+

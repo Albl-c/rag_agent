@@ -1,0 +1,15 @@
+24628966
+OBJECTIVE	To investigate the effect of flavonoid-rich dark chocolate and non-flavonoid-rich white chocolate on retinal vessel diameter in glaucoma patients and age-matched controls .
+METHODS	Thirty glaucoma patients and 30 age-matched subjects were assigned to dark or white chocolate by randomization with forced equal distribution .
+METHODS	The number in each of the four groups was 15 .
+METHODS	Measured parameters included systemic blood pressure ( BP ) , blood glucose levels , static retinal vessel analysis , as measured by central retinal artery equivalent ( CRAE ) ( which relates to the diameter of the central retinal artery ) , central retinal vein equivalent ( CRVE ) ( which relates to the diameter of central retinal vein ) and the arterio-venous ratio ( AVR ) , which represents the CRAE/CRVE ratio , dynamic retinal vessel analysis as measured by the change in vessel diameter in response to flicker light stimulation .
+METHODS	Three recording cycles from each were averaged .
+RESULTS	Blood pressure parameters ( systolic BP , diastolic BP and pulse ) , IOP and blood glucose levels did not differ significantly between both groups before and after consumption of white or dark chocolate .
+RESULTS	Static vessel analysis did not show any significant changes in CRAE , CRVE or AVR before and after dark or white chocolate in both groups ( p > 0.05 ) .
+RESULTS	Mean dilatation of the venules in the control group was 3.2 0.9 % before dark chocolate and 4.2 1.4 % after dark chocolate intake , which was statistically significantly different ( p = 0.01 ) .
+RESULTS	Mean dilatation of the arterioles in the control group was 2.8 1.8 % before dark chocolate and 3.5 1.8 % after dark chocolate intake with a trend to statistical significance ( p = 0.14 ) , but not reaching the significance level .
+RESULTS	Mean diameter changes in the glaucoma group did not show any significant differences after dark chocolate consumption .
+CONCLUSIONS	The present study showed a significant improvement of venous vasodilatation 2 hr after dark chocolate intake in the control group , but not in the glaucoma group .
+CONCLUSIONS	This effect might be indicative of an increased bioavailability of nitric oxide ( NO ) after dark chocolate consumption .
+CONCLUSIONS	The lack of finding a significant venous response after dark chocolate in the glaucoma group might be related to the already impaired endothelial function in these patients .
+

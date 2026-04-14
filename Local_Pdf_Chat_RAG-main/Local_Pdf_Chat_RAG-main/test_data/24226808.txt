@@ -1,0 +1,16 @@
+24226808
+BACKGROUND	High-sensitivity troponin-I ( hs-TnI ) measurement improves risk assessment for cardiovascular events in many clinical settings , but the added value in atrial fibrillation patients has not been described .
+RESULTS	At randomization , hs-TnI was analyzed in 14 821 atrial fibrillation patients in the Apixaban for Reduction in Stroke and Other Thromboembolic Events in Atrial Fibrillation ( ARISTOTLE ) trial comparing apixaban with warfarin .
+RESULTS	The associations between hs-TnI concentrations and clinical outcomes were evaluated by using adjusted Cox analysis .
+RESULTS	The hs-TnI assay detected troponin ( 1.3 ng/L ) in 98.5 % patients , 50 % had levels > 5.4 , 25 % had levels > 10.1 , and 9.2 % had levels 23 ng/L ( the 99th percentile in healthy individuals ) .
+RESULTS	During a median of 1.9 years follow-up , annual rates of stroke or systemic embolism ranged from 0.76 % in the lowest hs-TnI quartile to 2.26 % in the highest quartile ( > 10.1 ng/L ) .
+RESULTS	In multivariable analysis , hs-TnI was significantly associated with stroke or systemic embolism , adjusted hazard ratio 1.98 ( 1.42-2 .78 ) , P = 0.0007 .
+RESULTS	hs-TnI was also significantly associated with cardiac death ; annual rates ranged from 0.40 % to 4.24 % , hazard ratio 4.52 ( 3.05-6 .70 ) , P < 0.0001 , in the corresponding groups , and for major bleeding hazard ratio 1.44 ( 1.11-1 .86 ) , P = 0.0250 .
+RESULTS	Adding hs-TnI levels to the CHA2DS2VASc score improved c-statistics from 0.629 to 0.653 for stroke or systemic embolism , and from 0.591 to 0.731 for cardiac death .
+RESULTS	There were no significant interactions with study treatment .
+CONCLUSIONS	Troponin-I is detected in 98.5 % and elevated in 9.2 % of atrial fibrillation patients .
+CONCLUSIONS	The hs-TnI level is independently associated with a raised risk of stroke , cardiac death , and major bleeding and improves risk stratification beyond the CHA2DS2VASc score .
+CONCLUSIONS	The benefits of apixaban in comparison with warfarin are consistent regardless of hs-TnI levels .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00412984 .
+

@@ -1,0 +1,13 @@
+25529395
+OBJECTIVE	Prediction of long-term outcomes in patients with community-acquired pneumonia ( CAP ) is incompletely understood .
+OBJECTIVE	We investigated the value of clinical risk scores [ pneumonia severity index ( PSI ) and CURB-65 ] ( Confusion , Urea , Respiratory rate , Blood Pressure , Age > 65years ) and blood biomarkers of different physiopathological pathways in predicting long-term survival in a well-characterized cohort of patients with CAP enrolled in an antibiotic stewardship trial .
+METHODS	Patients admitted with CAP to six medical centres in Switzerland were prospectively followed for 6years .
+METHODS	Cox regression models and area under the receiver operating characteristics curve ( AUC ) were used to investigate associations between initial risk assessment and all-cause mortality .
+METHODS	All-cause mortality during a 6-year follow-up period .
+RESULTS	Six-year mortality in the present cohort ( median age 73years ) was 45.1 % [ 95 % confidence interval ( CI ) 41.8-48 .3 % ] .
+RESULTS	Initial PSI and CURB-65 scores both had excellent long-term prognostic accuracy , with a stepwise increase in mortality per risk class .
+RESULTS	The hazard ratios ( 95 % CI ) of the highest PSI and CURB-65 classes ( reference : lowest class ) were 38.0 ( 14.0-103 .0 ) and 7.8 ( 2.2-14 .5 ) , respectively , after 6years .
+RESULTS	The addition of inflammatory ( pro-adrenomedullin ) and cardiac ( pro-atrial natriuretic peptide ) blood biomarkers measured upon hospital admission further improved the prognostic capabilities of the PSI ( AUC increase from 0.79 to 0.83 ; P < 0.0001 ) and the CURB-65 score ( AUC increase from 0.73 to 0.80 ; P < 0.001 ) .
+CONCLUSIONS	Risk assessment using clinical scores allowed accurate long-term prognostication , which was further improved by the addition of two inflammatory ( pro-adrenomedullin ) and cardiac ( pro-atrial natriuretic peptide ) blood biomarkers .
+CONCLUSIONS	These data provide a rationale for a more risk-adapted , ` personalized ' strategy for long-term management of patients with CAP .
+

@@ -1,0 +1,11 @@
+24933136
+OBJECTIVE	To examine the feasibility , acceptability , and potential effectiveness of an online intervention targeting college smokers .
+OBJECTIVE	The incentives involved discounted or free goods and services from businesses proximal to each campus .
+METHODS	A randomized controlled trial was conducted with 122 current smokers recruited from 2 Southeastern US universities .
+METHODS	The intervention involved health behavior monitoring , targeted messaging , and incentives for healthy goods and services versus the American Cancer Society 's Guide to Quitting Smoking online .
+RESULTS	The intervention achieved greater adherence and utilization ( p 's < .001 ) .
+RESULTS	Overall , 55.6 % learned about a local business through this program .
+RESULTS	At end-of-treatment , intervention participants less frequently attempted to quit ( p = .02 ) but smoked fewer cigarettes/day ( p = .05 ) .
+RESULTS	Both groups demonstrated significant end-of-treatment cessation rates .
+CONCLUSIONS	This intervention demonstrated feasibility and acceptability .
+

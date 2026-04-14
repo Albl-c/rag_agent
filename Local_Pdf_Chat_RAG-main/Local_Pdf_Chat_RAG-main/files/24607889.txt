@@ -1,0 +1,11 @@
+24607889
+OBJECTIVE	We aimed to compare the clinical outcomes of intra-articular calcaneus fractures treated with open reduction and internal fixation with conventional plate via L-shaped lateral approach ( routine treatment ) versus those with percutaneous plate via a sinus tarsi approach ( minimally invasive treatment ) .
+METHODS	One hundred and seventeen displaced intra-articular calcaneal fractures in 108 patients from January 2007 and September 2010 were randomly allocated to receive routine treatment ( 49 patients ) or minimally invasive treatment ( 59 patients ) .
+METHODS	Operative time , preoperative and postoperative calcaneal height , width , length , Bhlers angle , Gissanes angle , and incision healing were recorded .
+METHODS	Maryland foot score system was used to evaluate clinical functional outcomes .
+RESULTS	The operative time of minimally invasive group was significantly shorter than that of the routine group [ 46-80 min ( mean , 62 min ) vs 65-110 min ( mean , 93 min ) , p < 0.01 ] .
+RESULTS	Postoperative X-ray showed the calcaneal height , width , length , Bhlers angle and Gissanes angle were significantly improved in both two groups , and no significant difference was observed between two groups postoperatively .
+RESULTS	No feet developed wound complications in minimally invasive group , but incision complications occurred in 8 feet in routine group .
+RESULTS	The excellent and good rate according to the Maryland foot score was significantly higher in minimally invasive group than that in the routine group ( 93.8 % vs 86.8 % ) .
+CONCLUSIONS	Compared with L-shaped lateral approach treatment of displaced intra-articular calcaneal fractures , sinus tarsi approach for the reduction and internal fixation with percutaneous plate seems to be more safe and effective , with satisfactory clinical therapeutic effects and without postoperative complications .
+

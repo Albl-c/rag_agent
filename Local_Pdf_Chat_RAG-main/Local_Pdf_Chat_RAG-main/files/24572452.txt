@@ -1,0 +1,20 @@
+24572452
+OBJECTIVE	Obesity-induced chronic inflammation is a key component of the pathogenesis of insulin resistance .
+OBJECTIVE	Mounting evidence has demonstrated anti-inflammatory characteristics for vitamin D. Although analogues of vitamin D3 have extensively been used in the treatment of various chronic inflammatory diseases , to our knowledge , no such research is conducted in regards with obesity .
+OBJECTIVE	The aim of this double blind clinical trial study is to investigate whether alphacalcidol treatment in obese subjects can affect the cytokine profile and insulin resistance .
+OBJECTIVE	Moreover , we evaluated the pathways of vitamin D receptor ( VDR ) , PPAR and PGC1 gene expressions which may lead to insulin resistance following treatment with either alphacalcidol or placebo .
+METHODS	A total of 94 obese participants ( BMI30 ) were recruited for the current double blind clinical trial study .
+METHODS	Patients were divided into two intervention ( N. = 40 ) and control groups ( N. = 54 ) based on the stratified randomized method .
+METHODS	One-Alpha Capsules 1 microgram : alfacalcidol ( 1 - hydroxyvitamin D3 ) and placebo were given to subjects once a day for 8 weeks .
+METHODS	Analysis of body composition was performed with use of Body Composition Analyzer .
+METHODS	The circulating levels of TNF - , IL-1 , IL-4 , IL-6 , IL-10 , IL-13 , IL-17 , PTH , and 25-Hydroxy Vi-tamin D were measured with the use of EIA method .
+METHODS	The PBMCs were separated from whole blood by Ficoll-hypaque technique .
+METHODS	Total cellular RNA was extracted and the cDNA was synthesized .
+METHODS	The real-time PCR using specific primer pairs for VDR , PGC1 , PPAR , and - actin was performed .
+RESULTS	The FPG , fat percent and PTH levels were decreased and the levels of HDL-cholesterol and 25-hydroxy vitamin D were significantly increased after treatment with Alfacalcidol .
+RESULTS	Regarding to cytokines levels , the levels of IL6 were significantly decreased and IL10 were significantly increased in Alfacalcidol group in comparison with the control group .
+RESULTS	The relative expressions of VDR , PGC1 , and PPAR genes significantly increased in Alfacalcidol group .
+RESULTS	We found also significant positive correlation between circulating 25-OH vitamin D and relative PGC1 gene expression in participants with insulin resistance .
+CONCLUSIONS	It seems that Alfacalcidol treatment may be effective in amelioration of the inflammatory state in obesity .
+CONCLUSIONS	This supplement might also improve resistance to insulin through enhancement of relative VDR and its downstream genes expression , which are demonstrated to be involved in glucose homeostasis pathways .
+

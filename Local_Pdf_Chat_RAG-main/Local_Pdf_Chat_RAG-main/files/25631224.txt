@@ -1,0 +1,11 @@
+25631224
+BACKGROUND	Community-based health education programs may be helpful in improving health outcomes in patients with chronic illnesses .
+BACKGROUND	This study aimed to evaluate community-based health education strategies in the management of hypertensive patients with low socioeconomic status in Dongguan City , China .
+METHODS	This was a randomized , non-blinded trial involving 360 hypertensive patients enrolled in the community health service centre of Liaobu Town , Dongguan City , China .
+METHODS	Participants were randomized to receive one of the three community-based health education programs over 2 years : self-learning reading ( Group 1 ) , monthly regular didactic lecture ( Group 2 ) , monthly interactive education workshop ( Group 3 ) .
+METHODS	Outcomes included the changes in the proportion of subjects with normalized blood pressure ( BP ) , hypertension-related knowledge score , adherence to antihypertensive treatment , lifestyle , body mass index and serum lipids .
+RESULTS	After the 2-y intervention , the proportion of subjects with normalized BP increased significantly in Group 2 ( from 41.2 % to 63.2 % , p < 0.001 ) , and increased more substantially in Group 3 ( from 40.2 % to 86.3 % , p < 0.001 ) , but did not change significantly in Group 1 .
+RESULTS	Improvements in hypertension-related knowledge score , adherence to regular use of medications , appropriate salt intake and regular physical activity were progressively greater from group 1 to group 2 to group 3 .
+RESULTS	Group 3 had the largest reductions in body mass index and serum LDL cholesterol levels .
+CONCLUSIONS	Interactive education workshops may be the most effective strategy in community-based health promotion education programs for hypertensive patients in improving patients ' knowledge on hypertension and alleviating clinical risk factors for preventing hypertension-related complications .
+

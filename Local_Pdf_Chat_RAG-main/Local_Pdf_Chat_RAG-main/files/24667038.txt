@@ -1,0 +1,14 @@
+24667038
+OBJECTIVE	To evaluate the effect of side-cut angle profile on corneal biomechanical properties after femtosecond laser in situ keratomileusis ( FS-LASIK ) .
+METHODS	Ninety-six myopic eyes of 48 patients underwent FS-LASIK .
+METHODS	One eye of each patient was randomized to flap creation with a side-cut angle of 115 .
+METHODS	The fellow eye flap side-cut angle was adjusted to 70 .
+METHODS	Mean absolute error of flap diameter and mean change in Goldmann-correlated intra-ocular pressure ( IOPg ) , corneal-compensated IOP ( IOPcc ) , corneal hysteresis ( CH ) , corneal resistance factor ( CRF ) , p1 area , p2 area , p1 area 1 and p2 area 1 were compared between both groups .
+RESULTS	Overall , the mean IOPg and CRF showed significant reduction at the end of 1 and 3months , as well as between 1 and 3months postoperatively ( p0 .03 ) .
+RESULTS	The mean IOPcc and CH showed significant reduction ( p < 0.001 ) at the end of 3months postoperatively .
+RESULTS	The parameters p1 area , p2 area , p1 area 1 and p2 area 1 changed significantly at the end of 1 and 3months postoperatively ( p < 0.001 ) .
+RESULTS	There was no significant difference between both groups with regards to the mean change of IOPg , IOPcc , CH , CRF , p1 area , and p1 area 1 .
+RESULTS	In 115 group , the mean absolute error in flap diameter was greater compared with 70 group ( p = 0.014 ) .
+CONCLUSIONS	The stability of IOP and corneal biomechanical properties were not enhanced in FS-LASIK flaps with an inverted side-cut angle .
+CONCLUSIONS	The size of corneal flap created with 70 side-cut angle was more accurate compared with 115 side-cut angle .
+

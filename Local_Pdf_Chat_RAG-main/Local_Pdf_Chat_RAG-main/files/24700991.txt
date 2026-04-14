@@ -1,0 +1,10 @@
+24700991
+OBJECTIVE	To investigate the effect of abstention from breastfeeding , for an hour before and after each vaccination , on the immune responses of infants to two doses of rotavirus vaccine .
+METHODS	In Soweto , South Africa , mother-infant pairs who were uninfected with human immunodeficiency virus ( HIV ) were enrolled as they presented for the `` 6-week '' immunizations of the infants .
+METHODS	Each infant was randomly assigned to Group 1 - in which breastfeeding was deferred for at least 1 h before and after each dose of rotavirus vaccine - or Group 2 - in which unrestricted breastfeeding was encouraged .
+METHODS	Enzyme-linked immunosorbent assays were used to evaluate the titres of rotavirus-specific IgA in samples of serum collected from each infant immediately before each vaccine dose and 1 month after the second dose .
+METHODS	Among the infants , a fourfold or greater increase in titres of rotavirus-specific IgA following vaccination was considered indicative of seroconversion .
+RESULTS	The evaluable infants in Group 1 ( n = 98 ) were similar to those in Group 2 ( n = 106 ) in their baseline demographic characteristics and their pre-vaccination titres of anti-rotavirus IgA .
+RESULTS	After the second vaccine doses , geometric mean titres of anti-rotavirus IgA in the sera of Group-1 infants were similar to those in the sera of Group-2 infants ( P = 0.685 ) and the frequency of seroconversion in the Group-1 infants was similar to that in the Group-2 infants ( P = 0.485 ) .
+CONCLUSIONS	Among HIV-uninfected South African infants , abstention from breastfeeding for at least 1 h before and after each vaccination dose had no significant effect on the infants ' immune response to a rotavirus vaccine .
+

@@ -1,0 +1,11 @@
+25098260
+OBJECTIVE	To determine the effects of Ginkgo biloba extract ( EGB ) on major periodontal pathogens in subgingival plaque .
+METHODS	Sixty patients with moderate to severe periodontitis were selected and randomly assigned to 3 groups : EGB group , a positive ( periocline ) and a negative control groups .
+METHODS	Subgingival plaque samples were collected before treatment and 1 week , 2 months and 4 months after treatment .
+METHODS	The detection rates of 4 major periodontal pathogens-Treponema denticola ( Td ) , Tannerella forsythus ( Tf ) , Prevotella intermedia ( Pi ) , and Porphyromonas gingivalis ( Pg ) - were detected by polymerase chain reaction ( PCR ) .
+METHODS	Clinical indicators were examined before treatment , 3 and 6 months after treatment .
+RESULTS	EGB significantly decreased the detection rate of all the 4 pathogens 1 week after treatment , and then gradually increased at 2 and 4 months .
+RESULTS	EGB 's inhibition effect was better than or comparable to periocline , except for Pg in short-term .
+RESULTS	The difference of plaque index ( PLI ) and bleeding index ( BI ) was not statistically significant among the groups , while for probing depth ( PD ) and attachment loss ( AL ) , the difference was statistically significant between the EGB group and negative control group at 3 and 6 months after treatment .
+CONCLUSIONS	EGB significantly inhibited major periodontal pathogens and can be used as an adjuvant for periodontitis treatment .
+

@@ -1,0 +1,15 @@
+24647511
+BACKGROUND	While animal studies have shown better healing with a longer duration of protection without motion exercise after rotator cuff repair , supporting clinical studies are rare .
+BACKGROUND	The purpose of this study was to assess the effect of immobilization following rotator cuff repair and to determine whether there was any difference in clinical outcome related to the duration of immobilization .
+METHODS	One hundred patients who underwent arthroscopic single-row repair of a posterosuperior rotator cuff tear ( mean , 2.3 cm in the coronal-oblique plane and 2.0 cm in the sagittal-oblique plane ) were prospectively randomized to be treated with immobilization for four or eight weeks .
+METHODS	During the immobilization period , no passive or active range-of-motion exercise , including pendulum exercise , was allowed .
+METHODS	According to the intention-to-treat protocol and full analysis set , eighty-eight patients were evaluated clinically and with magnetic resonance imaging postoperatively , after exclusion of twelve patients without postoperative clinical evaluation .
+METHODS	Ranges of motion , clinical scores , and retear rates were compared between the four and eight-week groups .
+METHODS	Ninety-eight patients were contacted by telephone at a mean of thirty-five months to investigate the clinical outcomes .
+RESULTS	The mean duration of immobilization was 4.1 weeks in the four-week group and 7.3 weeks in the eight-week group .
+RESULTS	There were nine full-thickness retears ( 10 % ) , and 89 % of the patients rated their result as excellent or good .
+RESULTS	There were five full-thickness retears in the four-week group and four in the eight-week group ( p = 0.726 ) .
+RESULTS	At the time of final follow-up , the two groups showed no differences in range of motion or clinical scores .
+RESULTS	However , the proportion showing stiffness was higher in the eight-week group ( 38 % compared with 18 % , p = 0.038 ) .
+CONCLUSIONS	Eight weeks of immobilization did not yield a higher rate of healing of medium-sized rotator cuff tears compared with four weeks of immobilization .
+

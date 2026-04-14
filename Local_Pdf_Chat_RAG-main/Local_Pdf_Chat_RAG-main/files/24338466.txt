@@ -1,0 +1,14 @@
+24338466
+BACKGROUND	In spinal anaesthesia for a Caesarean delivery , it is important to limit anaesthesia only at the surgical area , and to resolve fast motor block .
+BACKGROUND	We compared the intraoperative effectiveness , hemodynamic effects , anaesthetic recovery times and patients satisfaction after isobaric levobupivacaine ( L ) 0.25 % versus L0 .50 % spinal anaesthesia during elective Caesarean deliveries performed with the Stark technique .
+METHODS	In this double-blinded prospective study , seventy women undergoing elective caesarean delivery were randomized to receive either intrathecal 7.5 mg Levobupivacaine 0.25 % plus sufentanil 2.5 g ( Group L0 .25 ) , or intrathecal 7.5 mg L 0.50 % plus sufentanil 2.5 g ( GroupControl ) .
+METHODS	The onset time , duration of anaesthesia , analgesia and sensory and motor block and hemodynamic parameters were measured from the beginning of spinal anaesthesia until four hours after spinal anaesthesia ( T240 ) .
+RESULTS	Onset time , duration of anaesthesia and haemodynamic variations were similar in the two groups .
+RESULTS	No patients required general anesthesia to complete surgery .
+RESULTS	Motor block vanished faster in Group L0 .25 as compared with GroupControl ( p < .01 ) .
+RESULTS	The cephalad spread of the 0.50 % solution was higher than that of the 0.25 % solution : no patient in Group L0 .25 experienced paresthesia of the upper limbs vs 14 % in GroupControl ( p < .05 ) .
+RESULTS	In GroupControl anaesthesia reached the dermatome T1 in 15 % of cases .
+RESULTS	Maternal and surgeon satisfaction was good in every patient .
+CONCLUSIONS	Levobupivacaine 7.5 milligrams at 0.25 % may be used as a suitable alternative to L 0.50 % for spinal anaesthesia for caesarean deliveris with the Stark technique with good maternal satisfaction .
+CONCLUSIONS	In Group L0 .25 a lower appearance of nausea and hypotension were observed and motor and sensitive block developed and diminished faster while no clinically significant differences in hemodynamic behavior was observed between groups .
+

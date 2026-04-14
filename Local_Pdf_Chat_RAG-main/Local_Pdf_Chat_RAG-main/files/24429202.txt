@@ -1,0 +1,24 @@
+24429202
+BACKGROUND	Long-term complications of cystic fibrosis include osteoporosis and fragility fractures , but few data are available about effective treatment strategies , especially in young patients .
+BACKGROUND	We investigated treatment of low bone mineral density in children , adolescents , and young adults with cystic fibrosis .
+METHODS	We did a multicentre trial in two phases .
+METHODS	We enrolled patients aged 5-30 years with cystic fibrosis and low bone mineral density , from ten cystic fibrosis regional centres in Italy .
+METHODS	The first phase was an open-label , 12-month observational study of the effect of adequate calcium intake plus calcifediol .
+METHODS	The second phase was a 12-month , double-blind , randomised , placebo-controlled , parallel group study of the efficacy and safety of oral alendronate in patients whose bone mineral apparent density had not increased by 5 % or more by the end of the observational phase .
+METHODS	Patients were randomly assigned to either alendronate or placebo .
+METHODS	Both patients and investigators were masked to treatment assignment .
+METHODS	We used dual x-ray absorptiometry at baseline and every 6 months thereafter , corrected for body size , to assess lumbar spine bone mineral apparent density .
+METHODS	We assessed bone turnover markers and other laboratory parameters every 3-6 months .
+METHODS	The primary endpoint was mean increase of lumbar spine bone mineral apparent density , assessed in the intention-to-treat population .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT01812551 .
+RESULTS	We screened 540 patients and enrolled 171 ( mean age 138 years , SD 59 , range 5-30 ) .
+RESULTS	In the observational phase , treatment with calcium and calcifediol increased bone mineral apparent density by 5 % or more in 43 patients ( 25 % ) .
+RESULTS	128 patients entered the randomised phase .
+RESULTS	Bone mineral apparent density increased by 163 % in the alendronate group ( n = 65 ) versus 31 % in the placebo group ( n = 63 ; p = 00010 ) .
+RESULTS	19 of 57 young people ( 333 % ) receiving alendronate attained a normal-for-age bone mineral apparent density Z score .
+RESULTS	In the observational phase , five patients had moderate episodes of hypercalciuria , which resolved after short interruption of calcifediol treatment .
+RESULTS	During the randomised phase , one patient taking alendronate had mild fever versus none in the placebo group ; treatment groups did not differ significantly for other adverse events .
+CONCLUSIONS	Correct calcium intake plus calcifediol can improve bone mineral density in some young patients with cystic fibrosis .
+CONCLUSIONS	In those who do not respond to calcium and calcifediol alone , alendronate can safely and effectively increase bone mineral density .
+BACKGROUND	Telethon Foundation ( Italy ) .
+

@@ -1,0 +1,13 @@
+25351119
+OBJECTIVE	To evaluate the effect of peer education on postoperative rehabilitation of patients with laryngeal cancer .
+METHODS	From January 2010 to December 2012 , 240 cases of primary laryngeal cancer were treated with partial or total laryngectomy as well as tracheotomy in the Department of Head and Neck Surgery in Shandong Provincial Hospital .
+METHODS	The patients were randomly divided into experimental group or control group by Stochastic tables law , 120 patients in control group accepted only conventional nursing , 120 patients in experimental group accepted both conventional nursing and peer education .
+METHODS	The difference in the treatment nursing cooperation attitude , postoperative recovery , postoperative symptoms and the incidence of complications between two groups were evaluated by postoperative quality of life ( UW-QOL ) , Eysenck personality questionnaire ( EPQ ) and coping style questionnaire ( CSQ ) score .
+METHODS	The independent sample T-test and test were used for statistical analysis .
+RESULTS	The patients of experimental group showed more positive attitude to treatment and care compared to the patients of control group ( = 10.7 , P < 0.01 ) .
+RESULTS	Experimental group had less time in postoperative wound healing time , gastric tube indwelling time and postoperative hospital stay than control group , with statistically significant differences ( t = 6.89 , t = 6.36 , t = 6.42 , respectively , P < 0.01 ) ; Incidence of postoperative discomfort symptoms in experimental group was less than that in control group ( P < 0.05 ) .
+RESULTS	Total score for quality of life ( UW-QOL ) in experimental group was higher than that in control group ( t = 2.40 , P < 0.05 ) .
+RESULTS	The P and N scores of EPQ in experimental group were lower than those in control group ( t = 2.28 , t = 2.60 , P < 0.05 ) , while the E score of EPQ in experimental group was significantly higher than that in control group ( t = 4.50 , P < 0.01 ) , with no significant difference in the L score of EPQ between two groups ( P > 0.05 ) .
+RESULTS	scores of factor to solve problem and help factor of CSQ in experimental group were higher than those in control group ( t = 7.05 , t = 7.73 , P < 0.01 ) , and the era factor score of experimental group was lower than that of control group ( t = 2.05 , P < 0.05 ) .
+CONCLUSIONS	Peer education can help the patients with laryngectomy to maintain good psychological and mental status , to cooperate actively with treatment , to reduce symptoms and complications , and to shorten the length of hospital stay , improving their postoperative rehabilitation and quality of life .
+

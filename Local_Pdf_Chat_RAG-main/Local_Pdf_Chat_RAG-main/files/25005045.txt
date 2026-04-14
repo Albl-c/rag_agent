@@ -1,0 +1,17 @@
+25005045
+BACKGROUND	The optimal crystalloid solution to use perioperatively in patients undergoing open radical cystectomy remains unclear .
+BACKGROUND	Many of the fluids used for intravenous hydration contain supraphysiologic concentrations of chloride , which can induce hyperchloremia and metabolic acidosis , resulting in renal vasoconstriction and decreased renal function .
+BACKGROUND	In addition , patients receiving less fluid and less sodium show faster recovery of gastrointestinal ( GI ) function after colonic surgery .
+METHODS	This is an investigator-initiated , single-center , randomized , controlled , parallel group trial with assessor-blinded outcome assessment , in the Department of Urology , University Hospital Bern , Switzerland .
+METHODS	The study will involve 44 patients with bladder cancer scheduled for radical cystectomy and urinary diversion .
+METHODS	The primary outcome is the duration between the end of surgery and the return of the GI function ( first defecation ) .
+METHODS	Secondary outcomes are fluid balance ( body weight difference postoperatively versus preoperatively ) and the incidence of kidney function disorders according to the Risk-Injury-Failure-Loss-End Stage Renal Disease ( RIFLE classification ) .
+METHODS	An equal number of patients are allocated to receive Ringerfundin solution or a glucose/potassium-based balanced crystalloid solution as baseline infusion during the entire time that intravenous administration of fluid is necessary during the perioperative period .
+METHODS	The randomized crystalloid solution is infused at a rate of 1 ml/kg/h until the bladder has been removed , followed by 3 ml/kg/h until the end of surgery .
+METHODS	Postoperative hydration is identical in both groups and consists of 1,500 ml of the randomized crystalloid solution per 24 hours .
+METHODS	Postoperative patient care is identical in both groups ; patients are allowed to drink clear fluids immediately after surgery , and liquid diet is started on postoperative day 1 , as well as active mobilization and the use of chewing gum .
+METHODS	Body weight is measured daily in the morning .
+METHODS	Time of first flatus and first defecation are recorded .
+CONCLUSIONS	This trial assesses the benefits and harms of two different balanced crystalloid solutions for perioperative fluid management in patients undergoing open radical cystectomy with urinary diversion , with regard to return of GI function and effects on postoperative renal function .
+BACKGROUND	Current Controlled Trials ISRCTN32976792 ( registered on November 21 2013 ) .
+

@@ -1,0 +1,15 @@
+24902920
+BACKGROUND	High blood pressure is an important public health concern because it is highly prevalent and a risk factor for adverse health outcomes , including coronary heart disease , stroke , decompensated heart failure , chronic kidney disease , and decline in cognitive function .
+BACKGROUND	Observational studies show a progressive increase in risk associated with blood pressure above 115/75 mm Hg .
+BACKGROUND	Prior research has shown that reducing elevated systolic blood pressure lowers the risk of subsequent clinical complications from cardiovascular disease .
+BACKGROUND	However , the optimal systolic blood pressure to reduce blood pressure-related adverse outcomes is unclear , and the benefit of treating to a level of systolic blood pressure well below 140 mm Hg has not been proven in a large , definitive clinical trial .
+OBJECTIVE	To describe the design considerations of the Systolic Blood Pressure Intervention Trial ( SPRINT ) and the baseline characteristics of trial participants .
+METHODS	The Systolic Blood Pressure Intervention Trial is a multicenter , randomized , controlled trial that compares two strategies for treating systolic blood pressure : one targets the standard target of < 140 mm Hg , and the other targets a more intensive target of < 120 mm Hg .
+METHODS	Enrollment focused on volunteers of age 50 years ( no upper limit ) with an average baseline systolic blood pressure 130 mm Hg and evidence of cardiovascular disease , chronic kidney disease , 10-year Framingham cardiovascular disease risk score 15 % , or age 75 years .
+METHODS	The Systolic Blood Pressure Intervention Trial recruitment also targeted three pre-specified subgroups : participants with chronic kidney disease ( estimated glomerular filtration rate < 60 mL/min/1 .73 m ( 2 ) ) , participants with a history of cardiovascular disease , and participants 75 years of age or older .
+METHODS	The primary outcome is first the occurrence of a myocardial infarction ( MI ) , acute coronary syndrome , stroke , heart failure , or cardiovascular disease death .
+METHODS	Secondary outcomes include all-cause mortality , decline in kidney function or development of end-stage renal disease , incident dementia , decline in cognitive function , and small-vessel cerebral ischemic disease .
+RESULTS	Between 8 November 2010 and 15 March 2013 , Systolic Blood Pressure Intervention Trial recruited and randomized 9361 people at 102 clinics , including 3331 women , 2648 with chronic kidney disease , 1877 with a history of cardiovascular disease , 3962 minorities , and 2636 75 years of age .
+CONCLUSIONS	Although the overall recruitment target was met , the numbers recruited in the high-risk subgroups were lower than planned .
+CONCLUSIONS	The Systolic Blood Pressure Intervention Trial will provide important information on the risks and benefits of intensive blood pressure treatment targets in a diverse sample of high-risk participants , including those with prior cardiovascular disease , chronic kidney disease , and those aged 75 years .
+

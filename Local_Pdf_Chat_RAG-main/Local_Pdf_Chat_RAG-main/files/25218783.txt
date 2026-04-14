@@ -1,0 +1,15 @@
+25218783
+OBJECTIVE	MicroRNA-122 ( miR-122 ) is an important host factor for hepatitis C virus ( HCV ) and promotes HCV RNA accumulation .
+OBJECTIVE	Decreased intra-hepatic levels of miR-122 were observed in patients with hepatocellular carcinoma , suggesting a potential role of miR-122 in the development of HCC .
+OBJECTIVE	Miravirsen targets miR-122 and resulted in a dose dependent and prolonged decrease of HCV RNA levels in chronic hepatitis C patients .
+OBJECTIVE	The aim of this study was to establish the sustained virological response rate to peginterferon ( P ) and ribavirin ( R ) following miravirsen dosing and to assess long-term safety in patients treated with miravirsen .
+METHODS	In this multicenter , retrospective follow-up study we included 36 treatment nave patients with chronic hepatitis C genotype 1 who received five weekly subcutaneous injections with miravirsen or placebo over a 29-day period in a phase 2a study .
+METHODS	Patients were offered PR therapy 3weeks ( 3mg/kg group ) or 6weeks ( 5 or 7mg/kg group ) after completion of miravirsen or placebo dosing .
+RESULTS	PR therapy was started in 14/36 patients of whom 12 had received miravirsen .
+RESULTS	SVR was achieved in 7/12 patients previously dosed with miravirsen .
+RESULTS	All patients dosed with 7mg/kg miravirsen who were subsequently treated with PR achieved SVR .
+RESULTS	One patient had a prolonged undetectable HCV RNA period from week 14 to week 29 after baseline without subsequent antiviral therapy and relapsed thereafter .
+RESULTS	None of the patients treated with anti-miR-122 developed HCC or other liver-related complications .
+CONCLUSIONS	No long-term safety issues were observed among 27 miravirsen-treated patients .
+CONCLUSIONS	Targeting miR-122 may be an effective and safe treatment strategy for HCV infection and should be investigated in larger clinical trials .
+

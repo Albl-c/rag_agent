@@ -1,0 +1,10 @@
+24553356
+BACKGROUND	The United Kingdom Employment Retention and Advancement ( U.K. ERA ) demonstration was the largest and most comprehensive social experiment ever conducted in the United Kingdom .
+BACKGROUND	It examined the extent to which a combination of postemployment advisory support and financial incentives could help lone parents on welfare to find sustained employment with prospects for advancement .
+BACKGROUND	ERA was experimentally tested across more than 50 public employment service offices and , within each office , individuals were randomly assigned to either a program ( or treatment ) group ( eligible for ERA ) or a control group ( not eligible ) .
+METHODS	This article presents the results of a multilevel nonexperimental analysis that examines the variation in office-level impacts and attempts to understand what services provided in the offices tend to be associated with impacts .
+RESULTS	The analysis suggests that impacts were greater in offices that emphasized in-work advancement , support while working and financial bonuses for sustained employment , and also in those offices that assigned more caseworkers to ERA participants .
+RESULTS	Offices that encouraged further education had smaller employment impacts .
+CONCLUSIONS	Plausible results are obtained identifying those particular implementation features that tended to be linked to stronger impacts of ERA .
+CONCLUSIONS	The methodology employed also allows the identification of which services are associated with employment and welfare receipt of control families receiving benefits under the traditional New Deal for Lone Parent program .
+

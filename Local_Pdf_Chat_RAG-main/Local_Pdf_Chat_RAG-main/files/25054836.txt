@@ -1,0 +1,20 @@
+25054836
+OBJECTIVE	Select cases of intractable obsessive-compulsive disorder ( OCD ) have undergone neurosurgical ablation for more than half a century .
+OBJECTIVE	However , to our knowledge , there have been no randomized clinical trials of such procedures for the treatment of any psychiatric disorder .
+OBJECTIVE	To determine the efficacy and safety of a radiosurgery ( gamma ventral capsulotomy [ GVC ] ) for intractable OCD .
+METHODS	In a double-blind , placebo-controlled , randomized clinical trial , 16 patients with intractable OCD were randomized to active ( n = 8 ) or sham ( n = 8 ) GVC .
+METHODS	Blinding was maintained for 12 months .
+METHODS	After unblinding , sham-group patients were offered active GVC .
+METHODS	Patients randomized to active GVC had 2 distinct isocenters on each side irradiated at the ventral border of the anterior limb of the internal capsule .
+METHODS	The patients randomized to sham GVC received simulated radiosurgery using the same equipment .
+METHODS	Scores on the Yale-Brown Obsessive-Compulsive Scale ( Y-BOCS ) and the Clinical Global Impression-Improvement ( CGI-I ) Scale .
+METHODS	Response was defined as a 35 % or greater reduction in Y-BOCS severity and `` improved '' or `` much improved '' CGI-I ratings .
+RESULTS	Three of 8 patients randomized to active treatment responded at 12 months , while none of the 8 sham-GVC patients responded ( absolute risk reduction , 0.375 ; 95 % CI , 0.04-0 .71 ) .
+RESULTS	At 12 months , OCD symptom improvement was significantly higher in the active-GVC group than in the sham group ( Y-BOCS , P = .046 ; Dimensional Y-BOCS , P = .01 ) .
+RESULTS	At 54 months , 2 additional patients in the active group had become responders .
+RESULTS	Of the 4 sham-GVC patients who later received active GVC , 2 responded by post-GVC month 12 .
+RESULTS	The most serious adverse event was an asymptomatic radiation-induced cyst in 1 patient .
+CONCLUSIONS	Gamma ventral capsulotomy benefitted patients with otherwise intractable OCD and thus appears to be an alternative to deep-brain stimulation in selected cases .
+CONCLUSIONS	Given the risks inherent in any psychiatric neurosurgery , such procedures should be conducted at specialized centers .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01004302 .
+

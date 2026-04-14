@@ -1,0 +1,12 @@
+25213578
+BACKGROUND	There is a gap in the literature regarding learning outcomes linked to the use of high-fidelity simulators compared to that of traditional teaching methods .
+OBJECTIVE	To examine the effect of using high-fidelity simulators on knowledge and skills acquisition and retention with university students .
+METHODS	A randomized two-arm trial using two different educational approaches on 90 nursing students assigned randomly to two groups was used at two points of time .
+RESULTS	The results showed significant differences in favor of the participants in the high-fidelity simulator group on both the acquisition and retention of knowledge and skills over time .
+RESULTS	However , a significant loss of cardiopulmonary resuscitation knowledge and skills occurred at 3 months after training in both groups .
+CONCLUSIONS	The findings of this study may assist educators in integrating high-fidelity simulators in education and training .
+CONCLUSIONS	In addition , the findings may help nursing educators to arrange additional cardiopulmonary resuscitation training sessions in order to improve cardiac arrested patients ' outcomes .
+CONCLUSIONS	High-fidelity simulation ( HFS ) provides students with interactive learning experiences in a safe controlled environment .
+CONCLUSIONS	HFS enables teachers to implement critical clinical scenarios , such as cardiac arrest , without risk to patients .
+CONCLUSIONS	Integrating the simulation training into nursing curricula will help to overcome the challenges that face many courses , specifically the shortage of clinical areas for training and the increase in numbers of nursing students .
+

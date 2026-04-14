@@ -1,0 +1,13 @@
+24738550
+BACKGROUND	Virtual patients ( VPs ) offer valuable alternative encounters when live patients with rare conditions , such as cranial nerve ( CN ) palsies , are unavailable ; however , little is known regarding simulation and optimal social learning context .
+OBJECTIVE	Compare learning outcomes and perspectives between students interacting with VPs in individual and team contexts .
+METHODS	Seventy-eight medical students were randomly assigned to interview and examine four VPs with possible CN damage either as individuals or in three-person teams , using Neurological Examination Rehearsal Virtual Environment ( NERVE ) .
+METHODS	Learning was measured through diagnosis accuracy and pre - / post-simulation knowledge scores .
+METHODS	Perspectives of learning context were collected post-simulation .
+RESULTS	Students in teams submitted correct diagnoses significantly more often than students as individuals for CN-IV ( p = 0.04 ; team = 86.1 % ; individual = 65.9 % ) and CN-VI ( p = 0.03 ; team = 97.2 % ; individual = 80.5 % ) .
+RESULTS	Knowledge scores increased significantly in both contexts ( p < 0.001 ) ; however , a significant aptitude-treatment interaction effect was observed ( p = 0.04 ) .
+RESULTS	At pre-test scores 25.8 % , students in teams scored significantly higher ( 66.7 % ) than students as individuals ( 43.1 % ) at post-test ( p = 0.03 ) .
+RESULTS	Students recommended implementing future NERVE exercises in teams over five other modality-timing combinations .
+CONCLUSIONS	Results allow us to define best practices for integrating VP simulators into medical education .
+CONCLUSIONS	Implementing NERVE experiences in team environments with medical students in the future may be preferable .
+

@@ -1,0 +1,10 @@
+24429164
+OBJECTIVE	To evaluate whether patients with rheumatoid arthritis who did not respond sufficiently to tocilizumab ( TCZ ) plus disease-modifying antirheumatic drug ( DMARD ) treatment by Week 8 responded at later timepoints when continuing to take their original dose of TCZ .
+METHODS	In this posthoc analysis of data from phase III randomized controlled trials of inadequate responders ( IR ) to DMARD or tumor necrosis factor - inhibitors ( anti-TNF ) , percentages of patients meeting early response criteria were calculated by randomized treatment arm ( TCZ 4 mg/kg , 8 mg/kg , or placebo in combination with DMARD ) .
+METHODS	Percentages of patients achieving certain disease activity thresholds at later timepoints were calculated for patients who had/had not achieved response by Week 8 .
+RESULTS	In DMARD-IR early nonresponders , 29.0 % , 17.2 % , and 3.7 % of TCZ 8 mg/kg-randomized , TCZ 4 mg/kg-randomized , and placebo-randomized patients , respectively , achieved 28-joint Disease Activity Score ( DAS28 ) 3.2 by Week 24 .
+RESULTS	Among anti-TNF-IR patients without early response , 26.5 % , 8.5 % , and 1.9 % of TCZ 8 mg/kg-randomized , TCZ 4 mg/kg-randomized , and placebo-randomized patients , respectively , achieved DAS28 3.2 at Week 24 .
+CONCLUSIONS	A substantial number of DMARD-IR patients taking TCZ 4 or 8 mg/kg and anti-TNF-IR patients taking TCZ 8 mg/kg who failed to respond by 8 weeks benefited from continued TCZ treatment in combination with DMARD .
+CONCLUSIONS	In contrast , the anti-TNF-IR patients without early responses who continued to take TCZ 4 mg/kg were unlikely to experience a cumulative benefit .
+CONCLUSIONS	ClinicalTrials.gov registration numbers : NCT00106548 , NCT00106574 , NCT00106535 , NCT00106522 .
+

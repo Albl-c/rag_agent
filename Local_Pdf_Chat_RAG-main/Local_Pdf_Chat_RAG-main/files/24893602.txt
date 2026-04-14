@@ -1,0 +1,12 @@
+24893602
+BACKGROUND	Homeless adults are more likely to smoke tobacco and are less likely to successfully quit smoking than smokers in the general population , despite comparable numbers of cessation attempts and desire to quit .
+BACKGROUND	To date , studies that have examined smoking cessation in homeless samples have used traditional lab/clinic-based assessment methodologies .
+BACKGROUND	Real-time assessment of key variables may provide new insights into the process of quitting among homeless smokers .
+METHODS	The purpose of the current study was to identify predictors of a quit attempt using real-time assessment methodology during the 6 days prior to a scheduled quit attempt among homeless adults seeking care at a shelter-based smoking cessation clinic .
+METHODS	Parameters for multiple variables ( i.e. , motivation for quitting , smoking expectancies , quit self-efficacy , smoking urges , negative affect , positive affect , restlessness , hostility , and stress ) were calculated and were used as predictors of biochemically verified quit date abstinence ( i.e. , 13hr abstinent ) using logistic regression analyses .
+RESULTS	Participants ( n = 57 ) were predominantly male ( 59.6 % ) , non-White ( 68.4 % ) , and smoked an average of 18 cigarettes per day .
+RESULTS	A total of 1,132 ecological momentary assessments ( 83 % completion rate ) were collected at random times ( i.e. , up to 4 assessments/day ) during the 6 days prior to a scheduled quit attempt .
+RESULTS	Results indicated that declining ( negative slope ) negative affect , restlessness , and stress predicted quit date abstinence .
+RESULTS	Additionally , increasing positive coping expectancies across the prequit week predicted quit date abstinence .
+CONCLUSIONS	Study findings highlight multiple variables that may be targeted during the precessation period to increase smoking cessation attempts in this difficult to treat population of smokers .
+

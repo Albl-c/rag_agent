@@ -1,0 +1,11 @@
+24447629
+OBJECTIVE	To compare the effects of two of the most effective lipid-lowering therapies with similar LDL-cholesterol reduction capacity on the innate and adaptive immune responses through the evaluation of autoantibodies anti-oxidized LDL ( anti-oxLDL Abs ) and electronegative LDL [ LDL ( - ) ] levels .
+METHODS	We performed a prospective , randomized , open label study , with parallel arms and blinded endpoints .
+METHODS	One hundred and twelve subjects completed the study protocol and received rosuvastatin 40 mg or ezetimibe/simvastatin 10/40 mg for 12 weeks .
+METHODS	Lipids , apolipoproteins , LDL ( - ) , and anti-oxLDL Abs ( IgG ) were assayed at baseline and end of study .
+RESULTS	Main clinical and laboratory characteristics were comparable at baseline .
+RESULTS	Lipid modifications were similar in both treatment arms , however , a significant raise in anti-oxLDL Abs levels was observed in subjects treated with rosuvastatin ( p = 0.026 vs. baseline ) , but not in those receiving simvastatin/ezetimibe .
+RESULTS	( p = 0.233 vs. baseline ) , thus suggesting modulation of adaptive immunity by a potent statin .
+RESULTS	Titers of LDL ( - ) were not modified by the treatments .
+CONCLUSIONS	Considering atherosclerosis as an immune disease , this study adds new information , showing that under similar LDL-cholesterol reduction , the choice of lipid-lowering therapy can differently modulate adaptive immune responses .
+

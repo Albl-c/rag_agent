@@ -1,0 +1,13 @@
+25819861
+BACKGROUND	Poor adherence to evidence-based medications in heart failure ( HF ) is a major cause of avoidable hospitalizations , disability , and death .
+BACKGROUND	To test the feasibility of improving medication adherence , we performed a randomized proof-of-concept study of a self-management intervention in high-risk patients with HF .
+METHODS	Patients with HF who screened positively for poor adherence ( < 6 Morisky Medication Adherence Scale 8-item ) were randomized to either the intervention or attention control group .
+METHODS	In the intervention group ( n = 44 ) , a nurse conducted self-management training before discharge that focused on identification of medication goals , facilitation of medication-symptom associations , and use of a symptom response plan .
+METHODS	The attention control group ( n = 42 ) received usual care ; both groups received follow-up calls at 1 week .
+METHODS	However , the content of follow-up calls for the attention control group was unrelated to HF medications or symptoms .
+METHODS	General linear mixed models were used to evaluate the magnitude of change in adherence and symptom-related events at 3 - , 6 - , and 12-month follow-up clinic visits .
+METHODS	Efficacy was measured as improved medication adherence using nurse-assessed pill counts at each time point .
+RESULTS	Pooled over all time points , patients in the intervention group were more likely to be adherent to medications compared with patients in the attention control group ( odds ratio 3.92 , t = 3.51 , P = .0007 ) .
+CONCLUSIONS	A nurse-delivered , self-care intervention improved medication adherence in patients with advanced HF .
+CONCLUSIONS	Further work is needed to examine whether this intervention can be sustained to improve clinical outcomes .
+

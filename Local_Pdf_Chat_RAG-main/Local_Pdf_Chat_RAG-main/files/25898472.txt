@@ -1,0 +1,12 @@
+25898472
+OBJECTIVE	To evaluate pregnancy rates based on the route of progesterone replacement in frozen embryo transfer ( FET ) cycles .
+METHODS	A randomized controlled trial and retrospective analysis .
+METHODS	In the randomized group 76 FET cycles were randomized .
+METHODS	In the retrospective group 508 FET cycles were reviewed .
+METHODS	Intramuscular ( IM ) proges-erone in oil 100 mg daily or oral micronized progesterone prior to transfer followed by compounded vaginal proges-erone 200 mg 3 times daily ( OV ) .
+METHODS	The main outcome measure was the clinical pregnancy rate ( CPR ) .
+RESULTS	Baseline characteristics did not vary be-ween groups in either cohort .
+RESULTS	In the randomized group there were no significant differences in CPR ( 31.43 % vs. 21.05 % ) or live birth rate ( LBR ) ( 31.43 % vs. 18.92 % ) for IM and OV progesterone replacement , respectively .
+RESULTS	In the retrospective cohort patients there wore also no significant differences in CPR ( 35.56 % vs. 32.35 % ) or LBR ( 32.23 % vs. 28.51 % ) f or the IM and OVp rogester-ne replacement groups , respectively .
+CONCLUSIONS	This study demonstrates that either OV or IM progesterone is effective for luteal phase support for FETs .
+

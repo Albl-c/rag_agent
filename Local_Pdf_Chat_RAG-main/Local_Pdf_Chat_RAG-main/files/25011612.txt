@@ -1,0 +1,16 @@
+25011612
+BACKGROUND	Although the benefits of physical activity ( PA ) on to prevent and manage non-communicable diseases are well known , strategies to help increase the levels of PA among different populations are limited .
+BACKGROUND	Exercise-referral schemes have emerged as one effective approach to promote PA ; however , there is uncertainty about the feasibility and effectiveness of these schemes in settings outside high-income countries .
+BACKGROUND	This study will examine the effectiveness of a scheme to refer hypertensive patients identified in Primary Health Care facilities ( PHCU ) of the Mexican social security institution to a group PA program offered in the same institution .
+METHODS	We will describe the methods of a cluster randomized trial study designed to evaluate the effectiveness of an exercise referral scheme to increasing physical activity in hypertensive patients compared to a non-referral scheme .
+METHODS	Four PHCU were selected for the study ; the PHCU will take part as the unit of randomization and sedentary hypertensive patients as the unit of assessment .
+METHODS	2 PHCU of control group ( GC ) will provide information to hypertensive patients about physical activity benefits and ways to increase it safely .
+METHODS	2 PHCU of intervention group ( IG ) will refer patients to sports facilities at the same institution , to follow a group-based PA program developed to increase the PA levels with a designed based on the Transtheoretical Model and Social Cognitive Theory .
+METHODS	To evaluate the effects of the intervention as well as short-term maintenance of the intervention 's effects , PA will be assessed at baseline , at 24 and 32 weeks of follow-up .
+METHODS	The main outcome will be the difference before and after intervention in the percentage of participants meeting recommended levels of PA between and within intervention and control groups .
+METHODS	PA will be measured through self-report and with objective measure by accelerometer .
+CONCLUSIONS	This study will allow us to evaluate a multidisciplinary effort to link the primary care and community-based areas of the same health care system .
+CONCLUSIONS	Our findings will provide important information about the feasibility and effectiveness of an exercise-referral scheme and will be useful for decision-making about the implementation of strategies for increasing PA among hypertensive and other clinical populations in Mexico and Latin America .
+BACKGROUND	Clinicaltrials.gov Identifier : NCT01910935 .
+BACKGROUND	Date of registration : 07/05/2013 .
+

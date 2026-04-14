@@ -1,0 +1,13 @@
+25915712
+BACKGROUND	The stepped care program Bridging Intervention in Anesthesiology ( BRIA ) aims at motivating and supporting surgical patients with comorbid mental disorders to engage in psychosocial mental healthcare options .
+BACKGROUND	This study examined the efficacy of BRIA .
+METHODS	This randomized , parallel-group , open-label , controlled trial was conducted in the preoperative anesthesiological assessment clinics and surgical wards of a large university hospital in Germany .
+METHODS	A total of 220 surgical patients with comorbid mental disorders were randomized by using the computer-generated lists to one of two intervention groups : BRIA psychotherapy sessions up to 3 months postoperatively ( BRIA ) versus no psychotherapy/computerized brief written advice ( BWA ) only .
+METHODS	Primary outcome was participation in psychosocial mental healthcare options at month 6 .
+METHODS	Secondary outcome was change of self-reported general psychological distress ( Global Severity Index of the Brief Symptom Inventory ) between baseline and month 6 .
+RESULTS	At 6-month follow-up , the rate of patients who engaged in psychosocial mental healthcare options was 30 % ( 33 of 110 ) in BRIA compared with 11.8 % ( 13 of 110 ) in BWA ( P = 0.001 ) .
+RESULTS	Number needed to treat and relative risk reduction were 6 ( 95 % CI , 4 to 13 ) and 0.21 ( 0.09 to 0.31 ) , respectively .
+RESULTS	In BRIA , Global Severity Index decreased between baseline and month 6 ( P < 0.001 ) , whereas it did not change significantly in BWA ( P = 0.197 ) .
+CONCLUSIONS	Among surgical patients with comorbid mental disorders , BRIA results in an increased engagement in subsequent therapy options and a decrease of general psychological distress .
+CONCLUSIONS	These data suggest that it is reasonable to integrate innovative psychotherapy programs into the context of interdisciplinary surgical care .
+

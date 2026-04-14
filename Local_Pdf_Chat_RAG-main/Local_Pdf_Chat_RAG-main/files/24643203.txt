@@ -1,0 +1,14 @@
+24643203
+BACKGROUND	Previous phase III studies in patients with advanced Parkinson 's disease ( PD ) not adequately controlled on levodopa demonstrated significant reduction of ` off ' time with rotigotine transdermal system up to 16 mg/24 h. However , the minimal effective dose has not been established .
+OBJECTIVE	This international , randomized , double-blind , placebo-controlled study ( SP921 ; NCT00522379 ) investigated rotigotine dose response up to 8 mg/24 h.
+METHODS	Patients with advanced idiopathic PD ( 2.5 h of daily ` off ' time on stable doses of levodopa ) were randomized 1:1:1:1:1 to receive rotigotine 2 , 4 , 6 , or 8 mg/24 h or placebo , titrated over 4 weeks and maintained for 12 weeks .
+METHODS	The primary efficacy variable was change from baseline to end of maintenance in absolute time spent ` off ' .
+RESULTS	409/514 ( 80 % ) randomized patients completed maintenance .
+RESULTS	Mean ( SD ) baseline daily ` off ' times ( h/day ) were placebo : 6.4 ( 2.5 ) , rotigotine 2-8 mg/24 h : 6.4 ( 2.6 ) .
+RESULTS	Rotigotine 8 mg/24 h was the minimal dose to significantly reduce ` off ' time versus placebo .
+RESULTS	LS mean ( SE ) absolute change in daily ` off ' time ( h/day ) from baseline was -2.4 ( 0.28 ) with rotigotine 8 mg/24 h , and -1.5 ( 0.26 ) with placebo ; absolute change in ` off ' time in the 8 mg/24 h group compared with placebo was -0.85 h/day ( 95 % CI -1.59 , -0.11 ; p = 0.024 ) .
+RESULTS	There was an apparent dose-dependent trend .
+RESULTS	Adverse events ( AEs ) reported at a higher incidence in the rotigotine 8 mg/24 h group versus placebo included application site reactions , nausea , dry mouth , and dyskinesia ; there was no worsening of insomnia , somnolence , orthostatic hypotension , confusional state or hallucinations , even in patients 75 years of age .
+CONCLUSIONS	The minimal statistically significant effective dose of rotigotine to reduce absolute ` off ' time was 8 mg/24 h.
+CONCLUSIONS	The AE profile was similar to previous studies .
+

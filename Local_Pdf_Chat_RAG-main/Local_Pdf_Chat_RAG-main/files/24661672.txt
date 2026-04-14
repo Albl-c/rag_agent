@@ -1,0 +1,14 @@
+24661672
+OBJECTIVE	The secreted protein acidic and rich in cysteine-like 1 ( SPARCL1 ) is expressed in various normal tissues and many types of cancers .
+OBJECTIVE	The function of SPARCL1 and its relationship to a patient 's prognosis have been studied , whereas its relationship to radiation therapy ( RT ) is not known .
+OBJECTIVE	Our aim was to investigate the expression of SPARCL1 in rectal cancer patients who participated in a clinical trial of preoperative RT. .
+METHODS	The study included 136 rectal cancer patients who were randomized to undergo preoperative RT and surgery ( n = 63 ) or surgery alone ( n = 73 ) .
+METHODS	The expression levels of SPARCL1 in normal mucosa ( n = 29 ) , primary tumor ( n = 136 ) , and lymph node metastasis ( n = 35 ) were determined by immunohistochemistry .
+RESULTS	Tumors with RT had stronger SPARCL1 expression than tumors without RT ( P = .003 ) .
+RESULTS	In the RT group , strong SPARCL1 expression was related to better survival than weak expression in patients with stage III tumors , independent of sex , age , differentiation , and margin status ( P = .022 ; RR = 18.128 ; 95 % confidence interval , 1.512-217 .413 ) .
+RESULTS	No such relationship was found in the non-RT group ( P = .224 ) .
+RESULTS	Further analysis of interactions among SPARCL1 expression , RT , and survival showed statistical significance ( P = .024 ) .
+RESULTS	In patients with metastases who received RT , strong SPARCL1 expression was related to better survival compared to weak expression ( P = .041 ) but not in the non-RT group ( P = .569 ) .
+CONCLUSIONS	SPARCL1 expression increases with RT and is related to better prognosis in rectal cancer patients with RT but not in patients without RT. .
+CONCLUSIONS	This result may help us to select the patients best suited for preoperative RT. .
+

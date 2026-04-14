@@ -1,0 +1,16 @@
+24762108
+OBJECTIVE	Kisspeptin-54 , an endogenous naturally occurring ligand of the G protein-coupled receptor-54 , stimulates GnRH-gonadotropin secretion and suppresses metastases in animal models of cancer but is subject to rapid degradation and inactivation .
+OBJECTIVE	TAK-448 is an investigational oligopeptide analog of the fully active 10-amino acid C terminus of kisspeptin-54 .
+OBJECTIVE	This phase 1 study evaluated the safety , pharmacokinetics , and pharmacodynamics of TAK-448 in healthy subjects and patients with prostate cancer ( PC ) .
+METHODS	Healthy subjects aged 50 years or older received TAK-448 sc as a single-bolus or 2-hour infusion ( 0.01-6 mg/d ; part A ) and as a 14-day sc administration ( 0.01-1 mg/d ; part B ) .
+METHODS	In a subsequent , open-label , phase 1 study in PC patients aged 40-78 years , TAK-448 was given as a 1-month depot formulation .
+RESULTS	Eighty-two healthy subjects received TAK-448 ; 30 received placebo .
+RESULTS	Grades 1-2 adverse events were reported in 26 % of subjects during TAK-448 treatment .
+RESULTS	All dosing regimens resulted in dose-proportional exposures .
+RESULTS	The maximum observed plasma concentration occurred after 0.25-0 .5 hours , and median terminal elimination half-life was 1.4-5 .3 hours .
+RESULTS	T increased approximately 1.3 - to 2-fold by 48 hours after a single bolus or 2 hour injections , whereas during the 14-day infusion , at doses above 0.1 mg/d , T dropped to below-baseline values by 60 hours and reached a subsequently sustained below-castration level by day 8 .
+RESULTS	In PC patients , T decreased to less than 20 ng/dL in four of five patients dosed with 12 or 24 mg TAK-448 sc-depot injections .
+RESULTS	The prostate-specific antigen decreased greater than 50 % in all patients dosed with 24 mg .
+CONCLUSIONS	Continuous TAK-448 infusion was well tolerated by healthy males and resulted in sustained T suppression .
+CONCLUSIONS	Depot injection in patients with PC similarly reduced T and resulted in prostate-specific antigen responses .
+

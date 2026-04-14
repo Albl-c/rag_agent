@@ -1,0 +1,14 @@
+24621834
+BACKGROUND	This study evaluated the efficacy and safety of levosimendan , a positive inotropic drug with vasodilator effects , given intravenously to patients with acutely decompensated heart failure ( ADHF ) .
+METHODS	We performed 2 sequential trials , the first to develop a new measure of efficacy in 100 patients , and the second to use this measure to evaluate levosimendan in an additional 600 patients .
+METHODS	Patients admitted with ADHF received placebo or intravenous levosimendan for 24 h in addition to standard treatment .
+METHODS	The primary endpoint was a composite that evaluated changes in clinical status during the first 5 days after randomization .
+RESULTS	In the 600-patient trial , more levosimendan than placebo patients ( 58 vs. 44 ) were improved at all 3 pre-specified time points ( 6 h , 24 h , and 5 days ) , whereas fewer levosimendan patients ( 58 vs. 82 ) experienced clinical worsening ( p = 0.015 for the difference between the groups ) .
+RESULTS	These differences were apparent , despite more frequent intensification of adjunctive therapy in the placebo group ( 79 vs. 45 patients ) .
+RESULTS	Improvements in patient self-assessment and declines in B-type natriuretic peptide levels with levosimendan persisted for 5 days and were associated with reduced length of stay ( p = 0.009 ) .
+RESULTS	Similar findings were present in the 100-patient pilot trial .
+RESULTS	Levosimendan was associated with more frequent hypotension and cardiac arrhythmias during the infusion period and a numerically higher risk of death across the 2 trials ( 49 of 350 on a regimen of levosimendan vs. 40 of 350 on a regimen of placebo at 90 days , p = 0.29 ) .
+CONCLUSIONS	In patients with ADHF , intravenous levosimendan provided rapid and durable symptomatic relief .
+CONCLUSIONS	As dosed in this trial , levosimendan was associated with an increased risk of adverse cardiovascular events .
+CONCLUSIONS	( Evaluation of Intravenous Levosimendan Efficacy in the Short Term Treatment of Decompensated Chronic Heart Failure ; NCT00048425 ) .
+

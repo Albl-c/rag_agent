@@ -1,0 +1,12 @@
+24423913
+OBJECTIVE	To compare the efficacy of laryngeal mask airway-Supreme ( TM ) versus common laryngeal mask airway in children with general anesthesia .
+METHODS	With local research ethics committee 's approval and written informed parental consent , 100 children were randomly divided into groups L ( size 2.0 common laryngeal mask airway ) and S ( size 2.0 laryngeal mask airway-Supreme ( TM ) ) according to random number ( n = 50 each ) .
+METHODS	After anesthesia induction , a common laryngeal mask airway or laryngeal mask airway-Supreme ( TM ) was inserted and mechanically ventilated .
+METHODS	Time and ease for insertion , insertion success rate , airway leak pressure , success rate and ease of disposal sputum collecting tube insertion in group S , quality of airway during anesthetic maintenance , abdominal circumference changes and complications within 24 h post-operation were measured .
+RESULTS	Compared with group L , abdominal circumference increased less in group S ( 0.90 0.35 vs 0.43 0.18 cm , n = 46 , P < 0.01 ) .
+RESULTS	No significant inter-group differences existed for other measurements .
+RESULTS	Disposal sputum collecting tube was successfully placed in group S ( 100 % ) .
+CONCLUSIONS	In children with mechanical ventilation , laryngeal mask airway-Supreme ( TM ) can be effectively applied to maintain a good airway .
+CONCLUSIONS	And the incidence of gastric insufflation is lower .
+CONCLUSIONS	It is particularly useful for those requiring evacuation of gastric contents during general anesthesia .
+

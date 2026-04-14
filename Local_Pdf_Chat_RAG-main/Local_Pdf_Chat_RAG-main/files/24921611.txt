@@ -1,0 +1,12 @@
+24921611
+OBJECTIVE	The aim of this study was to compare the effects of plyometric training versus basketball technique training on improving neuro-muscular performance .
+METHODS	Thirty-six ( age 14.90.9 years , body height 164.07.6 cm , body weight 54.08.7 kg , BMI 20.12.4 kgm-2 ) basketball players girls were randomly allocated to 2 groups : Basketball Plyometric Training ( BPT , N. = 18 ) and Basketball Technique Training ( BTT , N. = 18 ) .
+METHODS	The players were tested by two specific tests : counter movement jump ( CMJ ) and squat jump ( SJ ) before and after 6 training weeks .
+RESULTS	The jump height , as dependent variable , showed a different trend as an effect of the different training protocols , in contrast with the current knowledge .
+RESULTS	Manova did not show significant interactions between the two groups for the height of jumps , while significant differences were found for interaction time training ( P < 0.05 ) and for main effect time ( P < 0.001 ) .
+RESULTS	After training , the BPT group increased significantly CMJ performance by 11.3 % ( P < 0.05 ) , whereas the BTT group increased by 4.6 % .
+RESULTS	Likewise , the BPT group demonstrated a significant greater improvement of jump height than BTT group ( an increase of 15.4 % vs. 7.5 % , P < 0.01 ; respectively ) .
+CONCLUSIONS	These results suggest that both training protocols proposed in this study improved vertical jump performance .
+CONCLUSIONS	However , a combination of the two protocols , plyometric training and sport-specific-exercises , could be useful to optimize performance by an easy transition from controlled a-specific to sport-specific performance requirements .
+CONCLUSIONS	In conclusion , BPT is a safe and effective method of achieving a favourable neuro-muscular performance than BTT in female basketball players .
+

@@ -1,0 +1,14 @@
+25198265
+OBJECTIVE	To evaluate whether ondansetron or the combination of doxylamine and pyridoxine was superior for the treatment of nausea and vomiting of pregnancy .
+METHODS	This was a double-blind , randomized , controlled trial in which women with nausea and vomiting of pregnancy were assigned to 4 mg of ondansetron plus a placebo tablet or 25 mg pyridoxine plus 12.5 mg of doxylamine for 5 days .
+METHODS	The primary outcome was an improvement in nausea as reported on a 100-mm visual analog scale ( VAS ) .
+METHODS	Secondary outcomes were a reduction in vomiting on the VAS and the proportion of patients reporting sedation or constipation while using either study regimen .
+RESULTS	Thirty-six women ( 18 in each group ) were randomized to either ondansetron or pyridoxine and doxylamine , of whom 13 ( 72 % ) and 17 ( 94 % ) completed follow-up , respectively .
+RESULTS	There were no differences among the groups with regard to demographic characteristics or baseline nausea .
+RESULTS	Patients randomized to ondansetron were more likely to have an improvement in their baseline nausea as compared with those using pyridoxine and doxylamine over the course of 5 days of treatment ( median VAS score decreased 51 mm [ interquartile range 37-64 ] compared with 20 mm [ 8-51 ] ; P = .019 ) .
+RESULTS	Furthermore , women using ondansetron reported less vomiting ( median VAS decreased 41 [ interquartile range 17-57 ] compared with 17 [ -4 to 38 ] ; P = .049 ) .
+RESULTS	There was no significant difference between the groups regarding sedation or constipation .
+CONCLUSIONS	Our investigation showed ondansetron to be superior to the combination of pyridoxine and doxylamine in the treatment of nausea and emesis in pregnancy .
+BACKGROUND	ClinicalTrials.gov , www.clinicaltrials.gov , NCT01668069 .
+METHODS	: I.
+

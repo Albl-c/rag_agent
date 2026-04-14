@@ -1,0 +1,14 @@
+24298995
+OBJECTIVE	To compare efficacy and safety of two , once-daily basal insulin formulations [ insulin lispro protamine suspension ( ILPS ) vs. insulin glargine ( glargine ) ] added to oral antihyperglycaemic medications ( OAMs ) and exenatide BID in suboptimally controlled type 2 diabetes ( T2D ) patients .
+METHODS	This 24-week , open-label , multicentre trial randomized patients to bedtime ILPS ( n = 171 ) or glargine ( n = 168 ) .
+METHODS	Non-inferiority of ILPS versus glargine was assessed by comparing the upper limit of 95 % confidence intervals ( CIs ) for change in haemoglobin A1c ( HbA1c ) from baseline to week 24 ( adjusted for baseline HbA1c ) with non-inferiority margin 0.4 % .
+RESULTS	Non-inferiority of ILPS versus glargine was demonstrated : least-squares mean between-treatment difference ( ILPS minus glargine ) ( 95 % CI ) was 0.22 % ( 0.06 , 0.38 ) .
+RESULTS	Mean HbA1c reduction was less for ILPS - versus glargine-treated patients ( -1.160.84 vs. -1.400.97 % , p = 0.008 ) .
+RESULTS	Endpoint HbA1c < 7.0 % was achieved by 53.7 % ( ILPS ) and 61.7 % ( glargine ) ( p = NS ) .
+RESULTS	Overall hypoglycaemia rates ( p = NS ) and severe hypoglycaemia incidence ( p = NS ) were similar .
+RESULTS	Nocturnal hypoglycaemia rate was higher in patients treated with ILPS versus glargine ( p = 0.004 ) .
+RESULTS	Weight gain was similar between groups ( ILPS : 0.273.38 kg ; glargine : 0.663.93 kg , p = NS ) .
+RESULTS	Endpoint total insulin doses were lower in patients treated with ILPS versus glargine ( 0.300.17 vs. 0.370.17 IU/kg/day , p < 0.001 ) .
+CONCLUSIONS	ILPS was non-inferior to glargine for HbA1c change over 24weeks , but was associated with less HbA1c reduction and more nocturnal hypoglycaemia .
+CONCLUSIONS	Treat-to-target basal insulin therapy improves glycaemic control and is associated with minimal weight gain when added to OAMs and exenatide BID for suboptimally controlled T2D .
+

@@ -1,0 +1,17 @@
+24593664
+BACKGROUND	Emollient therapy is used frequently to prevent nosocomial infection in the management of preterm infants , despite a lack of adequate evidence of its efficacy .
+OBJECTIVE	To assess the efficacy of prophylactic whole-body application of pure preservative-free topical petroleum jelly on the incidence of nosocomial sepsis in very low-birthweight ( VLBW ) infants .
+METHODS	A prospective , randomised controlled trial of the application of topical petroleum jelly was conducted .
+METHODS	Infants weighing < 1250 g at birth and with a gestational age of 32 weeks were included .
+METHODS	The intervention group received twice-daily topical therapy of 2 g/kg pure , preservative-free topical petroleum jelly until the completion of 34 weeks of gestation .
+METHODS	The control group received no topical petroleum jelly treatment .
+METHODS	The primary outcome was the incidence of late-onset sepsis during hospitalisation .
+METHODS	Other data collected included the pattern of temperature control , weight changes , fluid requirements , serum bilirubin level , electrolyte imbalance and skin condition .
+RESULTS	Thirty-five infants in the intervention group and 39 in the control group were recruited .
+RESULTS	Birthweight , gestational age , gender and perinatal variables were comparable in the two groups .
+RESULTS	There was a trend towards an increased incidence of culture-proven nosocomial sepsis in the intervention group - 19 episodes ( 54 % ) in the intervention group vs 16 ( 41 % ) in the control group , and an increased rate of NEC - 20 % in the intervention group vs 8 % in the control group .
+RESULTS	The intervention group had better skin condition throughout their stay and the incubator ambient temperature was lower in the intervention group in the 1st week of life .
+RESULTS	The fluid balance of the infants in the intervention group was better , as reflected by their mean ( SD ) shorter time to regain birthweight [ 12 ( 5 ) vs 14 ( 6 ) days ] , and there were fewer episodes of hypernatraemia in the 1st week of life , although none of these reached statistical significance .
+RESULTS	However , there was a significantly lower mean ( SD ) level of maximum hyperbilirubinaemia [ 157 ( 40 ) vs 182 ( 46 ) mmol/L , P = 002 ) in the intervention group .
+CONCLUSIONS	Although prophylactic topical application of pure , preservative-free petroleum jelly brought substantial improvement of skin condition and temperature control , it was associated with a trend towards an increased rate of nosocomial sepsis .
+

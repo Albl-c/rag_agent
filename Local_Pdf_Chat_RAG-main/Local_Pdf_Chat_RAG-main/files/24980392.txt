@@ -1,0 +1,14 @@
+24980392
+BACKGROUND	DX-2930 is a human monoclonal antibody inhibitor of plasma kallikrein under investigation for long-term prophylaxis of hereditary angioedema .
+OBJECTIVE	To assess the safety , tolerability , pharmacokinetics , and pharmacodynamics of DX-2930 in healthy subjects .
+METHODS	A single-center , double-blinded study was performed in 32 healthy subjects randomized 3:1 to receive a single subcutaneous administration of DX-2930 or placebo within 1 of 4 sequential , ascending dose cohorts ( n = 8 each ) : 0.1 , 0.3 , 1.0 , or 3.0 mg/kg .
+RESULTS	No dose-limiting toxicity was observed .
+RESULTS	Headache was the most commonly reported treatment emergent adverse event ( AE ) , occurring at a rate of 25 % in the DX-2930 - and placebo-treated groups ; none were severe and all resolved .
+RESULTS	There were no serious AEs , discontinuations owing to an AE , or deaths .
+RESULTS	Two subjects had a severe AE reported as related to treatment by the blinded investigator ; the 2 AEs were asymptomatic creatinine phosphokinase elevations of 902 U/L in 1 subject receiving 0.1 mg/kg DX-2930 and 1,967 U/L in 1 subject receiving placebo .
+RESULTS	For the 0.1 - , 0.3 - , 1.0 - , and 3.0-mg / kg dose groups , respectively , mean maximum plasma concentrations were 0.6 , 1.4 , 5.6 , and 14.5 g/mL and mean elimination half-lives were 20.6 , 16.8 , 17.6 , and 21.2 days .
+RESULTS	Exploratory biomarker assays , involving exvivo activation of the kallikrein pathway , showed dose - and time-dependent inhibition of plasma kallikrein , with evidence of sustained bioactivity consistent with the pharmacokinetics profile .
+CONCLUSIONS	A single administration of DX-2930 in healthy subjects up to doses of 3.0 mg/kg was well tolerated without dose-limiting toxicity .
+CONCLUSIONS	Pharmacokinetic and pharmacodynamic data provide evidence fora long-acting biological effect relevant to long-term prophylaxis for hereditary angioedema with C1-inhibitor deficiency .
+BACKGROUND	ClinicalTrials.gov identifier : NCT01923207 .
+

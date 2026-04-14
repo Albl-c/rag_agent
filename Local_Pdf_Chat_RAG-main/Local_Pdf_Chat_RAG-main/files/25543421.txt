@@ -1,0 +1,19 @@
+25543421
+OBJECTIVE	To compare the efficacy difference in treatment of depression in breast cancer between the combined therapy of acupuncture and auricular acupressure and western medication .
+METHODS	Sixty patients were randomized into an observation group and a control group , 30 cases in each one .
+METHODS	In the observation group , the combined therapy of acupuncture and auricular acupressure was adopted .
+METHODS	The main acupoints of acupuncture were Hegu ( LI 4 ) , Tai-chong ( LR 3 ) , Baihui ( GV 20 ) , Zusanli ( ST 36 ) , Qihai ( CV 6 ) , etc. .
+METHODS	The supplementary acupoints were combined according to the syndrome differentiation .
+METHODS	The treatment was given once every day , 5 treatments a week , at the interval of 2 days among weeks .
+METHODS	The auricular acupressure was applied to gan ( CO12 , liver ) , pi ( CO13 , spleen ) , neifenmi ( CO18 , endocrine ) , etc. , once every 4 days , on each side in one treatment .
+METHODS	In the control group , fluoxetine hydrochloride capsules were prescribed for oral administration , 20 mg , once a day .
+METHODS	The Hamilton depression rating scale ( HAMD ) was used to assess the disease severity and efficacy before treatment , in 4 and 8 weeks of treatment separately .
+METHODS	HAMD factor changes were observed before treatment and at the end of the 8th week .
+METHODS	The Asberg antidepressants scale ( SERS ) was applied to safety assessment .
+RESULTS	The total effective rate was 86.7 % ( 26/30 ) in the observation group , better than 63.3 % ( 19/30 ) in the control group ( P < 0.05 ) .
+RESULTS	At the end of the 4th and 8th weeks , HAMD scores were all reduced apparently in the two groups ( all P < 0.01 ) .
+RESULTS	At the end of the 8th week , the scores of the HAMD factor 1 ( anxiety/somatic system ) , factor 5 ( retardation ) and factor 6 ( sleep disturbance ) were all reduced as compared with those before treatment in the two groups ( all P < 0.01 ) ; the results in the observation group were better than those in the control group ( P < 0.05 , P < 0.01 ) .
+RESULTS	SERS score in the observation group was lower obviously than that in the control group ( P < 0.01 ) .
+CONCLUSIONS	The combined therapy of acupuncture and auricular acupressure achieves the antidepression effect in treatment of depression in breast cancer and has less side effects and high safety .
+CONCLUSIONS	The efficacy is superior to fluoxetine hydrochloride capsules .
+

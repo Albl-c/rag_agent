@@ -1,0 +1,13 @@
+24640801
+OBJECTIVE	To evaluate the biochemical changes associated with succinylcholine administration after pretreatment with rocuronium at different time intervals .
+METHODS	The prospective , randomised , single-blinded study was conducted at the Combined Military Hospital , Rawalpindi , from January to May 2010 .
+METHODS	Ninety male , aged 18-60 years , American Society of Anaesthesiology I or II patients undergoing elective inguinal herniotomy or external haemorrhoidectomy were included .
+METHODS	The patients were randomly divided into three equal groups .
+METHODS	Group A received a normal saline 5 ml as placebo 1 minute before succinylcholine ; Group B received rocuronium 0.06 mg/kg 1 intravenously minute before succinylcholine , while Group C received intravenous injection of rocuronium 0.06 mg/kg 5 minute before succinylcholine .
+METHODS	Venous blood samples for creatinine phosphokinase , lactate dehydrogenase and myoglobin plasma concentrations were obtained at 0 , 30 minutes , 6 hours and 24 hours after succinylcholine administration .
+RESULTS	Mean serum creatinine phosphokinase and myoglobin concentrations were significantly decreased in Groups B and C compared to Group A at 30 minutes and 24 hours ( p < 0.05 ) .
+RESULTS	However , no significant difference in the enzyme levels at any time interval was observed among the rocuronium groups .
+RESULTS	There was a significant rise in lactate dehydrogenase concentrations at 6 hours and 24 hours in Group A compared to Groups B and C ( p < 0.05 ) .
+CONCLUSIONS	Pretreatment with rocuronium effectively reduces the biochemical changes associated with succinylcholine-induced muscle fasciculations .
+CONCLUSIONS	However , whether it is given 1 minute or 5 minutes before succinylcholine does not make much difference .
+

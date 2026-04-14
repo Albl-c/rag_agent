@@ -1,0 +1,13 @@
+24467642
+OBJECTIVE	Increasing life expectancy of HIV-1-infected patients raises interest in how trial results apply to older patients .
+OBJECTIVE	This post-hoc analysis evaluated potential differences in efficacy and safety in older ( 50 years ) versus younger ( < 50 years ) patients in the ECHO and THRIVE trials over 96 weeks .
+METHODS	HIV-infected , treatment-nave adults were randomized to receive rilpivirine ( RPV ) or efavirenz ( EFV ) , plus a background regimen .
+METHODS	Virologic response rates ( FDA snapshot analysis ; HIV-1 RNA < 50 copies/mL ) were assessed at Week 96 .
+METHODS	Total-body bone mineral density was evaluated at baseline and Week 96 by dual-energy X-ray absorptiometry scans .
+METHODS	Serum concentrations of 25-hydroxy vitamin D ( ECHO trial only ) were also measured at baseline , Week 24 and Week 48 .
+RESULTS	1368 patients were treated .
+RESULTS	At Week 96 , virologic response rates were similar between older ( 77 % ) and younger ( 76 % ) RPV-treated patients and numerically higher in older ( 84 % ) versus younger ( 76 % ) EFV-treated patients .
+RESULTS	No clinically relevant age-related differences were observed in immunologic responses .
+RESULTS	Small differences were noted in older versus younger patients in adverse events ( higher rates of depression , insomnia , and rash in older EFV-treated patients ) , laboratory abnormalities ( increased low-density lipoprotein cholesterol and hyperglycemia in older EFV-treated patients and increased amylase in older patients across treatments ) , bone mineral density ( larger decreases in older patients across treatments ) , and progression to severe vitamin D deficiency ( greater in older versus younger EFV-treated patients ) .
+CONCLUSIONS	Efficacy and safety outcomes were generally similar in older versus younger patients in the ECHO and THRIVE trials .
+

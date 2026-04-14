@@ -1,0 +1,11 @@
+25266425
+OBJECTIVE	To assess the effect of a physical activity ( PA ) intervention on brain and behavioral indices of executive control in preadolescent children .
+METHODS	Two hundred twenty-one children ( 7-9 years ) were randomly assigned to a 9-month afterschool PA program or a wait-list control .
+METHODS	In addition to changes in fitness ( maximal oxygen consumption ) , electrical activity in the brain ( P3-ERP ) and behavioral measures ( accuracy , reaction time ) of executive control were collected by using tasks that modulated attentional inhibition and cognitive flexibility .
+RESULTS	Fitness improved more among intervention participants from pretest to posttest compared with the wait-list control ( 1.3 mL/kg per minute , 95 % confidence interval [ CI ] : 0.3 to 2.4 ; d = 0.34 for group difference in pre-to-post change score ) .
+RESULTS	Intervention participants exhibited greater improvements from pretest to posttest in inhibition ( 3.2 % , 95 % CI : 0.0 to 6.5 ; d = 0.27 ) and cognitive flexibility ( 4.8 % , 95 % CI : 1.1 to 8.4 ; d = 0.35 for group difference in pre-to-post change score ) compared with control .
+RESULTS	Only the intervention group increased attentional resources from pretest to posttest during tasks requiring increased inhibition ( 1.4 V , 95 % CI : 0.3 to 2.6 ; d = 0.34 ) and cognitive flexibility ( 1.5 V , 95 % CI : 0.6 to 2.5 ; d = 0.43 ) .
+RESULTS	Finally , improvements in brain function on the inhibition task ( r = 0.22 ) and performance on the flexibility task correlated with intervention attendance ( r = 0.24 ) .
+CONCLUSIONS	The intervention enhanced cognitive performance and brain function during tasks requiring greater executive control .
+CONCLUSIONS	These findings demonstrate a causal effect of a PA program on executive control , and provide support for PA for improving childhood cognition and brain health .
+

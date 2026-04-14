@@ -1,0 +1,13 @@
+25236397
+BACKGROUND	The purpose of this study was to assess the effect of Roux-en-Y gastric bypass ( RYGB ) with different pouch size in Chinese type 2 diabetes mellitus ( T2DM ) patients with measured body mass index ( BMI ) 30-35 kg/m ( 2 ) .
+METHODS	In this randomized and prospective study , we evaluated the efficacy of RYGB with smaller size pouch ( 10-20 ml ) versus larger pouch size ( 25-35 ml ) in 76 Chinese obese patients ( 33 F , 43 M ) with T2DM .
+METHODS	According to protocol , all patients were divided into two groups , smaller pouch size group and larger pouch size group , and underwent RYGB surgery .
+METHODS	Primary inclusion criteria of study were ( a ) a diagnosis of type 2 diabetes ( glycated hemoglobin level > 7.0 % ) , ( b ) measured BMI of at least 30 kg/m ( 2 ) and not yet 35 kg/m ( 2 ) , and ( c ) age between 25 and 60 years old , and ( d ) patients were excluded if they had previously undergone complex abdominal surgery or bariatric surgery .
+METHODS	Weight loss , BMI , percentage of excess weight loss ( % EWL ) , glycated hemoglobin , and fasting plasma glucose were obtained at 3 , 6 , 9 , and 12 months after surgery .
+RESULTS	Of these 76 patients , 69 ( 91 % ) patients completed follow-up postoperative 12 months .
+RESULTS	Weight loss and % EWL at 12 months was greater in smaller pouch size group ( mean 15.8 kg , 95 % CI -17.2 to -14.4 and mean 68.9 , 95 % CI 62.5-75 .2 % ) than in larger pouch size group ( mean -13.7 kg , 95 % CI -15.3 to -12.1 , and mean 59.1 , 95 % CI 52.8-65 .5 ) ( P = 0.046 , P = 0.033 , respectively ) .
+RESULTS	Glycemic control improved in both two groups , with a mean glycated hemoglobin level of 6.2 % ( 95 % CI 6.0-6 .5 % ) in smaller size group , and 6.7 % ( 95 % CI 6.4-7 .0 % ) in larger size group ( P = 0.025 , P < 0.05 ) .
+RESULTS	The fasting plasma glucose level decreased significantly after surgery , with a mean level of 5.4 mmol/L ( 95 % CI 5.2-5 .5 mmol/L ) and 5.6 mmol/L ( 95 % CI 5.5-5 .8 mmol/L ) respectively , ( P = 0.040 , P < 0.05 ) .
+CONCLUSIONS	In this short-term study , in Chinese T2DM patients with BMI 30-35 kg/m ( 2 ) , we observed a greater efficiency on weight loss and glycemic control with smaller pouch size compared to larger pouch size .
+CONCLUSIONS	In the future , long-term follow-up and large sample study will be necessary to confirm these outcomes .
+

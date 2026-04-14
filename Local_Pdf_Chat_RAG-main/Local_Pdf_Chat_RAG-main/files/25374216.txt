@@ -1,0 +1,13 @@
+25374216
+BACKGROUND	Hepatitis C virus ( HCV ) infection is an important cause of liver cancer in Thailand .
+BACKGROUND	The highest prevalence of anti-HCV positive among Thai blood donors is found in the northeastern region .
+BACKGROUND	The present analysis of the genotype distribution among anti-HCV positive northeastern-Thai blood donors was conducted to provide a base for the epidemiological pattern of HCV infection in this region .
+METHODS	A total of 112 HCV seropositive healthy blood donors were randomly selected and tested for the presence of HCV-RNA by RT-PCR .
+METHODS	HCV-RNA positive samples were genotyped by direct sequencing at core region genomes and confirmed by phylogenetic analysis .
+RESULTS	HCV viremia was found in 94.6 % ( 106/112 ) of HCV seropositive blood donors .
+RESULTS	There were 3 major genotypes distributed among this population .
+RESULTS	HCV genotype 3a was the most prevalent ( 71.7 % ) followed by genotypes 1a ( 7.5 % ) , 1b ( 7.5 % ) , 6i ( 3.8 % ) , 6f ( 2.8 % ) and 6n ( 1.9 % ) .
+CONCLUSIONS	HCV genotype 3a in asymptomatic infections in northeastern Thailand is significantly higher than other previous reports .
+CONCLUSIONS	Subgenotype 6 prevalence is less than in neighboring countries and distribution patterns differ .
+CONCLUSIONS	The findings are relevant as predictors for using interferon therapy in this population .
+

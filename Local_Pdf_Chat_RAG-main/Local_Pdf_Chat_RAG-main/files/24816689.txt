@@ -1,0 +1,13 @@
+24816689
+OBJECTIVE	To compare staples with subcuticular sutures for skin closure in emergency Cesarean sections ( CS ) .
+METHODS	One hundred and thirty women ( undergoing emergency CS without previous abdominal delivery ) were randomly assigned to either staples or subcuticular skin closure ( monocryl 3-0 ) .
+METHODS	Primary outcome of the study was cosmetic outcome [ as assessed by patient and independent observer : Patient Scar Assessment Scale ( PSAS ) and Observer Scar Assessment Scale ( OSAS ) , respectively ] , 6weeks post-operative .
+METHODS	Secondary outcomes were wound complications , operating time , post-operative pain ( visual analogue scale day 3 post-operative and patient assessment of pain in scar 6weeks post-operative ) , and duration of hospital stay .
+RESULTS	112 women were available for evaluation of scar 6weeks post-operative .
+RESULTS	Cosmetic result of staples was significantly better than subcuticular sutures ( PSAS and OSAS : p value 0.022 and 0.000 , respectively ) , with significantly lesser duration of surgery ( 24 vs. 32min : p value 0.000 ) and comparable post-operative pain ( pain on day 3 and 6weeks post-operatively : p value 0.474 and 0.179 , respectively ) and wound complications ( p value 0.737 ) .
+RESULTS	However , duration of stay in hospital was increased ( 6 vs. 3days : p value 0.001 ) .
+CONCLUSIONS	Staples are the method of choice for skin closure in emergency CS as they are significantly better than subcuticular sutures with respect to cosmesis and duration of surgery .
+CONCLUSIONS	Post-operative pain and wound complications are comparable in two groups .
+CONCLUSIONS	However , staples are associated with significantly increased duration of hospital stay .
+CONCLUSIONS	Trial registered in clinical trial registry CTRI : REF/2013/05 / 005087 .
+

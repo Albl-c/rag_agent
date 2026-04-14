@@ -1,0 +1,12 @@
+24313446
+OBJECTIVE	To examine the effect of action and coping planning strategies in the adherence to medication among outpatients with coronary artery disease .
+BACKGROUND	Action and coping planning strategies are based on implementation intention , which requires self-regulation by the individual , to prioritize intentionally planned responses over learned or habitual ones , from daily routines to stressful situations .
+METHODS	Randomized controlled trial .
+METHODS	Participants ( n = 115 ) were randomized into intervention ( use of action and coping planning strategies , n = 59 ) or control ( usual care , n = 56 ) groups .
+METHODS	The study was conducted between June 2010-May 2011 in two in-person visits : baseline and 2-month follow-up .
+METHODS	Participants in the intervention group received telephone reinforcement between baseline and 2-month follow-up .
+METHODS	Adherence to medication for cardioprotection and symptoms relief was evaluated by proportion of adherence , global measure of adherence evaluation and Morisky Self-Reported Measure of Medication Adherence Scale at both baseline and 2-month follow-up .
+RESULTS	When using the measure of global measure of adherence , participants in the intervention group reported adherence to therapy more often than controls ( odds ratio = 5.3 ) , but no statistically significant change was observed in the other two outcome measures .
+CONCLUSIONS	This study has shown that individuals who use action and coping planning report higher adherence to drug treatment , when measured by the global adherence evaluation .
+CONCLUSIONS	Further studies with longer follow-ups are needed to assess if the effect of planning strategies has long-term duration .
+

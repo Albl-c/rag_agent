@@ -1,0 +1,13 @@
+25598270
+BACKGROUND	Migraine is a highly disabling disease affecting a significant proportion of the Australian population .
+BACKGROUND	The methylenetetrahydrofolate reductase ( MTHFR ) C677T variant has been associated with increased levels of homocysteine and risk of migraine with aura ( MA ) .
+BACKGROUND	Folic acid ( FA ) , vitamin B6 , and B12 supplementation has been previously shown to reduce increased levels of homocysteine and decrease migraine symptoms .
+BACKGROUND	However , the influence of dietary folate intake on migraine has been unclear .
+BACKGROUND	The aim of the current study was to analyze the association of dietary folate intake in the form of dietary folate equivalent , FA , and total food folate ( TFF ) on migraine frequency , severity , and disability .
+METHODS	A cohort of 141 adult females of Caucasian descent with MA was genotyped for the MTHFR C677T variant using restriction enzyme digestion .
+METHODS	Dietary folate information was collected from all participants and analyzed using the `` FoodWorks '' 2009 package .
+METHODS	Folate consumption was compared with migraine frequency , severity , and disability using linear regression .
+RESULTS	A significant inverse relation was observed between dietary folate equivalent ( R ( 2 ) = 0.201 , B = -0.002 , P = .045 , 95 % confidence interval [ CI ] [ -0.004 , -0.001 ] ) and FA ( R ( 2 ) = 0.255 , B = -0.005 , P = .036 , 95 % CI [ -0.009 , -0.002 ] ) consumption and migraine frequency .
+RESULTS	It was also observed that in individuals with the CC genotype for the MTHFR C677T variant , migraine frequency was significantly linked to FA consumption ( R ( 2 ) = 0.106 , B = -0.004 , P = .029 , 95 % CI [ -0.007 , -0.004 ] ) .
+CONCLUSIONS	The results from this study indicate that folate intake in the form of FA may influence migraine frequency in female MA sufferers .
+

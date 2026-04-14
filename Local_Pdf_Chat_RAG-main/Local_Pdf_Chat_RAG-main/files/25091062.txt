@@ -1,0 +1,12 @@
+25091062
+OBJECTIVE	Helicobacter pylori eradication rates with clarithromycin-based triple therapy are declining , and an alternative strategy is needed urgently .
+OBJECTIVE	We sought to compare the efficacy of pretreatment antimicrobial susceptibility-guided vs. clarithromycin-based triple therapy for H. pylori eradication in a region with high rates of multiple drug resistance .
+METHODS	Consecutive H. pylori-infected patients with gastric epithelial neoplasms were randomized to receive antimicrobial susceptibility-guided therapy or clarithromycin-based triple therapy for 7 days .
+METHODS	In patients in whom the infection was not eradicated , antibiotics were given according to an initial antimicrobial susceptibility test as a second-line therapy in both groups .
+METHODS	Eradication rates , antibiotics resistance rates , and drug compliance owing to adverse effects were compared between the groups .
+RESULTS	In total , 114 patients were enrolled , and 112 completed the protocols .
+RESULTS	Drug compliance and side effects were similar between the groups .
+RESULTS	The intention-to-treat eradication rates were 94.7 % ( 95 % confidence interval ( CI ) = 88.8-100 % , 54/57 ) in the antimicrobial susceptibility-guided group and 71.9 % ( 95 % CI = 60.2-83 .5 % , 41/57 ) in the clarithromycin-based triple therapy group after the initial treatment ( P = 0.002 ) , whereas the per-protocol ( PP ) eradication rates were 96.4 % ( 95 % CI = 91.5-100 % , 54/56 ) in the antimicrobial susceptibility-guided group and 73.2 % ( 95 % CI = 61.5-84 .8 % , 41/56 ) in the clarithromycin-based triple therapy group ( P = 0.001 ) .
+RESULTS	In H. pylori with clarithromycin resistance , the eradication failure rate with first-line treatment was lower in the susceptibility-guided therapy group ( 0 % , 0/12 ) compared with the clarithromycin-based triple therapy group ( 80.0 % , 95 % CI = 59.7-100 % , 12/15 ) by PP analysis ( P < 0.001 ) .
+CONCLUSIONS	Pretreatment antimicrobial susceptibility-guided therapy is more effective than clarithromycin-based triple therapy for H. pylori eradication in a region with high rates of multiple drug resistance .
+

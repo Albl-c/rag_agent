@@ -1,0 +1,16 @@
+24256677
+BACKGROUND	After traumatic brain injury ( TBI ) , catecholamines ( CAs ) may be needed to maintain adequate cerebral perfusion pressure ( CPP ) , but there are no recommended alternative vasopressor therapies .
+BACKGROUND	This is an interim report of the first study to test the hypothesis that arginine vasopressin ( AVP ) is a safe and effective alternative to CAs for the management of CPP in patients with severe TBI .
+METHODS	Since 2008 , all TBI patients requiring intracranial pressure monitoring at this Level 1 trauma center have been eligible for a randomized trial to receive either CA or AVP if vasopressors were required to maintain CPP greater than 60 mm Hg .
+RESULTS	To date , 96 patients have been consented and randomized .
+RESULTS	Demographics , vital signs , and laboratory values were similar .
+RESULTS	As treated , 60 required no vasopressors and were the least severely injured group with the best outcomes .
+RESULTS	Twenty-three patients received CA ( 70 % levophed , 22 % dopamine , 9 % phenylephrine ) and 12 patients received AVP .
+RESULTS	The two vasopressor groups had similar demographics , but Injury Severity Score ( ISS ) and fluid requirements on intensive care unit Day 1 were worse in the AVP versus the CA groups ( all p < 0.05 ) before treatment .
+RESULTS	These differences indicate more severe injury with accompanying hemodynamic instability .
+RESULTS	Nevertheless , adverse events were not increased with AVP versus CA .
+RESULTS	Trends favored AVP versus CA , but no apparent differences were statistically significant at this interim point .
+RESULTS	There was no difference in mortality rates between CA and AVP .
+CONCLUSIONS	These preliminary results suggest that AVP is a safe and effective alternative to CA for the management of CPP after TBI and support the continued investigation and use of AVP when vasopressors are required for CPP management in TBI patients .
+METHODS	Therapeutic study , level II .
+

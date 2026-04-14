@@ -1,0 +1,14 @@
+24578074
+OBJECTIVE	To describe the predictors of nurse actions in response to a mobile health decision-support system ( mHealth DSS ) for guideline-based screening and management of tobacco use .
+METHODS	Observational design focused on an experimental arm of a randomized , controlled trial .
+METHODS	Acute and ambulatory care settings in the New York City metropolitan area .
+METHODS	14,115 patient encounters in which 185 RNs enrolled in advanced practice nurse ( APN ) training were prompted by an mHealth DSS to screen for tobacco use and select guideline-based treatment recommendations .
+METHODS	Data were entered and stored during nurse documentation in the mHealth DSS and subsequently stored in the study database where they were retrieved for analysis using descriptive statistics and logistic regressions .
+METHODS	Predictor variables included patient gender , patient race or ethnicity , patient payer source , APN specialty , and predominant payer source in clinical site .
+METHODS	Dependent variables included the number of patient encounters in which the nurse screened for tobacco use , provided smoking cessation teaching and counseling , or referred patients for smoking cessation for patients who indicated a willingness to quit .
+RESULTS	Screening was more likely to occur in encounters where patients were female , African American , and received care from a nurse in the adult nurse practitioner specialty or in a clinical site in which the predominant payer source was Medicare , Medicaid , or State Children 's Health Insurance Program .
+RESULTS	In encounters where the patient payer source was other , nurses were less likely to provide tobacco cessation teaching and counseling .
+CONCLUSIONS	mHealth DSS has the potential to affect nurse provision of guideline-based care .
+CONCLUSIONS	However , patient , nurse , and setting factors influence nurse actions in response to an mHealth DSS for tobacco cessation .
+CONCLUSIONS	The combination of a reminder to screen and integration of guideline-based recommendations into the mHealth DSS may reduce racial or ethnic disparities to screening , as well as clinician barriers related to time , training , and familiarity with resources .
+

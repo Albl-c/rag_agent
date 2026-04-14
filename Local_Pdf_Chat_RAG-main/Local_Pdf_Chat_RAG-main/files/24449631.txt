@@ -1,0 +1,16 @@
+24449631
+OBJECTIVE	To compare intercellular adhesion molecule-1 ( ICAM-1 ) and vascular cell adhesion molecule-1 ( VCAM-1 ) serum levels between patients with stable ( SAP ) and unstable angina pectoris ( USAP ) undergoing coronary angiography ( CAG ) , investigate effects of CAG on ICAM-1 , VCAM-1 levels in SAP , USAP patients ; probable different effects of non-ionic radiocontrast media ( RCM ) , iso-osmotic iodixanol and low osmolar iopamidol , on these adhesion molecules ( AM ) .
+METHODS	In this randomized , prospective study , 2 groups consisting of patients with SAP ( n = 22 ) and USAP ( n = 22 ) undergoing CAG were included .
+METHODS	For halves of each group iopamidol , for the other halves iodixanol were used as RCM , in turn for randomization .
+METHODS	The patients were divided into 4 subgroups according to clinical presentations and used RCM ( SAP-iodixanol , SAP-iopamidol USAP-iodixanol , USAP-iopamidol ) .
+METHODS	ICAM-1 , VCAM-1 levels were measured just before and 12 hours after CAG .
+METHODS	Repeated measurements were compared with two-way ANOVA test .
+RESULTS	Baseline VCAM-1 concentration was higher in USAP group than SAP group ( p = 0.001 ) .
+RESULTS	ICAM-1 , VCAM-1 concentrations increased significantly following CAG in SAP , USAP groups .
+RESULTS	ICAM-1 , VCAM-1 concentration increments ; did n't reach statistical significance in SAP-iodixanol subgroup , reached a borderline significance in SAP-iopamidol subgroup ( p = 0.06 ) .
+RESULTS	In USAP-iodixanol subgroup ; only VCAM-1 ( p < 0.001 ) , in USAP-iopamidol subgroup ; ICAM-1 ( p = 0.009 ) , VCAM-1 ( p = 0.006 ) levels increased significantly following CAG .
+RESULTS	No complication was observed .
+CONCLUSIONS	To our knowledge , this is the first study indicating ICAM-1 , VCAM-1 inducing effect of CAG in patients with SAP , USAP and differential effects of iodixanol and iopamidol on ICAM-1 , VCAM-1 serum levels .
+CONCLUSIONS	Further studies are needed to clarify the effects of CAG and different RCM on vascular inflammation , vessel injury , serum AM levels and their clinical significance .
+CONCLUSIONS	This study should be taken as a pilot , hypothesis-generating study .
+

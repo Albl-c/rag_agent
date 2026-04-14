@@ -1,0 +1,11 @@
+25490803
+OBJECTIVE	This article evaluates the effectiveness of two interventions : a self-leveling pallet carousel designed to position the loads vertically and horizontally at origin , and an adjustable cart designed to raise loads vertically at destination to reduce spine loads .
+BACKGROUND	Low back disorders among workers in manual material handling industries are very prevalent and have been linked to manual palletizing operations .
+BACKGROUND	Evidence into the effectiveness of ergonomic interventions is limited , with no research that investigates interventions with adjustable load location .
+METHODS	Thirteen males experienced in manual material handling participated in simulated order selecting tasks where spine loads were quantified for each intervention condition : carousel to traditional cart , pallet to traditional cart , pallet to adjustable cart , and carousel to adjustable cart .
+RESULTS	The results showed that combining both devices results in reduction in spine compression ( 61 % ) , anterior-posterior shear ( 72 % ) , and lateral shear ( 63 % ) compared to traditional palletizing conditions .
+RESULTS	Individually , the carousel was responsible for the greatest reductions , but the lowest values were typically achieved by combining the adjustable cart and carousel .
+CONCLUSIONS	The combination of the interventions ( self-leveling carousel and adjustable cart ) was most effective in reducing the spine loads when compared to the traditional pallet-cart condition .
+CONCLUSIONS	The individual interventions also reduced the loads compared to the traditional condition .
+CONCLUSIONS	With de-palletizing/palletizing tasks being a major source of low back injuries , the combination of self-leveling carousel and adjustable cart has been found to be effective in reducing the peak spine loading as compared to traditional pallet on floor and nonadjustable flat cart conditions .
+

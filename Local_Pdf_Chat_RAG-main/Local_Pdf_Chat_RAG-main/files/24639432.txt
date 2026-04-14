@@ -1,0 +1,14 @@
+24639432
+BACKGROUND	This study assessed the efficacy and safety of the once-daily glucagon-like peptide-1 receptor agonist , lixisenatide , in Asian patients with type 2 diabetes mellitus inadequately controlled on metforminsulfonylurea .
+METHODS	In this 24-week , double-blind , placebo-controlled , multinational study , patients were randomized to lixisenatide 20 g once daily or placebo .
+METHODS	The primary endpoint was absolute change in glycated haemoglobin ( HbA1c ) from baseline to week 24 .
+RESULTS	A total of 391 patients were randomized .
+RESULTS	Lixisenatide significantly reduced HbA1c levels compared with placebo ( LS mean difference : -0.36 % , p = 0.0004 ) .
+RESULTS	A significantly higher proportion of lixisenatide-treated patients achieved HbA1c targets of < 7 % ( p = 0.003 ) and 6.5 % ( p = 0.001 ) versus placebo .
+RESULTS	Lixisenatide was associated with a statistically significant reduction in 2-h postprandial plasma glucose after a standardized breakfast versus placebo ( LS mean difference : -4.28 mmol/L , p < 0.0001 ) and a significant reduction in fasting plasma glucose ( p = 0.0109 ) .
+RESULTS	There was no difference in weight loss versus placebo , with a modest reduction in body weight reported for both groups ( lixisenatide : -1.50 kg , placebo : -1.24 kg ; p = 0.296 ) .
+RESULTS	The incidence of treatment-emergent adverse events ( TEAEs ) was 64.3 % with lixisenatide versus 47.4 % with placebo , with serious TEAEs reported in 1.5 % versus 2.1 % of patients , respectively .
+RESULTS	The most common TEAE in the lixisenatide group was nausea ( 16.3 % vs 2.6 % with placebo ) .
+RESULTS	The incidence of symptomatic hypoglycaemia was 5.6 % with lixisenatide treatment and 2.6 % with placebo ( p = 0.1321 ) , with no severe symptomatic hypoglycaemia events reported .
+CONCLUSIONS	In Asian patients with type 2 diabetes mellitus insufficiently controlled on metforminsulfonylurea , lixisenatide significantly improved glycaemic control and was well tolerated during the 24-week study .
+

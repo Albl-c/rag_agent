@@ -1,0 +1,12 @@
+24280475
+OBJECTIVE	One objective of this study was to assess the effects of laughter on the psychological , immunological and physiological systems of the body .
+OBJECTIVE	Another objective was to introduce the Laughing Qigong Program ( LQP ) , as a method of standardization for simulated laughter interventions .
+METHODS	A randomized , prospective , experimental study of the LQP was conducted in a group of adolescents ( n = 67 ) in Taiwan .
+METHODS	During study-hall sessions , experimental subjects ( n = 34 ) attended the LQP for eight-weeks .
+METHODS	Simultaneously , control subjects ( n = 33 ) read or did their homework .
+METHODS	All subjects were tested before and after the intervention on the following : Rosenberg Self-Esteem scale ( RSE ) , Chinese Humor Scale ( CHS ) and Face Scale ( FS ) as psychological markers ; saliva cortisol ( CS ) as an immunological marker ; blood pressure ( BP ) , heart rate ( HR ) , and heart rate variability ( HRV ) as physiological markers of the body 's response to stress .
+METHODS	Mood states ( FS ) were measured before/after each LQP session .
+RESULTS	Mood states ( p = .00 ) and humor ( p = .004 ; p = .003 ) improved in the experimental group ; no significant changes were found in the controls ( p = 69 ; p = 60 ) .
+RESULTS	The immunological marker of stress , cortisol levels , decreased significantly for those who participated in the LQP ( p = .001 ) , suggesting lower levels of stress after completion of the program .
+CONCLUSIONS	The LQP is a non-pharmacological and cost-effective means to help adolescents mitigate stresses in their everyday life .
+

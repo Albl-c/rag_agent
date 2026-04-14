@@ -1,0 +1,14 @@
+26141466
+BACKGROUND	Daikenchuto ( DKT ) has widely been used to improve abdominal symptoms by being expected to accelerate bowel motility .
+BACKGROUND	The purpose of this study is to examine the efficacy and safety of DKT for prevention of ileus and associated gastrointestinal symptoms after total gastrectomy .
+METHODS	Two hundred and forty-five gastric cancer patients who underwent total gastrectomy were enrolled .
+METHODS	Patients received either DKT ( 15.0 g/d ) or matching placebo from postoperative days 1 to 12 .
+METHODS	Primary end points were time to first flatus , time to first bowel movement ( BM ) , and frequency of BM .
+METHODS	Secondary end points included quality of life , C-reactive protein level , symptoms indicative of a severe gastrointestinal disorder , and incidence of postoperative ileus .
+RESULTS	A total of 195 patients ( DKT , n = 96 ; placebo , n = 99 ) were included in the per-protocol set analysis .
+RESULTS	There were no significant differences between the groups in terms of patient background characteristics .
+RESULTS	Median time to first BM was shorter in the DKT group than in the placebo group ( 94.7 hours vs 113.9 hours ; p = 0.051 ) .
+RESULTS	In patients with high medication adherence , median time to first BM was significantly shorter in the DKT group than in the placebo group ( 93.8 hours vs 115.1 hours ; p = 0.014 ) .
+RESULTS	Significantly fewer patients in the DKT group had 2 symptoms of gastrointestinal dysfunction than those in the placebo group on postoperative day 12 ( p = 0.026 ) .
+CONCLUSIONS	Administration of DKT during the immediate postoperative period after total gastrectomy appears to promote early recovery of postoperative bowel function .
+

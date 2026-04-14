@@ -1,0 +1,11 @@
+24634346
+OBJECTIVE	Vent-HeFT is a multicentre randomized trial designed to investigate the potential additive benefits of inspiratory muscle training ( IMT ) on aerobic training ( AT ) in patients with chronic heart failure ( CHF ) .
+RESULTS	Forty-three CHF patients with a mean age of 5812 years , peak oxygen consumption ( peak VO2 ) 17.95 mL/kg/min , and LVEF 29.55 % were randomized to an AT/IMT group ( n = 21 ) or to an AT/SHAM group ( n = 22 ) in a 12-week exercise programme .
+RESULTS	AT involved 45 min of ergometer training at 70-80 % of maximum heart rate , three times a week for both groups .
+RESULTS	In the AT/IMT group , IMT was performed at 60 % of sustained maximal inspiratory pressure ( SPImax ) while in the AT/SHAM group it was performed at 10 % of SPImax , using a computer biofeedback trainer for 30 min , three times a week .
+RESULTS	At baseline and at 3 months , patients were evaluated for exercise capacity , lung function , inspiratory muscle strength ( PImax ) and work capacity ( SPImax ) , quality of life ( QoL ) , LVEF and LV diameter , dyspnoea , C-reactive protein ( CRP ) , and NT-proBNP .
+RESULTS	IMT resulted in a significantly higher benefit in SPImax ( P = 0.02 ) , QoL ( P = 0.002 ) , dyspnoea ( P = 0.004 ) , CRP ( P = 0.03 ) , and NT-proBNP ( P = 0.004 ) .
+RESULTS	In both AT/IMT and AT/SHAM groups PImax ( P < 0.001 , P = 0.02 ) , peak VO2 ( P = 0.008 , P = 0.04 ) , and LVEF ( P = 0.005 , P = 0.002 ) improved significantly ; however , without an additional benefit for either of the groups .
+CONCLUSIONS	This randomized multicentre study demonstrates that IMT combined with aerobic training provides additional benefits in functional and serum biomarkers in patients with moderate CHF .
+CONCLUSIONS	These findings advocate for application of IMT in cardiac rehabilitation programmes .
+

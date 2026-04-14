@@ -1,0 +1,11 @@
+24321006
+OBJECTIVE	To test the strength of the association between parental monitoring trajectories throughout early adolescence ( ages 11-14 ) and gambling behaviours by young adulthood ( age 22 ) .
+METHODS	Longitudinal cohort design .
+METHODS	Baltimore , Maryland .
+METHODS	The sample of 514 participants with gambling data between ages 16-22 and parental monitoring data between ages 11-14 were predominantly African American and received subsidized lunches at age 6 .
+METHODS	The South Oaks Gambling Screen and South Oaks Gambling Screen-Revised for Adolescents collected self-reports on annual gambling and gambling problems between ages 16-22 .
+METHODS	The Parental Monitoring Subscale of the Structured Interview of Parent Management Skills and Practices-Youth Version collected self-reports on annual parental monitoring between ages 11-14 .
+RESULTS	General growth mixture modelling identified two parental monitoring trajectories : ( i ) ` stable ' class ( 84.9 % ) began with a high level of parental monitoring at age 11 that remained steady to age 14 ; ( ii ) ` declining ' class ( 15.1 % ) began with a significantly lower level of parental monitoring at age 11 and experienced a significant to through age 14 .
+RESULTS	The declining class had increased significantly unadjusted ( OR = 1.91 ; 95 % CI = 1.59 , 2.23 ; P0 .001 ) and adjusted ( aOR = 1.57 ; 95 % CI = 1.24 , 1.99 ; P = 0.01 ) odds of problem gambling compared with non-gambling .
+CONCLUSIONS	Low and/or declining parental monitoring of children between the ages of 11 and 14 is associated significantly with problem gambling when those children reach young adulthood .
+

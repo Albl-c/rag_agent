@@ -1,0 +1,15 @@
+24571588
+BACKGROUND	Quantification of molecular cell processes is important for prognostication and treatment individualization of head and neck cancer ( HNC ) .
+BACKGROUND	However , individual tumor comparison can show discord in upregulation similarities when analyzing multiple biological mechanisms .
+BACKGROUND	Elaborate tumor characterization , integrating multiple pathways reflecting intrinsic and microenvironmental properties , may be beneficial to group most uniform tumors for treatment modification schemes .
+BACKGROUND	The goal of this study was to systematically analyze if immunohistochemical ( IHC ) assessment of molecular markers , involved in treatment resistance , and 18F-FDG PET parameters could accurately distinguish separate HNC tumors .
+METHODS	Several imaging parameters and texture features for 18F-FDG small-animal PET and immunohistochemical markers related to metabolism , hypoxia , proliferation and tumor blood perfusion were assessed within groups of BALB/c nu/nu mice xenografted with 14 human HNC models .
+METHODS	Classification methods were used to predict tumor line based on sets of parameters .
+RESULTS	We found that 18F-FDG PET could not differentiate between the tumor lines .
+RESULTS	On the contrary , combined IHC parameters could accurately allocate individual tumors to the correct model .
+RESULTS	From 9 analyzed IHC parameters , a cluster of 6 random parameters already classified 70.3 % correctly .
+RESULTS	Combining all PET/IHC characteristics resulted in the highest tumor line classification accuracy ( 81.0 % ; cross validation 82.0 % ) , which was just 2.2 % higher ( p = 5.210-32 ) than the performance of the IHC parameter/feature based model .
+CONCLUSIONS	With a select set of IHC markers representing cellular processes of metabolism , proliferation , hypoxia and perfusion , one can reliably distinguish between HNC tumor lines .
+CONCLUSIONS	Addition of 18F-FDG PET improves classification accuracy of IHC to a significant yet minor degree .
+CONCLUSIONS	These results may form a basis for development of tumor characterization models for treatment allocation purposes .
+

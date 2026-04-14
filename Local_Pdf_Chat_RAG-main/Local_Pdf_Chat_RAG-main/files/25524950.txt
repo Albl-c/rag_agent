@@ -1,0 +1,12 @@
+25524950
+OBJECTIVE	To compare pharmacokinetics ( PK ) and pharmacodynamics ( PD ) of insulin glargine in type 2 diabetes mellitus ( T2DM ) after evening versus morning administration .
+METHODS	Ten T2DM insulin-treated persons were studied during 24-h euglycemic glucose clamp , after glargine injection ( 0.4 units/kg s.c. ) , either in the evening ( 2200 h ) or the morning ( 1000 h ) .
+RESULTS	The 24-h glucose infusion rate area under the curve ( AUC0-24h ) was similar in the evening and morning studies ( 1,058 571 and 995 691 mg/kg 24 h , P = 0.503 ) , but the first 12 h ( AUC0-12h ) was lower with evening versus morning glargine ( 357 244 vs. 593 374 mg/kg 12 h , P = 0.004 ) , whereas the opposite occurred for the second 12 h ( AUC12-24h 700 396 vs. 403 343 mg/kg 24 h , P = 0.002 ) .
+RESULTS	The glucose infusion rate differences were totally accounted for by different rates of endogenous glucose production , not utilization .
+RESULTS	Plasma insulin and C-peptide levels did not differ in evening versus morning studies .
+RESULTS	Plasma glucagon levels ( AUC0-24h 1,533 656 vs. 1,120 344 ng/L/h , P = 0.027 ) and lipolysis ( free fatty acid AUC0-24h 7.5 1.6 vs. 8.9 1.9 mmol/L/h , P = 0.005 ; - OH-butyrate AUC0-24h 6.8 4.7 vs. 17.0 11.9 mmol/L/h , P = 0.005 ; glycerol , P < 0.020 ) were overall more suppressed after evening versus morning glargine administration .
+CONCLUSIONS	The PD of insulin glargine differs depending on time of administration .
+CONCLUSIONS	With morning administration insulin activity is greater in the first 0-12 h , while with evening administration the activity is greater in the 12-24 h period following dosing .
+CONCLUSIONS	However , glargine PK and plasma C-peptide levels were similar , as well as glargine PD when analyzed by 24-h clock time independent of the time of administration .
+CONCLUSIONS	Thus , the results reflect the impact of circadian changes in insulin sensitivity in T2DM ( lower in the night-early morning vs. afternoon hours ) rather than glargine per se .
+

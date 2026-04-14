@@ -1,0 +1,15 @@
+24797376
+OBJECTIVE	To evaluate the efficacy of IV iron supplementation of anemic , critically ill trauma patients .
+METHODS	Multicenter , randomized , single-blind , placebo-controlled trial .
+METHODS	Four trauma ICUs .
+METHODS	Anemic ( hemoglobin < 12g/dL ) trauma patients enrolled within 72 hours of ICU admission and with an expected ICU length of stay of more than or equal to 5 days .
+METHODS	Randomization to iron sucrose 100mg IV or placebo thrice weekly for up to 2 weeks .
+RESULTS	A total of 150 patients were enrolled .
+RESULTS	Baseline iron markers were consistent with functional iron deficiency : 134 patients ( 89.3 % ) were hypoferremic , 51 ( 34.0 % ) were hyperferritinemic , and 64 ( 42.7 % ) demonstrated iron-deficient erythropoiesis as evidenced by an elevated erythrocyte zinc protoporphyrin concentration .
+RESULTS	The median baseline transferrin saturation was 8 % ( range , 2-58 % ) .
+RESULTS	In the subgroup of patients who received all six doses of study drug ( n = 57 ) , the serum ferritin concentration increased significantly for the iron as compared with placebo group on both day 7 ( 808.0 ng/mL vs 457.0 ng/mL , respectively , p < 0.01 ) and day 14 ( 1,046.0 ng/mL vs 551.5 ng/mL , respectively , p < 0.01 ) .
+RESULTS	There was no significant difference between groups in transferrin saturation , erythrocyte zinc protoporphyrin concentration , hemoglobin concentration , or packed RBC transfusion requirement .
+RESULTS	There was no significant difference between groups in the risk of infection , length of stay , or mortality .
+CONCLUSIONS	Iron supplementation increased the serum ferritin concentration significantly , but it had no discernible effect on transferrin saturation , iron-deficient erythropoiesis , hemoglobin concentration , or packed RBC transfusion requirement .
+CONCLUSIONS	Based on these data , routine IV iron supplementation of anemic , critically ill trauma patients can not be recommended ( NCT 01180894 ) .
+

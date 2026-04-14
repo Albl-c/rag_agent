@@ -1,0 +1,12 @@
+24438460
+BACKGROUND	Prevention of alcohol , drug and tobacco misuse by young people is a key public health priority .
+BACKGROUND	There is a need to develop the evidence base through rigorous evaluations of innovative approaches to substance misuse prevention .
+BACKGROUND	The Strengthening Families Programme 10-14 is a universal family-based alcohol , drugs and tobacco prevention programme , which has achieved promising results in US trials , and which now requires cross-cultural assessment .
+BACKGROUND	This paper therefore describes the protocol for a randomised controlled trial of the UK version of the Strengthening Families Programme 10-14 ( SFP 10-14 UK ) .
+METHODS	The trial comprises a pragmatic cluster randomised controlled effectiveness trial with families as the unit of randomisation , with embedded process and economic evaluations .
+METHODS	Participating families will be randomised to one of two treatment groups - usual care with full access to existing services ( control group ) , or usual care plus SFP 10-14 UK ( intervention group ) .
+METHODS	The trial has two primary outcomes - the number of occasions that young people report having drunk alcohol in the last 30 days , and drunkenness during the last 30 days , both dichotomised as ` never ' and ' 1-2 times or more ' .
+METHODS	The main follow-up is at 2 years past baseline , and short-term and intermediate outcomes are also measured at 9 and 15 months .
+CONCLUSIONS	The results from this trial will provide evidence on the effectiveness and cost-effectiveness of an innovative universal family-based substance misuse prevention programme in a UK context .
+BACKGROUND	Current Controlled Trials ISRCTN63550893 .
+

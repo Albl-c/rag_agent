@@ -1,0 +1,13 @@
+24280811
+BACKGROUND	This randomized double-blind study was designed to compare palonosetron with palonosetron-dexamethasone combination for prevention of post operative nausea and vomiting ( PONV ) in patients undergoing laparoscopic cholecystectomy .
+METHODS	Eighty-four adult ASA 1-2 patients were randomly allocated into two groups .
+METHODS	Group P patients received 0.075 mg palonosetron and group PD patients received 0.075 mg palonosetron and 8 mg dexamethasone intravenously before induction of anesthesia .
+METHODS	Anesthesia was induced with propofol and fentanyl and maintained with N2O-isoflurane in oxygen .
+METHODS	All patients received port-site infiltration with bupivacaine and intravenous diclofenac for postoperative analgesia .
+METHODS	Metoclopramide was used as rescue antiemetic .
+METHODS	Patients were observed for the incidence of PONV and requirement of rescue antiemetic for 48 h after surgery .
+RESULTS	The complete response rate ( no vomiting ) was significantly higher in group DP as compared to group P between 0-24 h ( P = 0.004 ) .
+RESULTS	18 ( 42.9 % ) patients reported nausea and 14 ( 33.3 % ) patients had vomiting in group P while 6 ( 14.4 % ) patients had nausea and 5 ( 11.9 % ) patients complained of vomiting in group DP during 0-24 h. Two patients in group P reported nausea while none in group PD during 24-48 h. No patient had vomiting in either of the groups between 24-48 h.
+RESULTS	The requirement of rescue antiemetic was also less in group DP as compared to group P. Patients in group DP required less postoperative analgesia and were more satisfied with PONV treatment than group P patients .
+CONCLUSIONS	The palonosetron-dexamethasone combination was more effective as compared to only palonosetron for reducing PONV after laparoscopic cholecystectomy .
+

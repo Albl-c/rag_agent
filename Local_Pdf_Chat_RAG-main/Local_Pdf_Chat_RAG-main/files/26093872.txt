@@ -1,0 +1,13 @@
+26093872
+BACKGROUND	Insulin-resistant states , including type 2 diabetes ( T2D ) and prediabetes , are associated with elevated cardiovascular ( CV ) risk .
+BACKGROUND	Aleglitazar is a dual peroxisome proliferator-activated receptor / agonist with favorable insulin-sensitizing and glucose-lowering actions , favorable effects on blood lipids , and an acceptable safety profile in short-time studies .
+BACKGROUND	Therefore , it was hypothesized that aleglitazar would reduce CV morbidity and mortality in patients with T2D mellitus and prediabetes ( defined as glycosylated hemoglobin 5.7 % to < 6.5 % ) with previous CV complications .
+METHODS	ALEPREVENT was a phase III , multicenter , randomized , double-blind , trial comparing aleglitazar 150 g or placebo daily in patients with T2D or prediabetes with established , stable CV disease .
+METHODS	The intended sample size was 19,000 with a primary efficacy measure of major adverse CV events .
+METHODS	However , the trial was halted prematurely after 1,999 patients had been randomized because of futility and an unfavorable benefit risk ratio in another CV outcomes trial evaluating aleglitazar .
+RESULTS	At study termination after 58 38 days of treatment , data had been collected from 1,996 patients ( 1,581 with T2D and 415 with pre-T2D ) .
+RESULTS	Despite the brief duration of treatment , aleglitazar induced favorable changes in glycosylated hemoglobin and blood lipids , similar for participants with T2D or prediabetes .
+RESULTS	However , compared with placebo , aleglitazar increased the incidence of hypoglycemia ( 86 vs 166 ; P < .0001 ) , and muscular events ( 3 vs12 ; P = .012 ) .
+CONCLUSIONS	Even within a short duration of exposure , aleglitazar was associated with excess adverse events , corroborating the findings of a larger and longer trial in T2D .
+CONCLUSIONS	Coupled with the previous failure of several other peroxisome proliferator-activated receptor / activators , this class now holds little promise for CV therapeutics .
+

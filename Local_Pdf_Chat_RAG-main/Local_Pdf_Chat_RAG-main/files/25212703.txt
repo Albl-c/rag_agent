@@ -1,0 +1,14 @@
+25212703
+OBJECTIVE	Daclizumab is a humanized monoclonal antibody that blocks the - subunit of the interleukin-2 receptor with demonstrated benefits in the treatment of multiple sclerosis .
+OBJECTIVE	The present work aimed to characterize the pharmacokinetics of daclizumab high-yield process ( HYP ) in healthy volunteers .
+METHODS	Three double-blind , randomized , placebo-controlled , phaseI studies evaluated the pharmacokinetics of daclizumab HYP in healthy volunteers following single subcutaneous administration ( 50 , 150 , or 300mg ) , multiple subcutaneous administrations ( 100 or 200mg biweekly with a 200mg loading dose ) , or single intravenous administration ( 200 or 400mg ) .
+METHODS	Measurable serum concentrations ( n = 925 ) from 70 subjects treated with daclizumab HYP in the three studies were analyzed using non-linear mixed-effects modeling .
+RESULTS	A two-compartment model with a first-order absorption and elimination adequately described daclizumab HYP pharmacokinetics .
+RESULTS	Daclizumab HYP clearance , inter-compartmental clearance , and central and peripheral volumes of distribution were 10mL/h , 44mL/h , 3.89 L , and 2.52 L , respectively , scaled by [ bodyweight ( kg ) / 70 ] with 0.54 and 0.64 exponents for clearance and volume parameters , respectively .
+RESULTS	Lag-time , mean absorption time , and absolute bioavailability ( 100-300mg ) for subcutaneous administration were 2h , 4.6 days , and 84 % , respectively .
+RESULTS	Bodyweight explained only ~ 20 % of daclizumab HYP pharmacokinetic variability .
+RESULTS	With this limited dataset , sex , age , race , or presence of antibodies did not correlate with daclizumab HYP clearance .
+RESULTS	The estimated effective half-life was 21-25days .
+RESULTS	The developed model was robust in bootstrap evaluation and predicted the data adequately in stochastic simulations .
+CONCLUSIONS	Daclizumab HYP is characterized by slow clearance , linear pharmacokinetics ( at doses100mg ) , high subcutaneous bioavailability , and a half-life suitable for monthly administration .
+

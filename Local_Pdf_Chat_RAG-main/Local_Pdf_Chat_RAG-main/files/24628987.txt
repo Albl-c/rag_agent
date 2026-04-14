@@ -1,0 +1,13 @@
+24628987
+BACKGROUND	The optimal substrate ablation approach in patients with persistent atrial fibrillation ( Per AF ) remains unclear .
+BACKGROUND	This was a prospective randomized study comparing the efficacy of limited ( continuous complex fractionated atrial electrogram , CFAE : < 60 milliseconds ) versus extensive ( continuous CFAE plus variable CFAE : < 120 milliseconds ) atrial substrate modification in Per AF patients .
+RESULTS	We enrolled 120 Per AF patients in the study , and 30 patients with AF termination after pulmonary vein isolation ( PVI ) were excluded .
+RESULTS	In the remaining 90 patients , 45 were treated with limited approach ( Group 1 ) and 45 with an extensive approach ( Group 2 ) .
+RESULTS	The end point of the study was the incidence of an atrial arrhythmia recurrence postblanking period .
+RESULTS	The patients were followed up for 15 months with 3-month clinical reviews , electrograms ( ECGs ) , Holter recordings , and echocardiographic monitoring .
+RESULTS	Procedural AF termination and the single procedural efficacy were statistically comparable between the 2 groups ( 48.9 % vs. 63.4 % in Groups 1 and 2 , respectively , P = 0.289 ) .
+RESULTS	During the follow-up , patients who received limited ablation had a lower incidence of recurrent AFL ( P = 0.04 ) , and better reverse remodeling of the left atrium ( LA , P = 0.04 ) .
+RESULTS	After 2 procedures , the freedom from any atrial arrhythmia was better in Group 2 ( 62.2 % vs. 87.8 % , P = 0.009 ) .
+RESULTS	Those with longstanding AF and a larger baseline LA size responded better to the extensive ablation .
+CONCLUSIONS	In the Per AF patients who failed to achieve AF termination after PVI alone , a specific atrial substrate modification approach targeting only continuous CFAEs could be considered as an initial ablation strategy .
+

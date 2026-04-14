@@ -1,0 +1,15 @@
+25459392
+BACKGROUND	Pancreatic ductal adenocarcinoma ( PDAC ) is one of the most common malignant tumours and is still associated with a poor prognosis in advanced disease .
+BACKGROUND	To improve the standard therapy with gemcitabine , we initiated a prospective randomised phase-II trial with gemcitabine ( GEM ) versus gemcitabine plus sunitinib ( SUNGEM ) based on data of in vitro trials and phase-I data for the combination treatment .
+BACKGROUND	The rational of adding sunitinib was its putative antiangiogenic mechanism of action .
+METHODS	A total of 106 eligible patients with locally advanced , unresectable or metastatic PDAC without previous system therapy were randomised to receive GEM at a dosage of 1.000 mg/m ( 2 ) d1 , 8 , 15 q28 versus a combination of SUNGEM at a dosage of GEM 1.000 mg/m ( 2 ) d1 +8 and sunitinib 50mg p.o. d1-14 , q21d .
+METHODS	The primary end-point was progression free survival ( PFS ) , secondary end-points were overall survival ( OS ) , toxicity and overall response rate ( ORR ) .
+RESULTS	The confirmatory analysis of PFS was based on the intend-to-treat ( ITT ) population ( N = 106 ) .
+RESULTS	The median PFS was 13.3 weeks ( 95 % confidence interval ( 95 % - CI ) : 10.4-18 .1 weeks ) for GEM and 11.6 weeks for SUNGEM ( 95 % - CI : 7.0-18 .0 weeks ; p = 0.78 one-sided log-rank ) .
+RESULTS	The ORR was 6.1 % ( 95 % - CI : 0.7-20 .2 % ) for GEM and for 7.1 % ( 95 % - CI : 0.9-23 .5 % ) for SUNGEM ( p = 0.87 ) .
+RESULTS	The median time to progression ( TTP ) was 14.0 weeks ( 95 % - CI : 12.4-22 .3 weeks ) for GEM and 18.0 weeks ( 95 % - CI : 11.3-19 .3 weeks ) for SUNGEM ( p = 0.60 ; two-sided log-rank ) .
+RESULTS	The median OS was 36.7 weeks ( 95 % - CI : 20.6-49 .0 weeks ) for the GEM arm and 30.4 weeks ( 95 % - CI : 18.1-37 .6 weeks ) for the SUNGEM ( p = 0.78 , one-sided log-rank ) .
+RESULTS	In regard to toxicities , suspected SAEs were reported in 53.7 % in the GEM arm and 71.2 % in the SUNGEM arm .
+RESULTS	Grade 3 and 4 neutropenia was statistically significantly higher in the SUNGEM arm with 48.1 % versus 27.8 % in the GEM arm ( p = 0.045 , two sided log-rank ) .
+CONCLUSIONS	The combination SUNGEM was not sufficient superior in locally advanced or metastatic PDAC compared to GEM alone in regard to efficacy but was associated with more toxicity .
+

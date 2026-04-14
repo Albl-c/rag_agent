@@ -1,0 +1,13 @@
+24713310
+BACKGROUND	Tapentadol is an analgesic agent for treatment of acute and chronic pain that activates the - opioid receptor combined with inhibition of neuronal norepinephrine reuptake .
+BACKGROUND	Both mechanisms are implicated in activation of descending inhibitory pain pathways .
+BACKGROUND	In this study , we investigated the influence of tapentadol on conditioned pain modulation ( CPM , an experimental measure of endogenous pain inhibition that gates incoming pain signals as a consequence of a preceding tonic painful stimulus ) and offset analgesia ( OA , a test in which a disproportionally large amount of analgesia becomes apparent upon a slight decrease in noxious heat stimulation ) .
+METHODS	Twenty-four patients with diabetic polyneuropathy ( DPN ) were randomized to receive daily treatment with tapentadol sustained-release ( SR ) [ average daily dose 433 ( 31 ) mg ] or placebo for 4 weeks .
+METHODS	CPM and OA were measured before and on the last day of treatment .
+RESULTS	Before treatment , none of the patients had significant CPM or OA responses .
+RESULTS	At week 4 of treatment , CPM was significantly activated by tapentadol SR and coincided with significant analgesic responses .
+RESULTS	CPM increased from 9.1 ( 5.4 ) % ( baseline ) to 14.3 ( 7.2 ) % ( placebo ) and 24.2 ( 7.7 ) % ( tapentadol SR , P < 0.001 vs placebo ) ; relief of DPN pain was also greater in patients treated with tapentadol than placebo ( P = 0.028 ) .
+RESULTS	Neither placebo nor tapentadol SR treatment had an effect on the magnitude of the OA responses ( P = 0.78 ) .
+CONCLUSIONS	Tapentadol 's analgesic effect in chronic pain patients with DPN is dependent on activation of descending inhibitory pain pathways as observed by CPM responses .
+BACKGROUND	The study was registered at trialregister.nl under number NTR2716 .
+

@@ -1,0 +1,16 @@
+24684105
+OBJECTIVE	To determine the safety and effectiveness of electroacupuncture ( EA ) intervention combined with general anesthesia ( GA ) for craniocerebral tumor-removal surgery involving cerebral eloquent areas .
+METHODS	A total of 20 patients with cerebral tumors ( durosarcoma , neurogliocytoma , metastatic tumor ) involving the cerebral eloquent areas were recruited in the present summary .
+METHODS	They were equally divided into general anesthesia ( GA ) group and EA + GA group .
+METHODS	Patients of the EA + GA group were treated with EA stimulation ( 2 Hz/100 Hz ) of the bilateral Fengchi ( GB 20 ) , Shuaigu ( GB 8 ) and acupuncture stimulation of Quanliao ( SI 18 ) , Zulinqi ( GB 41 ) and Taichong ( LR 3 ) , and not given intubation during surgery .
+METHODS	Patients of the GA group were treated with intravenous administration of Propofol , Fentanyl , Midazolam , Isopropanol , etc. .
+METHODS	In addition , all the patients were given with controlled hypotension by intravenous injection of Propofol and Fentanyl .
+METHODS	Dosages of Propofol and Sulfentanyl used were recorded .
+METHODS	Karnofsky performance status scale was used to assess the patient 's general well-being and activities of daily life .
+RESULTS	The craniocerebral tumor-removal surgery was successful in all the 20 patients .
+RESULTS	Compared with the GA group , the dosages of Sulfentanyl and Propofol of the EA + GA group were significantly lower ( P < 0.05 ) .
+RESULTS	No significant difference was found between the GA and EA + GA groups in Karnofsky performance scores ( P > 0.05 ) .
+RESULTS	Patients of the EA+GA group experienced successful tumour-removal surgery without trachea cannula , were awake and could make a good cooperation with the operator during surgery .
+RESULTS	They had no aggravation of neurofunctional disturbance following the operation .
+CONCLUSIONS	EA combined with general anesthesia is safe and effective for patients with craniocerebral tumor-removal operations involving cerebral eloquent areas .
+

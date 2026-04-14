@@ -1,0 +1,13 @@
+25593051
+BACKGROUND	Among patients without cardiovascular disease ( CVD ) and low 10-year CVD risk , the risks of gastrointestinal bleeding and hemorrhagic strokes associated with aspirin use outweigh any potential atheroprotective benefit .
+BACKGROUND	According to the guidelines on primary prevention of CVD , aspirin use is considered appropriate only in patients with 10-year CVD risk 6 % and inappropriate in patients with 10-year CVD risk < 6 % .
+OBJECTIVE	The goal of this study was to examine the frequency and practice-level variation in inappropriate aspirin use for primary prevention in a large U.S. nationwide registry .
+METHODS	Within the National Cardiovascular Disease Registry 's Practice Innovation and Clinical Excellence registry , we assessed 68,808 unique patients receiving aspirin for primary prevention from 119 U.S. practices .
+METHODS	The frequency of inappropriate aspirin use was determined for primary prevention ( aspirin use in those with 10-year CVD risk < 6 % ) .
+METHODS	Using hierarchical regression models , the extent of practice-level variation using the median rate ratio ( MRR ) was assessed .
+RESULTS	Inappropriate aspirin use frequency was 11.6 % ( 7,972 of 68,808 ) in the overall cohort .
+RESULTS	There was significant practice-level variation in inappropriate use ( range 0 % to 71.8 % ; median 10.1 % ; interquartile range 6.4 % ) for practices ; adjusted MRR was 1.63 ( 95 % confidence interval [ CI ] : 1.47 to 1.77 ) .
+RESULTS	Results remained consistent after excluding 21,052 women age 65 years ( inappropriate aspirin use 15.2 % ; median practice-level inappropriate aspirin use 13.8 % ; interquartile range 8.2 % ; adjusted MRR 1.61 [ 95 % CI : 1.46 to 1.75 ] ) and after excluding patients with diabetes ( inappropriate aspirin use 13.9 % ; median practice-level inappropriate aspirin use 12.4 % ; interquartile range 7.6 % ; adjusted MRR 1.55 [ 95 % CI : 1.41 to 1.67 ] ) .
+CONCLUSIONS	More than 1 in 10 patients in this national registry were receiving inappropriate aspirin therapy for primary prevention , with significant practice-level variations .
+CONCLUSIONS	Our findings suggest that there are important opportunities to improve evidence-based aspirin use for the primary prevention of CVD .
+

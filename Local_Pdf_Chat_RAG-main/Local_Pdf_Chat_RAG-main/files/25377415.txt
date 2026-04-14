@@ -1,0 +1,19 @@
+25377415
+OBJECTIVE	The objective of this study was to determine the feasibility of telementored instruction in bedside ultrasonography ( US ) using Google Glass .
+OBJECTIVE	The authors sought to examine whether first-time US users could obtain adequate parasternal long axis ( PSLA ) views to approximate ejection fraction ( EF ) using Google Glass telementoring .
+METHODS	This was a prospective , randomized , single-blinded study .
+METHODS	Eighteen second-year medical students were randomized into three groups and tasked with obtaining PSLA cardiac imaging .
+METHODS	Group A received real-time telementored education through Google Glass via Google Hangout from a remotely located expert .
+METHODS	Group B received bedside education from the same expert .
+METHODS	Group C represented the control and received no instruction .
+METHODS	Each subject was given 3 minutes to obtain a best PSLA cardiac imaging using a portable GE Vscan .
+METHODS	Image clips obtained by each subject were stored .
+METHODS	A second expert , blinded to instructional mode , evaluated images for adequacy and assigned an image quality rating on a 0 to 10 scale .
+RESULTS	Group A was able to obtain adequate images six out of six times ( 100 % ) with a median image quality rating of 7.5 ( interquartile range [ IQR ] = 6 to 10 ) out of 10 .
+RESULTS	Group B was also able to obtain adequate views six out of six times ( 100 % ) , with a median image quality rating of 8 ( IQR = 7 to 9 ) .
+RESULTS	Group C was able to obtain adequate views one out of six times ( 17 % ) , with a median image quality of 0 ( IQR = 0 to 2 ) .
+RESULTS	There were no statistically significant differences between Group A and Group B in the achievement of adequate images for E-point septal separation measurement or in image quality .
+CONCLUSIONS	In this pilot/feasibility study , novice US users were able to obtain adequate imaging to determine a healthy patient 's EF through telementored education using Google Glass .
+CONCLUSIONS	These preliminary data suggest telementoring as an adequate means of medical education in bedside US .
+CONCLUSIONS	This conclusion will need to be validated with larger , more powerful studies including evaluation of pathologic findings and varying body habitus among models .
+

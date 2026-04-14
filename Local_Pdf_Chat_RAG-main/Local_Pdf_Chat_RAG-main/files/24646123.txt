@@ -1,0 +1,16 @@
+24646123
+BACKGROUND	Nepal is on track to achieve MDG 5 but there is a huge sub-national disparity with existing high maternal mortality in western and hilly regions .
+BACKGROUND	The national priority is to reduce this disparity to achieve the goal at sub-national level .
+BACKGROUND	Evidences from developing countries show that increasing utilization of skilled attendant at birth is an important indicator for reducing maternal death .
+BACKGROUND	Further , there is a very low utilization during childbirth in western and hilly regions of Nepal which clearly depicts the barriers in utilization of skilled birth attendants .
+BACKGROUND	So , there is a need to overcome the identified barriers to increase the utilization thereby decreasing the maternal mortality .
+BACKGROUND	The hypothesis of this study is that through a package of interventions the utilization of skilled birth attendants will be increased and hence improve maternal health in Nepal .
+METHODS	This study involves a cluster randomized controlled trial involving approximately 5000 pregnant women in 36 clusters .
+METHODS	The 18 intervention clusters will receive the following interventions : i ) mobilization of family support for pregnant women to reach the health facility , ii ) availability of emergency funds for institutional childbirth , iii ) availability of transport options to reach a health facility for childbirth , iv ) training to health workers on communication skills , v ) security provisions for SBAs to reach services 24/24 through community mobilization ; 18 control clusters will not receive the intervention package .
+METHODS	The final evaluation of the intervention is planned to be completed by October 2014 .
+METHODS	Primary study output of this study is utilization of SBA services .
+METHODS	Secondary study outputs measure the uptake of antenatal care , post natal checkup for mother and baby , availability of transportation for childbirth , operation of emergency fund , improved reception of women at health services , and improved physical security of SBAs .
+CONCLUSIONS	The intervention package is designed to increase the utilization of skilled birth attendants by overcoming the barriers related to awareness , finance , transport , security etc. .
+CONCLUSIONS	If proven effective , the Ministry of Health has committed to scale up the intervention package throughout the country .
+BACKGROUND	ISRCTN78892490 .
+

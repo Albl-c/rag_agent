@@ -1,0 +1,23 @@
+25321869
+OBJECTIVE	Cervical total disc replacement ( CTDR ) was developed to treat cervical spondylosis , while preserving motion .
+OBJECTIVE	While anterior cervical discectomy and fusion ( ACDF ) has been the standard of care for 2-level disease , a randomized clinical trial ( RCT ) suggested similar outcomes .
+OBJECTIVE	Cost-effectiveness of this intervention has never been elucidated .
+OBJECTIVE	To determine the cost-effectiveness of CTDR compared with ACDF .
+METHODS	Data were derived from an RCT that followed up 330 patients over 24 months .
+METHODS	The original RCT consisted of multi-institutional data including private and academic institutions .
+METHODS	Using linear regression for the current study , health states were constructed based on the stratification of the Neck Disability Index and a visual analog scale .
+METHODS	Data from the 12-item Short-Form Health Survey questionnaires were transformed into utilities values using the SF-6D mapping algorithm .
+METHODS	Costs were calculated by extracting Diagnosis-Related Group codes from institutional billing data and then applying 2012 Medicare reimbursement rates .
+METHODS	The costs of complications and return-to-work data were also calculated .
+METHODS	A Markov model was built to evaluate quality-adjusted life-years ( QALYs ) for both treatment groups .
+METHODS	The model adopted a third-party payer perspective and applied a 3 % annual discount rate .
+METHODS	Patients included in the original RCT had to be diagnosed as having radiculopathy or myeloradiculopathy at 2 contiguous levels from C3-C7 that was unresponsive to conservative treatment for at least 6 weeks or demonstrated progressive symptoms .
+METHODS	Incremental cost-effectiveness ratio of CTDR compared with ACDF .
+RESULTS	A strong correlation ( R2 = 0.6864 ; P < .001 ) was found by projecting a visual analog scale onto the Neck Disability Index .
+RESULTS	Cervical total disc replacement had an average of 1.58 QALYs after 24 months compared with 1.50 QALYs for ACDF recipients .
+RESULTS	Cervical total disc replacement was associated with $ 2139 greater average cost .
+RESULTS	The incremental cost-effectiveness ratio of CTDR compared with ACDF was $ 24,594 per QALY at 2 years .
+RESULTS	Despite varying input parameters in the sensitivity analysis , the incremental cost-effectiveness ratio value stays below the threshold of $ 50,000 per QALY in most scenarios ( range , - $ 58,194 to $ 147,862 per QALY ) .
+CONCLUSIONS	The incremental cost-effectiveness ratio of CTDR compared with traditional ACDF is lower than the commonly accepted threshold of $ 50,000 per QALY .
+CONCLUSIONS	This remains true with varying input parameters in a robust sensitivity analysis , reaffirming the stability of the model and the sustainability of this intervention .
+

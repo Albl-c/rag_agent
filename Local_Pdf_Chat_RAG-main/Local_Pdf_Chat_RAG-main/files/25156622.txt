@@ -1,0 +1,13 @@
+25156622
+BACKGROUND	The study purpose was to analyze midterm outcomes in a prospective trial of alemtuzumab ( Alem ) versus rabbit anti-thymocyte globulin ( rATG ) induction in simultaneous pancreas-kidney transplantation ( SPKT ) .
+METHODS	From February 2005 to October 2008 , 46 SPKTs ( 45 portal-enteric drainage ) were prospectively randomized as part of a larger kidney transplant study to receive either single-dose Alem ( 30 mg intraoperatively ) or multiple-dose rATG antibody induction ( starting intraoperatively , minimum three doses administered ) with tacrolimus/mycophenolate steroids .
+RESULTS	Of 222 kidney transplant patients enrolled in the study , 46 received SPKTs ; 28 ( 61 % ) received Alem and 18 ( 39 % ) rATG induction .
+RESULTS	Follow-up ranged from 67 to 111 months ( mean 80 months ) .
+RESULTS	There were no significant differences between the two groups in 5 years actual patient ( 86 % Alem vs 89 % rATG ) , kidney ( 82 % Alem vs 61 % rATG , p = 0.17 ) or pancreas ( 68 % Alem vs 56 % rATG ) graft survival rates .
+RESULTS	Five years death-censored kidney ( 92 % Alem vs 69 % rATG , p = 0.09 ) and pancreas ( 76 % Alem vs 56 % rATG , p = 0.198 ) graft survival rates were slightly higher in patients receiving Alem .
+RESULTS	Acute rejection ( 21 % Alem vs 44 % rATG , p = 0.12 ) and major infection ( 39 % Alem vs 67 % rATG , p = 0.13 ) rates were slightly lower in the Alem group ; cytomegalovirus infections were significantly lower ( 0 Alem vs 17 % rATG , p = 0.05 ) .
+RESULTS	The incidence of late acute rejection was low in both groups .
+RESULTS	There were no differences in early pancreas thrombosis ( 3.6 % Alem vs 11 % rATG ) , postoperative bleeding ( 11 % Alem vs 0 rATG ) , other surgical complications , readmissions or freedom from steroids between groups .
+RESULTS	In patients with functioning grafts , 5 years mean serum creatinine ( 1.4 Alem vs 1.6 mg/dl rATG ) , calculated abbreviated modification of diet in renal disease glomerular filtration rate ( 55 Alem vs 52 ml/min/1 .73 m ( 2 ) rATG ) , hemoglobin A1c ( both 5.4 % ) and C-peptide ( 2.6 Alem vs 2.3 ng/ml rATG ) levels were similar .
+CONCLUSIONS	Single-dose Alem and multiple-dose rATG induction provide similar midterm patient survival and graft functional outcomes with no major differences in morbidity or resource utilization .
+

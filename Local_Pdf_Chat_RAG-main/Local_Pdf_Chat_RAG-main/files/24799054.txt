@@ -1,0 +1,15 @@
+24799054
+OBJECTIVE	Clinical activity of chemotherapy plus trastuzumab in HER2 overexpressing advanced breast cancer has been documented .
+OBJECTIVE	We report the activity and safety results of biweekly combination of trastuzumab , docetaxel and gemcitabine as first-line therapy in HER2-positive advanced breast cancer .
+METHODS	Patients were biweekly treated with trastuzumab ( 4 mg/kg ) , gemcitabine ( 1000 mg/m ( 2 ) ) and docetaxel ( 50 mg/m ( 2 ) ) .
+METHODS	The primary end point was overall response rate , secondary time to progression , clinical benefit rate ( partial response plus complete response plus stable disease for 24 weeks ) and tolerability .
+RESULTS	A total of 65 patients with HER2-positive advanced breast cancer have been enrolled .
+RESULTS	In total , 47 patients responded ( 73 % ; 95 % CI , 60-84 ) , 11 achieved complete response ( 17 % ; 95 % CI : 8.9-28 .7 ) , 36 achieved partial response ( 56 % ; 95 % CI : 43-68 .6 ) .
+RESULTS	The clinical benefit rate was 87.5 % ( 95 % CI : 77-94 ) .
+RESULTS	Three patients ( 4.7 % ) experienced progressive disease .
+RESULTS	The median time to progression was 14.2 months ( 95 % CI : 10.6-17 .8 ) , the median overall survival was 39.3 months and the 36-month survival rate was 55.5 % ( 95 % CI : 58-73 ) .
+RESULTS	The worst toxicities were grade 3 neutropenia ( 12 % ) , thrombocytopenia ( 6 % ) and diarrhea ( 6 % ) .
+RESULTS	No cardiac toxicity was reported .
+CONCLUSIONS	As first-line therapy , this combination allowed the delivery of polychemotherapy in association to targeted therapy , with clinical activity and mild toxicity .
+CONCLUSIONS	The promising results should be further explored in Phase III randomized clinical trials .
+

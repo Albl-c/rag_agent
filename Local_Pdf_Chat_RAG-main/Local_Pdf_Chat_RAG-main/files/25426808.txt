@@ -1,0 +1,15 @@
+25426808
+OBJECTIVE	Combination antiretroviral therapy ( ART ) is now the global standard for HIV-infected pregnant and breastfeeding women at all CD4 cell counts .
+OBJECTIVE	We compared the efficacy and safety of an efavirenz versus lopinavir/ritonavir regimen for HIV-infected pregnant women initiating ART in rural Uganda .
+METHODS	Randomized clinical trial .
+METHODS	We performed a planned secondary analysis comparing viral load suppression ( HIV-1 RNA 400 copies/ml ) , safety , and HIV transmission to infants in a trial designed to test the hypothesis that lopinavir/ritonavir versus efavirenz-based ART would reduce placental malaria ( PROMOTE , ClinicalTrials.gov , NCT00993031 ) .
+METHODS	HIV-infected , ART-naive pregnant women at 12-28 weeks gestation and any CD4 cell count were randomized .
+METHODS	ART was provided and participants were counseled to breastfeed for 1 year postpartum .
+RESULTS	The median age of the 389 study participants was 29 years ; median CD4 cell count was 370 cells/l .
+RESULTS	At delivery , virologic suppression was 97.6 % in the efavirenz arm and 86.0 % in the lopinavir/ritonavir arm ( P < 0.001 ) .
+RESULTS	At 48 weeks postpartum , 91.0 % of women on efavirenz and 88.4 % on lopinavir/ritonavir had viral suppression ( P = 0.49 ) .
+RESULTS	Grade 1 or 2 gastrointestinal adverse events were higher among women on lopinavir/ritonavir versus efavirenz .
+RESULTS	Only two infants acquired HIV ( both in the lopinavir/ritonavir arm ) , and HIV-free infant survival was similar between study arms : 92.9 % ( lopinavir/ritonavir ) versus 97.2 % ( efavirenz ) ( P = 0.10 ) .
+CONCLUSIONS	Virologic suppression at delivery was higher with an efavirenz versus lopinavir/ritonavir-based regimen .
+CONCLUSIONS	However , women in both arms achieved high levels of virologic suppression through 1 year postpartum and the risk of transmission to infants was low .
+

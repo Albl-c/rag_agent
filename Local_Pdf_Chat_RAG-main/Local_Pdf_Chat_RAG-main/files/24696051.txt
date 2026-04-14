@@ -1,0 +1,15 @@
+24696051
+OBJECTIVE	Intravitreal ranibizumab or bevacizumab are the most used drugs for treatment of neovascular age-related macular degeneration ( nAMD ) .
+OBJECTIVE	Repeated intravitreal injections represent an economic burden and may be associated with serious complications .
+OBJECTIVE	The aim of this study is to evaluate the number of needed injections within 1 year of treatment .
+METHODS	55 patients over 50 years of age with nAMD and visual acuity ( VA ) between 20/40 and 20/320 were included .
+METHODS	Scheduled visits and treatment were performed monthly for 1 year .
+METHODS	After a loading dose of three intravitreal injections ( either ranibizumab = group 1 or bevacizumab = group 2 ) , an `` as needed '' regimen was performed .
+METHODS	Primary endpoint was a difference in the injection frequencies of ranibizumab and bevacizumab .
+METHODS	Secondary endpoints were best corrected visual acuity ( BCVA ) and central retinal thickness ( CRT ) .
+RESULTS	Difference in number of injections was not significant ( 5.001.67 ( ranibizumab group ) vs. 5.802.28 ( bevacizumab group ) , p = 0.084 ) .
+RESULTS	Mean BCVA was 59.1216.64 letters after 12 months if patients received ranibizumab ( p = 0.001 ) and 64.7517.03 letters if patients received bevacizumab ( p = 0.037 ) .
+RESULTS	There was no statistical significance between the two groups ( p = 0.631 ) .
+RESULTS	The mean CRT did not differ significantly between groups after 12 months ( 315.6765.86 m for ranibizumab , 350.47102.84 m for bevacizumab , p = 0.088 ) .
+CONCLUSIONS	There was no difference in number of treatment , BCVA and CRT after 1 year between ranibizumab and bevacizumab in patients with nAMD .
+

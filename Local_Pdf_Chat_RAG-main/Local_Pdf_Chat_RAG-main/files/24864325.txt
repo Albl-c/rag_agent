@@ -1,0 +1,11 @@
+24864325
+OBJECTIVE	To compare functional and morphological outcomes of femtosecond laser clear corneal incision ( CCI ) versus manual CCI during cataract surgery .
+METHODS	Sixty eyes of 60 patients who underwent CCI during cataract surgery were randomized into two groups : femtosecond laser CCI ( 30 eyes ) and manual CCI ( 30 eyes ) .
+RESULTS	There were no significant between-group differences in uncorrected distance visual acuity , corrected distance visual acuity , surgically induced astigmatism , and corneal aberrations .
+RESULTS	Keratometric astigmatism was significantly lower in the femtosecond laser CCI group compared to the manual CCI group at 30 and 180 days ( P < .05 ) .
+RESULTS	Central endothelial cell count was significantly higher in the femtosecond laser CCI group compared to the manual CCI group at 7 and 30 days postoperatively ( P < .05 ) .
+RESULTS	A lower increase of corneal thickness at the incision site was observed at 30 and 180 days postoperatively in the femtosecond laser CCI group compared to the manual CCI group ( P < .05 ) .
+RESULTS	In addition , femtosecond laser CCI showed a better morphology ( lower percentage of endothelial and epithelial gaping and endothelial misalignment ) compared to manual CCI at different time points .
+RESULTS	Total phacoemulsification time was significantly lower in the femtosecond laser CCI group ( P < .05 ) .
+CONCLUSIONS	The femtosecond laser procedure was safe , efficient , and less damaging , as evidenced by lower central endothelial cell loss , lower increase of corneal thickness at the incision site , and better tunnel morphology compared to the manual technique .
+

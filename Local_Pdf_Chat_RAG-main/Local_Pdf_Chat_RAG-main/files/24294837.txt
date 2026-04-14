@@ -1,0 +1,11 @@
+24294837
+OBJECTIVE	We compared mindfulness-based cognitive therapy ( MBCT ) with both cognitive psychological education ( CPE ) and treatment as usual ( TAU ) in preventing relapse to major depressive disorder ( MDD ) in people currently in remission following at least 3 previous episodes .
+METHODS	A randomized controlled trial in which 274 participants were allocated in the ratio 2:2:1 to MBCT plus TAU , CPE plus TAU , and TAU alone , and data were analyzed for the 255 ( 93 % ; MBCT = 99 , CPE = 103 , TAU = 53 ) retained to follow-up .
+METHODS	MBCT was delivered in accordance with its published manual , modified to address suicidal cognitions ; CPE was modeled on MBCT , but without training in meditation .
+METHODS	Both treatments were delivered through 8 weekly classes .
+RESULTS	Allocated treatment had no significant effect on risk of relapse to MDD over 12 months follow-up , hazard ratio for MBCT vs. CPE = 0.88 , 95 % CI [ 0.58 , 1.35 ] ; for MBCT vs. TAU = 0.69 , 95 % CI [ 0.42 , 1.12 ] .
+RESULTS	However , severity of childhood trauma affected relapse , hazard ratio for increase of 1 standard deviation = 1.26 ( 95 % CI [ 1.05 , 1.50 ] ) , and significantly interacted with allocated treatment .
+RESULTS	Among participants above median severity , the hazard ratio was 0.61 , 95 % CI [ 0.34 , 1.09 ] , for MBCT vs. CPE , and 0.43 , 95 % CI [ 0.22 , 0.87 ] , for MBCT vs. TAU .
+RESULTS	For those below median severity , there were no such differences between treatment groups .
+CONCLUSIONS	MBCT provided significant protection against relapse for participants with increased vulnerability due to history of childhood trauma , but showed no significant advantage in comparison to an active control treatment and usual care over the whole group of patients with recurrent depression .
+

@@ -1,0 +1,20 @@
+25260232
+BACKGROUND	Adhesions develop in over 90 % of patients after intra-abdominal surgery .
+BACKGROUND	Adhesion barriers are rarely used despite the high morbidity caused by intra-abdominal adhesions .
+BACKGROUND	Only one of the currently available adhesion barriers has demonstrated consistent evidence for reducing adhesions in visceral surgery .
+BACKGROUND	This agent has limitations through poor handling characteristics because it is sticky on both sides .
+BACKGROUND	C-Qur Film is a novel thin film adhesion barrier and it is sticky on only one side , resulting in better handling characteristics .
+BACKGROUND	The objective of this study is to assess efficacy and safety of C-Qur Film to decrease the incidence of adhesions after colorectal surgery .
+METHODS	This is a prospective , investigator initiated , randomized , double-blinded , multicenter trial .
+METHODS	Eligible patients undergoing colorectal resection requiring temporary loop ileostomy or loop/split colostomy by laparotomy or hand assisted laparoscopy will be included in the trial .
+METHODS	Before closure , patients are randomized 1:1 to either the treatment arm ( C-Qur Film ) or control arm ( no adhesion barrier ) .
+METHODS	Patients will return 8 to 16 weeks post-colorectal resection for take down of their ostomy .
+METHODS	During ostomy takedown , adhesions will be evaluated for incidence , extent , and severity .
+METHODS	The primary outcome evaluation will be assessment of adhesions to the incision site .
+METHODS	It is hypothesized that the use of C-Qur Film underneath the primary incision reduces the incidence of adhesion at the incision by 30 % .
+METHODS	To demonstrate 30 % reduction in the incidence of adhesions , a sample size of 84 patients ( 32 + 10 per group ( 25 % drop out ) ) is required ( two-sided test , = 0.05 , 80 % power ) .
+CONCLUSIONS	Results of this study add to the evidence on the use of anti-adhesive barriers in open and laparoscopic ` hand-assisted ' colorectal surgery .
+CONCLUSIONS	We chose incidence of adhesions to the incision site as primary outcome measure since clinical outcomes such as small bowel obstruction , secondary infertility and adhesiolysis related complications are considered multifactorial and difficult to interpret .
+CONCLUSIONS	Incidence of adhesions at repeat surgery is believed to be the most valuable surrogate endpoint for clinically relevant adhesion prevention , since small bowel obstruction and adhesiolysis at repeat surgery are not likely to occur when complete adhesion reduction in a patient is accomplished .
+BACKGROUND	ClinicalTrials.gov Identifier NCT01872650 , registration date 6 June 2013 .
+

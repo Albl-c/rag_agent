@@ -1,0 +1,13 @@
+24635770
+BACKGROUND	The Surviving Sepsis Campaign recommends targeting a mean arterial pressure of at least 65 mm Hg during initial resuscitation of patients with septic shock .
+BACKGROUND	However , whether this blood-pressure target is more or less effective than a higher target is unknown .
+METHODS	In a multicenter , open-label trial , we randomly assigned 776 patients with septic shock to undergo resuscitation with a mean arterial pressure target of either 80 to 85 mm Hg ( high-target group ) or 65 to 70 mm Hg ( low-target group ) .
+METHODS	The primary end point was mortality at day 28 .
+RESULTS	At 28 days , there was no significant between-group difference in mortality , with deaths reported in 142 of 388 patients in the high-target group ( 36.6 % ) and 132 of 388 patients in the low-target group ( 34.0 % ) ( hazard ratio in the high-target group , 1.07 ; 95 % confidence interval [ CI ] , 0.84 to 1.38 ; P = 0.57 ) .
+RESULTS	There was also no significant difference in mortality at 90 days , with 170 deaths ( 43.8 % ) and 164 deaths ( 42.3 % ) , respectively ( hazard ratio , 1.04 ; 95 % CI , 0.83 to 1.30 ; P = 0.74 ) .
+RESULTS	The occurrence of serious adverse events did not differ significantly between the two groups ( 74 events [ 19.1 % ] and 69 events [ 17.8 % ] , respectively ; P = 0.64 ) .
+RESULTS	However , the incidence of newly diagnosed atrial fibrillation was higher in the high-target group than in the low-target group .
+RESULTS	Among patients with chronic hypertension , those in the high-target group required less renal-replacement therapy than did those in the low-target group , but such therapy was not associated with a difference in mortality .
+CONCLUSIONS	Targeting a mean arterial pressure of 80 to 85 mm Hg , as compared with 65 to 70 mm Hg , in patients with septic shock undergoing resuscitation did not result in significant differences in mortality at either 28 or 90 days .
+CONCLUSIONS	( Funded by the French Ministry of Health ; SEPSISPAM ClinicalTrials.gov number , NCT01149278 . )
+

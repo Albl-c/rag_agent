@@ -1,0 +1,17 @@
+25847605
+OBJECTIVE	The purpose of this study was to quantify the frequency and clinical severity of quality deficiencies in intensity modulated radiation therapy ( IMRT ) planning in the Radiation Therapy Oncology Group 0126 protocol .
+METHODS	A total of 219 IMRT patients from the high-dose arm ( 79.2 Gy ) of RTOG 0126 were analyzed .
+METHODS	To quantify plan quality , we used established knowledge-based methods for patient-specific dose-volume histogram ( DVH ) prediction of organs at risk and a Lyman-Kutcher-Burman ( LKB ) model for grade 2 rectal complications to convert DVHs into normal tissue complication probabilities ( NTCPs ) .
+METHODS	The LKB model was validated by fitting dose-response parameters relative to observed toxicities .
+METHODS	The 90th percentile ( 22 of 219 ) of plans with the lowest excess risk ( difference between clinical and model-predicted NTCP ) were used to create a model for the presumed best practices in the protocol ( pDVH0126 , top10 % ) .
+METHODS	Applying the resultant model to the entire sample enabled comparisons between DVHs that patients could have received to DVHs they actually received .
+METHODS	Excess risk quantified the clinical impact of suboptimal planning .
+METHODS	Accuracy of pDVH predictions was validated by replanning 30 of 219 patients ( 13.7 % ) , including equal numbers of presumed `` high-quality , '' `` low-quality , '' and randomly sampled plans .
+METHODS	NTCP-predicted toxicities were compared to adverse events on protocol .
+RESULTS	Existing models showed that bladder-sparing variations were less prevalent than rectum quality variations and that increased rectal sparing was not correlated with target metrics ( dose received by 98 % and 2 % of the PTV , respectively ) .
+RESULTS	Observed toxicities were consistent with current LKB parameters .
+RESULTS	Converting DVH and pDVH0126 , top10 % to rectal NTCPs , we observed 94 of 219 patients ( 42.9 % ) with 5 % excess risk , 20 of 219 patients ( 9.1 % ) with 10 % excess risk , and 2 of 219 patients ( 0.9 % ) with 15 % excess risk .
+RESULTS	Replanning demonstrated the predicted NTCP reductions while maintaining the volume of the PTV receiving prescription dose .
+RESULTS	An equivalent sample of high-quality plans showed fewer toxicities than low-quality plans , 6 of 73 versus 10 of 73 respectively , although these differences were not significant ( P = .21 ) due to insufficient statistical power in this retrospective study .
+CONCLUSIONS	Plan quality deficiencies in RTOG 0126 exposed patients to substantial excess risk for rectal complications .
+

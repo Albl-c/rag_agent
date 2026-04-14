@@ -1,0 +1,13 @@
+26065986
+BACKGROUND	Vitamin K-dependent factors protect against vascular and renovascular calcification , and vitamin K antagonists may be associated with a decreased glomerular filtration rate ( GFR ) .
+OBJECTIVE	This study analyzed changes in GFR during long-term treatment with warfarin or dabigatran etexilate ( DE ) in patients enrolled in the RE-LY ( Randomized Evaluation of Long Term Anticoagulation Therapy ) trial .
+METHODS	Of the 18,113 patients in the RE-LY study randomized to receive DE ( 110 mg or 150 mg twice daily ) or warfarin , 16,490 patients with atrial fibrillation had creatinine values measured at baseline and at least 1 follow-up visit .
+METHODS	Changes in GFR for up to 30 months were evaluated .
+RESULTS	GFR declined in all treatment groups .
+RESULTS	After an average of 30 months , the mean SE decline in GFR was significantly greater with warfarin ( -3.68 0.24 ml/min ) compared with DE 110 mg ( -2.57 0.24 ml/min ; p = 0.0009 vs. warfarin ) and DE 150 mg ( -2.46 0.23 ml/min ; p = 0.0002 vs. warfarin ) .
+RESULTS	A decrease in GFR > 25 % was less likely with DE 110 mg ( hazard ratio : 0.81 [ 95 % confidence interval : 0.69 to 0.96 ] ; p = 0.017 ) or DE 150 mg ( hazard ratio : 0.79 [ 95 % confidence interval : 0.68 to 0.93 ] ; p = 0.0056 ) than with warfarin in the observation period > 18 months .
+RESULTS	Patients with poor international normalized ratio control ( i.e. , time in therapeutic range < 65 % ) exhibited a faster decline in GFR .
+RESULTS	A more pronounced decline in GFR was associated with previous warfarin use and with the presence of diabetes .
+CONCLUSIONS	Patients with atrial fibrillation receiving oral anticoagulation exhibited a decline in renal function that was greater in those taking warfarin versus DE , and it was amplified by diabetes and previous vitamin K antagonist use .
+CONCLUSIONS	( Randomized Evaluation of Long Term Anticoagulant Therapy [ RE-LY ] With Dabigatran Etexilate ; NCT00262600 ) .
+

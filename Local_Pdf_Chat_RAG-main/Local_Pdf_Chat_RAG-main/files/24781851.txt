@@ -1,0 +1,14 @@
+24781851
+OBJECTIVE	The aim of this study was to test the efficacy of a 12-month lifestyle intervention in improving cardiovascular disease risk factors in community-based menopausal transition and early postmenopausal women in China .
+METHODS	One hundred healthy menopausal transition and early postmenopausal women aged 40 to 60 years were randomly assigned to receive either lifestyle change intervention ( n = 53 ) or usual care ( n = 47 ) .
+METHODS	Menopause status was defined by the menstrual change criteria of the Stages of Reproductive Aging Workshop + 10 based on prospective menstrual calendars .
+METHODS	Women in the intervention group were provided with a colorful booklet that included dietary and physical activity recommendations , were individually interviewed , and completed biophysical cardiovascular risk assessments at the Women 's Health Center ( Beijing , China ) .
+METHODS	Women were encouraged to follow a healthy eating pattern and to increase their aerobic activity ( moderate level , 3 d/wk , 40 min/d ) .
+METHODS	Women in the control group continued their usual eating patterns and activities .
+METHODS	Weight , body mass index ( BMI ) , waist circumference-to-hip circumference ratio ( WHR ) , waist circumference ( WC ) , body composition , blood pressure ( BP ) , blood glucose , and serum lipids were assessed at baseline , 3 months , 6 months , and 12 months in both groups .
+RESULTS	Women in the intervention group were observed to have significant decreases in weight , BMI , WC , WHR , systolic BP , total cholesterol , and low-density lipoprotein cholesterol compared with women in the control group .
+RESULTS	At 3 months , there were significant decreases in weight ( -0.28 vs 0.68 kg , P = 0.002 ) , BMI ( -0.06 vs 0.44 kg/m2 , P = 0.003 ) , WC ( -0.28 vs 1.43 cm , P = 0.001 ) , and WHR ( -0.01 vs 0.01 , P = 0.045 ) in the intervention group compared with the control group .
+RESULTS	At 6 months , there were significant decreases in WC ( -0.73 vs 1.02 cm , P = 0.012 ) , WHR ( -0.02 vs -0.003 , P = 0.020 ) , and systolic BP ( -7.52 vs -0.63 mm Hg , P = 0.012 ) favoring the intervention group over the control group .
+RESULTS	At 12 months , there were significant decreases in total cholesterol ( -0.07 vs 0.03 mmol/L , P = 0.045 ) and low-density lipoprotein cholesterol ( -0.13 vs 0.01 mmol/L , P = 0.022 ) in the intervention group versus the control group .
+CONCLUSIONS	Lifestyle intervention may be an effective means for reducing cardiovascular disease risk factors in menopausal transition and early postmenopausal women in China .
+

@@ -1,0 +1,15 @@
+25381300
+OBJECTIVE	To study activin signaling and its blockade in sporadic inclusion body myositis ( sIBM ) through translational studies and a randomized controlled trial .
+METHODS	We measured transforming growth factor signaling by SMAD2/3 phosphorylation in muscle biopsies of 50 patients with neuromuscular disease ( 17 with sIBM ) .
+METHODS	We tested inhibition of activin receptors IIA and IIB ( ActRII ) in 14 patients with sIBM using one dose of bimagrumab ( n = 11 ) or placebo ( n = 3 ) .
+METHODS	The primary outcome was the change in right thigh muscle volume by MRI at 8 weeks .
+METHODS	Lean body mass , strength , and function were secondary outcomes .
+METHODS	Twelve of the patients ( 10 bimagrumab , 2 placebo ) participated in a subsequent 16-week observation phase .
+RESULTS	Muscle SMAD2/3 phosphorylation was higher in sIBM than in other muscle diseases studied ( p = 0.003 ) .
+RESULTS	Eight weeks after dosing , the bimagrumab-treated patients increased thigh muscle volume ( right leg +6.5 % compared with placebo , p = 0.024 ; left leg +7.6 % , p = 0.009 ) and lean body mass ( +5.7 % compared with placebo , p = 0.014 ) .
+RESULTS	Subsequently , bimagrumab-treated patients had improved 6-minute walking distance , which peaked at 16 weeks ( +14.6 % , p = 0.008 ) compared with placebo .
+RESULTS	There were no serious adverse events ; the main adverse events with bimagrumab were mild acne and transient involuntary muscle contractions .
+CONCLUSIONS	Transforming growth factor superfamily signaling , at least through ActRII , is implicated in the pathophysiology of sIBM .
+CONCLUSIONS	Inhibition of ActRII increased muscle mass and function in this pilot trial , offering a potential novel treatment of sIBM .
+METHODS	This study provides Class I evidence that for patients with inclusion body myositis , bimagrumab increases thigh muscle volume at 8 weeks .
+

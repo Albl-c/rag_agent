@@ -1,0 +1,12 @@
+26027613
+BACKGROUND	Prior studies have demonstrated a significant gap between guideline-based recommendations and clinical practice in the management of acute ischemic stroke ( AIS ) in China .
+OBJECTIVE	This study implements a targeted multifaceted quality improvement intervention in AIS patients and identifies the feasibility and efficacy of this intervention .
+METHODS	This is a multicenter , 2-arm , open-label , cluster-randomized trial involving 40 clusters ( hospitals ) from China National Network of Stroke Research .
+METHODS	Hospitals are randomized to receive a targeted multifaceted quality improvement intervention ( experimental group ) or routine standard of care ( control group ) .
+METHODS	The multifaceted intervention includes an evidence-based clinical pathway , written care protocols , a quality coordinator , and a monitoring and feedback system of performance measures .
+METHODS	The number of enrolled patients in the trial will be 4,800 .
+METHODS	Primary outcome is the measure of the adherence to AIS evidence-based performance measures including the composite measure ( defined as the total number of interventions performed among eligible patients divided by the total number of possible interventions among eligible patients ) and the all-or-none measure ( defined as the proportion of eligible patients who receive all of the performance measure interventions for which they are eligible ) .
+METHODS	Secondary patient outcomes include inhospital death ; a new vascular event ; disability ; and all-cause death at 3 , 6 , and 12 months after initial symptom onset .
+METHODS	All analyses will be performed according to the intention-to-treatment principle and accounted for clustering using generalized estimating equations .
+CONCLUSIONS	If proven effective , this targeted multifaceted intervention model will be extended nationwide as a model to bridge the evidence-based gap in the AIS management in China .
+

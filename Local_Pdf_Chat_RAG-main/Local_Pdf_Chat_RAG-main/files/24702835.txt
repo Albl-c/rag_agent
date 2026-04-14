@@ -1,0 +1,22 @@
+24702835
+BACKGROUND	Preconception-initiated low-dose aspirin might positively affect pregnancy outcomes , but this possibility has not been adequately assessed .
+BACKGROUND	Our aim was to investigate whether low-dose aspirin improved livebirth rates in women with one to two previous pregnancy losses .
+METHODS	In this multicentre , block-randomised , double-blind , placebo-controlled trial , women aged 18-40 years who were attempting to become pregnant were recruited from four medical centres in the USA .
+METHODS	Participants were stratified by eligibility criteria -- the original stratum was restricted to women with one loss at less than 20 weeks ' gestation during the previous year , whereas the expanded stratum included women with one to two previous losses , with no restrictions on gestational age or time of loss .
+METHODS	Women were block-randomised by centre and eligibility stratum in a 1:1 ratio .
+METHODS	Preconception-initiated daily low-dose aspirin ( 81 mg per day ) plus folic acid was compared with placebo plus folic acid for up to six menstrual cycles ; for women who conceived , study treatment continued until 36 weeks ' gestation .
+METHODS	Participants , trial staff , and investigators were masked to the assigned treatment .
+METHODS	The primary outcome was livebirth rate , which was analysed by intention to treat .
+METHODS	The trial is registered with ClinicalTrials.gov , number NCT00467363 .
+RESULTS	Overall , 1228 women were recruited and randomly assigned between June 15 , 2007 , and July 15 , 2011 , 1078 of whom completed the trial and were included in the analysis ( 535 in the low-dose aspirin group and 543 in the placebo group ) .
+RESULTS	309 ( 58 % ) women in the low-dose aspirin group had livebirths , compared with 286 ( 53 % ) in the placebo group ( p = 00984 ; absolute difference in livebirth rate 509 % [ 95 % CI -084 to 1102 ] ) .
+RESULTS	Pregnancy loss occurred in 68 ( 13 % ) women in the low-dose aspirin group , compared with 65 ( 12 % ) women in the placebo group ( p = 07812 ) .
+RESULTS	In the original stratum , 151 ( 62 % ) of 242 women in the low-dose aspirin group had livebirths , compared with 133 ( 53 % ) of 250 in the placebo group ( p = 00446 ; absolute difference in livebirth rate 920 % [ 051 to 1789 ] ) .
+RESULTS	In the expanded stratum , 158 ( 54 % ) of 293 women in the low-dose aspirin group and 153 ( 52 % ) of 293 in the placebo group had livebirths ( p = 07406 ; absolute difference in livebirth rate 171 % [ -637 to 979 ] ) .
+RESULTS	Major adverse events were similar between treatment groups .
+RESULTS	Low-dose aspirin was associated with increased vaginal bleeding , but this adverse event was not associated with pregnancy loss .
+CONCLUSIONS	Preconception-initiated low-dose aspirin was not significantly associated with livebirth or pregnancy loss in women with one to two previous losses .
+CONCLUSIONS	However , higher livebirth rates were seen in women with a single documented loss at less than 20 weeks ' gestation during the previous year .
+CONCLUSIONS	Low-dose aspirin is not recommended for the prevention of pregnancy loss .
+BACKGROUND	Eunice Kennedy Shriver National Institute of Child Health and Human Development ( US National Institutes of Health ) .
+

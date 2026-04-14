@@ -1,0 +1,18 @@
+25724455
+OBJECTIVE	Infliximab , a tumor necrosis factor antagonist , is effective for treating patients with Crohn 's disease ( CD ) and ulcerative colitis ( UC ) .
+OBJECTIVE	We aimed to determine whether dosing based on therapeutic drug monitoring increases rate of remission and whether continued concentration-based dosing is superior to clinically based dosing of infliximab for maintaining remission in patients with CD and UC .
+METHODS	We performed a 1-year randomized controlled trial at a tertiary referral center , including 263 adults ( 178 with CD and 85 with UC ) with stable responses to maintenance infliximab therapy .
+METHODS	Doses were escalated or reduced using an algorithm to reach a target trough concentration ( TC ) of 3-7 g/mL in all patients ( optimization phase ) .
+METHODS	Patients were randomly assigned ( 1:1 ) to groups that received infliximab dosing based on their clinical features ( n = 123 ) or continued dosing based on TCs ( n = 128 ) ( maintenance phase ) .
+METHODS	The primary end point was clinical and biochemical remission at 1 year after the optimization phase .
+RESULTS	At screening , 115 of 263 patients had a TC of infliximab of 3-7 g/mL ( 43.7 % ) .
+RESULTS	Of 76 patients with TCs < 3 g/mL , 69 patients ( 91 % ) achieved TCs of 3-7 g/mL after dose escalation .
+RESULTS	This resulted in a higher proportion of CD patients in remission than before dose escalation ( 88 % vs 65 % ; P = .020 ) and a decrease in the median concentration of C-reactive protein , compared with before the dose increase ( 3.2 vs 4.3 mg/L ; P < .001 ) ; these changes were not observed in patients with UC .
+RESULTS	Of 72 patients with TCs > 7 g/mL , 67 patients ( 93 % ) achieved TCs of 3-7 g/mL after dose reduction .
+RESULTS	This resulted in a 28 % reduction in drug cost from before dose reduction ( P < .001 ) .
+RESULTS	Sixty-six percent of patients whose dosing was based on clinical features and 69 % whose dosing was based on TC achieved remission , the primary end point ( P = .686 ) .
+RESULTS	Disease relapsed in 21 patients who received clinically based dosing ( 17 % ) and 9 patients who received concentration-based dosing ( 7 % ) ( P = .018 ) .
+CONCLUSIONS	Targeting patients ' infliximab TCs to 3-7 g/mL results in a more efficient use of the drug .
+CONCLUSIONS	After dose optimization , continued concentration-based dosing was not superior to clinically based dosing for achieving remission after 1 year , but was associated with fewer flares during the course of treatment .
+CONCLUSIONS	ClinicalTrialsRegister.eu number : 2011-002061-38 .
+

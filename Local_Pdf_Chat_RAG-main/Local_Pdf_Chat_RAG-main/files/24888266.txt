@@ -1,0 +1,11 @@
+24888266
+BACKGROUND	There is a need for evidence of the clinical effectiveness of minimally invasive surgery for the treatment of esophageal cancer , but randomized controlled trials in surgery are often difficult to conduct .
+BACKGROUND	The ROMIO ( Randomized Open or Minimally Invasive Oesophagectomy ) study will establish the feasibility of a main trial which will examine the clinical and cost-effectiveness of minimally invasive and open surgical procedures for the treatment of esophageal cancer .
+METHODS	A pilot randomized controlled trial ( RCT ) , in two centers ( University Hospitals Bristol NHS Foundation Trust and Plymouth Hospitals NHS Trust ) will examine numbers of incident and eligible patients who consent to participate in the ROMIO study .
+METHODS	Interventions will include esophagectomy by : ( 1 ) open gastric mobilization and right thoracotomy , ( 2 ) laparoscopic gastric mobilization and right thoracotomy , and ( 3 ) totally minimally invasive surgery ( in the Bristol center only ) .
+METHODS	The primary outcomes of the feasibility study will be measures of recruitment , successful development of methods to monitor quality of surgery and fidelity to a surgical protocol , and development of a core outcome set to evaluate esophageal cancer surgery .
+METHODS	The study will test patient-reported outcomes measures to assess recovery , methods to blind participants , assessments of surgical morbidity , and methods to capture cost and resource use .
+METHODS	ROMIO will integrate methods to monitor and improve recruitment using audio recordings of consultations between recruiting surgeons , nurses , and patients to provide feedback for recruiting staff .
+CONCLUSIONS	The ROMIO study aims to establish efficient methods to undertake a main trial of minimally invasive surgery versus open surgery for esophageal cancer .
+BACKGROUND	The pilot trial has Current Controlled Trials registration number ISRCTN59036820 ( 25/02/2013 ) at http://www.controlled-trials.com; the ROMIO trial record at that site gives a link to the original version of the study protocol .
+

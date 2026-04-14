@@ -1,0 +1,16 @@
+25536736
+OBJECTIVE	To evaluate the effects of different intracorporeal ligation techniques with titanium clips , Plasma Trisector ( Gyrus , USA ) ( PTG ) , and surgical silk on bilateral laparoscopic varicocelectomy ( LPVx ) .
+METHODS	Between May 2009 and August 2012 , 100 patients who underwent bilateral LPVx were evaluated .
+METHODS	The demographic parameters of patients , preoperative radiological findings , semen analysis , operative data , and follow-up were recorded .
+METHODS	All of the patients were divided into 3 groups , randomized prospectively .
+METHODS	The patients whose veins were ligated by 5-mm titanium clips were included in group I , those whose veins were ligated by PTG were included in group II , and those whose veins were ligated by surgical silk were included in group III .
+METHODS	The recorded data of the groups were analyzed .
+RESULTS	Mean follow-up time was 18.8 + 1.1 months .
+RESULTS	According to the demographics of age , body mass index , spermiogram , and diameter of veins before surgery , there were no statistical differences between any of the groups ( P > 0.05 ) .
+RESULTS	However , operation time was longer in group III ( P < 0.0001 ) , while total numbers ofligated veins did not differ among the groups ( P > 0.05 ) .
+RESULTS	Additionally , hospital stay , oral intake , and complications were not different among the groups ( P > 0.05 ) .
+RESULTS	In follow-up the sperm count analysis was higher than the preoperative count analysis for all of the groups ( P < 0.05 ) .
+CONCLUSIONS	PTG may provide a shorter operation time than using titanium clips and/or surgical silk in LPVx .
+CONCLUSIONS	Additionally , PTG may increase sperm count with fewer complications than the other ligation techniques in LPVx .
+CONCLUSIONS	Therefore , PTG may be the new candidate electrosurgical standard device for LPVx in the nearby future .
+

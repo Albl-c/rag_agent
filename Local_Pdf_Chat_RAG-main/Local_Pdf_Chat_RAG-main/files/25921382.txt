@@ -1,0 +1,14 @@
+25921382
+BACKGROUND	During the ACCORD 12 randomized trial , an evaluation of the clinical tumor response was prospectively performed after neoadjuvant chemoradiotherapy .
+BACKGROUND	The correlations between clinical complete response and patient characteristics and treatment outcomes are reported .
+METHODS	Between 2005 and 2008 the Accord 12 trial accrued 598 patients with locally advanced rectal cancer and compared two different neoadjuvant chemoradiotherapies ( Capox 50 : capecitabine + oxaliplatin +50 Gy vs Cap 45 : capecitabine +45 Gy ) .
+METHODS	An evaluation of the clinical tumor response with rectoscopy and digital rectal examination was planned before surgery .
+METHODS	A score to classify tumor response was used adapted from the RECIST definition : complete response : no visible or palpable tumor ; partial response , stable and progressive disease .
+RESULTS	The clinical tumor response was evaluable in 201 patients .
+RESULTS	Score was : complete response : 8 % ( 16 patients ) ; partial response : 68 % ( 137 patients ) ; stable : 21 % ; progression : 3 % .
+RESULTS	There was a trend toward more complete response in the Capox 50 group ( 9.3 % vs 6.7 % with Cap 45 ) .
+RESULTS	In the whole cohort of 201 pts complete response was significantly more frequent in T2 tumors ( 28 % ; p = 0.025 ) ; tumors < 4cm in diameter ( 14 % ; p = 0.017 ) , less than half rectal circumference and with a normal CEA level .
+RESULTS	Clinical complete response observed in 16 patients was associated with more conservative treatment ( p = 0.008 ) : 2 patients required an abdomino-perineal resection , 11 an anterior resection and 3 patients benefited from organ preservation ( 2 local excision , 1 `` watch and wait '' .
+RESULTS	A complete response was associated with more ypT0 ( 73 % ; p < 0.001 ) ; ypNO ( 92 % ) ; R0 circumferential margin ( 100 % ) .
+CONCLUSIONS	These data support the hypothesis that a clinical complete response assessed using rectoscopy and digital rectal examination after neoadjuvant therapy may increase the chance of a sphincter or organ preservation in selected rectal cancers .
+

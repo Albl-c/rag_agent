@@ -1,0 +1,11 @@
+24369433
+BACKGROUND	The standardized patient approach has proved to be an effective training tool for medical educators .
+BACKGROUND	This article explains the process of employing standardized patients in an HIV stigma reduction intervention in healthcare settings in China .
+METHODS	The study was conducted in 40 hospitals in two provinces of China .
+METHODS	One year after the stigma reduction intervention , standardized patients made unannounced visits to participating hospitals , randomly approached service providers on duty and presented symptoms related to HIV and disclosed HIV-positive test results .
+METHODS	After each visit , the standardized patients evaluated their providers ' attitudes and behaviours using a structured checklist .
+METHODS	Standardized patients also took open-ended observation notes about their experience and the evaluation process .
+RESULTS	Seven standardized patients conducted a total of 217 assessments ( 108 from 20 hospitals in the intervention condition ; 109 from 20 hospitals in the control condition ) .
+RESULTS	Based on a comparative analysis , the intervention hospitals received a better rating than the control hospitals in terms of general impression and universal precaution compliance as well as a lower score on stigmatizing attitudes and behaviours toward the standardized patients .
+CONCLUSIONS	Standardized patients are a useful supplement to traditional self-report assessments , particularly for measuring intervention outcomes that are sensitive or prone to social desirability .
+

@@ -1,0 +1,10 @@
+24837862
+OBJECTIVE	To evaluate whether a polyethylene total body wrapping ( covering both the body and head ) is more effective than conventional treatment ( covering up to the shoulders ) in reducing perinatal thermal losses in very preterm infants .
+METHODS	This was a multicenter , prospective , randomized , parallel 1:1 , unblinded , controlled trial of infants < 29 weeks ' gestation age , comprising two study groups : experimental group ( total body group ; both the body and head covered with a polyethylene occlusive bag , with the face uncovered ) and control group ( only the body , up to the shoulders , covered with a polyethylene occlusive bag ) .
+METHODS	The primary outcome was axillary temperature on neonatal intensive care unit admission immediately after wrap removal .
+RESULTS	One hundred randomly allocated infants ( 50 in the total body group and 50 controls ) completed the study .
+RESULTS	Mean axillary temperature on neonatal intensive care unit admission was similar in the two groups ( 36.50.6 C total body vs 36.40.8 C controls ; P = .53 ) .
+RESULTS	The rate of moderate hypothermia ( temperature < 36C ) was 12 % in the total body group and 20 % in the control group ( P = .41 ) .
+RESULTS	Three subjects in each group ( 6.0 % ) had an axillary temperature > 37.5 C on admission , and one subject in control group had an axillary temperature > 38C .
+CONCLUSIONS	Total body wrapping is comparable with covering the body up to the shoulders in preventing postnatal thermal losses in very preterm infants .
+

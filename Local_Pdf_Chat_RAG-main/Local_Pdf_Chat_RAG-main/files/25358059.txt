@@ -1,0 +1,14 @@
+25358059
+OBJECTIVE	Retrograde intrarenal surgery ( RIRS ) involves a minimally invasive stone surgery , lending itself potential to combined spinal-epidural anesthesia ( CSEA ) , although it is performed preferably under general anesthesia ( GA ) .
+OBJECTIVE	This prospective randomized study was undertaken to evaluate the feasibility and efficacy of CSEA for patients undergoing RIRS .
+METHODS	Seventy consecutive patients who were scheduled for RIRS were randomized to receive CSEA ( n = 35 ) or GA ( n = 35 ) .
+METHODS	Operative time , stone clearance rate , visual analog scale ( VAS ) of pain , complication rate , anesthetic cost , and hospital stay were compared between the two groups .
+RESULTS	A total of 65 patients randomized to CSEA ( 31 ) or GA ( 34 ) completed the study .
+RESULTS	In the CSEA group , each procedure was completed and there was no anesthetic conversion .
+RESULTS	Although based on the prospective randomized method , the GA group still had a little larger stone size ( p = 0.059 ) and more multiple caliceal stones ( p = 0.037 ) .
+RESULTS	Overall , there were no statistically significant differences in operative time ( p = 0.088 ) , stone fragmentation time ( p = 0.074 ) , postoperative VAS pain score at 6 and 24 hours ( p = 0.156 , 0.146 ) , incidence of complications ( p = 0.870 ) , stone-free rate ( p = 0.804 ) , and hospital stays ( p = 0.907 ) between the two groups .
+RESULTS	The patients in the GA group experienced a higher mean hemoglobin drop ( 6.53.2 vs 8.62.7 g/L , p = 0.012 ) .
+RESULTS	In addition , the anesthetic cost was much cheaper in the CSEA group ( 183.831.4 vs 391.959.1 dollars , p < 0.001 ) .
+CONCLUSIONS	RIRS with CSEA can be completed with no anesthetic conversions and with the same efficacy and safety compared with GA. .
+CONCLUSIONS	When considering economical aspects , CSEA appears to be a preferable alternative to GA for the patient whose general health status permits it .
+

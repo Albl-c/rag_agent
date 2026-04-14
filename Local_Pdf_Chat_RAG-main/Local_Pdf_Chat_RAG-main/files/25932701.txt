@@ -1,0 +1,13 @@
+25932701
+BACKGROUND	Alerts embedded in electronic health records ( EHRs ) are designed to improve processes at the point of care .
+OBJECTIVE	The aim of this study was to determine if an EHR alert-at emergency department ( ED ) triage-increases the ED triage nurse 's utilization of triage protocols .
+METHODS	ED triage nurses were randomized to receive either a passive EHR alert or no intervention for patients with the following complaints : minor trauma with extremity injuries or female patients with abdominal pain .
+METHODS	The EHR alert notified the nurse that the patient was eligible for diagnostic testing : radiographs for patients with injured extremities or urinalysis for female patients with abdominal pain .
+RESULTS	Twenty-eight nurses triaged 20,410 patients in the 6 months before the intervention and 19,157 in the 6 months after the intervention .
+RESULTS	Before the intervention , the urinalysis protocol was implemented in 101/624 ( 16.2 % ) patients triaged by the intervention group and 116/711 ( 16.3 % ) triaged by the control group .
+RESULTS	After the intervention , the urinalysis protocol was implemented in 146/530 ( 27.6 % ) patients triaged by the intervention group and 174/679 ( 25.6 % ) triaged by the control group .
+RESULTS	Before the intervention , the radiograph protocol was implemented in 58/774 ( 7.5 % ) patients triaged by the intervention group and 45/684 ( 6.6 % ) triaged by the control group .
+RESULTS	After the intervention , the radiograph protocol was implemented in 78/614 ( 12.7 % ) patients triaged by the intervention group and 79/609 ( 13.0 % ) triaged by the control group .
+CONCLUSIONS	The use of a passive EHR alert to promote ED triage protocols showed little benefit .
+CONCLUSIONS	Before the widespread implementation of EHR alerts for patient care , rigorous studies are required to determine the best alert methods and the impacts of such interventions .
+

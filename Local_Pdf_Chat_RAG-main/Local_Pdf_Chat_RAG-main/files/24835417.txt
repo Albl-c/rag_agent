@@ -1,0 +1,11 @@
+24835417
+BACKGROUND	The purpose of this study is to compare clinical outcomes in the treatment of deep non-contained intrabony defects ( i.e. , with 70 % 1-wall component and a residual 2 - to 3-wall component in the most apical part ) using deproteinized bovine bone mineral ( DBBM ) combined with either enamel matrix protein derivative ( EMD ) or collagen membrane ( CM ) .
+METHODS	Forty patients with multiple intrabony defects were enrolled .
+METHODS	Only one non-contained defect per patient with an intrabony depth 3 mm located in the interproximal area of single - and multirooted teeth was randomly assigned to the treatment with either EMD + DBBM ( test : n = 20 ) or CM + DBBM ( control : n = 20 ) .
+METHODS	At baseline and after 12 months , clinical parameters including probing depth ( PD ) and clinical attachment level ( CAL ) were recorded .
+METHODS	The primary outcome variable was the change in CAL between baseline and 12 months .
+RESULTS	At baseline , the intrabony component of the defects amounted to 6.1 1.9 mm for EMD + DBBM and 6.0 1.9 mm for CM + DBBM sites ( P = 0.81 ) .
+RESULTS	The mean CAL gain at sites treated with EMD + DBBM was not statistically significantly different ( P = 0.82 ) compared with CM + DBBM ( 3.8 1.5 versus 3.7 1.2 mm ) .
+RESULTS	No statistically significant difference ( P = 0.62 ) was observed comparing the frequency of CAL gain 4 mm between EMD + DBBM ( 60 % ) and CM + DBBM ( 50 % ) or comparing the frequency of residual PD 6 mm between EMD + DBBM ( 5 % ) and CM + DBBM ( 15 % ) ( P = 0.21 ) .
+CONCLUSIONS	Within the limitations of the present study , regenerative therapy using either EMD + DBBM or CM + DBBM yielded comparable clinical outcomes in deep non-contained intrabony defects after 12 months .
+

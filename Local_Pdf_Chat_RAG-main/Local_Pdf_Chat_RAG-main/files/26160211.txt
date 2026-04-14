@@ -1,0 +1,15 @@
+26160211
+OBJECTIVE	The objective of this study was to compare the efficacy and comfort of inelastic bandages ( IBs ) and adjustable Velcro compression devices ( AVCDs ) in reducing venous leg edema in the initial treatment phase .
+METHODS	Forty legs from 36 patients with untreated venous edema ( C3EpsAsdPr ) were randomized to two groups .
+METHODS	Patients in the first group received IBs ( n = 20 ) and those in the second AVCDs ( n = 20 ) .
+METHODS	Both compression devices were left on the leg day and night , and were renewed after 1 day .
+METHODS	Patients in the AVCD group were asked to re-adjust the device as needed when it felt loose .
+METHODS	Leg volume was calculated using the truncated cone formula at baseline ( T0 ) , after 1 day ( T1 ) and after 7 days ( T7 ) .
+METHODS	The interface pressure of the two compression devices was measured by an air filled probe , and the static stiffness index calculated after applying compression at T0 and T1 , and just before removal of compression on T1 and T7 .
+METHODS	Patient comfort with regard to the two compression systems was assessed by grading signs and symptoms using a visual analog scale .
+RESULTS	At T1 , the median percent volume reduction was 13 % for the IB group versus 19 % for the AVCD group ; at T7 it was 19 % versus 26 % , respectively ( p < .001 ) .
+RESULTS	The pressure of the IBs was significantly higher compared with the AVCDs at T0 ( 63 vs. 43 mmHg ) but dropped by > 50 % over time , while it remained unchanged with AVCDs owing to the periodic readjustment by the patient .
+RESULTS	Comfort was reported to be similar with the two compression devices .
+CONCLUSIONS	Re-adjustable AVCDs with a resting pressure of around 40 mmHg are more effective in reducing chronic venous edema than IBs with a resting pressure of around 60 mmHg .
+CONCLUSIONS	AVCDs are effective and well tolerated , not only during maintenance therapy , but also in the initial decongestive treatment phase of patients with venous leg edema .
+

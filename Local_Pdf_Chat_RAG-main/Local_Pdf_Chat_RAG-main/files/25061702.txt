@@ -1,0 +1,14 @@
+25061702
+OBJECTIVE	To evaluate the pharmacokinetics and thermal and mechanical antinociceptive effects of a fentanyl constant rate infusion ( CRI ) in conscious cats .
+METHODS	8 healthy adult cats .
+METHODS	At a 14-day interval , 7 cats received a loading dose ( LD ) of fentanyl ( 5 g/kg , IV [ administered at 0 hours ] ) followed by fentanyl infusion ( 5 g/kg/h , IV ) for 2 hours or similar administrations of equivalent volumes of 0.9 % saline ( NaCl ) solution .
+METHODS	One cat received only the fentanyl treatment .
+METHODS	For both treatments , sedation and adverse events were evaluated and mechanical threshold ( MT ) and thermal threshold ( TT ) testing was performed prior to ( baseline ) and at predetermined times up to 26 hours after LD administration ; plasma fentanyl concentrations were determined at similar times when the cats received fentanyl .
+RESULTS	Fentanyl induced mild sedation during the infusion .
+RESULTS	The only adverse effect associated with fentanyl LD administration was profuse salivation ( 1 cat ) .
+RESULTS	Saline solution administration did not significantly change MT or TT over time .
+RESULTS	For the duration of the CRI , MT and TT differed significantly between treatments , except for TT 1 hour after LD administration .
+RESULTS	For the fentanyl treatment , MT and TT were significantly higher than baseline at 0.25 to 0.75 hours and at 0.25 to 1 hour , respectively .
+RESULTS	During the fentanyl CRI , mean SD plasma fentanyl concentration decreased from 4.41 1.86 ng/mL to 2.99 1.28 ng/mL and was correlated with antinociception ; plasma concentrations < 1.33 0.30 ng/mL were not associated with antinociception .
+CONCLUSIONS	Fentanyl CRI ( 5 g/kg/h ) induced mechanical and thermal antinociception in cats .
+

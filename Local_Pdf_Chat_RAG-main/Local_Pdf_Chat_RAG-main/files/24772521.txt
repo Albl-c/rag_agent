@@ -1,0 +1,13 @@
+24772521
+BACKGROUND	The Randomized Olmesartan and Diabetes Microalbuminuria Prevention ( ROADMAP ) study showed that 40 mg Olmesartan medoxomil ( OM ) versus placebo delayed microalbuminuria onset in patients with type 2 diabetes and normoalbuminuria .
+RESULTS	One thousand seven hundred and fifty-eight ROADMAP patients ( placebo arm : 877 ; OM arm : 881 ) participated in the observational follow up ( OFU ) with an average of 3.3 years .
+RESULTS	They received standard medical care and micro - and macrovascular events were documented .
+RESULTS	During observational follow-up 62.9 % and 60.1 % in the former OM and placebo group , respectively , received treatment with a RAS blocking agent .
+RESULTS	During the OFU period the systolic blood pressure ( SBP ) increased to mean values of 135 mm Hg in both groups .
+RESULTS	Patients who had developed microalbuminuria during ROADMAP had a higher incidence of cardio - and cerebrovascular events ( OR 1.77 , CI 1.03 to 3.03 , P = 0.039 ) during the OFU period compared with patients in whom this was not the case .
+RESULTS	Diabetic retinopathy was significantly reduced in the former OM group ( 8 [ 0.9 % ] versus 23 [ 2.6 % ] , OR : 0.34 , CI 0.15 to 0.78 , P = 0.011 ) and the rate of microalbuminuria was numerically reduced .
+RESULTS	Congestive heart failure requiring hospitalization ( 3 [ 0.3 % ] versus 12 [ 1.4 % ] , OR : 0.23 , CI 0.06 to 0.85 , P = 0.027 ) was reduced and there was a trend of reduced cardio - / cerebrovascular events ( OM versus Pb : 73 [ 8.3 % ] versus 86 [ 9.8 % ] patients ) .
+RESULTS	Seven ( 0.8 % ) deaths ( including 2 CV events ) were reported in former placebo patients versus 3 ( 0.3 % ) ( non-CV events ) in former OM patients .
+CONCLUSIONS	Development of microalbuminuria is a valid marker for future CV events .
+CONCLUSIONS	RAS blockade with Olmesartan might cause sustained reduction ( legacy effect ) of micro - and macrovascular events .
+

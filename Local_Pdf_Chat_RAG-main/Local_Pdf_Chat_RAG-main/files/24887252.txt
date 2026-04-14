@@ -1,0 +1,13 @@
+24887252
+OBJECTIVE	The aim of this study was to compare the duration of postoperative analgesia and possible adverse effects produced by caudal bupivacaine 0.25 % at 1 ml/kg with or without 1.5 ug/kg of neostigmine in children undergoing unilateral herniotomy .
+METHODS	Sixty-six children aged 1-6 years , of ASA physical status classes I or II for elective unilateral herniotomy under general anaesthesia without premedication were studied .
+METHODS	The patients were randomly allocated into two groups of 33 each .
+METHODS	Group B received caudal analgesia with plain bupivacaine 0.25 % at 1 ml/kg alone , while group BN received caudal analgesia using a mixture of plain bupivacaine 0.25 % at 1 ml/kg and neostigmine 1.5 ug / kg .
+METHODS	Postoperatively , monitoring of pain scores and time to first analgesic request and , total dose of analgesics administered in the first 24 hours were recorded .
+RESULTS	All the patients participated throughout the study .
+RESULTS	There were no differences in the demographic characteristics ( age , weight , ASA status ) between the two groups .
+RESULTS	The mean duration of effective analgesia was significantly longer in group BN , 460 60.2 min .
+RESULTS	compared to group B , 286.4 47.8 mins , ( p < 0.001 ) .
+RESULTS	The analgesic requirement within the first 24 hours postoperatively was also significantly reduced in group BN , p < 0.001 .
+CONCLUSIONS	The study shows that the addition of low dose neostigmine to caudal isobaric bupivacaine significantly prolonged the time to first analgesic request and hence significantly reduced postoperative analgesic requirement .
+

@@ -1,0 +1,10 @@
+24572769
+OBJECTIVE	We report our experience with a modified mini-maze procedure and pulmonary vein isolation using radiofrequency energy for treating persistent atrial fibrillation during coronary artery bypass grafting ( CABG ) .
+METHODS	Ninety-five patients with persistent atrial fibrillation and coronary heart disease underwent open heart surgery combined with intraoperative irrigated radiofrequency ablation .
+METHODS	Patients were randomized into the following three groups : CABG and irrigated radiofrequency pulmonary vein isolation ( CABG+PVI , n = 31 ) ; CABG and an irrigated radiofrequency modified mini-maze procedure ( CABG+MM , n = 30 ) ; and isolated CABG ( CABG alone , n = 34 ) .
+METHODS	All patients received implantable loop recorders .
+RESULTS	No reoperation and no hospital mortality were recorded .
+RESULTS	Mean follow-up was 14.4 9.7 months .
+RESULTS	The implantable loop recorder-determined freedom from atrial fibrillation was 80 % in the CABG+PVI group , 86.2 % in the CABG+MM group and 44.1 % in the CABG alone group .
+CONCLUSIONS	Patients with concomitant atrial fibrillation and coronary heart disease may benefit from intraoperative ablation to prevent relapse of arrhythmia .
+

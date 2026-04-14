@@ -1,0 +1,16 @@
+25169073
+BACKGROUND	In sub-Saharan Africa , malaria continues to cause over 10,000 maternal deaths and 75,000 to 200,000 infant deaths .
+BACKGROUND	Successful control of malaria in pregnancy could save lives of mothers and babies and is an essential part of antenatal care in endemic areas .
+BACKGROUND	The primary objective is to determine the protective efficacy of community-scheduled screening and treatment ( CSST ) using community health workers ( CHW ) against the primary outcome of prevalence of placental malaria .
+BACKGROUND	The secondary objectives are to determine the protective efficacy of CSST on maternal anaemia , maternal peripheral infection , low birth weight , selection of sulfadoxine-pyrimethamine ( SP ) resistance markers , and on antenatal clinic ( ANC ) attendance and coverage of intermittent preventive treatment during pregnancy ( IPTp-SP ) .
+METHODS	This is a multi-centre cluster-randomised controlled trial involving three countries with varying malaria endemicity ; low ( The Gambia ) versus high transmission ( Burkina Faso and Benin ) , and varying degrees of SP resistance ( high in Benin and moderate in Gambia and Burkina Faso ) .
+METHODS	CHW and their related catchment population who are randomised into the intervention arm will receive specific training on community-based case management of malaria in pregnancy .
+METHODS	All women in both study arms will be enrolled at their first ANC visits in their second trimester where they will receive their first dose of IPTp-SP .
+METHODS	Thereafter , CHW in the intervention arm will perform scheduled monthly screening and treatment in the womens homes .
+METHODS	At time of delivery , a placental biopsy will be collected from all women to determine placental malaria .
+METHODS	At each contact point , filter paper and blood slides will be collected for detection of malaria infection and SP resistance markers .
+CONCLUSIONS	To reach successful global malaria control , there is an urgent need to access those at greatest risk of malaria infection .
+CONCLUSIONS	The project is designed to develop a low-cost intervention in pregnant women which will have an immediate impact on the malaria burden in resource-limited countries .
+CONCLUSIONS	This will be done by adding to the standard IPTp-SP delivered through the health facilities : an `` extension '' strategy to the communities in rural areas thus bringing health services closer to where women live .
+BACKGROUND	Current Controlled Trials : ISRCTN37259296 ( 5 July 2013 ) , and clinicaltrials.gov : NCT01941264 ( 10 September 2013 ) .
+

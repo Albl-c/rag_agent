@@ -1,0 +1,12 @@
+24722047
+BACKGROUND	Therapeutic ultrasound and transcutaneous electrical nerve stimulation ( TENS ) have been described as being effective in the treatment of spasticity .
+BACKGROUND	No previous study compared these physical modalities with a first-line treatment for spasticity , such as botulinum toxin type A.
+OBJECTIVE	To compare the effects of therapeutic ultrasound and TENS with botulinum toxin type A on spasticity after stroke .
+METHODS	Thirty patients with chronic stroke and spastic equinus were randomly assigned to 3 groups : 1 group received therapeutic ultrasound to the affected leg calf muscles , 1 group underwent TENS to the tibial nerve of the affected leg , and 1 group was injected with onabotulinum toxin A in the spastic gastrocnemius .
+METHODS	All patients were evaluated immediately before treatment and 15 , 30 , and 90 days after the first clinical evaluation .
+METHODS	The following outcome measures were considered : ankle passive dorsiflexion range of motion and the modified Ashworth scale .
+RESULTS	Patients injected with botulinum toxin type A had significantly better ankle passive range of motion than those treated with physical modalities at all posttreatment evaluations .
+RESULTS	At second and third posttreatment evaluations , the modified Ashworth scale indicated significantly greater improvement in patients injected with botulinum toxin type A than in those treated with physical modalities .
+RESULTS	No difference was found between groups treated with physical modalities .
+CONCLUSIONS	Our findings support the hypothesis that botulinum toxin type A is more effective than therapeutic ultrasound and TENS for treating focal spasticity in patients with chronic stroke .
+

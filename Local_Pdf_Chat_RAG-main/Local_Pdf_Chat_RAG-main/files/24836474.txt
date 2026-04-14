@@ -1,0 +1,12 @@
+24836474
+BACKGROUND	We sought to determine whether the design of 3 different double-lumen endobronchial tubes ( DLT ) ( Rusch , Mallinckrodt , Fuji ) has an effect on the ease of placement over an airway exchange catheter ( AEC ) using a video laryngoscope .
+METHODS	A convenience sample of 17 anesthesia residents and fellows with at least 3 years of anesthesia training was recruited from teaching hospitals in Toronto for a randomized crossover trial .
+METHODS	Each participant passed each DLT over an AEC in an airway simulator , visualized and video recorded via a video laryngoscope ( GlideScope ) .
+METHODS	The order of exchange was randomized by blindly pulling the name of the manufacturer of a DLT from a box .
+METHODS	The primary outcome was time to intubate , defined as time from the bronchial lumen entering the GlideScope view to the bronchial lumen passing the vocal cords .
+METHODS	Also recorded were participants ' subjective rating of the ease of use and failure rate , defined as an attempt > 150-second duration .
+RESULTS	Time to intubate was faster with the Fuji-Phycon DLT ( median 2 seconds ) compared with both the Rusch ( median 27 seconds , P = 0.0144 ) and Mallinckrodt ( median 21 seconds , P = 0.0117 ) .
+RESULTS	On a scale of 1 to 10 , with 10 being very easy to use and 1 being very difficult , the Fuji-Phycon was judged to be easier to use ( median 10 seconds ) compared with the Rusch ( median 3 , P = 0.0186 ) and the Mallinckrodt ( median 4 seconds , P = 0.0123 ) .
+RESULTS	The Rusch was associated with significantly more failures than the other DLTs , P = 0.002 .
+CONCLUSIONS	The Fuji-Phycon DLT was easier to pass over an AEC in this simulator trial and warrants consideration in patients with difficult airways who require 1-lung ventilation .
+

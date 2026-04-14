@@ -1,0 +1,16 @@
+24812022
+BACKGROUND	A recent meta-analysis of Internet interventions for smoking cessation found mixed evidence regarding effectiveness .
+BACKGROUND	One explanation may be differential use of non-assigned cessation treatments-including other Internet programs-that either amplify or mask study intervention effects .
+BACKGROUND	We examined the impact of non-assigned treatment use on cessation outcomes in The iQUITT Study , a randomized trial of Internet and telephone treatment for smoking cessation .
+METHODS	Participants were randomized to a basic Internet ( BI ) comparison condition ( N = 675 ) , enhanced Internet ( EI : N = 651 ) , or EI plus telephone counseling ( EI+P : N = 679 ) .
+METHODS	The primary outcome was 30-day point prevalence abstinence ( ppa ) at 3 and 6 months .
+METHODS	Assigned intervention use was assessed with automated tracking data .
+METHODS	Assessment of non-assigned treatments included pharmacotherapy , behavioral , alternative , and non-study Internet treatments .
+METHODS	Univariate and multivariate logistic regression models examined whether non-assigned treatment use was associated with 30-day ppa .
+RESULTS	About 70 % of participants used at least one non-assigned treatment .
+RESULTS	A higher rate of non-study Internet treatment among BI participants was the only treatment group difference at both 3 and 6 months .
+RESULTS	Multivariate models controlling for condition and baseline predictors of non-assigned treatment use showed that high-intensity non-study Internet treatment was positively associated with 30-day ppa at 3 and 6 months , and pharmacotherapy and behavioral treatment use was negatively associated with 30-day ppa at 6 months .
+CONCLUSIONS	Non-assigned treatment use is an important factor to consider when evaluating Internet cessation interventions .
+CONCLUSIONS	Results highlight methodological issues in selecting a comparison condition .
+CONCLUSIONS	Researchers should report non-assigned treatment use alongside main trial outcomes .
+

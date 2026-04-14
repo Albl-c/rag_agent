@@ -1,0 +1,10 @@
+24434889
+OBJECTIVE	The aim of the present study was to evaluate the effects of upper thoracic manipulation on pain in subjects with temporomandibular disorder .
+METHODS	Thirty-two women with a diagnosis of temporomandibular disorder were randomly allocated to an experimental group ( n = 16 ) , submitted to upper thoracic manipulation , and a placebo group ( n = 16 ) , submitted to a procedure in the thoracic region with no therapeutic effect .
+METHODS	All volunteers underwent an evaluation of pain in the masticatory muscles and the temporomandibular joint using an algometer and the visual analog scale before and immediately after the procedure as well as after 48-72 hrs .
+METHODS	Two-way repeated-measures analysis of variance was used for the intragroup and intergroup analyses , with the level of significance set to 5 % ( P < 0.05 ) .
+METHODS	Cohen d was calculated for the determination of the effect size .
+RESULTS	No significant group-by-time interaction was found ( P > 0.05 ) for algometry in any analysis , and Cohen d revealed no significant effect of the treatment .
+RESULTS	Moreover , no significant group-by-time interaction was found for facial pain intensity determined using the visual analog scale ( P > 0.05 ) , and Cohen d also revealed no significant effect of the treatment regarding this variable .
+CONCLUSIONS	On the basis of the present findings , upper thoracic spinal manipulation does not lead to a reduction in pain in women with temporomandibular disorder .
+

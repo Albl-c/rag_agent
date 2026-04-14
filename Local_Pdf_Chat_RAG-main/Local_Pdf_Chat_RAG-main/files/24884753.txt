@@ -1,0 +1,14 @@
+24884753
+OBJECTIVE	We examined the cost-effectiveness of an intervention to reduce coronary heart disease ( CHD ) risk and blood pressure in African Americans .
+METHODS	Stochastic cost-effectiveness analysis alongside a clinical trial , augmented by a Markov model of lifetime cost-effectiveness .
+METHODS	In 2 urban academic primary care practices , we randomized African American patients with uncontrolled hypertension to a 6-month intervention of office practice and peer coach behavioral support ( N = 136 ) or informational brochures about CHD risk factors ( N = 144 ) .
+METHODS	Costs were estimated from the perspective of the provider .
+METHODS	Outcomes included estimated CHD events avoided over 6 months and reduction in systolic blood pressure ( SBP ) ( mm Hg ) .
+METHODS	Subgroup analysis was performed for compliers who received an `` effective '' dose of the peer coach and office staff visits .
+METHODS	Long-term cost-effectiveness was estimated by applying the clinical trial cost and effectiveness into a Markov model of CHD risk .
+RESULTS	The average cost for the behavioral support intervention group was $ 435.36 compared with $ 74.39 for the brochure control group .
+RESULTS	The incremental cost-effectiveness ratio ( ICER ) was $ 47 per mm Hg reduction in SBP and $ 453,419 per CHD event avoided in 6 months .
+RESULTS	Modeled over a 10-year horizon , the intervention had an ICER only as high as $ 3998 per incremental quality-adjusted life-year .
+CONCLUSIONS	A community-primary care practice behavioral intervention to reduce hypertension in African Americans with sustained uncontrolled hypertension does not appear to be cost-effective in the first 6 months .
+CONCLUSIONS	If intervention results are sustained over the long term , the program may be cost-effective over the patient 's lifetime .
+

@@ -1,0 +1,12 @@
+24590751
+OBJECTIVE	To test the effectiveness of messages designed to reduce vaccine misperceptions and increase vaccination rates for measles-mumps-rubella ( MMR ) .
+METHODS	A Web-based nationally representative 2-wave survey experiment was conducted with 1759 parents age 18 years and older residing in the United States who have children in their household age 17 years or younger ( conducted June-July 2011 ) .
+METHODS	Parents were randomly assigned to receive 1 of 4 interventions : ( 1 ) information explaining the lack of evidence that MMR causes autism from the Centers for Disease Control and Prevention ; ( 2 ) textual information about the dangers of the diseases prevented by MMR from the Vaccine Information Statement ; ( 3 ) images of children who have diseases prevented by the MMR vaccine ; ( 4 ) a dramatic narrative about an infant who almost died of measles from a Centers for Disease Control and Prevention fact sheet ; or to a control group .
+RESULTS	None of the interventions increased parental intent to vaccinate a future child .
+RESULTS	Refuting claims of an MMR/autism link successfully reduced misperceptions that vaccines cause autism but nonetheless decreased intent to vaccinate among parents who had the least favorable vaccine attitudes .
+RESULTS	In addition , images of sick children increased expressed belief in a vaccine/autism link and a dramatic narrative about an infant in danger increased self-reported belief in serious vaccine side effects .
+CONCLUSIONS	Current public health communications about vaccines may not be effective .
+CONCLUSIONS	For some parents , they may actually increase misperceptions or reduce vaccination intention .
+CONCLUSIONS	Attempts to increase concerns about communicable diseases or correct false claims about vaccines may be especially likely to be counterproductive .
+CONCLUSIONS	More study of pro-vaccine messaging is needed .
+

@@ -1,0 +1,17 @@
+25418079
+OBJECTIVE	The objective of this study was to evaluate the effectiveness of nystatin and Biotne ( ) mouthwash Oral Rinse for controlling Candida in total laryngectomy ( TL ) patients with a tracheosophageal voice prosthesis ( TEP ) because Biotne ( ) mouthwash Oral Rinse is a less costly alternative to nystatin and requires less adherence time .
+METHODS	Randomized , unblinded , crossover trial .
+METHODS	Twenty-one TL patients were randomized to receive nystatin followed by Biotne ( ) mouthwash Oral Rinse , or the reverse order , after a basic oral-care phase ( i.e. , brushing teeth , cleaning dentures ) .
+METHODS	A Provox ( ) 2 , 22.5 French TEP , which is an indwelling silicone voice prosthesis , was placed at the beginning of each phase .
+METHODS	Patients were provided with oral care instructions at randomization and medication-specific instructions with each treatment 's initiation .
+METHODS	TEPs were processed and evaluated for Candida growth as colony-forming units ( CFUs ) .
+METHODS	Wilcoxon signed-rank tests were used for comparisons between treatments .
+RESULTS	Fifteen patients were available for comparisons of Candida counts ( 6 received nystatin ; 9 received Biotne ( ) mouthwash first ) .
+RESULTS	Overall , the median log10 ( CFUs ) remained high regardless of treatment ( no medication : 8.9 ; nystatin : 8.7 ; Biotne ( ) mouthwash : 8.4 ) .
+RESULTS	However , the median counts for both nystatin and Biotne ( ) mouthwash Oral Rinse were lower than those for no medication ( difference [ ] : -0.9 and -0.3 , respectively ) , although only nystatin was significantly lower ( P = 0.02 ) .
+RESULTS	There was no significant difference between the two treatments ( P = 0.22 ) .
+RESULTS	Overall , median medication-adherence was high ( 97 % ) , and Biotne ( ) mouthwash adherence was significantly higher than that of nystatin ( : 7.6 % ; P = 0.03 ) .
+CONCLUSIONS	Nystatin and Biotne ( ) mouthwash Oral Rinse had similar CFU levels , with nystatin showing a significant improvement over usual oral care .
+CONCLUSIONS	Biotne ( ) mouthwash is a less costly alternative to nystatin , with a less complex treatment protocol that might make it preferable to patients and clinicians .
+METHODS	1b
+

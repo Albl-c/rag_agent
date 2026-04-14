@@ -1,0 +1,14 @@
+24875033
+BACKGROUND	An important factor in the functional results after total knee arthroplasty is the achieved maximal flexion .
+BACKGROUND	The main purpose of this study was to compare the maximal knee flexion one year after surgery in patients who received either the bicruciate substituting knee system or the conventional posterior stabilized system .
+METHODS	In a prospective randomized controlled trial , 124 patients presenting with osteoarthritis received the bicruciate substituting or the conventional posterior stabilized prosthesis .
+METHODS	The primary outcome was the maximum flexion angle at one year postoperatively on a lateral radiograph made with the supine patient using manual force to bend the knee .
+METHODS	Secondary outcomes were active flexion ( lying and standing ) , the Knee Society Score , the Patella Scoring System score , the University of California Los Angeles score , the number and type of adverse device effects , and visual analog scale satisfaction up to two years postoperatively .
+METHODS	The outcome measures of both groups were compared using one-sided t tests and non-parametric alternatives , with a significance level of p < 0.05 .
+RESULTS	No significant differences between the two groups were observed in maximal flexion on radiographs and in active flexion at baseline .
+RESULTS	The median maximal flexion on radiographs was 127 ( range , 83 to 150 ) for the bicruciate substituting group and 125 ( range , 74 to 145 ) for the conventional posterior stabilized group .
+RESULTS	The two groups showed comparable two-year results with respect to the Knee Society Score , the Patella Scoring System , the University of California Los Angeles score , and visual analog scale satisfaction .
+RESULTS	In the bicruciate substituting group , forty-one adverse device effects in twenty-six patients were reported , including three total system revisions and fourteen manipulations under anesthesia , compared with the conventional posterior stabilized group , in which sixteen adverse device effects were observed in thirteen patients , including six manipulations under anesthesia ( p = 0.012 ) .
+CONCLUSIONS	Patients who receive a bicruciate substituting system compared with those who receive a conventional posterior stabilized system have comparable knee flexion characteristics and clinical and functional outcomes but more complications by two years after total knee arthroplasty .
+METHODS	Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence .
+

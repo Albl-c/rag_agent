@@ -1,0 +1,11 @@
+24754230
+OBJECTIVE	The objective of this research was to compare the effects of different causal attributions for overweight and obesity , among individuals with overweight and obesity , on weight-related beliefs , stigmatising attitudes and policy support .
+METHODS	In Study 1 , an online sample of 95 US adults rated the extent to which they believed various factors caused their own weight status .
+METHODS	In Study 2 , 125 US adults read one of three randomly assigned online passages attributing obesity to personal responsibility , biology , or the ` food environment . '
+METHODS	All participants in both studies were overweight or obese .
+METHODS	All participants reported beliefs about weight loss , weight-stigmatising attitudes , and support for obesity-related policies .
+RESULTS	In Study 1 , biological attributions were associated with low weight-malleability beliefs and blame , high policy support , but high internalised weight bias .
+RESULTS	` Food environment ' attributions were not associated with any outcomes , while ` personal responsibility ' attributions were associated with high prejudice and blame .
+RESULTS	In Study 2 , participants who received information about the food environment reported greater support for food-related policies and greater self-efficacy to lose weight .
+CONCLUSIONS	Emphasising the role of the food environment in causing obesity may promote food policy support and health behaviours without imposing the negative consequences associated with other attributions .
+

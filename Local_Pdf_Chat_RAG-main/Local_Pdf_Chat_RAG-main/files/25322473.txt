@@ -1,0 +1,14 @@
+25322473
+OBJECTIVE	Patient decision aids have been used in many clinical situations to improve the patient centeredness of care .
+OBJECTIVE	A patient decision aid for patients with posttraumatic stress disorder ( PTSD ) has not been developed or tested .
+OBJECTIVE	The authors evaluated the effects of a patient decision aid on the patient centeredness of PTSD treatment .
+METHODS	The study was a randomized trial of a patient decision aid for PTSD versus treatment as usual ( control group ) .
+METHODS	The participants were 132 male and female veterans who presented to a single U.S. Department of Veterans Affairs hospital with a new diagnosis of PTSD .
+METHODS	Patient centeredness was assessed by knowledge of PTSD and its treatment , level of decisional uncertainty , and ability to state a preferred treatment option .
+METHODS	Secondary outcomes included treatments received and PTSD symptoms in the six months after study entry .
+RESULTS	Compared with the control group ( N = 65 ) , participants who reviewed the patient decision aid ( N = 63 ) had higher scores for PTSD knowledge ( p = .002 ) and less conflict about their choice of treatment ( p = .003 ) .
+RESULTS	In addition , participants who reviewed the patient decision aid were more likely to select and receive an evidence-based treatment for PTSD ( p = .04 ) and had superior PTSD outcomes ( p = .004 ) compared with the control group .
+CONCLUSIONS	Use of a patient decision aid was associated with improvements in patient-centered PTSD treatment .
+CONCLUSIONS	The patient decision aid was also associated with greater use of evidence-based treatments and improvement of PTSD symptoms .
+CONCLUSIONS	This study suggests that clinics should consider using a patient decision aid for patients with PTSD .
+

@@ -1,0 +1,13 @@
+24962503
+OBJECTIVE	To improve adolescent notification of positive sexually transmitted infection ( STI ) tests using mobile phone technology and STI information cards .
+METHODS	A randomized intervention among 14 - to 21-year olds in a pediatric emergency department ( PED ) .
+METHODS	A 2 3 factorial design with replication was used to evaluate the effectiveness of six combinations of two factors on the proportion of STI-positive adolescents notified within 7days of testing .
+METHODS	Independent factors included method of notification ( call , text message , or call + text message ) and provision of an STI information card with or without a phone number to obtain results .
+METHODS	Covariates for logistic regression included age , empiric STI treatment , days until first attempted notification , and documentation of confidential phone number .
+RESULTS	Approximately half of the 383 females and 201 males enrolled were 18years of age .
+RESULTS	Texting only or type of card was not significantly associated with patient notification rates , and there was no significant interaction between card and notification method .
+RESULTS	For females , successful notification was significantly greater for call + text message ( odds ratio , 3.2 ; 95 % confidence interval , 1.4-6 .9 ) , and documenting a confidential phone number was independently associated with successful notification ( odds ratio , 3.6 ; 95 % confidence interval , 1.7-7 .5 ) .
+RESULTS	We found no significant predictors of successful notification for males .
+RESULTS	Of patients with a documented confidential phone number who received a call + text message , 94 % of females and 83 % of males were successfully notified .
+CONCLUSIONS	Obtaining a confidential phone number and using call + text message improved STI notification rates among female but not male adolescents in a pediatric emergency department .
+

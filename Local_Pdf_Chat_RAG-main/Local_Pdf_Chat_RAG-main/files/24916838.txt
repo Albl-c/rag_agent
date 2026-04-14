@@ -1,0 +1,15 @@
+24916838
+BACKGROUND	The study aims to determine whether the route of insulin administration influences glycaemic variability and inflammatory or neurohormonal markers in patients with type 2 diabetes and congestive heart failure ( CHF ) exacerbation .
+METHODS	Patients ( n = 65 ) were randomized to intravenous ( IV ) insulin ( duration 48 h ) or subcutaneous ( SQ ) insulin .
+METHODS	Inflammatory cytokines and markers of lipid oxidation , high-frequency heart rate variability ( n = 27 ) and cardiac impedance ( pre-ejection period , n = 28 ) were used to estimate parasympathetic and sympathetic tone in patients with valid cardiac data .
+METHODS	Glycaemic variability was measured using a continuous glucose monitor .
+RESULTS	Mean glucose was lower ( 7.71.2 vs 9.42.7 mmol/L , p = 0.004 ) , coefficient of variation was higher ( p = 0.03 ) and glycaemic lability index was similar on day 1 in the IV group compared with the SQ group , but groups were similar by day 2 .
+RESULTS	The IV group had more confirmed hypoglycaemia ( p = 0.005 ) .
+RESULTS	There were no differences in hospital readmission or hospital length of stay between groups .
+RESULTS	There were no differences in CHF biomarkers , heart rate variability or pre-ejection period between groups .
+RESULTS	Increasing log glycaemic lability index was associated with lower on-treatment pre-ejection period ( p = 0.03 ) while increasing coefficient of variation was associated with increasing brain natriuretic peptide ( p = 0.004 ) and paroxonase-1 ( p = 0.02 ) .
+RESULTS	Other univariable analyses were not significant .
+CONCLUSIONS	There were modest , transient differences in glucose control between IV and SQ insulin in hospitalized CHF patients .
+CONCLUSIONS	However , the analyses do not support a link between insulin route and inflammatory markers or autonomic tone .
+CONCLUSIONS	Further study is needed to assess outcomes in hospitalized CHF patients .
+

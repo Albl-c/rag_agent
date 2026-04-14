@@ -1,0 +1,17 @@
+25458200
+BACKGROUND	Long-term macrolide treatment has proven benefit in inflammatory airways diseases , but whether it leads to changes in the composition of respiratory microbiota is unknown .
+BACKGROUND	We aimed to assess whether long-term , low-dose erythromycin treatment changes the composition of respiratory microbiota in people with non-cystic fibrosis bronchiectasis .
+METHODS	Microbiota composition was determined by 16S rRNA gene sequencing of sputum samples from participants in the BLESS trial , a 12-month , double-blind , placebo-controlled trial of twice-daily erythromycin ethylsuccinate ( 400 mg ) in adult patients with non-cystic fibrosis bronchiectasis and at least two infective exacerbations in the preceding year .
+METHODS	The primary outcome was within-patient change in respiratory microbiota composition ( assessed by Bray-Curtis index ) between baseline and week 48 , comparing erythromycin with placebo .
+METHODS	The BLESS trial is registered with the Australian New Zealand Clinical Trials Registry , number ACTRN12608000460303 .
+RESULTS	The BLESS trial took place between Oct 15 , 2008 , and Dec 14 , 2011 .
+RESULTS	Paired sputum samples were available from 86 randomly assigned patients , 42 in the placebo group and 44 in the erythromycin group .
+RESULTS	The change in microbiota composition between baseline and week 48 was significantly greater with erythromycin than with placebo ( median Bray-Curtis score 052 [ IQR 014-078 ] vs 068 [ 046-093 ] ; median difference 016 , 95 % CI 001-033 ; p = 003 ) .
+RESULTS	In patients with baseline airway infection dominated by Pseudomonas aeruginosa , erythromycin did not change microbiota composition significantly .
+RESULTS	In those with infection dominated by organisms other than P. aeruginosa , erythromycin caused a significant change in microbiota composition ( p = 003 [ by analysis of similarity ] ) , representing a reduced relative abundance of Haemophilus influenzae ( 353 % [ 55-916 ] vs 67 % [ 08-748 ] ; median difference 126 % , 95 % CI 04-283 ; p = 004 ; interaction p = 002 ) and an increased relative abundance of P aeruginosa ( 002 % [ 000-033 ] vs 013 % [ 001-3958 ] ; median difference 66 % , 95 % CI 01-371 ; p = 0002 ; interaction p = 045 ) .
+RESULTS	Compared with placebo , erythromycin reduced the rate of pulmonary exacerbations over the 48 weeks of the study in patients with P. aeruginosa-dominated infection ( median 1 [ IQR 0-3 ] vs 3 [ 2-5 ] ; median difference -2 , 95 % CI -4 to -1 ; p = 001 ) , but not in those without P. aeruginosa-dominated infection ( 1 [ 0-2 ] vs 1 [ 0-3 ] ; median difference 0 , -1 to 0 ; p = 041 ; interaction p = 004 ) .
+CONCLUSIONS	Long-term erythromycin treatment changes the composition of respiratory microbiota in patients with bronchiectasis .
+CONCLUSIONS	In patients without P. aeruginosa airway infection , erythromycin did not significantly reduce exacerbations and promoted displacement of H. influenzae by more macrolide-tolerant pathogens including P. aeruginosa .
+CONCLUSIONS	These findings argue for a cautious approach to chronic macrolide use in patients without P. aeruginosa airway infection .
+BACKGROUND	Mater Adult Respiratory Research Trust Fund .
+

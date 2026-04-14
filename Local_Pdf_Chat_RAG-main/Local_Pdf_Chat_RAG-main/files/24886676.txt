@@ -1,0 +1,17 @@
+24886676
+BACKGROUND	Men who undergo surgery for prostate cancer frequently experience significant side-effects including urinary and sexual dysfunction .
+BACKGROUND	These difficulties can lead to anxiety , depression and reduced quality of life .
+BACKGROUND	Many partners also experience psychological distress .
+BACKGROUND	An additional impact can be on the couple relationship , with changes to intimacy , and unmet psychosexual supportive needs in relation to sexual recovery and rehabilitation .
+BACKGROUND	The aim of this exploratory randomised controlled trial pilot study is to determine the feasibility and acceptability of a novel family-relational-psychosexual intervention to support intimacy and reduce distress among couples following prostate cancer surgery and to estimate the efficacy of this intervention .
+METHODS	The intervention will comprise six sessions of psychosexual and relationship support delivered by experienced couple-support practitioners .
+METHODS	Specialist training in delivering the intervention will be provided to practitioners and they will be guided by a detailed treatment manual based on systemic principles .
+METHODS	Sixty-eight couples will be randomised to receive either the intervention or standard care ( comprising usual follow-up hospital appointments ) .
+METHODS	A pre-test , post-test design will be used to test the feasibility of the intervention ( baseline , end of intervention and six-month follow-up ) and its acceptability to couples and healthcare professionals ( qualitative interviews ) .
+METHODS	Both individual and relational outcome measures will assess sexual functioning , anxiety and depression , couple relationship , use of health services and erectile dysfunction medication/technologies .
+METHODS	An economic analysis will estimate population costs of the intervention , compared to usual care , using simple modelling to evaluate the affordability of the intervention .
+CONCLUSIONS	Given the increasing incidence and survival of post-operative men with prostate cancer , it is timely and appropriate to determine the feasibility of a definitive trial through a pilot randomised controlled trial of a family-relational-psychosexual intervention for couples .
+CONCLUSIONS	The study will provide evidence about the components of a couple-based intervention , its acceptability to patients and healthcare professionals , and its influence on sexual and relational functioning .
+CONCLUSIONS	Data from this study will be used to calculate sample sizes required for any definitive trial .
+BACKGROUND	ClinicalTrials.gov Identifier : NCT01842438.Registration date : 24 April 2013 ; Randomisation of first patient : 13 May 2013 .
+

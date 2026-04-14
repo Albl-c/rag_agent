@@ -1,0 +1,14 @@
+25449513
+BACKGROUND	The prognostic significance of long-term visit-to-visit blood pressure variability ( BPV ) has not yet been validated in `` real world '' hypertensive patients .
+BACKGROUND	The aim of the current study is to explore the prognostic value of BPV on stroke in hypertensive patients .
+METHODS	This was a dynamic prospective cohort study based on electronic medical records in Shanghai , China .
+METHODS	Hypertensive patients ( N = 122,636 ) without history of stroke at baseline , were followed up from 2005 to 2011 .
+METHODS	The cohort comprised of 4522 stroke patients and 118,114 non-stroke patients during a mean follow-up duration of 48 months .
+METHODS	BPV was measured by standard deviation ( SD ) and the coefficient of variation ( CV ) of blood pressure .
+RESULTS	The visit-to-visit variability of both systolic blood pressure ( SBP ) and diastolic blood pressure ( DBP ) was independently associated with the occurrence of stroke [ SD : the hazard ratios ( 95 % confidence intervals ) of SBP and DBP were 1.042 ( 1.021 to 1.064 ) and 1.052 ( 1.040 to 1.065 ) ; CV : the hazard ratios ( 95 % confidence intervals ) of SBP and DBP were 1.183 ( 1.010 to 1.356 ) and 1.151 ( 1.005 to 1.317 ) , respectively ] .
+RESULTS	The hazard ratio values increased along with an increase of the BPV levels of SBP and DBP .
+RESULTS	The increment effect remained significant after controlling the blood pressure control status of subjects .
+CONCLUSIONS	Increased BPV of both SBP and DBP , independent of the average blood pressure , is a predictor of stroke among community hypertensive patients in real-world clinical practice .
+CONCLUSIONS	The risk of stroke increased along with increased BPV .
+CONCLUSIONS	Stabilizing BPV might be a therapeutic target in hypertension .
+

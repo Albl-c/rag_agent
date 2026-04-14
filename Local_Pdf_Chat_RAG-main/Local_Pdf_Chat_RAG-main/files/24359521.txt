@@ -1,0 +1,17 @@
+24359521
+BACKGROUND	Despite the high incidence and the economic impact of the common cold , there are still no effective therapeutic options available .
+BACKGROUND	Although traditional Chinese medicine ( TCM ) is widely used in China to treat the common cold , there is still a lack of high-quality clinical trials .
+BACKGROUND	This article sets forth the protocol for a high-quality trial of a new TCM drug , Baoji Tablets , which is designed to treat the common cold with summer-heat and dampness syndrome ( CCSDS ) .
+BACKGROUND	The trial is evaluating both the efficacy and safety of Baoji Tablets .
+METHODS	This study is designed as a multicenter , phase II , parallel-group , double-blind , double-dummy , randomized and placebo-controlled trial .
+METHODS	A total of 288 patients will be recruited from four centers .
+METHODS	The new tablets group are administered Baoji Tablets 0.9 g and dummy Baoji Pills 3.7 g.
+METHODS	The old pills group are administered dummy Baoji Tablets 0.9 g and Baoji Pills 3.7 g.
+METHODS	The placebo control group are administered dummy Baoji Tablets 0.9 g and dummy Baoji Pills 3.7 g. All drugs are taken three times daily for 3 days .
+METHODS	The primary outcome is the duration of all symptoms .
+METHODS	Secondary outcomes include the duration of primary and secondary symptoms , changes in primary and secondary symptom scores and cumulative symptom score at day 4 , as well as an evaluation of treatment efficacy .
+CONCLUSIONS	This is the first multicenter , double-blind , double-dummy , randomized and placebo-controlled trial designated to treat CCSDS in an adult population from China .
+CONCLUSIONS	It will establish the basis for a scientific and objective assessment of the efficacy and safety of Baoji Tablets for treating CCSDS , and provide evidence for a phase III clinical trial .
+BACKGROUND	This study is registered with the Chinese Clinical Trial Registry .
+BACKGROUND	The registration number is ChiCTR-TRC-13003197 .
+

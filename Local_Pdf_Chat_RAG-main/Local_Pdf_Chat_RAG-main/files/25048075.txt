@@ -1,0 +1,12 @@
+25048075
+OBJECTIVE	Long-term physical activity is reported to improve chronic systemic inflammation , which provides protection against the ensuing development of chronic disease .
+OBJECTIVE	Accordingly , the present study assessed changes in pro- and anti-inflammatory cytokines , aerobic capacity and body composition following 8 weeks of either small-sided games ( SSG ) or cycling ( CYC ) training compared to a sedentary control ( CON ) condition .
+METHODS	Thirty-three middle-aged , sedentary men were randomized into CYC ( n = 11 ) , SSG ( n = 11 ) , or CON ( n = 11 ) conditions .
+METHODS	The CYC and SSG conditions trained 3 days/week for 8 weeks , whilst CON maintained habitual activity and dietary patterns .
+METHODS	Pre - and post-intervention testing included a dual-energy X-ray absorptiometry scan , sub-maximal ( 80 % maximal heart rate ) aerobic capacity ( VO ) and fasting venous blood .
+METHODS	Venous blood measures for pro-inflammatory markers included C-reactive protein ( CRP ) , interleukin ( IL ) -6 , IL-1 , tumor necrosis factor - , and leptin ; anti-inflammatory markers included IL-10 , IL-1 receptor agonist , and adiponectin .
+RESULTS	Both CYC and SSG increased submaximal power output and VO ( P < 0.05 ) , decreased total body fat-mass ( TB-FM ; P < 0.05 ) , and CRP ( SSG , -0.45 0.42 mg L ( -1 ) ; P = 0.008 ; CYC , -0.44 0.59 mg L ( -1 ) ; P = 0.02 ) .
+RESULTS	Only SSG increased total body fat-free mass ( TB-FFM ; +1.1 1.2 kg ; P = 0.001 ) and decreased concentration of plasma IL-6 ( -0.69 0.62 pg mL ( -1 ) ; P = 0.002 ) and leptin ( -2,212 2,531 ng mL ( -1 ) ; P = 0.014 ) .
+CONCLUSIONS	Cycling and SSG training were both effective at improving CRP , VO and TB-FM .
+CONCLUSIONS	Furthermore , SSG training has also shown to be an effective training approach in reducing IL-6 and leptin and increasing muscle mass within sedentary , middle-aged men .
+

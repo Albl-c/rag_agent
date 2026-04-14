@@ -1,0 +1,12 @@
+25458910
+BACKGROUND	Respiratory syncytial virus ( RSV ) bronchiolitis in infancy is a major risk factor for recurrent wheezing and asthma .
+BACKGROUND	Because azithromycin attenuated neutrophilic airway inflammation in a murine viral bronchiolitis model , demonstration of similar effects in human subjects might provide a strategy for the prevention of postbronchiolitis recurrent wheezing .
+OBJECTIVE	We sought to investigate whether azithromycin treatment during RSV bronchiolitis reduces serum and nasal lavage IL-8 levels and the occurrence of postbronchiolitis recurrent wheezing .
+METHODS	We performed a randomized , double-masked , placebo-controlled proof-of-concept trial in 40 otherwise healthy infants hospitalized with RSV bronchiolitis who were treated with azithromycin or placebo for 14 days .
+METHODS	IL-8 levels were measured in nasal lavage fluid and serum on randomization , day 8 , and day 15 ( nasal lavage only ) .
+METHODS	The occurrence of wheezing episodes was assessed monthly over the ensuing 50 weeks .
+RESULTS	Compared with placebo , azithromycin treatment did not reduce serum IL-8 levels at day 8 ( P = .6 ) but resulted in a greater decrease in nasal lavage fluid IL-8 levels by day 15 ( P = .03 ) .
+RESULTS	Twenty-two percent of azithromycin-treated participants experienced at least 3 wheezing episodes compared with 50 % of participants in the placebo group ( P = .07 ) .
+RESULTS	Azithromycin treatment resulted in prolonged time to the third wheezing episode ( P = .048 ) and in fewer days with respiratory symptoms over the subsequent year in comparison with placebo ( 36.7 vs 70.1 days , P = .01 ) .
+CONCLUSIONS	In this proof-of-concept study azithromycin treatment during RSV bronchiolitis reduced upper airway IL-8 levels , prolonged the time to the third wheezing episode , and reduced overall respiratory morbidity over the subsequent year .
+

@@ -1,0 +1,15 @@
+24401802
+BACKGROUND	Total knee arthroplasty ( TKA ) is associated with varying degrees of pain .
+BACKGROUND	A considerable proportion ( 25-40 % ) of patients experience severe pain , despite a comprehensive multimodal analgesic regimen .
+BACKGROUND	We hypothesized that adductor canal block ( ACB ) would reduce pain in this patient category compared with placebo .
+METHODS	Fifty patients with severe pain , defined as having a visual analogue scale ( VAS ) pain score of > 60 during active flexion of the knee on the first or the second postoperative day after TKA , were included in this randomized , double-blind , placebo-controlled trial .
+METHODS	All the patients had received a comprehensive multimodal analgesic regimen .
+METHODS	Group A received an ACB with ropivacaine 0.75 % , 30 ml at time 0 and isotonic saline after 45 min .
+METHODS	Group B received an ACB with isotonic saline at time 0 and ropivacaine 0.75 % , 30 ml after 45 min .
+RESULTS	A 32-mm difference in VAS pain score , during active flexion of the knee ( primary endpoint ) , was observed in favour of Group A , 95 % confidence interval ( CI ) : 23-42 , P < 0.0001 .
+RESULTS	At rest , the difference in VAS pain score was 15 mm in favour of Group A , 95 % CI : 8-23 mm , P = 0.0001 .
+RESULTS	Individual patient analysis revealed that 25 % of the patients had no effect during active flexion .
+RESULTS	At rest , however , only 8 % had more than mild pain after ACB compared with 57 % at inclusion .
+CONCLUSIONS	ACB reduced VAS with 32 mm , during active flexion of the knee , in patients with severe pain after TKA , but a large proportion ( 78 % ) still had at least moderate , movement-related pain .
+CONCLUSIONS	Clinical trial registration www.clinicaltrials.gov , NCT01549704 .
+

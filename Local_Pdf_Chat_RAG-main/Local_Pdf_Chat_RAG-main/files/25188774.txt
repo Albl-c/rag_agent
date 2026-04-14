@@ -1,0 +1,16 @@
+25188774
+OBJECTIVE	The aim of this study was to determine the effect of a single dose of 150g of clonidine as an adjuvant to levobupivacaine ( Chirocaine ( ) ) in retrobulbar block on postoperative safety and analgesia .
+METHODS	This was a prospective , randomized , controlled , double-blind trial .
+METHODS	One hundred twenty patients with a rhegmatogenous retinal detachment scheduled to undergo external buckling surgery and cryocoagulation were asked to participate .
+METHODS	Participants were randomly assigned either to receive 3-5mL Chirocaine ( 22.5-37 .5 mg ) or 3-5mL Chirocaine and 1mL clonidine ( 150g ) before surgery .
+METHODS	Main outcome measures were postoperative pain , use of analgesics , blood pressure , and plasma clonidine concentration .
+METHODS	Nine nonrandomized patients consented to give blood samples for pharmacokinetic analysis .
+RESULTS	There was no significant difference in pain score between both groups .
+RESULTS	On average , the use of analgesic medication occurred later in the clonidine group ( P = 0.0004 ) , but there was no statistical difference in the first time that postoperative medication was taken ( P = 0.13 ) .
+RESULTS	Blood pressure was reduced by clonidine ( systolic : P = 0.02 , diastolic : P = 0.006 ) .
+RESULTS	Clonidine levels could be demonstrated during the 24-h postoperative period , with an average half-life of 22h .
+CONCLUSIONS	Administration of clonidine as an adjuvant to conventional retrobulbar block is safe , and delays the postoperative use of analgesics .
+CONCLUSIONS	The reduction of postoperative pain and the time of first use of analgesic medication , however , were not significantly different between groups .
+CONCLUSIONS	Further , pain scores in both study groups remained low .
+CONCLUSIONS	Therefore , the beneficial effect of clonidine in conventional scleral buckle surgery appears to be limited .
+

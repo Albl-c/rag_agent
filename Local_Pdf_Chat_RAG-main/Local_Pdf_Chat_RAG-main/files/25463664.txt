@@ -1,0 +1,11 @@
+25463664
+BACKGROUND	Studies suggest that smokers present more or greater numbers of potential periodontal pathogens than non-smokers .
+BACKGROUND	The aim of this study was to investigate the microbiologic effects of adjunctive aPDT on nonsurgical periodontal treatment in smokers with chronic periodontitis ( CP ) .
+METHODS	Twenty smokers with CP had two contralateral teeth randomly assigned in a split-mouth design to receive SRP ( CG ) or SRP + a single episode of aPDT ( TG ) , with a diode laser and a phenothiazine photosensitizer .
+METHODS	Levels of 40 subgingival species were measured using checkerboard DNA-DNA hybridization at baseline and 1 , 4 and 12 weeks after periodontal treatment .
+RESULTS	All 40 bacterial species evaluated were detected in different levels at baseline , with no statistic significant differences between groups .
+RESULTS	After periodontal treatment , the levels of some bacterial species decreased , while some other species presented an increase .
+RESULTS	Despite this variation , the statistical analysis was not able to identify significant differences neither at intragroup nor at intergroup comparisons .
+CONCLUSIONS	Periodontal treatment with SRP or SRP + aPDT was not able to reduce levels of 40 subgingival species in smokers with CP .
+CONCLUSIONS	These outcomes indicate that smoking impairs periodontal healing after nonsurgical treatment even associated with aPDT .
+

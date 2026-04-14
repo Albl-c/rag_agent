@@ -1,0 +1,11 @@
+25684089
+OBJECTIVE	To perform a randomized trial to determine whether there is cardiovascular disease ( CVD ) risk reduction from a plant-based ( PB ) , no-added-fat diet and the American Heart Association ( AHA ) diet in children .
+METHODS	A 4-week ( April 20 , 2013 to May 18 , 2013 ) , prospective randomized trial was undertaken in a large , Midwestern hospital system 's predominantly middle class outpatient pediatric practices .
+METHODS	Thirty children ( 9-18 years of age ) parent pairs with a last recorded child body mass index > 95th percentile and child cholesterol > 169 mg/dL were randomized to PB or AHA with weekly 2-hour classes of nutrition education .
+RESULTS	Children on PB had 9 and children on AHA had 4 statistically significant ( P < .05 ) beneficial changes from baseline ( mean decreases ) : body mass index z-score ( PB ) ( -0.14 ) , systolic blood pressure ( PB ) ( -6.43 mm Hg ) , total cholesterol ( PB ) ( -22.5 mg/dL ) , low-density lipoprotein ( PB ) ( -13.14 mg/dL ) , high-sensitivity C-reactive protein ( PB ) ( -2.09 mg/L ) , insulin ( PB ) ( -5.42 uU/mL ) , myeloperoxidase ( PB/AHA ) ( -75.34 / 69.23 pmol/L ) , mid-arm circumference ( PB/AHA ) ( -2.02 / -1.55 cm ) , weight ( PB/AHA ) ( -3.05 / -1.14 kg ) , and waist circumference ( AHA ) ( -2.96 cm ) .
+RESULTS	Adults on PB and AHA had 7 and 2 , respectively , statistically significant ( P < .05 ) beneficial changes .
+RESULTS	The significant change favoring AHA was a 1 % difference in children 's waist circumference .
+RESULTS	Difficulty shopping for food for the PB was the only statistically significant acceptability barrier .
+CONCLUSIONS	PB and the AHA in both children and adults demonstrated potentially beneficial changes from baseline in risk factors for CVD .
+CONCLUSIONS	Future larger , long-term randomized trials with easily accessible PB foods will further define the role of the PB in preventing CVD .
+

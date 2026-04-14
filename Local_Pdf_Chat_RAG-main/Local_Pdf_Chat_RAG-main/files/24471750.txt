@@ -1,0 +1,13 @@
+24471750
+OBJECTIVE	To evaluate intra-articular autologous protein solution ( APS ) for the treatment of osteoarthritis in horses .
+OBJECTIVE	Animals-40 client-owned horses with naturally occuring osteoarthritis .
+METHODS	APS was generated from a dual-device system that concentrated plasma and WBC proteins and enriched platelet growth factors .
+METHODS	Horses were randomly assigned to receive an intra-articular injection of 5 mL of saline ( 0.9 % NaCl ) solution ( n = 20 ) or APS ( 20 ) , exercised on a treadmill , and evaluated on the basis of lameness grades , kinetic gait analysis , joint circumference , and range of motion for 14 days .
+METHODS	Horses that received saline solution were administered APS at termination of the study , and clients scored horses for lameness and discomfort before , 12 weeks after , and 52 weeks after the APS injection .
+RESULTS	The APS group had significant improvements in lameness grade , asymmetry indices of vertical peak force , and range of joint motion by 14 days , compared with baseline or control group values .
+RESULTS	No adverse effects associated with APS treatment were evident .
+RESULTS	Clients assessed lameness and comfort as improved at 12 and 52 weeks .
+RESULTS	The APS had greater likelihood ( OR , 4.3 to 30.0 ) of a therapeutic response in horses with a lameness score < 4 , < 10 % vertical force asymmetry , or absence of marked osteophyte formation , subchondral sclerosis , or joint space narrowing .
+RESULTS	Concentration of interleukin-1 receptor antagonist in APS was 5.8 times that in blood .
+CONCLUSIONS	Intra-articular administration of APS can be considered an effective treatment option for equine osteoarthritis , with the potential for disease-modifying effects .
+

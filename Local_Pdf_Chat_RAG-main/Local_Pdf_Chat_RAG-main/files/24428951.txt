@@ -1,0 +1,17 @@
+24428951
+BACKGROUND	Breastfeeding has countless benefits to mothers , children and community at large , especially in developing countries .
+BACKGROUND	Studies from Lebanon report disappointingly low breastfeeding exclusivity and continuation rates .
+BACKGROUND	Evidence reveals that antenatal breastfeeding education , professional lactation support , and peer lay support are individually effective at increasing breastfeeding duration and exclusivity , particularly in low-income settings .
+BACKGROUND	Given the complex nature of the breastfeeding ecosystem and its barriers in Lebanon , we hypothesize that a complex breastfeeding support intervention , which is centered on the three components mentioned above , would significantly increase breastfeeding rates .
+METHODS	A multi-center randomized controlled trial .
+METHODS	443 healthy pregnant women in their first trimester will be randomized to control or intervention group .
+METHODS	A `` prenatal/postnatal '' professional and peer breastfeeding support package continuing till 6 months postpartum , guided by the Social Network and Social Support Theory .
+METHODS	Control group will receive standard prenatal and postnatal care .
+METHODS	Mothers will be followed up from early pregnancy till five years after delivery .
+METHODS	Total and exclusive breastfeeding rates , quality of life at 1 , 3 and 6 months postpartum , maternal breastfeeding knowledge and attitudes at 6 months postpartum , maternal exclusive breastfeeding rates of future infants up to five years from baseline , cost-benefit and cost-effectiveness analyses of the intervention .
+METHODS	Descriptive and regression analysis will be conducted under the intention to treat basis using the most recent version of SPSS .
+CONCLUSIONS	Exclusive breastfeeding is a cost-effective public health measure that has a significant impact on infant morbidity and mortality .
+CONCLUSIONS	In a country with limited healthcare resources like Lebanon , developing an effective breastfeeding promotion and support intervention that is easily replicated across various settings becomes a priority .
+CONCLUSIONS	If positive , the results of this study would provide a generalizable model to bolster breastfeeding promotion efforts and contribute to improved child health in Lebanon and the Middle East and North Africa ( MENA ) region .
+BACKGROUND	Current Controlled Trials ISRCTN17875591 .
+

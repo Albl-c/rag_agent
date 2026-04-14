@@ -1,0 +1,13 @@
+24763755
+OBJECTIVE	Scarring from bacterial keratitis remains a leading cause of visual loss .
+OBJECTIVE	To determine whether topical corticosteroids are beneficial as an adjunctive therapy for bacterial keratitis if given early in the course of infection .
+METHODS	The Steroids for Corneal Ulcers Trial ( SCUT ) was a randomized , double-masked , placebo-controlled trial that overall found no effect of adding topical corticosteroids to topical moxifloxacin hydrochloride in bacterial keratitis .
+METHODS	Here , we assess the timing of administration of corticosteroids in a subgroup analysis of the SCUT .
+METHODS	We define earlier administration of corticosteroids ( vs placebo ) as addition after 2 to 3 days of topical antibiotics and later as addition after 4 or more days of topical antibiotics .
+METHODS	We assess the effect of topical corticosteroids ( vs placebo ) on 3-month best spectacle-corrected visual acuity in patients who received corticosteroids or placebo earlier vs later .
+METHODS	Further analyses were performed for subgroups of patients with non-Nocardia keratitis and those with no topical antibiotic use before enrollment .
+RESULTS	Patients treated with topical corticosteroids as adjunctive therapy within 2 to 3 days of antibiotic therapy had approximately 1-line better visual acuity at 3 months than did those given placebo ( -0.11 logMAR ; 95 % CI , -0.20 to -0.02 logMAR ; P = .01 ) .
+RESULTS	In patients who had 4 or more days of antibiotic therapy before corticosteroid treatment , the effect was not significant ; patients given corticosteroids had 1-line worse visual acuity at 3 months compared with those in the placebo group ( 0.10 logMAR ; 95 % CI , -0.02 to 0.23 logMAR ; P = .14 ) .
+RESULTS	Patients with non-Nocardia keratitis and those having no topical antibiotic use before the SCUT enrollment showed significant improvement in best spectacle-corrected visual acuity at 3 months if corticosteroids were administered earlier rather than later .
+CONCLUSIONS	There may be a benefit with adjunctive topical corticosteroids if application occurs earlier in the course of bacterial corneal ulcers .
+

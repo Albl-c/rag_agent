@@ -1,0 +1,13 @@
+24490871
+BACKGROUND	Physical activity affords a wide range of physiological and psychological benefits for children and adolescents , yet many children with physical disabilities are insufficiently active to achieve these benefits .
+BACKGROUND	The StepUp program is a newly developed 6-week pedometer-based self-management program for children and adolescents with physical disability .
+BACKGROUND	Participants use a pedometer to undertake a 6-week physical activity challenge , with personalised daily step count goals set in consultation with a physiotherapist .
+BACKGROUND	The study aims to evaluate the effectiveness of the StepUp program , using a randomised control trial design .
+METHODS	A target sample of 70 young people with physical disabilities ( aged 8-17 years , ambulant with or without aid , residing in Adelaide ) will be recruited .
+METHODS	Participants will be randomly allocated to either intervention or control following completion of baseline assessments .
+METHODS	Assessments are repeated at 8 weeks ( immediately post intervention ) and 20 weeks ( 12 weeks post intervention ) .
+METHODS	The primary outcome is objective physical activity determined from 7 day accelerometry , and the secondary outcomes are exercise intention , physical self-worth , quality of life and fatigue .
+METHODS	Analyses will be undertaken on an intention-to-treat basis using random effects mixed modelling .
+CONCLUSIONS	This study will provide information about the potential of a low-touch and low-cost physical activity intervention for children and adolescents with cerebral palsy .
+BACKGROUND	Australian New Zealand Clinical Trials Registry ( ANZCTR ) : ACTRN12613000023752 .
+

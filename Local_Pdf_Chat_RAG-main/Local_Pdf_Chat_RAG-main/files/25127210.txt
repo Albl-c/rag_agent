@@ -1,0 +1,13 @@
+25127210
+BACKGROUND	Hydroxyethyl starch ( HES ) is commonly used as plasma expander during surgery but may be nephrotoxic as seen in studies in patients with sepsis .
+BACKGROUND	The authors hypothesized that the possible nephrotoxicity of 6 % HES 130/0 .4 could be revealed by measurements of urinary excretion of neutrophil gelatinase-associated lipocalin ( u-NGAL ) in patients with normal renal function during hip arthroplasty .
+METHODS	In this randomized , double-blinded , placebo-controlled study , 40 patients referred for hip arthroplasty received either 6 % HES 130/0 .4 or isotonic saline 0.9 % ; 7.5 ml/kg during the first hour of surgery and 5 ml/kg during the following hours ; 38 patients completed the study .
+METHODS	U-NGAL , urine albumin , blood pressure , and plasma concentrations of creatinine , renin , NGAL , albumin , angiotensin-II , and aldosterone were measured before , during , and after surgery .
+METHODS	U-NGAL was defined as primary outcome .
+RESULTS	There were no significant differences in U-NGAL ( mean difference and 95 % CI ) , plasma creatinine , and urine albumin during the study .
+RESULTS	U-NGAL and urine albumin increased significantly in both groups the morning after surgery but was normalized at follow-up after 10 to 12 days .
+RESULTS	Mean arterial pressure was significantly higher during the recovery period in the HES group compared with that in the control group ( 91 [ 13 ] and 83 [ 6 ] mmHg , mean [ SD ] , P < 0.03 ) .
+RESULTS	Plasma renin and angiotensin-II were nonsignificantly different in both groups , whereas plasma aldosterone was significantly lower in the HES group .
+RESULTS	Plasma albumin was reduced in both groups , but to a significantly lower level in the HES group .
+CONCLUSIONS	The study showed no evidence of a harmful effect of intraoperative infusion of 6 % HES 130/0 .4 on renal function in patients during hip arthroplasty .
+

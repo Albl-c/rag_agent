@@ -1,0 +1,13 @@
+25266438
+OBJECTIVE	To evaluate efficacy and safety of eszopiclone compared with placebo in children and adolescents with insomnia associated with attention-deficit/hyperactivity disorder ( ADHD ) .
+METHODS	A 12-week , randomized , double-blind , placebo-controlled trial evaluated efficacy and safety of high - or low-dose eszopiclone ( 1 or 2 mg in children aged 6-11 years , 2 or 3 mg in children ages 12-17 years ) , given every evening , in 486 patients with ADHD-related insomnia .
+METHODS	The primary efficacy variable was change in latency to persistent sleep from baseline to week 12 , based on polysomnography .
+METHODS	Key secondary measures were polysomnography-measured wake time after sleep onset , Clinical Global Impression Parent/Caregiver and Child scales , and the Conners ' ADHD rating scales .
+METHODS	The safety of eszopiclone was further studied over 1 year of open-label treatment in 55 patients who completed the double-blind study , and 249 patients with no previous eszopiclone exposure .
+RESULTS	Neither low-dose nor high-dose eszopiclone significantly reduced latency to persistent sleep compared with placebo after 12 weeks of treatment .
+RESULTS	Secondary outcomes were considered nonsignificant based on the hierarchical statistical analysis plan .
+RESULTS	The most frequent treatment-emergent adverse events over 12 weeks with eszopiclone were headache , dysgeusia , and dizziness .
+RESULTS	The study results demonstrated that eszopiclone was well tolerated over 1 year of treatment , with 11.2 % of patients discontinuing open-label treatment because of an adverse event .
+CONCLUSIONS	Eszopiclone ( up to 3 mg ) failed to reduce latency to persistent sleep on polysomnography after 12 weeks in children aged 6 to 17 years with ADHD-related insomnia .
+CONCLUSIONS	Eszopiclone was well tolerated in the 1-year study .
+

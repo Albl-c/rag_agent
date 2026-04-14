@@ -1,0 +1,14 @@
+25241957
+BACKGROUND	Knot tying is a fundamental and crucial surgical skill .
+BACKGROUND	We developed a kinesthetic pedagogical approach that increases precision and economy of motion by explicitly teaching suture-handling maneuvers and studied its effects on novice performance .
+METHODS	Seventy-four first-year medical students were randomized to learn knot tying via either the traditional or the novel `` kinesthetic '' method .
+METHODS	After 1 week of independent practice , students were videotaped performing 4 tying tasks .
+METHODS	Three raters scored deidentified videos using a validated visual analog scale .
+METHODS	The groups were compared using analysis of covariance with practice knots as a covariate and visual analog scale score ( range , 0 to 100 ) as the dependent variable .
+METHODS	Partial eta-square was calculated to indicate effect size .
+RESULTS	Overall rater reliability was .92 .
+RESULTS	The kinesthetic group scored significantly higher than the traditional group for individual tasks and overall , controlling for practice ( all P < .004 ) .
+RESULTS	The kinesthetic overall mean was 64.15 ( standard deviation = 16.72 ) vs traditional 46.31 ( standard deviation = 16.20 ; P < .001 ; effect size = .28 ) .
+CONCLUSIONS	For novices , emphasizing kinesthetic suture handling substantively improved performance on knot tying .
+CONCLUSIONS	We believe this effect can be extrapolated to more complex surgical skills .
+

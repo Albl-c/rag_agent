@@ -1,0 +1,16 @@
+25180869
+OBJECTIVE	To perform an analysis and comparative study of the clinical data for patients with cirrhosis and type 1 hepatorenal syndrome ( HRS ) who received treatment with terlipressin using high-or low-dose regimens .
+METHODS	A total of 56 patients with cirrhosis and type 1 HRS who presented for treatment to the Wuhan Medical Treatment Center and Taizhou Central Hospital between March 2010 and October 2012 were enrolled in the study .
+METHODS	The patients were randomly assigned to the terlipressin treatment groups for receipt of the high-dose regimen ( 1 mg/6 -8 h ; n = 27 ) or low-dose regimen ( 1 mg/12 h ; n = 29 ) .
+METHODS	All patients were assessed for 24-hour urine volume , serum blood urea nitrogen ( BUN ) and creatinine ( Cr ) levels , therapeutic effect and prognosis , and adverse reactions .
+METHODS	Measurements were made before and after the treatment , and on post-treatment days 3 , 7 and 14 .
+METHODS	Inter-group differences were assessed by statistical analyses .
+RESULTS	The high-dose group showed an increase in 24-hour urine volumes from post-treatment day 3 ( 1112 262 ml ) to day 7 ( 1938 312 ml ) , and the volumes on both days were significantly better than those of the low-dose group ( day 3:986 162 ml and day 7:1760 300 ml , t = 1.500 , 1.830 , P = 0.038 , 0.041 ) .
+RESULTS	The high-dose group also showed a significantly better decreases in serum BUN levels ( 35.1 8.6 to 30.2 6.3 mmol/L vs.low-dose group : 43.2 10.9 to 35.1 7.6 mmol/L , t = 3.200 , 5.901 , P = 0.043 , 0.047 ) and in serum Cr values ( 219.0 35.1 to 128.2 41.6 vs.low-dose group : 230.3 82.1 to 151.5 38.7 , t = 2.997 , 5.765 , P = 0.036 , 0.046 ) .
+RESULTS	On post-treatment day 14 the 24-hour urine volume of patients in the high-dose group decreased ( to 720 + / -136 ml ) , but the difference from that of the low-dose group was not significant ( vs. 620 164 ml , t = 1.855 , P = 0.069 ) .
+RESULTS	The serum BUN level increased in the high-dose group ( to 54.4 15.0 mmol/L ) , which was statistically different from that in the low-dose group ( vs .57.7 17.3 mmol/L , t = 5.166 , P = 0.022 ) ; the same trend was seen for the serum Cr value ( 397.8 127.4 mumol/L vs. 480.3 179.8 mumol/L , t = 5.638 , P = 0.047 ) .
+RESULTS	No statistically significant differences were observed for the groups in regard to significant efficiency , efficiency or 2-week survival rate ( x2 = 2.314 , 1.767 , 0.678 , P = 0.128 , 0.128 , 0.410 respectively ) , but the total efficiency was significantly different between the two groups ( x = 5.793 , P = 0.016 ) .
+RESULTS	In addition , no serious adverse reactions ( including precordial pain , myocardial infarction or intestinal necrosis ) were observed in either group .
+CONCLUSIONS	Terlipressin therapy at both high and low dosages can lead to significant beneficial effects within as little as 3 days after the treatment ; however , the high-dose appears to produce a better lasting efficacy ( at day 14 after the treatment ) .
+CONCLUSIONS	The difference in doses does not appear to markedly affect significant efficiency , efficiency , nor the 2-week survival rate .
+

@@ -1,0 +1,14 @@
+24450471
+BACKGROUND	According to the American Diabetes Association ( ADA ) , the nutritional goals for patients with type 2 diabetes ( T2D ) are to achieve an optimal nutrient intake to achieve normoglycemia and a cardioprotective lipid profile .
+BACKGROUND	Peanuts are nutrient dense foods that contain high levels of monounsaturated fat ( MUFA ) and are a natural source of arginine , fiber , phytosterols , resveritrol , niacin , folate , vitamin E and magnesium , which have the potential for improving blood lipids and glycemic control .
+BACKGROUND	This study sought to evaluate the effect of a peanut enriched ADA meal plan on the nutrient profile of the total diet and cardiometabolic parameters in adults with T2D .
+METHODS	This was a randomized , prospective 24-week parallel-group clinical trial with 60 adults with T2D [ age range 34-84years ; body mass index ( BMI ) range 17.2-48 .7 kg/m2 ] .
+METHODS	Subjects consumed an ADA meal plan containing ~ 20 % of energy from peanuts ( peanut group ) or a peanut-free ADA meal plan ( control group ) .
+METHODS	Weight , BMI , waist circumference ( WC ) and nutrient intake from 24-hour recalls were measured every 4 weeks and fasting blood glucose ( FBG ) , HbA1c and blood lipids were measured every 12 weeks .
+METHODS	A mixed-model repeated-measures analysis of covariance was performed to assess the significance of changes in the cardiometabolic parameters .
+RESULTS	A higher polyunsaturated fat ( PUFA ) to saturated fat diet ratio and higher intake of MUFA , PUFA , - tocopherol , niacin and magnesium was observed in the peanut group as compared to the control group ( P < 0.01-P = 0.04 ) .
+RESULTS	Both groups experienced mild reductions in weight , BMI , and WC during the study ( P = 0.01-P = 0.03 ) , however there were no differences between the two groups in these measurements or in FBG , HbA1c or blood lipids .
+RESULTS	For each kilogram of weight loss in the entire cohort there were associations for reductions in WC of 0.48 cm ( P < 0.01 ) , FBG of 0.11 mmol/l ( P = 0.01 ) and HbA1c of 0.07 % ( P < 0.01 ) .
+CONCLUSIONS	Daily consumption of a peanut enriched ( 46g/d ) ADA meal plan over 24 weeks improves the nutrient profile of the total diet and is compatible with weight management and improvement in specific blood lipids .
+BACKGROUND	ClinicalTrials.gov NCT00937222 .
+

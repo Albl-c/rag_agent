@@ -1,0 +1,20 @@
+24297663
+BACKGROUND	Understanding the nature and time course of the pharmacodynamic effects of attention-deficit/hyperactivity disorder ( ADHD ) medications is useful .
+BACKGROUND	The Cognitive Drug Research Computerized Battery of Tests ( CDR-CBT ) is a 20-min battery of ten standardized , validated neuropsychometric tasks .
+OBJECTIVE	This pilot study examined the sensitivity and responsiveness of the CDR-CBT for assessing cognitive function in adults with ADHD prior to and up to 16 h postdose during treatment with lisdexamfetamine dimesylate ( LDX ) or mixed amphetamine salts immediate release ( MAS-IR ; various generics available ) .
+METHODS	This was a double-blind three-period crossover study .
+METHODS	Participants received LDX 50 mg/day , MAS-IR 20 mg/day , and placebo ( ~ 7 a.m. ) for 7 days each in randomized order .
+METHODS	CDR-CBT was administered on day 1 of period 1 and day 7 of each period at scheduled times between -0.5 ( predose ) and 16 h postdose .
+METHODS	Composite power of attention ( PoA ) score ( sum of simple reaction time , choice reaction time , and digit vigilance speed ) was the primary outcome measure .
+METHODS	The Conners ' Adult ADHD Rating Scales-Self-Report : Short Version ( CAARS-S : S ) was administered at baseline and on day 1 of period 1 , and days 6 and 7 of each treatment period .
+METHODS	Tertiary outcomes included CDR-CBT composite continuity of attention scores , its component task scores , cognitive reaction time , and response variability scores .
+METHODS	No inferential statistical comparisons were conducted .
+METHODS	Safety assessments included adverse events ( AEs ) and vital signs .
+RESULTS	This analysis included 18 participants ( mean age 30.8 years ) ; one withdrew because of AEs .
+RESULTS	Mean pretreatment PoA scores were 1175.9-1361 .2 ms , scores commensurate with a normative age of > 40 years .
+RESULTS	Maximum reductions in PoA scores with LDX and MAS-IR occurred at 5 h postdose at day 7 ( least squares mean difference [ 95 % CI ] of -150.0 [ -235.41 to -64.50 ] and -79.8 [ -165.72 to 6.21 ] ms vs. placebo , respectively ) .
+RESULTS	CAARS-S : S scores were unchanged with LDX and MAS-IR ( vs. placebo ) at all postdose timepoints .
+RESULTS	Tertiary attention-related CDR-CBT outcomes were sensitive to LDX and MAS-IR ( vs. placebo ) .
+RESULTS	Treatment-emergent AEs and vital signs were consistent with previous studies in adult ADHD .
+CONCLUSIONS	In adults with ADHD , PoA scores indicated impaired attention at baseline and response to treatment with LDX and MAS-IR ( vs. placebo ) , demonstrating value for measuring the time course of pharmacologic treatment effects .
+

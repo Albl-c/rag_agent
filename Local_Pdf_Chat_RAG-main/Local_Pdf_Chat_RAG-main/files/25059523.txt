@@ -1,0 +1,11 @@
+25059523
+BACKGROUND	The aim of this study was to investigate the effects of mass drug administration on Schistosoma mansoni prevalence and associated liver morbidity in treated school-aged children and untreated preschool children .
+METHODS	In April 2008 , parasitological ( using the Kato-Katz method ) and morbidity ( determined by portal vein score ) data were collected from 263 schoolchildren aged 6 and 7 years .
+METHODS	The children had never received praziquantel .
+METHODS	In March 2010 , following two annual rounds of mass drug administration , 207 children aged 8 and 9 years old were examined to determine the effect of treatment .
+METHODS	In addition , 158 untreated 6-year-olds were assessed to compare with the untreated children from 2008 .
+RESULTS	Treatment significantly decreased the prevalence of S. mansoni and associated morbidity in the treated groups .
+RESULTS	The untreated preschool children also showed a significant decrease in the prevalence of S. mansoni , from 21.1 % ( 2008 ) to 6.3 % ( 2010 ) ( p < 0.001 ) .
+RESULTS	The percentage of untreated schoolchildren with a normal portal vein score increased significantly from 57.8 % ( 2008 ) to 70.3 % ( 2010 ) ( p = 0.029 ) .
+CONCLUSIONS	The significantly lower rates of S. mansoni and the decreased liver morbidity in untreated preschool children in 2010 suggest decreased environmental transmission rates and improved liver morbidity in untreated children following several rounds of mass drug administration .
+

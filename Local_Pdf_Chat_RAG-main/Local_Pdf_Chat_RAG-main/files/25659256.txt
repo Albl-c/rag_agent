@@ -1,0 +1,15 @@
+25659256
+BACKGROUND	Current medical knowledge has provided us with a wide range of possibilities of treating chronic wounds .
+BACKGROUND	Over the recent decades , in particular , significant progress has been made in this field .
+BACKGROUND	The authors present an overview of current knowledge of chronic wound healing , pointing out the surgeons role in the process of chronic wound management .
+BACKGROUND	Using surgical therapy , we are able to heal a chronic wound in a shorter period of time , particularly if the treatment is accelerated by the application of platelet-rich plasma ( PRP ) as a source of growth factors .
+METHODS	The pilot randomized prospective study included four patients with chronic wounds of the lower leg after previous failure of conservative therapy who were indicated for skin transplantation .
+METHODS	Following previous vacuum-assisted closure therapy , the patients undergoing skin transplantation were prospectively randomized into two groups .
+METHODS	Autologous PRP was used in one of the groups and standard skin transplantation without PRP was performed in the other one .
+RESULTS	In the PRP group , 99 % of the wound areas were healed on the 15th day after the operation .
+RESULTS	In the other group , 90 % of the areas were healed on the 15th day following the operation .
+RESULTS	In the PRP group , complete healing of the defect occurred in both patients at 15 and 20 days post-surgery .
+RESULTS	In the second group , one patient completely healed within 28 days ; the other one was not fully healed even at 3 months post-surgery .
+CONCLUSIONS	Most patient groups at great risk may benefit from the method using PRP , as well as patients with chronic wounds who have failed conventional methods available for both general and local therapy .
+CONCLUSIONS	This fact has been confirmed by the authors initial experience presented.Key words : platelet-rich plasma ( PRP ) - platelets wound healing chronic wound .
+

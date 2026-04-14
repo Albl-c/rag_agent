@@ -1,0 +1,19 @@
+25066329
+BACKGROUND	Evidence is weak for the ability of long-term non-invasive positive pressure ventilation ( NPPV ) to improve survival in patients with stable hypercapnic chronic obstructive pulmonary disease ( COPD ) .
+BACKGROUND	Previous prospective studies did not target a reduction in hypercapnia when adjusting ventilator settings .
+BACKGROUND	This study investigated the effect of long-term NPPV , targeted to markedly reduce hypercapnia , on survival in patients with advanced , stable hypercapnic COPD .
+METHODS	This investigator-initiated , prospective , multicentre , randomised , controlled clinical trial enrolled patients with stable GOLD stage IV COPD and a partial carbon dioxide pressure ( PaCO2 ) of 7 kPa ( 51.9 mm Hg ) or higher and pH higher than 7.35 .
+METHODS	NPPV was targeted to reduce baseline PaCO2 by at least 20 % or to achieve PaCO2 values lower than 6.5 kPa ( 48.1 mm Hg ) .
+METHODS	Patients were randomly assigned ( in a 1:1 ratio ) via a computer-generated randomisation sequence with a block size of four , to continue optimised standard treatment ( control group ) or to receive additional NPPV for at least 12 months ( intervention group ) .
+METHODS	The primary outcome was 1-year all-cause mortality .
+METHODS	Analysis was by intention to treat .
+METHODS	The intervention was unblinded , but outcome assessment was blinded to treatment assignment .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT00710541 .
+RESULTS	Patients were recruited from 36 respiratory units in Germany and Austria , starting on Oct 29 , 2004 , and terminated with a record of the vital status on July 31 , 2011.195 patients were randomly assigned to the NPPV group ( n = 102 ) or to the control group ( n = 93 ) .
+RESULTS	All patients from the control group and the NPPV group were included in the primary analysis .
+RESULTS	1-year mortality was 12 % ( 12 of 102 patients ) in the intervention group and 33 % ( 31 of 93 patients ) in the control group ; hazard ratio 0.24 ( 95 % CI 0.11-0 .49 ; p = 0.0004 ) .
+RESULTS	14 ( 14 % ) patients reported facial skin rash , which could be managed by changing the type of the mask .
+RESULTS	No other intervention-related adverse events were reported .
+CONCLUSIONS	The addition of long-term NPPV to standard treatment improves survival of patients with hypercapnic , stable COPD when NPPV is targeted to greatly reduce hypercapnia .
+BACKGROUND	German Lung Foundation ; ResMed , Germany ; Tyco Healthcare , Germany ; and Weinmann , Germany .
+

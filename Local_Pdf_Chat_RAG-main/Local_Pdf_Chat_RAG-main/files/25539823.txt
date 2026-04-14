@@ -1,0 +1,16 @@
+25539823
+BACKGROUND	Aetiology of childhood leukaemia and childhood neoplasm is poorly understood .
+BACKGROUND	Information on the prevalence of risk factors in the childhood population is limited .
+BACKGROUND	SETIL is a population based case-control study on childhood leukaemia , conducted with two companion studies on non-Hodgkin Lymphoma ( NHL ) and neuroblastoma .
+BACKGROUND	The study relies on questionnaire interviews and 50 Hz magnetic field ( ELF-MF ) indoor measurements .
+BACKGROUND	This paper discusses the SETIL study design and includes descriptive information .
+METHODS	The study was carried out in 14 Italian regions ( 78.3 % of Italian population aged 0-10 ) .
+METHODS	It included leukaemia , NHL and neuroblastoma cases incident in 0-10 year olds in 1998-2001 , registered by the Italian Association of Paediatric Haematology and Oncology ( AIEOP ) ( accrual over 95 % of estimated incidence ) .
+METHODS	Two controls for each leukaemia case were randomly sampled from the Local Health Authorities rolls , matched by gender , birthdate and residence .
+METHODS	The same controls were used in NHL and neuroblastoma studies .
+METHODS	Parents were interviewed at home on : physical agents ( ELF-MF and ionizing radiation ) , chemicals ( smoking , solvents , traffic , insecticides ) , occupation , medical and personal history of children and parents , infectious diseases , immunizations and associated factors .
+METHODS	Occupational exposure was collected using job specific modules .
+METHODS	ELF-MF was measured in the main rooms ( spot measurement ) and close to child 's bed ( 48 hours measurement ) .
+RESULTS	The study included : 683 leukaemia cases ( 87 % ALL , 13 % AnLL ) , 97 NHL , 155 neuroblastomas , and 1044 controls .
+CONCLUSIONS	SETIL represents a data source on exposure of Italian children to a broad array of potential carcinogenic factors .
+

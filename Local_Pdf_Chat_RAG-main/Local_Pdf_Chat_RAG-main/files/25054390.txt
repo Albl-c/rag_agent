@@ -1,0 +1,21 @@
+25054390
+BACKGROUND	Thoracic epidural analgesia ( TEA ) has a well-known effect on neurohormonal response .
+BACKGROUND	Attenuation of stress response by post-operative epidural analgesia has shown beneficial effects such as lower pain scores and less immunological alterations .
+OBJECTIVE	Investigation of the combined effects of TEA and protective lung ventilation on pro-inflammatory cytokines and patients ' outcome after Ivor Lewis esophagectomy .
+METHODS	A randomized controlled study .
+METHODS	Academic medical center .
+METHODS	Thirty patients of the American Society of Anesthesiologists ( ASA ) I and II were randomly allocated into 2 groups : G1 ( n = 15 ) patients received general anesthesia and were mechanically ventilated with 9 mL/kg during 2 lung ventilations , reduced to 5 mL/kg and 5cm H2O positive end expiratory pressure ( PEEP ) during one lung ventilation ( OLV ) or GII ) ( n = 15 ) patients received TEA and the same general anesthesia and mechanical ventilation used in G1 .
+METHODS	Assessment parameters included hemodynamics , pain severity , total analgesic consumption , and measurement of interleukins ( IL ) ( IL-6 and IL-8 ) at baseline time after anesthetic induction ( TBaseline , ) ; at the end of the abdominal stage of the operation ( TAbdo , ) ; 15 minutes after initiation and at the end of OLV ( TOLV 15 ) and ( TOLV End ) respectively ; one and 20 hours after the end of the surgical procedure ( TPostop1 and TPostop20 ) , respectively , and patient 's outcome also recorded .
+RESULTS	There was a significant reduction in mean arterial blood pressure ( MAP ) and pulse rate in GII during the intraoperative period , at Tabdo , TOLV15 , and TOLV End ( P < 0.05 ) .
+RESULTS	The mean of systolic blood pressure ( SBP ) values were significantly lower in GII over all 3 post-operative days ( P = 0.001 ) , and the mean diastolic blood pressure ( DBP ) showed a significant reduction in GII for 16 hours post-operatively ( P = 0.001 ) .
+RESULTS	The mean of heart rate values showed a significant reduction in GII over all 3 post-operative days in comparison to GI ( P = 0.001 ) .
+RESULTS	The mean resting and dynamic VAS scores were significantly reduced in GII at all time periods studied in comparison to G1 ( P = 0.001 ) .
+RESULTS	The daily PCA morphine consumption was markedly decreased in GII compared to GI in the first 3 days post-operatively ( P = 0.001 ) .
+RESULTS	There were significant reductions in blood level of IL-6 and IL-8 in GII compared to G1 over the entire study period ( P < 0.05 ) .
+RESULTS	There were no significant differences in post-operative adverse effects between the 2 groups ( P > 0.05 ) .
+RESULTS	The duration of stay in PACU was significantly decreased in GII ( 10 2 days ) compared to GI ( 15 3 days ) ( P = 0.001 ) .
+CONCLUSIONS	This study is limited by its sample size .
+CONCLUSIONS	Our study concluded that TEA reduced the systemic pro-inflammatory response and provided optimal post-operative pain relief .
+CONCLUSIONS	Although there were no significant differences in adverse events , there was a trend towards improved outcome .
+CONCLUSIONS	Further clinical studies with larger numbers of patients are required .
+

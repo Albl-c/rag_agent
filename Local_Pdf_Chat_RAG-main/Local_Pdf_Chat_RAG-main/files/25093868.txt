@@ -1,0 +1,16 @@
+25093868
+BACKGROUND	Hochuekkito , a traditional herbal medicine , is occasionally prescribed in Japan to treat patients with a poor general condition .
+BACKGROUND	We aimed to examine whether this medicine was beneficial and tolerable for patients with progressed pulmonary Mycobacterium avium complex ( MAC ) disease .
+METHODS	This pilot open-label quasi-randomized controlled trial enrolled 18 patients with progressed pulmonary MAC disease who had initiated antimycobacterial treatment over one year ago but were persistently culture-positive or intolerant .
+METHODS	All patients continued their baseline treatment regimens with ( n = 9 ) or without ( n = 9 ) oral Hochuekkito for 24 weeks .
+RESULTS	Baseline characteristics were generally similar between the groups .
+RESULTS	Most patients were elderly ( median age 70 years ) , female , had a low body mass index ( < 20 kg/m2 ) , and a long-term disease duration ( median approximately 8 years ) .
+RESULTS	After the 24-week treatment period , no patient achieved sputum conversion .
+RESULTS	Although the number of colonies in sputum tended to increase in the control group , it generally remained stable in the Hochuekkito group .
+RESULTS	Radiological disease control was frequently observed in the Hochuekkito group than the control group ( 8/9 vs. 3/9 ; p = 0.05 ) .
+RESULTS	Patients in the Hochuekkito group tended to experience increase in body weight and serum albumin level compared with those in the control group ( median body weight change : +0.4 kg vs. -0.8 kg ; median albumin change : +0.2 g/dl vs. 0.0 g/dl ) .
+RESULTS	No severe adverse events occurred .
+CONCLUSIONS	Hochuekkito could be an effective , feasible adjunct to conventional therapy for patients with progressed pulmonary MAC disease .
+CONCLUSIONS	Future study is needed to explore this possibility .
+BACKGROUND	UMIN Clinical Trials Registry UMIN000009920 .
+

@@ -1,0 +1,17 @@
+24915914
+OBJECTIVE	To assess the efficacy and safety of heated humidified high-flow nasal cannula ( HHHFNC ) ventilation compared with nasal continuous positive airway pressure ( NCPAP ) on prevention of extubation failure in the NICUs .
+METHODS	A prospective randomized , controlled un-blinded study was conducted in 12 tertiary hospitals in Hebei Province from December 1 , 2012 to May 31 , 2013 .
+METHODS	Neonates were eligible for this study if they were admitted to the participating NICUs within 7 days of postnatal age , and needed noninvasive respiratory support after a period of mechanical ventilation with an endotracheal tube .
+METHODS	Infants were randomly assigned to either HHHFNC or NCPAP group .
+METHODS	The primary outcome measures included : the incidence of extubation failure , bronchopulmonary dysplasia and the mortality before discharge .
+RESULTS	Among the 255 cases included , 128 were in the HHHFNC group , and 127 were in the NCPAP group .
+RESULTS	There was no significant difference in gestational age , birth weight , and age at randomization , and male/female ratio between the two groups ( P > 0.05 ) .
+RESULTS	There were no significant differences between groups for days on ventilation , noninvasive respiratory support , oxygen requirement , hospital stay and time to full oral feedings ( P > 0.05 ) .
+RESULTS	The overall mortality of the studied population was 10.6 % ( 27/255 ) .
+RESULTS	The occurrence of extubation failure within 7 days was 9.4 % whereas 29.0 % in very low birth weight infants .
+RESULTS	There was no significant difference in the extubation failure for HHHFNC ( 12/128 , 9.4 % ) versus NCPAP ( 12/127 , 9.4 % ) ( P > 0.05 ) , or in mortality for HHHFNC ( 12/128 , 9.4 % ) versus NCPAP ( 15/127 , 11.8 % ) ( P > 0.05 ) .
+RESULTS	No significant difference was found between the study groups in the occurrence of bronchopulmonary dysplasia ( BPD ) and most of severe adverse outcomes analyzed , including air leak syndrome and nasal trauma .
+RESULTS	The occurrence of abdominal distention during treatment was higher in NCPAP than HHHFNC group ( 12.6 % vs. 5.5 % , P < 0.05 ) .
+CONCLUSIONS	Among infants 7 d of postnatal age , HHHFNC appears to have efficacy and safety similar to those of NCPAP group when applied immediately post-extubation to prevent extubation failure .
+CONCLUSIONS	Despite concerns on unmonitored pressure delivery during HHHFNC support , no increase of the occurrence of BPD , air leak syndrome or mortality was found .
+

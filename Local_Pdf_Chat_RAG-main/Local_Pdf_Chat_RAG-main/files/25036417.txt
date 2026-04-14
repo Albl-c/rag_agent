@@ -1,0 +1,19 @@
+25036417
+BACKGROUND	A prospective , randomized study examined the effect of interventional preoperative education and orientation for scoliosis surgery ( PEOSS ) on anxiety levels of patients undergoing posterior spinal fusion ( PSF ) .
+BACKGROUND	Secondary outcomes analyzed were caregiver anxiety , length of stay , morphine equivalent usage , and patient/caregiver satisfaction .
+METHODS	Patients undergoing PSF were randomly distributed into a control group ( N = 39 ) or interventional group ( N = 26 ) .
+METHODS	All subjects and caregivers completed the State ( current ) - Trait ( typical ) Anxiety Inventory ( STAI ) at different intervals : preoperative appointment , preoperative holding area , postoperative orthopaedic unit , and discharge .
+METHODS	At discharge , patients and caregivers completed a satisfaction survey .
+RESULTS	Significantly higher state anxiety scores were found compared with baseline at all time intervals in both the control group and PEOSS group .
+RESULTS	The PEOSS group had higher state anxiety scores than the control group at the postoperative interval ( P = 0.024 ) .
+RESULTS	There were no significant differences in the caregiver state anxiety scores between the groups at any time interval .
+RESULTS	Trait anxiety scores for both groups remained stable over time , establishing that the measurement tool accurately reflected baseline anxiety .
+RESULTS	No significant differences were found in length of stay or morphine equivalent use .
+RESULTS	Patient satisfaction scores were higher in the PEOSS group than in the control group ( P = 0.0005 ) .
+CONCLUSIONS	PSF was associated with increased anxiety at all time intervals in adolescents in both groups .
+CONCLUSIONS	In the PEOSS group , PSF was associated with increased anxiety in the immediate postoperative period .
+CONCLUSIONS	Despite the increase in anxiety , patient satisfaction was higher in the intervention group .
+CONCLUSIONS	It is likely that patients need age-appropriate information and educational strategies to minimize anxiety during PSF .
+CONCLUSIONS	Further work is underway to study and develop more effective interventional strategies .
+METHODS	Level I study .
+

@@ -1,0 +1,15 @@
+25091954
+BACKGROUND	To evaluate the potential efficacy and safety of inner limiting membrane ( ILM ) staining with brilliant blue G ( BBG ) under air infusion .
+METHODS	63 patients , treated by one surgeon with macular hole or idiopathic epiretinal membrane were evaluated prospectively .
+METHODS	BBG was applied under air infusion in 38 patients ( group 1 ) , and injected into the vitreous cavity in 25 ( group 2 ) .
+METHODS	Main outcome measures were the chromaticity difference between the stained ILM and the unstained underlying retina , anatomical-functional outcomes and complications of the surgery .
+METHODS	Chromaticity difference was measured by an objective and quantitative analysis method to describe colour contrast strengths as they are perceived by the human eye .
+METHODS	Anatomical and functional outcomes were assessed using optical coherence tomography ( OCT ) , visual field analyses ( VFA ) and multifocal electroretinography ( mfERG ) .
+RESULTS	CIELAB scores showed a significantly superior contrast for group 1 ( 16.722.36 ) than group 2 ( 10.341.29 ) ( p < 0.001 ) .
+RESULTS	Visual acuity had increased in 28 eyes and remained stable in 10 eyes in group 1 .
+RESULTS	In group 2 , visual acuity had improved in 17 patients and remained unchanged in 8 patients .
+RESULTS	Based on postoperative OCT , anatomical success rate was 100 % .
+RESULTS	During the follow-up period , mfERG and VFA demonstrated no case of BBG toxicity in either group .
+RESULTS	Cataract progression was the main postoperative complication ( six eyes in group 1 and four eyes in group 2 ) and did not show a significant difference between the groups ( p = 0.45 ) .
+CONCLUSIONS	BBG under air infusion yields a significantly higher contrast staining and easy peeling of ILM associated with anatomical and functional improvement and no retinal toxicity after macular surgery .
+

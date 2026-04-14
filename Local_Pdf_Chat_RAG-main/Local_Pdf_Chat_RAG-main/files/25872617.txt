@@ -1,0 +1,23 @@
+25872617
+BACKGROUND	Health knowledge and literacy are among the main determinants of health .
+BACKGROUND	Assessment of these issues via Web-based surveys is growing continuously .
+BACKGROUND	Research has suggested that approximately one-fifth of respondents submit cribbed answers , or cheat , on factual knowledge items , which may lead to measurement error .
+BACKGROUND	However , little is known about methods of discouraging cheating in Web-based surveys on health knowledge .
+OBJECTIVE	This study aimed at exploring the usefulness of imposing a survey time limit to prevent help-seeking and cheating .
+METHODS	On the basis of sample size estimation , 94 undergraduate students were randomly assigned in a 1:1 ratio to complete a Web-based survey on nutrition knowledge , with or without a time limit of 15 minutes ( 30 seconds per item ) ; the topic of nutrition was chosen because of its particular relevance to public health .
+METHODS	The questionnaire consisted of two parts .
+METHODS	The first was the validated consumer-oriented nutrition knowledge scale ( CoNKS ) consisting of 20 true/false items ; the second was an ad hoc questionnaire ( AHQ ) containing 10 questions that would be very difficult for people without health care qualifications to answer correctly .
+METHODS	It therefore aimed at measuring cribbing and not nutrition knowledge .
+METHODS	AHQ items were somewhat encyclopedic and amenable to Web searching , while CoNKS items had more complex wording , so that simple copying/pasting of a question in a search string would not produce an immediate correct answer .
+RESULTS	A total of 72 of the 94 subjects started the survey .
+RESULTS	Dropout rates were similar in both groups ( 11 % , 4/35 and 14 % , 5/37 in the untimed and timed groups , respectively ) .
+RESULTS	Most participants completed the survey from portable devices , such as mobile phones and tablets .
+RESULTS	To complete the survey , participants in the untimed group took a median 2.3 minutes longer than those in the timed group ; the effect size was small ( Cohen 's r = .29 ) .
+RESULTS	Subjects in the untimed group scored significantly higher on CoNKS ( mean difference of 1.2 points , P = .008 ) and the effect size was medium ( Cohen 's d = 0.67 ) .
+RESULTS	By contrast , no significant between-group difference in AHQ scores was documented .
+RESULTS	Unexpectedly high AHQ scores were recorded in 23 % ( 7/31 ) and 19 % ( 6/32 ) untimed and timed respondents , respectively , very probably owing to `` e-cheating '' .
+CONCLUSIONS	Cribbing answers to health knowledge items in researcher-uncontrolled conditions is likely to lead to overestimation of people 's knowledge ; this should be considered during the design and implementation of Web-based surveys .
+CONCLUSIONS	Setting a time limit alone may not completely prevent cheating , as some cheats may be very fast in Web searching .
+CONCLUSIONS	More complex and contextualized wording of items and checking for the `` findability '' properties of items before implementing a Web-based health knowledge survey may discourage help-seeking , thus reducing measurement error .
+CONCLUSIONS	Studies with larger sample sizes and diverse populations are needed to confirm our results .
+

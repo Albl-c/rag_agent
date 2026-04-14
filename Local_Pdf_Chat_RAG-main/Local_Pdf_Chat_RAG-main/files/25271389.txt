@@ -1,0 +1,14 @@
+25271389
+BACKGROUND	Uncertainty exists about the most effective route for delivery of early nutritional support in critically ill adults .
+BACKGROUND	We hypothesized that delivery through the parenteral route is superior to that through the enteral route .
+METHODS	We conducted a pragmatic , randomized trial involving adults with an unplanned admission to one of 33 English intensive care units .
+METHODS	We randomly assigned patients who could be fed through either the parenteral or the enteral route to a delivery route , with nutritional support initiated within 36 hours after admission and continued for up to 5 days .
+METHODS	The primary outcome was all-cause mortality at 30 days .
+RESULTS	We enrolled 2400 patients ; 2388 ( 99.5 % ) were included in the analysis ( 1191 in the parenteral group and 1197 in the enteral group ) .
+RESULTS	By 30 days , 393 of 1188 patients ( 33.1 % ) in the parenteral group and 409 of 1195 patients ( 34.2 % ) in the enteral group had died ( relative risk in parenteral group , 0.97 ; 95 % confidence interval , 0.86 to 1.08 ; P = 0.57 ) .
+RESULTS	There were significant reductions in the parenteral group , as compared with the enteral group , in rates of hypoglycemia ( 44 patients [ 3.7 % ] vs. 74 patients [ 6.2 % ] ; P = 0.006 ) and vomiting ( 100 patients [ 8.4 % ] vs. 194 patients [ 16.2 % ] ; P < 0.001 ) .
+RESULTS	There were no significant differences between the parenteral group and the enteral group in the mean number of treated infectious complications ( 0.22 vs. 0.21 ; P = 0.72 ) , 90-day mortality ( 442 of 1184 patients [ 37.3 % ] vs. 464 of 1188 patients [ 39.1 % ] , P = 0.40 ) , in rates of 14 other secondary outcomes , or in rates of adverse events .
+RESULTS	Caloric intake was similar in the two groups , with the target intake not achieved in most patients .
+CONCLUSIONS	We found no significant difference in 30-day mortality associated with the route of delivery of early nutritional support in critically ill adults .
+CONCLUSIONS	( Funded by the United Kingdom National Institute for Health Research ; CALORIES Current Controlled Trials number , ISRCTN17386141 . )
+

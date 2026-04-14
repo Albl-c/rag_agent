@@ -1,0 +1,11 @@
+24313693
+OBJECTIVE	This study examined the feasibility of a prototype Web-based acceptance and commitment therapy ( ACT ) program for preventing mental health problems among college students .
+METHODS	Undergraduate first-year students ( N = 76 ) participated between May and November 2011 .
+METHODS	Participants were randomized to ACT or a waitlist , with assessments conducted at baseline , posttherapy , and 3-week follow-up .
+METHODS	Waitlist participants accessed the program after the second assessment .
+RESULTS	Program usability/usage data indicated high program acceptability .
+RESULTS	Significant improvements were found for ACT knowledge , education values , and depression with ACT relative to waitlist .
+RESULTS	Subgroup analyses indicated that ACT decreased depression and anxiety relative to waitlist among students with at least minimal distress .
+RESULTS	Within the ACT condition , significant improvements were observed from baseline to 3-week follow-up on all outcome and process measures .
+CONCLUSIONS	Results provide preliminary support for the feasibility of a Web-based ACT prevention program .
+

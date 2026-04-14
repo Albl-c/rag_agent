@@ -1,0 +1,15 @@
+24498875
+BACKGROUND	It has been well documented that the maturing oocyte is very vulnerable to changes in its micro-environment , the follicular fluid ( FF ) .
+BACKGROUND	Recent research has focused on different components within this FF , like hormones , growth factors and metabolites , and how their concentrations are altered by diet and the metabolic health of the mother .
+BACKGROUND	It has been proposed that fatty acids ( FAs ) are potential factors that influence oocyte maturation and subsequent embryo development .
+BACKGROUND	However , a thorough study of the specific FF FA composition per lipid fraction and how this may be affected by BMI is currently lacking .
+BACKGROUND	Therefore , we investigated the BMI-related concentration of FAs in the phospholipid ( PL ) , cholesteryl-ester ( CHE ) , triglyceride ( TG ) and non-esterified ( NE ) lipid fraction in the FF of women undergoing assisted reproductive treatment ( ART ) .
+METHODS	In this descriptive cross-sectional study , the FF of normal weight ( 18.5 BMI < 25.0 kg/m ( 2 ) , n = 10 ) , overweight ( 25.0 BMI < 30.0 kg/m ( 2 ) , n = 10 ) and obese ( BMI30 .0 kg/m ( 2 ) , n = 10 ) women , undergoing ART , was sampled and analyzed for 23 specific FAs in the PL , CHE , TG and NEFA fraction , using a gas chromatographic analysis method .
+METHODS	Differences between BMI-groups were studied by means of univariate general linear models and post hoc Sheff tests .
+RESULTS	Total FA concentrations in the PL and CHE fraction did not differ between BMI groups .
+RESULTS	Total TG concentrations tended to differ and total NEFA concentrations differed significantly between BMI groups .
+RESULTS	Interestingly , 42 % and 34 % of the total FAs was esterified in the PL and CHE fraction , respectively , while only 10 % were present in both the TG and NEFA fraction .
+RESULTS	Only few individual FA concentrations differed in the PL , CHE and TG fraction between BMI groups , whereas abundant BMI-related differences were found in the NEFA fraction .
+CONCLUSIONS	Our data show that differences in BMI are associated with alterations in the FA composition of the FF , an effect most pronounced in the NEFA fraction .
+CONCLUSIONS	These BMI-related variations could possibly affect granulosa cell viability , oocyte developmental competence and subsequent embryo quality possibly explaining differences in oocyte quality in obese patients described by others .
+

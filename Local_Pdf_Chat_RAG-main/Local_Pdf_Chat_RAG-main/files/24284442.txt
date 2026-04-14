@@ -1,0 +1,12 @@
+24284442
+BACKGROUND	Leucine is a key amino acid involved in the regulation of skeletal muscle protein synthesis .
+OBJECTIVE	We assessed the effect of the supplementation of a lower-protein mixed macronutrient beverage with varying doses of leucine or a mixture of branched chain amino acids ( BCAAs ) on myofibrillar protein synthesis ( MPS ) at rest and after exercise .
+METHODS	In a parallel group design , 40 men ( 21 1 y ) completed unilateral knee-extensor resistance exercise before the ingestion of 25 g whey protein ( W25 ) ( 3.0 g leucine ) , 6.25 g whey protein ( W6 ) ( 0.75 g leucine ) , 6.25 g whey protein supplemented with leucine to 3.0 g total leucine ( W6 + Low-Leu ) , 6.25 g whey protein supplemented with leucine to 5.0 g total leucine ( W6 + High-Leu ) , or 6.25 g whey protein supplemented with leucine , isoleucine , and valine to 5.0 g total leucine .
+METHODS	A primed continuous infusion of l - [ ring - ( 13 ) C6 ] phenylalanine with serial muscle biopsies was used to measure MPS under baseline fasted and postprandial conditions in both a rested ( response to feeding ) and exercised ( response to combined feeding and resistance exercise ) leg .
+RESULTS	The area under the blood leucine curve was greatest for the W6 + High-Leu group compared with the W6 and W6 + Low-Leu groups ( P < 0.001 ) .
+RESULTS	In the postprandial period , rates of MPS were increased above baseline over 0-1 .5 h in all treatments .
+RESULTS	Over 1.5-4 .5 h , MPS remained increased above baseline after all treatments but was greatest after W25 ( 267 % ) and W6 + High-Leu ( 220 % ) treatments ( P = 0.002 ) .
+CONCLUSIONS	A low-protein ( 6.25 g ) mixed macronutrient beverage can be as effective as a high-protein dose ( 25 g ) at stimulating increased MPS rates when supplemented with a high ( 5.0 g total leucine ) amount of leucine .
+CONCLUSIONS	These results have important implications for formulations of protein beverages designed to enhance muscle anabolism .
+CONCLUSIONS	This trial was registered at clinicaltrials.gov as NCT 1530646 .
+

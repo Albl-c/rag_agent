@@ -1,0 +1,15 @@
+25074387
+BACKGROUND	Medium chain triglycerides ( MCT ) enhance thermogenesis and may reduce food intake relative to long chain triglycerides ( LCT ) .
+BACKGROUND	The goal of this study was to establish the effects of MCT on appetite and food intake and determine whether differences were due to differences in hormone concentrations .
+METHODS	Two randomized , crossover studies were conducted in which overweight men consumed 20g of MCT or corn oil ( LCT ) at breakfast .
+METHODS	Blood samples were obtained over 3h .
+METHODS	In Study 1 ( n = 10 ) , an ad lib lunch was served after 3h .
+METHODS	In Study 2 ( n = 7 ) , a preload containing 10g of test oil was given at 3h and lunch was served 1h later .
+METHODS	Linear mixed model analyses were performed to determine the effects of MCT and LCT oil on change in hormones and metabolites from fasting , adjusting for body weight .
+METHODS	Correlations were computed between differences in hormones just before the test meals and differences in intakes after the two oils for Study 1 only .
+RESULTS	Food intake at the lunch test meal after the MCT preload ( Study 2 ) was ( means.e.m . )
+RESULTS	532389kcal vs 804486kcal after LCT ( P < 0.05 ) .
+RESULTS	MCT consumption resulted in a lower rise in triglycerides ( P = 0.014 ) and glucose ( P = 0.066 ) and a higher rise in peptide YY ( PYY , P = 0.017 ) and leptin ( P = 0.036 ) compared with LCT ( combined data ) .
+RESULTS	Correlations between differences in hormone levels ( glucagon-like peptide ( GLP-1 ) , PYY ) and differences in food intake were in the opposite direction to expectations .
+CONCLUSIONS	MCT consumption reduced food intake acutely but this does not seem to be mediated by changes in GLP-1 , PYY and insulin .
+

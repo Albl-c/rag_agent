@@ -1,0 +1,24 @@
+25607594
+OBJECTIVE	Changes in pulmonary dynamics following laparotomy are well documented .
+OBJECTIVE	Deep breathing exercises , with or without incentive spirometry , may help counteract postoperative decreased vital capacity ; however , the evidence for the role of incentive spirometry in the prevention of postoperative atelectasis is inconclusive .
+OBJECTIVE	Furthermore , data are scarce regarding the prevention of postoperative atelectasis in sub-Saharan Africa .
+OBJECTIVE	To determine the effect of the use of incentive spirometry on pulmonary function following exploratory laparotomy as measured by forced vital capacity ( FVC ) .
+METHODS	This was a single-center , randomized clinical trial performed at Kamuzu Central Hospital , Lilongwe , Malawi .
+METHODS	Study participants were adult patients who underwent exploratory laparotomy and were randomized into the intervention or control groups ( standard of care ) from February 1 to November 30 , 2013 .
+METHODS	All patients received routine postoperative care , including instructions for deep breathing and early ambulation .
+METHODS	We used bivariate analysis to compare outcomes between the intervention and control groups .
+METHODS	Adult patients who underwent exploratory laparotomy participated in postoperative deep breathing exercises .
+METHODS	Patients in the intervention group received incentive spirometers .
+METHODS	We assessed pulmonary function using a peak flow meter to measure FVC in both groups of patients .
+METHODS	Secondary outcomes , such as hospital length of stay and mortality , were obtained from the medical records .
+RESULTS	A total of 150 patients were randomized ( 75 in each arm ) .
+RESULTS	The median age in the intervention and control groups was 35 years ( interquartile range , 28-53 years ) and 33 years ( interquartile range , 23-46 years ) , respectively .
+RESULTS	Men predominated in both groups , and most patients underwent emergency procedures ( 78.7 % in the intervention group and 84.0 % in the control group ) .
+RESULTS	Mean initial FVC did not differ significantly between the intervention and control groups ( 0.92 and 0.90 L , respectively ; P = .82 [ 95 % CI , 0.52-2 .29 ] ) .
+RESULTS	Although patients in the intervention group tended to have higher final FVC measurements , the change between the first and last measured FVC was not statistically significant ( 0.29 and 0.25 L , respectively ; P = .68 [ 95 % CI , 0.65-1 .95 ] ) .
+RESULTS	Likewise , hospital length of stay did not differ significantly between groups .
+RESULTS	Overall postoperative mortality was 6.0 % , with a higher mortality rate in the control group compared with the intervention group ( 10.7 % and 1.3 % , respectively ; P = .02 [ 95 % CI , 0.01-0 .92 ] ) .
+CONCLUSIONS	Education and provision of incentive spirometry for unmonitored patient use does not result in statistically significant improvement in pulmonary dynamics following laparotomy .
+CONCLUSIONS	We would not recommend the addition of incentive spirometry to the current standard of care in this resource-constrained environment .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01789177 .
+

@@ -1,0 +1,14 @@
+24598599
+OBJECTIVE	Until recently , very few intervention studies have investigated the effects of whole-grain cereals on postprandial glucose , insulin and lipid metabolism , and the existing studies have provided mixed results .
+OBJECTIVE	The objective of this study was to evaluate the effects of a 12-week intervention with either a whole-grain-based or a refined cereal-based diet on postprandial glucose , insulin and lipid metabolism in individuals with metabolic syndrome .
+RESULTS	Sixty-one men and women age range 40-65 years , with the metabolic syndrome were recruited to participate in this study using a parallel group design .
+RESULTS	After a 4-week run-in period , participants were randomly assigned to a 12-week diet based on whole-grain products ( whole-grain group ) or refined cereal products ( control group ) .
+RESULTS	Blood samples were taken at the beginning and end of the intervention , both fasting and 3 h after a lunch , to measure biochemical parameters .
+RESULTS	Generalized linear model ( GLM ) was used for between-group comparisons .
+RESULTS	Overall , 26 participants in the control group and 28 in the whole-grain group completed the dietary intervention .
+RESULTS	Drop-outs ( five in the control and two in the whole-grain group ) did not affect randomization .
+RESULTS	After 12 weeks , postprandial insulin and triglyceride responses ( evaluated as average change 2 and 3 h after the meal , respectively ) decreased by 29 % and 43 % , respectively , in the whole-grain group compared to the run-in period .
+RESULTS	Postprandial insulin and triglyceride responses were significantly lower at the end of the intervention in the whole-grain group compared to the control group ( p = 0.04 and p = 0.05 ; respectively ) whereas there was no change in postprandial response of glucose and other parameters evaluated .
+CONCLUSIONS	A twelve week whole-grain cereal-based diet , compared to refined cereals , reduced postprandial insulin and triglycerides responses .
+CONCLUSIONS	This finding may have implications for type 2 diabetes risk and cardiovascular disease .
+

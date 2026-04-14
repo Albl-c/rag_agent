@@ -1,0 +1,15 @@
+24755125
+OBJECTIVE	Tamsulosin and mirabegron may be used concomitantly in patients with lower urinary tract symptoms .
+OBJECTIVE	Since alpha1-adrenoceptor antagonists are associated with cardiovascular side effects , potential pharmacokinetic and cardiovascular interactions were evaluated .
+METHODS	This was an open-label , randomized , 2-arm , 2-sequence study in 48 healthy men ( 24/arm ) aged 44 - 72 years .
+METHODS	In arm 1 , subjects received single-dose tamsulosin hydrochloride modified release capsules ( 0.4 mg ) alone and with steady-state mirabegron oral controlled absorption system tablets ( 100 mg once daily ) in random sequence .
+METHODS	In arm 2 , subjects received single-dose mirabegron alone and with steady-state tamsulosin .
+METHODS	Samples for mirabegron and tamsulosin plasma concentrations were collected .
+METHODS	Blood pressure ( BP ) and pulse rate ( PR ) were measured and orthostatic stress tests were performed .
+RESULTS	Mirabegron increased tamsulosin C ( max ) to 159 % ( 90 % confidence interval ( CI ) 143 - 177 % ) , AUC ( ) to 161 % ( 90 % CI 149 - 173 % ) , and t ( 1/2 ) to 116 % .
+RESULTS	Tamsulosin reduced mirabegron C ( max ) to 85 % ( 90 % CI 71 - 103 % ) and AUC ( ) to 84 % ( 90 % CI 74 - 95 % ) without effect on t1/2 .
+RESULTS	Mirabegron and tamsulosin co-treatment caused no statistically significant changes ( p > 0.05 ) in PR or systolic BP versus mono-treatment up to 12 hours post-dose .
+RESULTS	Mean diastolic BP decreases of -2.1 ( 95 % CI -4.1 , -0.1 ) to -4.2 ( -7.5 , -0.9 ) mmHg in arm 1 and -3.0 ( -5.7 , -0.3 ) to -4.2 ( -7.4 , -1.0 ) mmHg in arm 2 were observed , statistically significant ( p < 0.05 ) at several time points , not accompanied by orthostatic symptoms or increases in positive orthostatic stress tests .
+RESULTS	Adverse and orthostatic events were balanced across treatments .
+CONCLUSIONS	The observed pharmacokinetic interactions upon add-on of mirabegron or tamsulosin to existing tamsulosin or mirabegron therapy did not cause clinically relevant changes in cardiovascular safety or safety profiles .
+

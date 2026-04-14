@@ -1,0 +1,11 @@
+24733807
+OBJECTIVE	Empiric antibiotic monotherapy is considered the standard of treatment for febrile neutropenic patients with cancer , but this approach may be inadequate because of the increasing prevalence of infections caused by multidrug resistant ( MDR ) bacteria .
+METHODS	In this multicenter , open-label , randomized , superiority trial , adult , febrile , high-risk neutropenic patients ( FhrNPs ) with hematologic malignancies were randomly assigned to receive piperacillin/tazobactam ( 4.5 g intravenously every 8 hours ) with or without tigecycline ( 50 mg intravenously every 12 hours ; loading dose 100 mg ) .
+METHODS	The primary end point was resolution of febrile episode without modifications of the initial allocated treatment .
+RESULTS	Three hundred ninety FhrNPs were enrolled ( combination/monotherapy , 187/203 ) and were included in the intention-to-treat analysis ( ITTA ) .
+RESULTS	The ITTA revealed a successful outcome in 67.9 % v 44.3 % of patients who had received combination therapy and monotherapy , respectively ( 127/187 v 90/203 ; absolute difference in risk ( adr ) , 23.6 % ; 95 % CI , 14 % to 33 % ; P < .001 ) .
+RESULTS	The combination regimen proved better than monotherapy in bacteremias ( adr , 32.8 % ; 95 % CI , 19 % to 46 % ; P < .001 ) and in clinically documented infections ( adr , 36 % ; 95 % CI , 9 % to 64 % ; P < .01 ) .
+RESULTS	Mortality and number of adverse effects were limited and similar in the two groups .
+CONCLUSIONS	The combination of piperacillin/tazobactam and tigecycline is safe , well tolerated , and more effective than piperacillin/tazobactam alone in febrile , high-risk , neutropenic hematologic patients with cancer .
+CONCLUSIONS	In epidemiologic settings characterized by a high prevalence of infections because of MDR microorganisms , this combination could be considered as one of the first-line empiric antibiotic therapies .
+

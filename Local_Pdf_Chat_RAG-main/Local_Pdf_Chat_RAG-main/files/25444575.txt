@@ -1,0 +1,13 @@
+25444575
+BACKGROUND	Mild cognitive impairment ( MCI ) increases dementia risk with no pharmacologic treatment available .
+METHODS	The Study of Mental and Resistance Training was a randomized , double-blind , double-sham controlled trial of adults with MCI .
+METHODS	Participants were randomized to 2 supervised interventions : active or sham physical training ( high intensity progressive resistance training vs seated calisthenics ) plus active or sham cognitive training ( computerized , multidomain cognitive training vs watching videos/quizzes ) , 2-3 days/week for 6 months with 18-month follow-up .
+METHODS	Primary outcomes were global cognitive function ( Alzheimer 's Disease Assessment Scale-cognitive subscale ; ADAS-Cog ) and functional independence ( Bayer Activities of Daily Living ) .
+METHODS	Secondary outcomes included executive function , memory , and speed/attention tests , and cognitive domain scores .
+RESULTS	One hundred adults with MCI [ 70.1 ( 6.7 ) years ; 68 % women ] were enrolled and analyzed .
+RESULTS	Resistance training significantly improved the primary outcome ADAS-Cog ; [ relative effect size ( 95 % confidence interval ) -0.33 ( -0.73 , 0.06 ) ; P < .05 ] at 6 months and executive function ( Wechsler Adult Intelligence Scale Matrices ; P = .016 ) across 18 months .
+RESULTS	Normal ADAS-Cog scores occurred in 48 % ( 24/49 ) after resistance training vs 27 % ( 14/51 ) without resistance training [ P < .03 ; odds ratio ( 95 % confidence interval ) 3.50 ( 1.18 , 10.48 ) ] .
+RESULTS	Cognitive training only attenuated decline in Memory Domain at 6 months ( P < .02 ) .
+RESULTS	Resistance training 18-month benefit was 74 % higher ( P = .02 ) for Executive Domain compared with combined training [ z-score change = 0.42 ( 0.22 , 0.63 ) resistance training vs 0.11 ( -0.60 , 0.28 ) combined ] and 48 % higher ( P < .04 ) for Global Domain [ z-score change = .0.45 ( 0.29 , 0.61 ) resistance training vs 0.23 ( 0.10 , 0.36 ) combined ] .
+CONCLUSIONS	Resistance training significantly improved global cognitive function , with maintenance of executive and global benefits over 18 months .
+

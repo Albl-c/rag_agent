@@ -1,0 +1,11 @@
+25051390
+OBJECTIVE	The objective of this study is to determine the effects of a caffeine-containing energy drink on female volleyball players ' performance .
+METHODS	Thirteen elite female volleyball players ingested 3 mgkg of caffeine with an energy drink or the same drink without caffeine ( placebo drink ) in a double-blind and randomized study .
+METHODS	Then , participants performed the following : standing spike , jumping spike , spike jump , blocking jump , squat jump , countermovement jump , manual dynamometry , and the agility t-test .
+METHODS	A simulated volleyball game was played , videotaped , and notated afterward .
+RESULTS	In comparison to the placebo drink , the ingestion of the caffeinated energy drink increased the ball velocity in the standing spike ( 19.2 2.1 vs 19.7 1.9 ms , P = 0.023 ) and in the jumping spike ( 17.9 2.2 vs 18.8 2.2 ms , P = 0.038 ) and the jump height in the squat jump ( 28.1 3.2 vs 29.4 3.6 cm , P = 0.028 ) , countermovement jump ( 32.0 4.6 vs 33.1 4.5 cm , P = 0.018 ) , spike jump ( 43.3 4.7 vs 44.4 5.0 cm , P = 0.025 ) , and block jump ( 35.2 5.1 vs 36.1 5.1 cm , P = 0.044 ) .
+RESULTS	Furthermore , the caffeinated energy drink decreased the time needed to complete the agility t-test ( 11.1 0.5 vs 10.9 0.3 s , P = 0.036 ) .
+RESULTS	During the game , the volleyball actions categorized as successful were more frequent with the caffeinated energy drink ( 34 % 9 % vs 45 % 9 % , P < 0.001 ) , whereas imprecise actions decreased ( 28 % 7 % vs 14 % 9 % , P < 0.001 ) when compared with the placebo drink .
+CONCLUSIONS	Commercially available energy drinks can significantly improve physical performance in female volleyball players .
+CONCLUSIONS	Increased physical performance led to improved accuracy during an actual volleyball match .
+

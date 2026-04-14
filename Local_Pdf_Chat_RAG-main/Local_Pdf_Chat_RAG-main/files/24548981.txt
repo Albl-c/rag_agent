@@ -1,0 +1,13 @@
+24548981
+OBJECTIVE	To characterize the safety , tolerability , pharmacokinetics ( PK ) and dose proportionality of mipomersen after single subcutaneous ( SC ) administration to Japanese healthy subjects ; and to compare the PK profiles of Japanese and Western subjects .
+METHODS	20 healthy first-generation Japanese male subjects were enrolled into one of three treatment cohorts ( 50 , 100 and 200 mg SC ) in a dose-escalation design .
+METHODS	Within each cohort , subjects were randomized in a 4 : 1 ratio to receive mipomersen or placebo .
+RESULTS	Mipomersen was absorbed rapidly after SC administration ; median tmax varied between 2 and 3 hours .
+RESULTS	After reaching peak levels , plasma concentrations of mipomersen decayed multiphasically with an initial distribution t1/2 in several hours and a terminal t1/2 of 261 - 393 hours .
+RESULTS	Mean Cmax increased in a dose-linear manner while all mean AUC from time 0 to different cut points increased slightly more than dose proportionally .
+RESULTS	Although mean terminal t1/2 varied in the dose range tested , it did not show dose-dependence .
+RESULTS	The PK profiles of mipomersen in Japanese subjects are similar to those observed in Western subjects .
+RESULTS	A single SC dose of 50 mg , 100 mg and 200 mg mipomersen was well tolerated by male Japanese subjects .
+CONCLUSIONS	Single SC doses of 50 - 200 mg were safe and well tolerated when administered to Japanese subjects .
+CONCLUSIONS	Comparison of PK between Japanese and Western subjects does not support any need for dose adjustment in Japanese population in future clinical development .
+

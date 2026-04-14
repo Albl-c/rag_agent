@@ -1,0 +1,19 @@
+24803644
+OBJECTIVE	To investigate the effect of virtual reality ( VR ) rehabilitation on upper extremity motor performance of patients with early stroke .
+METHODS	Pilot randomized controlled trial .
+METHODS	Rehabilitation wards .
+METHODS	Twenty three adults with stroke ( mean age ( SD ) = 58.35 ( 13.45 ) years and mean time since stroke ( SD ) = 16.30 ( 7.44 ) days ) .
+METHODS	Participants were randomly assigned to VR group ( n = 11 ) or control group ( n = 12 ) .
+METHODS	VR group received nine 30 minutes upper extremity VR therapy in standing ( five weekdays in two weeks ) plus conventional therapy , which included physical and occupational therapy .
+METHODS	Control group received only conventional therapy , which was comparable to total training time received by VR group ( mean training hours ( SD ) : VR = 17.07 ( 2.86 ) ; control = 15.50 ( 2.79 ) ) .
+METHODS	The main outcome measure was the Fugl-Meyer Assessment ( FMA ) .
+METHODS	Secondary outcomes included Action Research Arm Test , Motor Activity Log and Functional Independence Measure .
+METHODS	Results were taken at baseline , post intervention and 1-month post intervention .
+METHODS	Participants ' feedback and adverse effects were recorded .
+RESULTS	All participants improved in FMA scores ( mean change ( SD ) = 11.65 ( 8.56 ) , P < .001 ) .
+RESULTS	These effects were sustained at one month after intervention ( mean ( SD ) change from baseline = 18.67 ( 13.26 ) , P < .001 ) .
+RESULTS	All other outcome measures showed similar patterns .
+RESULTS	There were no significant differences in improvement between both groups .
+RESULTS	Majority of the participants found VR training useful and enjoyable , with no serious adverse effects reported .
+CONCLUSIONS	Although additional VR training was not superior to conventional therapy alone , this study demonstrates the feasibility of VR training in early stroke .
+

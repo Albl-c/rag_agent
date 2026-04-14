@@ -1,0 +1,12 @@
+24937907
+OBJECTIVE	The main aim of the study was to evaluate the effect on subjects ' temperature measurement readings when using the infrared tympanic thermometer after correct earphone placement and use , with or without music transmission through the earphone .
+METHODS	A comparative study design was adopted .
+METHODS	A sample of 39 healthy people was randomly divided into three groups .
+METHODS	Subjects in all groups used an earphone that had been correctly placed in the right ear only : Group 1 : listened to heavy metal music through the earphone ( 13 participants ) ; Group 2 : listened to classical music through the earphone ( 13 participants ) ; Group 3 : no music or sound was transmitted through the earphone ( 13 participants ) .
+METHODS	Average differences ( CI 95 % ) and Pearson correlations for the temperature measured in the right ear , which was exposed to the different independent variables , and the left ear which was not exposed , were calculated at different times : ( 1 ) after 10 minutes compared to the baseline measurement ; ( 2 ) after 30 minutes compared to the 10 minutes measurement ; and ( 3 ) after 30 minutes compared to the baseline measurement .
+RESULTS	The inter-ear temperature correlation at the baseline was Pearson r .801 ( p = .01 ) .
+RESULTS	There was a significant decrease in the correlations between right and left ear temperatures in Group 1 and in Group 3 which was demonstrated after 10 minutes of earphone use , and reached critical values after 30 minutes of use in all groups .
+RESULTS	The average warmth in the right ear , as perceived by participants after 20 minutes , was reported .
+RESULTS	Using the Numerical Rating Score the average was 3.3 + / - 1.3 for Group 1 , for Group 2 was 1.9 + / - 1.3 and for Group 3 was 3.3 + / - 1.2 ( p = .05 ) .
+CONCLUSIONS	Within the limitations of the study , which involved a limited number of healthy people the results show that it is best to not measure tympanic temperature in an ear that has very recently had an earphone in place .
+

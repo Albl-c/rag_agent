@@ -1,0 +1,12 @@
+24980066
+OBJECTIVE	Whether there are age-related changes in slow wave activity ( SWA ) rise time , a marker of homeostatic sleep drive , is unknown .
+OBJECTIVE	Additionally , although sleep medication use is highest among older adults , the quantitative electroencephalographic ( EEG ) profile of the most commonly prescribed sleep medication , zolpidem , in older adults is also unknown .
+OBJECTIVE	We therefore quantified age-related and regional brain differences in sleep EEG with and without zolpidem .
+METHODS	Thirteen healthy young adults aged 21.92.2 years and 12 healthy older adults aged 67.44.2 years participated in a randomized , double-blind , within-subject study that compared placebo to 5mg zolpidem .
+RESULTS	Older adults showed a smaller rise in SWA and zolpidem increased age-related differences in SWA rise time such that age differences were observed earlier after latency to persistent sleep .
+RESULTS	Age-related differences in EEG power differed by brain region .
+RESULTS	Older , but not young , adults showed zolpidem-dependent reductions in theta and alpha frequencies .
+RESULTS	Zolpidem decreased stage 1 in older adults and did not alter other age-related sleep architecture parameters .
+CONCLUSIONS	SWA findings provide additional support for reduced homeostatic sleep drive or reduced ability to respond to sleep drive with age .
+CONCLUSIONS	Consequences of reduced power in theta and alpha frequencies in older adults remain to be elucidated .
+

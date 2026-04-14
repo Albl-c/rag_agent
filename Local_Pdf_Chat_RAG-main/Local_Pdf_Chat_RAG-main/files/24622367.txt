@@ -1,0 +1,19 @@
+24622367
+BACKGROUND	Type 2 diabetes can often be prevented by lifestyle modification ; however , successful lifestyle intervention programmes are labour intensive .
+BACKGROUND	Mobile phone messaging is an inexpensive alternative way to deliver educational and motivational advice about lifestyle modification .
+BACKGROUND	We aimed to assess whether mobile phone messaging that encouraged lifestyle change could reduce incident type 2 diabetes in Indian Asian men with impaired glucose tolerance .
+METHODS	We did a prospective , parallel-group , randomised controlled trial between Aug 10 , 2009 , and Nov 30 , 2012 , at ten sites in southeast India .
+METHODS	Working Indian men ( aged 35-55 years ) with impaired glucose tolerance were randomly assigned ( 1:1 ) with a computer-generated randomisation sequence to a mobile phone messaging intervention or standard care ( control group ) .
+METHODS	Participants in the intervention group received frequent mobile phone messages compared with controls who received standard lifestyle modification advice at baseline only .
+METHODS	Field staff and participants were , by necessity , not masked to study group assignment , but allocation was concealed from laboratory personnel as well as principal and co-investigators .
+METHODS	The primary outcome was incidence of type 2 diabetes , analysed by intention to treat .
+METHODS	This trial is registered with ClinicalTrials.gov , number NCT00819455 .
+RESULTS	We assessed 8741 participants for eligibility .
+RESULTS	537 patients were randomly assigned to either the mobile phone messaging intervention ( n = 271 ) or standard care ( n = 266 ) .
+RESULTS	The cumulative incidence of type 2 diabetes was lower in those who received mobile phone messages than in controls : 50 ( 18 % ) participants in the intervention group developed type 2 diabetes compared with 73 ( 27 % ) in the control group ( hazard ratio 064 , 95 % CI 045-092 ; p = 0015 ) .
+RESULTS	The number needed to treat to prevent one case of type 2 diabetes was 11 ( 95 % CI 6-55 ) .
+RESULTS	One patient in the control group died suddenly at the end of the first year .
+RESULTS	We recorded no other serious adverse events .
+CONCLUSIONS	Mobile phone messaging is an effective and acceptable method to deliver advice and support towards lifestyle modification to prevent type 2 diabetes in men at high risk .
+BACKGROUND	The UK India Education and Research Initiative , the World Diabetes Foundation .
+

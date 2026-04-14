@@ -1,0 +1,13 @@
+24720558
+BACKGROUND	Patients with obstructive sleep apnea ( OSA ) experience respiratory events with greater frequency and severity while in the supine sleeping position .
+BACKGROUND	Postural modification devices ( PMDs ) prevent supine sleep , although there is a paucity of guidance to help clinicians decide when to use PMDs for their patients .
+BACKGROUND	In order for PMDs to treat OSA effectively , patients must experience respiratory events in the supine sleeping position consistently from night to night and must have a low nonsupine apnea and hypopnea index ( AHINS ) .
+OBJECTIVE	To document the repeatability of traditionally defined supine predominant OSA on consecutive polysomnography , to determine whether the consistency of the supine-predominant phenotype can be improved by altering the definition of it , and to determine whether a low AHINS is repeatable from night to night .
+METHODS	We recruited 75 patients for polysomnography on two separate nights .
+METHODS	Patients were classified as having supine OSA on each night on the basis of traditional and novel definitions , and the classification systems used were compared on the basis of agreement from night to night .
+RESULTS	The definition of supine OSA with the highest level of agreement from night to night incorporates a supine AHI ( AHIS ) to AHINS ratio 4:1 .
+RESULTS	In addition , agreement exists for males , but there is poor agreement for female patients , regardless of the definition applied .
+RESULTS	An AHINS < 10 events/hour is highly repeatable from night to night .
+CONCLUSIONS	Males with an AHIS : AHINS ratio 4:1 and an AHINS < 10 events/hour represent a consistent supine-predominant OSA phenotype from night to night .
+CONCLUSIONS	This patient group is likely to benefit from treatment with PMD .
+

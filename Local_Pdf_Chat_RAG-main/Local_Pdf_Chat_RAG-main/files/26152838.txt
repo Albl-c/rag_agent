@@ -1,0 +1,14 @@
+26152838
+OBJECTIVE	Determine if oral treatment with a vasoconstrictor decreases the blood to middle ear exchange rate of the perfusion-limited gas , nitrous oxide ( N2O ) .
+METHODS	Randomized , double-blind , crossover study .
+METHODS	Ten adult subjects with and 10 without past middle ear disease completed paired experimental sessions , identical except for oral treatment with either pseudoephedrine hydrochloride or lactose placebo .
+METHODS	At each session , subjects were fitted with a nonrebreathing mask and breathed room air for 20 minutes ( acclimation period ) , 50 % N2O :50 % O2 for 20 minutes ( experimental period ) , and 100 % O2 for 10 minutes ( recovery period ) .
+METHODS	Throughout , heart rate , blood pressure , and O2 saturation were monitored , and bilateral middle ear pressures were recorded by tympanometry every minute .
+METHODS	The primary outcome was the slope of the middle ear pressure-time function for the experimental period , which estimates the volume N2O exchange rate .
+METHODS	Using repeated measures analysis of variance , the effects of group ( disease history ) , treatment ( active vs. placebo ) , and period ( 1 vs. 2 ) on the recorded vital signs , and of group , treatment , and ear ( left/right ) on the middle ear pressure-time slope were evaluated for statistical significance .
+RESULTS	Statistically significant effects of period on O2 saturation ( period 2 > period 1 ) and of treatment on heart rate ( active > placebo ) were documented .
+RESULTS	Only treatment was statistically significant for the middle ear pressure-time slope , with a shallower slope characterizing the active treatment session .
+CONCLUSIONS	The volume exchange rate across the middle ear mucosa of perfusion-limited gases can be modulated pharmacologically .
+CONCLUSIONS	Theoretically , similar drugs can be used to reduce the requisite eustachian tube opening efficiency for adequate middle ear pressure regulation .
+METHODS	1b .
+

@@ -1,0 +1,14 @@
+25179672
+BACKGROUND	Alcohol misuse among military service members from the recent conflicts in Iraq and Afghanistan is over two times higher compared to misuse in the civilian population .
+BACKGROUND	Unfortunately , in addition to experiencing personal consequences from alcohol misuse , partners and family members of alcohol-misusing service members also suffer in negative ways from their loved one 's drinking .
+BACKGROUND	These family members represent important catalysts for helping their loved ones identify problem drinking and overcoming the barriers to seeking care .
+BACKGROUND	This paper describes the protocol to a pilot study evaluating a 4-session , web-based intervention ( WBI ) for concerned partners ( CPs ) of service members with alcohol misuse .
+METHODS	The WBI will be adapted from the Community Reinforcement and Family Training ( CRAFT ) intervention .
+METHODS	In the first phase , we will develop and beta-test the WBI with 15-20 CPs .
+METHODS	In the second phase , we will randomize CPs to WBI ( n = 50 ) or to delayed-WBI ( n = 50 ) and evaluate the impact of the WBI on CPs ' perceptions of service member help-seeking and drinking , as well as the CP 's well-being and relationship satisfaction 3months after the intervention .
+METHODS	In the third phase , we will recruit 15-20 service members whose partners have completed the study .
+METHODS	We will interview the service members to learn how the CP-focused WBI affected them and to assess whether they would be receptive to a follow-on WBI module to help them .
+CONCLUSIONS	This project has the potential to benefit a large population of military service members who may be disproportionately affected by recent conflicts and whose drinking misuse would otherwise go undetected and untreated .
+CONCLUSIONS	It also develops a new prevention model that does not rely on service members or partners attending a hospital or clinical facility to access care .
+BACKGROUND	NCT02073825 .
+

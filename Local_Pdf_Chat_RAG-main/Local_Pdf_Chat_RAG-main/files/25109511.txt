@@ -1,0 +1,17 @@
+25109511
+BACKGROUND	Tianeptine is widely used for controlling depressive symptoms .
+OBJECTIVE	The aim of this study was to evaluate the bioequivalence between the generic ( test ) formulation containing tianeptine sodium 12.5 mg and the branded ( reference ) formulation Stablon with regard to their pharmacokinetic profiles .
+METHODS	A randomized , two-sequence , two-treatment crossover study was conducted in healthy male Korean volunteers .
+METHODS	All of the enrolled subjects were allocated to one of two sequence groups .
+METHODS	They were administered a tablet of the test or reference formulation and then administered the alternative formulation after a 7-day washout period .
+METHODS	The blood samples were taken before dosing and at 0.33 , 0.67 , 1 , 1.5 , 2 , 2.5 , 3 , 3.5 , 4 , 6 , 8 , and 10 hours after dosing .
+METHODS	The plasma concentrations of tianeptine were analyzed using high-performance liquid chromatography with tandem mass spectrometer .
+METHODS	Tolerability was assessed throughout the study .
+RESULTS	The pharmacokinetic parameters were assessed in the 40 subjects who completed the study .
+RESULTS	The tianeptine C ( max ) for the test formulation was 283.13 57.58 ng/mL ( mean SD ) and that for the reference formulation was 272.50 59.00 ng/mL .
+RESULTS	The AUC ( last ) of tianeptine was 803.24 180.94 ngh/mL for the test formulation and 792.27 180.93 ngh/mL for the reference formulation .
+RESULTS	The geometric mean ratio ( % ) of the test to reference formulation was 104.04 ( 90 % CI , 99.66 - 108.61 ) for C ( max ) and 101.30 ( 98.01 - 104.71 ) for AUC ( last ) .
+RESULTS	Clinically significant adverse events were not reported during the study .
+CONCLUSIONS	The test and reference formulations of tianeptine were bioequivalent with regard to the pharmacokinetic parameters of Cmax and AUC ( last ) .
+CONCLUSIONS	Both formulations were tolerated by all of the participants .
+

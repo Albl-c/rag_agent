@@ -1,0 +1,17 @@
+25516462
+OBJECTIVE	To compare two electrosurgical techniques , straight-wire excision of transformation zone ( SWETZ ) with large loop excision of transformation zone , as a cone procedure ( LLETZ-cone ) , for the treatment of cervical intraepithelial neoplasia ( CIN ) , when disease is present at the cervical canal .
+METHODS	Randomised controlled trial .
+METHODS	Two public hospitals , one in Rio de Janeiro , Brazil and one in Dublin , Ireland .
+METHODS	One hundred and three women with indication to treat CIN located at cervical canal .
+METHODS	Women were randomised to receive LLETZ-cone or SWETZ .
+RESULTS	Main outcome was the incidence of complete excision of disease at endocervical margin of the surgical specimen .
+RESULTS	Secondary outcomes were complete excision at ectocervical and stromal margins , time to complete the procedure , specimen fragmentation , blood loss and death after 1 year .
+RESULTS	Fifty-two women were allocated to LLETZ-cone and 51 to SWETZ .
+RESULTS	Ten women were lost for main outcome because of damaged specimens .
+RESULTS	Forty-two women in the LLETZ-cone group had free endocervical margin versus 43 women in the SWETZ group ( relative risk 1.04 , 95 % confidence interval [ 95 % CI ] 0.87-1 .25 ; P = 0.64 ) .
+RESULTS	For secondary outcomes related to margins , we observed a relative risk of 1.15 ( 95 % CI 0.95-1 .39 ; P = 0.15 ) for ectocervical free margin .
+RESULTS	For free stromal margin , the relative risk was 1.07 ( 95 % CI 0.89-1 .29 ; P = 0.47 ) .
+RESULTS	No death was observed .
+CONCLUSIONS	This study was inconclusive ; SWETZ and LLETZ-cone were equally effective to treat endocervical disease , with no difference in protecting against margin involvement .
+CONCLUSIONS	Higher , but not severe , blood loss and longer surgical time were observed in the SWETZ group .
+

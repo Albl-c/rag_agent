@@ -1,0 +1,10 @@
+24392223
+BACKGROUND	The established interventions for weight loss are resource intensive which can create barriers for full participation and ultimate translation .
+BACKGROUND	The major goal of this pilot study was to evaluate the feasibility , acceptability , and preliminary efficacy of theoretically based behavioral interventions delivered by smartphone technology .
+METHODS	The study randomized 68 obese adults to receive one of four interventions for six months : ( 1 ) intensive counseling intervention , ( 2 ) intensive counseling plus smartphone intervention , ( 3 ) a less intensive counseling plus smartphone intervention , and ( 4 ) smartphone intervention only .
+METHODS	The outcome measures of weight , BMI , waist circumference , and self-reported dietary intake and physical activity were assessed at baseline and six months .
+RESULTS	The sample was 78 % female and 49 % African American , with an average age of 45 years , and average BMI of 34.3 kg/m ( 2 ) .
+RESULTS	There were trends for differences in weight loss among the four intervention groups .
+RESULTS	Participants in the intensive counseling plus self-monitoring smartphone group and less intensive counseling plus self-monitoring smartphone group tended to lose more weight than other groups ( 5.4 kg and 3.3 kg , resp . )
+CONCLUSIONS	The results of this pilot trial of a weight loss intervention provide preliminary support for using a smartphone application for self-monitoring as an adjunct to behavioral counseling .
+

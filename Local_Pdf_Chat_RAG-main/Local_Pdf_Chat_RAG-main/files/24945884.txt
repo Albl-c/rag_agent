@@ -1,0 +1,11 @@
+24945884
+OBJECTIVE	To determine if a health communication intervention targeting parents of high-risk , urban , minority children with asthma could ( i ) improve parental perceptions of connectedness to and communication with their child 's primary care providers ( PCP ) and ( ii ) decrease reliance on emergency departments ( EDs ) and other urgent care services for their child 's asthma-related care .
+METHODS	The design was a single blind , parallel groups , randomized controlled trial .
+METHODS	Parents were recruited from an ED-based asthma clinic serving primarily low-income , minority children in Washington , DC .
+METHODS	The intervention involved face-to-face education on effective communication followed by a single booster call .
+METHODS	Standardized instruments were administered to assess primary care connectedness and healthcare utilization at baseline and 2 - and 6-months post-enrollment .
+RESULTS	A total of 150 parents of children 1-12 years old were randomized ( 77 intervention and 73 usual care ) , and 137 ( 91 % ) were successfully followed for six months .
+RESULTS	Only at the two-month follow-up time-point , parents in the intervention group were significantly more likely to identify a PCP as the main source of their child 's asthma care ( adjusted odds ratio : 12.6 , 95 % confidence interval : 1.1-142 .1 ) and to report a significant reduction in ED visits for asthma care ( adjusted incidence rate ratio : 0.3 , 95 % confidence interval : 0.1-0 .8 ) .
+RESULTS	There was no significant effect on parent communication self-efficacy or number of PCP visits .
+CONCLUSIONS	A brief , in-person health communication intervention for parents of high-risk children with asthma resulted in improved identification of PCPs as the usual source of asthma care and reduced reliance on EDs for asthma care , albeit only for two months post-intervention .
+

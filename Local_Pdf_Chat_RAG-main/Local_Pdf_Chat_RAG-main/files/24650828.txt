@@ -1,0 +1,13 @@
+24650828
+OBJECTIVE	Several definitions of treatment response have been proposed for alcohol clinical trials ( e.g. , abstinence and no heavy drinking ) .
+OBJECTIVE	However , each of these outcomes allows only one definition of successful response .
+OBJECTIVE	In contrast , the cumulative proportion of responders analysis ( CPRA ) includes all of the possible drinking response cutoff points , providing a more complete picture of the therapeutic effects of a treatment .
+OBJECTIVE	CPRA has been used to examine the efficacy of analgesics but not alcohol pharmacotherapy .
+OBJECTIVE	To demonstrate its potential utility , we conducted CPRA in two large alcohol treatment trials : the COMBINE ( Combined Pharmacotherapies and Behavioral Interventions for Alcohol Dependence ) trial ( naltrexone ) and a multisite topiramate trial .
+OBJECTIVE	CPRA was used to demonstrate the efficacy of naltrexone and topiramate on continuous measures of in-treatment drinking-heavy drinking days and drinks per day-and their reductions from pretreatment .
+METHODS	All possible cutoff points were portrayed for each measure .
+METHODS	We provide graphs to illustrate the effects of the active medications compared with placebo and examined them statistically over a number of salient drinking outcomes to evaluate their efficacy .
+RESULTS	Treatment group responder curves were not parallel across the entire range of cutoff points ; rather , they separated only at lower levels of drinking .
+RESULTS	In general , effect sizes increased by 0.10-0 .15 when going from the lowest drinking level cutoff ( i.e. , abstinence and no heavy drinking ) to the cutoff associated with the maximal treatment effect .
+CONCLUSIONS	CPRA may be useful in designing subsequent trials and helping to illustrate for treatment providers the likelihood of treatment success given various definitions of a positive response .
+

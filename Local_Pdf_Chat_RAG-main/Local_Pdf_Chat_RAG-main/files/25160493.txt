@@ -1,0 +1,14 @@
+25160493
+OBJECTIVE	Calcium aluminosilicate clay ( CASAD ) is a naturally occurring clay that serves as a cation exchange absorbent .
+OBJECTIVE	We hypothesized that oral administration of CASAD would reduce the rate of grade 3/4 diarrhea associated with irinotecan use for metastatic colorectal cancer ( CRC ) by adsorbing the SN-38 metabolite .
+METHODS	Patients receiving irinotecan-based chemotherapy were randomized equally between CASAD and placebo arms in this multicenter trial in order to assess differences in the proportions of patients with grade 3/4 diarrhea within 6 weeks .
+METHODS	Additionally , we compared symptom severity between the two arms using the M.D. Anderson Symptom Inventory .
+RESULTS	Between May 2009 and May 2012 , 100 patients were enrolled .
+RESULTS	In evaluable patients , 7 of 43 ( 16 % ) on the CASAD arm compared to 3 of 32 ( 9 % ) on the placebo arm experienced grade 3/4 diarrhea ( P = 0.70 ) .
+RESULTS	The rate of any diarrhea among all patients was similar ( CASAD arm , 64 % vs. placebo arm , 70 % ) .
+RESULTS	The rate of study dropout was 14 % in the CASAD arm and 38 % in the placebo arm ( P = 0.01 ) .
+RESULTS	No differences were found in symptom severity , individual symptom items , and in serious adverse events between the two arms .
+CONCLUSIONS	Compared to placebo , CASAD use was safe but ineffective in preventing diarrhea in metastatic CRC patients treated with irinotecan-containing chemotherapy regimens .
+CONCLUSIONS	There were no distinct signals in terms of patient symptoms between arms , but there was significantly more patient dropout in the placebo arm .
+CONCLUSIONS	Future CASAD trials will focus on the active treatment of diarrhea .
+

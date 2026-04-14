@@ -1,0 +1,19 @@
+24797294
+OBJECTIVE	Antimicrobial treatment reduces the symptoms of acute otitis media ( AOM ) .
+OBJECTIVE	The effect of antimicrobial treatment on the duration of middle ear effusion ( MEE ) and concomitant hearing impairment is not known .
+OBJECTIVE	To determine whether the antimicrobial treatment of AOM reduces the duration of MEE .
+METHODS	This randomized , double-blind , placebo-controlled trial involved a total of 84 children with AOM between 6 months and 15 years of age .
+METHODS	Participants were recruited from September 14 , 1999 , to January 4 , 2000 ; October 10 , 2005 , to December 16 , 2005 ; and September 22 , 2009 , to June 4 , 2012 , from among children attending an AOM prevention trial and children visiting local outpatient clinics in Oulu , Finland .
+METHODS	Children were randomly allocated to receive either 40 mg/kg of amoxicillin-clavulanate or a placebo mixture per day for 7 days .
+METHODS	The primary outcome measure was the time to the disappearance of MEE as defined by a normal tympanogram finding ( A curve ) from both ears on 2 consecutive measurement days .
+METHODS	Parents performed daily tympanometry at home .
+METHODS	The study physician performed tympanometry and otoscopy at study entry , after 3 and 7 days , and then weekly until both ears were healthy .
+METHODS	The main secondary outcome measures were the time to normal otoscopy findings and the proportion of children without persistent MEE at 14 days and 2 months .
+RESULTS	Middle ear effusion disappeared 2.0 weeks ( 13.7 days ) earlier ( P = .02 ) in the antimicrobial group ( mean time , 2.7 weeks ; 95 % CI , 1.7-3 .7 ) than in the placebo group ( 4.7 weeks ; 95 % CI , 3.6-5 .7 ) .
+RESULTS	Normal otoscopy findings were observed 1.4 weeks sooner in the antimicrobial group than in the placebo group ( P = .02 ) .
+RESULTS	On day 14 , 69 % of children in the antimicrobial group and 38 % in the placebo group had normal tympanometry findings ( number needed to treat , 3.2 ; 95 % CI , 2.0-10 .5 ) .
+RESULTS	On day 60 , 2 children ( 5 % ) in the antimicrobial group and 10 children ( 24 % ) in the placebo group had persistent MEE ( P = .01 ) .
+CONCLUSIONS	Antimicrobial treatment effectively reduced the duration of MEE and possible concomitant hearing impairment in children with AOM .
+CONCLUSIONS	Antimicrobial treatment also reduced the risk for persistent MEE .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01244581 .
+

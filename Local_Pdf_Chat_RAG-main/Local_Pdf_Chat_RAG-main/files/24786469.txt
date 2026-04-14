@@ -1,0 +1,13 @@
+24786469
+OBJECTIVE	To compare the effect of heated , humidified , high-flow nasal cannula ( HHHFNC ) and nasal continuous positive airways pressure ( NCPAP ) on lung function and mechanics in preterm infants with respiratory distress syndrome ( RDS ) at the same level of retropharyngeal pressure ( Prp ) .
+METHODS	Randomised crossover trial .
+METHODS	Neonatal intensive care unit , Ospedale Maggiore Policlinico , Milan , Italy .
+METHODS	20 preterm infants ( gestational age : 311 wks ) with mild-moderate RDS requiring non-invasive respiratory support within 96 h after birth .
+METHODS	Infants were exposed to a randomised sequence of NCPAP and HHHFNC at different settings ( 2 , 4 and 6 cmHO for NCPAP and 2 , 4 , 6 L/min for HHHFNC ) to enable comparison at the same level of Prp .
+METHODS	Tidal volume by respiratory inductance plethysmography , pleural pressure estimated by oesophageal pressure , and gas exchange were evaluated at each setting and used to compute breathing pattern parameters , lung mechanics and work of breathing ( WOB ) .
+RESULTS	A poor linear regression between flow and Prp was found during HHHFNC ( Prp = 0.3 +0.7 * flow ; r = 0.37 ) .
+RESULTS	Only in 15 out of 20 infants it was possible to compare HHHFNC and NCPAP at a Prp of 2 and 4 cmHO .
+RESULTS	No statistically significant differences were found in breathing pattern , gas exchange , lung mechanics and total WOB .
+RESULTS	Resistive WOB in the upper airways was slightly but significantly higher during HHHFNC ( 0.65 ( 0.49 ; 1.09 ) vs 1.57 ( 0.85 ; 2.09 ) cmHO median ( IQR ) ) .
+CONCLUSIONS	Despite differing mechanisms for generating positive airway pressure , when compared at the same Prp , NCPAP and HHHFNC provide similar effects on all the outcomes explored .
+

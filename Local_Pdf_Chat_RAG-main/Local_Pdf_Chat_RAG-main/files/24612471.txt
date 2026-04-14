@@ -1,0 +1,17 @@
+24612471
+OBJECTIVE	To validate robot-assisted surgery skills acquisition using an augmented reality ( AR ) - based module for urethrovesical anastomosis ( UVA ) .
+METHODS	Participants at three institutions were randomised to a Hands-on Surgical Training ( HoST ) technology group or a control group .
+METHODS	The HoST group was given procedure-based training for UVA within the haptic-enabled AR-based HoST environment .
+METHODS	The control group did not receive any training .
+METHODS	After completing the task , the control group was offered to cross over to the HoST group ( cross-over group ) .
+METHODS	A questionnaire administered after HoST determined the feasibility and acceptability of the technology .
+METHODS	Performance of UVA using an inanimate model on the daVinci Surgical System ( Intuitive Surgical Inc. , Sunnyvale , CA , USA ) was assessed using a UVA evaluation score and a Global Evaluative Assessment of Robotic Skills ( GEARS ) score .
+METHODS	Participants completed the National Aeronautics and Space Administration Task Load Index ( NASA TLX ) questionnaire for cognitive assessment , as outcome measures .
+METHODS	A Wilcoxon rank-sum test was used to compare outcomes among the groups ( HoST group vs control group and control group vs cross-over group ) .
+RESULTS	A total of 52 individuals participated in the study .
+RESULTS	UVA evaluation scores showed significant differences in needle driving ( 3.0 vs 2.3 ; P = 0.042 ) , needle positioning ( 3.0 vs 2.4 ; P = 0.033 ) and suture placement ( 3.4 vs 2.6 ; P = 0.014 ) in the HoST vs the control group .
+RESULTS	The HoST group obtained significantly higher scores ( 14.4 vs 11.9 ; P 0.012 ) on the GEARS .
+RESULTS	The NASA TLX indicated lower temporal demand and effort in the HoST group ( 5.9 vs 9.3 ; P = 0.001 and 5.8 vs 11.9 ; P = 0.035 , respectively ) .
+RESULTS	In all , 70 % of participants found that HoST was similar to the real surgical procedure , and 75 % believed that HoST could improve confidence for carrying out the real intervention .
+CONCLUSIONS	Training in UVA in an AR environment improves technical skill acquisition with minimal cognitive demand .
+

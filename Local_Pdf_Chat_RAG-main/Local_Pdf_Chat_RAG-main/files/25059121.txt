@@ -1,0 +1,15 @@
+25059121
+BACKGROUND	Although effectiveness of web-based interventions on lifestyle changes are recognized , the potential of such programs on metabolic syndrome has not been explored .
+BACKGROUND	We describe the protocol of a randomized controlled trial that aims to determine the feasibility , acceptability , usability , and effectiveness of interactive technology on lifestyle intervention in a population with metabolic syndrome .
+METHODS	This is a two-arm randomized controlled trial .
+METHODS	The study includes 160 participants ( n = 80 per arm ) who will be recruited via online registration on the study website .
+METHODS	The inclusion criteria are that they should have metabolic syndrome and have access to the Internet .
+METHODS	All participants will receive information on dietary intake and physical activity through the study website .
+METHODS	The intervention group will receive additional resources via the study website including interactive Healthy Heart Profile and calorie restricted diet tailored to the participants .
+METHODS	The primary outcomes are feasibility , acceptability , usability , and the change in metabolic syndrome components .
+METHODS	The secondary outcomes are comparing quality of life , physical activity and food intake among the study arms .
+METHODS	The participants will be followed up to 6 months with data collection scheduled at baseline , 3 and 6 months .
+CONCLUSIONS	There is a need for developing and evaluating web-based interventions that target people with high risk for cardiovascular diseases .
+CONCLUSIONS	This study will therefore make an important contribution to this novel field of research and practice .
+BACKGROUND	IRCT201111198132N1 .
+

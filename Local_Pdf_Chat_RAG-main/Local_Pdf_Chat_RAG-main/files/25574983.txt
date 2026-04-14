@@ -1,0 +1,17 @@
+25574983
+BACKGROUND	Bronchiolitis is a common clinical problem in children below 2 years presenting with respiratory symptoms .
+BACKGROUND	As there is necrosis and sloughing of epithelial cells , edema , increased secretion of mucus causing obstruction of large and small airways we aim to see the clinical profile and the effect of use of hypertonic ( 3 % ) saline nebulization in these children .
+METHODS	A double blind randomized controlled trial was conducted at department of Pediatrics , in a hospital from July 2012 to August 2013 .
+METHODS	The computer generated random number was used to select the case and control group .
+METHODS	All eligible patients were randomly assigned to one of two groups : receiving inhalation of 4 ml normal ( 0.9 % ) saline or hypertonic ( 3 % ) saline .
+METHODS	Treating physicians , researchers and nurses were all blinded of the solution .
+METHODS	Both saline were kept in two identical containers and labeled as solution A and solution B. Patients in each group will receive three treatments on each day of hospitalization and clinical score were obtained 30 minutes before each inhalation session .
+RESULTS	Bronchiolitis accounted 11.26 % of total admissions .
+RESULTS	Their mean age ( SD ) was 8.56 ( 5.013 ) months with range from 45 days to 24 months .
+RESULTS	A total of 53 ( 74 % ) male were enrolled in the study .
+RESULTS	Fifty-seven ( 79 % ) children were less than 12 months and 15 ( 21 % ) were 12 months - 24 months .
+RESULTS	The mean ( SD ) for duration of hospital stay was 44.82 ( 23.15 ) and 43.60 ( 28.25 ) for 3 % and 0.9 % group respectively ( p = 0.86 ) .
+RESULTS	Likewise , mean ( SD ) duration of oxygen supplementation was 32.50 ( 20.44 ) and 34.50 ( 26.03 ) for 3 % and 0.9 % group respectively ( p = 0.85 ) .
+RESULTS	Moreover , time required for normalization of clinical score was 36.79 ( 19.53 ) and 38.34 ( 26.67 ) for 3 % and 0.9 % group respectively ( p = 0.80 ) .
+CONCLUSIONS	There is no advantage of hypertonic saline over normal saline nebulization in the management bronchiolitis .
+

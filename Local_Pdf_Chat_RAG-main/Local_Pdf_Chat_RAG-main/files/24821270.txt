@@ -1,0 +1,16 @@
+24821270
+BACKGROUND	Secondhand smoke exposure ( SHSe ) is a significant modifiable risk for respiratory health in children .
+BACKGROUND	Although SHSe is declining overall , it has increased for low-income and minority populations .
+BACKGROUND	Implementation of effective SHSe interventions within community organizations has the potential for significant public health impact .
+OBJECTIVE	To evaluate the effectiveness of motivational interviewing ( MI ) delivered in the context of a SHS education reduction initiative within Head Start to reduce preschool children 's SHSe .
+METHODS	A total of 350 children enrolled in Baltimore City Head Start whose caregivers reported a smoker living in the home were recruited .
+METHODS	Caregivers were randomized to MI + education or education alone .
+METHODS	Assessments were conducted at baseline , 3 , 6 , and 12 months .
+RESULTS	The primary outcome measure was household air nicotine levels measured by passive dosimeters .
+RESULTS	Secondary outcomes included child salivary cotinine , self-report of home smoking ban ( HSB ) , and smoking status .
+RESULTS	Participants in the MI + education group had significantly lower air nicotine levels ( 0.29 vs. 0.40 mg ) , 17 % increase in prevalence of caregiver-reported HSBs , and a 13 % decrease in caregiver smokers compared with education-alone group ( all P values < 0.05 ) .
+RESULTS	Although group differences in salivary cotinine were not significant , among all families who reported having an HSB , salivary cotinine and air nicotine levels declined in both groups ( P < 0.05 ) .
+CONCLUSIONS	MI may be effective in community settings to reduce child SHSe .
+CONCLUSIONS	More research is needed to identify ways to tailor interventions to directly impact child SHSe and to engage more families to make behavioral change .
+CONCLUSIONS	Clinical trial registered with www.clinicaltrials.gov ( NCT 00927264 ) .
+

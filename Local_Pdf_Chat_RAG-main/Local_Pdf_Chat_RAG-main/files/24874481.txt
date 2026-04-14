@@ -1,0 +1,12 @@
+24874481
+BACKGROUND	Invasion and metastasis remain a critical issue in cervical cancer .
+BACKGROUND	However , the underlying mechanism of it in cervical cancer remains unclear .
+BACKGROUND	The newly discovered protein , TBLR1 , plays a crucial role in regulating various key cellular functions .
+METHODS	In this study , western blot , real-time RT-PCR , immunohistochemical staining , 3D morphogenesis Matrigel culture , wound healing and Boyden chamber invasion assays , xenografted tumour model , luciferase assays , and chromatin immunoprecipitation assays were used .
+RESULTS	The expression of TBLR1 in cervical cancer cell lines and tissues was significantly upregulated at both the RNA and protein levels compared with that in normal cervical cells .
+RESULTS	Statistical analysis suggested that TBLR1 as an independent prognostic factor was significantly correlated with the clinical stage , survival time and recurrence .
+RESULTS	Moreover , overexpression of TBLR1 in Hela and Siha cell lines promoted invasion in vitro and in vivo with the increases of the mesenchymal factors vimentin and fibronectin and decreases of the epithelial marker - catenin .
+RESULTS	In contrast , RNAi-mediated knockdown of TBLR1 inhibited epithelial-mesenchymal transition in vitro and in vivo .
+RESULTS	Further study indicated that this might be mediated via the NF-B and Wnt / - Catenin signalling pathway , and involve regulation of Snail and Twist .
+CONCLUSIONS	The TBLR1 protein may be a prognostic marker in cervical cancer and play an important role in the invasion and metastasis of human cervical cancer .
+

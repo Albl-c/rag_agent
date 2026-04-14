@@ -1,0 +1,12 @@
+24625322
+BACKGROUND	Earlier kinetics of serum HCV core antigen ( HCVcAg ) and its predictive value on sustained virological response ( SVR ) were investigated in patients with genotype 1 HCV infection during antiviral treatment .
+METHODS	In a multi-centered , randomized and positive drug-controlled phase IIb clinical trial on type Y peginterferon -2 b ( NCT01140997 ) , forty-eight CHC patients who participated in pharmacokinetics were randomly divided into 4 cohorts and treated with PegIFN ( type Y peginterferon -2 b 90 g , 135 g , 180 g and PegIFN-2a 180 g , respectively , once a week ) and ribavirin ( < 75 kg , 1000 mg daily and75 kg , 1200 mg daily ) for 48 weeks , and then followed up for 24 weeks .
+METHODS	32 patients infected with genotype 1 HCV and completed the whole process were included in this study .
+METHODS	HCV RNAs were detected at baseline , and weeks 4 , 12 , 24 , 48 and 72 using Cobas TaqMan .
+METHODS	ARCHITECT HCVcAg was performed at 24 , 48 , 72 , 96 , 120 and 144 h in addition to the above time points .
+METHODS	The receiver operating curves ( ROCs ) were performed to study the predictive values of HCVcAg decline on SVR .
+RESULTS	Following antiviral treatment , serum HCVcAg levels rapidly declined within the first week and correlated well with corresponding HCV RNA at baseline , weeks 4 , 12 , 24 , 48 and 72 ( rs = 0.969 , 0.928 , 0.999 , 0.983 , 0.985 and 0.946 , respectively , P < 0.001 ) .
+RESULTS	All of the areas under the receiver operating curves ( AUROCs ) were more than 0.80 and showed good predictive power on SVR at 24 , 48 , 72 , 96 , 120 and 144 h. The144 h was the best predictive time point of HCVcAg decline on SVR because of its largest AUROC ( more than 0.90 ) .
+CONCLUSIONS	Early kinetics of serum HCVcAg predicts SVR very well in genotype 1 CHC patients during antiviral treatment , and its reduction value at 144 h is an earlier and stronger predictor on SVR than rapid virological response and early virological response .
+CONCLUSIONS	( TRN : NCT01140997 ) .
+

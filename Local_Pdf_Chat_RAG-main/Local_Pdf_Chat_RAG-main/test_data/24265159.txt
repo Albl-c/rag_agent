@@ -1,0 +1,13 @@
+24265159
+BACKGROUND	The event-free survival of childhood acute lymphoblastic leukemia ( ALL ) has been reported to be superior when oral methotrexate ( MTX ) and 6-mercaptopurine ( 6MP ) maintenance therapy ( MT ) is administered in the evening compared to the morning .
+METHODS	In the ALL92 MT study we prospectively registered the intake of MTX/6MP .
+METHODS	The registration was done when blood samples for erythrocyte MTX/6MP metabolite measurements were collected , and referred to the time of intake in the period since last registration .
+METHODS	Nine thousand one hundred ninety-five registrations in total .
+METHODS	The administration of MTX/6MP was scored as morning , midday , or evening .
+RESULTS	Of 532 patients , 296 took their medication consistently in the evening , 129 in the evening 50.0-99 .9 % of the time , and 101 in the evening < 50 % of the time , six did not have any registrations .
+RESULTS	The circadian schedule did not differ significantly by age , sex , MTX/6MP doses , and average absolute neutrophil counts .
+RESULTS	The circadian schedule groups did differ on risk groups ( P = 0.003 ) with fewer HR patients in the 50-99 .9 % group , and there was a negative correlation between percentage of time on evening schedule and average WBC ( Spearman 's rho -0.15 ; P = 0.0004 ) .
+RESULTS	Average WBC was not associated with relapse on ALL92 .
+RESULTS	In a Cox multivariate model the circadian schedule of MTX/6MP was not of prognostic significance for the risk of relapse , and the 10-year cumulative relapse risk was below 20 % in all groups .
+CONCLUSIONS	An evening schedule may still be recommended based on the previous publications , but in this study morning administration of MTX and 6MP does not seem to impact EFS .
+

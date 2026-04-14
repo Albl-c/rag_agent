@@ -1,0 +1,14 @@
+24809838
+BACKGROUND	Opioid consumption after posterior spinal fusion is known to be high and often exceeds those reported in other major surgical procedures .
+BACKGROUND	A number of clinical trials provide evidence that the perioperative use of subanesthetic doses of ketamine reduces pain and opioid requirements in some surgical procedures , but the effect of prolonged perioperative low-dose ketamine infusion in patients undergoing posterior spinal fusion for pediatric scoliosis surgery is unknown .
+OBJECTIVE	To test the hypothesis that a 72-h perioperative low-dose ketamine infusion would decrease opioid use in pediatric patients undergoing posterior spinal fusion .
+METHODS	In a double-blind prospective controlled trial , patients undergoing posterior spinal fusion for scoliosis were randomized to receive perioperative low-dose ketamine or placebo control .
+METHODS	Patients received general anesthesia , intraoperative remifentanil , and morphine patient-controlled analgesia postoperatively .
+METHODS	Daily opioid consumption , self-reported pain scores , and sedation scores were measured .
+RESULTS	Fifty-four patients were enrolled and 50 completed the study .
+RESULTS	Contrary to our hypothesis , ketamine - and control-treated patients had similar postoperative opioid use , pain scores , and sedation scores measurements .
+RESULTS	In contrast , ketamine-treated patients required less intraoperative remifentanil compared with control ( mean 2.9 mg vs. 4mg , P = 0.0415 ) .
+RESULTS	Number of vertebrae instrumented , time between end-of-surgery and 24h assessment , or remifentanil doses did not impact on postoperative opioid use .
+RESULTS	Over 96-h postoperatively , morphine-equivalent consumption was lower ( -0.40 , P = 0.006 ) and sedation score was higher ( 0.47 , P = 0.0211 ) in male patients , compared with female patients .
+CONCLUSIONS	These findings do not support the use of perioperative low-dose ketamine to decrease opioid use in children with scoliosis undergoing posterior spinal fusion .
+

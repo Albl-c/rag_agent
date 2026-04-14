@@ -1,0 +1,13 @@
+24792106
+OBJECTIVE	To compare the safety and efficacy of microcoaxial phacoemulsification surgeries performed with the OZil Intelligent Phaco torsional mode ( Alcon Laboratories , Inc. , Fort Worth , USA ) and combined torsional/longitudinal ultrasound mode using 45 degree aperture angled tips .
+METHODS	Prospective randomized clinical trial .
+METHODS	setting : Maltepe University , Istanbul .
+METHODS	patient population : Eighty eyes of 80 cataract patients were randomly assigned to 2.2 mm microcoaxial phacoemulsification using the OZil Intelligent Phaco torsional mode ( Group 1 ) or combined torsional/longitudinal ultrasound mode ( Group 2 ) .
+METHODS	observation procedure : Intraoperative fluid and energy usage and postoperative examinations were evaluated .
+METHODS	main outcome measures : Ultrasound time , cumulative dissipated energy , longitudinal and torsional ultrasound amplitudes , mean operation time , mean volume of fluid used , and surgical complications .
+RESULTS	Both groups included 40 eyes .
+RESULTS	Mean ultrasound time , cumulative dissipated energy , and longitudinal and torsional ultrasound amplitudes in Group 1 were 58.2133.81 seconds , 7.746.23 , 0.450.30 , and 26.3012.60 % , respectively , and these parameters in Group 2 were 64.7530.23 seconds , 12.616.21 , 26.325.85 , and 40.988.33 % , respectively .
+RESULTS	Cumulative dissipated energy and longitudinal and torsional amplitudes were found to be significantly lower in Group 1 ( P = .001 , P < .001 , P < .001 ) .
+RESULTS	Mean volumes of fluid used in Groups 1 and 2 were 73.3019.87 cc and 107.0721.82 cc , respectively ( P < .001 ) .
+CONCLUSIONS	With the aid of a 45 degree aperture angled tip , the OZil Intelligent Phaco torsional mode provided more effective lens removal than the combined torsional/longitudinal ultrasound mode , with a lower cumulative dissipated energy and volume of fluid used .
+

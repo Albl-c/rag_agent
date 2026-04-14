@@ -1,0 +1,9 @@
+25600444
+OBJECTIVE	To evaluate the effect of vaginal misoprostol on intraoperative bleeding during myomectomy .
+METHODS	In this randomized clinical trial , 80 women with myomas were randomly assigned to receive 200 g misoprostol or placebo ( vitamin B6 ) 3 h before surgery .
+METHODS	Blood loss during surgery , postoperative need for blood transfusion , and the hemoglobin level before surgery , and 6 and 12 h after surgery were assessed in two groups .
+RESULTS	Mean age and the mean preoperative and postoperative Hb levels were not significantly different between the two groups .
+RESULTS	Mean duration of surgery and mean estimated blood loss were significantly higher in control group .
+RESULTS	Nine ( 22.5 % ) patients in control group needed blood transfusion while there was no need blood transfusion in misoprostol group ( p = 0.001 ) .
+CONCLUSIONS	A single dose of vaginal misoprostol is effective in reducing hemorrhage during myomectomy .
+

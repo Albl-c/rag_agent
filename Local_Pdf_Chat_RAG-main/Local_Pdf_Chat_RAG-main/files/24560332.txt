@@ -1,0 +1,15 @@
+24560332
+BACKGROUND	Targeting the epidermal-growth-factor-receptor ( EGFR ) in non-small cell lung cancer ( NSCLC ) is an established treatment option with less toxicity compared to conventional chemotherapy .
+BACKGROUND	This study was undertaken to determine whether Erlotinib is non-inferior compared to chemotherapy as a first-line therapy in unselected elderly patients .
+METHODS	Patients 70 years with untreated , metastatic NSCLC were randomized to Erlotinib ( E ) , 150 mg/day or Carboplatin ( AUC5 ) plus Vinorelbine ( 25mg/m ( 2 ) on days 1 and 8 ) every three weeks ( CV ) .
+METHODS	Primary endpoint was progression-free survival ( PFS ) .
+METHODS	After progression , crossover was strongly recommended .
+METHODS	Secondary endpoints were duration of response , 1-year survival , overall survival ( OS ) , response rate ( RR ) , quality of life ( FACT-L ) , assessment of comorbidities by simplified comorbidity score ( SCS ) and Charlsons ' comorbidity score , safety and assessment of molecular markers .
+RESULTS	Between June 2006 and August 2008 284 pts were randomized to E ( 144 ) and CV ( 140 ) .
+RESULTS	PFS was significantly inferior with E ( median PFS 2.4 versus 4.6 months [ HR 1.6 , 75 % CI 1.22-2 .09 , p : 0.0005 ] ) as well as RR ( 7.8 % v 28.3 % , p : 0.0001 ) .
+RESULTS	No significant difference in OS appeared ( median E : 7.3 months versus CV : 8.4 months , HR : 1.24 [ 75 % CI 0.9-1 .71 ] ) .
+RESULTS	In never smokers PFS ( median PFS : 3.7 v 4.3 m , E v CV , HR 0.72 , 75 % CI 0.35-1 .48 ) and OS ( median : 16.5 versus 17 months , HR 0.99 [ 75 % CI 0.38-2 .57 ] ) were comparable .
+RESULTS	More skin toxicity and diarrhea was seen with E compared to more myelotoxicity , neurotoxicity and constipation with CV .
+RESULTS	Less severe adverse events were observed with E ( 81 v 102 , E v CV ) .
+CONCLUSIONS	CV had an increased efficacy compared with E in an unselected population of elderly patients with advanced NSCLC .
+

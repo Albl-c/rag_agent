@@ -1,0 +1,16 @@
+25384813
+OBJECTIVE	People are now living longer , but disability may affect the quality of those additional years of life .
+OBJECTIVE	We undertook a trial to assess whether case finding reduces disability among older primary care patients .
+METHODS	We conducted a cluster-randomized trial of the Brief Risk Identification Geriatric Health Tool ( BRIGHT ) among 60 primary care practices in New Zealand , assigning them to an intervention or control group .
+METHODS	Intervention practices sent a BRIGHT screening tool to older adults every birthday ; those with a score of 3 or higher were referred to regional geriatric services for assessment and , if needed , service provision .
+METHODS	Control practices provided usual care .
+METHODS	Main outcomes , assessed in blinded fashion , were residential care placement and hospitalization , and secondary outcomes were disability , assessed with Nottingham Extended Activities of Daily Living Scale ( NEADL ) , and quality of life , assessed with the World Health Organization Quality of Life scale , abbreviated version ( WHOQOL-BREF ) .
+RESULTS	All 8,308 community-dwelling patients aged 75 years and older were approached ; 3,893 ( 47 % ) participated , of whom 3,010 ( 77 % ) completed the trial .
+RESULTS	Their mean age was 80.3 ( SD 4.5 ) years , and 55 % were women .
+RESULTS	Overall , 88 % of the intervention group returned a BRIGHT tool ; 549 patients were referred .
+RESULTS	After 36 months , patients in the intervention group were more likely than those in the control group to have been placed in residential care : 8.4 % vs 6.2 % ( hazard ratio = 1.32 ; 95 % CI , 1.04-1 .68 ; P = .02 ) .
+RESULTS	Intervention patients had smaller declines in mean scores for physical health-related quality of life ( 1.6 vs 2.9 points , P = .007 ) and psychological health-related quality of life ( 1.1 vs 2.4 points , P = .005 ) .
+RESULTS	Hospitalization , disability , and use of services did not differ between groups , however .
+CONCLUSIONS	Our case-finding strategy was effective in increasing identification of older adults with disability , but there was little evidence of improved outcomes .
+CONCLUSIONS	Further research could trial stronger primary care integration strategies .
+

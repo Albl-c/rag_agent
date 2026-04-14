@@ -1,0 +1,10 @@
+25812845
+BACKGROUND	Sequential compression devices ( SCDs ) reduce deep venous thrombosis in postsurgical patients , but the use is hindered by poor compliance .
+METHODS	General and orthopedic surgery patients ( n = 67 ) were randomized to standard - or battery-powered SCDs .
+METHODS	Compliance was documented hourly .
+METHODS	Nurses and patients were issued a survey to assess barriers to compliance and device satisfaction .
+RESULTS	Compliance with standard SCDs was 47 % compared with 85 % with battery-powered SCDs ( P < .001 ) .
+RESULTS	The most common barriers identified by nurses and patients were ambulation and transfers , which were mitigated with the battery-powered device .
+RESULTS	A majority ( 79 % ) of those issued a battery-powered device reported no major problems compared with only 14 % of patients issued a standard device ( P < .005 ) .
+CONCLUSIONS	The dual venous thromboembolism prevention strategies of early mobilization and SCD utilization can be met with the appropriate equipment .
+

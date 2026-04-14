@@ -1,0 +1,17 @@
+25428445
+BACKGROUND	Screening Tool of Older Person 's Prescriptions ( STOPP ) and the Screening Tool to Alert doctors to Right Treatment ( START ) have been increasingly used to evaluate potentially inappropriate prescriptions ( PIPs ) and potentially prescription omissions ( PPOs ) .
+BACKGROUND	The impact of hospitalization on PIPs/PPOs has not been investigated in depth .
+OBJECTIVE	To compare the prevalence of PIPs/PPOs in elderly patients on hospital admission and discharge and to identify associated risk factors .
+METHODS	An acute medical geriatric division of the Tel Aviv Medical Center ( Israel ) .
+METHODS	This retrospective cross-sectional study included patients admitted from 12/2011 to 12/2012 aged 65 years .
+METHODS	Data from patients ' records included demographic details , diagnoses and medications at admission and discharge .
+METHODS	STOPP/START criteria were applied to each patient 's record .
+METHODS	Prevalence of PIPs/PPOs on hospital admission and discharge .
+RESULTS	Three hundred patients were included ( mean SD age 81.9 7.2 years ) .
+RESULTS	Admission PIPs prevalence was 39.3 % ( 118 patients , 172 PIPs ) and it increased to 46.0 % ( 138 patients , 209 PIPs ) at discharge ( P = 0.009 ) .
+RESULTS	Admission PPOs prevalence was 41.0 % ( 123 patients , 153 PPOs ) and it decreased to 28.3 % ( 85 patients , 99 PPOs ) at discharge ( P < 0.001 ) .
+RESULTS	Having at least one PIP/PPO at discharge but not at admission was associated with length of hospital stay ( OR 1.02 , 95 % CI 1.001-1 .03 ) .
+RESULTS	History of falls increased the risk of being a `` new PIP patient '' ( OR 2.25 , 95 % CI 1.03-4 .9 ) , whereas diabetes increased the risk of being a `` new PPO patient '' ( OR 3.86 , 95 % CI 1.2-12 .5 ) .
+CONCLUSIONS	Hospitalization in a geriatric division resulted in an increase in PIPs and a decrease in PPOs .
+CONCLUSIONS	Strategies to reduce PIPs need to be implemented , especially for patients with longer hospital stay and a history of falls .
+

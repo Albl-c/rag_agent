@@ -1,0 +1,13 @@
+24287222
+BACKGROUND	Patellar straps or sports tapes are commonly used by athletes with patellar tendinopathy in order to reduce pain and to continue sports participation .
+BACKGROUND	Currently , there is no scientific evidence for the effectiveness of a patellar strap or sports tape in the management of this common injury .
+OBJECTIVE	To investigate the effect of the use of a patellar strap and sports tape on pain and sports participation in subjects with patellar tendinopathy .
+METHODS	The study is divided into two parts : a randomised controlled crossover experiment and a randomised controlled trial ( parallel group design ) .
+METHODS	140 patients diagnosed with patellar tendinopathy recruited from sports medical centres and physiotherapist practices .
+METHODS	In the first part of the study , participants serve as their own control by performing three functional tests under four different conditions ( patellar strap , sports tape , placebo tape , and no orthosis ) .
+METHODS	In the second part , participants keep a log for two weeks ( control week and intervention week ) about the pain experienced during and after sports and their level of sports participation .
+METHODS	In the intervention week participants will use the orthosis assigned to them during training and competition .
+METHODS	The amount of pain ( both parts of the study ) and sports participation ( second part only ) will be measured .
+METHODS	To analyse the effects of the orthoses a Linear Mixed Model will be used .
+CONCLUSIONS	The knowledge gained in this study can be used by practitioners in their advice for athletes with patellar tendinopathy about using patellar strap and sports tape during sports .
+

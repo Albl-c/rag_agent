@@ -1,0 +1,13 @@
+26427105
+OBJECTIVE	To observe the effect of Sancaijiangtang powders on plasma nitric oxide and endothelin-1 levels .
+OBJECTIVE	We sought to identify the common pathological link and mechanism of action for Traditional Chinese medicine in type 2 diabetes mellitus and vascular dementia , and to explicate the material basis for treating the different diseases with the same method in Traditional Chinese Medicine .
+METHODS	In total , 168 patients with type 2 diabetes mellitus and vascular dementia were enrolled in the study , and randomly divided into two groups by simple randomization .
+METHODS	Patients in the treatment group received oral Sancaijiangtang powders with pioglitazone hydrochloride three times daily , while patients in the control group received pioglitazone hydrochloride alone .
+METHODS	The treatment course was for 12 weeks .
+METHODS	Mini-mental state examinations ( Chinese version ) and Montreal Cognitive Assessments ( Beijing version ) were performed , and fasting plasma glucose , fasting insulin , hemoglobin A1c , homeostasis model assessment of insulin resistance , plasma nitric oxide and endothelin-1 levels were measured before and after the treatment .
+RESULTS	The post-treatment levels for all measurements in both groups were better than pre-treat - ment levels ( P < 0.05 ) .
+RESULTS	The post-treatment levels for all measurements in the treatment group were better than the levels measured in the control group ( P < 0.05 ) .
+CONCLUSIONS	Type 2 diabetes mellitus and vascular dementia have common pathological mechanisms for insulin resistance and endothelium dysfunction .
+CONCLUSIONS	Sancaijiangtang powders could improve the release of nitric oxide and inhibit the secretion of endothelin-1 .
+CONCLUSIONS	Therefore , the material basis exists for treating the different diseases with the same method in Traditional Chinese Medicine .
+

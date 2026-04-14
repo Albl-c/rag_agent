@@ -1,0 +1,18 @@
+25405390
+BACKGROUND	Ischemic mitral regurgitation is associated with increased mortality and morbidity .
+BACKGROUND	For surgical patients with moderate regurgitation , the benefits of adding mitral-valve repair to coronary-artery bypass grafting ( CABG ) are uncertain .
+METHODS	We randomly assigned 301 patients with moderate ischemic mitral regurgitation to CABG alone or CABG plus mitral-valve repair ( combined procedure ) .
+METHODS	The primary end point was the left ventricular end-systolic volume index ( LVESVI ) , a measure of left ventricular remodeling , at 1 year .
+METHODS	This end point was assessed with the use of a Wilcoxon rank-sum test in which deaths were categorized as the lowest LVESVI rank .
+RESULTS	At 1 year , the mean LVESVI among surviving patients was 46.122.4 ml per square meter of body-surface area in the CABG-alone group and 49.631.5 ml per square meter in the combined-procedure group ( mean change from baseline , -9.4 and -9.3 ml per square meter , respectively ) .
+RESULTS	The rate of death was 6.7 % in the combined-procedure group and 7.3 % in the CABG-alone group ( hazard ratio with mitral-valve repair , 0.90 ; 95 % confidence interval , 0.38 to 2.12 ; P = 0.81 ) .
+RESULTS	The rank-based assessment of LVESVI at 1 year ( incorporating deaths ) showed no significant between-group difference ( z score , 0.50 ; P = 0.61 ) .
+RESULTS	The addition of mitral-valve repair was associated with a longer bypass time ( P < 0.001 ) , a longer hospital stay after surgery ( P = 0.002 ) , and more neurologic events ( P = 0.03 ) .
+RESULTS	Moderate or severe mitral regurgitation was less common in the combined-procedure group than in the CABG-alone group ( 11.2 % vs. 31.0 % , P < 0.001 ) .
+RESULTS	There were no significant between-group differences in major adverse cardiac or cerebrovascular events , deaths , readmissions , functional status , or quality of life at 1 year .
+CONCLUSIONS	In patients with moderate ischemic mitral regurgitation , the addition of mitral-valve repair to CABG did not result in a higher degree of left ventricular reverse remodeling .
+CONCLUSIONS	Mitral-valve repair was associated with a reduced prevalence of moderate or severe mitral regurgitation but an increased number of untoward events .
+CONCLUSIONS	Thus , at 1 year , this trial did not show a clinically meaningful advantage of adding mitral-valve repair to CABG .
+CONCLUSIONS	Longer-term follow-up may determine whether the lower prevalence of mitral regurgitation translates into a net clinical benefit .
+CONCLUSIONS	( Funded by the National Institutes of Health and the Canadian Institutes of Health Research ; ClinicalTrials.gov number , NCT00806988 . )
+

@@ -1,0 +1,14 @@
+25117066
+BACKGROUND	Pharmacokinetically guided ( PK-guided ) versus body surface area-based 5-fluorouracil ( 5-FU ) dosing results in higher response rates and better tolerability .
+BACKGROUND	A paucity of data exists on PK-guided 5-FU dosing in the community setting .
+METHODS	Seventy colorectal cancer patients , from one academic and five community cancer centers , received the mFOLFOX6 regimen ( 5-FU 2,400 mg/m ( 2 ) over 46 hours every 2 weeks ) with or without bevacizumab at cycle 1 .
+METHODS	The 5-FU continuous-infusion dose was adjusted for cycles 2-4 using a PK-guided algorithm to achieve a literature-based target area under the concentration-time curve ( AUC ) .
+METHODS	The primary objective was to demonstrate that PK-guided 5-FU dosing improves the ability to achieve a target AUC within four cycles of therapy .
+METHODS	The secondary objective was to demonstrate reduced incidence of 5-FU-related toxicities .
+RESULTS	At cycles 1 and 4 , 27.7 % and 46.8 % of patients achieved the target AUC ( 20-25 mg hour/L ) , respectively ( odds ratio [ OR ] : 2.20 ; p = .046 ) .
+RESULTS	Significantly more patients were within range at cycle 4 compared with a literature rate of 20 % ( p < .0001 ) .
+RESULTS	Patients had significantly higher odds of not being underdosed at cycle 4 versus cycle 1 ( OR : 2.29 ; p = .037 ) .
+RESULTS	The odds of a patient being within range increased by 30 % at each subsequent cycle ( OR : 1.30 ; p = .03 ) .
+RESULTS	Less grade 3/4 mucositis and diarrhea were observed compared with historical data ( 1.9 % vs 16 % and 5.6 % vs 12 % , respectively ) ; however , rates of grade 3/4 neutropenia were similar ( 33 % vs 25 % -50 % ) .
+CONCLUSIONS	PK-guided 5-FU dosing resulted in significantly fewer underdosed patients and less gastrointestinal toxicity and allows for the application of personalized colorectal cancer therapy in the community setting .
+

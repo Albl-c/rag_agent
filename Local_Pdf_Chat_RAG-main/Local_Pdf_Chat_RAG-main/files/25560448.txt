@@ -1,0 +1,16 @@
+25560448
+OBJECTIVE	To evaluate the effect of a clinic-based screening and referral system ( Well Child Care , Evaluation , Community Resources , Advocacy , Referral , Education [ WE CARE ] ) on families ' receipt of community-based resources for unmet basic needs .
+METHODS	We conducted a cluster randomized controlled trial at 8 urban community health centers , recruiting mothers of healthy infants .
+METHODS	In the 4 WE CARE clinics , mothers completed a self-report screening instrument that assessed needs for child care , education , employment , food security , household heat , and housing .
+METHODS	Providers made referrals for families ; staff provided requisite applications and telephoned referred mothers within 1 month .
+METHODS	Families at the 4 control community health centers received the usual care .
+METHODS	We analyzed the results with generalized mixed-effect models .
+RESULTS	Three hundred thirty-six mothers were enrolled in the study ( 168 per arm ) .
+RESULTS	The majority of families had household incomes < $ 20,000 ( 57 % ) , and 68 % had 2 unmet basic needs .
+RESULTS	More WE CARE mothers received 1 referral at the index visit ( 70 % vs 8 % ; adjusted odds ratio [ aOR ] = 29.6 ; 95 % confidence interval [ CI ] , 14.7-59 .6 ) .
+RESULTS	At the 12-month visit , more WE CARE mothers had enrolled in a new community resource ( 39 % vs 24 % ; aOR = 2.1 ; 95 % CI , 1.2-3 .7 ) .
+RESULTS	WE CARE mothers had greater odds of being employed ( aOR = 44.4 ; 95 % CI , 9.8-201 .4 ) .
+RESULTS	WE CARE children had greater odds of being in child care ( aOR = 6.3 ; 95 % CI , 1.5-26 .0 ) .
+RESULTS	WE CARE families had greater odds of receiving fuel assistance ( aOR = 11.9 ; 95 % CI , 1.7-82 .9 ) and lower odds of being in a homeless shelter ( aOR = 0.2 ; 95 % CI , 0.1-0 .9 ) .
+CONCLUSIONS	Systematically screening and referring for social determinants during well child care can lead to the receipt of more community resources for families .
+

@@ -1,0 +1,10 @@
+25033113
+OBJECTIVE	We evaluated changes in social capital following group-based cognitive processing therapy ( CPT ) for female survivors of sexual violence .
+METHODS	We compared CPT with individual support in a cluster-randomized trial in villages in South Kivu province , Democratic Republic of the Congo .
+METHODS	Local psychosocial assistants delivered the interventions from April through July 2011 .
+METHODS	We evaluated differences between CPT and individual support conditions for structural social capital ( i.e. , time spent with nonkin social network , group membership and participation , and the size of financial and instrumental support networks ) and emotional support seeking .
+METHODS	We analyzed intervention effects with longitudinal random effects models .
+RESULTS	We obtained small to medium effect size differences for 2 study outcomes .
+RESULTS	Women in the CPT villages increased group membership and participation at 6-month follow-up and emotional support seeking after the intervention compared with women in the individual support villages .
+CONCLUSIONS	Results support the efficacy of group CPT to increase dimensions of social capital among survivors of sexual violence in a low-income conflict-affected context .
+

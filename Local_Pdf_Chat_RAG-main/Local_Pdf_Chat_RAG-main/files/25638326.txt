@@ -1,0 +1,19 @@
+25638326
+BACKGROUND	GOG 240 was a practice-changing randomised phase 3 trial that concluded that chemotherapy plus bevacizumab for advanced cervical cancer significantly improves overall and progression-free survival , and the proportion of patients achieving an overall objective response , compared with chemotherapy alone .
+BACKGROUND	In this study , we aimed to analyse patient-reported outcomes in GOG 240 .
+METHODS	Eligible adult participants ( aged 18 years ) had primary stage IVB or recurrent or persistent carcinoma of the cervix with measurable disease and GOG performance status of 0-1 .
+METHODS	Participants were randomly assigned by web-based permuted block randomisation ( block size 4 ) in a 1:1:1:1 ratio to the four treatment groups : cisplatin ( 50 mg/m ( 2 ) intravenously on day 1 or 2 of the treatment cycle ) and paclitaxel ( 135 mg/m ( 2 ) intravenously over 24 h or 175 mg/m ( 2 ) intravenously over 3 h on day 1 ) , with or without bevacizumab ( 15 mg/kg intravenously on day 1 or 2 ) , or paclitaxel ( 175 mg/m ( 2 ) over 3 h on day 1 ) and topotecan ( 075 mg/m ( 2 ) for 30 min on days 1-3 ) with or without bevacizumab ( 15 mg/kg intravenously on day 1 ) .
+METHODS	Treatment assignment was concealed at randomisation ( everyone was masked to treatment assignment , achieved by the use of a computer encrypted numbering system at the National Cancer Institute ) and became open-label when each patient was registered to the trial .
+METHODS	Treatment cycles were repeated every 21 days until disease progression or unacceptable toxicity , whichever occurred first .
+METHODS	The coprimary endpoints of the trial were overall survival and safety ; the primary quality-of-life endpoint was the score on the Functional Assessment of Cancer Therapy-Cervix Trial Outcome Index ( FACT-Cx TOI ) .
+METHODS	For our analysis of patient-reported outcomes , participants were assessed before treatment cycles 1 , 2 , and 5 , and at 6 and 9 months after the start of cycle 1 , with the FACT-Cx TOI , items from the FACT-GOG-Neurotoxicity subscale , and a worst pain item from the Brief Pain Inventory .
+METHODS	All patients who completed baseline quality-of-life assessments and at least one further follow-up assessment were evaluable for quality-of-life outcomes .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT00803062 .
+RESULTS	Between April 6 , 2009 , and Jan 3 , 2012 , a total of 452 patients were enrolled in the trial , of whom 390 completed baseline quality-of-life assessment and at least one further assessment and were therefore evaluable for quality-of-life outcomes .
+RESULTS	In these patients , patient-reported outcome completion declined from 426 ( 94 % ) of 452 ( at baseline ) to 193 ( 63 % ) of 307 ( 9 months post-cycle 1 ) , but completion rates did not differ significantly between treatment regimens ( p = 078 ) .
+RESULTS	The baseline FACT-Cx TOI scores did not differ significantly between patients who received bevacizumab versus those who did not ( p = 027 ) .
+RESULTS	Compared with patients who received chemotherapy alone , patients who received chemotherapy plus bevacizumab reported FACT-Cx TOI scores that were an average of 12 points lower ( 9875 % CI -41 to 17 ; p = 030 ) .
+CONCLUSIONS	Improvements in overall survival and progression-free survival attributed to the incorporation of bevacizumab into the treatment of advanced cervical cancer were not accompanied by any significant deterioration in health-related quality of life .
+CONCLUSIONS	Patients responding to anti-angiogenesis therapy who maintain an acceptable quality of life could be suitable at progression for treatment with other novel therapies that might confer additional benefit .
+BACKGROUND	National Institutes of Health .
+

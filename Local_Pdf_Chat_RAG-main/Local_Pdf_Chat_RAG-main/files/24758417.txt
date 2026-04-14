@@ -1,0 +1,14 @@
+24758417
+OBJECTIVE	Ginseng root and its derivatives remain atop the most widely used medicinal herbs in cardiovascular disease , despite inadequate substantiation of efficacy .
+OBJECTIVE	We previously reported the potential of Korean red ginseng ( KRG ) to affect vascular tone by decreasing arterial wave reflection via an unknown mechanism .
+OBJECTIVE	Given the preclinical link between ginseng intake and vasoactivity related to nitric oxide ( NO ) production , we sought to directly evaluate the effects of KRG root and its major root components , on an established noninvasive measure of endothelial function .
+METHODS	In an acute , randomized , placebo-controlled , double-blind , crossover design , 16 healthy participants ( 9M :7 F , age :309 y , BMI : 24 kg3kg/m ( 2 ) , systolicBP/diastolicBP : 10911/668mmHg ) on four occasions were administered : KRG root ( 3g ) , KRG ginsenosides extract , KRG polysaccharides extract , and cornstarch control .
+METHODS	Extracted fractions were delivered at doses bioequivalent to those found in 3g of KRG .
+METHODS	Flow-mediated vasodilatation ( FMD ) assessment , preceding a brachial blood pressure measurement , was performed at baseline and at 90 and 180 min posttreatment to assess endothelial function .
+RESULTS	KRG significantly improved FMD posttreatment .
+RESULTS	Maximal vasodilatation of 2.572.8 % occurred at 180min compared with control ( -0.832.7 % , P = 0.003 for all comparisons ) .
+RESULTS	The ginsenoside extract produced a comparable response ( 1.752.6 % ) , but not the polysaccharide fraction ( 0.102.7 % ) .
+RESULTS	Brachial blood pressure remained unchanged for all treatments ( P = 0.45 ) .
+CONCLUSIONS	KRG acutely improved endothelial function in healthy individuals , which appears to be attributable to its ginsenoside containing fraction .
+CONCLUSIONS	Our data confirm preclinical data and support the potential for these compounds as targets for therapeutic strategies in disorders involving endothelial dysfunction .
+

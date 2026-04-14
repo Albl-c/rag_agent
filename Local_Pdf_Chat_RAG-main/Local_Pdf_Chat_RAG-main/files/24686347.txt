@@ -1,0 +1,12 @@
+24686347
+OBJECTIVE	With the safety of laparoscopic cholecystectomy ( LC ) having been established , the current stress is on reducing the postoperative morbidity associated with this procedure .
+OBJECTIVE	Hence , this study was undertaken to compare the effect of low-pressure ( 8 mm Hg ) ( LPLC ) versus standard-pressure ( 12 mm Hg ) ( SPLC ) pneumoperitoneum on postoperative pain , respiratory and liver functions , the stress response , and the intraoperative surgeon comfort in patients undergoing LC .
+METHODS	Patients undergoing LC ( n = 43 ) were randomized into the LPLC ( 8 mm Hg ) group ( n = 22 ) and the SPLC ( 12 mm Hg ) group ( n = 21 ) .
+METHODS	Postoperative pain , changes in liver function , peak expiration flow rate , C-reactive protein level , and intraoperative surgeon comfort were assessed .
+RESULTS	The postoperative pain scores ( P = 0.003 , 0.000 , 0.001 , and 0.002 at 0 , 4 , 8 , and 24 h ) , total analgesic requirement ( P = 0.001 ) , and the number ( total and good ) of demands for analgesic in the first 24 hours ( P = 0.002 and 0.001 ) were lower in the LPLC group .
+RESULTS	The surgeon comfort in the LPLC group was significantly lesser ( P = 0.000 ) .
+RESULTS	The liver function and peak expiration flow rate did not show any significant changes .
+RESULTS	C-reactive protein levels varied significantly only at 24 hours postoperatively ( P = 0.001 ) .
+CONCLUSIONS	The use of low-pressure pneumoperitoneum ( 8 mm Hg ) for LC is associated with a significantly lower postoperative pain .
+CONCLUSIONS	However , the use of this low-pressure pneumoperitoneum can jeopardize the surgeon 's comfort .
+

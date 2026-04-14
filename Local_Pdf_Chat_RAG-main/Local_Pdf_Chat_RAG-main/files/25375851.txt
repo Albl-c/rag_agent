@@ -1,0 +1,14 @@
+25375851
+OBJECTIVE	To compare visual outcome , higher-order aberrations , and corneal asphericity ( Q value ) between wavefront-guided and aspheric LASIK for myopia and myopic astigmatism .
+METHODS	Forty patients were randomly selected to receive wavefront-guided LASIK ( wavefront-guided group ) or aspheric LASIK ( aspheric group ) ( 40 eyes of 20 patients in each group ) using the Technolas 217z excimer laser platform ( Bausch & Lomb , Rochester , NY ) .
+METHODS	Flaps were created using the Zyoptix XP microkeratome ( Bausch & Lomb ) .
+METHODS	Preoperative and postoperative evaluation included uncorrected distance visual acuity ( UDVA ) , corneal topography , wavefront aberrometry , and contrast sensitivity .
+METHODS	Minimum follow-up period was 6 months .
+RESULTS	At 6 months postoperatively , the aspheric group had significantly better UDVA ( logMAR 0.04 0.04 [ Snellen 20/16 ] [ range : -0.079 to 0.000 ] ) and lower mean residual spherical error ( +0.10 0.52 diopters [ D ] [ range : -1.12 to 1.25 D ] ) than the wavefront-guided group ( logMAR UDVA 0.00 0.07 [ range : -0.079 to 0.176 ] ; MRSE -0.35 0.47 D [ range : -1.5 to 0.62 D ] ) ( P = .003 and < .001 , respectively ) .
+RESULTS	Mean change in higher-order aberration root mean square at 6 months postoperatively ( 6-mm pupil ) was 0.16 0.17 m after aspheric LASIK and 0.27 0.28 m after wavefront-guided LASIK ( P = .02 ) .
+RESULTS	Aspheric LASIK induced minimal change in spherical aberrations postoperatively ( 0.03 0.12 m , P = .09 ) , unlike wavefront-guided LASIK ( 0.23 0.17 m , P < .01 ) .
+RESULTS	Change in Q value was significantly less in the aspheric group ( 0.53 0.31 ) than the wavefront-guided group ( 0.91 0.30 ) ( P < .01 ) .
+RESULTS	The aspheric group had significant improvement in contrast sensitivity at all spatial frequencies ( P < .01 ) , whereas the wavefront-guided group showed a slight decrease at higher spatial frequency ( 18 cycles per degree ) .
+CONCLUSIONS	Aspheric LASIK induced significantly less change in higher-order aberrations and maintained corneal asphericity better than wavefront-guided LASIK .
+CONCLUSIONS	The visual outcome and contrast sensitivity was better in the aspheric group at 6 months postoperatively .
+

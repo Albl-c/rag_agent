@@ -1,0 +1,10 @@
+25455119
+BACKGROUND	Limited evidence exists regarding the long-term effects of community health worker-led diabetes management programs on health outcomes and cost-effectiveness , particularly in low-income , ethnic minority populations .
+OBJECTIVE	To examine the long-term cost-effectiveness and improvements in diabetes-related complications of a diabetes education and management intervention led by community health workers among uninsured Mexican Americans .
+METHODS	Clinical data , changes in hemoglobin A1c over 12 months , and costs from an RCT of 180 uninsured Mexican Americans with type 2 diabetes conducted in 2006 were utilized for secondary analyses in 2012 .
+METHODS	Simulation modeling was used to estimate long-term cost and health outcomes using the validated Archimedes Model .
+METHODS	The absolute differences for the incremental cost-effectiveness ratios and cumulative incidence of diabetes-related complications were derived by comparing intervention and control groups .
+RESULTS	During a 20-year time horizon , participants who received the intervention would be expected to have significantly lower hemoglobin A1c levels ( p < 0.001 ) , fewer foot ulcers ( p < 0.001 ) , and a reduced number of foot amputations ( p = 0.005 ) in comparison with a control group receiving usual medical care .
+RESULTS	An incremental cost-effectiveness ratio of $ 355 per quality-adjusted life year gained was estimated for intervention participants during the same time period .
+CONCLUSIONS	A simulated clinical trial suggests that a community health worker-led diabetes intervention is a cost-effective way to reduce diabetes-related complications for uninsured Mexican Americans during a 20-year horizon in comparison to usual medical care .
+

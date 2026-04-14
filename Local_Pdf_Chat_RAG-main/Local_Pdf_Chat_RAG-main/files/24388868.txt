@@ -1,0 +1,10 @@
+24388868
+BACKGROUND	If asthma patients fail to achieve symptom control using a medium dose of inhaled corticosteroid ( ICS ) alone , adding a long-acting 2 agonist ( LABA ) is the preferred treatment .
+BACKGROUND	We aimed to compare the effect of two widely available ICS/LABA combinations in these patients in real-life conditions : budesonide/formoterol ( BUD/FM ; Symbicort ( ) ) for maintenance and reliever therapy ( SMART ) and a fixed dose of fluticasone propionate/salmeterol ( FP/SM ) .
+METHODS	Inadequately controlled asthma patients treated with a medium dose of ICS alone , with an Asthma Control Questionnaire ( ACQ ) score > 0.75 and using a short-acting 2-agonist ( SABA ) 2-6 occasions/week , were enrolled .
+METHODS	Patients were randomized into two groups and treated with two inhalation twice-daily BUD/FM 160/4 .5 g plus as-needed BUD/FM ( SMART group , n = 15 ) or one inhalation twice-daily FP/SM 250/50g plus as-needed procaterol ( FP/SM group , n = 15 ) for 8 weeks .
+RESULTS	Both groups showed significant improvement in airway inflammation , pulmonary functions and symptoms from baseline .
+RESULTS	The SMART group showed significant improvement in the fraction of nitric oxide , ACQ score , rescue medication use and small airway parameter R5-R20 measured by impulse oscillometry compared with the FP/SM group .
+CONCLUSIONS	For stepping up treatment from ICS alone to an ICS/LABA combination , SMART is preferable for controlling asthma symptoms by suppressing airway inflammation and improving small airway impairment compared with a fixed dose of FP/SM .
+CONCLUSIONS	It may be achieved by the property of BUD/FM itself and as-needed use , but the degree of each contribution must be investigated further .
+

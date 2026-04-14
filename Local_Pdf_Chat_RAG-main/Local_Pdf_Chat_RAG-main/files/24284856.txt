@@ -1,0 +1,19 @@
+24284856
+BACKGROUND	Osteoarthritis is a common condition , typically treated with orally administered analgesics and non-steroidal anti-inflammatory drugs ( NSAIDs ) .
+BACKGROUND	Chronic administration of NSAIDs , serotonin-norepinephrine reuptake inhibitors ( SNRIs , i.e. , duloxetine ) , and opioid medications ( i.e. , tramadol ) is regularly associated with multiple , serious side effects , in part due to the route of administration .
+BACKGROUND	Transdermal delivery of NSAIDs , such as ibuprofen , represents a potentially alternative treatment for this inflammatory pain condition with a better therapeutic profile .
+OBJECTIVE	Investigate the safety and efficacy of a novel transdermal ibuprofen formulation ( VALE-ibuprofen ) containing 10 % ibuprofen , compared to a placebo in a randomized , double-blinded clinical trial , for clinical improvement in patients with moderate to severe painful osteoarthritis of the knee .
+METHODS	A randomized , placebo-controlled , double blind , multi-center Phase 2 clinical trial .
+METHODS	An academic medical center , and private rheumatology and interventional pain management practices .
+METHODS	The Phase 2 clinical study included patients with primary osteoarthritis in a single knee joint with a progression level of moderate to severe based in part on a grade II or III designation according to the Kellgren and Lawrence classification system .
+METHODS	Patients received the corresponding , randomly assigned study formulation ( VALE-ibuprofen or placebo ) for application to the target knee at a dose of 2.0 grams of drug product ( 200 mg ibuprofen ) twice daily for 14 days .
+METHODS	The evaluation of the efficacy of the treatments utilized the widely accepted methods of the Western Ontario and McMaster Universities ( WOMAC ) Osteoarthritis Index and the Visual Analog Scale ( VAS ) scores for the patients .
+RESULTS	The results indicate that the transdermal VALE-ibuprofen formulation was very well tolerated from a safety perspective during the 2-week trial and also produced significant , positive clinical improvements superior to the placebo in all clinical endpoints tested .
+RESULTS	In particular , the WOMACTotal and WOMACPhysical Functioning , for the VALE-ibuprofen , were superior compared to the placebo ( P = 0.0283 and P = 0.0201 , respectively ) .
+RESULTS	Other clinical endpoints including the WOMACPain , WOMACStiffness , and VASResting scores were superior to those obtained from the placebo group , trending towards statistical significance compared to placebo ( P = 0.0811 , 0.1103 , and 0.0785 , respectively ) .
+RESULTS	Based on the Patient and Physician Global Impression of Change survey , patient satisfaction slightly improved across both groups ; however , no statistical significance was detectable as compared to the baseline .
+CONCLUSIONS	The sample size of 64 subjects in the final data analysis and the lack of including an orally administered drug group are limitations of this study .
+CONCLUSIONS	The use of transdermal VALE-ibuprofen has beneficial clinical effects on the pain levels experienced in some patients with moderate to severe osteoarthritis of the knee as measured by the WOMAC Osteoarthritis Indices for stiffness , pain , physical function , and total .
+CONCLUSIONS	Visual Analog Scales ( VAS ) tests , VASMotion and VASWeight-bearing , again while appeared superior to placebo , were not statistically different from placebo .
+BACKGROUND	NCT01496326 .
+

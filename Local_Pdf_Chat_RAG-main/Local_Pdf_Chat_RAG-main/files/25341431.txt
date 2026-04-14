@@ -1,0 +1,19 @@
+25341431
+BACKGROUND	Postural balance and potentially fall risk increases among older adults living with neurological diseases , especially Parkinson 's disease ( PD ) .
+BACKGROUND	Since conventional therapies such as levodopa or deep brain stimulation may fail to alleviate or may even worsen balance , interest is growing in evaluating alternative PD therapies .
+OBJECTIVE	The purpose of the current study was to assess improvement in postural balance in PD patients following electroacupuncture ( EA ) as an alternative therapy .
+METHODS	15 aging adults ( 71.2 6.3 years ) with idiopathic PD and 44 healthy age-matched participants ( 74.6 6.5 years ) were recruited .
+METHODS	The PD participants were randomly assigned ( at a ratio of 2:1 ) to an intervention ( n = 10 ) or to a control group ( n = 5 ) .
+METHODS	The intervention group received a 30-min EA treatment on a weekly basis for 3 weeks , while the control group received a sham treatment .
+METHODS	Outcomes were assessed at baseline and after the final therapy .
+METHODS	Measurements included balance assessment , specifically the ratio of medial-lateral ( ML ) center-of-gravity ( COG ) sway to anterior-posterior ( AP ) sway ( COGML/AP ) and ankle/hip sway during eyes-open , eyes-closed , and eyes-open dual-task trials , the Unified Parkinson 's Disease Rating Scale ( UPDRS ) , as well as quality of life , concerns for fall , and pain questionnaires .
+RESULTS	No difference was observed for the assessed parameters between the intervention and the control group at baseline .
+RESULTS	After treatment , an improvement in balance performance was observed in the intervention group .
+RESULTS	Compared with the healthy population , PD patients prior to treatment had larger COGML/AP sway with more dependency on upper-body movements for maintaining balance .
+RESULTS	Following EA therapy , COGML/AP sway was reduced by 31 % and ankle/hip sway increased by 46 % in the different conditions ( p = 0.02 for the dual-task condition ) .
+RESULTS	The clinical rating revealed an overall improvement ( p < 0.01 ) in mentation , behavior , and mood ( UPDRS part I , 49 % ) , activities of daily living ( UPDRS part II , 46 % ) , and motor examination ( UPDRS part III , 40 % ) .
+RESULTS	There was a significant reduction ( p < 0.02 ) in the specific items regarding UPDRS fall status ( 67 % ) and rigidity ( 48 % ) .
+RESULTS	Changes were small and nonsignificant in the controls ( p > 0.29 ) .
+CONCLUSIONS	This pilot study demonstrates improvement in rigidity and balance following EA .
+CONCLUSIONS	These preliminary results suggest EA could be a promising alternative treatment for balance disturbance in PD .
+

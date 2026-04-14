@@ -1,0 +1,13 @@
+24689967
+OBJECTIVE	Epidemiological research links aggression to low serum concentrations of omega-3 fatty acids , such as those found in fish oil .
+OBJECTIVE	However , no studies have specifically examined whether fish oil supplementation can reduce the frequency and severity of impulsive aggression in children with disruptive behavior disorders .
+METHODS	Children presenting with impulsive aggression and meeting research criteria for diagnosis of disruptive behavior disorders were randomized to receive either : 1 ) Fish oil capsules ( 4g daily ) for 6 weeks followed by placebo ( identical-looking capsules ) for 6 weeks ; or 2 ) placebo for 6 weeks , followed by fish oil for 6 weeks , in a double-blind , crossover design .
+METHODS	Primary outcomes were the Children 's Aggression Scale and the Modified Overt Aggression Scale .
+METHODS	Secondary outcomes included emotional and behavioral functioning ( Strengths and Difficulties Questionnaire [ SDQ ] ) , hyperactivity symptoms ( Attention-Deficit/Hyperactivity Disorder [ ADHD ] Rating Scale ) , family functioning ( Family Assessment Device ) , and cognitive functioning ( Stop Signal Task , Trail-Making Task , and Eriksen Flanker Task ) .
+METHODS	Serum concentrations of omega-3 and omega-6 fatty acids were measured at baseline , and at 6 and 12 weeks .
+RESULTS	Twenty-one children participated ( 81 % male ; mean age 10.32.2 years ; range 7-14 ) .
+RESULTS	Fish oil treatment increased serum concentrations of eicosapentanoic acid ( F = 14.76 , p < 0.05 ) and total omega-3s ( F = 20.56 , p < 0.05 ) , but did not influence primary ratings of aggression .
+RESULTS	In fact , a trend suggested that fish oil worsened a secondary measure of aggression ( SDQ Conduct Subscale , F = 4.34 , p = 0.06 ) .
+RESULTS	Fish oil treatment was associated with an improvement in one rating of hyperactivity ( SDQ Hyperactivity Subscale , F = 2.22 , p < 0.05 ) , but did not influence any other outcome measures .
+CONCLUSIONS	These findings suggest that fish oil treatment does not improve aggression in children with disruptive behavior disorders .
+

@@ -1,0 +1,13 @@
+25171216
+BACKGROUND	Cerebral palsy refers to permanent , mutable motor development disorders stemming from a primary brain lesion , causing secondary musculoskeletal problems and limitations in activities of daily living .
+BACKGROUND	The aim of the present study was to determine the effects of gait training combined with transcranial direct-current stimulation over the primary motor cortex on balance and functional performance in children with cerebral palsy .
+METHODS	A double-blind randomized controlled study was carried out with 24 children aged five to 12 years with cerebral palsy randomly allocated to two intervention groups ( blocks of six and stratified based on GMFCS level ( levels I-II or level III ) .
+METHODS	The experimental group ( 12 children ) was submitted to treadmill training and anodal stimulation of the primary motor cortex .
+METHODS	The control group ( 12 children ) was submitted to treadmill training and placebo transcranial direct-current stimulation .
+METHODS	Training was performed in five weekly sessions for 2 weeks .
+METHODS	Evaluations consisted of stabilometric analysis as well as the administration of the Pediatric Balance Scale and Pediatric Evaluation of Disability Inventory one week before the intervention , one week after the completion of the intervention and one month after the completion of the intervention .
+METHODS	All patients and two examiners were blinded to the allocation of the children to the different groups .
+RESULTS	The experimental group exhibited better results in comparison to the control group with regard to anteroposterior sway ( eyes open and closed ; p < 0.05 ) , mediolateral sway ( eyes closed ; p < 0.05 ) and the Pediatric Balance Scale both one week and one month after the completion of the protocol .
+CONCLUSIONS	Gait training on a treadmill combined with anodal stimulation of the primary motor cortex led to improvements in static balance and functional performance in children with cerebral palsy .
+BACKGROUND	Ensaiosclinicos.gov.br / RBR-9B5DH7 .
+

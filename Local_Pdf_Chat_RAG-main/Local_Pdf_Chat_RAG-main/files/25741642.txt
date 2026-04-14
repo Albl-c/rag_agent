@@ -1,0 +1,16 @@
+25741642
+BACKGROUND	Recent recommendations for lung protective mechanical ventilation include a tidal volume target of 6 mL/kg predicted body weight ( PBW ) .
+BACKGROUND	Different PBW equations might introduce important differences in tidal volumes delivered to research subjects and patients .
+METHODS	PBW equations use height , age , and sex as input variables .
+METHODS	We compared National Institutes of Health ( NIH ) ARDS Network ( ARDSNet ) , actuarial table ( ACTUARIAL ) , and Stewart ( STEWART ) PBW equations used in clinical trials , across physiologic ranges for age and height .
+METHODS	We used three-dimensional and two-dimensional surface analysis to compare these PBW equations .
+METHODS	We then used age and height from actual clinical trial subjects to quantify PBW equation differences .
+RESULTS	Significant potential differences existed between these PBW predictions .
+RESULTS	The ACTUARIAL and ARDSNet surfaces for women were the only surfaces that intersected and produced both positive and negative differences .
+RESULTS	Mathematical differences between PBW equations at limits of height and age exceeded 30 % in women and 24 % in men for ACTUARIAL vs ARDSNet and about 25 % for women and 15 % for men for STEWART vs ARDSNet .
+RESULTS	The largest mathematical differences were present in older , shorter subjects , especially women .
+RESULTS	Actual differences for clinical trial subjects were as high as 15 % for men and 24 % for women .
+CONCLUSIONS	Significant differences between PBW equations for both men and women could be important sources of interstudy variation .
+CONCLUSIONS	Studies should adopt a standard PBW equation .
+CONCLUSIONS	We recommend using the NIH National Heart , Lung , and Blood Institute ARDS Network PBW equation because it is associated with the clinical trial that identified 6 mL/kg PBW as an appropriate target .
+

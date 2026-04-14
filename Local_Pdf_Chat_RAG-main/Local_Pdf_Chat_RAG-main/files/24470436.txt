@@ -1,0 +1,13 @@
+24470436
+OBJECTIVE	Observational studies suggest that hydroxychloroquine ( HCQ ) may reduce the risk of developing diabetes mellitus in patients with rheumatoid arthritis ( RA ) .
+OBJECTIVE	We examined the effect of HCQ on insulin resistance in subjects without diabetes mellitus with stable RA .
+METHODS	Twenty-three RA subjects not currently using HCQ completed a 16-week , double-blind crossover study .
+METHODS	Subjects were randomly allocated to receive HCQ ( 6.5 mg/kg/day ) or placebo for the first 8 weeks , followed by crossover to the other arm for the final 8 weeks .
+METHODS	Subjects underwent oral glucose tolerance testing and fasting lipid measurements at baseline , 8 weeks , and 16 weeks .
+METHODS	The change SD from baseline in insulin sensitivity index ( ISI ) , homeostatic model assessment for insulin resistance ( HOMA-IR ) , and lipid parameters were compared between placebo and HCQ using linear regression .
+RESULTS	The mean patient age was 56 years , with 96 % women , and the median body mass index was 26.0 kg/m2 .
+RESULTS	After 8 weeks of HCQ , the mean SD ISI increase was 0.4 2.9 compared with a small increase during placebo of 0.14 3.1 ( adjusted P = 0.785 ) , and the mean SD HOMA-IR decrease was 0.3 1.5 during HCQ versus a decrease of 0.42 1.4 during placebo ( adjusted P = 0.308 ) .
+RESULTS	Small decreases in total cholesterol ( 12.7 mg/dl ) and low-density lipoprotein ( LDL ) cholesterol ( 12.4 mg/dl ) were observed during the HCQ treatment periods ( both adjusted P < 0.05 compared to placebo ) .
+CONCLUSIONS	HCQ use for 8 weeks in patients without diabetes mellitus with stable RA produced no significant change in insulin resistance .
+CONCLUSIONS	We observed small and statistically significant improvements in total and LDL cholesterol during HCQ treatment .
+

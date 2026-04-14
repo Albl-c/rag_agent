@@ -1,0 +1,11 @@
+24857044
+BACKGROUND	The role of human equilibrative nucleoside transporter 1 ( hENT1 ) as a predictive biomarker for gemcitabine efficacy in advanced pancreatic cancer remains unclear to date .
+METHODS	AIO-PK0104 was a German multicenter phase III trial comparing gemcitabine/erlotinib followed by capecitabine ( GEC ) with capecitabine/erlotinib followed by gemcitabine ( CEG ) in advanced pancreatic cancer .
+METHODS	Archival tumour tissue from 169 of the 274 eligible study patients was available for a central and standardised immunohistochemistry staining for hENT1 expression using the SP120 rabbit monoclonal anti-hENT1 antibody .
+METHODS	Within a retrospective translational subgroup analysis , biomarker data were correlated with efficacy end-points .
+RESULTS	Thirty-nine out of 130 fresh-cut slides were scored as hENT1 ( high ) ( 30 % ) , whereas 91 samples were classified as hENT1 ( low ) ( 70 % ) .
+RESULTS	For the 62 patients randomised to CEG median overall survival was estimated with 6.4 months in the hENT1 ( low ) compared to 6.9 months in the hENT1 ( high ) subgroup ( Hazard Ratio ( HR ) 0.88 , 95 % confidence interval ( CI ) 0.48-1 .61 , p = 0.67 ) .
+RESULTS	For the 68 patients randomised to GEC survival was 5.7 months in the hENT1 ( low ) compared to 4.4 months in the hENT1 ( high ) subgroup ( HR 1.16 , 95 % CI 0.69-1 .96 , p = 0.57 ) .
+RESULTS	In 101 patients receiving gemcitabine at any time during study treatment ( either within the 1st - or 2nd-line setting ) hENT1 ( low ) cases had a median overall survival of 7.5 months and hENT1 ( high ) patients an overall survival of 4.4 months ( HR 1.30 , 95 % CI 0.84-2 .03 , p = 0.24 ) , respectively .
+CONCLUSIONS	Within this subgroup analysis from Arbeitsgemeinschaft Internistische Onkologie-pancreatic cancer ( AIO-PK0104 ) , no evidence supporting the use of hENT1 as a predictive biomarker for gemcitabine efficacy in patients with advanced pancreatic cancer was found .
+

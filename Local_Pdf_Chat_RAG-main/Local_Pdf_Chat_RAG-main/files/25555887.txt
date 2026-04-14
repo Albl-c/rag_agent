@@ -1,0 +1,9 @@
+25555887
+OBJECTIVE	We aim to examine predictors of opiate abstinence status 3 months after the end of buprenorphine/naloxone treatment for opioid-dependent participants .
+METHODS	Participants ( n = 516 , age > 15 years ) received buprenorphine / naloxone treatment for 4 weeks and then randomly assigned to undergo dose tapering over either 7 days or 28 days .
+METHODS	Bivariate analysis was performed to identify possible predictors of successful opiate abstinence outome ( p-value < 0.10 ) .
+METHODS	Logistic regression analysis with backward stepwise selection was , then , performed to produce final model containing independent predictors at p-value < 0.05 .
+RESULTS	Bivariate analysis identified several possible predictors including : opioid and drug urine tests result at the end taper ; employment status , family problems , and alcohol use domains of addiction severity index ( ASI ) score ; and clinical opiate withdrawal scale ( COWS ) at the end of stabilization .
+RESULTS	Final predictor list identified by logistic regression include : ASI score for family and alcohol problems , COWS at the end of stabilization and opiate urine test at the end of taper .
+CONCLUSIONS	Participants presenting with a negative urine test for opiate , more severe alcohol , more severe family problems , or more symptoms of opiate withdrawal at the end of stabilization were more likely to have a successful opiate abstinence .
+

@@ -1,0 +1,19 @@
+25604219
+OBJECTIVE	To evaluate the efficacy and safety of dexmedetomidine for post-operative elder patients on mechanical ventilation ( MV ) .
+METHODS	For this randomized controlled trial , 108 cases of post-operative patients on MV were enrolled and assigned into either dexmedetomidine group ( n = 54 ) or propofol group ( n = 54 ) for sedation .
+METHODS	And propofol was used for rescue .
+METHODS	The dose of sedation was regulated by Ramsay score for maintaining a sedative score of 3-4 .
+METHODS	In both groups , fentanyl was provided intravenously continually for analgesia .
+METHODS	The amount of fentanyl was adjusted according to the numerical rating scale ( NRS ) score for maintaining an analgesic score of 0-3 .
+METHODS	The average Ramsay score , the frequency of propofol , the highest score of NRS , the total dosage of fentanyl and recovery time were compared .
+METHODS	Additional outcomes included duration of mechanical ventilation and intensive care unit ( ICU ) length .
+METHODS	And the incidence of delirium and cardiovascular adverse events were compared for two groups .
+RESULTS	No significant inter-group difference existed in the effectiveness of sedation .
+RESULTS	Compare with propofol group , the highest score of NRS decreased ( 1.8 1.12 vs 3.1 1.24 , P < 0.05 ) , the total dosage of fentanyl significantly decreased ( 427.6 14.1 vs 658.4 27.3 g , P < 0.05 ) and recovery time became significantly shortened ( 0.3 0.02 h vs 1.1 0.3 h , P < 0.05 ) in dexmedetomidine group .
+RESULTS	Median duration of mechanical ventilation in dexmedetomidine group ( 21.0 h , 95 % CI : 18.6-21 .4 h ) was significantly shorter than that in propofol group ( 28.0 h , 95 % CI : 25.6-30 .4 h ) ( P < 0.05 ) .
+RESULTS	No inter-group differences existed in the ICU length of stay and the incidence of delirium .
+RESULTS	Two cases in dexmedetomidine group developed bradycardia while hypotension occurred in two cases of propofol group .
+CONCLUSIONS	Sedative effects of dexmedetomidine are safe and effective for post-operative elder patients on MV .
+CONCLUSIONS	And it offers a better efficacy of analgesia and shorter durations of MV and recovery time .
+CONCLUSIONS	But dexmedetomidine had no significant influence on the ICU length of stay or the incidence of delirium .
+

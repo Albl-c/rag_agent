@@ -1,0 +1,12 @@
+24307559
+OBJECTIVE	To assess the reproducibility of brain-activation and eye-movement patterns in a saccade paradigm when comparing subjects , tasks , and magnetic resonance ( MR ) systems .
+METHODS	Forty-five healthy adults at two different sites ( n = 45 ) performed saccade tasks with varying levels of target predictability : predictable ( PRED ) , position predictable ( pPRED ) , time predictable ( tPRED ) , and prosaccade ( SAC ) .
+METHODS	Eye-movement pattern was tested with a repeated-measures analysis of variance .
+METHODS	Activation maps reproducibility were estimated with the cluster overlap Jaccard index and signal variance coefficient of determination for within-subjects test-retest data , and for between-subjects data from the same and different sites .
+RESULTS	In all groups latencies increased with decreasing target predictability : PRED < pPRED < tPRED < SAC ( P < 0,001 ) .
+RESULTS	Activation overlap was good to fair ( > 0.40 ) in all tasks in the within-subjects test-retest comparisons and poor ( < 0.40 ) in the tPRED for different subjects .
+RESULTS	The overlap of the different tasks for within-groups data was higher ( 0.40-0 .68 ) than for the between-groups data ( 0.30-0 .50 ) .
+RESULTS	Activation consistency was 60-85 % in the same subjects , 50-79 % in different subjects , and 50-80 % in different sites .
+RESULTS	In SAC , the activation found in the same and in different subjects was more consistent than in other tasks ( 50-80 % ) .
+CONCLUSIONS	The predictive saccade tasks produced evidence for brain-activation and eye-movement reproducibility .
+

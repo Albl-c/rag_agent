@@ -1,0 +1,14 @@
+24738701
+BACKGROUND	Gut microbiota modifiers may have beneficial effects of non-alcoholic fatty liver disease ( NAFLD ) but randomised controlled trials ( RCT ) are lacking in children .
+OBJECTIVE	To perform a double-blind RCT of VSL # 3 vs. placebo in obese children with biopsy-proven NAFLD .
+METHODS	Of 48 randomised children , 44 ( 22 VSL # 3 and 22 placebo ) completed the study .
+METHODS	The main outcome was the change in fatty liver severity at 4 months as detected by ultrasonography .
+METHODS	Secondary outcomes were the changes in triglycerides , insulin resistance as detected by the homoeostasis model assessment ( HOMA ) , alanine transaminase ( ALT ) , body mass index ( BMI ) , glucagon-like peptide 1 ( GLP-1 ) and activated GLP-1 ( aGLP-1 ) .
+METHODS	Ordinal and linear models with cluster confidence intervals were used to evaluate the efficacy of VSL # 3 vs. placebo at 4 months .
+RESULTS	At baseline , moderate and severe NAFLD were present in 64 % and 36 % of PLA children and in 55 % and 45 % of VSL # 3 children .
+RESULTS	The probability that children supplemented with VSL # 3 had none , light , moderate or severe FL at the end of the study was 21 % , 70 % , 9 % and 0 % respectively with corresponding values of 0 % , 7 % , 76 % and 17 % for the placebo group ( P < 0.001 ) .
+RESULTS	No between-group differences were detected in triglycerides , HOMA and ALT while BMI decreased and GLP-1 and aGLP1 increased in the VSL # 3 group ( P < 0.001 for all comparisons ) .
+CONCLUSIONS	A 4-month supplement of VSL # 3 significantly improves NAFLD in children .
+CONCLUSIONS	The VSL # 3-dependent GLP-1 increase could be responsible for these beneficial effects .
+CONCLUSIONS	Trial identifier : NCT01650025 ( www.clinicaltrial.gov ) .
+

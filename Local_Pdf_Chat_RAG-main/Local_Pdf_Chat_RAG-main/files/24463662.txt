@@ -1,0 +1,13 @@
+24463662
+OBJECTIVE	To examine the association between second-trimester maternal serum 25-hydroxyvitamin D concentrations and risk of small for gestational age ( SGA ) in singleton live births .
+METHODS	We assayed serum samples at 12-26 weeks of gestation for 25-hydroxyvitamin D in a sample of participants in a multicenter clinical trial of low-dose aspirin for the prevention of preeclampsia in high-risk women ( n = 792 ) .
+METHODS	Multivariable log-binomial regression models were used to assess the association between 25-hydroxyvitamin D and risk of SGA ( birth weight less than the 10 percentile for gestational age ) after adjustment for confounders including maternal prepregnancy obesity , race , treatment allocation , and risk group .
+RESULTS	Thirteen percent of neonates were SGA at birth .
+RESULTS	Mean ( standard deviation ) 25-hydroxyvitamin D concentrations were lower in women who delivered SGA ( 57.9 [ 29.9 ] nmol/L ) compared with non-SGA neonates ( 64.8 [ 29.3 ] nmol/L , P = .028 ) .
+RESULTS	In adjusted models , 25-hydroxyvitamin D concentrations of 50-74 nmol/L and 75 nmol/L or greater compared with less than 30 nmol/L were associated with 43 % ( 95 % confidence interval [ CI ] 0.33-0 .99 ) and 54 % ( 95 % CI 0.24-0 .87 ) reductions in risk of SGA , respectively .
+RESULTS	Race and maternal obesity each modified this association .
+RESULTS	White women with 25-hydroxyvitamin D 50 nmol/L or greater compared with less than 50 nmol/L had a 68 % reduction in SGA risk ( adjusted risk ratio 0.32 , 95 % CI 0.17-0 .63 ) and nonobese women with 25-hydroxyvitamin D 50 nmol/L or greater compared with less than 50 nmol/L had a 50 % reduction in SGA risk ( adjusted risk ratio 0.50 , 95 % CI 0.31-0 .82 ) .
+RESULTS	There was no association between 25-hydroxyvitamin D and risk of SGA in black or obese mothers .
+CONCLUSIONS	Maternal vitamin D status in the second trimester is associated with risk of SGA among all women and in the subgroups of white and nonobese women .
+METHODS	II .
+

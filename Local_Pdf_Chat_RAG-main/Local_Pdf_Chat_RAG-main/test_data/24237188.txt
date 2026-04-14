@@ -1,0 +1,11 @@
+24237188
+OBJECTIVE	Paullinia cupana ( guaran ) is an Amazonian plant that has been previously shown to be effective in treating chemotherapy-related fatigue ( CRF ) in patients with breast cancer .
+OBJECTIVE	We aimed to evaluate the efficacy of a purified dry extract of P. cupana ( PC-18 ) in patients with various solid tumors treated with chemotherapy .
+METHODS	We included 40 patients with solid tumors who showed increases in their Brief Fatigue Inventory ( BFI ) questionnaire scores after 1 week of systemic chemotherapy .
+METHODS	PC-18 was administered at 37.5 mg by mouth two times per day ( PO bid ) , starting after 1 week of chemotherapy , for 3 weeks ( induction phase ) .
+METHODS	Patients who had an improvement in or stabilization of their BFI scores were randomized to receive either PC-18 at the same dose or placebo for the following 3 weeks ( maintenance phase ) .
+RESULTS	After PC-18 treatment , the BFI fatigue scores improved or stabilized in 36 out of the 40 patients ( mean BFI score difference = 2.503 ; 95 % confidence interval : 1.716-3 .375 , p = .0002 ) .
+RESULTS	Three weeks after randomization ( 16 patients on PC-18 and 17 on placebo ) , we observed no significant differences in the BFI , Functional Assessment of Chronic Illness Therapy , Hospital Anxiety and Depression Scale , and Pittsburgh Sleep Quality Index scores between patients randomized to PC-18 versus placebo .
+CONCLUSIONS	We conclude that the PC-18 extract may be effective for the treatment of CRF in patients with a variety of solid tumors .
+CONCLUSIONS	A conditioning effect , which was observed in patients who had a beneficial effect of PC-18 on CRF , may explain the better than expected fatigue scores of the placebo-treated patients .
+

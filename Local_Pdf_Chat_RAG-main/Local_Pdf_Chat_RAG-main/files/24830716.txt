@@ -1,0 +1,19 @@
+24830716
+BACKGROUND	Clinical practice guidelines are considered important instruments to improve quality of care .
+BACKGROUND	However , success is dependent on adherence , which may be improved using peer assessment , a strategy in which professionals assess performance of their peers in a simulated setting .
+OBJECTIVE	The aim of this study was to determine whether peer assessment is more effective than case-based discussions to improve knowledge and guideline-consistent clinical reasoning in the Dutch physical therapy guideline for low back pain ( LBP ) .
+METHODS	A cluster randomized controlled trial was conducted .
+METHODS	Ten communities of practice ( CoPs ) of physical therapists were cluster randomized ( N = 90 ) : 6 CoPs in the peer-assessment group ( n = 49 ) and 4 CoPs in the case-based discussion group ( control group ) ( n = 41 ) .
+METHODS	Both groups participated in 4 educational sessions and used clinical patient cases .
+METHODS	The peer-assessment group reflected on performed LBP management in different roles .
+METHODS	The control group used structured discussions .
+METHODS	Outcomes were assessed at baseline and at 6 months .
+METHODS	The primary outcome measure was knowledge and guideline-consistent reasoning , measured with 12 performance indicators using 4 vignettes with specific guideline-related patient profiles .
+METHODS	For each participant , the total score was calculated by adding up the percentage scores ( 0-100 ) per vignette , divided by 4 .
+METHODS	The secondary outcome measure was reflective practice , as measured by the Self-Reflection and Insight Scale ( 20-100 ) .
+RESULTS	Vignettes were completed by 78 participants ( 87 % ) .
+RESULTS	Multilevel analysis showed an increase in guideline-consistent clinical reasoning of 8.4 % in the peer-assessment group , whereas the control group showed a decline of 0.1 % ( estimated group difference = 8.7 % , 95 % confidence interval = 3.9 to 13.4 ) .
+RESULTS	No group differences were found on self-reflection .
+CONCLUSIONS	The small sample size , a short-term follow-up , and the use of vignettes as a proxy for behavior were limitations of the study .
+CONCLUSIONS	Peer assessment leads to an increase in knowledge and guideline-consistent clinical reasoning .
+

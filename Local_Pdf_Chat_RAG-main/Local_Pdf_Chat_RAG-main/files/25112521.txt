@@ -1,0 +1,14 @@
+25112521
+BACKGROUND	There is a large body of evidence for the involvement of the parietal cortex in orientation and navigation in space .
+BACKGROUND	This has been supplemented by investigation of the contribution of a number of subregions using transcranial magnetic stimulation .
+OBJECTIVE	The role of the precuneus area , located in the medial plane of posterior parietal cortex ( PPC ) , in visuospatial functions is not well understood .
+OBJECTIVE	We investigated the contribution of this area using the landmark task .
+METHODS	Participants were asked to make forced-choice judgments of which side of prebisected line was longer for near and far viewing conditions ( 70 and 180cm , respectively ) .
+METHODS	Online 10Hz , repetitive transcranial magnetic stimulation ( rTMS ) was delivered for 500ms over the right precuneus , rPPC and vertex ( control ) , in separate blocks of trials .
+METHODS	The rPPC stimulation was used as a positive control , having previously resulted in `` neglect like '' spatial bias effects in a number of studies .
+RESULTS	A no-TMS condition showed a leftward spatial bias ( pseudoneglect ) for near space judgments but not for far space and was used as the baseline .
+RESULTS	Precuneus stimulation resulted in rightward spatial bias from the midpoint in near space similar to the rPPC neglect-like effect .
+RESULTS	No significant effects were seen with vertex stimulation .
+CONCLUSIONS	This study shows that precuneus , like other parietal areas , is involved in visuospatial functions .
+CONCLUSIONS	Further work is required to clarify how the contribution of this area differs from other parietal regions .
+

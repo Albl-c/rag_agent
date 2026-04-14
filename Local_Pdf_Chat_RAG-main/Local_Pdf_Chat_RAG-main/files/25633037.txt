@@ -1,0 +1,14 @@
+25633037
+BACKGROUND	We performed a multicentre randomised controlled trial to evaluate the effect on participation in organised screening programmes of a self-sampling device mailed home or picked up at a pharmacy compared with the standard recall letter .
+METHODS	Women aged 30-64 non-responding to screening invitation were eligible .
+METHODS	Response rate to first invitation ranged from 30 % to 60 % between centres .
+METHODS	The control was the standard reminder letter to undergo the test used by the programme ( Pap test in three centres and HPV DNA test in three other centres ) .
+METHODS	Home mailing of the self-sampler was preceded by a letter with a leaflet about HPV .
+METHODS	The analysis was intention-to-treat .
+RESULTS	In all , 14041 women were randomised and recruited : 5012 in the control arm , 4516 to receive the self-sampler at home , and 4513 to pick up the self-sampler at a pharmacy .
+RESULTS	Participation was 11.9 % in the control , 21.6 % ( relative participation : 1.75 ; 95 % CI 1.60-1 .93 ) in home , and 12.0 % ( relative participation : 0.96 ; 95 % CI 0.86-1 .07 ) in the pharmacy arms , respectively .
+RESULTS	The heterogeneity between centres was high ( excess heterogeneity of that expected due to chance , i.e. , I ( 2 ) , 94.9 % and 94.1 % for home and pharmacy arm , respectively ) .
+RESULTS	The estimated impact on the overall coverage was +4.3 % for home mail self-sampling compared with +2.2 % for standard reminder .
+CONCLUSIONS	Home mailing of self-sampler proved to be an effective way to increase participation in screening programmes , even in those with HPV as primary testing .
+CONCLUSIONS	Picking up at pharmacies showed effects varying from centre to centre .
+

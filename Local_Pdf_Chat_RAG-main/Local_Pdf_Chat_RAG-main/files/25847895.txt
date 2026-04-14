@@ -1,0 +1,11 @@
+25847895
+OBJECTIVE	To compare the outcomes of shock wave lithotripsy ( SWL ) combined with inclined position and SWL alone in patients with lower pole calyx stones .
+METHODS	Seven hundred forty patients who underwent SWL treatment for lower pole renal stones with a total diameter of 2 cm or less were prospectively randomized into two groups .
+METHODS	They were comparable in terms of age , sex , and stone diameters .
+METHODS	Patients with lower calyceal stones ( 4-20 mm ) were randomized to SWL ( 368 patients ) or SWL with simultaneous inclination ( 372 patients ) with 30o head down Trendelenburg position ) .
+METHODS	Shock wave and session numbers were standardized according to stone size .
+METHODS	Additional standardized shock waves were given to patients with stone fragments determined by kidney urinary bladder film and ultrasound at weeks 1 , 4 , 10 .
+RESULTS	The overall stone free rate ( SFR ) was 73 % ( 268/368 ) in patients with SWL alone and 81 % ( 300/372 ) in SWL with inclination at the end of 12th week ( p = 0.015 ) .
+RESULTS	No significant adverse events were noted in both treatment groups .
+CONCLUSIONS	Simultaneous inclination of patients during SWL session increase SFR in lower caliceal stones significantly compared to SWL treatment alone .
+

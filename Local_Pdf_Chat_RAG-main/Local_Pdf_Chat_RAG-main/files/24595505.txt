@@ -1,0 +1,13 @@
+24595505
+BACKGROUND	Previous research has shown limited efficacy of nicotine replacement therapy ( NRT ) among adolescents and generally low compliance rates .
+BACKGROUND	As higher compliance rates are associated with improved abstinence rates , the present study examined predictors of NRT compliance .
+OBJECTIVE	This study aims to test whether different NRT compliance trajectories can be distinguished among adolescents , to test whether these trajectories can be predicted by demographic , smoking-related , and personality factors , and to examine abstinence rates for each trajectory .
+METHODS	Data were used from a randomized controlled trial that tested the efficacy of nicotine patches versus placebo patches among 265 Dutch adolescents .
+METHODS	During NRT treatment , adolescents filled out six online questionnaires in which they reported on the number of days they used the patches .
+METHODS	Predictors ( i.e. , demographic and smoking-related factors and personality characteristics ) and end-of-treatment abstinence were also administered through these self-reports .
+METHODS	Latent class growth analysis ( LCGA ) was used to analyze compliance data by classifying individuals into similar growth trajectories .
+RESULTS	Three compliance trajectories were found ( i.e. , `` compliers '' ( n = 89 ) , `` moderate decreasers '' ( n = 41 ) , and `` strong decreasers '' ( n = 127 ) ) .
+RESULTS	The compliers can be characterized by higher levels of conscientiousness and agreeableness and lower levels of extraversion compared with the strong decreasers , and by higher levels of conscientiousness and education compared with the moderate decreasers .
+RESULTS	Among the compliers , a substantially higher percentage of adolescents achieved abstinence at end-of-treatment ( 10 % ) compared with the moderate decreasers ( 3 % ) and the strong decreasers ( 6 % ) .
+CONCLUSIONS	These findings could be the starting point for person-tailored interventions that aim to enhance NRT compliance rates among adolescents .
+

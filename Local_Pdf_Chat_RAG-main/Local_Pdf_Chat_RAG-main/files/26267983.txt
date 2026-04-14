@@ -1,0 +1,11 @@
+26267983
+OBJECTIVE	To evaluate the effectiveness of naproxen 500 mg taken orally 30 minutes before , endometrial biopsy for pain relief during the procedure .
+METHODS	A double blind , randomized , placebo-controlled trial was conducted in 80 patients with indication for endometrial biopsy at Ramathibodi Hospital between April 2013 and January 2014 .
+METHODS	The patients were randomly allocated into two groups to receive naproxen 500 mg ( n = 40 ) or placebo ( n = 40 ) , 30 minutes before endometrial biopsy .
+METHODS	Pain score was assessed using Visual Analogue Scale during and 10 minutes after the procedure .
+METHODS	Adverse events were observed .
+RESULTS	The mean pain score during endometrial biopsy in the treatment group was significantly lower compared to the placebo group ( 5.11 0.18 vs. 6.49 0.17 , respectively , p-value < 0.001 ) .
+RESULTS	However , the mean pain score at 10 minutes after endometrial sampling were minimal and had non-statistical significance in both groups .
+RESULTS	( 0.60 0.56 vs. 0.59 0.64 , p-value 0.971 ) .
+CONCLUSIONS	Naproxen 500 mg taken orally 30 minutes before endometrial biopsy significantly reduce pain score during the procedure .
+

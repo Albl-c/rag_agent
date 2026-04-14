@@ -1,0 +1,14 @@
+24274323
+BACKGROUND	Dietary fiber ( DF ) intake in American children is suboptimal , increasing the risk of GI distress and contributing to poor diet quality .
+BACKGROUND	The objective of this study was to determine the effect of introducing two high-fiber snacks per day on gastrointestinal function as well as nutrient and food group intake in healthy children ages 7-11years old .
+METHODS	This study was a randomized controlled prospective intervention study of children 7-11years of age ( n = 81 ) attending a rural Midwestern elementary school .
+METHODS	Children were randomized by classroom to consume two high-fiber snacks per day ( total of 10-12g DF ) or their usual snacks for 8weeks .
+METHODS	Participants completed two 24-hour dietary recalls and a questionnaire about their GI health at baseline , mid-intervention ( week 4 ) , and post-intervention .
+METHODS	Dietary data was entered into NDSR 2011 and t-tests utilized to assess changes .
+METHODS	Analyses were completed in SAS 9.2 .
+RESULTS	Children consumed at least half their snack 94 % of the time when a snack was chosen ( 89 % of time ) .
+RESULTS	Participants in both the intervention and control group had healthy scores on the GI health questionnaire at all time points .
+RESULTS	The intervention group increased DF ( P = 0.0138 ) and whole grain ( WG ) intake ( P = 0.0010 ) at mid-intervention but after the intervention returned to their baseline DF intake ( P = 0.2205 ) and decreased their WG intake ( P = 0.0420 ) compared to baseline .
+RESULTS	Eating high-fiber snacks increased DF intake by 2.5 g per day ( 21 % increase ) , suggesting displacement of other fiber-rich foods .
+CONCLUSIONS	Study results indicate that children accept high-fiber foods , thus making these high-fiber foods and snacks consistently available will increase DF intake .
+

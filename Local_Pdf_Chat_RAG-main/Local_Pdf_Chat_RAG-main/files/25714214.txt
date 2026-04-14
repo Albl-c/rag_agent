@@ -1,0 +1,13 @@
+25714214
+OBJECTIVE	To evaluate the lung function and clinical outcome in severe chronic obstructive pulmonary disease in patients undergoing off-pump coronary artery bypass grafting with left internal thoracic artery graft , comparing the pleural drain insertion in the intercostal versus subxyphoid region .
+METHODS	A randomized controlled trial .
+METHODS	Chronic obstructive pulmonary disease patients were randomized into two groups according pleural drain site : II group ( n = 27 ) - pleural drain in intercostal space ; SI group ( n = 29 ) - pleural drain in the subxyphoid region .
+METHODS	Spirometry values ( Forced Vital Capacity - and Forced expiratory volume in 1 second ) were obtained on preoperative and 1 , 3 and 5 postoperative days .
+METHODS	Chest x-ray from preoperative until postoperative day 5 ( POD5 ) was performed for monitoring respiratory events , such as atelectasis and pleural effusion .
+METHODS	Pulmonary shunt fraction and pain score was evaluate preoperatively and on postoperative day 1 .
+RESULTS	In both groups there was a significant decrease of the spirometry values ( Forced Vital Capacity and Forced expiratory volume in 1 second ) until POD5 ( P < 0.05 ) .
+RESULTS	However , when compared , SI group presented less decrease in these parameters ( P < 0.05 ) .
+RESULTS	Pulmonary shunt fraction was significantly lower in SI group ( P < 0.05 ) .
+RESULTS	Respiratory events , pain score , orotracheal intubation time and postoperative length of hospital stay were lower in the SI group ( P < 0.05 ) .
+CONCLUSIONS	Subxyphoid pleural drainage in severe Chronic obstructive pulmonary disease patients determined better preservation and recovery of pulmonary capacity and volumes with lower pulmonary shunt fraction and better clinical outcomes on early postoperative off-pump coronary artery bypass grafting .
+

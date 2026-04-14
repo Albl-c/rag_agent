@@ -1,0 +1,14 @@
+24361097
+BACKGROUND	The Schirmer test ( ST ) evaluates the volume of tears in potential dry eye candidates via a strip placed in the lower tear lake .
+BACKGROUND	Previously reported inconsistencies in the results may be in part due to the lack of standardization as to the methodology , e.g. the eye position during the test .
+BACKGROUND	The purpose of this study was to evaluate the effect of eye position on the ST score .
+METHODS	A ST was performed in a randomized fashion with and without anesthesia in three open eye positions ( primary , superior and inferior ) at 20 from each other .
+METHODS	Palpebral aperture , age and a dry eye questionnaire ( OSDI ) were evaluated for correlation with the ST.
+RESULTS	In the 20 non-dry eye volunteers ( n = 20 , ages 18-40 , mean OSDI score 10.5 ) , the ST results were , as expected , lower overall ( p < .001 ) with anesthesia ( 11.33 7.78 mm ) than without ( 19.74 2.83 mm ) .
+RESULTS	The inferior gaze position resulted in higher values ( p < .03 ) than the other two positions , regardless of the use of anesthesia .
+RESULTS	No correlation was noted between the palpebral aperture , age , questionnaire and the ST.
+CONCLUSIONS	The ST seems to be influenced by the position of gaze .
+CONCLUSIONS	However , the mechanism for this , effect remains unclear .
+CONCLUSIONS	Further studies could focus on whether an inferior gaze of 20 compresses the tear film falsely , thereby elevating the tear volume .
+CONCLUSIONS	It is recommended that the clinician should adopt a standard eye position for the ST and that future reports provide specifics as to the methodology used .
+

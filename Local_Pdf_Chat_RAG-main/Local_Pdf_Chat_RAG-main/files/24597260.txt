@@ -1,0 +1,9 @@
+24597260
+OBJECTIVE	To explore the effect of patient-controlled lumbar epidural combined anesthesia with Doula for labor analgesia with ropivacaine and sufentanil , and its influence on the progress of labor , and outcomes of mother and infant .
+METHODS	Two hundred parturients that requested labor analgesia were randomly selected by patient-controlled lumbar epidural combined anesthesia with Doula as the observation group , meanwhile another 200 parturients were selected as the control group without any analgesic measurements .
+METHODS	Labor pain score , labor duration , blood gas analysis results , the incidence of cesarean section , neonatal asphyxia , and postpartum hemorrhage were compared between the two groups .
+RESULTS	Compared with the control group , labor analgesic effect was remarkable , the cesarean section rate was significantly reduced in observation group , and the difference was statistically significant ( p < 0.05 ) , but with respect to the duration of labor , maternal , postpartum hemorrhage , and neonatal asphyxia , there was no statistical significance between the two groups ( p > 0.5 ) .
+RESULTS	In the observation group regarding maternal and neonatal blood gas analysis results , PO2 was higher and PCO2 was lower than those in the control group .
+RESULTS	The differences were statistically significant ( p < 0.05 ) .
+CONCLUSIONS	Labor analgesia by patient-controlled lumbar epidural combined anesthesia accompanied with Doula with ropivacaine and sufentanil is effective , safe , reliable , has no adverse effects , and reduces cesarean section rate .
+

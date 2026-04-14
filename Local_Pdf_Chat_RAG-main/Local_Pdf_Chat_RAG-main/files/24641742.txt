@@ -1,0 +1,9 @@
+24641742
+OBJECTIVE	The rehabilitation program after flexor tendon repair of zone II laceration varies .
+OBJECTIVE	We designed a Prospective Randomized Controlled Trial of controlled passive mobilization ( modified Kleinert ) vs. Place and active hold exercises after zone 2-flexor tendon repair by two-strand suture ( Modified kessler ) .
+METHODS	Sixty-four fingers in 54 patients with zone 2 flexor tendon modified Kessler repairs were enrolled in a prospective randomized controlled trial comparing place and active hold exercises to controlled passive mobilization ( modified Kleinert ) .
+METHODS	The primary outcome measure was total active motion eight weeks after repair as measured by an independent and blinded therapist .
+RESULTS	Patients treated with place and active hold exercises had significantly greater total active motion ( 146 ) eight weeks after surgery than patients treated with controlled passive mobilization ( 114 ) ( modified Klinert ) .
+RESULTS	There were no ruptures in either group .
+CONCLUSIONS	Place and hold achieves greater motion than controlled passive mobilization after a two-strand repair for zone 2 flexor tendon repairs .
+

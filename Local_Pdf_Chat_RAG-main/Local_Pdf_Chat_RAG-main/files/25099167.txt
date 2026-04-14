@@ -1,0 +1,15 @@
+25099167
+BACKGROUND	Clinical decision rules ( CDRs ) can be an effective tool for knowledge translation in emergency medicine , but their implementation is often a challenge .
+BACKGROUND	This study examined whether the Theory of Planned Behaviour ( TPB ) could help explain the inconsistent results between the successful Canadian C-Spine Rule ( CCR ) implementation study and unsuccessful Canadian CT Head Rule ( CCHR ) implementation study .
+BACKGROUND	Both rules are aimed at improving the accuracy and efficiency of emergency department radiography use in clinical contexts that exhibit enormous inefficiency at the present time .
+BACKGROUND	The rules were prospectively derived and validated using the same methodology demonstrating high sensitivity and reliability .
+BACKGROUND	The rules subsequently underwent parallel implementations at 12 Canadian hospitals , yet only the CCR was observed to significantly reduce radiography ordering rates , while the CCHR failed to have any significant impact at all .
+BACKGROUND	The drastically different results are unlikely to be the result of differences in implementation strategies or the decision rules .
+METHODS	Physicians at the 12 participating Canadian hospitals were randomized to CCR or CCHR TPB surveys that were administered during the baseline phases of the implementation studies , before any intervention had taken place .
+METHODS	The collected baseline survey data were linked to concurrent baseline physician and patient-specific imaging data , and subsequently analyzed using mixed effects linear and logistic models .
+RESULTS	A total of 223 of the 378 eligible physicians randomized to a TPB survey completed their assigned baseline survey ( CCR : 122 of 181 ; CCHR : 101 of 197 ) .
+RESULTS	Attitudes were significantly associated with intention in both settings ( CCR : = 0.40 ; CCHR : = 0.30 ) , as were subjective norms ( CCR : = 0.26 ; CCHR : = 0.73 ) .
+RESULTS	Intention was significantly associated with actual image ordering for CCR ( OR = 1.79 ) , but not CCHR .
+CONCLUSIONS	The TPB can be used to better understand processes underlying use of CDRs .
+CONCLUSIONS	TPB constructs were significantly associated with intention to perform both imaging behaviours , but intention was only associated with actual behaviour for CCR , suggesting that constructs outside of the TPB framework may need to be considered when seeking to understand use of CDRs .
+

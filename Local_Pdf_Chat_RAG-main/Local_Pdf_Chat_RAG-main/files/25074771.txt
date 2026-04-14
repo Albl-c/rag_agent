@@ -1,0 +1,10 @@
+25074771
+OBJECTIVE	To investigate the effects of lutein supplementation on plasma lutein concentrations and the macular pigment optical density ( MPOD ) in central serous chorioretinopathy ( CSC ) .
+METHODS	In this double-masked placebo-controlled study , 20 patients received lutein 20 mg/d and 19 received placebo .
+METHODS	The plasma lutein concentration and MPOD using autofluorescence spectrometry ( density unit , DU ) were measured at baseline and 1 and 4 months .
+RESULTS	The mean plasma lutein concentrations and MPOD values in the lutein and control groups , respectively , were 91.5 and 78.2 ng/mL and 0.444 and 0.437 DU at baseline ; 204.9 and 79.3 ng/mL and 0.460 and 0.442 DU at 1 month ; and 228.0 and 78.4 ng/mL and 0.441 and 0.421 DU at 4 months .
+RESULTS	The plasma concentration in the lutein group was significantly higher than in controls at 1 and 4 months ( P < 0.0001 for both comparisons ) ; however , the MPOD values did not differ significantly between groups at 1 ( P = 0.479 ) or 4 months ( P = 0.883 ) .
+RESULTS	In patients with a plasma lutein concentration below the mean level in 20 age-matched healthy subjects ( mean 105.3 ng/mL ; n = 13 in lutein group , n = 15 in control group ) , the control MPOD values significantly ( P = 0.0430 ) decreased at 4 months ( mean baseline , 0.437 DU ; 4 months , 0.404 DU ) .
+RESULTS	The MPOD in the lutein group remained at the baseline level ( mean baseline , 0.426 DU ; 4 months , 0.438 DU ) ( P = 0.6542 ) .
+CONCLUSIONS	The MPOD did not increase in patients with CSC with short-term lutein supplementation ; however , among patients with low plasma lutein , supplemental lutein prevented a decline in MPOD that was observed in control subjects ( www.umin.ac.jp/ctr number , UMIN000005849 ) .
+

@@ -1,0 +1,13 @@
+25243819
+OBJECTIVE	To evaluate the veterinary student learning outcome of 2 methods of equine rectal examination training .
+METHODS	Randomized prospective study .
+METHODS	Veterinary students ( 3rd and 4th year ; n = 40 ) and practicing equine veterinarians ( n = 10 ) .
+METHODS	Year 1 : Group 1 ( n = 11 ) and Group 2 students ( n = 10 ) received skilled instructor ( SI ) and laparoscopic-guidance ( LG ) , respectively , during rectal exam instruction .
+METHODS	All students were tested on rectal identification of 4 abdominal organs .
+METHODS	Year 2 : One group of students ( n = 19 ) was trained and subsequently tested using each technique , first SI , followed by LG .
+METHODS	Subjective evaluation of laparoscopy as a teaching tool was achieved with veterinary students and equine practitioners .
+RESULTS	A significantly greater percentage of students having LG compared to SI were able to correctly identify the left kidney ( Year 1 ) and the spleen , cecum , and right ovary ( Year 2 ) .
+RESULTS	A significantly greater proportion of LG trained students in years 1 and 2 ( 100 % and 95 % , respectively ) were also able to identify 75 % of organs compared with SI ( 27 % and 21 % , respectively ) .
+RESULTS	Both students and veterinarians uniformly provided favorable feedback for LG in teaching rectal palpation skills .
+CONCLUSIONS	The LG method of equine rectal examination instruction resulted in improved learning for identification of several key abdominal organs compared with SI .
+

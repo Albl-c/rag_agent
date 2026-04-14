@@ -1,0 +1,15 @@
+24888818
+OBJECTIVE	Increased circulating tumor cells ( CTCs ; five or more CTCs per 7.5 mL of whole blood ) are associated with poor prognosis in metastatic breast cancer ( MBC ) .
+OBJECTIVE	A randomized trial of patients with persistent increase in CTCs tested whether changing chemotherapy after one cycle of first-line chemotherapy would improve the primary outcome of overall survival ( OS ) .
+METHODS	Patients with MBC who did not have increased CTCs at baseline remained on initial therapy until progression ( arm A ) .
+METHODS	Patients with initially increased CTCs that decreased after 21 days of therapy remained on initial therapy ( arm B ) .
+METHODS	Patients with persistently increased CTCs after 21 days of therapy were randomly assigned to continue initial therapy ( arm C1 ) or change to an alternative chemotherapy ( arm C2 ) .
+RESULTS	Of 595 eligible and evaluable patients , 276 ( 46 % ) did not have increased CTCs ( arm A ) .
+RESULTS	Of those with initially increased CTCs , 31 ( 10 % ) were not retested , 165 were assigned to arm B , and 123 were randomly assigned to arm C1 or C2 .
+RESULTS	No difference in median OS was observed between arm C1 and C2 ( 10.7 and 12.5 months , respectively ; P = .98 ) .
+RESULTS	CTCs were strongly prognostic .
+RESULTS	Median OS for arms A , B , and C ( C1 and C2 combined ) were 35 months , 23 months , and 13 months , respectively ( P < .001 ) .
+CONCLUSIONS	This study confirms the prognostic significance of CTCs in patients with MBC receiving first-line chemotherapy .
+CONCLUSIONS	For patients with persistently increased CTCs after 21 days of first-line chemotherapy , early switching to an alternate cytotoxic therapy was not effective in prolonging OS .
+CONCLUSIONS	For this population , there is a need for more effective treatment than standard chemotherapy .
+

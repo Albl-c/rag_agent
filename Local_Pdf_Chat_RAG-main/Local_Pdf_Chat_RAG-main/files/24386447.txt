@@ -1,0 +1,17 @@
+24386447
+BACKGROUND	Health IT can play a major role in improving patient safety .
+BACKGROUND	Computerized physician order entry with decision support can alert providers to potential prescribing errors .
+BACKGROUND	However , too many alerts can result in providers ignoring and overriding clinically important ones .
+OBJECTIVE	To evaluate the appropriateness of providers ' drug-drug interaction ( DDI ) alert overrides , the reasons why they chose to override these alerts , and what actions they took as a consequence of the alert .
+METHODS	A cross-sectional , observational study of DDI alerts generated over a three-year period between January 1st , 2009 , and December 31st , 2011 .
+METHODS	Primary care practices affiliated with two Harvard teaching hospitals .
+METHODS	The DDI alerts were screened to minimize the number of clinically unimportant warnings .
+METHODS	A total of 24,849 DDI alerts were generated in the study period , with 40 % accepted .
+METHODS	The top 62 providers with the highest override rate were identified and eight overrides randomly selected for each ( a total of 496 alert overrides for 438 patients , 3.3 % of the sample ) .
+RESULTS	Overall , 68.2 % ( 338/496 ) of the DDI alert overrides were considered appropriate .
+RESULTS	Among inappropriate overrides , the therapeutic combinations put patients at increased risk of several specific conditions including : serotonin syndrome ( 21.5 % , n = 34 ) , cardiotoxicity ( 16.5 % , n = 26 ) , or sharp falls in blood pressure or significant hypotension ( 28.5 % , n = 45 ) .
+RESULTS	A small number of drugs and DDIs accounted for a disproportionate share of alert overrides .
+RESULTS	Of the 121 appropriate alert overrides where the provider indicated they would `` monitor as recommended '' , a detailed chart review revealed that only 35.5 % ( n = 43 ) actually did .
+RESULTS	Providers sometimes reported that patients had already taken interacting medications together ( 15.7 % , n = 78 ) , despite no evidence to confirm this .
+CONCLUSIONS	We found that providers continue to override important and useful alerts that are likely to cause serious patient injuries , even when relatively few false positive alerts are displayed .
+

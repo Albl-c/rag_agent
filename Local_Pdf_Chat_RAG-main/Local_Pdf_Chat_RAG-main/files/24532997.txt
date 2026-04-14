@@ -1,0 +1,13 @@
+24532997
+OBJECTIVE	To assess the effect of armodafinil on task-related prefrontal cortex activation using functional magnetic resonance imaging ( fMRI ) in patients with obstructive sleep apnea ( OSA ) and excessive sleepiness despite continuous positive airway pressure ( CPAP ) therapy .
+METHODS	This 2-week , multicenter , prospective , randomized , double-blind , placebo-controlled , parallel-group study was conducted at five neuroimaging sites and four collaborating clinical study centers in the United States .
+METHODS	Patients were 40 right-handed or ambidextrous men and women aged between 18 and 60 years , with OSA and persistent sleepiness , as determined by multiple sleep latency and Epworth Sleepiness Scale scores , despite effective , stable use of CPAP .
+METHODS	Treatment was randomized ( 1:1 ) to once-daily armodafinil 200 mg or placebo .
+METHODS	The primary efficacy outcome was a change from baseline at week 2 in the volume of activation meeting the predefined threshold in the dorsolateral prefrontal cortex during a 2-back working memory task .
+METHODS	The key secondary measure was the change in task response latency .
+RESULTS	No significant differences were observed between treatment groups in the primary or key secondary outcomes .
+RESULTS	Armodafinil was generally well tolerated .
+RESULTS	The most common adverse events ( occurring in more than one patient [ 5 % ] ) were headache ( 19 % ) , nasopharyngitis ( 14 % ) , and diarrhea ( 10 % ) .
+CONCLUSIONS	Armodafinil did not improve fMRI-measured functional brain activation in CPAP-treated patients with OSA and excessive sleepiness .
+BACKGROUND	Double-Blind , Placebo-Controlled , Functional Neuroimaging Study of Armodafinil ( 200 mg/Day ) on Prefrontal Cortical Activation in Patients With Residual Excessive Sleepiness Associated With Obstructive Sleep Apnea/Hypopnea .
+

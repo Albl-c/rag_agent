@@ -1,0 +1,19 @@
+25607118
+BACKGROUND	LifeWave Energy Enhancer ( LEE ) patches ( LifeWave Corp , San Diego , CA , USA ) on skin produce some changes that are consistent with increased energy production , but little is known about their effects on cortisol concentrations or the peripheral circulation .
+OBJECTIVE	The study intended to assess the effects of LEE patches on salivary cortisol , peripheral circulation , and psychological measures on healthy adults .
+METHODS	A double-blind , placebo-controlled , randomized pilot study was performed .
+METHODS	Measurements were made in the laboratory at Mind-Body-Science ( Tucson , AZ , USA ) .
+METHODS	Participants collected some of the saliva samples at work or home .
+METHODS	To obtain pilot data , 20 healthy individuals with no chronic conditions were recruited-5 males and 15 females-aged 30-69 y.
+METHODS	Participants completed baseline psychological questionnaires and provided saliva samples for hormonal analysis .
+METHODS	The next day , fingertip microvascular perfusion was measured , LEE or placebo patches were applied to participants ' wrists , and perfusion scans were repeated , first immediately after and then 10 min after application of the patch .
+METHODS	Saliva samples were collected , and questionnaires were completed .
+METHODS	Participants returned at noon and 4:00 PM for further scans , and at the end of that time , the patches were removed .
+METHODS	The protocol was repeated the following day using new patches .
+METHODS	The research team analyzed the saliva samples for levels of cortisol and measured the percentage changes in cutaneous microvascular perfusion .
+METHODS	The participants completed the energy visual analog scales ( eVASs ) and the Marlowe-Crowne Social Desirability survey .
+RESULTS	After the first patch application , the active group showed significantly higher cortisol concentrations than the placebo group , both at noon-2 .39 0.17 ng/mL vs 2.15 0.27 ( P = .0360 ) , respectively-and at 4:00 PM - 2.02 0.24 vs 1.67 0.31 ( P = .0155 ) , respectively .
+RESULTS	No consistent changes occurred in perfusion .
+RESULTS	The eVAS score decreased significantly compared with baseline in the placebo group but not in the active group .
+CONCLUSIONS	Cortisol concentrations and eVAS scores showed significant differences between groups , which is consistent with the patches increasing energy production , warranting further testing .
+

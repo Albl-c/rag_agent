@@ -1,0 +1,12 @@
+25511347
+OBJECTIVE	We investigated the efficacy of intravenous ( IV ) preemptive paracetamol on postoperative total fentanyl consumption and fentanyl-related side effects in patients undergoing open nephrectomy .
+METHODS	A total of 60 patients scheduled for elective open nephrectomy under general anesthesia were included .
+METHODS	All patients received Patient-controlled IV analgesia with fentanyl postoperatively .
+METHODS	Patients were randomly allocated into three equal groups : The fentanyl group received 100 mL of IV normal saline as a placebo , with the first dose ending 30 min before intubation .
+METHODS	In paracetamol group , IV 1 g paracetamol was given to the patients 30 min after extubation with repeated doses every 6 h totally 4 times a day .
+METHODS	In preemptive paracetamol group , patients received IV 1 g paracetamol every 6 h , with the first dose ending 30 min before intubation .
+RESULTS	Postoperative cumulative fentanyl consumption for 24 h was significantly higher in the fentanyl group ( 1009 139.361 g ) than those of paracetamol ( 752.25 112.665 g ) and preemptive paracetamol groups ( 761.10 226.625 g ) ( P = 0.001 for both ) .
+RESULTS	In early postoperative period ( 0-4 h ) ; whereas total fentanyl consumption showed no statistically significant difference among groups ( P = 0.186 ) , the nausea-vomiting scores were significantly higher in the fentanyl group compared with other groups ( P = 0.012 ) .
+CONCLUSIONS	In patients undergoing open nephrectomy , use of preemptive or postoperative paracetamol reduces fentanyl related nausea-vomiting without a decrease in total fentanyl consumption in the early postoperative period .
+CONCLUSIONS	Furthermore , use of preemptive or postoperative paracetamol reduces total fentanyl requirements in the first 24 h postoperatively providing a safe and effective postoperative analgesia .
+

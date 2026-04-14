@@ -1,0 +1,15 @@
+24332577
+BACKGROUND	The role of three factors in drinking outcome after brief intervention among heavily drinking HIV patients were investigated : strength of commitment to change drinking , alcohol dependence , and treatment type : brief Motivational Interview ( MI ) only , or MI plus HealthCall , a technological extension of brief intervention .
+METHODS	HIV primary care patients ( N = 139 ) who drank 4 drinks at least once in the 30 days before study entry participated in MI-only or MI+H ealthCall in a randomized trial to reduce drinking .
+METHODS	Patients were 95.0 % minority ; 23.0 % female ; 46.8 % alcohol dependent ; mean age 46.3 .
+METHODS	Outcome at end of treatment ( 60 days ) was drinks per drinking day ( Timeline Follow-Back ) .
+METHODS	Commitment strength ( CS ) was rated from MI session recordings .
+RESULTS	Overall , stronger CS predicted end-of-treatment drinking ( p < .001 ) .
+RESULTS	After finding an interaction of treatment , CS and alcohol dependence ( p = .01 ) , we examined treatmentCS interactions in alcohol dependent and non-dependent patients .
+RESULTS	In alcohol dependent patients , the treatmentcommitment strength interaction was significant ( p = .006 ) ; patients with low commitment strength had better outcomes in MI+H ealthCall than in MI-only ( lower mean drinks per drinking day ; 3.5 and 4.6 drinks , respectively ) .
+RESULTS	In non-dependent patients , neither treatment nor CS predicted outcome .
+CONCLUSIONS	Among alcohol dependent HIV patients , HealthCall was most beneficial in drinking reduction when MI ended with low commitment strength .
+CONCLUSIONS	HealthCall may not merely extend MI effects , but add effects of its own that compensate for low commitment strength .
+CONCLUSIONS	Thus , HealthCall may also be effective when paired with briefer interventions requiring less skill , training and supervision than MI .
+CONCLUSIONS	Replication is warranted .
+

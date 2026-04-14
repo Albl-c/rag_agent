@@ -1,0 +1,12 @@
+24675168
+BACKGROUND	Dietary linoleic acid ( LA , 18:2 n-6 ) lowering in rats reduces n-6 polyunsaturated fatty acid ( PUFA ) plasma concentrations and increases n-3 PUFA ( eicosapentaenoic ( EPA ) and docosahexaenoic acid ( DHA ) ) concentrations .
+OBJECTIVE	To evaluate the extent to which 12 weeks of dietary n-6 PUFA lowering , with or without increased dietary n-3 PUFAs , alters unesterified and esterified plasma n-6 and n-3 PUFA concentrations in subjects with chronic headache .
+METHODS	Secondary analysis of a randomized trial .
+METHODS	Subjects with chronic headache were randomized for 12 weeks to ( 1 ) average n-3 , low n-6 ( L6 ) diet ; or ( 2 ) high n-3 , low n-6 LA ( H3-L6 ) diet .
+METHODS	Esterified and unesterified plasma fatty acids were quantified at baseline ( 0 weeks ) and after 12 weeks on a diet .
+RESULTS	Compared to baseline , the L6 diet reduced esterified plasma LA and increased esterified n-3 PUFA concentrations ( nmol/ml ) , but did not significantly change plasma arachidonic acid ( AA , 20:4 n-6 ) concentration .
+RESULTS	In addition , unesterified EPA concentration was increased significantly among unesterified fatty acids .
+RESULTS	The H3-L6 diet decreased esterified LA and AA concentrations , and produced more marked increases in esterified and unesterified n-3 PUFA concentrations .
+CONCLUSIONS	Dietary n-6 PUFA lowering for 12 weeks significantly reduces LA and increases n-3 PUFA concentrations in plasma , without altering plasma AA concentration .
+CONCLUSIONS	A concurrent increase in dietary n-3 PUFAs for 12 weeks further increases n-3 PUFA plasma concentrations and reduces AA .
+

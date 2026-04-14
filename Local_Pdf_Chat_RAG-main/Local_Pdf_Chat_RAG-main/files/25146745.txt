@@ -1,0 +1,18 @@
+25146745
+OBJECTIVE	To explore the roles of ribavirin aerosol in the prevention and treatment of hand-foot-mouth disease ( HFMD ) .
+METHODS	For this prospective , multicenter , randomized , double-blind and placebo-controlled trial , a total of 300 HFMD outpatients from 3 class 3A hospitals from July 2011 to June 2013 were divided into treatment ( ribavirin aerosol ) and control ( placebo ) groups ( n = 150 each ) .
+METHODS	The age range was 6 months to 6 years .
+METHODS	The proportion of male and female was 1.5 : 1 .
+METHODS	Temperature , herpes of mouth and skin rash were observed before and after treatments .
+METHODS	Before treatment and 6-7 days after , their specimens of throat swab were collected and the levels of EV71 and CA16 detected with reverse transcription ( RT ) - PCR .
+METHODS	The software SAS 9.2 was used for statistic data analyses .
+RESULTS	Before treatment , no significant statistical difference existed in parameters between treatment and control groups ( all P > 0.05 ) .
+RESULTS	After treatment , the degree of herpes of mouth and papulovesicle of skin in treatment group was better than that in control group ( 100.0 % ( 147/147 ) vs 83.9 % ( 120/143 ) , ( 2 ) = 109.21 , P < 0.01 ) ; ( 100.0 % ( 147/147 ) vs 95.9 % ( 139/145 ) , ( 2 ) = 6.38 , P < 0.05 ) .
+RESULTS	The virus negative conversion rates had significant inter-group difference ( 80.0 % ( 102/110 ) vs 41.8 % ( 41/98 ) , ( 2 ) = 37.06 , P < 0.01 ) .
+RESULTS	The temperature , compliance and differences were not significant ( all P > 0.05 ) .
+RESULTS	The effective rate of comprehensive efficacy in treatment group was higher than that in control group ( 93.9 % ( 122/130 ) vs 52.0 % ( 64/123 ) , ( 2 ) = 111.08 , P < 0.01 ) .
+RESULTS	No obvious adverse drug reaction was observed .
+CONCLUSIONS	Ribavirin aerosol has multiple advantages of lower dose , quicker onset , higher local concentration , better clinical efficacy and fewer side-effects .
+CONCLUSIONS	Its therapeutic effect for local lesion is better than that for systemic lesion .
+CONCLUSIONS	Thus it may shorten the duration of oropharyngeal and skin lesions and lower the number and time of viral release .
+

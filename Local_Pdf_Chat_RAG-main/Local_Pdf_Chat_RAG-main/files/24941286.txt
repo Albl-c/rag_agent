@@ -1,0 +1,13 @@
+24941286
+OBJECTIVE	Afterschool programs can be health-promoting environments for children .
+OBJECTIVE	Written policies positively influence nutrition and physical activity ( PA ) environments , but effective strategies for building staff capacity to write such policies have not been evaluated .
+OBJECTIVE	This study measures the comprehensiveness of written nutrition , PA , and screen time policies in afterschool programs and assesses impact of the Out of School Nutrition and Physical Activity ( OSNAP ) intervention on key policies .
+METHODS	Twenty afterschool programs in Boston , MA participated in a group-randomized , controlled trial from September 2010 to June 2011 .
+METHODS	Intervention program staff attended learning collaboratives focused on practice and policy change .
+METHODS	The Out-of-School Time ( OST ) Policy Assessment Index evaluated written policies .
+METHODS	Inter-rater reliability and construct validity of the measure and impact of the intervention on written policies were assessed .
+RESULTS	The measure demonstrated moderate to excellent inter-rater reliability ( Spearman 's r = 0.53 to 0.97 ) and construct validity .
+RESULTS	OSNAP was associated with significant increases in standards-based policy statements surrounding snacks ( +2.6 , p = 0.003 ) , beverages ( +2.3 , p = 0.008 ) , screen time ( +0.8 , p = 0.046 ) , family communication ( +2.2 , p = 0.002 ) , and a summary index of OSNAP goals ( +3.3 , p = 0.02 ) .
+CONCLUSIONS	OSNAP demonstrated success in building staff capacity to write health-promoting policy statements .
+CONCLUSIONS	Future research should focus on determining policy change impact on practices .
+

@@ -1,0 +1,12 @@
+24310521
+OBJECTIVE	We sought to assess the prognostic role of collaterals in a large population of patients presenting with an acute coronary syndrome ( ACS ) .
+METHODS	The coronary collateral circulation was assessed by an independent angiographic core laboratory using the Rentrop Score in patients enrolled in the randomised Acute Catheterization and Urgent Intervention Triage Strategy trial .
+RESULTS	The cohort comprised 5412 patients with moderate to high risk ACS .
+RESULTS	A total of 858 patients ( 16.0 % ) had visible collaterals while 4554 patients ( 84.0 % ) had no collaterals .
+RESULTS	After multivariable adjustment , there were no differences in clinical outcomes at 1 year between the groups , including major adverse cardiac events ( MACE ) ( HR 0.94 ( 95 % CI 0.76 to 1.16 ) , p = 0.55 ) , mortality ( HR 1.03 ( 0.65 to 1.62 ) , p = 0.91 ) , myocardial infarction ( MI ) ( HR 1.07 ( 0.83 to 1.38 ) , p = 0.60 ) and unplanned target vessel revascularisation ( TVR ) ( HR 0.95 ( 0.71 to 1.28 ) , p = 0.75 ) .
+RESULTS	Similarly , in the subgroup of patients undergoing percutaneous coronary intervention ( PCI ) , the adjusted HR for major adverse cardiac events was 1.1 ( 0.76 to 1.61 ) , p = 0.595 ; 0.81 ( 0.10 to 6.44 ) , p = 0.999 for mortality ; and 0.86 ( 0.54 to 1.35 ) , p = 0.564 for MI .
+RESULTS	The risk of unplanned TVR was increased ( HR 2.74 ( 1.48 to 5.10 ) , p = 0.004 ) .
+CONCLUSIONS	In contrast to other studies , this large core laboratory-based analysis does not confirm a beneficial role of visible coronary collateral vessels on clinical outcomes in patients with ACS ; the presence of collaterals was even associated with increased mortality in the unadjusted analysis .
+CONCLUSIONS	Collaterals were associated with a higher risk of TVR in patients undergoing PCI , a finding that may not have been fully corrected given confounders and clinical differences between the groups .
+BACKGROUND	ClinicalTrials.gov Identifier : NCT00093158 .
+

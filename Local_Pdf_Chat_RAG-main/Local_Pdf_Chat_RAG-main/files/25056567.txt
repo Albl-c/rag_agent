@@ -1,0 +1,18 @@
+25056567
+OBJECTIVE	We sought to determine the dose-response effects of extended-release ( ER ) dexmethylphenidate ( d-MPH ) and ER mixed amphetamine salts ( MAS ) on objective measures of sleep .
+METHODS	This was an 8-week , double-blind , placebo-controlled , randomized , two period , crossover study of youth with attention-deficit hyperactivity disorder ( ADHD ) as confirmed by the Kiddie Schedule for Affective Disorders for School-Age Children-Present and Lifetime version ( K-SADS-PL ) .
+METHODS	Children aged 10-17 years were recruited from clinical practice , colleague referrals , and flyers .
+METHODS	Participants were randomized to initially receive either d-MPH or MAS .
+METHODS	During each 4-week drug period , children received three dose levels ( 10 , 20 , and 25/30mg ) in ascending order , with placebo substituted for active medication in a randomized fashion during 1week of the study .
+METHODS	After 4weeks , participants were switched to the alternative medication for another 4weeks of treatment .
+METHODS	The main outcome measure was sleep duration as measured by actigraphy .
+METHODS	Children , parents , and researchers were blinded to drug , dose , and placebo status .
+RESULTS	Sixty-five participants met the inclusion criteria and were enrolled in the study .
+RESULTS	Of these , 37 participants with sufficient sleep data for analysis were included .
+RESULTS	Sleep schedule measures showed a significant effect for dose on sleep start time ( F ( 1,36 ) = 6.284 ; p < 0.05 ) , with a significantly later sleep start time when children were receiving 20 - or 30-mg doses , compared with placebo ( p < 0.05 ) .
+RESULTS	A significant dose effect was found on actual sleep duration ( F ( 1,36 ) = 8.112 ; p < 0.05 ) , with significantly shorter actual sleep duration for subjects receiving 30mg compared with those receiving placebo ( p < 0.05 ) .
+RESULTS	There were no significant differences on sleep duration or sleep schedule between the two stimulant medications .
+RESULTS	The trial is complete and closed to follow-up .
+CONCLUSIONS	Higher stimulant doses were associated with reduced sleep duration and later sleep start times , regardless of medication class .
+BACKGROUND	ClinicalTrials.gov : NCT00393042 .
+

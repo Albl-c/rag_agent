@@ -1,0 +1,16 @@
+25158846
+BACKGROUND	In August 2010 , the Federal Joint Committee ( G-BA ) decided that negative pressure wound therapy ( NPWT ) would not be reimbursable in German ambulatory care .
+BACKGROUND	This decision was based on reports from the Institute for Quality and Efficiency in Health Care ( IQWiG ) , which concluded that there is no convincing evidence in favor of NPWT .
+BACKGROUND	The aim of this diabetic foot study ( DiaFu study ) is to evaluate whether the clinical , safety and economic results of NPWT are superior to the results of standard wound treatment .
+METHODS	The DiaFu study is designed as a national , multicenter , randomized controlled clinical superiority trial with a special focus on outpatient care in Germany .
+METHODS	Competent patients in inpatient and outpatient care suffering from a chronic diabetic foot wound for a minimum of four weeks may be included in the study .
+METHODS	The trial evaluates the treatment outcome of the application of a technical medical device which is based on the principle of NPWT ( intervention group ) in comparison to standard moist wound therapy ( control group ) .
+METHODS	All treatment systems used in the intervention group bear the symbol of free trade capacity in the European Union ( CE mark ) and will be operated within normal conditions of clinical routine and according to manufacturer 's instructions .
+METHODS	Primary endpoints are the time to complete wound healing and the rate of wound healing achieved in each group within the maximum study treatment time of 16weeks .
+METHODS	Primary endpoints will be confirmed by blinded assessment of wound photographs .
+CONCLUSIONS	The DiaFu study will provide solid evidence regarding the efficacy and effectiveness of NPWT until 31 December 2014 , the date when G-BA plans to decide on future reimbursement of NPWT in both ambulatory and in-hospital care .
+CONCLUSIONS	The study is designed to comply with all quality requirements of G-BA and IQWiG and will contribute to evidence-based wound care in Germany .
+CONCLUSIONS	The study has been initiated by the statutory health insurance companies in Germany and is co-funded by two manufacturers of NPWT systems .
+BACKGROUND	Clinical Trials.gov registration number : NCT01480362 ( date of registration : 23 November 2011 ) .
+BACKGROUND	German Clinical Trials Register number : DRKS00003347 ( date of registration : 22 November 2011 ) .
+

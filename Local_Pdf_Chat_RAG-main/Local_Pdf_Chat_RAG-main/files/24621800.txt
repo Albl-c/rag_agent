@@ -1,0 +1,15 @@
+24621800
+OBJECTIVE	This study aimed to assess cost-effectiveness of N-terminal pro-B-type natriuretic peptide ( NT-proBNP ) - guided versus symptom-guided therapy in heart failure ( HF ) patients60 years old .
+BACKGROUND	Cost-effectiveness of NT-proBNP guidance in HF patients is unclear .
+BACKGROUND	It may create additional costs with uncertain benefits .
+METHODS	In the TIME-CHF ( Trial of Intensified versus Standard Medical Therapy in Elderly Patients with Congestive Heart Failure ) , patients with left ventricular ejection fraction ( LVEF ) of45 % were randomized to receive intensified NT-proBNP-guided therapy or standard , symptom-guided therapy .
+METHODS	For cost-effectiveness analysis , 467 ( 94 % ) patients ( age 76 7 years , 66 % male ) were eligible .
+METHODS	Incremental cost-effectiveness was calculated as incremental costs per gained life-year and quality-adjusted life-year ( QALY ) within the 18-month trial period , as defined per protocol .
+RESULTS	NT-proBNP-guided therapy was dominant ( i.e. , more effective and less costly ) over symptom-guided therapy , saving $ 2,979 USD ( 2.5 to 97.5 % confidence interval [ CI ] : $ 8,758 to $ 3,265 ) per patient , with incremental effectiveness of +0.07 life-years and +0.05 QALYs .
+RESULTS	The probability of NT-proBNP-guided therapy being dominant was 80 % , and the probability of saving 1 life-year or QALY at a cost of $ 50,000 was 97 % and 93 % , respectively .
+RESULTS	Exclusion of residence costs resulted in an incremental cost-effectiveness ratio ( ICER ) of $ 5,870 per life-year gained .
+RESULTS	Cost-effectiveness of NT-proBNP-guided therapy was most pronounced in patients < 75 years old and in those with < 2significant comorbidities , being dominant in all sensitivity analyses .
+RESULTS	In the worst-case scenario ( excluding residence costs in those with2 comorbidities ) , the ICER was $ 11,935 per life-year gained .
+CONCLUSIONS	NT-proBNP-guided therapy has a high probability of being cost effective in HF patients with reduced LVEF , particularly in patients age 60 to 75 years or with less than 2 comorbidities .
+CONCLUSIONS	( Trial of Intensified versus standard Medical therapy in Elderly patients with Congestive Heart Failure [ TIME-CHF ] ; ISRCTN43596477 ) .
+

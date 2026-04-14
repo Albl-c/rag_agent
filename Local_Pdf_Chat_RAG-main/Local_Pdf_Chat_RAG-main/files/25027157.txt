@@ -1,0 +1,14 @@
+25027157
+BACKGROUND	Functional neck/shoulder stiffness is one of the most well-known indications for acupuncture treatment in Japan .
+BACKGROUND	There is little evidence for the effectiveness of acupuncture treatment for functional neck/shoulder stiffness .
+BACKGROUND	Research using two different placebos may allow an efficient method to tease apart the components of real acupuncture from various kinds of ` non-specific ' effects such as ritual with touch or ritual alone .
+BACKGROUND	Herein , we describe a protocol of an ongoing , single-centre , randomised , placebo-controlled trial which aims to assess whether , in functional neck/shoulder stiffness , acupuncture treatment with skin piercing has a specific effect over two types of placebo : skin-touching plus ritual or ritual alone .
+METHODS	Six acupuncturists and 400 patients with functional neck/shoulder stiffness are randomly assigned to four treatment groups : genuine acupuncture penetrating the skin , skin-touch placebo or no-touch placebo needles in a double-blind manner ( practitioner-patient blinding ) or no-treatment control group .
+METHODS	Each acupuncturist applies a needle to each of four acupoints ( Bladder10 , Small Intestine14 , Gallbladder21 and Bladder42 ) in the neck/shoulder to 50 patients .
+METHODS	Before , immediately after and 24 hours after the treatment , patients are asked about the intensity of their neck/shoulder stiffness .
+METHODS	After the treatment , practitioners and patients are asked to guess whether the treatment is `` penetrating '' , `` skin-touch '' or `` no-touch '' or to record `` can not identify the treatment '' .
+CONCLUSIONS	In addition to intention-to-treat analysis , we will conduct subgroup analysis based on practitioners ' or patients ' guesses to discuss the efficacy and effectiveness of treatments with skin piercing and various placebo controls .
+CONCLUSIONS	The results of practitioner and patient blinding will be discussed .
+CONCLUSIONS	We believe this study will further distinguish the role of different components of acupuncture .
+BACKGROUND	Current Controlled Trial ISRCTN76896018 .
+

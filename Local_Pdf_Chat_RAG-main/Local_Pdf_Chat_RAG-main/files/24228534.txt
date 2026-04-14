@@ -1,0 +1,6 @@
+24228534
+OBJECTIVE	To observe the effect of combination of Immune 1 and HAART on the CD4 + T cell count and its immune reconstitution rate .
+METHODS	Two hundred and twenty eight HIV/AIDS patients were randomly divided into treatment group and control group , patients from treatment group received Immune 1 combined HAART therapy , patients from control group was given placebo combined HAART and evaluate the change of CD4 + T cell count and its immune reconstitution rate .
+RESULTS	In patients with CD4 + T cells baseline level ( 200-350 cell x microL ( -1 ) ) , Immune reconstitution rate of treatment group is significantly higher than the control group .
+CONCLUSIONS	Immune 1 combined HAART can effectively promote the immune reconstitution of patients with high CD4 + T cells baseline level ( 200-350 cell x microL ( -1 ) ) and show little side effect and is safe to treat HIV/AIDS disease .
+

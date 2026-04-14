@@ -1,0 +1,12 @@
+25017001
+OBJECTIVE	Major depressive disorder has been linked with inflammatory processes , but it is unclear whether individual differences in levels of inflammatory biomarkers could help match patients to treatments that are most likely to be beneficial .
+OBJECTIVE	The authors tested the hypothesis that C-reactive protein ( CRP ) , a commonly available marker of systemic inflammation , predicts differential response to escitalopram ( a serotonin reuptake inhibitor ) and nortriptyline ( a norepinephrine reuptake inhibitor ) .
+METHODS	The hypothesis was tested in the Genome-Based Therapeutic Drugs for Depression ( GENDEP ) study , a multicenter open-label randomized clinical trial .
+METHODS	CRP was measured with a high-sensitivity method in serum samples from 241 adult men and women with major depressive disorder randomly allocated to 12-week treatment with escitalopram ( N = 115 ) or nortriptyline ( N = 126 ) .
+METHODS	The primary outcome measure was the score on the Montgomery-sberg Depression Rating Scale ( MADRS ) , administered weekly .
+RESULTS	CRP level at baseline differentially predicted treatment outcome with the two antidepressants ( CRP-drug interaction : = 3.27 , 95 % CI = 1.65 , 4.89 ) .
+RESULTS	For patients with low levels of CRP ( < 1 mg/L ) , improvement on the MADRS score was 3 points higher with escitalopram than with nortriptyline .
+RESULTS	For patients with higher CRP levels , improvement on the MADRS score was 3 points higher with nortriptyline than with escitalopram .
+RESULTS	CRP and its interaction with medication explained more than 10 % of individual-level variance in treatment outcome .
+CONCLUSIONS	An easily accessible peripheral blood biomarker may contribute to improvement in outcomes of major depressive disorder by personalizing treatment choice .
+

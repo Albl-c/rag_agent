@@ -1,0 +1,13 @@
+24894533
+OBJECTIVE	To compare the efficacy of tamsulosin versus tamsulosin plus tadalafil as medical expulsive therapy for lower ureteric stones .
+METHODS	Between January 2013 and December 2013 , 244 patients presenting with distal ureteric stones ( size 5-10mm ) were randomized equally to tamsulosin ( group A ) or tamsulosin plus tadalafil ( group B ) .
+METHODS	Therapy was given for a maximum of 4 weeks .
+METHODS	Stone expulsion rate , time to stone expulsion , analgesic use , number of hospital visits for pain , follow up , endoscopic treatment and adverse effects of drugs were recorded .
+METHODS	Statistical analyses were carried out using Student 's t-test and the ( 2 ) - test .
+RESULTS	There was a statistically significant higher expulsion rate in group B compared with group A ( 83.6 % vs 65.5 % ; P-value = 0.031 ) and a shorter time to expulsion ( 14.94.4 days vs 16.74.8 days ; P-value = 0.003 ) .
+RESULTS	Statistically significant differences were noted in terms of the number of hospital visits and analgesic requirement in favor of group B.
+RESULTS	There was no serious adverse event .
+RESULTS	An improvement in erectile function was noted in patients of group B compared with those of group A.
+CONCLUSIONS	Medical expulsive therapy for distal ureteric stones using tamsulosin plus tadalafil is safe , effective and well tolerated .
+CONCLUSIONS	Furthermore , tadalafil provides the additional advantage of improving erectile dysfunction when this condition coexists with a lower ureteric stone .
+

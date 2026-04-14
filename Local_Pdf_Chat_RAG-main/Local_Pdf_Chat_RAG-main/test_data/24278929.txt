@@ -1,0 +1,15 @@
+24278929
+OBJECTIVE	The aim of this study was to compare clinical outcomes and stability following immediate loading of two types of tapered implants in the partially edentulous posterior maxilla and mandible .
+METHODS	A randomized controlled trial with 1 year of follow-up was performed on participants missing two consecutive teeth in a posterior quadrant with tapered implants with a hybrid textured surface .
+METHODS	Group 1 received Osstem TSIII HA implants , and group 2 received Zimmer TSV implants .
+METHODS	Group 1 implants were 4.5 or 5.0 mm in diameter , and group 2 implants were 4.7 mm in diameter ; all implants were 10 mm long .
+METHODS	Subjects received provisional restorations within 48 hours .
+METHODS	Definitive restorations were provided 3 months ( mandible ) or 6 months ( maxilla ) later .
+METHODS	Outcome measures were survival and success rates , marginal bone level change , implant stability quotient , and peri-implant soft tissue indices .
+RESULTS	Fifty participants completed the trial ( group 1 : 52 implants in 26 patients ; group 2 : 48 implants in 24 patients ) .
+RESULTS	The success rates were similar -- 98.1 % in group 1 and 97.9 % in group 2 -- at 12 months after immediate loading , but marginal bone loss was significantly different according to the implant design .
+RESULTS	Implant stability increased significantly in both arches .
+RESULTS	There were no significant differences in soft tissue indices between implant systems .
+CONCLUSIONS	If high primary stability is acquired , tapered implants with hybrid textured surfaces are predictable for immediate loading in the posterior maxilla and mandible .
+CONCLUSIONS	In spite of the influence of implant design on marginal bone loss , all tapered implants showed successful clinical outcomes and stability in immediate loading .
+

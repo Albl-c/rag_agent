@@ -1,0 +1,17 @@
+25034216
+BACKGROUND	Continuous glucose monitoring ( CGM ) has been shown to improve glucose control in adults with type 1 diabetes .
+BACKGROUND	Effectiveness of CGM is directly linked with CGM adherence , which can be challenging to maintain in children and adolescents .
+BACKGROUND	We hypothesize that initiating CGM at the same time as starting insulin pump therapy in pump nave children and adolescents with type 1 diabetes will result in greater CGM adherence and effectiveness compared to delaying CGM introduction by 6 months , and that this is related to greater readiness for making behaviour change at the time of pump initiation .
+METHODS	The CGM TIME Trial is a multicenter randomized controlled trial .
+METHODS	Eligible children and adolescents ( 5-18 years ) with established type 1 diabetes were randomized to simultaneous initiation of pump ( Medtronic Veo ) and CGM ( Enlite ) or to standard pump therapy with delayed CGM introduction .
+METHODS	Primary outcomes are CGM adherence and hemoglobin A1C at 6 and 12 months post pump initiation .
+METHODS	Secondary outcomes include glycemic variability , stage of readiness , and other patient-reported outcomes with follow-up to 24 months .
+METHODS	144 ( 95 % ) of the 152 eligible patients were enrolled and randomized .
+METHODS	Allowing for 10 % withdrawals , this will provide 93 % power to detect a between group difference in CGM adherence and 86 % power to detect a between group difference in hemoglobin A1C .
+METHODS	Baseline characteristics were similar between the treatment groups .
+METHODS	Analysis of 12 month primary outcomes will begin in September 2014 .
+CONCLUSIONS	The CGM TIME Trial is the first study to examine the relationship between timing of CGM initiation , readiness for behaviour change , and subsequent CGM adherence in pump nave children and adolescents .
+CONCLUSIONS	Its findings will advance our understanding of when and how to initiate CGM in children and adolescents with type 1 diabetes .
+BACKGROUND	ClinicalTrial.gov NCT01295788 .
+BACKGROUND	Registered 14 February 2011 .
+

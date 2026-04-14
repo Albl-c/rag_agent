@@ -1,0 +1,14 @@
+25271116
+OBJECTIVE	To compare the effects on health-related quality of life ( HRQoL ) of a 2-year intervention with a low-fat diet ( LFD ) or a low-carbohydrate diet ( LCD ) based on four group-meetings to achieve compliance .
+OBJECTIVE	To describe different aspects of taking part in the intervention following the LFD or LCD .
+METHODS	Prospective , randomized trial of 61 adults with Type 2 diabetes mellitus .
+METHODS	The SF-36 questionnaire was used at baseline , 6 , 12 and 24 months .
+METHODS	Patients on LFD aimed for 55-60 energy percent ( E % ) and those on LCD for 20 E % from carbohydrates .
+METHODS	The patients were interviewed about their experiences of the intervention .
+RESULTS	Mean body-mass-index was 32.7 5.4 kg/m ( 2 ) at baseline .
+RESULTS	Weight-loss did not differ between groups and was maximal at 6 months , LFD : -3.99 4.1 kg , LCD : -4.31 3.6 kg ( p < 0.001 within groups ) .
+RESULTS	There was an increase in the physical component score of SF-36 from 44.1 ( 10.0 ) to 46.7 ( 10.5 ) at 12 months in the LCD group ( p < 0.009 ) while no change occurred in the LFD group ( p < 0.03 between groups ) .
+RESULTS	At 12 months the physical function , bodily pain and general health scores improved within the LCD group ( p values 0.042-0 .009 ) while there was no change within the LFD group .
+CONCLUSIONS	Weight-changes did not differ between the diet groups while improvements in HRQoL only occurred after one year during treatment with LCD .
+CONCLUSIONS	No changes of HRQoL occurred in the LFD group in spite of a similar reduction in body weight .
+

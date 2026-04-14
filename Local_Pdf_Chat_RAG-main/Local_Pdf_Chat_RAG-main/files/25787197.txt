@@ -1,0 +1,12 @@
+25787197
+BACKGROUND	In a previous randomized trial , we found that percutaneous coronary intervention ( PCI ) was not inferior to coronary artery bypass grafting ( CABG ) for the treatment of unprotected left main coronary artery stenosis at 1 year .
+OBJECTIVE	This study sought to determine the 5-year outcomes of PCI compared with CABG for the treatment of unprotected left main coronary artery stenosis .
+METHODS	We randomly assigned 600 patients with unprotected left main coronary artery stenosis to undergo PCI with a sirolimus-eluting stent ( n = 300 ) or CABG ( n = 300 ) .
+METHODS	The primary endpoint was a major adverse cardiac or cerebrovascular event ( MACCE : a composite of death from any cause , myocardial infarction , stroke , or ischemia-driven target vessel revascularization ) and compared on an intention-to-treat basis .
+RESULTS	At 5 years , MACCE occurred in 52 patients in the PCI group and 42 patients in the CABG group ( cumulative event rates of 17.5 % and 14.3 % , respectively ; hazard ratio [ HR ] : 1.27 ; 95 % confidence interval [ CI ] : 0.84 to 1.90 ; p = 0.26 ) .
+RESULTS	The 2 groups did not differ significantly in terms of death from any cause , myocardial infarction , or stroke as well as their composite ( 8.4 % and 9.6 % ; HR , 0.89 ; 95 % CI , 0.52 to 1.52 ; p = 0.66 ) .
+RESULTS	Ischemia-driven target vessel revascularization occurred more frequently in the PCI group than in the CABG group ( 11.4 % and 5.5 % , respectively ; HR : 2.11 ; 95 % CI : 1.16 to 3.84 ; p = 0.012 ) .
+CONCLUSIONS	During 5 years of follow-up , our study did not show significant difference regarding the rate of MACCE between patients who underwent PCI with a sirolimus-eluting stent and those who underwent CABG .
+CONCLUSIONS	However , considering the limited power of our study , our results should be interpreted with caution .
+CONCLUSIONS	( Bypass Surgery Versus Angioplasty Using Sirolimus-Eluting Stent in Patients With Left Main Coronary Artery Disease [ PRECOMBAT ] ; NCT00422968 ) .
+

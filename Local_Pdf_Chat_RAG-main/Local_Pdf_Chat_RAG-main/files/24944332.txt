@@ -1,0 +1,12 @@
+24944332
+OBJECTIVE	The objective was to assess the long-term safety profile of dual-release hydrocortisone ( DR-HC ) in patients with adrenal insufficiency ( AI ) .
+METHODS	Randomised , open-label , crossover trial of DR-HC or thrice-daily hydrocortisone for 3 months each ( stage 1 ) followed by two consecutive , prospective , open-label studies of DR-HC for 6 months ( stage 2 ) and 18 months ( stage 3 ) at five university clinics in Sweden .
+METHODS	Sixty-four adults with primary AI started stage 1 , and an additional 16 entered stage 3 .
+METHODS	Patients received DR-HC 20-40mg once daily and hydrocortisone 20-40mg divided into three daily doses ( stage 1 only ) .
+METHODS	Main outcome measures were adverse events ( AEs ) and intercurrent illness ( self-reported hydrocortisone use during illness ) .
+RESULTS	In stage 1 , patients had a median 1.5 ( range , 1-9 ) intercurrent illness events with DR-HC and 1.0 ( 1-8 ) with thrice-daily hydrocortisone .
+RESULTS	AEs during stage 1 were not related to the cortisol exposure-time profile .
+RESULTS	The percentage of patients with one or more AEs during stage 1 ( 73.4 % with DR-HC ; 65.6 % with thrice-daily hydrocortisone ) decreased during stage 2 , when all patients received DR-HC ( 51 % in the first 3 months ; 54 % in the second 3 months ) .
+RESULTS	In stages 1-3 combined , 19 patients experienced 27 serious AEs , equating to 18.6 serious AEs/100 patient-years of DR-HC exposure .
+CONCLUSIONS	This long-term prospective trial is the first to document the safety of DR-HC in patients with primary AI and demonstrates that such treatment is well tolerated during 24 consecutive months of therapy .
+

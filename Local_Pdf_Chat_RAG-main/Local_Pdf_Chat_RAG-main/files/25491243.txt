@@ -1,0 +1,14 @@
+25491243
+BACKGROUND	Automated health behavior change interventions show promise , but suffer from high attrition and disuse .
+BACKGROUND	The Internet abounds with thousands of personal narrative accounts of health behavior change that could not only provide useful information and motivation for others who are also trying to change , but an endless source of novel , entertaining stories that may keep participants more engaged than messages authored by interventionists .
+OBJECTIVE	Given a collection of relevant personal health behavior change stories gathered from the Internet , the aim of this study was to develop and evaluate an automated indexing algorithm that could select the best possible story to provide to a user to have the greatest possible impact on their attitudes toward changing a targeted health behavior , in this case weight loss .
+METHODS	An indexing algorithm was developed using features informed by theories from behavioral medicine together with text classification and machine learning techniques .
+METHODS	The algorithm was trained using a crowdsourced dataset , then evaluated in a 22 between-subjects randomized pilot study .
+METHODS	One factor compared the effects of participants reading 2 indexed stories vs 2 randomly selected stories , whereas the second factor compared the medium used to tell the stories : text or animated conversational agent .
+METHODS	Outcome measures included changes in self-efficacy and decisional balance for weight loss before and after the stories were read .
+RESULTS	Participants were recruited from a crowdsourcing website ( N = 103 ; 53.4 % , 55/103 female ; mean age 35 , SD 10.8 years ; 65.0 % , 67/103 precontemplation ; 19.4 % , 20/103 contemplation for weight loss ) .
+RESULTS	Participants who read indexed stories exhibited a significantly greater increase in self-efficacy for weight loss compared to the control group ( F1 ,107 = 5.5 , P = .02 ) .
+RESULTS	There were no significant effects of indexing on change in decisional balance ( F1 ,97 = 0.05 , P = .83 ) and no significant effects of medium on change in self-efficacy ( F1 ,107 = 0.04 , P = .84 ) or decisional balance ( F1 ,97 = 0.78 , P = .38 ) .
+CONCLUSIONS	Personal stories of health behavior change can be harvested from the Internet and used directly and automatically in interventions to affect participant attitudes , such as self-efficacy for changing behavior .
+CONCLUSIONS	Such approaches have the potential to provide highly tailored interventions that maximize engagement and retention with minimal intervention development effort .
+

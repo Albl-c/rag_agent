@@ -1,0 +1,12 @@
+# Python虚拟环境
+rag_env39/
+venv/
+env/
+.venv/
+
+# 其他常见忽略
+__pycache__/
+*.pyc
+*.pyo
+*.so
+.DS_Store

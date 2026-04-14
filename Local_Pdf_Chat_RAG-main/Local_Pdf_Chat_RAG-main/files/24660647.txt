@@ -1,0 +1,11 @@
+24660647
+OBJECTIVE	Low-level laser therapy has still not been well established , and it is important to define a standardized protocol for the treatment of temporomandibular disorders ( TMDs ) using low level laser .
+OBJECTIVE	There is no consensus on controlled clinical trials concerning the best option for laser therapy with regard to wavelength .
+OBJECTIVE	The aim of this study was to evaluate the efficacy of red and infrared laser therapy in patients with TMD , using a randomized parallel-group double-blind trial .
+METHODS	Each hemiface of 19 subjects was randomized to receive intervention , in a total of 116 sensitive points .
+METHODS	Pain was measured at baseline and time intervals of 24 hours , 30 days , 90 days , and 180 days after treatment .
+METHODS	Irradiation of 4 J/cm2 in the temporomandibular joints and 8 J/cm ( 2 ) in the muscles was used in three sessions .
+RESULTS	Both treatments had statistically significant results ( P < 0.001 ) ; there was statistical difference between them at 180 days in favor of the infrared laser ( P = 0.039 ) .
+RESULTS	There was improvement in 24 hours , which extended up to 180 days in both groups .
+CONCLUSIONS	Both lasers are effective in the treatment and remission of TMD symptoms .
+

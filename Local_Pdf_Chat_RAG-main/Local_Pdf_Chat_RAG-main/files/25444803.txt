@@ -1,0 +1,16 @@
+25444803
+OBJECTIVE	This study was designed to identify the optimal dose of an MF59-adjuvanted , monovalent , A/H1N1 influenza vaccine in healthy paediatric subjects .
+METHODS	Subjects aged 3-8 years ( n = 194 ) and 9-17 years ( n = 160 ) were randomized to receive two primary doses of A/H1N1 vaccine containing either 3.75 g antigen with half a standard dose of MF59 adjuvant , 7.5 g antigen with a full dose of MF59 , or ( children 3-8 years only ) , a non-adjuvanted 15 g formulation .
+METHODS	A booster dose of MF59-adjuvanted seasonal influenza vaccine including homologous A/H1N1 strain was given one year after priming .
+METHODS	Immunogenicity was assessed by haemagglutination inhibition ( HI ) and microneutralization assays .
+METHODS	Vaccine safety was assessed throughout the study ( up to 18 months ) .
+RESULTS	A single priming dose of either MF59-adjuvanted formulation was sufficient to meet the European licensure criteria for pandemic influenza vaccines ( HI titres 1:40 > 70 % ; seroconversion > 40 % ; and GMR > 2.5 ) .
+RESULTS	Two non-adjuvanted vaccine doses were required to meet the same licensure criteria .
+RESULTS	After first and second doses , percentage of subjects with HI titres 1:40 were between 97 % and 100 % in the adjuvanted vaccine groups compared with 68 % and 91 % in the non-adjuvanted group , respectively .
+RESULTS	Postvaccination seroconversion rates ranged from 91 % to 98 % in adjuvanted groups and were 68 % ( first dose ) and 98 % ( second dose ) in the non-adjuvanted group .
+RESULTS	HI titres 1:330 after primary doses were achieved in 69 % to 90 % in adjuvanted groups compared with 41 % in the non-adjuvanted group .
+RESULTS	Long-term antibody persistence after priming and a robust antibody response to booster immunization were observed in all vaccination groups .
+RESULTS	All A/H1N1 vaccine formulations were generally well tolerated .
+RESULTS	No vaccine-related serious adverse events occurred , and no subjects were withdrawn from the study due to an adverse event .
+CONCLUSIONS	An MF59-adjuvanted influenza vaccine containing 3.75 g of A/H1N1 antigen was well tolerated and sufficiently immunogenic to meet all the European licensure criteria after a single dose in healthy children 3-17 years old .
+

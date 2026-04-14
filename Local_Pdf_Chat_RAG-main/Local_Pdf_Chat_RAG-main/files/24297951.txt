@@ -1,0 +1,10 @@
+24297951
+OBJECTIVE	Cumulative neurotoxicity is a prominent toxicity of oxaliplatin-based therapy .
+OBJECTIVE	Intravenous calcium and magnesium have been extensively used to reduce oxaliplatin-induced neurotoxicity .
+OBJECTIVE	This trial was designed to definitively test whether calcium/magnesium decreases oxaliplatin-related neurotoxicity .
+METHODS	In all , 353 patients with colon cancer undergoing adjuvant therapy with FOLFOX ( fluorouracil , leucovorin , and oxaliplatin ) were randomly assigned to intravenous calcium/magnesium before and after oxaliplatin , a placebo before and after , or calcium/magnesium before and placebo after .
+METHODS	The primary end point was cumulative neurotoxicity measured by the sensory scale of the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire-Chemotherapy-Induced Peripheral Neuropathy 20 tool .
+RESULTS	There were no statistically significant neuropathy differences among the study arms as measured by the primary end point or additional measures of neuropathy , including clinician-determined measurement of the time to grade 2 neuropathy by using the National Cancer Institute Common Terminology Criteria for Adverse Events scale or an oxaliplatin-specific neuropathy scale .
+RESULTS	In addition , calcium/magnesium did not substantially decrease oxaliplatin-induced acute neuropathy .
+CONCLUSIONS	This study does not support using calcium/magnesium to protect against oxaliplatin-induced neurotoxicity .
+

@@ -1,0 +1,15 @@
+24814320
+OBJECTIVE	To evaluate the effects of humor therapy assessed using observational methods on agitation , engagement , positive behaviors , affect , and contentment .
+METHODS	Single-blind cluster randomized controlled trial .
+METHODS	A total of 35 Sydney nursing homes .
+METHODS	All eligible residents within geographically defined areas within each nursing home were invited to participate .
+METHODS	Professional `` ElderClowns '' provided 9 to 12 weekly humor therapy sessions , augmented by resident engagement by trained staff `` LaughterBosses . ''
+METHODS	Controls received usual care .
+METHODS	The Behavior Engagement Affect Measure ( BEAM ) touchpad observational tool was used to capture real-time behavioral data .
+METHODS	The tool assesses the duration in seconds of agitation , positive behavior toward others , engagement , and affect ( angry , anxious , happy , neutral , sad ) .
+RESULTS	Seventeen nursing homes ( 189 residents ) received the intervention and 18 homes ( 209 residents ) received usual care .
+RESULTS	Over 26 weeks , in comparison with controls , the humor therapy group decreased in duration of high agitation ( effect size = 0.168 and 0.129 at 13 and 26 weeks , respectively ) and increased in duration of happiness ( effect size = 0.4 and 0.236 at 13 and 26 weeks , respectively ) .
+CONCLUSIONS	We confirmed that humor therapy decreases agitation and also showed that it increases happiness .
+CONCLUSIONS	Researchers may consider evaluating impacts of nonpharmaceutical interventions on positive outcomes .
+CONCLUSIONS	Computer-assisted observational measures should be considered , particularly for residents with dementia and when the reliability of staff is uncertain .
+

@@ -1,0 +1,17 @@
+24671453
+BACKGROUND	The maximal effect of proton pump inhibitors ( PPI ) is reported to take 5 days .
+BACKGROUND	However , most current protocols start PPI on the day of gastric endoscopic submucosal dissection ( ESD ) .
+OBJECTIVE	We aimed to evaluate the benefit of 5 days pretreatment with oral PPI before ESD to prevent bleeding .
+METHODS	This was a prospective randomized controlled trial .
+METHODS	Patients were administered oral rabeprazole 20 mg or placebo twice daily for 5 days before ESD .
+METHODS	Intravenous pantoprazole 40 mg was administered 2 h before ESD and at postprocedure day 1 , and then oral rabeprazole 20 mg was administered once daily .
+METHODS	Follow-up endoscopy was performed on days 1 and 30 .
+METHODS	Forty-eight-hour measurement of intragastric pH was performed in 26 patients .
+METHODS	The primary endpoint was major bleeding related to ESD .
+RESULTS	One-hundred and twenty patients were enrolled .
+RESULTS	Of these , 45 in the pretreatment and 53 in the placebo group were analyzed .
+RESULTS	Each group had three cases of major bleeding .
+RESULTS	There were no significant differences in the ulcer healing rate .
+RESULTS	Intragastric pH percentage times greater than 4 , 5 , and 6 were 86.61 19.45 % , 83.30 22.06 % , and 76.86 25.35 % , respectively , in the pretreatment and 85.54 19.45 % , 84.08 27.11 % , and 81.53 27.81 % , respectively , in the placebo group , without significant differences .
+CONCLUSIONS	Preprocedural administration of rabeprazole offers no additional benefit over postprocedural administration alone in preventing major bleeding after gastric ESD .
+

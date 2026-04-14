@@ -1,0 +1,16 @@
+25434320
+OBJECTIVE	To study the efficacy and safety of drotaverine hydrochloride ( HCl ) 80 mg tablet given thrice a day in the symptomatic relief of patients with irritable bowel syndrome ( IBS ) .
+METHODS	The study was a multicentric , randomized , double-blind , placebo-controlled parallel group study performed at three centers .
+METHODS	The patients who fulfilled Rome II Criteria of IBS were included in the study .
+METHODS	A total of 180 patients with IBS were randomized to drotaverine and placebo treatment groups .
+METHODS	Abdominal pain and stool frequency were measured every week in both the groups for all the 4 weeks of treatment duration .
+METHODS	Subject Global Assessment of Relief ( SGA ) of IBS symptoms was assessed at the end of the study .
+METHODS	Appropriate statistical analysis was done using SPSS software .
+METHODS	Mann-Whitney U-test ( two-tailed ) , Wilcoxon signed ranks test , and McNemar tests .
+RESULTS	Pain frequency decreased significantly ( P < 0.01 ) in 22 ( 25.9 % ) , 51 ( 60 % ) , and 66 ( 77.7 % ) patients in the drotaverine group , at the end of 2nd , 3rd , and 4th weeks , respectively , as compared with 8 ( 9.4 % ) , 18 ( 21.2 % ) , and 26 ( 30.6 % ) in the placebo group .
+RESULTS	Pain severity scores also decreased significantly in the drotaverine group 66 ( 77.7 % ) as compared with placebo 26 ( 30.6 % ) after 4 weeks .
+RESULTS	Drotaverine HCl was shown to provide significant improvement ( P < 0.01 ) in global relief in abdominal pain as perceived by the patient ( 85.9 % vs 39.5 % ) and the clinician ( 82.4 % vs 36.5 % ) in the drotaverine group as compared with placebo .
+RESULTS	There is significant ( P < 0.01 ) improvement in stool frequency in drotaverine HCl treatment group as compared with placebo .
+RESULTS	The drug is well tolerated without any major side effects .
+CONCLUSIONS	A 4-week treatment with drotaverine significantly improves abdominal symptoms in patients with IBS .
+

@@ -1,0 +1,10 @@
+25046547
+BACKGROUND	Proton pump inhibitor ( PPI ) increases the risk of decrease in bone mineral density ( BMD ) .
+BACKGROUND	However , whether calcitrol improves this situation is unknown .
+OBJECTIVE	The current study investigates the effects of calcitriol on BMD in patients with esomeprazole therapy .
+METHODS	Three hundred and eighty-six participants with gastrointestinal ulcerations were enrolled and randomly assigned into controlled and supplemented groups .
+METHODS	Participants in the controlled group were prescribed esomeprazole ( 20mg/qd ) , while the supplemented group was prescribed esomeprazole ( 20mg/qd ) and calcitriol ( 2.5 g/qd ) .
+METHODS	BMD , serum levels of calcium , carboxy-terminal collagen crosslinks ( CTX ) , and alkaline-phosphatase ( ALP ) were assessed .
+RESULTS	( 1 ) No significant between-group difference of age , gender , smoking , previous glucocorticoid use and hemoglobin level was found ; ( 2 ) after 10.60.8 d of PPI therapy , BMD T score in the controlled group was slightly increased compared with initial ( -1.250.08 versus -1.280.06 , p = 0.084 ) , while there was no change in the supplemented group ( -1.250.05 versus -1.260.03 , p = 0.308 ) ; ( 3 ) during study termination , calcium level in the supplemented group was slightly higher than the controlled group ( 2.050.03 mmol/L versus 2.010.05 mmol/L , p = 0.073 ) , while no significant differences of CTX ( 366.5743.71 pg/mL versus 373.1550.23 pg/mL , p = 0.036 ) and ALP were found among these two groups ( 50.479.32 U/L versus 52.2310.45 U/L , p = 0.075 ) .
+CONCLUSIONS	Patients with gastrointestinal ulcerations with esomeprazole therapy , calcitriol supplement showed no efficacy on BMD changes .
+

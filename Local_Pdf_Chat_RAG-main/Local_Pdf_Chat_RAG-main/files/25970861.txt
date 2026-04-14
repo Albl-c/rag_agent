@@ -1,0 +1,9 @@
+25970861
+OBJECTIVE	To compare the measurements and growth rates of geographic atrophy ( GA ) secondary to age-related macular degeneration ( AMD ) obtained using different imaging modalities .
+METHODS	Thirty patients with AMD and GA measuring from 1.25 mm to 18 mm based on spectral-domain optical coherence tomography ( SD-OCT ) fundus imaging were enrolled .
+METHODS	Imaging was performed at baseline and at follow-up months 3 , 6 , 9 , and 12 , including autofluorescence ( AF ) imaging with a fundus camera-based flash system ( TRC-50DX ; Topcon Medical Systems , Oakland , NJ ; AF excitation : 535-585 nm ; detection : 605-715 nm ) , AF and fluorescein angiography ( FA ) imaging with a confocal scanning laser ophthalmoscopy ( SLO ) system ( Spectralis ; Heidelberg Engineering , Heidelberg , Germany ; AF excitation : 488 nm ; detection : > 500 nm ) , and SD-OCT en face imaging ( Cirrus ; Carl Zeiss Meditec , Dublin , CA ) .
+RESULTS	Average baseline square root measurements and enlargement rates of square root areas appeared similar across all modalities ; 0.2 mm was the largest difference between any pair of measurement means .
+RESULTS	The intraclass correlation coefficients ( ICC ) were essentially equal to 1 for all comparisons of area measurements but were lower for growth rates than area measurements .
+RESULTS	Comparison of 26-week average enlargement rates showed no significant difference between the SLO AF image and enhanced SD-OCT en face image ( mean difference : 0.01 mm ; SD : 0.10 ; P = .70 ) .
+CONCLUSIONS	Agreement among all imaging modalities in measuring the areas of GA at baseline diminished when the growth rates of GA were compared over 26 weeks , likely because each imaging technique identifies different anatomic features along the border of GA , which may appear similar but change at different rates .
+

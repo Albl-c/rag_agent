@@ -1,0 +1,14 @@
+24308025
+BACKGROUND	Exposure to electromagnetic fields has been reported to have analgesic and antinociceptive effects in several organisms .
+OBJECTIVE	To test the effect of very low-intensity transcranial magnetic stimulation on symptoms associated with fibromyalgia syndrome .
+METHODS	A double-blinded , placebo-controlled clinical trial was performed in the Sagrado Corazn Hospital , Seville , Spain .
+METHODS	Female fibromyalgia patients ( 22 to 50 years of age ) were randomly assigned to either a stimulation group or a sham group .
+METHODS	The stimulation group ( n = 28 ) was stimulated using 8 Hz pulsed magnetic fields of very low intensity , while the sham group ( n = 26 ) underwent the same protocol without stimulation .
+METHODS	Pressure pain thresholds before and after stimulation were determined using an algometer during the eight consecutive weekly sessions of the trial .
+METHODS	In addition , blood serotonin levels were measured and patients completed questionnaires to monitor symptom evolution .
+RESULTS	A repeated-measures ANOVA indicated statistically significant improvement in the stimulation group compared with the control group with respect to somatosensory pain thresholds , ability to perform daily activities , perceived chronic pain and sleep quality .
+RESULTS	While improvement in pain thresholds was apparent after the first stimulation session , improvement in the other three measures occurred after the sixth week .
+RESULTS	No significant between-group differences were observed in scores of depression , fatigue , severity of headaches or serotonin levels .
+RESULTS	No adverse side effects were reported in any of the patients .
+CONCLUSIONS	Very low-intensity magnetic stimulation may represent a safe and effective treatment for chronic pain and other symptoms associated with fibromyalgia .
+

@@ -1,0 +1,15 @@
+26121788
+BACKGROUND	The recommended intake of clear liquids until 2 hours before surgery is reportedly safe and effective .
+BACKGROUND	We investigated whether oral rehydration therapy before surgery had improved satisfaction , stress response , and hemodynamics in patients during perioperative period .
+METHODS	Patients scheduled to undergo laparoscopic colectomy were enrolled and randomly divided into 2 groups .
+METHODS	The oral rehydration therapy ( ORT ) group ( 29 cases ) was allowed to drink clear liquids until 2 hours before anesthesia induction and the control group ( 29 cases ) fasted from 21 : 00 the night before surgery .
+METHODS	All patients entered the operating room at 8 : 40 .
+METHODS	Patient satisfaction was examined after admission to the operating room .
+METHODS	The volume and pH of gastric fluid were measured after anesthetic induction .
+METHODS	The serum concentrations of cortisol and catecholamine were measured as stress response indicators after anesthetic induction and at the completion of surgery .
+METHODS	Intraoperative hemodynamics was also recorded .
+RESULTS	There were no differences in patient satisfaction , stress response , and hemodynamics between the 2 groups .
+RESULTS	Intraoperative urine volume was significantly larger in the ORT group .
+RESULTS	Vomiting and aspiration were not observed in any patient
+CONCLUSIONS	Oral rehydration therapy until 2 hours before surgery seemed safe but did not improve satisfaction , stress response , and hemodynamics in perioperative patients .
+

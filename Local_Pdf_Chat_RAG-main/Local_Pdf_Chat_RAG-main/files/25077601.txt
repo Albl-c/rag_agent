@@ -1,0 +1,9 @@
+25077601
+OBJECTIVE	To investigate the role of Platelet Activating Factor ( PAF ) in the pathogenesis and development of Age-Related Macular Degeneration ( ARMD ) .
+METHODS	Fifty six patients with ARMD ( 24 patients with dry ARMD and 32 patients with wet ARMD ) and 25 age-matched control participants underwent ophthalmological examination , including visual acuity measurement and evaluation of the retina .
+METHODS	The participants were classified into three groups according to their retinal status , based on indirect fundoscopy , Optical Coherence Tomography and fluorescein angiography findings .
+METHODS	In order to evaluate the concentrations of PAF in serum , blood samples were collected from all participants and were analyzed with ELISA technique .
+RESULTS	The concentrations of PAF differed significantly according to macular lesions and were found to be lower in patients with ARMD than control participants .
+CONCLUSIONS	PAF levels are decreased along with the severity of ARMD .
+CONCLUSIONS	Understanding the role of PAF in pathogenesis of ARMD could be the impetus for the development of new therapies field of treatment of ARMD or even other retinal diseases .
+

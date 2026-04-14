@@ -1,0 +1,15 @@
+25313586
+OBJECTIVE	Many sub-Saharan African countries report high postpartum loss to follow-up of mother-baby pairs .
+OBJECTIVE	We aimed to determine whether interactive text messages improved rates of clinic attendance and early infant HIV testing in the Nyanza region of Kenya .
+METHODS	Parallel-group , unblinded , randomized controlled trial .
+METHODS	HIV-positive pregnant women at least 18 years old and enrolled in the prevention of mother-to-child transmission of HIV programme were randomized to receive either text messages ( SMS group , n = 195 ) or usual care ( n = 193 ) .
+METHODS	Messages were developed using formative focus group research informed by constructs of the Health Belief Model .
+METHODS	The SMS group received up to eight text messages before delivery ( depending on gestational age ) , and six messages postpartum .
+METHODS	Primary outcomes included maternal postpartum clinic attendance and virological infant HIV testing by 8 weeks postpartum .
+METHODS	The primary analyses were intention-to-treat .
+RESULTS	Of the 388 enrolled women , 381 ( 98.2 % ) had final outcome information .
+RESULTS	In the SMS group , 38 of 194 ( 19.6 % ) women attended a maternal postpartum clinic compared to 22 of 187 ( 11.8 % ) in the control group ( relative risk 1.66 , 95 % confidence interval 1.02-2 .70 ) .
+RESULTS	HIV testing within 8 weeks was performed in 172 of 187 ( 92.0 % ) infants in the SMS group compared to 154 of 181 ( 85.1 % ) in the control group ( relative risk 1.08 , 95 % confidence interval 1.00-1 .16 ) .
+CONCLUSIONS	Text messaging significantly improved maternal postpartum visit attendance , but overall return rates for these visits remained low .
+CONCLUSIONS	In contrast , high rates of early infant HIV testing were achieved in both arms , with significantly higher testing rates in the SMS compared to the control infants .
+

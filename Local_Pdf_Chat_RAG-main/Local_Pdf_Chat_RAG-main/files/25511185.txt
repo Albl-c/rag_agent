@@ -1,0 +1,15 @@
+25511185
+BACKGROUND	Chronic low back pain ( LBP ) and neck pain ( NP ) are highly prevalent conditions resulting in high economic costs .
+BACKGROUND	Treatment guidelines recommend relaxation techniques , such as progressive muscle relaxation , as adjuvant therapies .
+BACKGROUND	Self-care interventions could have the potential to reduce costs in the health care system , but their effectiveness , especially in a usual care setting , is unclear .
+BACKGROUND	The aim of these two pragmatic randomized studies is to evaluate whether an additional app-delivered relaxation is more effective in the reduction of chronic LBP or NP than usual care alone .
+METHODS	Each pragmatic randomized two-armed study aims to include a total of 220 patients aged 18 to 65 years with chronic ( > 12 weeks ) LBP or NP and an average pain intensity of4 on a numeric rating scale ( NRS ) in the 7 days before recruitment .
+METHODS	The participants will be randomized into an intervention and a usual care group .
+METHODS	The intervention group will be instructed to practice one of these 3 relaxation techniques on at least 5 days/week for 15 minutes/day over a period of 6 months starting on the day of randomization : autogenic training , mindfulness meditation , or guided imagery .
+METHODS	Instructions and exercises will be provided using a smartphone app , baseline information will be collected using paper and pencil .
+METHODS	Follow-up information ( daily , weekly , and after 3 and 6 months ) will be collected using electronic diaries and questionnaires included in the app .
+METHODS	The primary outcome measure will be the mean LBP or NP intensity during the first 3 months of intervention based on daily pain intensity measurements on a NRS ( 0 = no pain , 10 = worst possible pain ) .
+METHODS	The secondary outcome parameters will include the mean pain intensity during the first 6 months after randomization based on daily measurements , the mean pain intensity measured weekly as the average pain intensity of the previous 7 days over 3 and 6 months , pain acceptance , ` LBP - and NP-related ' stress , sick leave days , pain medication intake , adherence , suspected adverse reaction , and serious adverse events .
+CONCLUSIONS	The designed studies reflect a usual self-care setting and will provide evidence on a pragmatic self-care intervention that is easy to combine with care provided by medical professionals .
+BACKGROUND	ClinicalTrials.gov identifier Relaxback NCT02019498 , Relaxneck NCT02019134 registered on 18 December 2013 .
+

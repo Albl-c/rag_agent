@@ -1,0 +1,19 @@
+24239213
+BACKGROUND	Providing written medicine information to consumers enables them to make informed decisions about their medicines , playing an important role in educating and improving health literacy .
+BACKGROUND	In Australia , standardized written medicine information called Consumer Medicine Information ( CMI ) is available for medicines as package inserts , computer prints , or leaflets .
+BACKGROUND	Consumers want and read CMI , but may not always ask for it .
+BACKGROUND	General practitioners ( GPs ) and pharmacists are an important source of written medicine information , yet may not always provide CMI in their practice .
+OBJECTIVE	To examine and compare the awareness , use and provision of CMI by consumers , pharmacists and general practitioners ( GPs ) .
+METHODS	Based on previous studies , structured questionnaires were developed and administered to a national sample of consumers ( phone survey ) ; community pharmacists and GPs ( postal surveys ) about utilization of CMI .
+METHODS	Descriptive , comparative and logistic regression analyses were conducted .
+RESULTS	The respondents comprised of 349 pharmacists , 181 GPs and 1000 consumers .
+RESULTS	Two-thirds of consumers , nearly all ( 99 % ) pharmacists and 90 % of GPs were aware of CMI .
+RESULTS	About 88 % of consumers reported receiving CMI as a package insert , however most pharmacists ( 99 % ) and GPs ( 56 % ) reported providing computer-generated CMI .
+RESULTS	GPs ' and pharmacists ' main reason for providing CMI was on patient request .
+RESULTS	Reasons for not providing were predominantly because consumers were already taking the medicine , concerns regarding difficulty understanding the information , or potential non-adherence .
+RESULTS	Of the 691 consumers reportedly reading CMI , 35 % indicated concerns after reading .
+RESULTS	Factors associated with reading included gender , type of CMI received and frequency of provision .
+CONCLUSIONS	Consumers want and read information about their medicines , especially when received from their GP or pharmacist .
+CONCLUSIONS	Healthcare professionals report usually discussing CMI when providing it to patients , although continued improvements in dissemination rates are desirable .
+CONCLUSIONS	Regular use of CMI remains a challenge , and ongoing strategies to promote CMI use are necessary to improve uptake of CMI in Australia .
+

@@ -1,0 +1,14 @@
+25759551
+OBJECTIVE	To compare the tolerability of magnifying narrow band imaging endoscopy for esophageal cancer screening with that of lugol chromoendoscopy .
+METHODS	We prospectively enrolled and analyzed 51 patients who were at high risk for esophageal cancer .
+METHODS	All patients were divided into two groups : a magnifying narrow band imaging group , and a lugol chromoendoscopy group , for comparison of adverse symptoms .
+METHODS	Esophageal cancer screening was performed on withdrawal of the endoscope .
+METHODS	The primary endpoint was a score on a visual analogue scale for heartburn after the examination .
+METHODS	The secondary endpoints were scale scores for retrosternal pain and dyspnea after the examinations , change in vital signs , total procedure time , and esophageal observation time .
+RESULTS	The scores for heartburn and retrosternal pain in the magnifying narrow band imaging group were significantly better than those in the lugol chromoendoscopy group ( P = 0.004 , 0.024 , respectively , ANOVA for repeated measures ) .
+RESULTS	The increase in heart rate after the procedure was significantly greater in the lugol chromoendoscopy group .
+RESULTS	There was no significant difference between the two groups with respect to other vital sign .
+RESULTS	The total procedure time and esophageal observation time in the magnifying narrow band imaging group were significantly shorter than those in the lugol chromoendoscopy group ( 450 116 vs 565 174 , P = 0.004 , 44 26 vs 151 72 , P < 0.001 , respectively ) .
+CONCLUSIONS	Magnifying narrow band imaging endoscopy reduced the adverse symptoms compared with lugol chromoendoscopy .
+CONCLUSIONS	Narrow band imaging endoscopy is useful and suitable for esophageal cancer screening periodically .
+

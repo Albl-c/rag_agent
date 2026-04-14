@@ -1,0 +1,15 @@
+24291054
+BACKGROUND	Diabetes mellitus is associated with oxidative stress which impairs the platelet function .
+BACKGROUND	Phyllanthus emblica extract a rich source of vitamin C plays an important role in scavenging free radicals .
+BACKGROUND	The effect of vitamin C on platelet aggregation in healthy and coronary artery disease patients has been demonstrated .
+BACKGROUND	The present study attempts to study the pharmacodynamic interactions of P. emblica extract with clopidogrel and ecosprin .
+METHODS	This was a randomized open label crossover study of 10 type II diabetic patients .
+METHODS	The dosage schedules were either single dose of 500 mg P. emblica extract or 75 mg clopidogrel or 75 mg ecosprin or 500 mg P. emblica +75 mg clopidogrel or 500 mg P. emblica +75 mg ecosprin .
+METHODS	After single dose study and washout period , patients received either 500 mg P. emblica extract twice daily or 75 mg clopidogrel or 75 mg ecosprin once daily or combinations for 10 days .
+METHODS	Platelet aggregation was measured at baseline and at 4h of treatment after single and multiple dose study along with recording of bleeding and clotting time .
+RESULTS	After single and multiple dose administration of the three treatments and with combinations there was statistically significant decrease of platelet aggregation compared to baseline .
+RESULTS	Further , the mean percent inhibition of platelet aggregation was significant , when compared between single and multiple doses of P. emblica .
+RESULTS	The bleeding and clotting time was prolonged with single and multiple dose administration of all treatments compared to baseline .
+RESULTS	All treatments were well tolerated .
+CONCLUSIONS	P. emblica extract demonstrated significant antiplatelet activity with both single and multiple dose administration .
+

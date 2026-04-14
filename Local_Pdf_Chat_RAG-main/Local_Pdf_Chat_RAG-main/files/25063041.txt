@@ -1,0 +1,15 @@
+25063041
+BACKGROUND	Korean red ginseng ( KRG ) is a processed ginseng from raw ginseng to enhance safety , preservation and efficacy , known having beneficial effects on women 's health due to its estrogen like function .
+BACKGROUND	While estrogen supplementation showed some modulation of endocrine disrupting chemicals , bisphenol A ( BPA ) has been focused as a potential endocrine disrupting chemical .
+BACKGROUND	In this study , we examined the efficacy and safety outcomes of KRG against BPA , focusing on female quality of life ( QOL ) .
+BACKGROUND	Individual variations in susceptibility to KRG were also investigated with the Sasang Typology , the personalized medicine used for hundred years in Korea .
+METHODS	We performed a single-blind randomized clinical trial .
+METHODS	Study subjects were young women ( N = 22 ) , consumed 2.7 g of KRG or placebo per day for 2 weeks and filled up questionnaires regarding gynecologic complaints at the 4 time spots .
+METHODS	We analyzed urinary total BPA and malondialdehyde ( MDA ) , an oxidative stress biomarker , with GC/MS and HPLC/UVD respectively , and diagnosed their Sasang Typology with the questionnaire for the Sasang constitution Classification ( QSCC II ) .
+RESULTS	KRG consumption decreased urinary BPA and MDA levels ( ps < 0.05 ) and alleviated ` menstrual irregularity ' , ` menstrual pain ' , and ` constipation ' ( ps < 0.05 ) .
+RESULTS	SoEum type ( Lesser Yin person ) among the Sasang types showed significant alleviation in insomnia , flushing , perspiration and appetite by KRG consumption , rather than other Sasang types .
+RESULTS	During the intervention , no one experienced any aggravated side effects .
+CONCLUSIONS	We suggest KRG is efficient for protection for female QOL and BPA - exposure and - related oxidative stress .
+CONCLUSIONS	However , individual variation in susceptibility to KRG should be further considered for identifying ideal therapy .
+BACKGROUND	KCT0000920 .
+

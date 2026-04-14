@@ -1,0 +1,10 @@
+24717710
+OBJECTIVE	The purpose of this study was to compare the pain rating scale measurements from an exposure group ( injections with the aid of DentalVibe Injection Comfort System ) and control group ( traditional injection without the aid of the DentalVibe ) in adolescent patients using self-reported pain during administration of local anesthetic injections .
+METHODS	This was a randomized , controlled study .
+METHODS	Subjects consisted of 36 10 - to 17-year-old patients who required local anesthesia for dental treatment on both sides of the maxilla or mandible .
+METHODS	All subjects received a conventional injection ( control ) and an injection using DentalVibe ( experimental ) .
+METHODS	A pain rating for each injection was obtained from subjects using the Wong-Baker FACES Pain Rating Scale .
+RESULTS	Statistical analysis using a Wilcoxon signed rank test found a significant reduction in pain ratings for injections with the DentalVibe when compared to control injections .
+RESULTS	There was a positive correlation between the pain rating for control injection and the difference between the two types of injection , indicating that subjects who reported a higher pain score with the control injection had a greater reduction when DentalVibe was used .
+CONCLUSIONS	When compared to a conventional approach , DentalVibe significantly lowered self-reported pain during local anesthesia injection for adolescent subjects in this study .
+

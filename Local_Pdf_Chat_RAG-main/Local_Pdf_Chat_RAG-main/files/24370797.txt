@@ -1,0 +1,13 @@
+24370797
+OBJECTIVE	In this study , we tested the hypothesis that pulmonary artery venting would decrease the incidence of atrial fibrillation after coronary artery bypass surgery .
+METHODS	This prospective study included 301 patients who underwent complete myocardial revascularization with cardiopulmonary bypass in our department during a 2-year period .
+METHODS	The patients were randomly divided into 2 groups : group I included 151 patients who underwent aortic root venting and group II included 150 patients who underwent pulmonary arterial venting for decompression of the left heart .
+METHODS	Pre - , peri - , and postoperative risk factors for atrial fibrillation were assessed in both groups .
+RESULTS	The mean age was similar in the 2 groups .
+RESULTS	The mean number of anastomoses was significantly higher in group I ( 2.8 0.8 ) than in group II ( 2.4 0.8 ) ( P = 0.001 ) .
+RESULTS	The mean cross-clamp time was 42.7 17.4 minutes in group I and 54.1 23.8 minutes in group II ( P = 0.001 ) .
+RESULTS	The mean cardiopulmonary bypass time was 66.4 46.1 minutes in group I and 77.4 28.6 minutes in group II ( P = 0.08 ) .
+RESULTS	The incidence of atrial fibrillation was 14.5 % ( n = 21 ) in group I and 6.5 % ( n = 10 ) in group II ( P = 0.02 ) .
+RESULTS	Multivariate regression analysis showed that pulmonary artery venting decreased the postoperative incidence of atrial fibrillation by 17.6 % .
+CONCLUSIONS	Pulmonary arterial venting may be used as an alternative to aortic root venting during on-pump coronary bypass surgery , especially in patients at high risk of postoperative atrial fibrillation .
+

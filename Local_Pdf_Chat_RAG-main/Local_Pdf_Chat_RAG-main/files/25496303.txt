@@ -1,0 +1,13 @@
+25496303
+BACKGROUND	Ciclosporin is approved for the treatment of atopic dermatitis ( AD ) in dogs and has been shown to be safe and effective .
+BACKGROUND	Placebo-controlled studies suggest that oclacitinib is a safe and effective alternative therapy .
+OBJECTIVE	To evaluate the efficacy and safety of oclacitinib , in comparison to ciclosporin , for the control of AD in a blinded , randomized clinical trial , incorporating a noninferiority test at day 28 .
+METHODS	A total of 226 client-owned dogs with a history of AD from eight sites were enrolled .
+METHODS	Enrolled animals were randomized to receive oral oclacitinib ( 0.4-0 .6 mg/kg twice daily for 14 days , then once daily ) or oral ciclosporin ( 3.2-6 .6 mg/kg once daily ) for 12 weeks .
+METHODS	Owners assessed pruritus using an enhanced visual analog scale ( VAS ) , and veterinarians assessed dermatitis using the Canine Atopic Dermatitis Extent and Severity Index ( CADESI ) -02 .
+RESULTS	On days 1 , 2 , 7 , 14 , 28 , 56 and 84 , the percentage reduction from baseline for owner-assessed pruritus changed from 25.6 to 61.0 % in the oclacitinib group compared with 6.5 to 61.5 % in the ciclosporin group ; differences were significant at all time points up to day 28 .
+RESULTS	On day 56 , ciclosporin-treated dogs showed a similar decrease in pruritus to oclacitinib-treated dogs .
+RESULTS	On day 14 , the percentage reduction from baseline CADESI-02 was significantly greater in the oclacitinib group ( 58.7 % ) than in the ciclosporin group ( 43.0 % ) .
+RESULTS	Three times as many adverse events attributed to gastrointestinal signs were reported in the ciclosporin group compared with the oclacitinib group .
+CONCLUSIONS	In this study of treatment for canine AD , oclacitinib had a faster onset of action and a lower frequency of gastrointestinal side effects compared with ciclosporin .
+

@@ -1,0 +1,16 @@
+24942481
+OBJECTIVE	To evaluate the cost effectiveness of a behavioural therapy intervention shown to be clinically effective in comparison with usual care for stroke patients with aphasia .
+METHODS	Randomised controlled trial with comparison of costs and calculation of incremental cost effectiveness ratio .
+METHODS	Community .
+METHODS	Participants identified as having low mood on either the Visual Analog Mood Scale sad item ( 50 ) or Stroke Aphasic Depression Questionnaire Hospital version 21 ( SADQH21 ) ( 6 ) were recruited .
+METHODS	Participants were randomly allocated to behavioural therapy or usual care using internet-based randomisation generated in advance of the study by a clinical trials unit .
+METHODS	Outcomes were assessed at six months after randomisation , blind to group allocation .
+METHODS	The costs were assessed from a service use questionnaire .
+METHODS	Effectiveness was defined as the change in SADQH21 scores and a cost-effectiveness analysis was performed comparing the behavioural group with the usual care control group .
+METHODS	The cost analysis was undertaken from the perspective of the UK NHS and Social Services .
+RESULTS	The greatest difference was in home help costs where there was a saving of 56.20 in the intervention group compared to an increase of 61.40 in the control group .
+RESULTS	At six months the SADQH21 score for the intervention group was 17.3 compared to the control group value of 20.4 .
+RESULTS	This resulted in a mean increase of 0.7 in the control group , compared to a mean significant different decrease of 6 in the intervention group ( P = 0.003 ) .
+RESULTS	The Incremental Cost-Effectiveness Ratio indicated that the cost per point reduction on the SADQH21 was 263 .
+CONCLUSIONS	Overall the behavioural therapy was found to improve mood and resulted in some encouraging savings in resource utilisation over the six months follow-up .
+

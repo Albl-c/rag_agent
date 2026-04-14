@@ -1,0 +1,16 @@
+24684456
+BACKGROUND	As a result of research suggesting increased health risk with low serum 25-hydroxycholecalciferol ( 25 ( OH ) D ) , health care providers are measuring it frequently .
+BACKGROUND	Providers and patients are faced with treatment choices when low status is identified .
+OBJECTIVE	To compare the safety and efficacy of three vitamin D3 dietary supplements with different delivery matrices .
+METHODS	A 12-week , parallel group , single-masked , clinical trial was conducted in Seattle , Washington and Kailua Kona , Hawaii .
+METHODS	Sixty-six healthy adults with ( 25 ( OH ) D ) < 33 ng/mL were randomly assigned to take one of three D3 supplements , ie , a chewable tablet ( TAB ) , an oil-emulsified drop ( DROP ) , or an encapsulated powder ( CAP ) at a label-claimed dose of 10,000 IU/day .
+METHODS	Actual D3 content was assessed by a third party and the results adjusted based on the actual D3 content administered .
+METHODS	Mean change in 25 ( OH ) D/mcg D3 administered ; difference in the proportion of D3 insufficient participants ( ie , 25 ( OH ) D 30 ng/mL ) reaching sufficiency ( ie , 25 ( OH ) D 30 ng/mL ) ; and mean change in serum 1 , 25-dihydroxycholecalciferol were measured .
+RESULTS	In two of the three products tested , the measured vitamin D3 content varied considerably from the label-claimed dose .
+RESULTS	Differences in 25 ( OH ) D/mcg D3 administered were significantly different between groups ( P = .04 ; n = 55 ) .
+RESULTS	Pairwise comparisons demonstrated DROP resulted in a greater increase than TAB ( P < .05 ) but not than CAP .
+RESULTS	TAB was not different from CAP .
+RESULTS	The proportions reaching sufficiency were : 100 % ( TAB and CAP ) and 80 % ( DROP ) ( P = .03 between groups ; n = 55 ) .
+RESULTS	1 , 25-Dihydroxycholecalciferol did not change significantly in any group .
+CONCLUSIONS	Oil-emulsified vitamin D3 supplements resulted in a greater mean change in serum 25 ( OH ) D concentration , but fewer patients reaching vitamin D sufficiency , than chewable or encapsulated supplements .
+

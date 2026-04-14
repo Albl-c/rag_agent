@@ -1,0 +1,13 @@
+24351875
+BACKGROUND	Eating carbohydrate foods with a high glycemic index ( GI ) has been postulated to result in fetoplacental overgrowth and higher infant body fat .
+BACKGROUND	A diet with a low glycemic index ( LGI ) has been shown to reduce birth percentiles and the ponderal index ( PI ) .
+OBJECTIVE	We investigated whether offering LGI dietary advice at the first antenatal visit would result in a lower fetal birth weight , birth percentile , and PI than providing healthy eating ( HE ) advice .
+OBJECTIVE	This advice had to be presented within the resources of routine antenatal care .
+METHODS	The Pregnancy and Glycemic Index Outcomes study was a 2-arm , parallel-design , randomized , controlled trial that compared the effects of LGI dietary advice with HE advice on pregnancy outcomes .
+METHODS	Eligible volunteers who attended for routine antenatal care at < 20 wk of gestation were randomly assigned to either group .
+RESULTS	A total of 691 women were enrolled , and 576 women had final data considered .
+RESULTS	In the LGI group , the GI was reduced from a mean ( SEM ) of 56 0.3 at enrollment to 52 0.3 ( P < 0.001 ) at the final assessment .
+RESULTS	There were no significant differences in primary outcomes of fetal birth weight , birth percentile , or PI .
+RESULTS	In a multivariate regression analysis , the glycemic load was the only significant dietary predictor ( P = 0.046 ) of primary outcomes but explained < 1 % of all variation .
+CONCLUSIONS	A low-intensity dietary intervention with an LGI diet compared with an HE diet in pregnancy did not result in any significant differences in birth weight , fetal percentile , or PI .
+

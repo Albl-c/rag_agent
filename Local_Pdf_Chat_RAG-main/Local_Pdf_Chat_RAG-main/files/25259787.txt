@@ -1,0 +1,17 @@
+25259787
+BACKGROUND	Progressive midlife weight gain is associated with multiple adverse health outcomes and may represent an early manifestation of insulin resistance in a distinct subset of women .
+BACKGROUND	Emerging data implicate hyperinsulinema as a proximate cause of weight gain and support strategies that attenuate insulin secretion .
+OBJECTIVE	To assess a previously reported novel hypocaloric carbohydrate modified diet alone ( D ) , and in combination with metformin ( M ) and metformin plus low-dose rosiglitazone ( MR ) , in diverse women with midlife weight gain ( defined as > 20lbs since the twenties ) , normal glucose tolerance , and hyperinsulinemia .
+METHODS	46 women , mean age 46.61.0 , BMI 30.50.04 kg/m2 , 54.5 % white , 22.7 % black , 15.9 % Hispanic , at 2 university medical centers .
+METHODS	A dietary intervention designed to reduce insulin excursions was implemented in 4 weekly nutritional group workshops prior to randomization .
+METHODS	Change in 6-month fasting insulin .
+METHODS	Pre-specified secondary outcomes were changes in body weight , HOMA-IR , metabolic syndrome ( MS ) measures , leptin , and adiponectin .
+RESULTS	Six-month fasting insulin declined significantly in the M group : 12.5 to 8.0 U/ml , p = .026 .
+RESULTS	Mean 6-month weight decreased significantly and comparably in D , M , and MR groups : 4.7 , 5.4 , and 5.5 % ( p 's .049 , .002 , and .032 ) .
+RESULTS	HOMA-IR decreased in M and MR groups ( 2.5 to 1.6 and 1.9 to 1.3 , p 's = .054 , .013 ) .
+RESULTS	Additional improvement in MS measures included reduced waist circumference in D and MR groups and increased HDL in the D and M groups .
+RESULTS	Notably , mean fasting leptin did not decline in a subset of subjects with weight loss ( 26.152.01 ng/ml to 25.992.61 ng/ml , p = .907 .
+RESULTS	Adiponectin increased significantly in the MR group ( 11.11.0 to 18.57.4 , p < .001 ) Study medications were well tolerated .
+CONCLUSIONS	These findings suggest that EMPOWIR 's easily implemented dietary interventions , alone and in combination with pharmacotherapies that target hyperinsulinemia , merit additional investigation in larger , long-term studies .
+BACKGROUND	ClinicalTrials.gov NCT00618072 .
+

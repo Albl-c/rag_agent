@@ -1,0 +1,12 @@
+24439713
+OBJECTIVE	We test the hypothesis that anesthesia , measured as pain scores , induced by a novel topical anesthetic putty is non-inferior ( margin = 1.3 ) to that provided by conventional lidocaine infiltration for the repair of lacerations .
+METHODS	A randomized controlled trial was conducted in the emergency department ( ED ) of a local hospital .
+METHODS	Participants were randomly allocated to receive either infiltration anesthesia or topical anesthetic putty as per the trial protocol .
+METHODS	Pain scores were recorded 15 minutes after infiltration and 30 minutes after topical anesthetic putty application .
+METHODS	Median pain scores were compared between groups .
+METHODS	Wound evaluation scores were conducted after 7 to 10 days and adverse events were monitored for both groups of participants throughout the study .
+RESULTS	One hundred and ten participants were enrolled in the study , with 56 receiving infiltration and 54 receiving topical anesthetic putty .
+RESULTS	The median difference between the pain scores of the 2 groups was 0 ( 95 % confidence interval -1 to 0 ) .
+RESULTS	There were no substantial differences between the 2 groups in terms of either the wound evaluation scores or the incidence of adverse events .
+CONCLUSIONS	The novel topical anesthetic putty was not inferior to infiltration with lidocaine with respect to the pain experienced during suturing , and this putty is a feasible alternative to infiltration anesthesia of lacerations in the ED .
+

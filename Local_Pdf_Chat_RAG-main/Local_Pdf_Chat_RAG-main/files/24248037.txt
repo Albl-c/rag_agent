@@ -1,0 +1,13 @@
+24248037
+BACKGROUND	Short message service ( SMS ) has been suggested as an effective method to improve adherence to medical therapy in some chronic diseases .
+BACKGROUND	However , data on the effects of SMS interventions to allergic rhinitis ( AR ) treatment is limited at present .
+BACKGROUND	We aimed to assess whether a daily SMS reminder could improve AR patients ' adherence to medication and treatment outcomes .
+METHODS	Fifty outpatients with AR were randomized to either receive ( SMS group ) or not ( control group ) a daily SMS reminder on their cell phone to take intranasal corticosteroid treatment for 30 days .
+METHODS	The primary study outcomes were self-reported adherence to medication , clinic attendance rate , and severity of AR symptoms using a visual analogue scale ( VAS ) .
+METHODS	Secondary outcomes were changes in nasal patency ( minimum cross-sectional area , nasal cavity volume , and nasal airway resistance ) and exhaled nasal nitric oxide levels .
+RESULTS	Self-reported adherence to medication in the SMS group ( 15/25 , 60 % ) , was significantly higher than in the control group ( 7/25 , 28 % , p = 0.02 ) .
+RESULTS	Similarly , the clinic attendance rate in the SMS group ( 72 % ) was significantly higher than in the control group ( 40 % , p = 0.02 ) .
+RESULTS	Although the VAS score improved significantly from baseline in both study groups , the improvement in the SMS group was significantly greater than in the control group ( 4.38 4.38 vs. 8.74 6.54 , p = 0.031 ) .
+RESULTS	No significant differences were observed between the two groups for the secondary outcomes .
+CONCLUSIONS	A daily SMS reminder may be an effective intervention to improve adherence to medication and treatment outcomes in AR patients .
+

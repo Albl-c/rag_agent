@@ -1,0 +1,12 @@
+24655119
+BACKGROUND	The aim of this study was to characterize cardiac reactivity measures , heart rate ( HR ) , and heart rate variability ( HRV ) , following acute intravenous ( IV ) alcohol administration and their association with subjective responses in social drinkers .
+METHODS	Twenty-four subjects ( 11 females ) received IV alcohol infusions to attain and clamp the breath alcohol concentration ( BrAC ) at 50 mg % or placebo in separate sessions .
+METHODS	Serial 5-minute cardiac recordings at baseline and during the infusion were analyzed to obtain frequency and time domain cardiac measures .
+METHODS	Self-reported subjective perceptions were also obtained at the same time points .
+RESULTS	HR showed significant decreases from baseline , while the HRV measure pNN50 showed steady increases during the ascending phase of alcohol infusion .
+RESULTS	HR was inversely correlated with pNN50 across time and treatment .
+RESULTS	There was a significant association of HR with subjective feelings of high , intoxication , feeling drug effects , and liking drug effects across time during the ascending phase .
+CONCLUSIONS	Acute IV alcohol resulted in decreases in HR and increases in HRV consistent with autonomic parasympathetic activation .
+CONCLUSIONS	The association of these changes with subjective responses suggests that cardiac reactivity may serve as a physiological marker of subjective alcohol effects .
+CONCLUSIONS	This study broadens the understanding of acute cardiovascular effects of alcohol and clinically significant cardiac conditions such as arrhythmia and cardiomyopathy associated with chronic alcohol drinking .
+

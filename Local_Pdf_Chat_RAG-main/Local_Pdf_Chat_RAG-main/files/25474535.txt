@@ -1,0 +1,13 @@
+25474535
+OBJECTIVE	This trial evaluated the efficacy of acetaminophen in reducing oxidative injury , as measured by plasma F2-isoprostanes , in adult patients with severe sepsis and detectable plasma cell-free hemoglobin .
+METHODS	Single-center , randomized , double-blind , placebo-controlled phase II trial .
+METHODS	Medical ICU in a tertiary , academic medical center .
+METHODS	Critically ill patients 18 years old or older with severe sepsis and detectable plasma cell-free hemoglobin .
+METHODS	Patients were randomized 1:1 to enteral acetaminophen 1 g every 6 hours for 3 days ( n = 18 ) or placebo ( n = 22 ) with the same dosing schedule and duration .
+RESULTS	F2-Isoprostanes on study day 3 , the primary outcome , did not differ between acetaminophen ( 30 pg/mL ; interquartile range , 24-41 ) and placebo ( 36 pg/mL ; interquartile range , 25-80 ; p = 0.35 ) .
+RESULTS	However , F2-isoprostanes were significantly reduced on study day 2 in the acetaminophen group ( 24 pg/mL ; interquartile range , 19-36 ) when compared with placebo ( 36 pg/mL ; interquartile range , 23-55 ; p = 0.047 ) .
+RESULTS	Creatinine on study day 3 , a secondary outcome , was significantly lower in the acetaminophen group ( 1.0 mg/dL ; interquartile range , 0.6-1 .4 ) when compared with that in the placebo ( 1.3 mg/dL ; interquartile range , 0.83-2 .0 ; p = 0.039 ) .
+RESULTS	There was no statistically significant difference in hospital mortality ( acetaminophen 5.6 % vs placebo 18.2 % ; p = 0.355 ) or adverse events ( aspartate aminotransferase or alanine aminotransferase > 400 ; acetaminophen 9.5 % vs placebo 4.3 % ; p = 0.599 ) .
+CONCLUSIONS	In adults with severe sepsis and detectable plasma cell-free hemoglobin , treatment with acetaminophen within 24 hours of ICU admission may reduce oxidative injury and improve renal function .
+CONCLUSIONS	Additional study is needed to confirm these findings and determine the effect of acetaminophen on patient-centered outcomes .
+

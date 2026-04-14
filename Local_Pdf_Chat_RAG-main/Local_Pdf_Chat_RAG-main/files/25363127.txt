@@ -1,0 +1,10 @@
+25363127
+BACKGROUND	Despite a favorable clinical experience , little evidence exists for the efficacy of greater occipital nerve block ( GONB ) in migraine treatment .
+BACKGROUND	Considering such a premise , we wished to evaluate the therapeutic efficacy of GONB in patients affected by migraine headaches .
+METHODS	A randomized double-blinded controlled trial was conducted on 48 patients suffering from migraine headaches .
+METHODS	A syringe containing 1.0 mL of lidocaine 2 % , 0.5 mL of either saline ( control group , N = 24 ) or triamcinolone 0.5 mL ( intervention group , N = 24 ) was prepared for each patient .
+METHODS	Patients were assessed prior to the injection , and also 2 weeks , 1 month , and 2 months thereafter for severity and frequency of pain , times to use analgesics and any appeared side effects .
+RESULTS	No significant differences were revealed in pain severity , pain frequency , and analgesics use between the two groups at the four study time points including at baseline , and 2 , 4 , and 8 weeks after the intervention .
+RESULTS	However , in both groups , the indices of pain severity , pain frequency , and analgesics use were significantly reduced at the three time points after the intervention compared with before the intervention .
+CONCLUSIONS	GONB with triamcinolone in combination with lidocaine or normal saline with lidocaine results in reducing pain severity and frequency as well as use of analgesics up to two months after the intervention , however any difference attributed to the drug regimens by assessing of the trend of pain characteristics changes .
+

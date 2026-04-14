@@ -1,0 +1,13 @@
+25504506
+OBJECTIVE	To evaluate the efficacy and safety of arsenic trioxide transarterial chemoembolization and intravenous administration in unresectable hepatocellular carcinoma with lung metastasis .
+METHODS	A single-blind , two-parallel group , randomized trial was conducted at three medical centers ( Guangzhou , China ) , including patients with both biopsy-confirmed hepatocellular carcinoma and lung metastasis .
+METHODS	The experimental group received arsenic trioxide transarterial chemoembolization and intravenous administration of arsenic trioxide , while the control group only received arsenic trioxide transarterial chemoembolization .
+METHODS	We compared overall survival ( OS ) , time to progression ( TTP ) , disease control rate ( DCR ) , and objective response rate ( ORR ) between the groups .
+RESULTS	Between April 2013 and June 2014 , 139 patients received the allocated intervention , 70 of whom were in the experimental group and 69 of whom were in the control group .
+RESULTS	No patient was lost to follow-up .
+RESULTS	The median OS was 7.3 ( 95 % CI = 6.8-7 .8 ) months in the experimental group and 2.9 ( 95 % CI = 2.6-3 .1 ) months in the control group ( P < 0.001 ) .
+RESULTS	The median TTP was 2.7 ( 95 % CI = 1.9-3 .3 ) months in the experimental group and 1.2 ( 95 % CI = 1.0-1 .9 ) months in the control group ( P = 0.023 ) .
+RESULTS	In the experimental group , the DCR was 72.85 % and the ORR was 7.14 % , while in the control group , the DCR was 7.24 % and the ORR was 0.00 % .
+RESULTS	DCR and ORR differed significantly between the two groups ( P < 0.001 and P = 0.024 , respectively ) .
+CONCLUSIONS	Arsenic trioxide transarterial chemoembolization and intravenous administration were safe and effective in unresectable hepatocellular carcinoma with lung metastasis .
+

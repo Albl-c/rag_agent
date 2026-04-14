@@ -1,0 +1,12 @@
+25147092
+OBJECTIVE	To assess whether chewing gum prevents postoperative ileus after laparotomy for benign gynecologic surgery .
+METHODS	A randomized study was conducted from December 1 , 2010 , to February 29 , 2012 .
+METHODS	Patients scheduled to undergo laparotomy were randomly assigned to receive chewing gum or routine care after surgery .
+METHODS	A chart review was performed to establish incidence of nausea and vomiting , use of antiemetics , cases of postoperative ileus ( 2 episodes of emesis of 100 mL or more , with abdominal distention and absence of bowel sounds ) , and time to discharge .
+METHODS	Inpatient surveys recorded the time to specific events .
+RESULTS	A total of 109 patients were randomly assigned to receive chewing gum ( n = 51 ) or routine postoperative care ( n = 58 ) .
+RESULTS	Fewer participants assigned to receive chewing gum than routine care experienced postoperative nausea ( 16 [ 31.4 % ] versus 29 [ 50.0 % ] ; P = 0.049 ) and postoperative ileus ( 0 vs. 5 [ 8.6 % ] ; P = 0.032 ) .
+RESULTS	There were no differences in the need for postoperative antiemetics , episodes of postoperative vomiting , readmissions , repeat surgeries , time to first hunger , time to toleration of clear liquids , time to regular diet , time to first flatus , or time to discharge .
+CONCLUSIONS	Chewing gum after laparotomy for gynecologic surgery is safe and lowers the incidence of postoperative ileus and nausea .
+CONCLUSIONS	ClinicalTrials.gov : NCT01579175 .
+

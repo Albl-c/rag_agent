@@ -1,0 +1,19 @@
+24780501
+OBJECTIVE	High-density lipoproteins ( HDLs ) have several potentially protective vascular effects .
+OBJECTIVE	Most clinical studies of therapies targeting HDL have failed to show benefits vs. placebo .
+OBJECTIVE	To investigate the effects of an HDL-mimetic agent on atherosclerosis by intravascular ultrasonography ( IVUS ) and quantitative coronary angiography ( QCA ) .
+METHODS	A prospective , double-blinded , randomized trial was conducted at 51 centres in the USA , the Netherlands , Canada , and France .
+METHODS	Intravascular ultrasonography and QCA were performed to assess coronary atherosclerosis at baseline and 3 ( 2-5 ) weeks after the last study infusion .
+METHODS	Five hundred and seven patients were randomized ; 417 and 461 had paired IVUS and QCA measurements , respectively .
+METHODS	Patients were randomized to receive 6 weekly infusions of placebo , 3 mg/kg , 6 mg/kg , or 12 mg/kg CER-001 .
+METHODS	The primary efficacy parameter was the nominal change in the total atheroma volume .
+METHODS	Nominal changes in per cent atheroma volume on IVUS and coronary scores on QCA were also pre-specified endpoints .
+RESULTS	The nominal change in the total atheroma volume ( adjusted means ) was -2.71 , -3.13 , -1.50 , and -3.05 mm ( 3 ) with placebo , CER-001 3 mg/kg , 6 mg/kg , and 12 mg/kg , respectively ( primary analysis of 12 mg/kg vs. placebo : P = 0.81 ) .
+RESULTS	There was also no difference among groups for the nominal change in per cent atheroma volume ( 0.02 , -0.02 , 0.01 , and 0.19 % ; nominal P = 0.53 for 12 mg/kg vs. placebo ) .
+RESULTS	Change in the coronary artery score was -0.022 , -0.036 , -0.022 , and -0.015 mm ( nominal P = 0.25 , 0.99 , 0.55 ) , and change in the cumulative coronary stenosis score was -0.51 , 2.65 , 0.71 , and -0.77 % ( compared with placebo , nominal P = 0.85 for 12 mg/kg and nominal P = 0.01 for 3 mg/kg ) .
+RESULTS	The number of patients with major cardiovascular events was 10 ( 8.3 % ) , 16 ( 13.3 % ) , 17 ( 13.7 % ) , and 12 ( 9.8 % ) in the four groups .
+CONCLUSIONS	CER-001 infusions did not reduce coronary atherosclerosis on IVUS and QCA when compared with placebo .
+CONCLUSIONS	Whether CER-001 administered in other regimens or to other populations could favourably affect atherosclerosis must await further study .
+CONCLUSIONS	Name of the trial registry : Clinicaltrials.gov ; Registry 's URL : http://clinicaltrials.gov/ct2/show/NCT01201837?term=cer-001&rank=2;
+BACKGROUND	NCT01201837 .
+

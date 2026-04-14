@@ -1,0 +1,9 @@
+25028655
+BACKGROUND	The aim of this investigation is to study the relationship between gastric morphology and serum biomarkers before and after Helicobacter pylori eradication .
+METHODS	First-degree relatives of gastric cancer patients underwent gastroscopy before and 2.5 years after H. pylori eradication .
+METHODS	The morphological changes in two categories ( normal to mild and moderate to severe ) were compared with level of pepsinogens I and II before eradication ( n = 369 ) , after eradication ( n = 115 ) , and in those with persistent infection ( n = 250 ) .
+RESULTS	After eradication , pepsinogen I decreased to 70 % and pepsinogen II to 45 % of the previous values .
+RESULTS	Unlike pepsinogen II and pepsinogen I to II ratio that were affected by the severity of inflammation and atrophy in corpus in all groups , pepsinogen I generally did not change .
+RESULTS	After eradication , subjects with high mononuclear infiltration in corpus had lower pepsinogen I ( 54 versus 77.1 / mL ) , higher pepsinogen II ( 9.4 versus 6.9 / mL ) , and lower ratio ( 7.9 versus 11.6 ) than those without ( P < 0.05 ) .
+CONCLUSIONS	Pepsinogen II is a good marker of corpus morphological changes before and after H. pylori eradication .
+

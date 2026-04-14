@@ -1,0 +1,12 @@
+24793701
+OBJECTIVE	To investigate whether a maneuver for repeated cycles of collapse and reexpansion of the operative lung , termed `` intermittent reinflation '' ( IR ) , to counter hypoxemia during one-lung ventilation ( OLV ) , results in a time-dependent alteration of extravascular lung water .
+METHODS	Prospective , randomized clinical study .
+METHODS	Operating room and postsurgical intensive care unit of a university hospital .
+METHODS	36 ASA physical status 1 and 2 patients undergoing elective , video-assisted thoracic surgery for lung tumors .
+METHODS	Patients were randomly assigned to two groups .
+METHODS	Group C consisted of 18 patients whose nondependent lung was kept collapsed during OLV , while Group IR included 18 patients with IR that consisted of 4 separate , 10-second manual inflations and 5-second openings within one minute at intervals of 20 minutes during OLV .
+METHODS	Perioperative parameters included transcutaneous oxygen saturation ( SpO2 ) , hemodynamic data , extravascular lung water index ( EVLWI ) , pulmonary vascular permeability index ( PVPI ) as determined by the single-indicator transpulmonary thermodilution technique , and partial pressure of arterial oxygen/inspired oxygen fraction ( PaO2/FIO2 ) ratio .
+RESULTS	Group IR had significantly higher SpO2 at 20 minutes after commencement of OLV ( 98.9 % vs 96.3 % , P = 0.029 ) and average SpO2 throughout OLV ( 98.7 % vs 97.0 % , P = 0.020 ) .
+RESULTS	Hemodynamic data , EVLWI , PVPI , and PaO2/FIO2 ratio did not differ between the groups , and there were no differences between groups in postoperative morbidity or hospital stay .
+CONCLUSIONS	Intermittent reinflation had a beneficial effect on oxygenation during OLV , without any significant effects on EVLW or postoperative outcomes .
+

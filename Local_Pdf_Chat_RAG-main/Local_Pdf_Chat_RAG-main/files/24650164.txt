@@ -1,0 +1,13 @@
+24650164
+BACKGROUND	Evidence about long-term effects of preventive health services for youth with complex needs is lacking .
+BACKGROUND	Prime Time , a youth development intervention , aims to reduce pregnancy risk among vulnerable adolescent females seeking clinic services .
+METHODS	In a randomized trial , 253 sexually active females aged 13-17 who were at high risk for pregnancy were assigned to the Prime Time intervention or usual clinic services .
+METHODS	The 18-month intervention , initiated in 2007-2008 , comprised regular meetings with case managers and participation in youth leadership groups .
+METHODS	Trial participants completed surveys at baseline and 30 months .
+METHODS	Regression analyses were used to evaluate differences between groups in sexual and psychosocial outcomes at follow-up .
+RESULTS	At 30 months , the intervention group reported more months of consistent condom use ( adjusted means , 1.8 vs. 1.1 ) and dual contraceptive use ( 0.9 vs. 0.3 ) in the past seven months than did controls .
+RESULTS	The intervention was most effective in promoting consistent use among participants with relatively high levels of connectedness to family or school .
+RESULTS	Fifteen percent of intervention participants , but only 6 % of controls , reported having abstained from sex in the past six months ( adjusted odds ratio , 2.9 ) .
+RESULTS	Moreover , among high school graduates , those in the intervention group were more likely than those in the control group to have enrolled in college or technical school ( 72 % vs. 37 % ; odds ratio , 4.5 ) .
+CONCLUSIONS	Health services grounded in a youth development framework can lead to reductions in sexual risk among vulnerable youth that are evident one year following conclusion of services .
+

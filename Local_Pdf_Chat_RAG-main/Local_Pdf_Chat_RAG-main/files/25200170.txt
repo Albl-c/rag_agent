@@ -1,0 +1,16 @@
+25200170
+BACKGROUND	The purpose of the present study is to evaluate the impact of a health psychology-led bariatric rehabilitation service ( BRS ) on patient weight loss following bariatric surgery at 1 year .
+METHODS	A single-site open-randomised parallel group control trial based at St. Richard 's Hospital in Chichester in the UK .
+METHODS	Patients ( n = 162 ) were recruited immediately prior to Roux-en-Y gastric bypass and randomly allocated to receive either treatment as usual ( n = 80 ) or the BRS ( n = 82 ) .
+METHODS	The BRS involved three 50-min one-to-one sessions with a health psychologist and provided information , support and mentoring pre and post surgery addressing psychological issues such as dietary control , self esteem , coping and emotional eating .
+METHODS	Weight loss was assessed at 1 year .
+METHODS	The key outcome variable was BMI and change in BMI .
+RESULTS	Follow-up weight was available for 145 patients .
+RESULTS	Intention-to-treat analysis ( n = 162 ) using last measured weights showed that mean change in BMI by 1 year post surgery was -16.49 .
+RESULTS	There was no significant difference between the two groups ( control group = -16.37 , 95 % CI = 15.15-17 .57 ; intervention = -16.6 , 95 % CI = 15.42-17 .81 ; p ( 2 ) = 0.001 ) .
+RESULTS	Similarly , explanatory analysis ( n = 145 ) showed a mean change in BMI of -17.17 .
+RESULTS	The difference between the two groups was not significant ( control group = -16.9 , 95 % CI = 15.78-18 .18 ; intervention = -17.35 , 95 % CI = 18.5-16 .16 ; p ( 2 ) = 0.001 ) .
+CONCLUSIONS	Psychological support pre and post bariatric surgery had no impact on weight loss as measured by BMI and change in BMI by 1 year .
+CONCLUSIONS	It is argued that psychological support should be targeted to patients who start to demonstrate weight regain at a later stage .
+BACKGROUND	ClinicalTrials.gov NCT01264120 .
+

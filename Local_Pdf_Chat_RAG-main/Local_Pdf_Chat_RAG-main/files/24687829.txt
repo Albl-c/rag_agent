@@ -1,0 +1,15 @@
+24687829
+OBJECTIVE	To determine the effects of bevacizumab on patient-reported outcomes ( PROs ; secondary end point ) in the AURELIA trial .
+METHODS	Patients with platinum-resistant ovarian cancer were randomly assigned to chemotherapy alone ( CT ) or with bevacizumab ( BEV-CT ) .
+METHODS	PROs were assessed using the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire-Ovarian Cancer Module 28 ( EORTC QLQ-OV28 ) and Functional Assessment of Cancer Therapy-Ovarian Cancer symptom index ( FOSI ) at baseline and every two or three cycles ( 8/9 weeks ) until disease progression .
+METHODS	The primary PRO hypothesis was that more patients receiving BEV-CT than CT would achieve at least a 15 % ( 15-point ) absolute improvement on the QLQ-OV28 abdominal/GI symptom subscale ( items 31-36 ) at week 8/9 .
+METHODS	Patients with missing week 8/9 questionnaires were included as unimproved .
+METHODS	Questionnaires from all assessments until disease progression were analyzed using mixed-model repeated-measures ( MMRM ) analysis .
+METHODS	Sensitivity analyses were used to determine the effects of differing assumptions and methods for missing data .
+RESULTS	Baseline questionnaires were available from 89 % of 361 randomly assigned patients .
+RESULTS	More BEV-CT than CT patients achieved a 15 % improvement in abdominal/GI symptoms at week 8/9 ( primary PRO end point , 21.9 % v 9.3 % ; difference , 12.7 % ; 95 % CI , 4.4 to 20.9 ; P = .002 ) .
+RESULTS	MMRM analysis covering all time points also favored BEV-CT ( difference , 6.4 points ; 95 % CI , 1.3 to 11.6 ; P = .015 ) .
+RESULTS	More BEV-CT than CT patients achieved 15 % improvement in FOSI at week 8/9 ( 12.2 % v 3.1 % ; difference , 9.0 % ; 95 % CI , 2.9 % to 15.2 % ; P = .003 ) .
+RESULTS	Sensitivity analyses gave similar results and conclusions .
+CONCLUSIONS	Bevacizumab increased the proportion of patients achieving a 15 % improvement in patient-reported abdominal/GI symptoms during chemotherapy for platinum-resistant ovarian cancer .
+

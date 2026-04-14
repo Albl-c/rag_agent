@@ -1,0 +1,12 @@
+24839984
+BACKGROUND	Chronic venous leg ulcers ( CVU ) are a common , unresolved medical problem .
+BACKGROUND	Silica gel fibre ( SGF ) is a novel biodegradable inorganic material developed to serve as a carrier substrate for the local release of pharmaceutical agents facilitating tissue repair .
+OBJECTIVE	To assess the performance and safety of SGF in subjects with CVU .
+METHODS	Open , randomized , standard-of-care-controlled , multi-centre trial .
+METHODS	Subjects ( ITT 120 patients ) received either SGF in addition to standard treatment or standard-of-care treatment ( S-o-C ) alone .
+METHODS	The primary performance variable was the time to healing of the target ulcer until the end of a 12 week treatment period .
+RESULTS	SGF was well tolerated .
+RESULTS	Mean time to healing up to week 12 was 85.62 days for the SGF group ( SE 1.5 ) and 79.66 days for the S-o-C group ( SE 1.77 ) ( p-value = 0.217 ) .
+RESULTS	There was no statistically relevant difference regarding the incidence of complete healing of the target ulcers by weeks 12 and 24 between the SGF and the S-o-C groups ( p-value > 0.05 ) .
+CONCLUSIONS	SGF is well tolerated and offers a promising perspective as a carrier substrate for the local release of active pharmaceutical agents into the wound site to promote tissue repair .
+

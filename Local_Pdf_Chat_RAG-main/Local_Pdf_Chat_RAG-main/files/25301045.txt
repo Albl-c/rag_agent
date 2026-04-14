@@ -1,0 +1,13 @@
+25301045
+BACKGROUND	Dual-energy CT technology enables acquisition of virtual unenhanced ( VUE ) images from contrast-enhanced scans .
+OBJECTIVE	To assess the feasibility of coronary artery calcium ( CAC ) scoring on VUE images derived from fast kVp-switching dual-energy coronary CT angiography .
+METHODS	Twenty-seven patients underwent true noncontrast CAC-scoring CT followed by routine single-energy ( 120-kVp ) and fast kVp-switching dual-energy coronary CT angiography , in a random acquisition order on the same day .
+METHODS	We calculated the CAC scores on true noncontrast and VUE images .
+METHODS	The image noises and the signal-to-noise and contrast-to-noise ratios of the aorta and coronary arteries were measured on both the single-energy coronary CT angiography images and dual-energy coronary CT angiography images ( 70 keV virtual monochromatic spectral images ) .
+METHODS	The Pearson correlation coefficient test and paired t test were used for statistical analysis .
+RESULTS	Excellent correlation was observed between the CAC scores on the true noncontrast and those on the VUE images ( r = 0.88 ; P < .001 ) .
+RESULTS	Compared with single-energy coronary CT angiography , dual-energy coronary CT angiography showed significantly reduced image noise and increased signal-to-noise and contrast-to-noise ratios in all regions ( all P < .001 ) .
+RESULTS	The effective dose of dual-energy coronary CT angiography ( 4.3 0.3 mSv ) was significantly lower than that of true noncontrast CAC-scoring CT plus single-energy coronary CT angiography ( 5.4 0.7 mSv ; P < .0001 ) .
+CONCLUSIONS	Excellent correlation was observed between the CAC scores on the VUE images and true noncontrast images .
+CONCLUSIONS	Thus , fast kVp-switching dual-energy coronary CT angiography could allow prediction of the true CAC scores , potentially reducing the total radiation exposure and image acquisition time by obviating the need for true noncontrast CAC-scoring CT. .
+

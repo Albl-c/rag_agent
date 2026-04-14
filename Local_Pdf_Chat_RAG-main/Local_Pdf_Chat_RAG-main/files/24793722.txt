@@ -1,0 +1,16 @@
+24793722
+OBJECTIVE	Neonatal diagnoses are often used as surrogate endpoints for longer-term outcomes .
+OBJECTIVE	We sought to characterize the correlation between neonatal diagnoses and early childhood neurodevelopment .
+METHODS	We conducted secondary analysis of a multicenter randomized controlled trial of antenatal magnesium sulfate vs placebo administered to women at imminent risk for delivery < 32.0 weeks to prevent death and cerebral palsy in their offspring .
+METHODS	Singletons and twins delivering 23.0-33 .9 weeks who survived to hospital discharge and had 2-year-old outcome data were included .
+METHODS	Those surviving to age 2 years were assessed by trained physicians and the Bayley II Scales of Infant Development Mental Development and Psychomotor Development Indices .
+METHODS	Neonatal diagnoses at the time of each baby 's initial hospital discharge were examined singly and in combination to determine those most predictive of childhood neurodevelopmental impairment , defined as a childhood diagnosis of moderate/severe cerebral palsy and/or Bayley scores > 2 SD below the mean .
+METHODS	Data were analyzed by multiple regression models and area under receiver operating characteristic curves .
+RESULTS	A total of 1771 children met criteria .
+RESULTS	Children were delivered at a mean of 29.4 weeks ' gestation .
+RESULTS	In all , 459 ( 25.9 % ) had neurodevelopmental impairment .
+RESULTS	In models controlling for gestational age at delivery , maternal education , maternal race , tobacco/alcohol/drug use during pregnancy , randomization to magnesium , fetal sex , and chorioamnionitis , individual neonatal morbidities were moderately predictive of childhood neurodevelopmental impairment ( best model area under receiver operating characteristic curve , 0.68 ; 95 % confidence interval , 0.65-0 .71 ) .
+RESULTS	Combinations of 2 , 3 , and 4 morbidities did not improve the prediction of neurodevelopmental impairment .
+CONCLUSIONS	Approximately 1 in 4 previously preterm children had neurodevelopmental impairment at age 2 years .
+CONCLUSIONS	Prediction of childhood outcomes from neonatal diagnoses remains imperfect .
+

@@ -1,0 +1,13 @@
+24439655
+BACKGROUND	Neuropeptide S Receptor ( NPSR1 ) gene has been associated with multiple allergic phenotypes in several patient populations .
+OBJECTIVE	We analysed the effect of the NPSR1 genotypes in the development of asthma , rhinitis , eczema , or food allergy in children randomly receiving either probiotic or placebo treatment .
+METHODS	796 children born to families at high risk for allergic diseases were examined by a paediatrician at the age of three months , six months , two years , and five years .
+METHODS	Asthma , rhinitis , eczema , and food allergy were diagnosed according to international guidelines .
+METHODS	Treatment with probiotics ( double-blinded and placebo controlled ) was begun with mothers at 35 weeks of gestation age and continued after the birth of infants up to the age of six months .
+METHODS	Association and additive inheritance models were used in genetic analyses .
+RESULTS	Distribution of the hopo546333 was suggestive in the group of patients with atopic eczema at two years .
+RESULTS	The hopo546333_G was found more often in those with eczema in the placebo group ( p = 0.048 , after Bonferroni correction ) and the hopo546333_A was found more often in those with eczema and probiotics compared to those with eczema and placebo treatment .
+RESULTS	None of the NPSR1 tagging SNPs was associated with asthma , IgE-mediated asthma , or sensitisation .
+RESULTS	Allergic disease in both parents doubled the risk for IgE-mediated allergic disease ( OR 2.1 ) .
+CONCLUSIONS	The NPSR1 gene SNP hopo546333 showed a suggestive association for high IgE-associated atopic eczema at two years .
+

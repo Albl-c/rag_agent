@@ -1,0 +1,14 @@
+25739317
+OBJECTIVE	To compare mean heart and left anterior descending coronary artery ( LAD ) doses ( NTDmean ) and positional reproducibility in larger-breasted women receiving left breast radiotherapy using supine voluntary deep-inspiratory breath-hold ( VBH ) and free-breathing prone techniques .
+METHODS	Following surgery for early breast cancer , patients with estimated breast volumes > 750 cm ( 3 ) underwent planning-CT scans in supine VBH and free-breathing prone positions .
+METHODS	Radiotherapy treatment plans were prepared , and mean heart and LAD doses were calculated .
+METHODS	Patients were randomised to receive one technique for fractions 1-7 , before switching techniques for fractions 8-15 ( 40 Gy/15 fractions total ) .
+METHODS	Daily electronic portal imaging and alternate-day cone-beam CT ( CBCT ) imaging were performed .
+METHODS	The primary endpoint was the difference in mean LAD NTDmean between techniques .
+METHODS	Population systematic ( ) and random errors ( ) were estimated .
+METHODS	Within-patient comparisons between techniques used Wilcoxon signed-rank tests .
+RESULTS	34 patients were recruited , with complete dosimetric data available for 28 .
+RESULTS	Mean heart and LAD NTDmean doses for VBH and prone treatments respectively were 0.4 and 0.7 ( p < 0.001 ) and 2.9 and 7.8 ( p < 0.001 ) .
+RESULTS	Clip-based CBCT errors for VBH and prone respectively were 3.0 mm and 6.5 mm ( ) and 3.5 mm and 5.4 mm ( ) .
+CONCLUSIONS	In larger-breasted women , supine VBH provided superior cardiac sparing and reproducibility than a free-breathing prone position .
+

@@ -1,0 +1,11 @@
+24548796
+BACKGROUND	Children with pulmonary hypertension routinely undergo pulmonary vascular resistance studies to assess the disease severity and vasodilator responsiveness .
+BACKGROUND	It is vital that results are accurate and reliable and are not influenced by the choice of anaesthetic agent .
+BACKGROUND	However , there are anecdotal data to suggest that propofol and inhalational agents have different effects on pulmonary vascular resistance .
+METHODS	A total of 10 children with pulmonary hypertension were selected sequentially to be included in the study .
+METHODS	To avoid confounding because of baseline anatomic or demographic details , a crossover protocol was implemented , using propofol or isoflurane , with time for washout in between each agent and blinding of the interventionalist .
+RESULTS	Pulmonary and systemic vascular resistance were not significantly different when using propofol or isoflurane .
+RESULTS	However , the calculated resistance fraction - ratio of pulmonary resistance to systemic resistance - was significantly lower when using propofol than when using isoflurane .
+CONCLUSIONS	Although no difference in pulmonary vascular resistance was demonstrated , this pilot study suggests that the choice of anaesthetic agent may affect the calculation of relative pulmonary and systemic vascular resistance , and provides some preliminary evidence to favour propofol over isoflurane .
+CONCLUSIONS	These findings require replication in a larger study , and thus they should be considered in future calculations to make informed decisions about the management of children with pulmonary hypertension .
+

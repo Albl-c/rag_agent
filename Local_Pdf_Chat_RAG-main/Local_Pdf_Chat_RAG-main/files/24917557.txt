@@ -1,0 +1,9 @@
+24917557
+BACKGROUND	The health-promoting properties of apples are directly related to the biologically active compounds that they contain , such as polyphenols .
+BACKGROUND	The objective of this study was to prepare a low-sugar , fibre - and phlorizin-enriched powder from unripe apples and to gain insight regarding its anti-hyperglycaemic activity in healthy volunteers .
+RESULTS	The unripe apples ( Malus domestica Borkh . )
+RESULTS	were collected 30 days after the full bloom day ; blanched and pressed to obtain apple pomace which was then processed with a food cutter , oven-dried and milled to prepare apple powder .
+RESULTS	The concentrations of total sugars , water-soluble pectin and phlorizin in the apple preparation were 153.442.46 , 27.730.51 and 12.610.15 g kg ( -1 ) , respectively .
+RESULTS	Acute ingestion of the apple preparation improved glucose metabolism in the oral glucose tolerance test ( OGTT ) in six healthy volunteers by reducing the postprandial glucose response at 15 to 30 min by approximately two-fold ( P < 0.05 ) and by increasing urinary glucose excretion during the 2 - to 4-h interval of the OGTT by five-fold ( P < 0.05 ) .
+CONCLUSIONS	The results obtained indicate that the dried and powdered pomace of unripe apples can be used as a health-promoting natural product for the reduction of postprandial glycaemia and to improve the health of patients with diabetes .
+

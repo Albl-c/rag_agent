@@ -1,0 +1,14 @@
+24424074
+OBJECTIVE	Nut consumption has been found to decrease risk of coronary heart disease and diabetes and to promote healthy body weights possibly related to their favorable macronutrient profile .
+OBJECTIVE	We therefore assessed the effect of pistachios on postprandial glucose and insulin levels , gut hormones related to satiety and endothelial function .
+METHODS	In this randomized crossover study , 20 subjects with metabolic syndrome consumed five study meals over 5-10 weeks .
+METHODS	The meals differed in fat type and quantity , but were matched according to available carbohydrates ( CHOs ) .
+METHODS	Three meals had 50 g available CHO : white bread ( WB50g ) , white bread , butter and cheese ( WB+B+C h ) and white bread and pistachios ( WB+P ) .
+METHODS	Two meals had 12 g available CHO : white bread ( WB12g ) and pistachios ( P ) .
+RESULTS	Within each group of available CHO meals , postprandial glucose levels were the highest following the white bread-only meals , and glucose response was significantly attenuated when butter and cheese or pistachios were consumed ( P < 0.05 ) .
+RESULTS	Postprandial insulin levels were highest after the WB+B+C h meal ( P < 0.05 ) , but did not differ between the white bread-only and pistachio meals .
+RESULTS	Both endothelial function ( reactive hyperemia index ) and arterial stiffness ( augmentation index ) significantly increased after the white bread-only meals compared with the WB+B+C h meal ( all P < 0.05 ) .
+RESULTS	Insulin secretagogue levels were higher when butter and cheese or pistachios were consumed than when white bread only was consumed ( P < 0.05 ) .
+CONCLUSIONS	Compared with white bread , pistachio consumption reduced postprandial glycemia , increased glucagon-like-peptide levels and may have insulin-sparing properties .
+CONCLUSIONS	These effects could be beneficial for individuals with diabetes and metabolic syndrome .
+

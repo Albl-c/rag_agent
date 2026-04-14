@@ -1,0 +1,14 @@
+25549577
+OBJECTIVE	The aim was to investigate whether the fascia suture technique ( FST ) can reduce access closure time and procedural costs compared with the Prostar technique ( Prostar ) in patients undergoing endovascular aortic repair and to evaluate the short - and mid-term outcomes of both techniques .
+METHODS	In this two center trial , 100 patients were randomized to access closure by either FST or Prostar between June 2006 and December 2009 .
+METHODS	The primary endpoint was access closure time .
+METHODS	Secondary outcome measures included access related costs and evaluation of the short - and mid-term complications .
+METHODS	Evaluation was performed peri - and post-operatively , at discharge , at 30 days and at 6 months follow up .
+RESULTS	The median access closure time was 12.4 minutes for FST and 19.9 minutes for Prostar ( p < .001 ) .
+RESULTS	Prostar required a 54 % greater procedure time than FST , mean ratio 1.54 ( 95 % CI 1.25-1 .90 , p < .001 ) according to regression analysis .
+RESULTS	Adjusted for operator experience the mean ratio was 1.30 ( 95 % CI 1.09-1 .55 , p = .005 ) and for patient body mass index 1.59 ( 95 % CI 1.28-1 .96 , p < .001 ) .
+RESULTS	The technical failure rate for operators at proficiency level was 5 % ( 2/40 ) compared with 28 % ( 17/59 ) for those at the basic level ( p = .003 ) .
+RESULTS	The proficiency level group had a technical failure rate of 4 % ( 1/26 ) for FST and 7 % ( 1/14 ) for Prostar , p = 1.00 , while corresponding rates for the basic level group were 27 % ( 6/22 ) for FST and 30 % ( 11/37 ) for Prostar ( p = .84 ) .
+RESULTS	There was a significant difference in cost in favor of FST , with a median difference of 800 ( 95 % CI 710-927 , p < .001 ) .
+CONCLUSIONS	In aortic endovascular repair FST is a faster and cheaper technique than the Prostar technique .
+

@@ -1,0 +1,12 @@
+25583168
+BACKGROUND	Little is known about how different antiretrovirals effect inflammation and monocyte activation in human immunodeficiency virus ( HIV ) infection .
+METHODS	We examined plasma specimens obtained during a randomized , double-blinded trial in antiretroviral therapy ( ART ) - naive HIV-infected adults which compared the efficacy of elvitegravir/cobicistat/emtricitabine / tenofovir disoproxil fumarate ( EVG/c/FTC / TDF ) with that of efavirenz/emtricitabine/tenofovir disoproxil fumarate ( EFV/FTC/TDF ) .
+METHODS	From a random sample achieving an HIV type 1 RNA load of < 50 copies/mL by week 48 , changes over 24 and 48 weeks in levels of biomarkers of monocyte activation ( soluble CD14 [ sCD14 ] and soluble CD163 [ sCD163 ] ) , systemic inflammation ( soluble tumor necrosis factor receptor I [ sTNF-RI ] , interleukin 6 [ IL-6 ] , and high-sensitivity C-reactive protein [ hsCRP ] ) , and vascular inflammation ( lipoprotein-associated phospholipase A2 [ Lp-PLA2 ] ) were compared .
+METHODS	Multivariable linear regression was used .
+RESULTS	A total of 200 participants were included .
+RESULTS	Significant differences favoring EVG/c/FTC / TDF were noted for changes in sCD14 , hsCRP , and Lp-PLA2 levels .
+RESULTS	Factors independently associated with a larger decrease in the sCD14 level included random assignment to receive EVG/c/FTC / TDF , higher baseline sCD14 level , and larger decreases in hsCRP and sCD163 levels ; factors associated with a larger Lp-PLA2 decrease included higher baseline Lp-PLA2 and IL-6 levels , smaller increases in total cholesterol and triglycerides levels , a larger decrease in the sCD14 level , and a smaller decrease in the sCD163 level .
+CONCLUSIONS	EVG/c/FTC / TDF led to greater decreases in sCD14 , hsCRP , and Lp-PLA2 levels , compared with EFV/FTC/TDF .
+CONCLUSIONS	Randomization group independently predicted the change in sCD14 level , and changes in monocyte activation independently predicted the change in Lp-PLA2 level .
+CONCLUSIONS	There appears to be a more favorable effect of the integrase inhibitor EVG over efavirenz on immune activation , which may affect vascular inflammation .
+

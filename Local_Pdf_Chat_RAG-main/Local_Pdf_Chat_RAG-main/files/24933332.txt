@@ -1,0 +1,18 @@
+24933332
+BACKGROUND	Ramucirumab is a human IgG1 monoclonal antibody that targets the extracellular domain of VEGFR-2 .
+BACKGROUND	We aimed to assess efficacy and safety of treatment with docetaxel plus ramucirumab or placebo as second-line treatment for patients with stage IV non-small-cell-lung cancer ( NSCLC ) after platinum-based therapy .
+METHODS	In this multicentre , double-blind , randomised phase 3 trial ( REVEL ) , we enrolled patients with squamous or non-squamous NSCLC who had progressed during or after a first-line platinum-based chemotherapy regimen .
+METHODS	Patients were randomly allocated ( 1:1 ) with a centralised , interactive voice-response system ( stratified by sex , region , performance status , and previous maintenance therapy [ yes vs no ] ) to receive docetaxel 75 mg/m ( 2 ) and either ramucirumab ( 10 mg/kg ) or placebo on day 1 of a 21 day cycle until disease progression , unacceptable toxicity , withdrawal , or death .
+METHODS	The primary endpoint was overall survival in all patients allocated to treatment .
+METHODS	We assessed adverse events according to treatment received .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT01168973 .
+RESULTS	Between Dec 3 , 2010 , and Jan 24 , 2013 , we screened 1825 patients , of whom 1253 patients were randomly allocated to treatment .
+RESULTS	Median overall survival was 105 months ( IQR 51-212 ) for 628 patients allocated ramucirumab plus docetaxel and 91 months ( 42-180 ) for 625 patients who received placebo plus docetaxel ( hazard ratio 086 , 95 % CI 075-098 ; p = 0023 ) .
+RESULTS	Median progression-free survival was 45 months ( IQR 23-83 ) for the ramucirumab group compared with 30 months ( 14-69 ) for the control group ( 076 , 068-086 ; p < 00001 ) .
+RESULTS	We noted treatment-emergent adverse events in 613 ( 98 % ) of 627 patients in the ramucirumab safety population and 594 ( 95 % ) of 618 patients in the control safety population .
+RESULTS	The most common grade 3 or worse adverse events were neutropenia ( 306 patients [ 49 % ] in the ramucirumab group vs 246 [ 40 % ] in the control group ) , febrile neutropenia ( 100 [ 16 % ] vs 62 [ 10 % ] ) , fatigue ( 88 [ 14 % ] vs 65 [ 10 % ] ) , leucopenia ( 86 [ 14 % ] vs 77 [ 12 % ] ) , and hypertension ( 35 [ 6 % ] vs 13 [ 2 % ] ) .
+RESULTS	The numbers of deaths from adverse events ( 31 [ 5 % ] vs 35 [ 6 % ] ) and grade 3 or worse pulmonary haemorrhage ( eight [ 1 % ] vs eight [ 1 % ] ) did not differ between groups .
+RESULTS	Toxicities were manageable with appropriate dose reductions and supportive care .
+CONCLUSIONS	Ramucirumab plus docetaxel improves survival as second-line treatment of patients with stage IV NSCLC .
+BACKGROUND	Eli Lilly .
+

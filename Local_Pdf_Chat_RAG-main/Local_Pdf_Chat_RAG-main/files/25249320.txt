@@ -1,0 +1,21 @@
+25249320
+BACKGROUND	Treatment options for plantar fasciitis have resulted in varied patient outcomes .
+BACKGROUND	The aim of this study was to compare a novel treatment , cryopreserved human amniotic membrane ( c-hAM ) , to a traditional treatment , corticosteroid .
+BACKGROUND	Our hypothesis was that c-hAM would be safe and comparable to corticosteroids for plantar fasciitis in regard to patient outcomes .
+METHODS	A randomized , controlled , double-blind , single-center pilot study was completed .
+METHODS	Patients were randomized into one of 2 treatment groups : c-hAM or corticosteroid .
+METHODS	Patients received an injection at their initial baseline visit with an option for a second injection at their first 6-week follow-up .
+METHODS	Total follow-up was obtained for 12 weeks after the most recent injection .
+METHODS	The primary outcome measurement was the Foot Health Status Questionnaire ( FHSQ ) .
+METHODS	The secondary outcome measurements were the Visual Analog Scale ( VAS ) and verbally reported percentage improvement .
+METHODS	Data were analyzed between groups for the 2 different cohorts ( 1 injection versus 2 injections ) .
+METHODS	Twenty-three patients had complete follow-up .
+METHODS	Fourteen were randomized to receive corticosteroid and 9 were randomized to receive c-hAM .
+RESULTS	Three patients in each group received second injections .
+RESULTS	With the numbers available , the majority of outcome measurements showed no statistical difference between groups .
+RESULTS	The corticosteroid did , however , have greater FHSQ shoe fit improvement ( P = .0244 ) at 6 weeks , FHSQ general health improvement ( P = .0132 ) at 6 weeks , and verbally reported improvement ( P = .041 ) at 12 weeks in the one-injection cohort .
+RESULTS	Cryopreserved hAM had greater FHSQ foot pain improvement ( P = .0113 ) at 18 weeks in the 2-injection cohort .
+CONCLUSIONS	Cryopreserved hAM injection may be safe and comparable to corticosteroid injection for treatment of plantar fasciitis .
+CONCLUSIONS	This is a pilot study and requires further investigation .
+METHODS	Level I , prospective randomized trial .
+

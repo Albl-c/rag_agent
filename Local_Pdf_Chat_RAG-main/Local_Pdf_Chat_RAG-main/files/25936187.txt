@@ -1,0 +1,13 @@
+25936187
+OBJECTIVE	To compare postoperative blood loss under different negative pressures of drainage after total hip arthroplasty for the treatment of femoral neck fractures .
+METHODS	From January 1st to December 30th 2013 , 74 patients with femoral neck fractures treated with total hip arthroplasty were randomly divided into two groups : high negative pressure drainage group and low negative pressure drainage group .
+METHODS	In high negative pressure drainage group , there were 34 cases including 10 males and 24 females , with a mean age of ( 75.94 9.02 ) years old , and the patients were treated with 60 kPa negative pressure of drainage .
+METHODS	In the low negative pressure drainage group , there were 40 cases including 13 males and 27 females , with an average age of ( 74.93 8.90 ) years old , and the patients were treated with 30 kPa negative pressure of drainage .
+METHODS	The amount of total drainage , total blood loss , and hemoglobin change were compared between these two groups .
+RESULTS	All the patients got primary healing without infections .
+RESULTS	In high negative pressure drainage group , the change of hemoglobin was ( 41.74 15.69 ) g/L , total blood loss was ( 1,217.73 459.50 ) ml and the drainage volume was ( 312.94 103.44 ) ml ; while in low negative pressure drainage group , the results were ( 34.90 12.90 ) g/L , ( 904.01 381.58 ) ml and ( 129.25 44.25 ) ml separately .
+RESULTS	All the results in high negative pressure drainage group were higher than those in the other group .
+RESULTS	Three days after operation , the change of hemoglobin was ( 46.00 13.29 ) g/L and total blood loss was ( 1,304.72 421.75 ) ml ; while in low negative pressure drainage group , the changes of hemoglobin was ( 43.87 11.39 ) g/L and total blood loss was ( 1,196.78 344.20 ) ml ; there were no statistically significant differences between two groups .
+CONCLUSIONS	When placing drainage devices after total hip arthroplasty for the treatment of femoral neck fractures , the level of negative pressure should be chosen according to preoperative level of hemoglobin and HCT in patients .
+CONCLUSIONS	For old patients with femoral neck fracture , low negative pressure is more suitable .
+

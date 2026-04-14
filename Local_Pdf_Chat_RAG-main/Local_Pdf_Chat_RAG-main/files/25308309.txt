@@ -1,0 +1,14 @@
+25308309
+OBJECTIVE	The observation of movements increases primary motor cortex ( M1 ) excitability .
+OBJECTIVE	This exploratory study examined the effects of movement observation on pressure pain threshold ( PPT ) and transcranial magnetic stimulation ( TMS ) - indexed corticospinal excitability bilaterally .
+METHODS	Thirty healthy right-handed subjects were randomized to a left hand-movement observation task or a control task .
+METHODS	Statistical analyses were performed using ANOVA models and t-tests .
+METHODS	Results were not corrected for multiple comparisons .
+METHODS	Quantitative sensory assessments were measured in both hands , while M1 excitability has only been tested for the right ( non-dominant ) M1 corresponding to the observed left hand movements .
+RESULTS	Analysis of pain and cortical silent period ( CSP ) outcomes demonstrated a significant interaction between task ( hand-movement group ) versus control group and time ( pre - / postintervention ) .
+RESULTS	PPT increased in the left hand ( moving hand in the task ) and declined significantly in the contralateral hand ( still hand ) in the movement-observation-task-group , whereas PTT in the control group remained unchanged .
+RESULTS	CSP was significantly shorter in the movement-observation group indicating decreased intracortical inhibition ( results uncorrected for multiple comparisons ) .
+CONCLUSIONS	The observation of hand-movements led to a side-specific reduction in pain perception and a decrease in intracortical inhibition .
+CONCLUSIONS	These exploratory findings support the notion that M1 is a robust modulator of pain-related neural networks .
+CONCLUSIONS	This effect might be mediated through modulation of the GABAergic system and appears to differ from what is observed in chronic pain .
+

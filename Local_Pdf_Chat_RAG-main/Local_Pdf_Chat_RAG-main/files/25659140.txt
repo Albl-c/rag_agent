@@ -1,0 +1,10 @@
+25659140
+OBJECTIVE	Skin temperature assessment has historically been undertaken with conductive devices affixed to the skin .
+OBJECTIVE	With the development of technology , infrared devices are increasingly utilised in the measurement of skin temperature .
+OBJECTIVE	Therefore , our purpose was to evaluate the agreement between four skin temperature devices at rest , during exercise in the heat , and recovery .
+METHODS	Mean skin temperature ( [ Formula : see text ] ) was assessed in thirty healthy males during 30 min rest ( 24.0 1.2 C , 56 8 % ) , 30 min cycle in the heat ( 38.0 0.5 C , 41 2 % ) , and 45 min recovery ( 24.0 1.3 C , 56 9 % ) .
+METHODS	[ Formula : see text ] was assessed at four sites using two conductive devices ( thermistors , iButtons ) and two infrared devices ( infrared thermometer , infrared camera ) .
+RESULTS	Bland-Altman plots demonstrated mean bias limits of agreement between the thermistors and iButtons as follows ( rest , exercise , recovery ) : -0.01 0.04 , 0.26 0.85 , -0.37 0.98 C ; thermistors and infrared thermometer : 0.34 0.44 , -0.44 1.23 , -1.04 1.75 C ; thermistors and infrared camera ( rest , recovery ) : 0.83 0.77 , 1.88 1.87 C. Pairwise comparisons of [ Formula : see text ] found significant differences ( p < 0.05 ) between thermistors and both infrared devices during resting conditions , and significant differences between the thermistors and all other devices tested during exercise in the heat and recovery .
+CONCLUSIONS	These results indicate poor agreement between conductive and infrared devices at rest , during exercise in the heat , and subsequent recovery .
+CONCLUSIONS	Infrared devices may not be suitable for monitoring [ Formula : see text ] in the presence of , or following , metabolic and environmental induced heat stress .
+

@@ -1,0 +1,11 @@
+24723218
+OBJECTIVE	Although some studies suggest that art therapy may be useful in the treatment of negative symptoms of schizophrenia , a recent large trial of group art therapy found no clinical advantage over standard care , but the study population was heterogeneous and uptake of the intervention was poor .
+OBJECTIVE	This study aimed to investigate whether art therapy was more effective for specific subgroups of patients .
+METHODS	Secondary analysis of data from a randomised controlled trial of group art therapy as an adjunctive treatment for schizophrenia ( n = 140 ) versus standard care alone ( n = 137 ) .
+METHODS	Positive and Negative Syndrome Scale scores at 12 months were compared between trial arms .
+METHODS	Interaction between intervention effect and different subgroups , including those with more severe negative symptoms of schizophrenia , and those who expressed a preference for art therapy prior to randomisation , was tested using a linear mixed model .
+RESULTS	The clinical effectiveness of group art therapy did not significantly differ between participants with more or less severe negative symptoms [ interaction for difference in PANSS = 1.7 , 95 % CI ( -8.6 to 12.1 ) , P = 0.741 ] , or between those who did and did not express a preference for art therapy [ interaction = 3.9 , 95 % CI ( -6.7 to 14.5 ) , P = 0.473 ] .
+RESULTS	None of the other exploratory subgroups suggested differences in intervention effect .
+CONCLUSIONS	There was no evidence of greater improvement in clinical symptoms of schizophrenia for those with more severe negative symptoms or those with a preference for art therapy .
+CONCLUSIONS	Identification of patients with schizophrenia who may benefit most from group art therapy remains elusive .
+

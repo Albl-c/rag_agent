@@ -1,0 +1,14 @@
+24895382
+OBJECTIVE	Our aim was to evaluate the feasibility of a hydrotherapy treatment in patients with Parkinson 's disease and the effectiveness of this treatment on balance parameters in comparison to a traditional land-based physical therapy .
+METHODS	A randomized single-blind controlled trial .
+METHODS	Outpatients .
+METHODS	Thirty-four patients with Parkinson 's disease in Hoehn-Yahr stage 2.5-3 .
+METHODS	Group 1 hydrotherapy treatment , group 2 land-based rehabilitation treatment .
+METHODS	The two groups underwent the same rehabilitation period ( 60 minutes of treatment , five days a week for two months ) .
+METHODS	The primary outcome measures were the centre of the pressure sway area recorded with open and closed eyes , using a stabilometric platform .
+METHODS	Secondary outcome measures were Unified Parkinson 's Disease Rating Scale II and III , Timed Up and Go Test , Berg Balance Scale , Activities-specific Balance Confidence Scale , Falls Efficacy Scale , Falls diary and Parkinson 's Disease Questionnaire-39 .
+RESULTS	Hydrotherapy treatment proved to be feasible and safe .
+RESULTS	Patients in both groups had a significant improvement in all outcome variables .
+RESULTS	There was a better improvement in patients who underwent hydrotherapy than in patients treated with land-based therapy in the centre of pressure sway area closed eyes ( mean SD change : 45.4 SD64 .9 vs. 6.9 SD45 .3 , p = 0.05 ) , Berg Balance Scale ( 51.2 SD3 .1 vs. 6.0 SD3 .1 , p = 0.005 ) , Activities-specific Balance Confidence Scale ( 16.8 SD10 .6 vs. 4.1 SD5 .4 , p = 0.0001 ) , Falls Efficacy Scale ( -5.9 SD4 .8 vs. -1.9 SD1 .4 , p = 0.003 ) , Parkinson 's Disease Quetionnaire-39 ( -18.4 SD12 .9 vs. -8.0 SD7 .0 , p = 0.006 ) and falls diary ( -2.4 SD2 .2 vs. -0.4 SD0 .5 , p = 0.001 ) .
+CONCLUSIONS	Our study suggests that hydrotherapy may constitute a possible treatment for balance dysfunction in Parkinsonian patients with moderate stage of disease .
+

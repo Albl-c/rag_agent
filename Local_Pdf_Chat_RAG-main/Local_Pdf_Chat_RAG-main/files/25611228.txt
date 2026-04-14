@@ -1,0 +1,15 @@
+25611228
+BACKGROUND	Treatment impact on quality of life ( QoL ) informs treatment management decisions in advanced nonsquamous non-small-cell lung cancer ( NS NSCLC ) .
+BACKGROUND	QoL outcomes from the phase III PointBreak trial are reported .
+METHODS	Chemonaive patients ( n = 939 ) with stage IIIB/IV nonsquamous non-small-cell lung cancer and Eastern Cooperative Oncology Group performance status 0 to 1 were randomized ( 1:1 ) to pemetrexed-carboplatin-bevacizumab ( pemetrexed arm ) or paclitaxel-carboplatin-bevacizumab ( paclitaxel arm ) .
+METHODS	Patients without progressive disease received maintenance pemetrexed-bevacizumab ( pemetrexed arm ) or bevacizumab ( paclitaxel arm ) .
+METHODS	QoL was assessed using Functional Assessment of Cancer Therapy ( FACT ) - General ( FACT-G ) , FACT-Lung ( FACT-L ) , and FACT/Gynecologic Oncology Group-Neurotoxicity ( FACT-Ntx ) instruments .
+METHODS	Subscale scores , total scores , and trial outcome indices were analyzed using linear mixed-effects models .
+METHODS	Post hoc analyses examined the association between baseline FACT scores and overall survival ( OS ) .
+RESULTS	Mean score differences in change from baseline significantly favored the pemetrexed arm for the neurotoxicity subscale score , FACT-Ntx total scores , and FACT-Ntx trial outcome index .
+RESULTS	They occurred at cycle 2 ( p < 0.001 ) and persisted through induction cycles 2 to 4 and six maintenance cycles .
+RESULTS	Investigator-assessed , qualitative , drug-related differences in grade 2 ( 1.6 % versus 10.6 % ) and grade 3 ( 0.0 % versus 4.1 % ) sensory neuropathy and grade 3/4 fatigue ( 10.9 % versus 5.0 % , p = 0.0012 ) were observed between the pemetrexed and paclitaxel arms .
+RESULTS	Baseline FACT-G , FACT-L , and FACT-Ntx scores were significant prognostic factors for OS ( p < 0.001 ) .
+CONCLUSIONS	Randomized patients reported similar changes in QoL , except for less change from baseline in neurotoxicity on the pemetrexed arm ; investigators reported greater neurotoxicity on the paclitaxel arm and greater fatigue on the pemetrexed arm .
+CONCLUSIONS	Higher baseline FACT scores were favorable prognostic factors for OS .
+

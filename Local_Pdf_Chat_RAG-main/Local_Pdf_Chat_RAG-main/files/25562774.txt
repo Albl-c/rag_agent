@@ -1,0 +1,16 @@
+25562774
+BACKGROUND	Most diabetic and hypertensive patients , principally the elderly , do not achieve adequate disease control and consume 5 % -15 % of annual health care budgets .
+BACKGROUND	Previous studies verified that pharmaceutical care is useful for achieving adequate disease control in diabetes and hypertension .
+OBJECTIVE	To evaluate the economic cost and the incremental cost-effectiveness ratio ( ICER ) per quality-adjusted life-year ( QALY ) of pharmaceutical care in the management of diabetes and hypertension in elderly patients in a primary public health care system in a developing country .
+METHODS	A 36-month randomized controlled clinical trial was performed with 200 patients who were divided into a control group ( n = 100 ) and an intervention group ( n = 100 ) .
+METHODS	The control group received the usual care offered by the Primary Health Care Unit ( medical and nurse consultations ) .
+METHODS	The intervention group received the usual care plus a pharmaceutical care intervention .
+METHODS	The intervention and control groups were compared with regard to the direct costs of health services ( i.e. , general practitioner , specialist , nurse , and pharmacist appointments ; emergency room visits ; and drug therapy costs ) and the ICER per QALY .
+METHODS	These evaluations used the health system perspective .
+RESULTS	No statistically significant difference was found between the intervention and control groups in total direct health care costs ( $ 281.97 $ 49.73 per patient vs. $ 212.28 $ 43.49 per patient , respectively ; P = 0.089 ) ; pharmaceutical care added incremental costs of $ 69.60 ( $ 7.90 ) per patient .
+RESULTS	The ICER per QALY was $ 53.50 ( 95 % CI = $ 51.60 - $ 54.00 ; monetary amounts are given in U.S. dollars ) .
+RESULTS	Every clinical parameter evaluated improved for the pharmaceutical care group , whereas these clinical parameters remained unchanged in the usual care group .
+RESULTS	The difference in differences ( DID ) tests indicated that for each clinical parameter , the patients in the intervention group improved more from pre to post than the control group ( P < 0.001 ) .
+CONCLUSIONS	While pharmaceutical care did not significantly increase total direct health care costs , significantly improved health outcomes were seen .
+CONCLUSIONS	The mean ICER per QALY gained suggests a favorable cost-effectiveness .
+

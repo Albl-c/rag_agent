@@ -1,0 +1,9 @@
+24888209
+OBJECTIVE	This study explored possible mechanisms through which symptoms of posttraumatic stress disorder ( PTSD ) were reduced in a randomized controlled trial comparing the effect of a yoga intervention with an assessment control .
+METHODS	We examined whether changes in psychological flexibility , mindfulness , and emotion regulation strategies ( expressive suppression and reappraisal ) were associated with posttreatment PTSD symptoms for 38 women with Diagnostic and Statistical Manual of Mental Disorders Fourth Edition full or subthreshold PTSD .
+RESULTS	Hierarchical linear regression models revealed that expressive suppression significantly decreased for the yoga group relative to the assessment control .
+RESULTS	Psychological flexibility increased significantly for the control but not yoga group .
+RESULTS	However , increases in psychological flexibility were associated with decreases in PTSD symptoms for the yoga but not control group .
+CONCLUSIONS	Preliminary findings suggest that yoga may reduce expressive suppression and may improve PTSD symptoms by increasing psychological flexibility .
+CONCLUSIONS	More research is needed to replicate and extend these findings .
+

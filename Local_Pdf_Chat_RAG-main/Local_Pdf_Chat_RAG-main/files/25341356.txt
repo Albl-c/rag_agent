@@ -1,0 +1,12 @@
+25341356
+OBJECTIVE	To investgate the effect of Xuebijing Injection on immune regulation in patients with systemic inflammatory response syndrome ( SIRS ) .
+METHODS	56 SIRS patients admitted to the ICU of Guizhou Provincial Hospital from January 2013 to December 2013 were included in this study .
+METHODS	The patients were randomly divided into a control ( C ) and a treatment ( T ) group .
+METHODS	Patients in C group received routine treatment ; while patients in T group received additional Xuebijing Injection 50 mL Bid .
+METHODS	The following indicators were recorded and compared between the two groups before and 4 and 7 days after treatments : CD4 + , CD8 + , CD4 + / CD8 + , monocytes CD14 + / human leukocyte antigen-DR ( HLA-DR ) , score of acute physiology and chronic health evaluation II ( APACHE II ) , heart rate , white blood cells , body temperature , respiration rate , and MODS ( 7 d after treatment only ) .
+RESULTS	No differences were found between the two groups before treatments ( P > 0.05 ) .
+RESULTS	T Group had higher levels of CD4 + , CD8 , CD4 + / CD8 + and monocytes CD14 + / HLA-DR than C group at 4 and 7 d after treatments ( P < 0.05 ) .
+RESULTS	T group also had higher levels of improvement in vital indicators compared with C group ( P < 0.05 ) .
+RESULTS	No significant difference in incidence of multiple organ dysfunction syndrome ( MODS ) was found between the two groups ( P > 0.05 ) .
+CONCLUSIONS	Xuebijing Injection can regulate immune function of patients with SIRS .
+

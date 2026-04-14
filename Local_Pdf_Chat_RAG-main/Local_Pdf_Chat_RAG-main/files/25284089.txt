@@ -1,0 +1,18 @@
+25284089
+OBJECTIVE	To report and discuss the multi-domain impact of elosulfase alfa , with focus on tertiary and composite endpoints , in the 24-week , randomized , double-blind , placebo-controlled phase 3 trial in patients with Morquio A syndrome ( mucopolysaccharidosis IVA ) .
+METHODS	Patients with Morquio A syndrome aged 5 years were randomized 1:1:1 to elosulfase alfa 2.0 mg/kg/week ( qw ; N = 58 ) , elosulfase alfa 2.0 mg/kg/every other week ( qow ; N = 59 ) , or placebo ( N = 59 ) for 24 weeks .
+METHODS	Primary and secondary efficacy measures were 6-minute walk test ( 6MWT ; primary ) , 3-minute stair climb test ( 3-MSCT ) and urinary keratan sulfate ( KS ) .
+METHODS	Safety was also evaluated .
+METHODS	Tertiary efficacy measures included respiratory function measures , activities of daily living ( MPS Health Assessment Questionnaire [ MPS-HAQ ] ) , anthropometric , echocardiographic and radiographic measures , hearing and corneal clouding assessment .
+METHODS	In order to fully characterize treatment impact in this heterogeneous disorder , the effect of elosulfase alfa on composite efficacy measures was evaluated as well .
+RESULTS	The study was not designed to have sufficient power for any of the tertiary outcomes .
+RESULTS	For most tertiary endpoints , subjects treated with the weekly dose of elosulfase alfa improved more than those receiving placebo .
+RESULTS	The largest treatment effects were seen in maximal voluntary ventilation ( MVV ) , MPS-HAQ , height , and growth rate .
+RESULTS	The qow group appeared similar to placebo .
+RESULTS	The analysis of a pre-specified composite endpoint ( combining changes from baseline in 6MWT , 3MSCT and MVV z-scores equally weighted ) showed a modest positive impact of elosulfase alfa qw versus placebo group ( P = 0.053 ) .
+RESULTS	As a pre-specified supportive analysis , the O'Brien Rank Sum composite endpoint ( changes from baseline in 6MWT , 3MSC , and MVV ) , analysis also showed that the qw group performed better than the placebo group ( P = 0.011 ) .
+RESULTS	In post-hoc analyses , combinations of other endpoints were also explored using the O'Brien Rank Sum test and showed statistically significant differences between elosulfase alfa qw and placebo favoring elosulfase alfa qw .
+RESULTS	Differences between elosulfase alfa qow and placebo were not statistically significant .
+RESULTS	Positive changes were observed in most tertiary variables , demonstrating the efficacy of weekly treatment with elosulfase alfa .
+CONCLUSIONS	Treatment with weekly elosulfase alfa led to improvements across most efficacy measures , resulting in clinically meaningful benefits in a heterogeneous study population .
+

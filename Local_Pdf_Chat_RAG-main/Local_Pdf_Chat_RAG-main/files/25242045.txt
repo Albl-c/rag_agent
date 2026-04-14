@@ -1,0 +1,21 @@
+25242045
+BACKGROUND	Panobinostat is a potent oral pan-deacetylase inhibitor that in preclinical studies has synergistic anti-myeloma activity when combined with bortezomib and dexamethasone .
+BACKGROUND	We aimed to compare panobinostat , bortezomib , and dexamethasone with placebo , bortezomib , and dexamethasone in patients with relapsed or relapsed and refractory multiple myeloma .
+METHODS	PANORAMA1 is a multicentre , randomised , placebo-controlled , double-blind phase 3 trial of patients with relapsed or relapsed and refractory multiple myeloma who have received between one and three previous treatment regimens .
+METHODS	Patients were randomly assigned ( 1:1 ) via an interactive web-based and voice response system , stratified by number of previous treatment lines and by previous use of bortezomib , to receive 21 day cycles of placebo or panobinostat ( 20 mg ; on days 1 , 3 , 5 , 8 , 10 , 12 , orally ) , both in combination with bortezomib ( 13 mg/m ( 2 ) on days 1 , 4 , 8 , 11 , intravenously ) and dexamethasone ( 20 mg on days 1 , 2 , 4 , 5 , 8 , 9 , 11 , 12 , orally ) .
+METHODS	Patients , physicians , and the investigators who did the data analysis were masked to treatment allocation ; crossover was not permitted .
+METHODS	The primary endpoint was progression-free survival ( in accordance with modified European Group for Blood and Marrow Transplantation criteria and based on investigators ' assessment ) and was analysed by intention to treat .
+METHODS	The study is ongoing , but no longer recruiting , and is registered at ClinicalTrials.gov , number NCT01023308 .
+RESULTS	768 patients were enrolled between Jan 21 , 2010 , and Feb 29 , 2012 , with 387 randomly assigned to panobinostat , bortezomib , and dexamethasone and 381 to placebo , bortezomib , and dexamethasone .
+RESULTS	Median follow-up was 647 months ( IQR 181-1347 ) in the panobinostat group and 559 months ( 214-1130 ) in the placebo group .
+RESULTS	Median progression-free survival was significantly longer in the panobinostat group than in the placebo group ( 1199 months [ 95 % CI 1033-1294 ] vs 808 months [ 756-923 ] ; hazard ratio [ HR ] 063 , 95 % CI 052-076 ; p < 00001 ) .
+RESULTS	Overall survival data are not yet mature , although at the time of this analysis , median overall survival was 3364 months ( 95 % CI 3134-not estimable ) for the panobinostat group and 3039 months ( 2687-not estimable ) for the placebo group ( HR 087 , 95 % CI 069-110 ; p = 026 ) .
+RESULTS	The proportion of patients achieving an overall response did not differ between treatment groups ( 235 [ 607 % , 95 % CI 557-656 ] for panobinostat vs 208 [ 546 % , 494-597 ] for placebo ; p = 009 ) ; however , the proportion of patients with a complete or near complete response was significantly higher in the panobinostat group than in the placebo group ( 107 [ 276 % , 95 % CI 232-324 ] vs 60 [ 157 % , 122-198 ] ; p = 000006 ) .
+RESULTS	Minimal responses were noted in 23 ( 6 % ) patients in the panobinostat group and in 42 ( 11 % ) in the placebo group .
+RESULTS	Median duration of response ( partial response or better ) was 1314 months ( 95 % CI 1176-1492 ) in the panobinostat group and 1087 months ( 923-1176 ) in the placebo group , and median time to response ( partial response or better ) was 151 months ( 141-164 ) in the panobinostat group and 200 months ( 161-279 ) in the placebo group .
+RESULTS	Serious adverse events were reported in 228 ( 60 % ) of 381 patients in the panobinostat group and 157 ( 42 % ) of 377 patients in the placebo group .
+RESULTS	Common grade 3-4 laboratory abnormalities and adverse events ( irrespective of association with study drug ) included thrombocytopenia ( 256 [ 67 % ] in the panobinostat group vs 118 [ 31 % ] in the placebo group ) , lymphopenia ( 202 [ 53 % ] vs 150 [ 40 % ] ) , diarrhoea ( 97 [ 26 % ] vs 30 [ 8 % ] ) , asthenia or fatigue ( 91 [ 24 % ] vs 45 [ 12 % ] ) , and peripheral neuropathy ( 67 [ 18 % ] vs 55 [ 15 % ] ) .
+CONCLUSIONS	Our results suggest that panobinostat could be a useful addition to the treatment armamentarium for patients with relapsed or relapsed and refractory multiple myeloma .
+CONCLUSIONS	Longer follow up will be necessary to determine whether there is any effect on overall survival .
+BACKGROUND	Novartis Pharmaceuticals .
+

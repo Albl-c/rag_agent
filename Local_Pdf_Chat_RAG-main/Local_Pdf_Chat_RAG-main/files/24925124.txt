@@ -1,0 +1,11 @@
+24925124
+OBJECTIVE	There has been no systematic investigation of the individual and combined effects of impaired glucose tolerance ( IGT ) and obesity on cognitive function in the absence of ageing .
+OBJECTIVE	The aims were to examine the effects of IGT and increased waist circumference on cognitive function in ostensibly healthy adults , and to investigate whether a low glycaemic load ( GL ) breakfast can attenuate cognitive impairments in these populations .
+RESULTS	Sixty five females aged 30-50 years were classified into one of four groups following waist circumference ( WC ) measurements and an oral glucose tolerance test : NGT/low WC ( n = 25 ) , NGT/high WC ( n = 22 ) , IGT/low WC ( n = 9 ) , IGT/high WC ( n = 9 ) .
+RESULTS	Memory , psychomotor and executive functions were examined 30 and 120 min after consuming low GL , high GL and water breakfasts according to a randomised , crossover , counterbalanced design .
+RESULTS	IGT was associated with impairment of verbal and spatial memory , and psychomotor function relative to females with NGT , independent of waist circumference .
+RESULTS	Increased waist circumference was associated with impairment of verbal memory and executive function relative to females with low WC , independent of IGT .
+RESULTS	Consumption of the LGL breakfast attenuated verbal memory impairment in the IGT/high WC group relative to the HGL breakfast and no energy control .
+CONCLUSIONS	Increased central adiposity and abnormalities in glucose tolerance preceding type 2 diabetes can have demonstrable negative effects on cognitive function , even in ostensibly healthy , middle-aged females .
+CONCLUSIONS	The potential for GL manipulations to modulate glycaemic response and cognitive function in type 2 diabetes and obesity merits further investigation .
+

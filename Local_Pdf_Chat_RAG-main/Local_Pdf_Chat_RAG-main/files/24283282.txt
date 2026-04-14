@@ -1,0 +1,15 @@
+24283282
+OBJECTIVE	To compare three children 's sodium fluoride toothpastes to placebo with respect to enamel remineralisation potential , enamel fluoride uptake and net acid resistance using an in situ palatal caries model in children aged 11-14 years following a single brushing .
+METHODS	This was a randomised , single blind ( laboratory analyst ) , single-centre , four-treatment , crossover study with a 7-day washout period between treatments .
+METHODS	The treatments were 1,426 ppm fluoride , 1,000 ppm fluoride , 500 ppm fluoride and 0 ppm fluoride ( placebo ) toothpaste ( NaF/silica ) .
+METHODS	A custom made in situ palatal appliance was used by each subject in all treatment periods .
+METHODS	At each of the four treatment visits subjects wore the appliance containing four partially demineralised human enamel specimens for 5 minutes and then brushed their teeth using a standardised procedure for 60 seconds under supervision using 1.0 g ( 0.1 g ) of their assigned toothpaste .
+METHODS	After 4 hours the appliance was removed and enamel specimen recovered .
+METHODS	This process was repeated until all subjects completed all four study treatment visits .
+METHODS	Recovered enamel specimens were analysed for per cent surface microhardness recovery ( % SMHR ; Knoop ) and enamel fluoride uptake ( EFU ; microdrill biopsy ) .
+METHODS	Subsequently , specimens were demineralised in vitro to determine their % net acid resistance ( % NAR ; Knoop ) .
+RESULTS	All three fluoride toothpastes demonstrated significantly greater % SMHR , EFU and % NAR compared with 0 ppm F toothpaste .
+RESULTS	The model demonstrated a dose response over the range 0 to 1,426 ppm fluoride for % SMHR , EFU and % NAR .
+RESULTS	There was no significant difference between 500 ppm F and 1,000 ppm F for % SMHR and between 1,000 ppm F and 1,426 ppm F for % SMHR , EFU and % NAR .
+CONCLUSIONS	The present in situ study demonstrated that the children 's fluoride toothpastes tested are capable of delivering cariostatic amounts of fluoride to early caries lesions following a single brushing .
+

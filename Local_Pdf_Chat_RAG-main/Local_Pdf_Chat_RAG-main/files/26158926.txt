@@ -1,0 +1,12 @@
+26158926
+OBJECTIVE	To compare aqueous humor pH values in patients during femtosecond laser-assisted cataract surgery with patients during conventional phacoemulsification .
+METHODS	A prospective clinical study was conducted in 29 eyes of 29 patients who underwent cataract surgery by a single surgeon .
+METHODS	The femtosecond laser group included 15 eyes operated on with a femtosecond laser platform ( Catalys ; Abbott Medical Optics , Santa Ana , CA ) and the phacoemulsification group included 14 eyes that were operated on with conventional phacoemulsification .
+METHODS	The femtosecond laser group was subdivided into low , medium , and high level of cavitation gas bubbles after docking and the femtosecond laser procedure , according to the judgment of the surgeon .
+METHODS	Aqueous humor samples ( 0.10 to 0.15 mL ) were collected through a paracentesis from each patient after docking , corneal incisions , and nucleus fragmentation in the femtosecond laser group and after corneal incisions but before injection of viscoelastic in the phacoemulsification group , then analyzed with a pH meter .
+RESULTS	The mean pH was 6.53 0.09 ( range : 6.42 to 6.70 ) and 7.42 0.07 ( range : 7.28 to 7.48 ) in the femtosecond laser and phacoemulsification groups , respectively ( P < .001 ) .
+RESULTS	In the femtosecond laser group , no significant differences in pH were observed between the three subgroups after docking and the femtosecond laser surgical procedure : low ( 6.55 0.09 [ range : 6.53 to 6.57 ] ) , medium ( 6.54 0.07 [ range : 6.52 to 6.55 ] ) , and high ( 6.42 0.00 [ range : 6.40 to 6.44 ] ) level of gas bubbles .
+CONCLUSIONS	Cavitation bubbles derived from the photodisruption process in femtosecond laser-assisted cataract surgery lead to an acidic shift of the aqueous humor pH as a result of the transformation of carbon dioxide to carbonic acid .
+CONCLUSIONS	The level of gas bubbles visible after the laser photodisruption does not seem to correlate with this pH shift .
+CONCLUSIONS	Further analysis of femtosecond laser-assisted cataract surgery is necessary .
+

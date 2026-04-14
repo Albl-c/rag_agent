@@ -1,0 +1,10 @@
+24534413
+OBJECTIVE	We conducted a randomized trial to test the hypothesis that mother 's voice played through a pacifier-activated music player ( PAM ) during nonnutritive sucking would improve the development of sucking ability and promote more effective oral feeding in preterm infants .
+METHODS	Preterm infants between 34 0/7 and 35 6/7 weeks ' postmenstrual age , including those with brain injury , who were taking at least half their feedings enterally and less than half orally , were randomly assigned to receive 5 daily 15-minute sessions of either PAM with mother 's recorded voice or no PAM , along with routine nonnutritive sucking and maternal care in both groups .
+METHODS	Assignment was masked to the clinical team .
+RESULTS	Ninety-four infants ( 46 and 48 in the PAM intervention and control groups , respectively ) completed the study .
+RESULTS	The intervention group had significantly increased oral feeding rate ( 2.0 vs. 0.9 mL/min , P < .001 ) , oral volume intake ( 91.1 vs. 48.1 mL/kg/d , P = .001 ) , oral feeds/day ( 6.5 vs. 4.0 , P < .001 ) , and faster time-to-full oral feedings ( 31 vs. 38 d , P = .04 ) compared with controls .
+RESULTS	Weight gain and cortisol levels during the 5-day protocol were not different between groups .
+RESULTS	Average hospital stays were 20 % shorter in the PAM group , but the difference was not significant ( P = .07 ) .
+CONCLUSIONS	A PAM using mother 's voice improves oral feeding skills in preterm infants without adverse effects on hormonal stress or growth .
+

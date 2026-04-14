@@ -1,0 +1,15 @@
+24950280
+OBJECTIVE	The primary objective was to compare overall survival ( OS ) in patients with colorectal cancer ( CRC ) with nonresectable liver-only metastases treated by liver transplantation or chemotherapy .
+BACKGROUND	CRC is the third most common cancer worldwide .
+BACKGROUND	About 50 % of patients will develop metastatic disease primarily to the liver and the lung .
+BACKGROUND	The majority of patients with liver metastases receive palliative chemotherapy , with a median OS of trial patients of about 2 years , and less than 10 % are alive at 5 years .
+METHODS	Patients with nonresectable liver-only CRC metastases underwent liver transplantation in the SECA study ( n = 21 ) .
+METHODS	Disease-free survival ( DFS ) and OS of patients included in the SECA study were compared with progression-free survival ( PFS ) and OS in a similar cohort of CRC patients with liver-only disease included in a first-line chemotherapy study , the NORDIC VII study ( n = 47 ) .
+METHODS	PFS/DFS and OS were estimated by the Kaplan-Meier method .
+RESULTS	DFS/PFS in both groups were 8 to 10 months .
+RESULTS	However , a dramatic difference in OS was observed .
+RESULTS	The 5-year OS rate was 56 % in patients undergoing liver transplantation compared with 9 % in patients starting first-line chemotherapy .
+RESULTS	The reason for the large difference in OS despite similar DFS/PFS is likely different metastatic patterns at relapse/progression .
+RESULTS	Relapse in the liver transplantation group was often detected as small , slowly growing lung metastases , whereas progression of nonresectable liver metastases was observed in the chemotherapy group .
+CONCLUSIONS	Compared with chemotherapy , liver transplantation resulted in a marked increased OS in CRC patients with nonresectable liver-only metastases .
+

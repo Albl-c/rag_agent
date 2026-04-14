@@ -1,0 +1,15 @@
+24832787
+BACKGROUND	Circulating tumor cells ( CTCs ) have been shown to predict reduced survival outcomes in metastatic breast cancer .
+METHODS	CTCs were analyzed in 2026 patients with early breast cancer before adjuvant chemotherapy and in 1492 patients after chemotherapy using the CellSearch System .
+METHODS	After immuno-magnetic enrichment for cells expressing the epithelial-cell adhesion molecule , CTCs were defined as nucleated cells expressing cytokeratin and lacking CD45 .
+METHODS	The patients were followed for a median of 35 months ( range = 0-54 ) .
+METHODS	Kaplan-Meier analyses and the log-rank test were used for survival analyses .
+METHODS	All statistical tests were two-sided .
+RESULTS	Before chemotherapy , CTCs were detected in 21.5 % of patients ( n = 435 of 2026 ) , with 19.6 % ( n = 136 of 692 ) of node-negative and 22.4 % ( n = 299 of 1334 ) of node-positive patients showing CTCs ( P < .001 ) .
+RESULTS	No association was found with tumor size , grading , or hormone receptor status .
+RESULTS	After chemotherapy , 22.1 % of patients ( n = 330 of 1493 ) were CTC positive .
+RESULTS	The presence of CTCs was associated with poor disease-free survival ( DFS ; P < .0001 ) , distant DFS ( P < .001 ) , breast cancer-specific survival ( P = .008 ) , and overall survival ( OS ; P = .0002 ) .
+RESULTS	CTCs were confirmed as independent prognostic markers in multivariable analysis for DFS ( hazard ratio [ HR ] = 2.11 ; 95 % confidence interval [ CI ] = 1.49 to 2.99 ; P < .0001 ) and OS ( HR = 2.18 ; 95 % CI = 1.32 to 3.59 ; P = .002 ) .
+RESULTS	The prognosis was worst in patients with at least five CTCs per 30 mL blood ( DFS : HR = 4.51 , 95 % CI = 2.59 to 7.86 ; OS : HR = 3.60 , 95 % CI = 1.56 to 8.45 ) .
+RESULTS	The presence of persisting CTCs after chemotherapy showed a negative influence on DFS ( HR = 1.12 ; 95 % CI = 1.02 to 1.25 ; P = .02 ) and on OS ( HR = 1.16 ; 95 % CI = 0.99 to 1.37 ; P = .06 ) CONCLUSIONS : These results suggest the independent prognostic relevance of CTCs both before and after adjuvant chemotherapy in a large prospective trial of patients with primary breast cancer .
+

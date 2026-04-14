@@ -1,0 +1,11 @@
+24247812
+BACKGROUND	Previous metoprolol studies in myocardial infarction patients were performed with immediate-release ( IR ) metoprolol .
+BACKGROUND	This study aims to evaluate if extended-release metoprolol CR/XL once daily gives a similar - blockade over 24 h compared to multiple dosing of metoprolol IR .
+METHODS	After 2 days of routine metoprolol treatment , 27 patients with suspected acute myocardial infarction were randomized to open-label treatment with metoprolol IR ( 50 mg four times daily or 100 mg twice daily ) or metoprolol CR/XL 200 mg once daily for 3 days .
+RESULTS	Metoprolol CR/XL 200 mg once daily gave more pronounced suppression of peak heart rate , with lower peak and less variation in peak to trough plasma levels .
+RESULTS	There were no differences in AUC between the CR/XL and IR formulations , although the trough plasma metoprolol levels were comparable for metoprolol CR/XL 200 mg once daily and metoprolol IR 50 mg four times daily , but lower for metoprolol IR 100 mg twice daily .
+RESULTS	Both treatments were well tolerated .
+CONCLUSIONS	Metoprolol CR/XL 200 mg once daily showed lower peak and less variation in peak to trough plasma levels compared to multiple dosing of metoprolol IR with the same AUC .
+CONCLUSIONS	This was accompanied by a more uniform - blockade over time , which was reflected by heart rate , and a more pronounced suppression of peak heart rate with similar tolerability .
+CONCLUSIONS	This suggests metoprolol CR/XL may be used as an alternative to metoprolol IR in patients with myocardial infarction .
+

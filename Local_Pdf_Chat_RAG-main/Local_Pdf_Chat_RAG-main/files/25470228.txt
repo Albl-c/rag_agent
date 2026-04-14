@@ -1,0 +1,16 @@
+25470228
+OBJECTIVE	Previous reports of the RAPID-axSpA trial ( NCT01087762 ) described the efficacy and safety of certolizumab pegol ( CZP ) over 24 weeks in patients with axial spondyloarthritis ( SpA ) , including ankylosing spondylitis ( AS ) and nonradiographic axial SpA .
+OBJECTIVE	We report efficacy and safety data up to week 96 of the study .
+METHODS	The RAPID-axSpA trial is double-blind and placebo-controlled to week 24 , dose-blind to week 48 , and open-label to week 204 .
+METHODS	Outcome variables included Assessment of SpondyloArthritis international Society criteria for 20 % and 40 % improvement in disease activity ( ASAS20/40 ) , ASAS partial remission responses ( analyzed by nonresponder imputation ) , AS Disease Activity Score ( ASDAS ) , ASDAS inactive disease , ASDAS major improvement , Bath AS Disease Activity Index ( BASDAI ) , Bath AS Functional Index ( BASFI ) , and Bath AS Metrology Index ( BASMI ) linear score ( analyzed by the last observation carried forward method ) .
+METHODS	Safety data were collected for patients treated with 1 dose of CZP .
+RESULTS	Of the 325 patients who were randomized , 218 received CZP from week 0 .
+RESULTS	Of these , 93 % completed week 24 , 88 % completed week 48 , and 80 % completed week 96 .
+RESULTS	Improvements in ASAS responses were maintained to week 96 ( for ASAS20 , 67.4 % , 72.0 % , and 62.8 % at weeks 24 , 48 , and 96 , respectively ) , as well as improvements in ASDAS , BASDAI ( mean score 3.3 , 3.1 , and 3.0 at weeks 24 , 48 , and 96 , respectively ) , BASFI , and BASMI linear score .
+RESULTS	Comparable improvements were observed with both dosing regimens ( 200 mg every 2 weeks or 400 mg every 4 weeks ) and in patients with AS and those with nonradiographic axial SpA .
+RESULTS	In the safety set , adverse events occurred in 279 patients ( 88.6 % ) and serious adverse events in 41 ( 13.0 % ) .
+RESULTS	No deaths or malignancies were reported .
+CONCLUSIONS	Clinical improvements to week 24 in both CZP dosing regimens were sustained to week 96 .
+CONCLUSIONS	Similar sustained improvements were observed in AS and nonradiographic axial SpA subpopulations .
+CONCLUSIONS	The safety profile was consistent with previous reports from RAPID-axSpA , with no new safety signals observed with longer exposure .
+

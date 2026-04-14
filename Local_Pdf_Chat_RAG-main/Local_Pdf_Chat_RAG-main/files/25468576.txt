@@ -1,0 +1,13 @@
+25468576
+OBJECTIVE	To investigate the onset and analgesic effect of adding dexmedetomidine to levobupivacaine for caudal block in young children .
+METHODS	Randomized , prospective , double-blind study .
+METHODS	Women and Children Medical Center and university hospital .
+METHODS	Two hundred twelve children , American Society of Anesthesiologists physical status I or II , aged between 1 and 3 years and weighing between 8 and 18 kg , who were scheduled for elective inguinal hernia repair or hydrocele .
+METHODS	Children were randomly allocated , using a computer-generated sequence of numbers , into 1 of 3 groups : caudal 0.25 % levobupivacaine ( Group L ( 0.25 ) ) , caudal 0.20 % levobupivacaine ( Group L ( 0.20 ) ) , or caudal 0.20 % levobupivacaine plus 2 g/kg dexmedetomidine ( Group LD ) .
+RESULTS	The primary end point of the study was the onset time of caudal levobupivacaine in children .
+RESULTS	The secondary end points of the study were the duration of analgesia and the degree of motor block in children .
+RESULTS	The 50 % and 95 % effective onset time ( 95 % confidence interval ) values of levobupivacaine were 8.19 minutes ( 7.30-9 .08 ) and 11.17 minutes ( 9.44-12 .91 ) in Group L ( 0.25 ) , 10.16 minutes ( 8.90-11 .41 ) and 15.85 minutes ( 13.14-18 .57 ) in Group L ( 0.20 ) , and 9.91 minutes ( 8.55-11 .28 ) and 16.39 minutes ( 13.32-19 .46 ) in Group LD , respectively .
+RESULTS	The mean durations of analgesia in these children were 7.23 , 5.84 , and 19.6 hours in Groups L ( 0.25 ) , L ( 0.20 ) , and LD , respectively .
+RESULTS	There were no significant differences in postoperative residual motor block among the 3 groups .
+CONCLUSIONS	Dexmedetomidine added to levobupivacaine does not have a significant effect on the onset time ; however , it prolongs the duration of analgesia during caudal block in children .
+

@@ -1,0 +1,19 @@
+24924991
+BACKGROUND	No randomised study has shown whether stratification of treatment by minimal residual disease ( MRD ) response improves outcome in children and young people with acute lymphoblastic leukaemia ( ALL ) .
+BACKGROUND	We assessed whether children and young people with clinical standard and intermediate-risk ALL who have persistent MRD at the end of induction therapy benefit from augmented post-remission therapy .
+METHODS	Between Oct 1 , 2003 , and June 30 , 2011 , we enrolled eligible patients aged 1-24 years and initially categorised them into clinical standard-risk , intermediate-risk , and high-risk groups on the basis of a combination of National Cancer Institute criteria , cytogenetics , and early morphological response to induction therapy .
+METHODS	Clinical standard-risk and intermediate-risk patients with MRD of 001 % or higher at day 29 of induction ( MRD high risk ) were randomly assigned ( 1:1 ) to standard therapy ( treatment regimens A and B ) or augmented post-remission therapy ( regimen C ) .
+METHODS	Compared with standard therapy , the augmented treatment regimen ( regimen C ) included an additional eight doses of pegylated asparaginase , 18 doses of vincristine , and escalated-dose intravenous methotrexate without folinic acid rescue during interim maintenance courses .
+METHODS	Computer randomisation was used for treatment allocation and was balanced for sex , age ( < 10 years vs 10 years ) , and white blood cell count at diagnosis ( < 5010 ( 9 ) / L vs 5010 ( 9 ) / L ) by minimisation .
+METHODS	Patients , clinicians , and data analysts were not masked to treatment allocation .
+METHODS	The primary outcomes were event-free survival and overall survival .
+METHODS	Analyses were by intention to treat .
+METHODS	This trial is registered with Current Controlled Trials , number ISRCTN07355119 .
+RESULTS	533 MRD high-risk patients were randomly assigned to receive standard ( n = 266 ) or augmented ( n = 267 ) post-remission therapy .
+RESULTS	After a median follow-up of 70 months ( IQR 52-91 ) , 5-year event-free survival was better in the augmented treatment group ( 896 % [ 95 % CI 859-933 ] ) than in the standard group ( 828 % [ 781-875 ] ; odds ratio [ OR ] 061 [ 95 % CI 039-098 ] , p = 004 ) .
+RESULTS	Overall survival at 5 years was numerically , but not significantly , higher in the augmented treatment group ( 929 % [ 95 % CI 898-960 ] ) than in the standard therapy group ( 889 % [ 850-928 ] ; OR 067 [ 95 % CI 038-117 ] , p = 016 ) .
+RESULTS	More adverse events occurred in the augmented treatment group than in the standard group ( asparaginase-related hypersensitivity in 18 [ 67 % ] in the augmented group vs two [ 08 % ] in the standard group and asparaginase-related pancreatitis in eight [ 30 % ] vs one [ 04 % ] ; intravenous methotrexate-related mucositis in 11 [ 41 % ] vs three [ 11 % ] and methotrexate-related stomatitis in 48 [ 180 % ] vs 12 [ 45 % ] ) .
+CONCLUSIONS	Our findings suggest that children and young people with acute lymphoblastic leukaemia and 001 % or more MRD at the end of remission induction therapy could benefit from augmented post-remission therapy .
+CONCLUSIONS	However , the asparaginase and intravenous methotrexate used in the augmented treatment regimen is associated with more adverse events than is the standard post-remission treatment regimen .
+BACKGROUND	Medical Research Council and Leukaemia and Lymphoma Research .
+

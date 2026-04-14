@@ -1,0 +1,17 @@
+26156921
+BACKGROUND	Endotracheal intubation is a method necessary for controlling and maintaining airway during general anesthesia .
+BACKGROUND	Cough and hoarseness are common complications after endotracheal intubation .
+BACKGROUND	Inflammation has an important role in postoperative cough and hoarseness outbreak .
+BACKGROUND	Also it has been stated that green tea has anti-inflammatory properties .
+BACKGROUND	Therefore , the current study has been conducted to investigate green tea gargling solution effect on cough and hoarseness after coronary artery bypass graft ( CABG ) surgery .
+METHODS	In this single-blind , randomized , & controlled clinical trial , we enrolled 121 patients undergoing CABG admitted to the ICU .
+METHODS	The intervention group participants were asked to gargle 30 cc of green tea solution .
+METHODS	The control group patients gargled 30 cc of distilled water .
+METHODS	An hour after extubation , the intervention group patients were asked to gargle 30 cc of green tea and the control group patients were required to gargle 30 cc of distilled water every 6 hour up to 24 hour ( each patient for 4 times ) .
+METHODS	Moreover , the cough and hoarseness questionnaire was also filled in 6 , 12 , and 24 hours after endotracheal extubation .
+RESULTS	The results showed no significant differences among the patients in both groups regarding age , gender , body mass index , smoking history , and anesthesia duration .
+RESULTS	There was a significant difference between the two groups in terms of cough 12 hours after removing the endotracheal tube .
+RESULTS	At other times , there was no significant difference between the two groups considering cough and hoarseness .
+CONCLUSIONS	The present study results showed that green tea gargling does not decrease hoarseness .
+CONCLUSIONS	Though , cough occurrence was less in the intervention group than the other group .
+

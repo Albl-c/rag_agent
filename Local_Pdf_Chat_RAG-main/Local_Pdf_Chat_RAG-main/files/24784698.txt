@@ -1,0 +1,15 @@
+24784698
+BACKGROUND	This double-blind , randomized controlled trial aimed to investigate inhaled budesonide and oral dexamethasone compared with placebo for their prophylactic efficacy against acute mountain sickness after acute high-altitude exposure .
+METHODS	There were 138 healthy young male lowland residents recruited and randomly assigned to receive inhaled budesonide ( 200 g , twice a day [ bid ] ) , oral dexamethasone ( 4 mg , bid ) , or placebo ( 46 in each group ) .
+METHODS	They traveled to 3900 m altitude from 400 m by car .
+METHODS	Medication started 1 day before high-altitude exposure and continued until the third day of exposure .
+METHODS	Primary outcome measure was the incidence of acute mountain sickness after exposure .
+RESULTS	One hundred twenty-four subjects completed the study ( 42 , 39 , and 43 in the budesonide , dexamethasone , and placebo groups , respectively ) .
+RESULTS	Demographic characteristics were comparable among the 3 groups .
+RESULTS	After high-altitude exposure , significantly fewer participants in the budesonide ( 23.81 % ) and dexamethasone ( 30.77 % ) groups developed acute mountain sickness compared with participants receiving placebo ( 60.46 % ) ( P = .0006 and P = .0071 , respectively ) .
+RESULTS	Both the budesonide and dexamethasone groups had lower heart rate and higher pulse oxygen saturation ( SpO2 ) than the placebo group at altitude .
+RESULTS	Only the budesonide group demonstrated less deterioration in forced vital capacity and sleep quality than the placebo group .
+RESULTS	Four subjects in the dexamethasone group reported adverse reactions .
+CONCLUSIONS	Both inhaled budesonide ( 200 g , bid ) and oral dexamethasone ( 4 mg , bid ) were effective for the prevention of acute mountain sickness , especially its severe form , compared with placebo .
+CONCLUSIONS	Budesonide caused fewer adverse reactions than dexamethasone .
+

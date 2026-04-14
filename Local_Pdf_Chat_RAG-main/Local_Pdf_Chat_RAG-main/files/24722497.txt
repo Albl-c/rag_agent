@@ -1,0 +1,9 @@
+24722497
+OBJECTIVE	To assess the long-term effects of dietary interventions on glycemic control , need for diabetes medications , and remission of type 2 diabetes .
+METHODS	Originally , in a two-arm trial design , overweight , middle-aged men and women with newly diagnosed type 2 diabetes were randomized to a low-carbohydrate Mediterranean diet ( LCMD ; n = 108 ) or a low-fat diet ( n = 107 ) .
+METHODS	After 4 years , participants who were still free of diabetes medications were further followed up until the primary end point ( need of a diabetic drug ) ; remission of diabetes ( partial or complete ) and changes in weight , glycemic control , and cardiovascular risk factors were also evaluated .
+RESULTS	The primary end point was reached in all participants after a total follow-up of 6.1 years in the low-fat group and 8.1 years in the LCMD group ; median survival time was 2.8 years ( 95 % CI 2.4-3 .2 ) and 4.8 years ( 4.3-5 .2 ) , respectively .
+RESULTS	The unadjusted hazard ratio for the overall follow-up was 0.68 ( 0.50-0 .89 ; P < 0.001 ) .
+RESULTS	LCMD participants were more likely to experience any remission ( partial or complete ) , with a prevalence of 14.7 % ( 13.0-16 .5 % ) during the first year and 5.0 % ( 4.4-5 .6 % ) during year 6 compared with 4.1 % ( 3.1-5 .0 % ) at year 1 and 0 % at year 6 in the low-fat diet group .
+CONCLUSIONS	In patients with newly diagnosed type 2 diabetes , an LCMD resulted in a greater reduction of HbA1c levels , higher rate of diabetes remission , and delayed need for diabetes medication compared with a low-fat diet .
+

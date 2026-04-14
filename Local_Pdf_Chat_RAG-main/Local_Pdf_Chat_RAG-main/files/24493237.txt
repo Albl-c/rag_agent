@@ -1,0 +1,10 @@
+24493237
+OBJECTIVE	This study investigates the efficacy of the 6-hour REACH Forgiveness intervention among culturally diverse undergraduates .
+METHODS	Female undergraduates ( N = 102 ) and foreign extraction ( 46.2 % ) and domestic ( 43.8 % ) students in the United States were randomly assigned to immediate treatment or waitlist conditions .
+METHODS	Treatment efficacy and the effect of culture on treatment response were assessed using measures of emotional and decisional forgiveness across 3 time periods .
+RESULTS	Students in the treatment condition reported greater improvement in emotional forgiveness , but not decisional forgiveness , relative to those in the waitlist condition .
+RESULTS	Gains were maintained at a 1-week follow-up .
+RESULTS	Although culture did not moderate the effect of treatment , a main effect of culture on emotional forgiveness and marginally significant interaction effect of culture on decisional forgiveness were found .
+CONCLUSIONS	The REACH Forgiveness intervention was efficacious for college students from different cultural backgrounds when conducted in the United States .
+CONCLUSIONS	However , some evidence may warrant development of culturally adapted forgiveness interventions .
+

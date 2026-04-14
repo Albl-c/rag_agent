@@ -1,0 +1,9 @@
+24763910
+BACKGROUND	Opioid antagonism reduces the consumption of palatable foods in humans but the neural substrates implicated in these effects are less well understood .
+OBJECTIVE	The aim of the present study was to examine the effects of the opioid antagonist , naltrexone , on neural response to rewarding and aversive sight and taste stimuli .
+METHODS	We used functional magnetic resonance imaging ( fMRI ) to examine the neural responses to the sight and taste of pleasant ( chocolate ) and aversive ( mouldy strawberry ) stimuli in 20 healthy volunteers who received a single oral dose of naltrexone ( 50mg ) and placebo in a double-blind , repeated-measures cross-over , design .
+RESULTS	Relative to placebo , naltrexone decreased reward activation to chocolate in the dorsal anterior cingulate cortex and caudate , and increased aversive-related activation to unpleasant strawberry in the amygdala and anterior insula .
+CONCLUSIONS	These findings suggest that modulation of key brain areas involved in reward processing , cognitive control and habit formation such as the dorsal anterior cingulate cortex ( dACC ) and caudate might underlie reduction in food intake with opioid antagonism .
+CONCLUSIONS	Furthermore we show for the first time that naltrexone can increase activations related to aversive food stimuli .
+CONCLUSIONS	These results support further investigation of opioid treatments in obesity .
+

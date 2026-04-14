@@ -1,0 +1,15 @@
+25145986
+BACKGROUND	The efficacy of single-allergen-specific immunotherapy in polysensitized subjects is a matter of debate .
+BACKGROUND	This study aimed to investigate the efficacy of house dust mite ( HDM ) sublingual immunotherapy ( SLIT ) in monosensitized and polysensitized children .
+METHODS	A total of 112 children , aged 4 to 13 years old , with HDM-induced respiratory allergic diseases were allocated to a monosensitized group ( n = 56 ) or a polysensitized group ( n = 56 ) .
+METHODS	Both groups were treated by standard pharmacotherapy and SLIT with Dermatophagoides farinae ( American HDM ) extracts for 52 weeks .
+METHODS	Symptoms , medications , visual analogue scale ( VAS ) , and presence of adverse events ( AEs ) were assessed once a month .
+METHODS	Skin-prick test ( SPT ) was done before and after treatment .
+METHODS	After treatment , subjects in the polysensitized group who completed the study were further analyzed as subgroup 1 ( n = 20 ) and subgroup 2 ( n = 15 ) according to the number of coexisting allergens .
+RESULTS	Forty-one subjects in the monosensitized group and 35 subjects in the polysensitized group completed the study .
+RESULTS	The global clinical parameters had significantly improved after treatment , with no significant difference between the monosensitized and polysensitized group throughout this period ( all p > 0.05 ) .
+RESULTS	The comparison among the monosensitized group , subgroup 1 , and subgroup 2 indicated that there was no significant difference in symptoms scores and VAS at each scheduled follow-up visit .
+RESULTS	There was also no significant difference in total medications score ( TMS ) in the monosensitized group , subgroup 1 , and subgroup 2 after week 24 ( all p > 0.05 ) .
+RESULTS	No severe systemic AEs were reported .
+CONCLUSIONS	No significant difference was observed in the clinical effects of HDM SLIT between polysensitized and monosensitized children with respiratory allergic diseases .
+

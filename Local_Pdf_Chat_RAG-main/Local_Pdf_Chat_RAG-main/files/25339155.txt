@@ -1,0 +1,13 @@
+25339155
+BACKGROUND	The serum collection under the abdominal flap is the most common complication after a lipo-abdominoplasty .
+BACKGROUND	The frequency of seroma increases further among obese patients , who have achieved massive weight loss after bariatric surgery .
+BACKGROUND	The purpose of this study is to demonstrate the effectiveness of fibrin glues with a low concentration of thrombin in reducing seroma formation after a lipo-abdominoplasty .
+METHODS	Thirty patients , that had achieved a significant weight loss after an intervention of laparoscopic adjustable gastric banding ( LAGB ) , underwent a circular lipo-abdominoplasty at our bariatric surgery department .
+METHODS	Patients were divided into two groups of 15 subjects each : group A underwent traditional surgery ; in group B , we applied a slow-clotting variant of fibrin glue ( ARTISS , Baxter ) under the abdominal flap .
+METHODS	All subjects were evaluated clinically using an ultrasound device on postoperative day 15 .
+METHODS	We considered positive for seroma , those cases with a liquid collection greater than 20 cc .
+RESULTS	The groups were homogeneous for age , BMI , male/female ratio , and diabetic or smoker patients .
+RESULTS	The mean hospital stay was significantly longer in group A than in group B.
+RESULTS	We found eight cases of serum collection > 20 cc in group A and only one case in group B. Hematoma , umbilicus necrosis , and surgical site infection occurred in both groups , but overall complication rate was lower in group B.
+CONCLUSIONS	The use of a fibrin glue with a low concentration of thrombin could be useful during wound closure and may decrease seroma formation in postbariatric patients undergoing lipo-abdominoplasty .
+

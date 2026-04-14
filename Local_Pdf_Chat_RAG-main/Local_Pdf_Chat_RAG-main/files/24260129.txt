@@ -1,0 +1,13 @@
+24260129
+OBJECTIVE	The present study aimed to investigate the prevalence and correlates of dental caries in elderly population in northeast China .
+METHODS	A community-based , cross-sectional study among 2376 elderly subjects ( age : 65-74 years ) from nine urban areas and nine rural areas in three provinces of northeast China was conducted using multistage stratified random sampling per the World Health Organization oral health survey methodology .
+METHODS	Decayed-missing-filled teeth ( DMFT ) and decayed-filled teeth ( DFT ) indices were used to evaluate the prevalence of dental caries .
+METHODS	Face-to-face questionnaire survey on oral health was performed in a randomly selected subset ( n = 1197 ) .
+METHODS	T test and chi square test were employed to compare groups for continuous and categorical variables , respectively .
+METHODS	Multivariate logistic regression was used to estimate odds ratios ( ORs ) and corresponding confidence intervals ( CIs ) .
+RESULTS	67.5 % of elderly subjects reported dental caries ( average DFT = 2.683.40 ) , and the prevalence was higher in urban areas ( P < 0.01 ) .
+RESULTS	Missing teeth accounted for 80.72 % of DMFT , and filled teeth due to caries accounted for 2.08 % with a rate higher in urban areas ( P < 0.01 ) .
+RESULTS	Logistic regression analysis indicated significant association among elderly population in urban areas ( OR 1.713 ; 95 % CI 1.337-2 .195 ) , smoking ( OR 1.779 ; 95 % CI 1.384-2 .288 ) , and individuals without dental insurance ( OR 2.050 ; 95 % CI 1.120-3 .754 ) with dental caries .
+CONCLUSIONS	The prevalence of dental caries in the elderly population in northeast China is high .
+CONCLUSIONS	The elderly from urban areas who smoke and who do not have a dental insurance are at a higher risk to develop dental caries .
+

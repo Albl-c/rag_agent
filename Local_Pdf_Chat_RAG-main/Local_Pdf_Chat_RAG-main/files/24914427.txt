@@ -1,0 +1,11 @@
+24914427
+OBJECTIVE	To assess the impact of empowerment ( health coaching , HC ) on toothbrushing self-efficacy ( TBSE ) and toothbrushing frequency ( TB ) and their effects on diabetes management ( HbA1c , physical activity ) and quality of life in comparison to health education ( HE ) among patients with diabetes type 2 ( DM2 ) .
+METHODS	The data ( HbA1c [ glycated haemoglobin ] , TB , physical activity , TBSE , quality of life ) were collected at baseline and at post-intervention at outpatient clinics of two hospitals in Istanbul , Turkey .
+METHODS	Participants were allocated randomly to HC ( n = 77 ) and HE ( n = 109 ) groups .
+RESULTS	At baseline , there were no statistical differences between HC and HE groups in terms of all measures ( P > 0.05 ) .
+RESULTS	At post-intervention , there was improvement in oral health - and diabetes-related variables in the HC group , whereas only TBSE and TB slightly improved in the HE group ( P < 0.05 ) .
+RESULTS	At post-intervention among patients brushing their teeth at least once a day , HC group patients were more likely to be physically active and to have high self-efficacy than those in HE group ( P < 0.01 ) .
+RESULTS	TBSE was correlated with favourable HbA1c levels ( < 6.5 % ) in the HC group and quality of life ( P < 0.05 ) in both groups .
+CONCLUSIONS	The findings show that HC-based empowerment towards improving self-efficacy is more effective at improving toothbrushing behaviour than is HE and that interaction contributes significantly to diabetes management in terms of reduced HbA1c , increased physical activity and quality of life .
+CONCLUSIONS	TBSE can be a practical starting point for empowerment and toothbrushing can be used as an effective and practical behaviour to observe personal success in diabetes management .
+

@@ -1,0 +1,13 @@
+26095867
+BACKGROUND	It is uncertain whether bridging anticoagulation is necessary for patients with atrial fibrillation who need an interruption in warfarin treatment for an elective operation or other elective invasive procedure .
+BACKGROUND	We hypothesized that forgoing bridging anticoagulation would be noninferior to bridging with low-molecular-weight heparin for the prevention of perioperative arterial thromboembolism and would be superior to bridging with respect to major bleeding .
+METHODS	We performed a randomized , double-blind , placebo-controlled trial in which , after perioperative interruption of warfarin therapy , patients were randomly assigned to receive bridging anticoagulation therapy with low-molecular-weight heparin ( 100 IU of dalteparin per kilogram of body weight ) or matching placebo administered subcutaneously twice daily , from 3 days before the procedure until 24 hours before the procedure and then for 5 to 10 days after the procedure .
+METHODS	Warfarin treatment was stopped 5 days before the procedure and was resumed within 24 hours after the procedure .
+METHODS	Follow-up of patients continued for 30 days after the procedure .
+METHODS	The primary outcomes were arterial thromboembolism ( stroke , systemic embolism , or transient ischemic attack ) and major bleeding .
+RESULTS	In total , 1884 patients were enrolled , with 950 assigned to receive no bridging therapy and 934 assigned to receive bridging therapy .
+RESULTS	The incidence of arterial thromboembolism was 0.4 % in the no-bridging group and 0.3 % in the bridging group ( risk difference , 0.1 percentage points ; 95 % confidence interval [ CI ] , -0.6 to 0.8 ; P = 0.01 for noninferiority ) .
+RESULTS	The incidence of major bleeding was 1.3 % in the no-bridging group and 3.2 % in the bridging group ( relative risk , 0.41 ; 95 % CI , 0.20 to 0.78 ; P = 0.005 for superiority ) .
+CONCLUSIONS	In patients with atrial fibrillation who had warfarin treatment interrupted for an elective operation or other elective invasive procedure , forgoing bridging anticoagulation was noninferior to perioperative bridging with low-molecular-weight heparin for the prevention of arterial thromboembolism and decreased the risk of major bleeding .
+CONCLUSIONS	( Funded by the National Heart , Lung , and Blood Institute of the National Institutes of Health ; BRIDGE ClinicalTrials.gov number , NCT00786474 . )
+

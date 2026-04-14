@@ -1,0 +1,16 @@
+25329653
+BACKGROUND	Within the field of oncology , increasing access to high quality care has been identified as a priority to reduce cancer disparities .
+BACKGROUND	Previous research reveals that the facilities where patients receive their cancer care have implications for cancer outcomes .
+BACKGROUND	However , there is little understanding of how patients decide where to seek cancer care .
+BACKGROUND	This study examined the factors that shape patients ' pathways to seek their cancer care at a National Cancer Institute-designated comprehensive cancer center ( NCI-CCC ) , and differences in these factors by race , income and education .
+METHODS	In-depth interviews and survey questionnaires were administered to a random sample of 124 patients at one NCI-CCC in the Northeast US .
+METHODS	In-depth interview data was first analyzed qualitatively to identify themes and patterns in patients ' pathways to receive their cancer care at an NCI-CCC .
+METHODS	Logistic Regression was used to examine if these pathways varied by patient race , income , and education .
+RESULTS	Two themes emerged : following the recommendation of a physician and following advice from social network members .
+RESULTS	Quantitative data analysis shows that patient pathways to care at an NCI-CCC varied by education and income .
+RESULTS	Patients with lower income and education most commonly sought their cancer care at an NCI-CCC due to the recommendation of a physician .
+RESULTS	Patients with higher income and education most commonly cited referral by a specialist physician or the advice of a social network member .
+RESULTS	There were no statistically significant differences in pathways to care by race .
+CONCLUSIONS	Our findings show that most patients relied on physician recommendations or advice from a social network member in deciding to seek their cancer care at an NCI-CCC .
+CONCLUSIONS	Due to the role of physicians in shaping patients ' pathways to the NCI-CCC , initiatives that strengthen partnerships between NCI-CCCs and community physicians who serve underserved communities may improve access to NCI-CCCs .
+

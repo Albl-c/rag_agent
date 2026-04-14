@@ -1,0 +1,15 @@
+25375075
+BACKGROUND	Statin use is frequently associated with muscle-related symptoms .
+BACKGROUND	Coenzyme Q10 supplementation has yielded conflicting results in decreasing statin myopathy .
+BACKGROUND	Herein , we tested whether coenzyme Q10 supplementation could decrease statin-associated muscular pain in a specific group of patients with mild-to-moderate muscle symptoms .
+METHODS	Fifty patients treated with statins and reporting muscle pain were recruited .
+METHODS	The Q10 group ( n = 25 ) received coenzyme Q10 supplementation over a period of 30 days ( 50 mg twice daily ) , and the control group ( n = 25 ) received placebo .
+METHODS	The Brief Pain Inventory ( BPI ) questionnaire was used and blood testing was performed at inclusion in the study and after 30 days of supplementation .
+RESULTS	The intensity of muscle pain , measured as the Pain Severity Score ( PSS ) , in the Q10 group was reduced from 3.90.4 to 2.90.4 ( P < 0.001 ) .
+RESULTS	The Pain Interference Score ( PIS ) after Q10 supplementation was reduced from 4.00.4 to 2.60.4 ( P < 0.001 ) .
+RESULTS	In the placebo group , PSS and PIS did not change .
+RESULTS	Coenzyme Q10 supplementation decreased statin-related muscle symptoms in 75 % of patients .
+RESULTS	The relative values of PSS and PIS significantly decreased ( -33.1 % and -40.3 % , respectively ) in the Q10 group compared to placebo group ( both P < 0.05 ) .
+RESULTS	From baseline , no differences in liver and muscle enzymes or cholesterol values were found .
+CONCLUSIONS	The present results show that coenzyme Q10 supplementation ( 50 mg twice daily ) effectively reduced statin-related mild-to-moderate muscular symptoms , causing lower interference of statin-related muscular symptoms with daily activities .
+

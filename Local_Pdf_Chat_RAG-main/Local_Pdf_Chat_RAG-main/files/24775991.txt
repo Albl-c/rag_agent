@@ -1,0 +1,15 @@
+24775991
+BACKGROUND	There is a need to identify novel pharmacologic targets to treat alcoholism .
+BACKGROUND	Animal and human studies suggest a role for ghrelin in the neurobiology of alcohol dependence and craving .
+BACKGROUND	Here , we were the first to test the hypothesis that intravenous administration of exogenous ghrelin acutely increases alcohol craving .
+METHODS	This was a double-blind , placebo-controlled human laboratory proof-of-concept study .
+METHODS	Nontreatment-seeking , alcohol-dependent , heavy-drinking individuals were randomized to receive intravenous ghrelin 1 mcg/kg , 3 mcg/kg or 0 mcg/kg ( placebo ) , followed by a cue-reactivity procedure , during which participants were exposed to neutral ( juice ) and alcohol cues .
+METHODS	The primary outcome variable was the increase in alcohol craving ( also called urge ) for alcohol , assessed by the Alcohol Visual Analogue Scale .
+RESULTS	Out of 103 screenings , 45 individuals received the study drug .
+RESULTS	Repeated measures of analysis of covariance revealed a group effect across ghrelin doses in increasing alcohol craving ( p < .05 ) .
+RESULTS	A dose-specific examination revealed a significant effect of ghrelin 3 mcg/kg versus placebo in increasing alcohol craving ( p < .05 ) with a large effect size ( d = .94 ) .
+RESULTS	By contrast , no significant ghrelin effect was found in increasing either urge to drink juice or food craving ( p = ns ) .
+RESULTS	No significant differences in side effects were found ( p = ns ) .
+CONCLUSIONS	Intravenous administration of exogenous ghrelin increased alcohol craving in alcohol-dependent heavy-drinking individuals .
+CONCLUSIONS	Although the small sample requires confirmatory studies , these findings provide preliminary evidence that ghrelin may play a role in the neurobiology of alcohol craving , thus demonstrating a novel pharmacologic target for treatment .
+

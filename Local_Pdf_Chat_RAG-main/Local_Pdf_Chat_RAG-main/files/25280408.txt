@@ -1,0 +1,16 @@
+25280408
+OBJECTIVE	The aim of this study was to evaluate the effect of carbohydrate or glutamine supplementation , or a combination of the two , on the immune system and inflammatory parameters after exercise in simulated hypoxic conditions at 4500 m.
+METHODS	Nine men underwent three sessions of exercise at 70 % VO2peak until exhaustion as follows : 1 ) hypoxia with a placebo ; 2 ) hypoxia with 8 % maltodextrin ( 200 mL/20 min ) during exercise and for 2 h after ; and 3 ) hypoxia after 6 d of glutamine supplementation ( 20 g/d ) and supplementation with 8 % maltodextrin ( 200 mL/20 min ) during exercise and for 2 h after .
+METHODS	All procedures were randomized and double blind .
+METHODS	Blood was collected at rest , immediately before exercise , after the completion of exercise , and 2 h after recovery .
+METHODS	Glutamine , cortisol , cytokines , glucose , heat shock protein-70 , and erythropoietin were measured in serum , and the cytokine production from lymphocytes was measured .
+RESULTS	Erythropoietin and interleukin ( IL ) -6 increased after exercise in the hypoxia group compared with baseline .
+RESULTS	IL-6 was higher in the hypoxia group than pre-exercise after exercise and after 2 h recovery .
+RESULTS	Cortisol did not change , whereas glucose was elevated post-exercise in the three groups compared with baseline and pre-exercise .
+RESULTS	Glutamine increased in the hypoxia + carbohydrate + glutamine group after exercise compared with baseline .
+RESULTS	Heat shock protein-70 increased post-exercise compared with baseline and pre-exercise and after recovery compared with pre-exercise , in the hypoxia + carbohydrate group .
+RESULTS	No difference was observed in IL-2 and IL-6 production from lymphocytes .
+RESULTS	IL-4 was reduced in the supplemented groups .
+CONCLUSIONS	Carbohydrate or glutamine supplementation shifts the T helper ( Th ) 1/Th2 balance toward Th1 responses after exercise at a simulated altitude of 4500 m.
+CONCLUSIONS	The nutritional strategies increased in IL-6 , suggesting an important anti-inflammatory effect .
+

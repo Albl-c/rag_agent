@@ -1,0 +1,10 @@
+24693681
+BACKGROUND	Previous studies have demonstrated that oxidative stress by mediating the excessive production of reactive oxygen species is involved in tissue damage and organ failure during and after surgery .
+BACKGROUND	The impact of the preoperative immunonutrition including antioxidants on the postoperative course of patients undergoing hepatic surgery was investigated in this pilot study .
+METHODS	Twenty-three living donor liver transplantation ( LDLT ) donors were randomly assigned to either an experimental ( AO ) group , received a commercial supplement enriched with antioxidant nutrients for each of the 5 days immediately prior to surgery while maintaining normal food intake , or a control ( CT ) group , administered no supplement .
+METHODS	Antioxidative capacity was measured by spectrophotometry of patient serum using a free-radical analytical system .
+RESULTS	The antioxidative capacity of 90.9 % patients in the AO group increased after immunonutrition .
+RESULTS	Compared to the CT group , the AO group was found to have higher antioxidant capacity and transferrin levels ; lower WBC , lymphocyte , and neutrophil counts ; and briefer duration of postoperative fever during the postsurgical period .
+RESULTS	No significant differences were found between the 2 groups regarding the nutritional parameters ; liver functioning parameters ; immunological parameters ; intraoperative factors ; postoperative outcomes .
+CONCLUSIONS	Preoperative immunonutrition including antioxidants might play a beneficial role in improving postsurgical immunological response but the modest biological advantage was not associated with any significant clinical outcome .
+

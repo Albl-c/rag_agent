@@ -1,0 +1,15 @@
+25195059
+OBJECTIVE	To expose residents to two methods of education for point-of-care ultrasound , a traditional didactic lecture and a model/simulation-based lecture , which focus on concepts of cardiopulmonary function , volume status , and evaluation of severe thoracic/abdominal injuries ; and to assess which method is more effective .
+METHODS	Single-center , prospective , blinded trial .
+METHODS	University hospital .
+METHODS	Anesthesiology residents who were assigned to an educational day during the two-month research study period .
+METHODS	Residents were allocated to two groups to receive either a 90-minute , one-on-one didactic lecture or a 90-minute lecture in a simulation center , during which they practiced on a human model and simulation mannequin ( normal pathology ) .
+METHODS	Data points included a pre-lecture multiple-choice test , post-lecture multiple-choice test , and post-lecture , human model-based examination .
+METHODS	Post-lecture tests were performed within three weeks of the lecture .
+METHODS	An experienced sonographer who was blinded to the education modality graded the model-based skill assessment examinations .
+METHODS	Participants completed a follow-up survey to assess the perceptions of the quality of their instruction between the two groups .
+RESULTS	20 residents completed the study .
+RESULTS	No differences were noted between the two groups in pre-lecture test scores ( P = 0.97 ) , but significantly higher scores for the model/simulation group occurred on both the post-lecture multiple choice ( P = 0.038 ) and post-lecture model ( P = 0.041 ) examinations .
+RESULTS	Follow-up resident surveys showed significantly higher scores in the model/simulation group regarding overall interest in perioperative ultrasound ( P = 0.047 ) as well understanding of the physiologic concepts ( P = 0.021 ) .
+CONCLUSIONS	A model/simulation-based based lecture series may be more effective in teaching the skills needed to perform a point-of-care ultrasound examination to anesthesiology residents .
+

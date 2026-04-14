@@ -1,0 +1,18 @@
+25091790
+BACKGROUND	In patients with severe sepsis , no randomized clinical trial has tested the concept of de-escalation of empirical antimicrobial therapy .
+BACKGROUND	This study aimed to compare the de-escalation strategy with the continuation of an appropriate empirical treatment in those patients .
+METHODS	This was a multicenter non-blinded randomized noninferiority trial of patients with severe sepsis who were randomly assigned to de-escalation or continuation of empirical antimicrobial treatment .
+METHODS	Recruitment began in February 2012 and ended in April 2013 in nine intensive care units ( ICUs ) in France .
+METHODS	Patients with severe sepsis were assigned to de-escalation ( n = 59 ) or continuation of empirical antimicrobial treatment ( n = 57 ) .
+METHODS	The primary outcome was to measure the duration of ICU stay .
+METHODS	We defined a noninferiority margin of 2 days .
+METHODS	If the lower boundary of the 95 % confidence interval ( CI ) for the difference in patients assigned to the de-escalation group was less than 2 days , as compared with that of patients assigned to the continuation group , de-escalation was considered to be noninferior to the continuation strategy .
+METHODS	Secondary outcomes included mortality at 90 days , occurrence of organ failure , number of superinfections , and number of days with antibiotics during the ICU stay .
+RESULTS	The median duration of ICU stay was 9 [ interquartile range ( IQR ) 5-22 ] days in the de-escalation group and 8 [ IQR 4-15 ] days in the continuation group , respectively ( P = 0.71 ) .
+RESULTS	The mean difference was 3.4 ( 95 % CI -1.7 to 8.5 ) .
+RESULTS	A superinfection occurred in 16 ( 27 % ) patients in the de-escalation group and six ( 11 % ) patients in the continuation group ( P = 0.03 ) .
+RESULTS	The numbers of antibiotic days were 9 [ 7-15 ] and 7.5 [ 6-13 ] in the de-escalation group and continuation group , respectively ( P = 0.03 ) .
+RESULTS	Mortality was similar in both groups .
+CONCLUSIONS	As compared to the continuation of the empirical antimicrobial treatment , a strategy based on de-escalation of antibiotics resulted in prolonged duration of ICU stay .
+CONCLUSIONS	However , it did not affect the mortality rate .
+

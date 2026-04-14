@@ -1,0 +1,10 @@
+24261345
+BACKGROUND	This study was done to investigate how nicardipine , remifentanil and dexmedetomidine affect the balance of the autonomic nervous system in patients receiving controlled hypotension under general anaesthesia by evaluating heart rate variability indices .
+METHODS	Sixty-two patients were randomly allocated to either the nicardipine-sevoflurane ( Group N , n = 21 ) , remifentanil-sevoflurane ( Group R , n = 21 ) or dexmedetomidine-sevoflurane ( Group D , n = 20 ) group for controlled hypotension during orthognathic surgery .
+METHODS	Electrocardiogram data acquisition was done after vital sign stabilization following anaesthesia induction ( T1 ) and 30min after controlled hypotension was induced ( T2 ) .
+RESULTS	Total power and low frequency ( LF ) power was significantly decreased at T2 compared with T1 in all groups , while a decrease in high frequency ( HF ) power was only observed in Group N ( P < 0.001 ) .
+RESULTS	LF/HF ratios of Group R and D were significantly suppressed at T2 compared with T1 ( P = 0.001 and P < 0.001 , respectively ) , but was increased Group N ( P = 0.009 ) .
+RESULTS	The LF/HF ratio of Group N was significantly higher than Group R and D at T2 ( P < 0.001 in both ) , with Group D showing a significantly lower LF/HF ratio compared with Group R ( P < 0.001 ) .
+CONCLUSIONS	Remifentanil and dexmedetomidine did not have sympathetic nervous system-stimulating effects during controlled hypotension , while remifentanil seemed to be superior in preserving the overall balance in autonomic nervous system activity .
+CONCLUSIONS	Nicardipine was found to stimulate the sympathetic nervous system , which may be problematic in patients vulnerable to disturbances in the autonomic nervous system .
+

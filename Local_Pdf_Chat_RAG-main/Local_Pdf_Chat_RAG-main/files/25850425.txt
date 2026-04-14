@@ -1,0 +1,15 @@
+25850425
+BACKGROUND	The aim of this study is to examine the relationship between time in the therapeutic range ( TTR ) and clinical outcomes in heart failure patients in sinus rhythm treated with warfarin .
+RESULTS	We used data from the Warfarin versus Aspirin in Reduced Cardiac Ejection Fraction ( WARCEF ) trial to assess the relationship of TTR with the WARCEF primary outcome ( ischemic stroke , intracerebral hemorrhage , or death ) , with death alone , ischemic stroke alone , major hemorrhage alone , and net clinical benefit ( primary outcome and major hemorrhage combined ) .
+RESULTS	Multivariable Cox models were used to examine how the event risk changed with TTR and to compare the high TTR , low TTR , and aspirin-treated patients , with TTR being treated as a time-dependent covariate .
+RESULTS	A total of 2217 patients were included in the analyses ; among whom 1067 were randomized to warfarin and 1150 were randomized to aspirin .
+RESULTS	The median ( interquartile range ) follow-up duration was 3.6 ( 2.0-5 .0 ) years .
+RESULTS	Mean ( SD ) age was 6111.3 years , with 80 % being men .
+RESULTS	The mean ( SD ) TTR was 57 % ( 28.5 % ) .
+RESULTS	Increasing TTR was significantly associated with reduction in primary outcome ( adjusted P < 0.001 ) , death alone ( adjusted P = 0.001 ) , and improved net clinical benefit ( adjusted P < 0.001 ) .
+RESULTS	A similar trend was observed for the other 2 outcomes , but significance was not reached ( adjusted P = 0.082 for ischemic stroke and adjusted P = 0.109 for major hemorrhage ) .
+CONCLUSIONS	In patients with heart failure in sinus rhythm , increasing TTR is associated with better outcome and improved net clinical benefit .
+CONCLUSIONS	Patients in whom good quality anticoagulation can be achieved may benefit from the use of anticoagulants .
+BACKGROUND	URL : http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00041938 .
+

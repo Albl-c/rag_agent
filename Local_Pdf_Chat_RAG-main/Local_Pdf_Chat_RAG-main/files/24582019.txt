@@ -1,0 +1,15 @@
+24582019
+BACKGROUND	Enamel demineralization and gingival inflammation are the most prevalent consequences of biofilm formation in orthodontics .
+BACKGROUND	Our hypothesis was that educating patients about the severe consequences of biofilm accumulation could enhance their oral hygiene while wearing fixed appliances .
+METHODS	This study was designed as a randomized controlled 4-arm parallel trial .
+METHODS	A total of 148 participants in Chengdu , China , matching the eligibility criteria of 11 to 25 years of age , at least 20 natural teeth , and a treatment plan that included conventional stainless steel brackets , were randomly assigned to 4 intervention groups based on computer-generated random sequencing using simple randomization without blocking .
+METHODS	In group A ( n = 37 ) , the subjects were shown images illustrating the severe consequences of biofilm formation , including enamel demineralization and gingival inflammation ; subjects in group B ( n = 40 ) were given biofilm disclosing tablets ; those in group C ( n = 38 ) received a combination of A and B ; the subjects in group D ( n = 33 ) served as the controls .
+METHODS	The investigators were blinded to the allocations , and the researcher managing the random sequence did not participate in allocation or measurement .
+METHODS	All groups received routine oral hygiene instructions .
+METHODS	Plaque index and gingival index scores were recorded at each appointment during a 6-month follow-up .
+RESULTS	Eighteen participants were lost during follow-up , resulting in a total of 130 participants after the trial ( group A , 35 ; group B , 32 ; group C , 34 ; group D , 29 ) .
+RESULTS	No adverse events were recorded .
+RESULTS	Groups A and C exhibited a significantly lower plaque index scores ( parameter-estimate [ 95 % confidence interval ] = -1.20 [ -1.76 to -0.63 ] for group A , and -1.12 [ -1.69 to -0.56 ] for group C ) and gingival index scores ( -0.13 [ -0.21 to -0.04 ] , and -0.19 [ -0.28 to -0.10 ] ) , respectively , compared with group D ( P < 0.001 for all ) , whereas no significant difference was found between groups B and D , or between groups A and C ( P > 0.05 ) .
+RESULTS	The adults had significantly lower plaque index ( 0.48 [ 0.13-0 .84 ] , P < 0.001 ) and gingival index ( 0.06 [ 0.01-0 .11 ] , P = 0.018 ) scores than did the teenagers , and the female subjects had significantly higher gingival index ( -0.06 [ -0.11 to -0.01 ] , P = 0.040 ) scores than did the male subjects .
+CONCLUSIONS	The use of images showing the severe consequences of biofilm accumulation enhanced the oral hygiene of patients treated with fixed appliances .
+

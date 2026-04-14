@@ -1,0 +1,15 @@
+25498773
+BACKGROUND	Malaria rapid diagnostic tests ( RDTs ) are a valid alternative to malaria testing with microscopy and are recommended for the testing of febrile patients before prescribing an antimalarial .
+BACKGROUND	There is a need for interventions to support the uptake of RDTs by health workers .
+OBJECTIVE	To evaluate the cost-effectiveness of introducing RDTs with basic or enhanced training in health facilities in which microscopy was available , compared with current practice .
+METHODS	A three-arm cluster randomized trial was conducted in 46 facilities in central and northwest Cameroon .
+METHODS	Basic training had a practical session on RDTs and lectures on malaria treatment guidelines .
+METHODS	Enhanced training included small-group activities designed to change health workers ' practice and reduce the consumption of antimalarials among test-negative patients .
+METHODS	The primary outcome was the proportion of febrile patients correctly treated : febrile patients should be tested for malaria , artemisinin combination therapy should be prescribed for confirmed cases , and no antimalarial should be prescribed for patients who are test-negative .
+METHODS	Individual patient data were obtained from facility records and an exit survey .
+METHODS	Costs were estimated from a societal perspective using project reports and patient exit data .
+METHODS	The analysis used bivariate multilevel modeling and adjusted for imbalance in baseline covariates .
+RESULTS	Incremental cost per febrile patient correctly treated was $ 8.40 for the basic arm and $ 3.71 for the enhanced arm .
+RESULTS	On scale-up , it was estimated that RDTs with enhanced training would save $ 0.75 per additional febrile patient correctly treated .
+CONCLUSIONS	Introducing RDTs with enhanced training was more cost-effective than RDTs with basic training when each was compared with current practice .
+

@@ -1,0 +1,17 @@
+25733627
+BACKGROUND	Excess sodium intake is associated with high blood pressure , a major risk factor for cardiovascular disease ( CVD ) .
+BACKGROUND	It is unknown whether decreasing sodium intake to < 2300 mg/d has an effect on CVD or all-cause mortality .
+OBJECTIVE	The objective was to assess whether reductions in sodium intake to < 2300 mg/d were associated with either an increased or a decreased risk of fatal and nonfatal CVD and all-cause mortality .
+METHODS	This observational prospective study of the PREvencin con DIeta MEDiterrnea ( PREDIMED ) trial included 3982 participants at high CVD risk .
+METHODS	Sodium intake was evaluated with a validated food-frequency questionnaire and categorized as low ( < 1500 mg/d ) , intermediate ( 1500 to 2300 mg/d ) , high ( > 2300 to 3400 mg/d ) , or very high ( > 3400 mg/d ) .
+METHODS	Subsequently , 1-y and 3-y changes in sodium intake were calculated .
+METHODS	Multivariate relative risks were assessed by using Cox proportional hazards ratios .
+METHODS	Marginal structural models with inverse probability weighting were used to test the effect of changes in sodium intake and the Mediterranean diet ( MedDiet ) .
+RESULTS	We documented 125 CVD events and 131 deaths after a 4.8-y median follow-up .
+RESULTS	Sodium intake < 2300 mg/d was associated with a lower risk of all-cause mortality : 48 % ( HR : 0.52 ; 95 % CI : 0.30 , 0.91 ; P = 0.02 ) and 49 % ( HR : 0.51 ; 95 % CI : 0.26 , 0.98 ; P = 0.04 ) after 1 and 3 y , respectively .
+RESULTS	Increasing sodium intake after 1 y was associated with a 72 % ( HR : 1.72 ; 95 % CI : 1.01 , 2.91 ; P = 0.04 ) higher risk of CVD events .
+RESULTS	The incidence rate of CVD was reduced for those who reduced their sodium intake and were randomly assigned to MedDiet interventions [ 4.1 / 10,000 ( 95 % CI : 3.1 , 8.0 ) compared with 4.4 / 10,000 ( 95 % CI : 2.7 , 12.4 ) person-years ; P = 0.002 ] .
+CONCLUSIONS	Decreasing sodium intake to < 2300 mg/d was associated with a reduced risk of all-cause mortality , whereas increasing the intake to > 2300 mg/d was associated with a higher risk of CVD .
+CONCLUSIONS	Our observational data suggest that sodium intake < 2300 mg/d was associated with an enhanced beneficial effect of the MedDiet on CVD .
+CONCLUSIONS	These results should be interpreted with caution , and other confirmatory studies are necessary .
+

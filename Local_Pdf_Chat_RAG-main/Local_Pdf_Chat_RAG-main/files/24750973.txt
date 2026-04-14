@@ -1,0 +1,12 @@
+24750973
+BACKGROUND	Although previous studies have found reminder/recall to be effective in increasing immunization rates , little guidance exists regarding the specific ages at which it is optimal to send reminder/recall notices .
+OBJECTIVE	To assess the relative effectiveness of centralized reminder/recall strategies targeting age-specific vaccination milestones among children in urban areas during June 2008-June 2009 .
+METHODS	Three reminder/recall strategies used capabilities of the Michigan Care Improvement Registry ( MCIR ) , a statewide immunization information system : a 7-month recall strategy , a 12-month reminder strategy , and a 19-month recall strategy .
+METHODS	Eligible children were randomized to notification ( intervention ) or no notification groups ( control ) .
+METHODS	Primary study outcomes included MCIR-recorded immunization activity ( administration of 1 new dose , entry of 1 historic dose , entry of immunization waiver ) within 60 days following each notification cycle .
+RESULTS	A total of 10,175 children were included : 2,072 for the 7-month recall , 3,502 for the 12-month reminder , and 4,601 for the 19-month recall .
+RESULTS	Immunization activity was similar between notification versus no notification groups at both 7 and 12 months .
+RESULTS	Significantly more 19-month-old children in the recall group ( 26 % ) had immunization activity compared to their counterparts who did not receive a recall notification ( 19 % ) .
+CONCLUSIONS	Although recall notifications can positively affect immunization activity , the effect may vary by targeted age group .
+CONCLUSIONS	Many 7 - and 12-month-olds had immunization activity following reminder/recall ; however , levels of activity were similar irrespective of notification , suggesting that these groups were likely to receive medical care or immunization services without prompting .
+

@@ -1,0 +1,12 @@
+25633911
+BACKGROUND	The purpose of this study was to evaluate the influence of an early cardiac rehabilitation ( CR ) program on health-related quality of life ( HRQL ) and functional capacity in patients who recently experienced an acute myocardial infarction ( AMI ) .
+BACKGROUND	This program was initiated in the inpatient setting and was followed by an unsupervised outpatient intervention .
+METHODS	After the same inpatient care plan , low-risk patients who experienced an AMI were randomized into 2 groups : ( 1 ) a control group ( CG ) ( n = 43 ) entailing usual care and ( 2 ) an intervention group ( IG ) ( n = 45 ) entailing outpatient ( unsupervised ) CR primarily centered on a progressive walking program .
+METHODS	Initially , all patients underwent a supervised exercise program with early mobilization beginning 12hours after an AMI .
+METHODS	On hospital discharge , all patients were classified according to cardiovascular risk .
+METHODS	Quality of life was evaluated by the MacNew Heart Disease HRQL questionnaire 30 days after discharge .
+METHODS	Functional capacity was determined by a 6-minute walk test ( 6MWT ) distance on the day of inpatient discharge as well as 30 days afterward .
+RESULTS	The HRQL global score was higher in the IG compared with the CG 30 days after discharge ( P < 0.001 ) ; physical and emotional domain scores were both significantly higher in the IG ( P < 0.001 ) .
+RESULTS	Furthermore , the IG showed a greater 6MWT distance compared with the CG ( P < 0.001 ) .
+CONCLUSIONS	A CR program based on early progressive exercises , initiated by supervised inpatient training and followed by an unsupervised outpatient program , improved HRQL and functional capacity in patients at low cardiovascular risk who recently experienced an AMI .
+

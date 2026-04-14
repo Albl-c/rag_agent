@@ -1,0 +1,12 @@
+24848178
+OBJECTIVE	The aim of this study was to evaluate patient satisfaction and cost in spinal and general anesthesia for lumbar disc surgery .
+METHODS	The study was performed on 66 ASA class I-II patients with one level lumbar disc herniation ( LDH ) .
+METHODS	In this prospective study , patients were assigned randomly to either spinal anesthesia or general anesthesia groups .
+METHODS	Hemodynamic variables , intraoperative opioid requirements , postoperative pain scores and analgesic requirements and complications were recorded .
+METHODS	Patients were handed a questionnaire about the procedure they underwent to determine patient satisfaction .
+METHODS	The costs of preoperative and postoperative anesthesia procedures , medications , and hospitalization were calculated individually .
+RESULTS	Spinal anesthesia and general anesthesia were similar concerning hemodynamic stability , first urination time , first mobilization time , postoperative analgesic requirement , and pain .
+RESULTS	Patients in group S needed less additional dose of fentanyl intraoperatively than the patients in group G. Patient satisfaction was significantly higher in Group S when compared to Group G. Total cost was higher in Group G compared to Group S.
+CONCLUSIONS	We conclude that successful LDH surgery can be performed using either anesthesia type .
+CONCLUSIONS	As long as patients are selected carefully , spinal anesthesia is a safe , comfortable , and a more economical alternative .
+

@@ -1,0 +1,16 @@
+25455834
+OBJECTIVE	The purpose of this study is to measure the prevalence of graded disc degeneration , spondylolisthesis , transitional segmentation , and the distribution of sacral slope in patients 21 to 65 years of age with chronic low back pain ( CLBP ) .
+METHODS	This retrospective study analyzed 247 digital lumbar radiographic series obtained during a randomized controlled trial of chiropractic patients with CLBP .
+METHODS	Chronic low back pain was defined as pain in the low back lasting 12 weeks or longer .
+METHODS	Radiographic findings of disc degeneration , spondylolisthesis , and lumbosacral transitional segmentation were graded by 2 authors using established classification criteria .
+METHODS	Sacral slope was measured with a digital tool contained within imaging software .
+RESULTS	Lumbosacral transitional segments graded I to IV ( Castellvi classification ) were present in 14 % of cases .
+RESULTS	Lumbar disc degeneration was most prevalent at L3-4 ( 49 % ) , followed by L4-5 ( 42 % ) , L2-3 ( 41 % ) , L5-S1 ( 37 % ) , and L1-2 ( 29 % ) .
+RESULTS	Isthmic spondylolisthesis was present in 5 % of cases , with L5 the most common location .
+RESULTS	Degenerative spondylolisthesis demonstrated a prevalence of 18 % , most commonly occurring at L4 .
+RESULTS	The prevalence of degenerative spondylolisthesis was 51 % for women aged 50 to 59 years and 24 % for men in the same age range .
+CONCLUSIONS	Moderate-severe disc degeneration , multilevel disc narrowing , and degenerative spondylolisthesis were common in individuals with CLBP with age more than 40 years .
+CONCLUSIONS	Isthmic spondylolisthesis was not more prevalent than what has been reported in other populations .
+CONCLUSIONS	Transitional segmentation was identified in a minority of participants , with some of these exhibiting accessory joints or fusion .
+CONCLUSIONS	Mean sacral slope in individuals with CLBP was not substantially different from mean slopes reported in other populations .
+

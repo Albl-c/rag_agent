@@ -1,0 +1,19 @@
+25077896
+BACKGROUND	Regular endotracheal tube cuff monitoring may prevent silent aspiration .
+OBJECTIVE	We hypothesised that active management of the cuff of the tracheal tube during deep hypothermic cardiac arrest would reduce silent subglottic aspiration .
+OBJECTIVE	We also determined to study its effect on postoperative mechanical ventilation and the incidence of postoperative positive tracheal cultures .
+METHODS	A randomised clinical trial .
+METHODS	The study was conducted in a University Teaching Hospital from September 2008 to November 2009 .
+METHODS	Twenty-four patients undergoing elective pulmonary endarterectomy were included in the study .
+METHODS	After induction of general anaesthesia and tracheal intubation , the cuff of the tracheal tube was inflated to 25cmH2O .
+METHODS	Following this , 1ml of methylene blue dye diluted in 2ml of physiological saline was injected into the hypopharynx .
+METHODS	Patients were randomly assigned to active cuff management during cooling and warming ( where cuff pressure was monitored and the cuff was reinflated if it dropped below 20cmH2O , or deflated if pressure exceeded 30cmH2O ) or passive monitoring ( where cuff pressure was monitored but volume was not altered ) .
+METHODS	Before weaning from cardiopulmonary bypass , fibreoptic bronchoscopy was performed .
+METHODS	Silent aspiration was then diagnosed if blue dye was seen in the trachea below the cuff of the tube .
+METHODS	The primary aim of this study was to determine the incidence of silent aspiration .
+METHODS	Secondary outcomes included duration of postoperative mechanical ventilation of the lungs and incidence of positive culture of tracheal aspirate .
+RESULTS	Active cuff management patients were younger than controls ( 51.211.6 vs. 63.29 years , P = 0.028 ) , but otherwise the two groups were similar .
+RESULTS	The primary endpoint was reached because we showed that silent aspiration was significantly less frequent in the study group ( 0/12 vs. 8/12 patients , P = 0.001 ) .
+RESULTS	Significantly lower intracuff pressures were measured in the control group patients at several timepoints during cooling , just before hypothermic arrest and at all timepoints during rewarming .
+CONCLUSIONS	We recommend that the cuff of the tracheal tube should be checked regularly during surgery under deep hypothermia , and the cuff pressure adjusted as required .
+

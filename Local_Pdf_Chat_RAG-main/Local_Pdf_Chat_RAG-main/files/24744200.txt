@@ -1,0 +1,15 @@
+24744200
+OBJECTIVE	This study introduces a method to calculate myocardium blood flow ( MBF ) and coronary flow reserve ( CFR ) using the relatively low-dose dynamic 320-row multi-detector computed tomography ( MDCT ) , validates the method against ( 15 ) O-HO positron-emission tomography ( PET ) and assesses the CFRs of coronary artery disease ( CAD ) patients .
+METHODS	Thirty-two subjects underwent both dynamic CT perfusion ( CTP ) and PET perfusion imaging at rest and during pharmacological stress .
+METHODS	In 12 normal subjects ( pilot group ) , the calculation method for MBF and CFR was established .
+METHODS	In the other 13 normal subjects ( validation group ) , MBF and CFR obtained by dynamic CTP and PET were compared .
+METHODS	Finally , the CFRs obtained by dynamic CTP and PET were compared between the validation group and CAD patients ( n = 7 ) .
+RESULTS	Correlation between MBF of MDCT and PET was strong ( r = 0.95 , P < 0.0001 ) .
+RESULTS	CFR showed good correlation between dynamic CTP and PET ( r = 0.67 , P = 0.0126 ) .
+RESULTS	CFRCT in the CAD group ( 2.30.8 ) was significantly lower than that in the validation group ( 5.21.8 ) ( P = 0.0011 ) .
+CONCLUSIONS	We established a method for measuring MBF and CFR with the relatively low-dose dynamic MDCT .
+CONCLUSIONS	Lower CFR was well demonstrated in CAD patients by dynamic CTP .
+CONCLUSIONS	MBF and CFR can be calculated using dynamic CTP with 320-row MDCT .
+CONCLUSIONS	MBF and CFR showed good correlation between dynamic CTP and PET .
+CONCLUSIONS	Lower CFR was well demonstrated in CAD patients by dynamic CTP .
+

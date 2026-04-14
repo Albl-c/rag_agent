@@ -1,0 +1,19 @@
+24355665
+BACKGROUND	Influenza vaccination coverage for U.S. school-aged children is below the 80 % national goal .
+BACKGROUND	Primary care practices may not have the capacity to vaccinate all children during influenza vaccination season .
+BACKGROUND	No real-world models of school-located seasonal influenza ( SLV-I ) programs have been tested .
+OBJECTIVE	Determine the feasibility , sustainability , and impact of an SLV-I program providing influenza vaccination to elementary school children during the school day .
+METHODS	In this pragmatic randomized controlled trial of SLV-I during two vaccination seasons , schools were randomly assigned to SLV-I versus standard of care .
+METHODS	Seasonal influenza vaccine receipt , as recorded in the state immunization information system ( IIS ) , was measured .
+METHODS	Intervention and control schools were located in a single western New York county .
+METHODS	Participation ( intervention or control ) included the sole urban school district and suburban districts ( five in Year 1 , four in Year 2 ) .
+METHODS	After gathering parental consent and insurance information , live attenuated and inactivated seasonal influenza vaccines were offered in elementary schools during the school day .
+METHODS	Data on receipt of 1 seasonal influenza vaccination in Year 1 ( 2009-2010 ) and Year 2 ( 2010-2011 ) were collected on all student grades K through 5 at intervention and control schools from the IIS in the Spring of 2010 and 2011 , respectively .
+METHODS	Additionally , coverage achieved through SLV-I was compared to coverage of children vaccinated elsewhere .
+METHODS	Preliminary data analysis for Year 1 occurred in Spring 2010 ; final quantitative analysis for both years was completed in late Fall 2012 .
+RESULTS	Results are shown for 2009-2010 and 2010-2011 , respectively : Children enrolled in suburban SLV-I versus control schools had vaccination coverage of 47 % vs 36 % , and 52 % vs 36 % ( p < 0.0001 both years ) .
+RESULTS	In urban areas , coverage was 36 % vs 26 % , and 31 % vs 25 % ( p < 0.001 both years ) .
+RESULTS	On multilevel logistic analysis with three nested levels ( student , school , school district ) during both vaccination seasons , children were more likely to be vaccinated in SLV-I versus control schools ; ORs were 1.6 ( 95 % CI = 1.4 , 1.9 ; p < 0.001 ) and 1.5 ( 95 % CI = 1.3 , 1.8 ; p < 0.001 ) .
+CONCLUSIONS	Delivering influenza vaccine during school is a promising approach to improving pediatric influenza vaccination coverage .
+BACKGROUND	ClinicalTrials.govNCT01224301 .
+

@@ -1,0 +1,15 @@
+24519752
+OBJECTIVE	The aim of this study was to characterize trastuzumab population pharmacokinetics ( PKs ) in patients with human epidermal growth factor receptor 2-positive advanced gastric or gastroesophageal junction cancer and the relationship of trastuzumab PK with patient response .
+METHODS	A nonlinear mixed effects PK model was built using data from the ToGA study .
+METHODS	Patients were randomized to intravenous trastuzumab plus chemotherapy or chemotherapy alone .
+METHODS	The influence of demographic , laboratory , and disease characteristics on PK parameters was assessed .
+METHODS	An exploratory exposure-response analysis compared various PK parameters at steady state with best overall tumor response and overall survival ( OS ) .
+RESULTS	Trastuzumab PK was best described by a two-compartment model with parallel linear and nonlinear ( Michaelis-Menten ) elimination from the central compartment .
+RESULTS	Total clearance ( and half-life ) of trastuzumab was concentration-dependent .
+RESULTS	Body weight , prior gastrectomy , and serum albumin had the greatest influence on trastuzumab PK ; increasing weight and decreasing albumin levels were associated with increased clearance , while prior gastrectomy correlated with decreased clearance .
+RESULTS	Median values for AUC , Cmax , and Cmin were lower in patients with progressive disease ( PD ) than other response categories , although the 1.5 interquartile ranges overlapped .
+RESULTS	Patients with the lowest Cmin had the highest PD rate and a shorter OS .
+CONCLUSIONS	In the advanced gastric cancer population , trastuzumab PK was best described by a two-compartment model with parallel linear and nonlinear elimination .
+CONCLUSIONS	Predicted PK exposure was lower than previously reported for breast cancer .
+CONCLUSIONS	Patients with the lowest Cmin had a shorter OS and the highest PD rate , but a distinct correlation was not observed for tumor response .
+

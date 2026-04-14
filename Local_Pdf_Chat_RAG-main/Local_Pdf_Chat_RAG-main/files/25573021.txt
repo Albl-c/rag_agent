@@ -1,0 +1,11 @@
+25573021
+BACKGROUND	Several endoscopic dilation techniques have been reported for treatment of anastomotic-stenosis of esophageal cancer , but the high incidence of dysphagia has remained unchanged .
+BACKGROUND	The aim of this study was to compare the effect of Argon Plasma Coagulation ( APC ) combined with Savary Bougienage ( SB ) compared to APC alone or SB alone for anastomotic-stenosis after radical operation for squamous cell carcinoma of the esophagus .
+METHODS	Patients with anastomotic-stenosis that was diagnosed for the first time following esophageal squamous cell carcinoma resection surgery were randomly assigned to undergo APC combined with SB , APC alone , or SB alone .
+METHODS	Primary endpoints were the dysphagia-free survival ( DFS defined as the time from first dilatation of effectively relieved dysphagia to dysphagia relapse expressed in days ) after 6 months of follow up .
+RESULTS	A total of 90 patients from the Cancer Institute , First Affiliated Hospital of Henan University of Science and Technology were entered into the study ( APC group , n = 30 , SB group , n = 30 , combination group [ APC combined with SB ] , n = 30 ) .
+RESULTS	Primary endpoints : 6 months after treatment , DFS of combination group ( 115.63 days ; 95 % CI , 105.31-125 .95 ) was significantly longer than the APC alone group ( 39.53 days ; 95 % CI , 35.95-43 .11 , p = 0.000 ) and the SB alone group ( 16.93 days ; 95 % CI , 15.01-18 .84 , p = 0.000 ) .
+RESULTS	No severe complications occurred within the three treatment groups .
+CONCLUSIONS	APC combined with SB was a safe and well-tolerated method for relieving dysphagia of esophageal squamous cell cancer patients with anastomotic-stenosis .
+CONCLUSIONS	( Registered with randomized controlled trials , ChiCRT , registration number ChiCTR-TRC-13003757 . )
+

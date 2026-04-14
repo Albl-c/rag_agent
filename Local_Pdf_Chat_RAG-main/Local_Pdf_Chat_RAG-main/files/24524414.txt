@@ -1,0 +1,11 @@
+24524414
+OBJECTIVE	This study compared the performance of two new bone-anchored hearing aids with older bone-anchored hearing aids that were not fully digital .
+METHODS	Fourteen experienced bone-anchored hearing aid users participated in this cross-over study .
+METHODS	Performance of their existing bone-anchored hearing aid was assessed using speech-in-noise testing and questionnaires .
+METHODS	Participants were then fitted with either a Ponto Pro or a BP100 device .
+METHODS	After four weeks of use with each new device , the same assessments were repeated .
+RESULTS	Speech-in-noise testing for the 50 per cent signal-to-noise ratio ( the ratio at which 50 per cent of responses were correct ) showed no significant differences between the Ponto Pro and the BP100 devices ( p = 0.1 ) However , both devices showed significant improvement compared with the participants ' previous bone-anchored hearing aid devices ( p < 0.001 ) .
+RESULTS	There were no significant differences between the two new devices in the questionnaire data .
+CONCLUSIONS	Both fully digital bone-anchored hearing aids demonstrated superior speech processing compared with the previous generation of devices .
+CONCLUSIONS	There were no substantial differences between the two digital devices in either objective or subjective tests .
+

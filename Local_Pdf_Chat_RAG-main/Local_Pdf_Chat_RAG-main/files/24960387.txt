@@ -1,0 +1,9 @@
+24960387
+OBJECTIVE	The purpose of this study was to verify the influence of prebrushing mouthwashes on dental plaque removal in children .
+METHODS	This study had a double-blind , randomized , controlled , crossover , 25-day experimental design , including 38 12 - to 14-year-olds .
+METHODS	Four solutions were used as prebrushing mouthwashes ( Colgate Plax Magic , Listerine Cool Blue Agent , water and dye , and water ) by each participant with seven days ' washout .
+METHODS	The plaque index was evaluated before and after tooth-brushing during the experimental period .
+RESULTS	Intergroup comparisons showed no significant differences in plaque reduction among evaluated solutions ( Friedman test , P > .78 ) .
+RESULTS	Significantly more plaque was present before vs. after tooth-brushing ( Wilcoxon rank test , P < .001 ) , independent of the surface ( buccal or lingual/palatal ) .
+CONCLUSIONS	Use of prebrushing mouthwashes by children does not influence plaque removal by tooth-brushing .
+

@@ -1,0 +1,11 @@
+24773119
+OBJECTIVE	To determine the effectiveness of an interactive educational intervention on a physiotherapy guideline for hip and knee osteoarthritis .
+METHODS	Physiotherapists were randomly allocated to a 3-h interactive educational course with the collaboration of three patient partners or no intervention .
+METHODS	Assessments comprised questionnaires on adherence ( score range 0-24 ) , knowledge ( score range 0-76 ) , and barriers to use the guideline ( score range 0-80 ) .
+METHODS	Assessments were conducted 1 week before the interactive course ( T0 ) immediately after ( T1 ) , and 3 months thereafter ( T2 ) .
+METHODS	Change scores were compared between the groups by means of Mann-Whitney U tests and linear mixed models .
+RESULTS	284 of 4328 eligible PTs ( 7 % ) were included .
+RESULTS	The intervention ( n = 133 ) was significantly more effective than no intervention ( n = 151 ) concerning self-reported adherence and knowledge with mean differences in change scores ( 95 % CI ) at T1 and T2 being 1.4 ( 0.7-2 .0 ) and 0.9 ( 0.2-1 .7 ) for adherence and 6.8 ( 4.5-9 .1 ) and 3.9 ( 1.7-6 .2 ) for knowledge , ( all p values < 0.005 ) .
+RESULTS	In both groups the barrier score increased at T1 and decreased at T2 , with a significantly larger increase at T1 and decrease at T2 in the intervention group ( mean differences 3.1 ( 1.8-4 .4 ) and 3.3 ( 0.5-6 .1 ) , respectively .
+CONCLUSIONS	A short interactive educational course with patient participation on a PT guideline on hip and knee osteoarthritis showed a small to moderate positive effect on self-reported guideline adherence and knowledge , whereas for perceived barriers an advantage was only seen on the longer term .
+

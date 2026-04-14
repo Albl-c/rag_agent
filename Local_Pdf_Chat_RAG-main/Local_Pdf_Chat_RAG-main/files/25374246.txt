@@ -1,0 +1,11 @@
+25374246
+BACKGROUND	Breast cancer ( BC ) is the most common cancer among females in Turkey .
+BACKGROUND	Predictors affecting the breast self-examination ( BSE ) performance vary in developing countries .
+OBJECTIVE	To determine the frequency of BSE performance and predictors of self-reported BSEs among women in the capital city of Turkey .
+METHODS	This cross-sectional study was conducted on 376 Turkish women using a self - administered questionnaire covering socio-demographic variables and BSE-related features .
+RESULTS	Of the participants , 78.7 % ( N = 296 ) reported practicing BSE , whereas 9.5 % ( N = 28 ) were implementing BSE regularly on a monthly basis , and only 5.7 % ( N = 17 ) were performing BSE regularly within a week after each menstrual cycle .
+RESULTS	Multivariate logistic regression modeling revealed that BSE performance was more likely in younger age groups [ 20-39 years ] ( p = 0.018 , OR = 3.215 ) and [ 40-49 years ] ( p = 0.009 , OR = 3.162 ) , women having a family history of breast disease ( p = 0.038 , OR = 2.028 ) , and housewives ( p = 0.013 , OR = 0.353 ) .
+CONCLUSIONS	Although it appears that the rates of BSE performers are high , the number of women conducting appropriate BSE on a regular time interval basis is lower than expected .
+CONCLUSIONS	Younger age groups , family history of breast diseases and not being employed were identified as significant predictors of practicing BSE appropriately .
+CONCLUSIONS	Older age and employment were risk factors for not performing BSE in this sample .
+

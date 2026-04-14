@@ -1,0 +1,15 @@
+24934646
+BACKGROUND	Currently , there is an increased prevalence of diabetes mellitus among the elderly .
+BACKGROUND	To minimize adverse effects on glycemic control , prevention and management of general and oral complications in diabetic patients is essential .
+BACKGROUND	The purpose of the present study is to assess the effectiveness of a Lifestyle Change plus Dental Care ( LCDC ) program to improve glycemic and periodontal status in the elderly with type 2 diabetes .
+METHODS	A quasi-experimental study was conducted in Health Centers 54 ( intervention ) and 59 ( control ) from October 2013 to January 2014.66 diabetic patients per health center were included .
+METHODS	At baseline , the intervention group attended a 20 minute lifestyle and oral health education program , individual lifestyle counseling using motivational interviewing ( MI ) , application of self regulation manual , and individual oral hygiene instruction .
+METHODS	The intervention group received booster education every visit by viewing a 15 minute educational video .
+METHODS	The control group received a routine program .
+METHODS	Participants were assessed at baseline and 3 month follow up for glycosylated hemoglobin ( HbA1c ) , fasting plasma glucose ( FPG ) , body mass index ( BMI ) , periodontal status , knowledge , attitude and practice of oral health and diabetes mellitus .
+METHODS	Data were analyzed by using descriptive statistic , Chi-square test , Fisher 's exact test , t-test , and multiple linear regression .
+RESULTS	After the 3 month follow up , a multiple linear regression analysis showed that the intervention group was significantly negatively correlated in both glycemic and periodontal status .
+RESULTS	Participants in the intervention group had significantly lower glycosylated hemoglobin ( HbA1c ) , fasting plasma glucose ( FPG ) , plaque index score , gingival index score , pocket depth , clinical attachment level ( CAL ) , and percentage of bleeding on probing ( BOP ) when compared to the control group .
+CONCLUSIONS	The combination of lifestyle change and dental care in one program improved both glycemic and periodontal status in the elderly with type 2 diabetes .
+BACKGROUND	ClinicalTrials.in.th : TCTR20140602001 .
+

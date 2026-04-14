@@ -1,0 +1,19 @@
+24607004
+BACKGROUND	Reintroduction of Variola major as an agent of bioterrorism remains a concern .
+BACKGROUND	Time to seroconversion and plaque reduction neutralizing antibody titers ( PRNT ) of 1 or 2 standard doses ( SD ) were compared to a single high dose ( HD ) of modified vaccinia Ankara ( MVA ) .
+METHODS	Ninety subjects were randomized 1:1 to receive 1 HD or 2 SD of MVA subcutaneously on Days 0 and 28 in a placebo-controlled trial .
+METHODS	Serum was collected for PRNT and ELISA .
+METHODS	Subjects were followed for safety for the entire study .
+RESULTS	The HD was well-tolerated .
+RESULTS	Using Bavarian Nordic 's ELISA , subjects in both groups achieved seroconversion by Study Day 15 ( HD ) and Day 28 ( SD ) .
+RESULTS	Before second vaccination , the hazard rate of seroconverting for the HD group was 1.7 times the SD group with a median time for seroconversion of 14 days for both groups .
+RESULTS	The peak titer of one HD vaccine was superior to one dose of SD vaccine but inferior to the peak titer after the second dose of the SD vaccination regimen .
+RESULTS	Using Saint Louis University 's PRNT , peak titers were 95.8 and 65.2 for the HD and SD groups , respectively , prior to second vaccination .
+RESULTS	Non-inferiority of the SD group was not established .
+RESULTS	The proportions of positives were 93.3 % ( 42/45 ) and 82.2 % ( 37/45 ) for the HD and SD groups , respectively .
+RESULTS	The peak titer after two standard doses was superior to that of the HD .
+CONCLUSIONS	HD MVA was safe and well-tolerated .
+CONCLUSIONS	While the hazard rate for seroconverting was significantly higher in the HD group before second dose , the effect was small as the median time to seroconversion was identical .
+CONCLUSIONS	When comparing PRNT , non-inferiority of one SD was not established and the peak titers were low for both groups .
+CONCLUSIONS	The HD peak response was inferior to the standard two-dose regimen response based on ELISA and PRNT .
+

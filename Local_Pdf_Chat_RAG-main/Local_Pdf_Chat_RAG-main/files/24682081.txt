@@ -1,0 +1,14 @@
+24682081
+OBJECTIVE	Our recent work indicates that endogenous opioid activity influences analgesic responses to opioid medications .
+OBJECTIVE	This secondary analysis evaluated whether endogenous opioid activity is associated with degree of opioid analgesic adverse effects , and whether chronic pain status and sex affect these adverse effects .
+METHODS	Using a double-blind , randomized , placebo-controlled , crossover design , 51 subjects with chronic low back pain and 38 healthy controls participated in 3 separate sessions , undergoing 2 laboratory-evoked pain tasks ( ischemic and thermal ) after receiving placebo , naloxone , or morphine .
+METHODS	Endogenous opioid system function was indexed by the difference in pain responses between the placebo and naloxone conditions .
+METHODS	These measures were examined for associations with morphine-related adverse effects .
+RESULTS	Chronic pain subjects reported significantly greater itching and unpleasant bodily sensations with morphine than controls ( P < 0.05 ) .
+RESULTS	Across groups , only 6 of 112 possible associations between adverse effects and blockade effects were significant .
+RESULTS	For the ischemic task , higher endogenous opioid function was associated with greater itching ( visual analog scale [ VAS ] ; P < 0.05 ) , numbness ( tolerance ; P < 0.001 ) , dry mouth ( tolerance ; P < 0.05 ) , and unpleasant bodily sensations ( VAS ; P < 0.05 ) .
+RESULTS	For the thermal task , higher endogenous opioid function was associated with greater numbness ( VAS ; P < 0.05 ) and feeling carefree ( VAS ; P < 0.05 ) .
+RESULTS	There were no significant main or interaction effects of chronic pain status or sex on these findings .
+CONCLUSIONS	No consistent relationships were observed between endogenous opioid function and morphine-related adverse effects .
+CONCLUSIONS	This is in stark contrast to our previous observation of strong relationships between elevated endogenous opioid function and smaller morphine analgesic effects .
+

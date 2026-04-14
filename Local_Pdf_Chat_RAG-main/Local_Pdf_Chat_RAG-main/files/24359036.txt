@@ -1,0 +1,13 @@
+24359036
+OBJECTIVE	The purpose of this pilot study was to conduct limited-efficacy testing of the newly developed Preserving Identity and Planning for Advance Care ( PIPAC ) intervention on self-reported and proxy-reported emotional and health-related outcomes of individuals in the early stages of dementia .
+METHODS	A two-group comparison design was implemented .
+METHODS	Blocked randomization was used to assign individuals with mild dementia and a family contact to either ( 1 ) the four-session , multi-component intervention group focused on reminiscence and future planning or ( 2 ) the minimal support phone contact comparison group .
+METHODS	Of the 19 enrolled dyads , 18completed post-treatment assessments ( i.e. 10 intervention and 8 comparison group ) .
+METHODS	Individuals with dementia were M = 82.8 ( SD = 6.46 ) years old ; 31.6 % were men and 68.4 % were women .
+METHODS	Participants were predominantly white/Caucasian ( n = 18 , 94.7 % ) with one black/African-American ( 5.3 % ) .
+RESULTS	Analyses of covariance controlling for baseline differences revealed clinically meaningful differences ( with medium to large effect sizes ) between groups at post-treatment for depressive symptoms , quality of life , health-related quality of life indicators , and decisional conflict .
+RESULTS	Individuals in the intervention group were also observed to exhibit higher levels of coping .
+RESULTS	Feasibility data collected from participants and interventionists were encouraging .
+CONCLUSIONS	Emotion-focused , patient-centered interventions like PIPAC hold promise for advancing treatment options in the early and mild stages of dementia .
+CONCLUSIONS	A full-scale , randomized clinical trial of this intervention is warranted to determine both short-term and long-term impacts on clinical outcomes including improved depressive symptomatology , quality of life , and health-related factors that impact daily functioning in social environments .
+

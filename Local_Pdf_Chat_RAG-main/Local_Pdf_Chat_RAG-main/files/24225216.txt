@@ -1,0 +1,14 @@
+24225216
+OBJECTIVE	To investigate the significance of dynamic monitoring of procalcitonin ( PCT ) in guiding the use of antibiotics for treating patients with sepsis in intensive care unit ( ICU ) .
+METHODS	Eighty-two patients with sepsis from January 2012 to June 2013 hospitalized in ICU of First Hospital of Jilin University were enrolled , and they were randomly divided into regular antibiotic therapy group ( RAT group , n = 40 ) and PCT monitoring in guiding the use of antibiotics group ( PCT group , n = 42 ) .
+METHODS	Patients in RAT group were treated according to principle of antibiotics usage , while in PCT group patients ' PCT value was observed everyday .
+METHODS	When no active symptoms of infection were shown , and acute physiology and chronic health evaluation II ( APACHEII ) scores declined , PCT value decreased over 90 % or PCT value lower than 0.25 g/L time point were selected as drug withdrawal indication .
+METHODS	The general status of the patient , antimicrobial drug use time , and prognosis were compared between the two groups , and Kaplan-Meier method was used for survival curve analysis .
+METHODS	Variance analysis was used for repeating measurement to observe dynamic serum PCT level of the two groups of patients for survival and death during 7 days .
+RESULTS	Mann-Whitney U test or ( 2 ) test showed that there were no statistical significance in age , gender , APACHEII score , blood culture positive rate , sputum culture positive rate , cardiac insufficiency , renal failure , respiratory failure , and ventilator and hemofiltration usage ( all P > 0.05 ) .
+RESULTS	Log Rank test results showed that the time of antimicrobial drug usage was significantly reduced in PCT group than that in RAT group [ days : 8.10.3 , 95 % confidence interval ( 95 % CI 8.3-9 .7 ) vs. 9.30.3 ( 95 % CI 8.7-10 .1 ) , P = 0.013 ] .
+RESULTS	Kaplan-Meier univariate survival curves showed that the speed of curve declination in PCT group was faster significantly than that in RAT group , suggesting that the time of using antimicrobial drug was shortened .
+RESULTS	There was no significant difference in length of hospital stay , ICU stay time , number of death in 28 days , number of cases of recurrence in 28 days and clinical cure rate between two groups ( all P > 0.05 ) .
+RESULTS	PCT level in non-survivors in both groups was significantly higher than that in the survivors , exceeding more than 10 g/L in the early and late stages of treatment .
+CONCLUSIONS	Dynamic monitoring of PCT can effectively reduce antimicrobial drug use in ICU patients with sepsis , but there is no significant difference in patients ' prognosis .
+

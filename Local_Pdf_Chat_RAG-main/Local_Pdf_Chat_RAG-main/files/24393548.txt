@@ -1,0 +1,13 @@
+24393548
+OBJECTIVE	Pain attitudes and beliefs are hypothesized to influence pain and adjustment to pain .
+OBJECTIVE	Valid and reliable measures of these beliefs are necessary to test their hypothesized associations with outcomes .
+OBJECTIVE	The Pediatric version of the Survey of Pain Attitudes ( Peds-SOPA ) is a new measure with limited evidence regarding its psychometric properties .
+OBJECTIVE	This study sought to : 1 ) evaluate the predictive validity , reliability , and factor structure of the Peds-SOPA ; and 2 ) determine if there are sex - or age-related differences in children 's attitudes toward pain .
+METHODS	Longitudinal study .
+METHODS	Five hundred and sixty-one schoolchildren between 8 and 16 years old participated in this study .
+RESULTS	Factor analyses supported the seven-factor structure described by the original authors .
+RESULTS	The Peds-SOPA showed acceptable reliability with Cronbach alpha values ranging from 0.68 to 0.80 .
+RESULTS	The Peds-SOPA scales also demonstrated prospective predictive validity via their associations with pain intensity , and pain status at 1-year follow-up .
+RESULTS	The findings also showed some few sex - and age-specific differences in the Peds-SOPA scores .
+CONCLUSIONS	The current findings provide additional support for the reliability and validity of the Peds-SOPA , and suggest that children 's pain attitudes and beliefs might be important intervention targets in pain treatment .
+

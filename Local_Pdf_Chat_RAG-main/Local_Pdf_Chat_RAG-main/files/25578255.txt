@@ -1,0 +1,19 @@
+25578255
+OBJECTIVE	Intravitreal antiangiogenic therapy is the major therapeutic breakthrough in neovascular age-related macular degeneration ( AMD ) .
+OBJECTIVE	Optical coherence tomography ( OCT ) is the leading diagnostic tool , but solid criteria for optimal therapeutic outcomes are lacking .
+OBJECTIVE	A comprehensive analysis of structure/function correlations using Food and Drug Administration - and European Medicines Agency-approved substances and fixed and flexible regimens was performed .
+METHODS	Post hoc analysis of a prospective , randomized multicenter clinical trial including 189 study sites .
+METHODS	A total of 1240 patients with active neovascular AMD .
+METHODS	Participants received intravitreal ranibizumab or aflibercept .
+METHODS	A fixed regimen was used for 48 weeks followed by a flexible regimen until week 96 .
+METHODS	At monthly intervals , best-corrected visual acuity ( BCVA ) was measured and retinal morphology was assessed by standardized OCT , including intraretinal cysts ( IRCs ) , subretinal fluid ( SRF ) , and pigment epithelial detachment ( PED ) , presenting with a width 400 m or a height of 200 m. Results were correlated for each regimen , feature , and time .
+METHODS	The BCVA outcomes in relation to retinal pathomorphology based on noninferiority for all treatment arms .
+RESULTS	In neovascular AMD , only IRC at baseline and persistent through week 12 had a negative impact on BCVA .
+RESULTS	With therapeutic intervention , exudative features such as IRC and SRF resolved rapidly in 74 % of eyes , whereas PED responded only slowly with 38 % .
+RESULTS	Independent of the type of regimen , fixed or flexible , retinal morphology correlated tightly with visual function .
+RESULTS	Intraretinal cysts consistently showed the lowest BCVA gains with either regimen or substance .
+RESULTS	With the switch from a fixed to a flexible pro re nata ( PRN ) regimen , progressive visual loss occurred exclusively in the group with primary PED presenting as the hallmark of neovascular activity and was induced by secondary formation of IRC in the neurosensory retina .
+CONCLUSIONS	The efficacy of antiangiogenic therapy in neovascular AMD is strongly determined by morphologic features .
+CONCLUSIONS	The subretinal pigment epithelium lesion underlying PED appears to be the primary indicator for progressive disease activity , whereas secondary cystoid degeneration is the most relevant imaging marker for visual function .
+CONCLUSIONS	Clinically , PED emerged as trigger for consecutive vision loss in PRN treatment .
+

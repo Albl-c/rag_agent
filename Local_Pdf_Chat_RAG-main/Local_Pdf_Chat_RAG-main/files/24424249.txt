@@ -1,0 +1,17 @@
+24424249
+OBJECTIVE	To assess time to first achievement of clinically significant visual acuity ( VA ) gains from baseline in patients with retinal vein occlusion ( RVO ) receiving ranibizumab versus sham treatment .
+METHODS	Post hoc analyses of 2 phase 3 clinical trials assessing efficacy and safety of ranibizumab in patients with branch RVO ( Ranibizumab for the Treatment of Macular Edema following Branch Retinal Vein Occlusion : Evaluation of Efficacy and Safety [ BRAVO ] study ; NCT00061594 ) and central RVO ( Ranibizumab for the Treatment of Macular Edema after Central Retinal Vein Occlusion Study : Evaluation of Efficacy and Safety [ CRUISE ] ; NCT00056836 ) over 12 months .
+METHODS	Seven hundred eighty-nine patients ( BRAVO , n = 397 ; CRUISE , n = 392 ) .
+METHODS	Randomization to monthly intraocular ranibizumab injections ( 0.3 mg/0 .5 mg ) or sham .
+METHODS	After 6 monthly injections ( treatment period ) , patients meeting prespecified criteria received as-needed ( pro re nata [ PRN ] ) ranibizumab at their assigned dose ( sham patients , ranibizumab 0.5 mg ) through month 12 ( observation period ) .
+METHODS	BRAVO patients meeting specific eligibility criteria could receive rescue laser treatment once during the treatment and once during the observation periods .
+METHODS	Time to first gain of 15 letters or more from baseline , analyzed using Kaplan-Meier methods .
+METHODS	To evaluate the effect of delaying ranibizumab treatment , sham patients ' VA data also were analyzed , with month 6 considered as baseline to assess vision gains during the 6 months of receiving ranibizumab PRN .
+RESULTS	Median time to first 15-letter or more gain from baseline was 12.0 ( sham ) , 4.8 ( ranibizumab 0.3 mg ) , and 4.0 months ( ranibizumab 0.5 mg ) in BRAVO and 12.2 , 5.9 , and 5.2 months , respectively , in CRUISE .
+RESULTS	The cumulative proportion of patients who had ever gained 15 letters or more from baseline by month 12 was 50 % ( sham ) , 68 % ( ranibizumab 0.3 mg ) , and 71 % ( ranibizumab 0.5 mg ) in BRAVO and 42 % , 61 % , and 66 % , respectively , in CRUISE .
+RESULTS	After 6 months of ranibizumab PRN treatment , a cumulative 10.8 % ( BRAVO ) and 26.2 % ( CRUISE ) of initially sham-treated patients ever gained 15 letters or more .
+CONCLUSIONS	This retrospective analysis shows that more than 50 % of patients treated with monthly ranibizumab achieved clinically significant vision gains during the initial 6 months of treatment , which largely were maintained using PRN treatment to 12 months .
+CONCLUSIONS	In comparison , less than 50 % of patients initially randomized to sham ( and later receiving ranibizumab 0.5 mg PRN treatment ) ever achieved clinically significant vision gains .
+CONCLUSIONS	These results suggest that initiating treatment immediately after diagnosis may provide the greatest vision gains .
+CONCLUSIONS	The potential benefits of early treatment should be evaluated further in prospective clinical studies .
+

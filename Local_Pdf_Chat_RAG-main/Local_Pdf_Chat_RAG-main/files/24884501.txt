@@ -1,0 +1,12 @@
+24884501
+BACKGROUND	Polymorphisms of genes encoding the Fcy receptors ( Fc fragment of IgG receptor 2A ( FCGR2A ) and 3A ( FCGR3A ) ) , which influence their affinity for the Fc fragment , have been linked to the pharmacodynamics of monoclonal antibodies .
+BACKGROUND	Most studies have been limited by small samples sizes and have reported inconsistent associations between the FCGR2A and the FCGR3A polymorphisms and clinical outcome in metastatic colorectal cancer ( mCRC ) patients treated with cetuximab .
+BACKGROUND	We investigated the association of these polymorphisms and clinical outcome in a large cohort of mCRC patients treated with first-line 5-fluorouracil/folinic acid and oxaliplatin ( Nordic FLOX ) + / - cetuximab in the NORDIC-VII study ( NCT00145314 ) .
+METHODS	504 and 497 mCRC patients were evaluable for the FCGR2A and FCGR3A genotyping , respectively .
+METHODS	Genotyping was performed on TaqMan ABI HT 7900 ( Applied Biosystems , Foster City , CA , USA ) with pre-designed SNP genotyping assays for FCGR2A ( rs1801274 ) and FCGR3A ( rs396991 ) .
+RESULTS	The response rate for patients with the FCGR2A R/R genotype was significantly increased when cetuximab was added to Nordic FLOX ( 31 % versus 53 % , interaction P = 0.03 ) , but was not significantly different compared to the response rate of patients with the FCGR2A H/H or H/R genotypes given the same treatment .
+RESULTS	A larger increase in response rate with the addition of cetuximab to Nordic FLOX in patients with KRAS mutated tumors and the FCGR2A R/R genotype was observed ( 19 % versus 50 % , interaction P = 0.04 ) .
+RESULTS	None of the FCGR3A polymorphisms were associated with altered response when cetuximab was added to Nordic FLOX ( interaction P = 0.63 ) .
+RESULTS	Neither of the FCGR polymorphisms showed any significant associations with progression-free survival or overall survival .
+CONCLUSIONS	Patients with KRAS mutated tumors and the FCGR2A R/R polymorphism responded poorly when treated with chemotherapy only , and experienced the most benefit of the addition of cetuximab in terms of response rate .
+

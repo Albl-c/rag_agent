@@ -1,0 +1,12 @@
+25217473
+OBJECTIVE	To investigate the effect of intranasal ketamine versus alfentanil in addition to oral midazolam for the prevention of emergence agitation in children .
+METHODS	Children undergoing urological surgery with sevoflurane anaesthesia received oral midazolam 40 min before induction and were then randomly assigned to receive 2 mg/kg ketamine , 10 g/kg alfentanil or 1 ml isotonic saline intranasally .
+METHODS	Parental separation status and mask acceptance were assessed preoperatively .
+METHODS	Emergence agitation was evaluated using a paediatric anaesthesia emergence delirium ( PAED ) score .
+RESULTS	Data from 78 children were evaluated in the study .
+RESULTS	There were no significant differences between the groups in demographic characteristics , recovery times or parental separation scores .
+RESULTS	Mask acceptance was significantly better in the ketamine group than in the saline group .
+RESULTS	The mean PAED score in the ketamine group was significantly better than in the other two groups , but was similar in the saline and alfentanil groups .
+RESULTS	The incidence of emergence agitation was 3.8 % , 36.0 % and 40.7 % in the ketamine , alfentanil and saline groups , respectively .
+CONCLUSIONS	The addition of intranasal ketamine to oral midazolam significantly improved the quality of induction and reduced sevoflurane-induced emergence agitation , in children undergoing urological surgery .
+

@@ -1,0 +1,13 @@
+26055947
+BACKGROUND	The U.S. pivotal trial for the self-expanding valve found that among patients with severe aortic stenosis at increased risk for surgery , the 1-year survival rate was 4.9 percentage points higher in patients treated with a self-expanding transcatheter aortic valve bioprosthesis than in those treated with a surgical bioprosthesis .
+OBJECTIVE	Longer-term clinical outcomes were examined to confirm if this mortality benefit is sustained .
+METHODS	Patients with severe aortic stenosis who were at increased surgical risk were recruited .
+METHODS	Eligible patients were randomly assigned in a 1:1 ratio to transcatheter aortic valve replacement with the self-expanding transcatheter valve ( transcatheter aortic valve replacement [ TAVR ] group ) or to aortic valve replacement with a surgical bioprosthesis ( surgical group ) .
+METHODS	The 2-year clinical and echocardiographic outcomes were evaluated in these patients .
+RESULTS	A total of 797 patients underwent randomization at 45 centers in the United States .
+RESULTS	The rate of 2-year all-cause mortality was significantly lower in the TAVR group ( 22.2 % ) than in the surgical group ( 28.6 % ; log-rank test p < 0.05 ) in the as-treated cohort , with an absolute reduction in risk of 6.5 percentage points .
+RESULTS	Similar results were foundin the intention-to-treat cohort ( log-rank test p < 0.05 ) .
+RESULTS	The rate of 2-year death or major stroke was significantly lower in the TAVR group ( 24.2 % ) than in the surgical group ( 32.5 % ; log-rank test p = 0.01 ) .
+CONCLUSIONS	In patients with severe aortic stenosis who are at increased surgical risk , the higher rate of survival with a self-expanding TAVR compared with surgery was sustained at 2 years .
+CONCLUSIONS	( Safety and Efficacy Study of the Medtronic CoreValve System in the Treatment of Symptomatic Severe Aortic Stenosis in High Risk and Very High Risk Subjects Who Need Aortic Valve Replacement ; NCT01240902 ) .
+

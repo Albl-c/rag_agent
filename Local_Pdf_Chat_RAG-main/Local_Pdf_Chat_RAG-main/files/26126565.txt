@@ -1,0 +1,12 @@
+26126565
+OBJECTIVE	To determine whether Care Navigation ( CN ) , a nurse-led hospital-based coordinated care intervention , reduced the use of hospital services and improved quality of life for patients with chronic illness .
+METHODS	Randomised controlled trial ; participants were allocated to CN or standard care .
+METHODS	Patients with chronic illness presenting to the emergency department of Nepean Hospital , Sydney , New South Wales .
+METHODS	High-risk status for an unplanned admission was defined as i ) three or more unplanned hospital admissions in 12 months for patients aged 70 or at least one admission for cardiac or respiratory disease in patients aged 16-69 years ; or ii ) judged by a CN nurse to be high risk and likely to benefit .
+METHODS	Numbers of re-presentations or readmissions , quality of life , time to re-presentation , readmission or death , length of stay , and access to hospital and community health services .
+RESULTS	500 participants were randomised between May 2010 and February 2011 ; 359 by previous unplanned admission and 141 by clinical impression .
+RESULTS	The CN group received more community health services ( rate ratio , 1.94 ; 95 % CI , 1.35-2 .81 ; P < 0.001 ) than participants receiving standard care ; however , this did not result in statistically significant differences in number of re-presentations ( rate ratio , 0.83 ; 95 % CI , 0.68-1 .01 ; P = 0.07 ) , number of readmissions ( rate ratio , 0.85 ; 95 % CI , 0.70-1 .04 ; P = 0.11 ) , quality of life at 24 months ( mean difference , 0 ; 95 % CI , -0.10 to 0.09 , P = 0.93 ) , or other measures .
+CONCLUSIONS	CN did not improve quality of life or reduce unplanned hospital presentations or admissions despite community health services almost doubling .
+CONCLUSIONS	Future service development should explore potential benefits of linking navigated intrahospital care to ongoing , proactive care planning and delivery in the community .
+BACKGROUND	ACTRN12609000554268 .
+

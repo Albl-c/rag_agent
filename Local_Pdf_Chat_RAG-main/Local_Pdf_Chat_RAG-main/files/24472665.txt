@@ -1,0 +1,15 @@
+24472665
+BACKGROUND	Many transfusion services are keeping thawed plasma ( TP ) ready for trauma patients .
+BACKGROUND	According to Chinese guidelines , once thawed , fresh frozen plasma ( FFP ) should be used within 24h .
+BACKGROUND	This may increase plasma wastage and delay plasma administration to critical patients .
+BACKGROUND	However , it can be avoided by being relabeled as TP .
+BACKGROUND	In this study we evaluated coagulation-related proteins in thawed apheresis FFP during 5 days of storage at 1-6 C.
+METHODS	Thirty apheresis fresh plasma units were aliquot and stored at -70 C. Aliquots were thawed at 37 C and stored at 1-6 C for 0 , 1 , 2 , 3 , 4 and 5 days , respectively .
+METHODS	Prothrombin time ( PT ) , activated partial thromboplastin time ( aPTT ) , thrombin time ( TT ) , fibrinogen ( Fbg ) , factor ( F ) II , FV , FVII , FVIII , FIX , FX , FXI , FXII , protein C ( PC ) , protein S ( PS ) , antithrombin III ( ATIII ) and ADAMTS13 levels were assessed at Days 0-5 , respectively .
+RESULTS	For 5 days of refrigerated storage , no significant differences were observed in Fbg , PC , PS , ATIII and ADAMTS13 .
+RESULTS	FII , FV , FVII , FVIII , FIX , FX , FXI and FXII declined significantly over time .
+RESULTS	The storage presented major decrease for FVIII , with a drop of 40 % .
+RESULTS	However , at least 60 % levels of all measured proteins were remained on Day 5 , when compared to Day 0 .
+CONCLUSIONS	All measured proteins in TP for 5 days of refrigerated storage were adequate .
+CONCLUSIONS	These could provide evidence that thawed FFP could be relabeled as TP , which is a potential to ensure rapid plasma availability in emergency situations in China .
+

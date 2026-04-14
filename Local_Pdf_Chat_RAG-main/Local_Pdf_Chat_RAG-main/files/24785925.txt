@@ -1,0 +1,16 @@
+24785925
+BACKGROUND	Surgically assisted rapid palatal expansion ( SARPE ) is the procedure of choice for treatment of adults with transverse maxillary deficiency greater than 7 mm .
+BACKGROUND	There is no consensus about the dentoskeletal effect of an orthodontic retainer on the outcome of SARPE .
+BACKGROUND	Our objective was to assess the effectiveness of an orthodontic retainer on dentoskeletal stability .
+METHODS	Ninety digitized dental casts of 30 adults undergoing SARPE were divided into 2 groups-no retention ( n = 15 ) and retention ( n = 15 ) - and assessed .
+METHODS	The dental casts were obtained at 3 checkpoints : ( 1 ) 7 days on average before SARPE ( preoperatively ) , ( 2 ) 4 months after expansion , and ( 3 ) 10 months after expansion was completed .
+METHODS	The retention patients received a transpalatal arch just after expander removal , at checkpoint 2 .
+METHODS	The transpalatal arch was kept for 10 months after completion of the expansion ( checkpoint 3 and end of the study ) .
+METHODS	The dental casts were scanned with a Vivid 9i 3D laser scanner ( Konica Minolta , Wayne , NJ ) .
+METHODS	The distances measured were premolar and molar intercusp distances , premolar and molar intercervical distances , premolar and molar inter-WALA ( Will Andrews and Lawrence Andrews ) ridge distances , and palate height at the maxillary first molar .
+RESULTS	The planned maxillary expansion was within the expected amount ( P < 0.05 ) .
+RESULTS	Palatal height at the 4-month checkpoint decreased by 0.79 mm ( 4.38 % ) ( P < 0.001 ) and again at the 10-month checkpoint by 0.38 mm ( 0.98 % ) ( P > 0.05 ) but not significantly in both groups .
+RESULTS	The premolar intercusp distance had a relapse at checkpoint 3 of 1.84 mm ( 7.18 % ) ( P < 0.001 ) in the no-retention group .
+RESULTS	Both groups had average relapses of 0.95 mm in the premolar intercervical distances , of 0.88 mm in the premolar inter-WALA ridge distances , of 1.04 mm in the molar intercusp distances , of 0.74 mm in the molar intercervical distances , and of 0.84 mm in the molar inter-WALA ridge distances ( P < 0.05 ) at checkpoint 3 .
+CONCLUSIONS	The analysis of relapse in both groups suggests that the use of a transpalatal arch as a retaining device does not improve dento-osseous stability .
+

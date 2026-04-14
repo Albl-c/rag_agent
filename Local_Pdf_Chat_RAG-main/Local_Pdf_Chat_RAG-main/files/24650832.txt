@@ -1,0 +1,14 @@
+24650832
+OBJECTIVE	To examine the effect of cognitive-behavioral therapy for insomnia ( CBTI ) on sleep improvement , daytime symptoms , and quality of life ( QOL ) in breast cancer survivors ( BCSs ) after cancer treatment .
+METHODS	A prospective , longitudinal , randomized , controlled trial .
+METHODS	Oncology clinics , breast cancer support groups , and communities in Colorado .
+METHODS	56 middle-aged BCSs with chronic insomnia .
+METHODS	Women were randomly assigned to CBTI or behavioral placebo treatment ( BPT ) and completed measures of sleep , QOL , functioning , fatigue , and mood at baseline , postintervention , and at three - and six-month follow-ups .
+METHODS	Sleep outcomes ( e.g. , sleep efficiency , sleep latency , total sleep time , wake after sleep onset , number of nightly awakenings ) ; secondary variables included sleep medication use , insomnia severity , QOL , physical function , cognitive function , fatigue , depression , anxiety , and sleep attitudes or knowledge .
+RESULTS	Sleep efficiency and latency improved more in the CBTI group than the BPT group ; this difference was maintained during follow-up .
+RESULTS	Women in the CBTI group had less subjective insomnia , greater improvements in physical and cognitive functioning , positive sleep attitudes , and increased sleep hygiene knowledge .
+RESULTS	No group differences in improvement were noted relative to QOL , fatigue , or mood .
+CONCLUSIONS	Nurse-delivered CBTI appears to be beneficial for BCSs ' sleep latency/efficiency , insomnia severity , functioning , sleep knowledge , and attitudes more than active placebo , with sustained benefit over time .
+CONCLUSIONS	Oncology nurses are in a unique position to identify insomnia in cancer survivors .
+CONCLUSIONS	When sleep disturbances become chronic , nurses need to make recommendations and referrals .
+

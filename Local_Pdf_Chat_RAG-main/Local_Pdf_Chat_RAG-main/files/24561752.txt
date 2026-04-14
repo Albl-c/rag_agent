@@ -1,0 +1,14 @@
+24561752
+BACKGROUND	Randomized trials found that use of erythropoiesis-stimulating agents to target normal hematocrit ( Hct ) levels ( > 39 % ) compared with 27 % -34.5 % increases cardiovascular risk and mortality among chronic kidney disease patients .
+BACKGROUND	However , the effects of the most widely used Hct target in the past 2 decades , 34.5 % -39 % , have never been examined .
+OBJECTIVE	To compare the effects of 2 Hct target strategies-30 .0 % -34.5 % ( low ) and 34.5 % -39.0 % ( mid ) in a high-risk population : elderly dialysis patients with significant comorbidities .
+METHODS	Observational data from the US Renal Data System were used to emulate a randomized trial in which patients were assigned to either Hct strategy .
+METHODS	Follow-up started after completing 3 months of hemodialysis and ended 6 months later .
+METHODS	We conducted the observational analogs of intention-to-treat and per-protocol analyses .
+METHODS	Inverse-probability weighting was used to adjust for measured time-dependent confounding by indication .
+METHODS	A total of 22,474 elderly patients with both diabetes and cardiovascular disease who initiated hemodialysis in 2006-2008 .
+METHODS	Hazard ratios ( HRs ) and survival probabilities for all-cause mortality and a composite cardiovascular and mortality endpoint .
+RESULTS	The intention-to-treat HR ( 95 % confidence interval ) for mid versus low Hct strategy was 1.05 ( 0.99-1 .11 ) for all-cause mortality and 1.03 ( 0.98-1 .08 ) for the composite endpoint .
+RESULTS	The per-protocol HR ( 95 % confidence interval ) for mid versus low Hct strategy was 0.98 ( 0.78-1 .24 ) for all-cause mortality and 1.00 ( 0.81-1 .24 ) for the composite outcome .
+CONCLUSIONS	Among hemodialysis patients , we did not find differences in 6-month survival or cardiovascular risk between clinical strategies that target Hct at 30.0 % -34.5 % versus 34.5 % -39.0 % .
+

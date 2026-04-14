@@ -1,0 +1,12 @@
+24628553
+BACKGROUND	Dietary protein digestion and absorption is an important factor modulating muscle protein accretion .
+BACKGROUND	However , there are few data available on the effects of coingesting other macronutrients with protein on digestion and absorption kinetics and the subsequent muscle protein synthetic response .
+OBJECTIVE	The objective of the study was to determine the impact of carbohydrate coingestion with protein on dietary protein digestion and absorption and muscle protein accretion in healthy young and older men .
+METHODS	Twenty-four healthy young ( aged 21 1 y , body mass index 21.8 0.5 kg/m ( 2 ) ) and 25 older ( aged 75 1 y , body mass index 25.4 0.6 kg/m ( 2 ) ) men received a primed continuous L - [ ring - ( 2 ) H5 ] - phenylalanine and L - [ ring-3 ,5 - ( 2 ) H2 ] - tyrosine infusion and ingested 20 g intrinsically L - [ 1 - ( 13 ) C ] - phenylalanine-labeled protein with ( Pro + CHO ) or without ( Pro ) 60 g carbohydrate .
+METHODS	Plasma samples and muscle biopsies were collected in a postabsorptive and postprandial state .
+RESULTS	Carbohydrate coingestion delayed the appearance of exogenous phenylalanine in the circulation ( P = .001 ) .
+RESULTS	Dietary protein-derived phenylalanine availability over the 5-hour postprandial period was lower in the older ( 62 2 % ) when compared with the young subjects ( 74 2 % ; P = .007 ) , with no differences between conditions ( P = .20 ) .
+RESULTS	Carbohydrate coingestion did not modulate postprandial muscle protein synthesis rates ( 0.035 0.003 vs 0.043 0.004 and 0.033 0.002 vs 0.035 0.003 % / h after Pro vs Pro + CHO in the young and older group , respectively ) .
+RESULTS	In accordance , no differences in muscle protein-bound L - [ 1 - ( 13 ) C ] - phenylalanine enrichments were observed between conditions ( 0.020 0.002 vs 0.020 0.002 and 0.019 0.003 vs 0.022 0.004 mole percent excess after Pro vs Pro + CHO in the young and older subjects , respectively ) .
+CONCLUSIONS	Carbohydrate coingestion with protein delays dietary protein digestion and absorption but does not modulate postprandial muscle protein accretion in healthy young or older men .
+

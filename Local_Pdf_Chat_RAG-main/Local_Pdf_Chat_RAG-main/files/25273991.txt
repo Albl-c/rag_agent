@@ -1,0 +1,18 @@
+25273991
+BACKGROUND	The United States has the highest rate of lumbar spine surgery in the world , with rates increasing over 200 % since 1990 .
+BACKGROUND	Medicare spends over $ 1 billion annually on lumbar spine surgery .
+BACKGROUND	Despite surgical advances , up to 40 % of patients report chronic pain and disability following surgery .
+BACKGROUND	Our work has demonstrated that fear of movement is a risk factor for increased pain and disability and decreased physical function in patients following lumbar spine surgery for degenerative conditions .
+BACKGROUND	Cognitive-behavioral therapy and self-management treatments have the potential to address psychosocial risk factors and improve outcomes after spine surgery , but are unavailable or insufficiently adapted for postoperative care .
+BACKGROUND	Our research team developed a cognitive-behavioral based self-management approach to postoperative rehabilitation ( Changing Behavior through Physical Therapy ( CBPT ) ) .
+BACKGROUND	Pilot testing of the CBPT program demonstrated greater improvement in pain , disability , physical and mental health , and physical performance compared to education .
+BACKGROUND	The current study compares which of two treatments provided by telephone - a CBPT Program or an Education Program about postoperative recovery - are more effective for improving patient-centered outcomes in adults following lumbar spine surgery for degenerative conditions .
+METHODS	A multi-center , comparative effectiveness trial will be conducted .
+METHODS	Two hundred and sixty patients undergoing lumbar spine surgery for degenerative conditions will be recruited from two medical centers and community surgical practices .
+METHODS	Participants will be randomly assigned to CBPT or Education at 6weeks following surgery .
+METHODS	Treatments consist of six weekly telephone sessions with a trained physical therapist .
+METHODS	The primary outcome will be disability and secondary outcomes include pain , general health , and physical activity .
+METHODS	Outcomes will be assessed preoperatively and at 6weeks , 6months and 12months after surgery by an assessor masked to group allocation .
+CONCLUSIONS	Effective rehabilitation treatments that can guide clinicians in their recommendations , and patients in their actions will have the potential to effect change in current clinical practice .
+BACKGROUND	NCT02184143 .
+

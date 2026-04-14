@@ -1,0 +1,16 @@
+24549966
+OBJECTIVE	A few studies focused on the methods of treatment for displaced distal tibial shaft fractures have been published , all of which compared two different methods .
+OBJECTIVE	In this randomized , prospective study , we aimed to compare minimally invasive plate osteosynthesis , locking intramedullary nail stabilization and external fixation combined with limited open reduction and absorbable internal fixation for distal tibial shaft fractures by assessing complications and secondary procedures .
+METHODS	From November 2002 to June 2012 , 137 skeletally mature patients with displaced distal tibial shaft fractures with or without fibula fracture were randomized to be treated by minimally invasive plate osteosynthesis ( group A , n = 46 ) , locking intramedullary nail ( group B , n = 46 ) or external fixation combined with limited open reduction and absorbable internal fixation ( group C , n = 45 ) .
+METHODS	Age , gender , mechanism of injury , fracture pattern and presence of open fracture were equally distributed among the three groups .
+METHODS	Indexes for evaluation included hospital stay , operative time , time to radiographic union , union status , infection and the incidence of re-operation .
+METHODS	Mazur ankle score was introduced for functional evaluation .
+METHODS	Statistics Analysis System ( SAS ) 9.2 was used for analysis .
+RESULTS	A total of 121 patients were included in the final analysis ( group A 42 , group B 40 and group C 39 ) and evaluated after a mean of 14.8 months follow-up .
+RESULTS	There was no significant difference ( P > 0.05 ) in hospital stay , time to radiographic union and the incidence of union status among the three groups .
+RESULTS	Although group C was associated with less secondary procedures versus groups A and B , it was related with more pin tract infections ( 15.4 % ) .
+RESULTS	Anterior knee pain occurred frequently after locking intramedullary nailing ( 37.5 % ) and the irritation symptoms were more frequently encountered in group A ( 59.5 % ) .
+RESULTS	There was no difference in ankle function between the three methods after operation ( P > 0.05 ) .
+CONCLUSIONS	We consider that the minimally invasive plate osteosynthesis , locking intramedullary nail stabilization and external fixation combined with limited open reduction and absorbable internal fixation techniques are all efficient methods for treating distal tibia fractures .
+CONCLUSIONS	With its wide indications , external fixation combined with limited open reduction and absorbable internal fixation leads to minimal soft tissue complication , good functional result and no local soft tissue irritation or implant removal .
+

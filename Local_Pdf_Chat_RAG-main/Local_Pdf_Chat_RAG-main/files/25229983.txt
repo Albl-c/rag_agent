@@ -1,0 +1,13 @@
+25229983
+OBJECTIVE	Resistance to antibiotics is the major cause of treatment failure of Helicobacter pylori ( HP ) infection .
+OBJECTIVE	The culture-guided triple therapy ( chosen on the basis of a preliminary in-vitro susceptibility test ) might help to increase treatment success in high antibiotic resistance regions .
+OBJECTIVE	The aim of this study was to evaluate the effectiveness of treatment with clarithromycin in patients with clarithromycin-sensitive culture compared with patients treated empirically .
+METHODS	In this prospective and controlled trial , 111 naive HP-positive patients were randomized to receive standard triple therapy omeprazole ( 20mg twice daily ) , amoxicillin ( 1g twice daily ) , and clarithromycin ( 500mg twice daily ) for 10 days ( OAC ) after antimicrobial susceptibility testing if there was no resistance to clarithromycin ( ClariS ) or empirical 10-day OAC for first-line therapy of HP ( ClariNA ) .
+METHODS	Eradication was confirmed using the C-labelled urea breath test 6 weeks after therapy .
+METHODS	Our primary outcome was HP eradication .
+METHODS	Treatment adherence and adverse effects were recorded .
+RESULTS	The effectiveness of eradication by protocol with 10-day OAC therapy in the ClariS was 94 % [ 95 % confidence interval ( CI ) : 0.83-0 .98 ] , which was 22 % higher than ClariNA 72 % ( 95 % CI : 0.58-0 .85 ; P = 0.006 ) .
+RESULTS	The odds ratio of eradication in ClariS was 1.30 ( 95 % CI : 1.10-1 .60 ; P < 0.05 by logistic regression ) and the number needed to treat was 5 ( 95 % CI : 3-13 ) .
+RESULTS	We found no significant difference in the occurrence of adverse effects or in compliance between the two groups .
+CONCLUSIONS	The eradication rate was significantly higher with clarithromycin-based triple therapy for patients with clarithromycin-susceptible HP isolates compared with those for whom no information on the corresponding susceptibility was available ( ClinicalTrials.gov number NCT01486082 ) .
+

@@ -1,0 +1,19 @@
+24565123
+OBJECTIVE	The combination of ketamine and remifentanil seems to be associated with better analgesia and duration .
+OBJECTIVE	The aim of this study was to evaluate whether a ketamine - remifentanil combination promotes improved postoperative analgesia .
+METHODS	Prospective , randomized , double blind study of 40 patients undergoing video laparoscopic cholecystectomy .
+METHODS	Anesthesia was performed with remifentanil , propofol , atracurium , and 50 % oxygen .
+METHODS	Group 1 ( GI ) patients received remifentanil ( 0.4 mcg.kg ( -1 ) .
+METHODS	min ( -1 ) ) and ketamine ( 5 mcg.kg ( -1 ) .
+METHODS	min ( -1 ) ) and Group 2 ( G2 ) received remifentanil ( 0.4 mcg.kg ( -1 ) .
+METHODS	min ( -1 ) ) and saline solution .
+METHODS	Morphine 0.1 mg.kg ( -1 ) was administered at the end of the procedure , and postoperative pain was treated with morphine via PCA .
+METHODS	We evaluated the severity of postoperative pain by a numerical scale from zero to 10 during 24 hours .
+METHODS	We registered the time to the first analgesic supplementation , amount of morphine used in the first 24 hours , and adverse effects .
+RESULTS	There was a decrease in pain severity between extubation and other times evaluated in G1 and G2 .
+RESULTS	There was no significant difference in pain intensity between the groups .
+RESULTS	There was no difference between G1 ( 22 24.9 min ) and G2 ( 21.5 28.1 min ) regarding time to first dose of morphine and dose supplement of morphine consumed in G1 ( 29 18.4 mg ) and G2 ( 25.1 13.3 mg ) .
+CONCLUSIONS	The combination of ketamine ( 5 mcg.kg ( -1 ) .
+CONCLUSIONS	min ( -1 ) ) and remifentanil ( 0.4 mcg.kg ( -1 ) .
+CONCLUSIONS	min ( -1 ) ) for cholecystectomy did not alter the severity of postoperative pain , time to first analgesic supplementation or dose of morphine in 24 hours .
+

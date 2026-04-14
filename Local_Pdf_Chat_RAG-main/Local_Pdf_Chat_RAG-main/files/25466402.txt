@@ -1,0 +1,15 @@
+25466402
+OBJECTIVE	To determine the prevalence and predictors of sexual dysfunction ( SD ) in Parkinson 's disease ( PD ) patients .
+BACKGROUND	Assessments of SD in the professional literature is limited .
+BACKGROUND	Understanding the predictors of SD can help physicians focus on this problem in vulnerable patients .
+METHODS	A total of 60 PD patients and 60 controls answered the Arizona Sexual Experiences Scale-Thai Version ( ASEX-Thai ) and the Hamilton Depression Rating Scale ( HAMD ) questionnaires , and were asked on 3 additional sets of questions about premature ejaculation ( PE ) , dyspareunia , and hypersexual disorders .
+RESULTS	The prevalence of SD in PD patients and controls was 81.6 % and 48.3 % respectively ( p < 0.05 ) .
+RESULTS	PD patients had lower BMI , lower uric acid level , higher HAMD score and had sexual intercourse ( SI ) less frequently .
+RESULTS	SD correlated with greater disease severity and depression .
+RESULTS	The most distressing problem in male patients was PE ( 51.4 % ) and orgasmic dissatisfaction ( 76 % ) for female patients .
+RESULTS	Logistic regression analysis found 3 factors were related to SD : no SI in the past month ( p < 0.001 ) , postural instability ( PI ) ( p = 0.028 ) , and HAMD item 14 ( p = 0.021 ) , predicting SD with the OR of 12.2 , 5.5 , and 5.0 respectively .
+CONCLUSIONS	SD in PD is common and usually occurs with depression .
+CONCLUSIONS	Absence of SI in the past month , PI , and loss of libido are predictors of SD in PD .
+CONCLUSIONS	A simple and quick screening of SD can be routinely performed by inquiring patients about the frequency of SI and the examination of the pull test .
+CONCLUSIONS	Detailed assessment of sexual functioning and depression may guide physicians in proper management .
+

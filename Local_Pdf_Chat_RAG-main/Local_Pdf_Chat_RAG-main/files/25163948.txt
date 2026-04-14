@@ -1,0 +1,13 @@
+25163948
+OBJECTIVE	To compare outcome after total hip arthroplasty ( THA ) through the mini-incision approach versus the standard transgluteal approach .
+METHODS	80 women and 63 men aged 33 to 89 ( mean , 62 ) years with primary osteoarthritis of the hip were randomised to undergo unilateral THA through a mini-incision approach ( Micro-hip , n = 55 ) or standard , lateral , transgluteal approach ( Bauer , n = 88 ) .
+METHODS	Levels of haemoglobin , haematocrit , serum creatine kinase , and C-reactive protein , length of hospital stay , mobilisation , and any complication were recorded .
+METHODS	Visual analogue scale ( VAS ) for pain was assessed .
+METHODS	Hip function was assessed using the Harris Hip Score and the Oxford Hip Score , whereas general health was assessed using the EQ-5D general health questionnaire .
+METHODS	The cup inclination and varus/valgus of the stem position were measured using a goniometer .
+RESULTS	The Micro-hip group achieved a significantly lower mean incision length ( 9.3 vs. 13.4 cm , p < 0.001 ) , mean surgical time ( 60 vs. 68 minutes , p = 0.021 ) , mean reduction in haemoglobin level ( 2.1 vs. 2.8 g/dl , p < 0.001 ) , and mean VAS for pain from hour 6 to day 6 ( all p < 0.05 ) .
+RESULTS	One patient in the Micro-hip group developed early aseptic loosening of the cup and underwent revision surgery at month 4 .
+RESULTS	Three patients in the Bauer group and one patient in the Micro-hip group sustained intra-operative nondisplaced fractures of the proximal femur , which were fixed with cerclages .
+RESULTS	Two patients in the Microhip group developed deep vein thrombosis during week 1 .
+CONCLUSIONS	THA through the Micro-hip approach achieved faster pain relief .
+

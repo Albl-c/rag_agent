@@ -1,0 +1,12 @@
+24510077
+OBJECTIVE	To assess LASIK flaps made by femtosecond laser and mechanical microkeratome .
+METHODS	Clinical , prospective , randomized , masked study of 32 eyes ( 16 patients ) .
+METHODS	Both eyes of all patients were operated , each patient underwent different techniques for lasik .
+METHODS	Microkeratome Hansatome ( TM ) Bausch & Lomb ( group microkeratome ) was used in one eye and femtosecond laser Femto LDV ( TM ) Ziemer ( group femtosecond ) was used for the fellow eye .
+METHODS	Patients were selected from the Refractive Surgery service of the Eye Hospital of Paran between July 2010 and September 2010 .
+METHODS	Inclusion criteria were myopia less than 6.00 D , astigmatism less than 3.00 D , hyperopia less than 5.00 D , stable refraction over one year , corneal diameter smaller than 11 mm , discontinuation of contact lenses seven days before the preoperative evaluation , corrected visual acuity of at least 20/20 .
+METHODS	Eyes were randomly allocated for each technique .
+METHODS	The studied variables were : visual acuity with and without correction , residual refractive error , high order aberrations , low contrast visual acuity , complications and subjective patient preference .
+RESULTS	All studied variables were similar between the two groups .
+CONCLUSIONS	We could not demonstrate any difference between the studied groups .
+

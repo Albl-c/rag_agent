@@ -1,0 +1,18 @@
+25608502
+BACKGROUND	Several studies have demonstrated that local ischemic preconditioning can reduce myocardial ischemia-reperfusion injury in cardiac surgery patients ; however , preconditioning has not become a standard cardioprotective intervention , primarily because of the increased risk of atheroembolism during repetitive aortic cross-clamping .
+BACKGROUND	In the present study , we aimed to describe and validate a novel technique of preconditioning induction .
+METHODS	Patients undergoing coronary artery bypass grafting ( 12 women and 78 men ; mean age , 5611years ) were randomized into 3 groups : ( 1 ) Controls ( n = 30 ) , ( 2 ) Perfusion ( n = 30 ) , and ( 3 ) Preconditioning ( n = 30 ) .
+METHODS	All patients were operated under cardiopulmonary bypass using normothermic blood cardioplegia .
+METHODS	Preconditioning was induced by subjecting the hemodynamically unloaded heart to 2cycles of 3min of ischemia and 3min of reperfusion with normokalemic blood prior to cardioplegia .
+METHODS	In the Perfusion group , the heart perfusion remained unaffected for 12min .
+METHODS	Troponin I ( TnI ) levels were analyzed before surgery , and 12 , 24 , 48h , and 7days after surgery .
+METHODS	The secondary endpoints included the cardiac index , plasma natriuretic peptide level , and postoperative use of inotropes .
+RESULTS	Preconditioning resulted in a significant reduction in the TnI level on the 7th postoperative day only ( 0.100.05 and 0.330.88 ng/ml in Preconditioning and Perfusion groups , respectively , P < 0.05 ) .
+RESULTS	In addition , cardiac index was significantly higher in the Preconditioning group than in the Control and Perfusion groups just after weaning from cardiopulmonary bypass .
+RESULTS	The number of patients requiring inotropic support with2 agents after surgery was significantly lower in the Preconditioning and Perfusion group than in the Control group ( P < 0.05 ) .
+RESULTS	No complications of the procedure were recorded in the Preconditioning group .
+CONCLUSIONS	The preconditioning procedure described can be performed safely in cardiac surgery patients .
+CONCLUSIONS	The application of this technique of preconditioning was associated with certain benefits , including improved left ventricular function after weaning from cardiopulmonary bypass and a reduced need for inotropic support .
+CONCLUSIONS	However , the infarct-limiting effect of preconditioning in the early postoperative period was not evident .
+CONCLUSIONS	The procedure does not involve repetitive aortic cross-clamping , thus avoiding possible embolic complications .
+

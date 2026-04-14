@@ -1,0 +1,11 @@
+25280410
+OBJECTIVE	Short-term dietary glucose supplementation has been shown to accelerate the gastric emptying rate of both glucose and fructose solutions .
+OBJECTIVE	The aim of this study was to examine gastric emptying rate responses to monosaccharide ingestion following short-term dietary fructose supplementation .
+METHODS	The gastric emptying rate of a fructose solution containing 36 g of fructose and an equicaloric glucose solution containing 39.6 g glucose monohydrate were measured in 10 healthy non-smoking men with and without prior fructose supplementation ( water control ) using a randomized crossover design .
+METHODS	Gastric emptying rate was assessed for a period of 1 h using the [ ( 13 ) C ] breath test with sample collections at baseline and 10-min intervals following drink ingestion .
+METHODS	Additionally , appetite ratings of hunger , fullness , and prospective food consumption were recorded at baseline and every 10 min using visual analog scales .
+RESULTS	Increased dietary fructose ingestion resulted in significantly accelerated half-emptying time of a fructose solution ( mean = 48 , SD = 6 versus 58 , SD = 14 min control ; P = 0.037 ) , whereas the emptying of a glucose solution remained unchanged ( mean = 85 , SD = 31 versus 78 , SD = 27 min control ; P = 0.273 ) .
+RESULTS	Time of maximal emptying rate of fructose was also significantly accelerated following increased dietary fructose intake ( mean = 33 , SD = 6 versus 38 , SD = 9 min control ; P = 0.042 ) , while it remained unchanged for glucose ( mean = 45 , SD = 14 versus 44 , SD = 14 min control ; P = 0.757 ) .
+RESULTS	No effects of supplementation were observed for appetite measures .
+CONCLUSIONS	Three d of supplementation with 120 g/d of fructose resulted in an acceleration of gastric emptying rate of a fructose solution but not a glucose solution .
+

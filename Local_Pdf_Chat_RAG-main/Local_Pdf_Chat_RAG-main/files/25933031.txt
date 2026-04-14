@@ -1,0 +1,14 @@
+25933031
+BACKGROUND	In postmenopausal osteoporotic women , denosumab fully inhibits teriparatide-induced bone resorption at approved doses .
+BACKGROUND	This property of denosumab is distinct from that of alendronate and likely contributes to the efficacy of combination denosumab and teriparatide therapy .
+BACKGROUND	Whether denosumab fully inhibits bone resorption when challenged by a higher dose of teriparatide is unknown .
+OBJECTIVE	We aimed to define the comparative ability of denosumab and alendronate to block the acute proresorptive effects of high-dose teriparatide .
+METHODS	In this randomized controlled trial , bone resorption ( serum C-telopeptide [ CTX ] ) was measured in 25 postmenopausal women prior to and 4 hours after a single 40-g sc teriparatide injection .
+METHODS	Subjects then received either a single injection of denosumab 60 mg or oral alendronate 70 mg weekly for 8 weeks .
+METHODS	After 8 weeks , serum CTX was again measured before and 4 hours after a teriparatide a 40-g injection .
+RESULTS	The primary outcome was the between-group difference in the teriparatide-induced change in CTX from baseline to week 8 .
+RESULTS	At baseline , 40 g of teriparatide induced similar 4-hour increases in mean CTX in both groups ( alendronate 47 % 14 % , denosumab 46 % 16 % ) .
+RESULTS	After 8 weeks , teriparatide was still able to stimulate bone resorption in women treated with alendronate ( mean CTX increase of 43 % 29 % ) but not in women treated with denosumab ( -7 % 11 % ; P < .001 for between group comparison ) .
+CONCLUSIONS	Denosumab , but not alendronate , fully inhibits the ability of high-dose teriparatide to increase bone resorption acutely .
+CONCLUSIONS	These results suggest that combining denosumab with a more potent anabolic stimulus may result in greater separation between bone resorption and formation and hence greater increases in bone mass .
+

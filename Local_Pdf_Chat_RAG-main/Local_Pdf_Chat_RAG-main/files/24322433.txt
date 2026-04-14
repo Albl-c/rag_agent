@@ -1,0 +1,13 @@
+24322433
+OBJECTIVE	The aim of this study was to compare whether the effectiveness of continuous ultrasound ( US ) was superior against pulsed US and against sham US in knee osteoarthritis .
+METHODS	A randomized controlled study was carried out on 60 patients diagnosed with knee osteoarthritis according to American College of Rheumatology .
+METHODS	The patients were randomized into the following three treatments : ( 1 ) continuous US ( at a frequency of 1 MHz with intensity of 1 W/cm ) , ( 2 ) pulse US ( same frequency and intensity on 1:4 pulse ratio ) , and ( 3 ) sham US .
+METHODS	All treatments were applied with 5-cm head US device five times a week for 2 weeks in addition to home exercise program including quadriceps isometric exercise , muscle strength exercises , and stretching exercises of the lower extremity muscles for at least three times per week .
+METHODS	Assessments were performed at baseline , at the end of the treatment , and at the end of the treatments and at the sixth month using the following measurements : Western Ontario and McMaster University Osteoarthritis Index-pain , stiffness , function , visual analog scale-pain at rest , visual analog scale-pain on movement , visual analog scale-disease severity , and 20-m walking time .
+METHODS	Among these parameters , the Western Ontario and McMaster University Osteoarthritis Index-pain was the primary outcome .
+RESULTS	All groups showed a significant improvement in all parameters in both following visits ( P < 0.05 ) .
+RESULTS	However , there was no significant difference between the groups .
+RESULTS	Although the mean reduction percent in Western Ontario and McMaster University Osteoarthritis Index-pain was significantly higher in group I ( continuous US ) when compared to sham group ( 46.5 % vs 28.9 % , P < 0.05 ) at the end of the treatment , this result was not found in other pain parameters .
+CONCLUSIONS	The present study demonstrated that all assessment parameters significantly improved in all groups without a significant difference .
+CONCLUSIONS	This result suggested that therapeutic US provided no additional benefit in improving pain and functions in addition to exercise training .
+

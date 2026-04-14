@@ -1,0 +1,10 @@
+25175762
+BACKGROUND	Childhood cancer survivors have an increased risk of developing cardiovascular disease following treatment , yet few interventions have been evaluated to reduce this risk .
+BACKGROUND	Purple grape juice ( pGJ ) , a rich source of flavonoids with antioxidant properties , has been shown in adults to reduce oxidative stress and improve endothelial function .
+BACKGROUND	We examined the effects of supplementing meals with pGJ on microvascular endothelial function and markers of oxidative stress and inflammation in 24 cancer survivors ( ages 10-21 years ) .
+METHODS	In a randomized controlled crossover trial consisting of two , 4 week intervention periods , each preceded by a 4 week washout period , subjects received in random order 6 ounces twice daily of pGJ and clear apple juice ( cAJ ; similar in calories but lower in flavonoids ) .
+METHODS	Measurements were obtained before and after each supplementation period ; change was evaluated using mixed effects ANOVA .
+RESULTS	pGJ did not improve endothelial function , measured using digital reactive hyperemia , compared with cAJ ( mean change : pGJ 0.06 , cAJ 0.22 ; difference of mean change [ 95 % CI ] : -0.16 [ -0.42 - 0.11 ] , P = 0.25 ) .
+RESULTS	No significant changes in plasma concentrations of oxidized-LDL , myeloperoxidase , or high sensitivity C-reactive protein were observed .
+CONCLUSIONS	After 4 weeks of daily consumption of flavonoid-rich pGJ , no measurable change in vascular function was observed in these childhood cancer survivors .
+

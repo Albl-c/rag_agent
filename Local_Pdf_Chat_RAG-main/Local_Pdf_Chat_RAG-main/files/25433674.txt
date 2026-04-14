@@ -1,0 +1,15 @@
+25433674
+BACKGROUND	Adherence to the Heart Failure Society of America ( HFSA ) 2010 guidelines recommending 30 minutes of supervised moderate intensity exercise five days per week is difficult for patients with heart failure ( HF ) .
+BACKGROUND	Innovative programs are needed to assist HF patients to adhere to long-term exercise .
+BACKGROUND	The objective of this prospective randomized two-group repeated measures experimental design is to determine the efficacy of a behavioral exercise training intervention on long-term adherence to exercise at 18 months in patients with heart failure .
+METHODS	A sample size of 246 subjects with heart failure will be recruited over a 3 year period .
+METHODS	All subjects receive a cardiopulmonary exercise test and 9 supervised exercise training sessions during a 3 week run-in period prior to randomization .
+METHODS	Subjects completing at least 6 of 9 training sessions are randomized to the HEART Camp Intervention group ( HC ) or to a standard care ( SC ) exercise group .
+METHODS	The HC intervention group receives cognitive-behavioral strategies that address the intervention components of knowledge , attitudes , self-efficacy , behavioral self-management skills and social support .
+METHODS	The SC group is provided access to the exercise facility and regular facility staff for the 18 month study period .
+METHODS	The primary aim is to evaluate the effect of HEART Camp on adherence to exercise , with our central hypothesis that the HC group will have significantly better adherence to exercise at 18 months .
+METHODS	Secondary aims include evaluating which components of the HEART Camp intervention mediate the effects of the intervention on adherence ; evaluating the effect of HEART Camp on specific health outcomes ; exploring selected demographic variables ( race , gender , age ) as potential moderators of the effect of the HEART Camp intervention on adherence ; and exploring the perceptions and experiences that contextualize exercise adherence .
+CONCLUSIONS	The HEART Camp intervention is the first to test a multi-component intervention designed to improve long-term adherence to exercise behavior in patients with HF .
+CONCLUSIONS	Improving long-term adherence to exercise is the logical first step to ensure the required dose of exercise that is necessary to realize beneficial health outcomes and reduce costs in this burdensome chronic illness .
+BACKGROUND	Clincaltrials.gov NCT01658670 .
+

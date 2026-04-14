@@ -1,0 +1,20 @@
+25359163
+BACKGROUND	A large body of epidemiological and experimental evidence suggests that vitamin D deficiency may promote hypertension .
+BACKGROUND	This raises the possibility that vitamin D supplementation could be a simple intervention to reduce blood pressure , but data from prospective , randomized trials are limited .
+RESULTS	A double-blind , randomized , controlled trial was conducted at 4 sites in the United States .
+RESULTS	We enrolled 534 individuals 18 to 50 years of age with low vitamin D status ( 25-hydroxyvitamin D levels 25 ng/mL ) and systolic blood pressure of 120 to 159 mm Hg .
+RESULTS	Participants were randomized to high-dose ( 4000 IU/d ) versus low-dose ( 400 IU/d ) oral vitamin D3 for 6 months .
+RESULTS	The primary end point was change in mean 24-hour systolic blood pressure .
+RESULTS	Secondary end points included change in ambulatory diastolic blood pressure and clinic systolic and diastolic blood pressures .
+RESULTS	The median age was 38 years , and 62 % of participants were men .
+RESULTS	Forty-six percent of participants were white , and 48 % were black .
+RESULTS	The median 25-hydroxyvitamin D level at baseline was 15.3 ng/mL .
+RESULTS	Four-hundred fifty-five participants ( 85 % ) had at least 1 follow-up blood pressure measurement ; 383 participants ( 72 % ) completed the full 6-month study .
+RESULTS	At the end of the study , there was no significant difference in the primary end point ( change in mean 24-hour systolic blood pressure , -0.8 versus -1.6 mm Hg in the high-dose and low-dose arms ; P = 0.71 ) or in any of the secondary end points .
+RESULTS	Furthermore , there was no evidence of association between change in 25-hydroxyvitamin D and change in 24-hour systolic blood pressure at 6 months ( Spearman correlation coefficient , -0.05 , P = 0.34 ) .
+RESULTS	Results were consistent across prespecified subgroups .
+CONCLUSIONS	Vitamin D supplementation did not reduce blood pressure in individuals with prehypertension or stage I hypertension and vitamin D deficiency .
+CONCLUSIONS	Our findings suggest that the association between vitamin D status and elevated blood pressure noted in observational studies is not causal .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT01240512 .
+

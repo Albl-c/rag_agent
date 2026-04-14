@@ -1,0 +1,16 @@
+25070960
+OBJECTIVE	Thromboxane prostaglandin receptors have been implicated to be involved in the atherosclerotic process .
+OBJECTIVE	We assessed whether Terutroban , a thromboxane prostaglandin receptor antagonist , affects the progression of atherosclerosis , as measured by common carotid intima-media thickness and carotid plaques .
+METHODS	A substudy was performed among 1141 participants of the aspirin-controlled Prevention of Cerebrovascular and Cardiovascular Events of Ischemic Origin with Terutroban in Patients with a History of Ischemic Stroke or Transient Ischemic Attack ( PERFORM ) trial .
+METHODS	Common carotid intima-media thickness and carotid plaque occurrence was measured during a 3-year period .
+RESULTS	Baseline characteristics did not differ between Terutroban ( n = 592 ) and aspirin ( n = 549 ) treated patients and were similar as in the main study .
+RESULTS	Mean study and treatment duration were similar ( 28 and 25 months , respectively ) .
+RESULTS	In the Terutroban group , the annualized rate of change in common carotid intima-media thickness was 0.006 mm per year ( 95 % confidence interval , -0.004 to 0.016 ) and -0.005 mm per year ( 95 % confidence interval , -0.015 to 0.005 ) in the aspirin group .
+RESULTS	There was no statistically significant difference between the groups in the annualized rate of change of common carotid intima-media thickness ( 0.011 mm per year ; 95 % confidence interval , -0.003 to 0.025 ) .
+RESULTS	At 12 months of follow-up , 66 % of Terutroban patients had no emergent plaques , 31 % had 1 to 2 emergent plaques , and 3 % had 3 emergent plaques .
+RESULTS	In the aspirin group , the corresponding percentages were 64 % , 32 % , and 4 % .
+RESULTS	Over time , there was no statistically significant difference in the number of emergent carotid plaques between treatment modalities ( rate ratio , 0.91 ; 95 % confidence interval , 0.77-1 .07 ) .
+CONCLUSIONS	Compared with aspirin , Terutroban did not beneficially affect progression of carotid atherosclerosis among well-treated patients with a history of ischemic stroke or transient ischemic attacks with an internal carotid stenosis < 70 % .
+BACKGROUND	http://www.controlled-trials.com .
+BACKGROUND	Unique identifier : ISRCTN66157730 .
+

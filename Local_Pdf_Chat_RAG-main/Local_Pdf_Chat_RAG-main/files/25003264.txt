@@ -1,0 +1,10 @@
+25003264
+BACKGROUND	The addition of glutamine in preoperative drinks may enhance the benefits of carbohydrate alone .
+OBJECTIVE	To evaluate the gastric residual volume after the intake of a beverage containing carbohydrate plus glutamine .
+METHODS	Eleven healthy volunteers ( 24-30 years-old ) were randomized in a crossover fashion to intake 400 mL ( 4h before ) and 200 mL ( 2h before ) of a beverage containing either 12.5 % maltodextrin ( carbohydrate group ) or 12.5 % maltodextrin plus 15 g of glutamine ( glutamine group ) in two different moments 7 days apart .
+METHODS	Magnetic ressonance was performed to measure the gastric residual volume ( mL ) 120 and 180 minutes after the last ingestion .
+RESULTS	Gastric residual volume similar to basal condition was found after 2h and 3h of the intake of beverages .
+RESULTS	There was no difference in the mean SD GRV ( mL ) found at 120 minutes ( carbohydrate group : 22.916.6 and glutamine group : 19.710.7 ) and at 180 minutes ( carbohydrate group : 21.524.1 and glutamine group : 15.110.1 ) between the two drinks .
+CONCLUSIONS	Gastric emptying is efficient , and occurs in up to two hours after the intake of a beverage containing either carbohydrate alone or carbohydrate associated with glutamine .
+CONCLUSIONS	The addition of glutamine to carbohydrate-enriched drink seems to be safe for the use up to 2h before an operation .
+

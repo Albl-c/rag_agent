@@ -1,0 +1,17 @@
+24682569
+OBJECTIVE	Inappropriate implantable cardioverter defibrillators ( ICD ) therapies have been associated with multiple adverse effects , including worse quality of life and prognosis .
+OBJECTIVE	We evaluated the possibility of predicting atrial fibrillation ( AF ) - related inappropriate ICD shocks through continuous monitoring of device diagnostics .
+METHODS	1404 ICD patients were prospectively followed in an observational research by 74 Italian cardiology centres .
+METHODS	Device diagnostics stored daily information on AF duration and ventricular rate ( VR ) during AF .
+METHODS	Uncontrolled VR was defined as mean VR > 80 beats per minute ( bpm ) and maximum VR > 110 bpm .
+METHODS	Expert electrophysiologists reviewed the ventricular tachycardia/ventricular fibrillation ( VT/VF ) episodes electrograms , stored in the device memory , and classified appropriate detections , inappropriate detection mechanisms and ICD therapy outcomes .
+RESULTS	Over a median follow-up of 31 months , 511 ( 36 % ) patients suffered spontaneous VT/VF , which were treated by ICD shocks in a subgroup of 189 ( 13 % ) patients .
+RESULTS	Inappropriate detections occurred in 232 ( 16 % ) patients , and inappropriate ICD shocks in 101 ( 7 % ) patients .
+RESULTS	AF was the cause of inappropriate shocks in 60 patients .
+RESULTS	AF caused 144 inappropriate shocks : 53 % of all inappropriate shocks .
+RESULTS	The likelihood of experiencing AF-related inappropriate shocks was 2.4 % at 1 year and 6 % at 5 years .
+RESULTS	Uncontrolled VR during AF proved to be an independent predictor of AF-related inappropriate shocks ( OR = 3.02 , p = 0.006 ) ; an alarm set at a VR > 90 bpm or 100 bpm was associated with prediction of AF-related inappropriate shocks with a sensitivity of 73 % or 62 % , respectively .
+CONCLUSIONS	AF is the most common cause of inappropriate shocks in ICD patients .
+CONCLUSIONS	Continuous remote monitoring of VR during AF would promptly and efficiently predict AF-related inappropriate shocks .
+BACKGROUND	http://clinicaltrials.gov/ct2/show/NCT01007474 .
+

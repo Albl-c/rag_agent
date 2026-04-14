@@ -1,0 +1,8 @@
+24734247
+OBJECTIVE	This study investigated long-term effects and implementation processes of workplace strength training for musculoskeletal disorders .
+METHODS	333 and 140 laboratory technicians from private and public sector companies , respectively , replied to a 3-year follow-up questionnaire subsequent to a 1-year randomized controlled trial ( RCT ) with high-intensity strength training for prevention and treatment of neck , shoulder , and arm pain .
+METHODS	Being a natural experiment , the two participating companies implemented and modified the initial training program in different ways during the subsequent 2 years after the RCT .
+RESULTS	At 3-year follow-up the pain reduction in neck , shoulder , elbow , and wrist achieved during the first year was largely maintained at both companies .
+RESULTS	However , the private sector company was rated significantly better than the public sector company in ( 1 ) training adherence , ( 2 ) training culture , that is , relatively more employees trained at the workplace and with colleagues , ( 3 ) self-reported health changes , and ( 4 ) prevention of neck and wrist pain development among initially pain-free employees .
+CONCLUSIONS	This natural experiment shows that strength training can be implemented successfully at different companies during working hours on a long-term basis with lasting effects on pain in neck , shoulder , and arm .
+

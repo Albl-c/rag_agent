@@ -1,0 +1,13 @@
+25086653
+BACKGROUND	There are currently no serum biomarkers capable of distinguishing elevations in serum alanine aminotransferase ( ALT ) that portend serious liver injury potential from benign elevations such as those occurring during cholestyramine treatment .
+BACKGROUND	The aim of the research was to test the hypothesis that newly proposed biomarkers of hepatotoxicity would not significantly rise in serum during elevations in serum ALT associated with cholestyramine treatment , which has never been associated with clinically relevant liver injury .
+METHODS	In a double-blind placebo-controlled trial , cholestyramine ( 8g ) was administered for 11 days to healthy adult volunteers .
+METHODS	Serum from subjects with elevations in alanine aminotransferase ( ALT ) exceeding three-fold the upper limit of normal ( ULN ) were utilized for biomarker quantification .
+RESULTS	In 11 of 67 subjects , cholestyramine treatment resulted in ALT elevation by > 3x ULN ( mean 6.9 fold ; range 3-28 fold ) .
+RESULTS	In these 11 subjects , there was a 22.4-fold mean increase in serum levels of miR-122 relative to baseline , supporting a liver origin of the serum ALT .
+RESULTS	Significant elevations were noted in mean levels of necrosis biomarkers sorbitol dehydrogenase ( 8.1 fold ) , cytokeratin 18 ( 2.1 fold ) and HMGB1 ( 1.7 fold ) .
+RESULTS	Caspase-cleaved cytokeratin 18 , a biomarker of apoptosis was also significantly elevated ( 1.7 fold ) .
+RESULTS	A rise in glutamate dehydrogenase ( 7.3 fold ) may support mitochondrial dysfunction .
+CONCLUSIONS	All toxicity biomarkers measured in this study were elevated along with ALT , confirming the liver origin and reflecting both hepatocyte necrosis and apoptosis .
+CONCLUSIONS	Since cholestyramine treatment has no clinical liver safety concerns , we conclude that interpretation of the biomarkers studied may not be straightforward in the context of assessing liver safety of new drugs .
+

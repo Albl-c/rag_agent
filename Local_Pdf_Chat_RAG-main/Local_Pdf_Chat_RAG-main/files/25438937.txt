@@ -1,0 +1,14 @@
+25438937
+OBJECTIVE	Vitamin D insufficiency has been associated with impaired pancreatic beta-cell function .
+OBJECTIVE	We aimed to determine if high dose oral vitamin D3 ( D ) improves beta-cell function and glycaemia in type 2 diabetes .
+METHODS	Fifty adults with type 2 diabetes diagnosed less than 12 months , with normal baseline serum 25-OH D ( 25D ) , were randomised to 6000 IU D ( n = 26 ) or placebo ( n = 24 ) daily for 6 months .
+METHODS	Beta-cell function was measured by glucagon-stimulated serum C-peptide ( delta C-peptide [ DCP ] , nmol/l ) .
+METHODS	Secondary outcome measures were fasting plasma glucose ( FPG ) , post-prandial blood glucose ( PPG ) , HbA1c and insulin resistance ( HOMA-IR ) .
+RESULTS	In the D group , median serum 25D ( nmol/l ) increased from 59 to 150 ( 3 months ) and 128 ( 6 months ) and median serum 1,25 D ( pmol/l ) from 135 to 200 and 190 .
+RESULTS	After 3 months , change in DCP from baseline in D ( +0.04 ) and placebo ( -0.08 ) was not different ( P = 0.112 ) .
+RESULTS	However , change in FPG ( mmol/l ) was significantly lower in D ( -0.40 ) compared to placebo ( +0.1 ) ( P = 0.007 ) , as was the change in PPG in D ( -0.30 ) compared to placebo ( +0.8 ) ( P = 0.005 ) .
+RESULTS	Change in HbA1c ( % ) between D ( -0.20 ) and placebo ( -0.10 ) was not different ( P = 0.459 ) .
+RESULTS	At 6 months , changes from baseline in DCP , FPG , PPG and HbA1c were not different between groups .
+CONCLUSIONS	Oral D3 supplementation in type 2 diabetes was associated with transient improvement in glycaemia , but without a measurable change in beta-cell function this effect is unlikely to be biologically significant .
+CONCLUSIONS	High dose D3 therefore appears to offer little or no therapeutic benefit in type 2 diabetes .
+

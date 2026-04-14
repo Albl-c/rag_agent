@@ -1,0 +1,11 @@
+24397879
+OBJECTIVE	Acute kidney injury ( AKI ) after cardiac surgery procedures is associated with poor patient outcomes .
+OBJECTIVE	Cystatin C as a marker for renal failure has been shown to be of prognostic value ; however , a wide range of its predictive accuracy has been reported .
+OBJECTIVE	The aim of the study was to evaluate whether the measurement of pre - and postoperative serum cystatin C improves the prediction of AKI .
+METHODS	In a single-centre , prospective study of 70 patients ( 74 9 ys ; range 47-85 ys ; 77 % male ) , cystatin C was measured six times : ( T1 = preoperative , T2 = start cardiopulmonary bypass ( CPB ) , T3 = 20 min after CPB , T4 = end of operation ; T5 = 24 h postoperatively ; T6 = 7d postoperatively ) .
+METHODS	Predictive property , in terms of the need for renal replacement therapy ( RRT ) , was analysed by receiver operating characteristics ( ROC ) statistics and described by the area under the curve ( AUC ) .
+RESULTS	With respect to RRT ( n = 8 ) , serum cystatin C was significantly higher at the end of the operation ( T4 ) , 24 h postoperatively at T5 and at T6 .
+RESULTS	The AUCs for preoperative T1 and intraoperative T2/3 cystatin C were < 0.7 ( 95 % CI , 0.47-0 .85 ) .
+RESULTS	The earliest significant predictive AUCs were found at the end of the operation ( T4 : p = 0.03 95 % CI 0.58-0 .88 AUC 0.73 ) and 24 h postoperatively ( T5 : p = 0.003 95 % CI 0.74-0 .96 AUC 0.85 ) .
+CONCLUSIONS	Early postoperative serum cystatin C increase appears to be a moderate biomarker in the prediction of AKI , whereas a preoperative and intraoperative cystatin C increase has only a limited diagnostic and predictive value .
+

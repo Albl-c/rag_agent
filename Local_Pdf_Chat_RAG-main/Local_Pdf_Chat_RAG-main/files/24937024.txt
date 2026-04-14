@@ -1,0 +1,12 @@
+24937024
+OBJECTIVE	This study aims to evaluate the treatment effects of physical exercise on menopausal symptoms in middle-aged female medical staff experiencing perimenopausal syndrome .
+METHODS	A total of 157 female medical staff aged 40 to 55 years and with a Kupperman index score of 15 points or higher were randomized 1:1 into an intervention group ( n = 78 ) or a control group ( n = 79 ) .
+METHODS	Women in the intervention group were asked to perform aerobic physical exercise ( walking with strides ) three times a week or more , whereas those in the control group continued as normal .
+METHODS	Measurements were taken at baseline and on weeks 4 , 8 , and 12 , with total Kupperman index score , scores on individual elements of the scale , weight , and waist circumference recorded .
+METHODS	In addition , fasting blood glucose , triglycerides , total cholesterol , high-density lipoprotein cholesterol , and low-density lipoprotein cholesterol were recorded at baseline and on week 12 .
+METHODS	The effects of physical exercise therapy on perimenopausal syndrome were evaluated by comparing changes in these parameters between the control group and the intervention group .
+RESULTS	Fifty-four and 57 women completed all three follow-ups in the intervention and control groups , respectively .
+RESULTS	On week 12 , the mean ( SD ) change in total Kupperman index score ( -9.23 [ 6.23 ] ) from baseline to week 12 ; the mean ( SD ) changes in individual scores for paresthesia ( -1.08 [ 1.51 ] ) , insomnia ( -1.00 [ 1.46 ] ) , irritability ( -1.00 [ 1.34 ] ) , joint or muscle pain ( -0.75 [ 0.74 ] ) , fatigue ( -0.56 [ 0.75 ] ) , headache ( -0.54 [ 0.75 ] ) , formication ( -0.38 [ 0.66 ] ) , and sexual life ( -0.62 [ 1.71 ] ) ; and the mean ( SD ) changes in total cholesterol ( -0.76 [ 0.63 ] mmol/L ) and triglycerides ( -0.20 [ 0.50 ] mmol/L ) were significantly higher in the intervention group than in the control group ( P < 0.05 ) .
+RESULTS	In the intervention group , total Kupperman index score , weight , body mass index , waist circumference , triglycerides , and total cholesterol were significantly lower on week 12 compared with baseline ( P < 0.05 ) .
+CONCLUSIONS	Physical exercise can substantially reduce menopausal symptoms and improve blood lipid status and body weight .
+

@@ -1,0 +1,11 @@
+25064019
+BACKGROUND	Research on contingency management to treat excessive alcohol use is limited due to feasibility issues with monitoring adherence .
+BACKGROUND	This study examined the effectiveness of using transdermal alcohol monitoring as a continuous measure of alcohol use to implement financial contingencies to reduce heavy drinking .
+METHODS	Twenty-six male and female drinkers ( from 21 to 39 years old ) were recruited from the community .
+METHODS	Participants were randomly assigned to one of the two treatment sequences .
+METHODS	Sequence 1 received 4 weeks of no financial contingency ( i.e. , $ 0 ) drinking followed by 4 weeks each of $ 25 and then $ 50 contingency management ; Sequence 2 received 4 weeks of $ 25 contingency management followed by 4 weeks each of no contingency ( i.e. , $ 0 ) and then $ 50 contingency management .
+METHODS	During the $ 25 and $ 50 contingency management conditions , participants were paid each week when the Secure Continuous Remote Alcohol Monitor ( SCRAM-II ) identified no heavy drinking days .
+RESULTS	Participants in both contingency management conditions had fewer drinking episodes and reduced frequencies of heavy drinking compared to the $ 0 condition .
+RESULTS	Participants randomized to Sequence 2 ( receiving $ 25 contingency before the $ 0 condition ) exhibited less frequent drinking and less heavy drinking in the $ 0 condition compared to participants from Sequence 1 .
+CONCLUSIONS	Transdermal alcohol monitoring can be used to implement contingency management programs to reduce excessive alcohol consumption .
+

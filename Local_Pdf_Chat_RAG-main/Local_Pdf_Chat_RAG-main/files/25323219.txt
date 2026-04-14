@@ -1,0 +1,13 @@
+25323219
+OBJECTIVE	A review on headache and insomnia revealed that insomnia is a risk factor for increased headache frequency and headache intensity in migraineurs .
+OBJECTIVE	The authors designed a randomized , double blind , placebo-controlled , parallel-group , pilot study in which migraineurs who also had insomnia were enrolled , to test this observation .
+METHODS	In the study , the authors treated 79 subjects with IHS-II migraine with and/or without aura and with DSM-IV primary insomnia for 6 weeks with 3 mg eszopiclone ( Lunesta ( ) ) or placebo at bedtime .
+METHODS	The treatment was preceded by a 2-week baseline period and followed by a 2-week run-out period .
+RESULTS	Of the 79 subjects treated , 75 were evaluable , 35 in the eszopiclone group , and 40 in the placebo group .
+RESULTS	At baseline , the groups were comparable except for sleep latency .
+RESULTS	Of the three remaining sleep variables , total sleep time , nighttime awakenings , and sleep quality , the number of nighttime awakenings during the 6-week treatment period was significantly lower in the eszopiclone group than in the placebo group ( P = 0.03 ) .
+RESULTS	Of the three daytime variables , alertness , fatigue , and functioning , this was also the case for fatigue ( P = 005 ) .
+RESULTS	The headache variables , frequency , duration , and intensity , did not show a difference from placebo during the 6-week treatment period .
+CONCLUSIONS	The study did not meet primary endpoint , that is , the difference in total sleep time during the 6-week treatment period between eszopiclone and placebo was less than 40 minutes .
+CONCLUSIONS	Therefore , it failed to answer the question as to whether insomnia is , indeed , a risk factor for increased headache frequency and headache intensity in migraineurs .
+

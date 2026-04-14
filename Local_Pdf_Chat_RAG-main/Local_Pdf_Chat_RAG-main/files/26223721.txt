@@ -1,0 +1,14 @@
+26223721
+OBJECTIVE	To investigate the effects of different types of nasal packings on middle ear pressure in patients undergoing septoplasty .
+METHODS	Sixty patients who were suffering from nasal obstruction and who had to undergo septoplasty because of nasal septal deviation were included in the study .
+METHODS	After the septoplasty , Merocel packings and internal nasal splints were intraoperatively applied in thirty patients each .
+METHODS	Middle ear pressure was evaluated by tympanometry .
+METHODS	Tympanometric peak pressures were used for this aim .
+METHODS	Acoustic impedance measurements were performed in both ears , and the average values of the two ears were calculated .
+METHODS	Tympanometric measurements were performed for patients during the preoperative period and on the 2 ( nd ) and 5 ( th ) postoperative days .
+RESULTS	There were 30 ( 5 females , 25 males ; average age 23 years ) patients in the internal nasal splint group and 30 ( 8 females , 22 males ; average age 26 years ) patients in the anterior Merocel packing group .
+RESULTS	When the values obtained by acoustic impedancemetry before the operation and on the postoperative 5 ( th ) day were compared , there was no statistically significant difference between the groups .
+RESULTS	The middle ear pressure significantly decreased in the anterior Merocel packing group compared with that in the internal nasal splint group .
+RESULTS	The intragroup comparison of the acoustic impedance measurements of the internal nasal splint group revealed no significant difference between the preoperative acoustic impedance values and the values obtained on the postoperative 2 ( nd ) day .
+CONCLUSIONS	Cannulated silicone intranasal splints are better in terms of patient comfort after an intranasal surgery without effecting eustachian tube function .
+

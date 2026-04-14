@@ -1,0 +1,16 @@
+25420431
+BACKGROUND	Patients with bipolar disorder often show decreased adherence with mood stabilizers and frequently interventions on prodromal depressive and manic symptoms are delayed .
+BACKGROUND	Recently , the MONARCA I randomized controlled trial investigated the effect of electronic self-monitoring using smartphones on depressive and manic symptoms .
+BACKGROUND	The findings suggested that patients using the MONARCA system had more sustained depressive symptoms than patients using a smartphone for normal communicative purposes , but had fewer manic symptoms during the trial .
+BACKGROUND	It is likely that the ability of these self-monitored measures to detect prodromal symptoms of depression and mania may be insufficient compared to automatically generated objective data on measures of illness activity such as phone usage , social activity , physical activity , and mobility .
+BACKGROUND	The Monsenso system , for smartphones integrating subjective and objective measures of illness activity was developed and will be tested in the present trial .
+METHODS	The MONARCA II trial uses a randomized controlled single-blind parallel-group design .
+METHODS	Patients with bipolar disorder according to ICD-10 who previously have been treated at the Copenhagen Clinic for Affective Disorder , Denmark are included and randomized to either daily use of the Monsenso system including an feedback loop between patients and clinicians ( the intervention group ) or to the use of a smartphone for normal communicative purposes ( the control group ) for a 9-month trial period .
+METHODS	The trial was started in September 2014 and recruitment is ongoing .
+METHODS	The outcomes are : differences in depressive and manic symptoms ; rate of depressive and manic episodes ( primary ) ; automatically generated objective data on measures of illness activity ; number of days hospitalized ; psychosocial functioning ( secondary ) ; perceived stress ; quality of life ; self-rated depressive symptoms ; self-rated manic symptoms ; recovery ; empowerment and adherence to medication ( tertiary ) between the intervention group and the control group during the trial .
+METHODS	Ethical permission has been obtained .
+METHODS	Positive , neutral and negative findings will be published .
+CONCLUSIONS	If the system is effective in reducing depressive and/or manic symptoms ( and other symptoms of bipolar disorder ) and the rate of episodes , there will be basis for extending the use to the treatment of bipolar disorder in general and in larger scale .
+BACKGROUND	ClinicalTrials.gov NCT02221336 .
+BACKGROUND	Registered 26th of September 2014 .
+

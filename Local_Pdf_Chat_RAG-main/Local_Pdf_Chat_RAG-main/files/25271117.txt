@@ -1,0 +1,16 @@
+25271117
+OBJECTIVE	To evaluate basal and prandial insulin initiation and titration in people with type 2 diabetes mellitus ( T2DM ) in primary care and to explore the feasibility of retrospective-continuous glucose monitoring ( r-CGM ) in guiding insulin dosing .
+OBJECTIVE	The new model of care features General Practitioners ( GPs ) and Practice Nurses ( PNs ) working in an expanded role , with Credentialed Diabetes Educator - Registered Nurse ( CDE-RN ) support .
+METHODS	Insulin-nave T2DM patients ( HbA1c > 7.5 % [ > 58 mmol/mol ] despite maximal oral therapy ) from 22 general practices in Victoria , Australia commenced insulin glargine , with glulisine added as required .
+METHODS	Each was randomised to receive r-CGM or self-monitoring of blood glucose ( SMBG ) .
+METHODS	Glycaemic control ( HbA1c ) was benchmarked against specialist ambulatory patients referred for insulin initiation .
+RESULTS	Ninety-two patients mean age ( range ) 59 ( 28-77 ) years ; 40 % female ; mean ( SD ) diabetes duration 10.5 ( 6.1 ) years participated .
+RESULTS	HbA1c decreased from ( median ( IQR ) ) 9.9 ( 8.8 , 11.2 ) % ; 85 ( 73 , 99 ) mmol/mol to 7.3 ( 6.9 , 7.8 ) % ; 56 ( 52 , 62 ) mmol/mol at 24 weeks ( p < 0.0001 ) .
+RESULTS	Comparing r-CGM ( n = 46 ) with SMBG ( n = 42 ) , there were no differences in major hypoglycaemia ( p = 0.17 ) or HbA1c ( p = 0.31 ) .
+RESULTS	More r-CGM than SMBG participants commenced glulisine ( 26/48 vs. 7/44 ; p < 0.001 ) .
+RESULTS	Results were comparable to 82 benchmark patients , with similar low rates of major hypoglycaemia ( 2/89 vs. 0/82 ; p = 0.17 ) and less loss to follow up in the INITIATION group ( 3/92 vs. 14/82 ; p = 0.002 ) .
+CONCLUSIONS	Insulin initiation and titration for T2DM patients in primary care was safe and improved HbA1c with low rates of major hypoglycaemia .
+CONCLUSIONS	CDE-RNs were effective in a new consultant role .
+CONCLUSIONS	r-CGM use in primary care was feasible and enhanced post-prandial hyperglycaemia recognition .
+CONCLUSIONS	Trial registration ACTRN12610000797077 .
+

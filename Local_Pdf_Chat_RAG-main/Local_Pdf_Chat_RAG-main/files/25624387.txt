@@ -1,0 +1,15 @@
+25624387
+BACKGROUND	Pediatric sleep disordered breathing is often caused by hypertrophy of the tonsils and is commonly managed by tonsillectomy .
+BACKGROUND	There is controversy regarding which postsurgical analgesic agents are safe and efficacious .
+METHODS	This prospective randomized clinical trial recruited children who had sleep disordered breathing who were scheduled for tonsillectomy + / - adenoid removal .
+METHODS	Parents were provided with a pulse oximeter to measure oxygen saturation and apnea events the night before and the night after surgery .
+METHODS	Children were randomized to receive acetaminophen with either 0.2-0 .5 mg/kg oral morphine or 10 mg/kg of oral ibuprofen .
+METHODS	The Objective Pain Scale and Faces Scale were used to assess effectiveness on postoperative day 1 and day 5 .
+METHODS	The primary endpoint was changes in respiratory parameters during sleep .
+RESULTS	A total of 91 children aged 1 to 10 years were randomized .
+RESULTS	On the first postoperative night , with respect to oxygen desaturations , 86 % of children did not show improvement in the morphine group , whereas 68 % of ibuprofen patients did show improvement ( 14 % vs 68 % ; P < .01 ) .
+RESULTS	The number of desaturation events increased substantially in the morphine group , with an average increase of 11.17 15.02 desaturation events per hour ( P < .01 ) .
+RESULTS	There were no differences seen in analgesic effectiveness , tonsillar bleeding , or adverse drug reactions .
+CONCLUSIONS	Ibuprofen in combination with acetaminophen provides safe and effective analgesia in children undergoing tonsillectomy .
+CONCLUSIONS	Post-tonsillectomy morphine use should be limited , as it may be unsafe in certain children .
+

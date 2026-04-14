@@ -1,0 +1,14 @@
+24761794
+BACKGROUND	To determine the relationship between type three secretion genotype and fluoroquinolone resistance for P. aeruginosa strains isolated from microbial keratitis during the Steroids for Corneal Ulcers Trial ( SCUT ) and for two laboratory strains , PA103 and PAO1 .
+METHODS	Confirmed P. aeruginosa isolates from the SCUT were divided into exoU ( + ) or exoU ( - ) .
+METHODS	The exoU ( + ) strains contained the gene encoding ExoU , a powerful phospholipase toxin delivered into host cells by the type three secretion system .
+METHODS	Isolates were then assessed for susceptibility to fluoroquinolone , cephalosporin , and aminoglycoside antibiotics using disk diffusion assays .
+METHODS	Etest was used to determine the MIC of moxifloxacin and other fluoroquinolones .
+METHODS	Laboratory isolates in which the exoU gene was added or deleted were also tested .
+RESULTS	A significantly higher proportion of exoU ( + ) strains were resistant to ciprofloxacin ( p = 0.001 ) , gatifloxacin ( p = 0.003 ) , and ofloxacin ( p = 0.002 ) compared to exoU ( - ) isolates .
+RESULTS	There was no significant difference between exoU ( + ) or exoU ( - ) negative isolates with respect to susceptibility to other antibiotics except gentamicin .
+RESULTS	Infections involving resistant exoU ( + ) strains trended towards worse clinical outcome .
+RESULTS	Deletion or acquisition of exoU in laboratory isolates did not affect fluoroquinolone susceptibility .
+CONCLUSIONS	Fluoroquinolone susceptibility of P. aeruginosa isolated from the SCUT is consistent with previous studies showing elevated resistance involving exoU encoding ( cytotoxic ) strains , and suggest worse clinical outcome from infections involving resistant isolates .
+CONCLUSIONS	Determination of exoU expression in clinical isolates of P. aeruginosa may be helpful in directing clinical management of patients with microbial keratitis .
+

@@ -1,0 +1,11 @@
+26054142
+OBJECTIVE	To compare the difference of the clinical efficacy in treatment of nervous tinnitus of kidney deficiency between the combined therapy of Zhuang medicine at Qineihuan point combined with the conventional acupuncture and simple conventional acupancture .
+METHODS	Sixty patients were randomized into an observation group and a control group , 30 cases in each one .
+METHODS	In the control group , the conventional acupuncture was applied to Taixi ( KI 3 ) , Zhaohai ( KI 6 ) , Tinggong ( SI 19 ) and Waiguan ( TE 5 ) , etc. and the needles were retained for 30 min .
+METHODS	In the observation group , on the basic treatment as the control group , Zhuang medicine acupuncture at Qineihuan point was added .
+METHODS	The treatment was given once every day , 10 treatments made one session and there were 2 days of interval between the sessions .
+METHODS	In 3 sessions of treatment , the changes of tinnitus were observed and the clinical efficacy was evaluated .
+RESULTS	After treatment , tinnitus score and tinnitus grade were all improved as compared with those before treatment in the two groups ( all P < 0.05 ) and the results in the observation group were better than those in the control group ( all P < 0.05 ) .
+RESULTS	The curative and remarkably effective rate was 63.3 % ( 19/30 ) and the total effective rate was 93.3 % ( 28/30 ) in the observation group , better than 30.0 % ( 9/30 ) and 73.3 % ( 22/30 ) in the control group ( both P < 0.05 ) .
+CONCLUSIONS	The combined therapy of Zhuang medicine at Qineihuan point and conventional acupuncture achieves the better efficacy on nervous tinnitus of kidney deficiency as compared with the simple conventional acupuncture .
+

@@ -1,0 +1,15 @@
+25693055
+OBJECTIVE	To investigate a new therapeutic strategy , with rapid corticosteroid dose tapering and limited cyclophosphamide ( CYC ) exposure , for older patients with systemic necrotizing vasculitides ( SNVs ; polyarteritis nodosa [ PAN ] , granulomatosis with polyangiitis [ Wegnener 's ] [ GPA ] , microscopic polyangiitis [ MPA ] , or eosinophilic GPA [ Churg-Strauss ] [ EGPA ] ) .
+METHODS	A multicenter , open-label , randomized controlled trial comprising patients 65 years old and newly diagnosed as having SNV was conducted .
+METHODS	The experimental treatment consisted of corticosteroids for 9 months and a maximum of six 500-mg fixed-dose intravenous ( IV ) CYC pulses , every 2-3 weeks , then maintenance azathioprine or methotrexate .
+METHODS	The control treatment included 26 months of corticosteroids for all patients , combined with 500 mg/m ( 2 ) IV CYC pulses , every 2-3 weeks until remission , then maintenance for all patients with GPA or MPA and for those with EGPA or PAN with a Five-Factors Score ( FFS ) of 1 .
+METHODS	Randomization used a 1:1 ratio computer-generated list and was performed centrally with sealed opaque envelopes .
+METHODS	The primary outcome measure was 1 serious adverse event ( SAE ) occurring within 3 years of followup .
+METHODS	Secondary outcome measures included remission and relapse rates .
+RESULTS	Among the 108 patients randomized , 4 were excluded ( early consent withdrawal or protocol violation ) .
+RESULTS	Mean SD age at diagnosis was 75.2 6.3 years .
+RESULTS	Analysis at 3 years included 53 patients ( 21 GPA , 21 MPA , 8 EGPA , and 3 PAN ) in the experimental arm and 51 patients ( 15 GPA , 23 MPA , 6 EGPA , and 7 PAN ) in the conventional arm .
+RESULTS	In total , 32 ( 60 % ) versus 40 ( 78 % ) had 1 SAE ( P = 0.04 ) , most frequently infections ; 6 ( 11 % ) versus 7 ( 14 % ) failed to achieve remission ( P = 0.71 ) ; 9 ( 17 % ) versus 12 ( 24 % ) died ( P = 0.41 ) ; and 20 ( 44 % ) of 45 versus 12 ( 29 % ) of 41 survivors in remission experienced a relapse ( P = 0.15 ) .
+CONCLUSIONS	For older SNV patients , an induction regimen limiting corticosteroid exposure and with fixed low-dose IV CYC pulses reduces SAEs in comparison to conventional therapy , and does not affect the remission rate .
+CONCLUSIONS	Three-year relapse rates remain high for both arms .
+

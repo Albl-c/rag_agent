@@ -1,0 +1,12 @@
+24866311
+OBJECTIVE	Obesity in children and adolescents is associated to a morbidity that has increased significantly .
+OBJECTIVE	It has become a public health problem around the world .
+OBJECTIVE	The objective of this paper was to evaluate the efficacy of the cognitive behavioral treatment strategy in the comprehensive management of obesity in adolescents .
+METHODS	Double blind , randomized , and controlled intervention study , of four months of follow-up , with a total of 115 obese adolescents , aged 12 to 16 years .
+METHODS	The intervention group received cognitive behavioral treatment strategy , as well as advise on diet and exercise .
+METHODS	At the same time , the control group only received advise on diet and exercise .
+RESULTS	The percentage of adolescents who showed adherence to diet was 73.7 % versus 41.4 % , ( p = 0.0009 ) and to exercise , 61.4 % versus 19.0 % , ( p < 0.0005 ) ; compared with the control group , the intervention group was significantly higher .
+RESULTS	A total of 10 adolescents ( 17.5 % ) in the intervention group and 26 ( 44.8 % ) in the control group dropped-out ( p = 0.003 ) .
+RESULTS	Despite there were significant differences between groups , adolescents in the intervention group exhibited a higher and sustained decrease in body weight , body mass index , as well as in the body fat percentage .
+CONCLUSIONS	The cognitive behavioral treatment strategy improves adherence and decreases desertion of the weight reduction program in adolescents .
+

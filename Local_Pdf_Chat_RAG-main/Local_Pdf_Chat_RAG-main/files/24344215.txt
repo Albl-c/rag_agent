@@ -1,0 +1,11 @@
+24344215
+OBJECTIVE	From 2002 to 2007 , the International Berlin-Frankfurt-Mnster Study Group conducted a prospective randomized clinical trial ( ALL IC-BFM 2002 ) for the management of childhood acute lymphoblastic leukemia ( ALL ) in 15 countries on three continents .
+OBJECTIVE	The aim of this trial was to explore the impact of differential delayed intensification ( DI ) on outcome in all risk groups .
+METHODS	For this trial , 5,060 eligible patients were divided into three risk groups according to age , WBC , early treatment response , and unfavorable genetic aberrations .
+METHODS	DI was randomized as follows : standard risk ( SR ) , two 4-week intensive elements ( protocol III ) versus one 7-week protocol II ; intermediate risk ( IR ) , protocol III 3 versus protocol II 1 ; high risk ( HR ) , protocol III 3 versus either protocol II 2 ( Associazione Italiana Ematologia Oncologia Pediatrica [ AIEOP ] option ) , or 3 HR blocks plus single protocol II ( Berlin-Frankfurt-Mnster [ BFM ] option ) .
+RESULTS	At 5 years , the probabilities of event-free survival and survival were 74 % ( 1 % ) and 82 % ( 1 % ) for all 5,060 eligible patients , 81 % and 90 % for the SR ( n = 1,564 ) , 75 % and 83 % for the IR ( n = 2,650 ) , and 55 % and 62 % for the HR ( n = 846 ) groups , respectively .
+RESULTS	No improvement was accomplished by more intense and/or prolonged DI .
+CONCLUSIONS	The ALL IC-BFM 2002 trial is a good example of international collaboration in pediatric oncology .
+CONCLUSIONS	A wide platform of countries able to run randomized studies in ALL has been established .
+CONCLUSIONS	Although the alternative DI did not improve outcome compared with standard treatment and the overall results are worse than those achieved by longer established leukemia groups , the national results have generally improved .
+

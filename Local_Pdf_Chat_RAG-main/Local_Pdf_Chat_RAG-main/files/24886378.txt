@@ -1,0 +1,14 @@
+24886378
+BACKGROUND	The timely publication of findings in peer-reviewed journals is a primary goal of clinical research .
+BACKGROUND	In clinical trials , the processes leading to publication can be complex from choice and prioritization of analytic topics through to journal submission and revisions .
+BACKGROUND	As little literature exists on the publication process for multicenter trials , we describe the development , implementation , and effectiveness of such a process in a multicenter trial .
+METHODS	The Hepatitis C Antiviral Long-Term Treatment against Cirrhosis ( HALT-C ) trial included a data coordinating center ( DCC ) and clinical centers that recruited and followed more than 1,000 patients .
+METHODS	Publication guidelines were approved by the steering committee , and the publications committee monitored the publication process from selection of topics to publication .
+RESULTS	A total of 73 manuscripts were published in 23 peer-reviewed journals .
+RESULTS	When manuscripts were closely tracked , the median time for analyses and drafting of manuscripts was 8months .
+RESULTS	The median time for data analyses was 5months and the median time for manuscript drafting was 3months .
+RESULTS	The median time for publications committee review , submission , and journal acceptance was 7months , and the median time from analytic start to journal acceptance was 18months .
+CONCLUSIONS	Effective publication guidelines must be comprehensive , implemented early in a trial , and require active management by study investigators .
+CONCLUSIONS	Successful collaboration , such as in the HALT-C trial , can serve as a model for others involved in multidisciplinary and multicenter research programs .
+BACKGROUND	The HALT-C Trial was registered with clinicaltrials.gov ( NCT00006164 ) .
+

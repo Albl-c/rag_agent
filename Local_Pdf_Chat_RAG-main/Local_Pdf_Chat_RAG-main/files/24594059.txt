@@ -1,0 +1,13 @@
+24594059
+OBJECTIVE	Under the directly observed treatment , short course ( DOTS ) program , antituberculosis ( anti-TB ) medications were possibly taken at random time , regardless of whether it was prior to or after meals .
+OBJECTIVE	This study was to evaluate the impact of food intake on pharmacokinetic profiles of first-line TB drugs in Taiwanese TB patients , as well as the relationship between drug levels and pharmacogenetics .
+METHODS	This open-label , randomized , cross-over study included newly diagnosed Taiwanese TB patients treated between January 2010 and February 2011 at Taipei Medical University-Wan Fang Hospital .
+METHODS	Rifater [ a fixed-dose combination formulation of isoniazid ( INH ) , rifampicin ( RIF ) , and pyrazinamide ( PZA ) ] and ethambutol ( EMB ) were given according to national TB guidelines .
+METHODS	Blood samples were collected prior to and 1 hour , 2 hours , 4 hours , 6 hours , and 10 hours after dosing under fasting or postprandial conditions .
+METHODS	Pharmacokinetic parameters of the maximum serum concentration ( Cmax ) , time to Cmax , and area under the serum concentration-time curve from the beginning to the 10 ( th ) hour ( AUC0-10 ) were calculated .
+RESULTS	Sixteen TB patients were included and received anti-TB treatment under the DOTS program after discharge .
+RESULTS	The overall effects showed that food intake reduced the mean Cmax ( INH : 40.6 % , RIF : 40.2 % , EMB 34.4 % , PZA : 24.4 % ) and AUC0-10 ( INH : 21.3 % , RIF : 26.4 % , EMB : 12.2 % , PZA : 12.0 % ) .
+RESULTS	Meanwhile , food increased the time to Cmax ( INH : 78.1 % , RIF : 151.3 % , EMB : 41.4 % , PZA : 148.9 % ) .
+CONCLUSIONS	Significantly lower serum drug concentrations were observed under postprandial conditions than fasting conditions for INH , RIF , and PZA .
+CONCLUSIONS	The impact of taking random anti-TB drugs under the DOTS program instead of taking drugs regularly prior to meals requires further study .
+

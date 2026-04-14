@@ -1,0 +1,18 @@
+25304255
+BACKGROUND	High-risk prescribing in primary care is common and causes considerable harm .
+BACKGROUND	Feedback interventions have small/moderate effects on clinical practice , but few trials explicitly compare different forms of feedback .
+BACKGROUND	There is growing recognition that intervention development should be theory-informed , and that comprehensive reporting of intervention design is required by potential users of trial findings .
+BACKGROUND	The paper describes intervention development for the Effective Feedback to Improve Primary Care Prescribing Safety ( EFIPPS ) study , a pragmatic three-arm cluster randomised trial in 262 Scottish general practices .
+METHODS	The NHS chose to implement a feedback intervention to utilise a new resource , new Prescribing Information System ( newPIS ) .
+METHODS	The development phase required selection of high-risk prescribing outcome measures and design of intervention components : ( 1 ) educational material ( the usual care comparison ) , ( 2 ) feedback of practice rates of high-risk prescribing received by both intervention arms and ( 3 ) a theory-informed behaviour change component to be received by one intervention arm .
+METHODS	Outcome measures , educational material and feedback design , were developed with a National Health Service Advisory Group .
+METHODS	The behaviour change component was informed by the Theory of Planned Behaviour and the Health Action Process Approach .
+METHODS	A focus group elicitation study and an email Delphi study with general practitioners ( GPs ) identified key attitudes and barriers of responding to the prescribing feedback .
+METHODS	Behaviour change techniques were mapped to the psychological constructs , and the content was informed by the results of the elicitation and Delphi study .
+RESULTS	Six high-risk prescribing measures were selected in a consensus process based on importance and feasibility .
+RESULTS	Educational material and feedback design were based on current NHS Scotland practice and Advisory Group recommendations .
+RESULTS	The behaviour change component was resource constrained in development , mirroring what is feasible in an NHS context .
+RESULTS	Four behaviour change interventions were developed and embedded in five quarterly rounds of feedback targeting attitudes , subjective norms , perceived behavioural control and action planning ( 2 ) .
+CONCLUSIONS	The paper describes a process which is feasible to use in the resource-constrained environment of NHS-led intervention development and documents the intervention to make its design and implementation explicit to potential users of the trial findings .
+BACKGROUND	ClinicalTrials.gov : NCT01602705 .
+

@@ -1,0 +1,15 @@
+24935294
+BACKGROUND	Currently , there are no published data on pharmacokinetics ( PK ) of everolimus in combination with cyclosporine in Japanese renal transplant patients .
+BACKGROUND	We evaluated the PK of everolimus in Japanese de novo renal transplant patients who received everolimus in combination with cyclosporine .
+METHODS	In this phase 3 , multicenter , randomized , open-label study , patients were randomized ( 1:1 ) to 1 of the 2 groups : everolimus 1.5 mg ( targeted C0 of 3-8 ng/mL ) plus reduced-dose cyclosporine or mycophenolate mofetil 2 g/d plus standard-dose cyclosporine .
+METHODS	PK assessments for everolimus were performed on day 28 ( month 1 ) in the PK subpopulation .
+RESULTS	A total of 11 patients ( 7 men ) , mean age 47.5 11.21 years , were enrolled for PK analysis of everolimus .
+RESULTS	Starting at 1.5 mg ( 0.75 mg twice a day ) , the mean dose over a period of 28 days was 0.705 0.1011 mg .
+RESULTS	Everolimus mean trough concentration was 4.307 1.2459 ng/mL and mean peak concentration was 13.539 3.5330 ng/mL , which peaked at 1 to 2 hours postdose .
+RESULTS	The average concentration was 7.558 1.4723 ng/mL , area under the concentration-time curve was 90.70 17.667 ngh/mL , and peak-trough fluctuation was 122.6 % .
+RESULTS	The PK parameters of everolimus were comparable to those in the earlier phase 3 studies ( A2306 and A2307 ) .
+RESULTS	The mean everolimus trough levels were within the target ranges at all time points ranging from 3.4 to 5.5 ng/mL ( everolimus 0.75 mg twice a day , safety population ) .
+RESULTS	The majority of patients ( > 85 % from day 7 onward ) were maintained within the targeted everolimus trough blood levels ( safety population ) .
+RESULTS	These data were similar to a non-Japanese study ( A2309 ) .
+CONCLUSIONS	The pharmacokinetic characteristics of everolimus in Japanese de novo renal transplant patients did not differ from those previously observed in non-Japanese patients , hence the same dosage of everolimus may be acceptable in Japanese patients .
+

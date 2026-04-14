@@ -1,0 +1,10 @@
+24676435
+OBJECTIVE	To assess the effect of aerobic exercise on the cognition and functional capacity in Alzheimer 's disease ( AD ) patients .
+METHODS	Elderly ( n = 20 ) with mild dementia ( NINCDS-ADRDA/CDR1 ) were randomly assigned to an exercise group ( EG ) on a treadmill ( 30 minutes , twice a week and moderate intensity of 60 % VOmax ) and control group ( GC ) 10 patients .
+METHODS	The primary outcome measure was the cognitive function using Cambridge Cognitive Examination ( CAMCOG ) .
+METHODS	Specifics instruments were also applied to evaluate executive function , memory , attention and concentration , cognitive flexibility , inhibitory control and functional capacity .
+RESULTS	After 16 weeks , the EG showed improvement in cognition CAMCOG whereas the CG declined .
+RESULTS	Compared to the CG , the EG presented significant improvement on the functional capacity .
+RESULTS	The analysis of the effect size has shown a favorable response to the physical exercise in all dependent variables .
+CONCLUSIONS	Walking on treadmill may be recommended as an augmentation treatment for patients with AD .
+

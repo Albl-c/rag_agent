@@ -1,0 +1,14 @@
+25029875
+OBJECTIVE	Biofeedback is a self-regulation therapy by which the patient learns how to optimize the functioning of his autonomic nervous system .
+OBJECTIVE	It has been applied to patients with various cardiovascular disorders .
+OBJECTIVE	The purpose of this study was to investigate the practical feasibility and the psychophysiological effects of biofeedback applied to heart rate variability ( HRV biofeedback ) in order to increase cardiac coherence in coronary artery disease ( CAD ) patients participating in a cardiac rehabilitation programme .
+RESULTS	In this randomised and controlled study , 31 CAD patients were randomly assigned to an experimental or to a control group .
+RESULTS	The experimental group participated in a programme of 10 sessions of cardiac coherence biofeedback training , in addition to the rehabilitation programme .
+RESULTS	The control group participated in the usual cardiac rehabilitation programme only .
+RESULTS	Physiological variables ( systolic and diastolic blood pressure , SDNN ) and psychosocial variables ( anxiety , depression , type D personality ) were measured at the start and at the end of the programme in both groups .
+RESULTS	Statistical comparisons assessed the inter and intra group differences .
+RESULTS	The small sample size precludes any firm conclusions concerning the effect of cardiac coherence biofeedback on physiological or psychological variables .
+RESULTS	However , we observed a significant increase of the percentage of cardiac coherence , in relation with an increased SDNN index .
+CONCLUSIONS	Our study demonstrated the practical feasibility of cardiac coherence biofeedback training in CAD patients .
+CONCLUSIONS	Further research is desirable to investigate the potential benefit of cardiac coherence biofeedback as an adjunct to stress management in cardiac rehabilitation .
+

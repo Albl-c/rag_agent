@@ -1,0 +1,11 @@
+25000552
+OBJECTIVE	We aimed to evaluate the clinical efficacy of ciprofloxacin plus fluocinolone acetonide ( antibiotic plus corticosteroid ) ear drops compared to ciprofloxacin ( antibiotic ) ear drops in diffuse otitis externa .
+METHODS	This was a multicentre , randomised , parallel-group , double-blind study involving 590 patients of both sexes aged 7years or older .
+RESULTS	The rate of clinical cure was higher ( p = 0.01 ) with ciprofloxacin plus fluocinolone acetonide than with ciprofloxacin alone .
+RESULTS	The mean total symptom score was lower with ciprofloxacin plus fluocinolone acetonide ( p = 0.005 ) .
+RESULTS	No differences were found in the percentage of patients reporting resolution of otalgia between patients receiving ciprofloxacin plus fluocinolone acetonide and patients receiving only ciprofloxacin .
+RESULTS	Resolution of oedema and otorrhoea ( p = 0.003 and p = 0.002 , respectively ) was higher with ciprofloxacin plus fluocinolone acetonide , as was eradication or presumed eradication ( p = 0.003 ) .
+RESULTS	There were eight mild adverse events , three with the ciprofloxacin plus fluocinolone acetonide combination ( not related to the treatment ) and five when ciprofloxacin was administered alone ( directly related to the treatment ) .
+CONCLUSIONS	Ciprofloxacin plus fluocinolone acetonide is a more effective treatment for diffuse otitis externa than ciprofloxacin alone .
+CONCLUSIONS	The ciprofloxacin plus fluocinolone acetonide combination also has an excellent safety profile .
+

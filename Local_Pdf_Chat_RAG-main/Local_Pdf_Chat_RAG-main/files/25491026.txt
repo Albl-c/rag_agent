@@ -1,0 +1,16 @@
+25491026
+BACKGROUND	Studies that have examined the impact of a physical activity intervention on cardiometabolic risk factors have yielded conflicting results .
+BACKGROUND	The objective of this study was to assess the impact of a standardized physical activity program on adiposity and cardiometabolic risk factors in schoolchildren .
+METHODS	Cluster randomized trial study of 712 schoolchildren , 8-10 years , from 20 public schools in the Province of Cuenca , Spain .
+METHODS	The intervention ( MOVI-2 ) consisted of play-based and non-competitive activities .
+METHODS	MOVI-2 was conducted during two 90-minute sessions on weekdays and one 150-minute session on Saturday mornings every week between September 2010 and May 2011 .
+METHODS	We measured changes in adiposity ( overweight/obesity prevalence , body mass index [ BMI ] , triceps skinfold thickness [ TST ] , body fat % , fat-free mass , waist circumference ) and other cardiometabolic risk factors ( LDL-cholesterol , triglycerides/HDL-cholesterol ratio , insulin , C-reactive protein and blood pressure ) .
+METHODS	The analyses used mixed regression models to adjust for baseline covariates under cluster randomization .
+RESULTS	Among girls , we found a reduction of adiposity in intervention versus control schools , with a decrease in TST ( -1.1 mm ; 95 % confidence interval [ CI ] -2.3 to -0.7 ) , body fat % ( -0.9 % ; 95 % CI -1.3 to -0.4 ) , waist circumference ( -2.7 cm ; 95 % CI -4.5 to -0.9 ) , and an increase in fat-free mass ( 0.3 kg ; 95 % CI 0.01 to 0.6 ) .
+RESULTS	The intervention also led to lower serum LDL-cholesterol and insulin levels .
+RESULTS	Among boys , a reduction in waist circumference ( -1.4 cm ; 95 % CI -2.6 to -0.1 ; P = 0.03 ) , and an increase in fat-free mass ( 0.5 kg ; 95 % CI 0.2 to 0.9 ; P = 0.003 ) was associated with the intervention versus control schools .
+RESULTS	The prevalence of overweight/obesity or underweight , BMI , and other cardiometabolic risk factors was not modified by the intervention .
+RESULTS	No important adverse events were registered .
+CONCLUSIONS	An extracurricular intervention of non-competitive physical activity during an academic year , targeting all schoolchildren regardless of body weight , is a safe and effective measure to reduce adiposity in both genders and to improve cardiometabolic risk profile in girls .
+BACKGROUND	Clinical trials NCT01277224 .
+

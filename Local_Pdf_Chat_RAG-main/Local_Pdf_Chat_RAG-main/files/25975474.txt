@@ -1,0 +1,14 @@
+25975474
+BACKGROUND	Neuron-specific enolase ( NSE ) is a widely-used biomarker for prognostication of neurological outcome after cardiac arrest , but the relevance of recommended cutoff values has been questioned due to the lack of a standardized methodology and uncertainties over the influence of temperature management .
+OBJECTIVE	This study investigated the role of NSE as a prognostic marker of outcome after out-of-hospital cardiac arrest ( OHCA ) in a contemporary setting .
+METHODS	A total of 686 patients hospitalized after OHCA were randomized to targeted temperature management at either 33C or 36C .
+METHODS	NSE levels were assessed in blood samples obtained 24 , 48 , and 72 h after return of spontaneous circulation .
+METHODS	The primary outcome was neurological outcome at 6 months using the cerebral performance category score .
+RESULTS	NSE was a robust predictor of neurological outcome in a baseline variable-adjusted model , and target temperature did not significantly affect NSE values .
+RESULTS	Median NSE values were 18 ng/ml versus 35 ng/ml , 15 ng/ml versus 61 ng/ml , and 12 ng/ml versus 54 ng/ml for good versus poor outcome at 24 , 48 , and 72 h , respectively ( p < 0.001 ) .
+RESULTS	At 48 and 72 h , NSE predicted neurological outcome with areas under the receiver-operating curve of 0.85 and 0.86 , respectively .
+RESULTS	High NSE cutoff values with false positive rates 5 % and tight 95 % confidence intervals were able to reliably predict outcome .
+CONCLUSIONS	High , serial NSE values are strong predictors of poor outcome after OHCA .
+CONCLUSIONS	Targeted temperature management at 33C or 36C does not significantly affect NSE levels .
+CONCLUSIONS	( Target Temperature Management After Cardiac Arrest [ TTM ] ; NCT01020916 ) .
+

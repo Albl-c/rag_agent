@@ -1,0 +1,15 @@
+24262496
+OBJECTIVE	We compared slow vs fast shock wave frequency rates in disintegration of pediatric renal stones less than 20 mm .
+METHODS	Our study included 60 children with solitary 10 to 20 mm radiopaque renal stones treated with shock wave lithotripsy .
+METHODS	Patients were prospectively randomized into 2 groups , ie those undergoing lithotripsy at a rate of 80 shock waves per minute ( group 1 , 30 patients ) and those undergoing lithotripsy at a rate of 120 shock waves per minute ( group 2 , 30 patients ) .
+METHODS	The 2 groups were compared in terms of treatment success , anesthesia time , secondary procedures and efficiency quotient .
+RESULTS	Stone clearance rate was significantly higher in group 1 ( 90 % ) than in group 2 ( 73.3 % , p = 0.025 ) .
+RESULTS	A total of 18 patients in group 1 ( 60 % ) were rendered stone-free after 1 session , 8 required 2 sessions and 1 needed 3 sessions , while shock wave lithotripsy failed in 3 patients .
+RESULTS	By comparison , 8 patients ( 26.6 % ) in group 2 were rendered stone-free after 1 session , 10 ( 33.3 % ) required 2 sessions and 4 ( 13.3 % ) needed 3 sessions to become stone-free .
+RESULTS	Mean general anesthesia time was significantly longer in group 1 ( p = 0.041 ) .
+RESULTS	Postoperatively 2 patients in group 1 and 4 in group 2 suffered low grade fever ( Clavien grade II ) .
+RESULTS	Significantly more secondary procedures ( percutaneous nephrolithotomy , repeat shock wave lithotripsy ) were required in group 2 ( p = 0.005 ) .
+RESULTS	The predominant stone analysis was calcium oxalate dihydrate in both groups .
+RESULTS	Efficiency quotient was 0.5869 and 0.3437 for group 1 and group 2 , respectively ( p = 0.0247 ) .
+CONCLUSIONS	In children with renal stones slow delivery rates of shock wave lithotripsy have better results regarding stone clearance than fast delivery rates .
+

@@ -1,0 +1,13 @@
+24553304
+OBJECTIVE	Factors underlying differential responsiveness to opioid analgesic medications used in chronic pain management are poorly understood .
+OBJECTIVE	We tested whether individual differences in endogenous opioid inhibition of chronic low-back pain were associated with the magnitude of acute reductions in back pain ratings after morphine administration .
+METHODS	In randomized counterbalanced order over three sessions , 50 chronic low-back pain patients received intravenous naloxone ( 8 mg ) , morphine ( 0.08 mg/kg ) , or placebo .
+METHODS	Back pain intensity was rated predrug and again after peak drug activity was achieved using the McGill Pain Questionnaire-Short Form ( Sensory and Affective subscales , VAS Intensity measure ) .
+METHODS	Opioid blockade effect measures to index degree of endogenous opioid inhibition of back pain intensity were derived as the difference between predrug to postdrug changes in pain intensity across placebo and naloxone conditions , with similar morphine responsiveness measures derived across placebo and morphine conditions .
+RESULTS	Morphine significantly reduced back pain compared with placebo ( McGill Pain Questionnaire-Short Form Sensory , VAS ; P < 0.01 ) .
+RESULTS	There were no overall effects of opioid blockade on back pain intensity .
+RESULTS	However , individual differences in opioid blockade effects were significantly associated with the degree of acute morphine-related reductions in back pain on all measures , even after controlling for effects of age , sex , and chronic pain duration ( P < 0.03 ) .
+RESULTS	Individuals exhibiting greater endogenous opioid inhibition of chronic back pain intensity reported less acute relief of back pain with morphine .
+CONCLUSIONS	Morphine appears to provide better acute relief of chronic back pain in individuals with lower natural opioidergic inhibition of chronic pain intensity .
+CONCLUSIONS	Possible implications for personalized medicine are discussed .
+

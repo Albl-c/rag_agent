@@ -1,0 +1,13 @@
+24474302
+OBJECTIVE	Erlotinib , N - ( 3-ethynylphenyl ) -6,7 - bis ( 2-methoxyethoxy ) quinazolin-4-amine is approved for the treatment for non-small cell lung cancer and pancreatic cancer .
+OBJECTIVE	Because erlotinib is metabolized predominately by CYP3A4 , co-administration of compounds that increase CYP3A4 activity may alter the efficacy and safety of erlotinib therapy .
+OBJECTIVE	Two phase I studies were conducted in healthy male subjects to evaluate the effect of pre - or co-administered rifampicin , a CYP3A4 inducer , on the pharmacokinetics of erlotinib .
+METHODS	Study 1 included Groups A ( erlotinib 150 mg days 1 and 15 , rifampicin 600 mg days 8-14 ) and B ( erlotinib 150 mg days 1 and 15 ) in a parallel group study design .
+METHODS	Study 2 subjects received erlotinib 150 mg day 1 , erlotinib 450 mg day 15 , and rifampicin 600 mg days 8-18 .
+METHODS	The primary endpoint in each study was the ratio of exposure ( AUC0 - and C max ) between days 1 and 15 .
+METHODS	Urinary cortisol metabolic induction ratios were determined in Study 1 for Group A subjects only .
+RESULTS	In Study 1 , the geometric mean ratios of AUC0 - and C max were 33 and 71 % , respectively , and the mean cortisol metabolic index increased from 7.4 to 27.0 , suggesting cytochrome P450 ( CYP ) enzyme induction .
+RESULTS	In Study 2 , the geometric mean ratios for AUC0 - and C max were 19 and 34 % ( when dose adjusted from 450 to 150 mg erlotinib ) , respectively , a greater relative decrease than observed in Study 1 .
+CONCLUSIONS	Erlotinib exposure ( AUC0 - and C max ) was reduced after pre - or concomitant dosing with rifampicin .
+CONCLUSIONS	Doses of 450 mg erlotinib may be necessary to compensate for concomitant medications with strong CYP3A4 enzyme induction effect .
+

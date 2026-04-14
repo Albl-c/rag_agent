@@ -1,0 +1,13 @@
+24942531
+OBJECTIVE	The purpose of this secondary analysis was to determine changes in physical inactivity from baseline to 5 years and to identify factors associated with and predictive of physical inactivity among individuals with type 2 diabetes enrolled in the Detection of Ischemia in Asymptomatic Diabetics ( DIAD ) study .
+METHODS	DIAD was a prospective randomized screening trial that assessed the prevalence of silent ischemia in asymptomatic patients with type 2 diabetes .
+METHODS	Subjects were recruited from diabetes and primary care practices at 14 centers throughout the United States and Canada .
+METHODS	This is a secondary data analysis of the physical activity data ( type and hours/week ) collected .
+METHODS	No intervention was conducted .
+RESULTS	In all subjects , physical inactivity rose from 24 % at baseline to 33 % at 5 years ( S = 28.93 ; P < .0001 ) .
+RESULTS	This change was significant in both men ( S = 11.44 ; P < .0001 ) , increasing from 23 % to 31 % , and women ( S = 18.05 ; P < .0001 ) , increasing from 25 % to 36 % .
+RESULTS	Gender differences were noted in several factors associated with baseline physical inactivity as well as in factors predictive of physical inactivity at 5 years .
+RESULTS	Important factors associated at both time points included lower level of education , current employment , presence of peripheral and autonomic neuropathy , and indicators of overweight/obesity .
+RESULTS	Baseline physical inactivity was strongly predictive of physical inactivity at 5 years ( odds ratio , 3.27 ; 95 % confidence interval , 2.36-4 .54 ; P < .0001 ) .
+CONCLUSIONS	Gender-related differences were noted in factors associated with and predictive of physical inactivity .
+

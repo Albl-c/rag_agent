@@ -1,0 +1,15 @@
+24864639
+OBJECTIVE	To determine whether the addition of 8 mg dexamethasone to axillary brachial plexus block would prolong the duration of sensory and motor block in patients undergoing hand and forearm surgery .
+METHODS	The prospective , randomised , double-blinded study was conducted at the Eskisehir Osmangazi University Medical School , Turkey , from October 2008 to December 2009 .
+METHODS	It comprised 45 American Society of Anaesthesiologists grade I and II patients under elective surgery of the hand and forearm .
+METHODS	The patients were randomly divided into 3 groups : 5 mg/kg of 2 % prilocaine was applied to Group 1 ; 5 mg/kg of 2 % prilocaine +8 mg of dexamethasone ( 2 ml ) was applied to Group 2 ; and 1.5 mg/kg 0.5 % levobupivacaine was applied to Group 3 .
+METHODS	Sensory and motor block onset time as well as the duration of motor and sensory block of those were monitored and recorded .
+METHODS	SPSS 15 was used for statistical analysis .
+RESULTS	Of the 45 patients , 27 ( 60 % ) were men and 18 ( 40 % ) were women .
+RESULTS	There was no significant difference among the groups in terms of demographic data .
+RESULTS	Based on the duration of motor and sensory block , similar periods of time in Group 1 and Group 2 were noted , whereas this period was statistically different and significantly longer in Group 3 ( p < or = 0.001 ) .
+RESULTS	There were no complications encountered .
+CONCLUSIONS	The addition of dexamethasone to prilocaine prolonged the duration of sensory and motor block .
+CONCLUSIONS	It could be used as an effective adjuvant agent .
+CONCLUSIONS	Levobupivacain could be a more appropriate local anaesthetic in postoperative analgesia and prolonged surgical procedures .
+

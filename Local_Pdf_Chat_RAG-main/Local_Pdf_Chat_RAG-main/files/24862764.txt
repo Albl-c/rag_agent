@@ -1,0 +1,16 @@
+24862764
+OBJECTIVE	To compare the effects of exergaming with conventional weight-shift training on balance function in patients with chronic stroke .
+METHODS	Single-blind randomized controlled trial .
+METHODS	Medical center .
+METHODS	Patients ( N = 30 ) with chronic stroke and balance deficits .
+METHODS	Twelve weeks of Wii Fit training or conventional weight-shift training .
+METHODS	Static balance was assessed using posturography .
+METHODS	We recorded the stability index and percentage of weight bearing on the affected leg in 8 positions .
+METHODS	We also used the timed Up and Go and forward reach tests for dynamic balance evaluation , Falls Efficacy Scale-International for fear of falling assessment , and Physical Activity Enjoyment Scale for estimating the enjoyment of training .
+RESULTS	The exergaming group showed more improvement in stability index than the control group in head straight with eyes open while standing on a foam surface , eyes closed while standing on a solid surface with head turned 30 to the left , and eyes closed while standing on a solid surface with head turned up positions ( time-group interaction P = .02 , .04 , and .03 , respectively ) ; however , the effects were not maintained .
+RESULTS	At 3-month follow-up , the control group showed more improvement in weight-bearing symmetry in the head straight with eyes open while standing on a solid surface position than the exergaming group ( time-group interaction P = .03 ) .
+RESULTS	Both groups showed improvement in the timed Up and Go test , forward reach test , and fear of falling .
+RESULTS	The improvement in fear of falling was not maintained .
+RESULTS	The exergaming group enjoyed training more than the control group ( P = .03 ) .
+CONCLUSIONS	Exergaming is enjoyable and effective for patients with chronic stroke .
+

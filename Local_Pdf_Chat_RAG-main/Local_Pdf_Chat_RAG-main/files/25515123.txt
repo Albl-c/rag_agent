@@ -1,0 +1,15 @@
+25515123
+BACKGROUND	Cochlear implantation with the aim of hearing preservation for combined electric-acoustic stimulation ( EAS ) is the therapy of choice for patients with residual low-frequency hearing .
+BACKGROUND	Preserved residual acoustic hearing has a positive effect on speech intelligibility in difficult noise conditions .
+OBJECTIVE	The goal of this study was to assess speech reception thresholds in various complex noise conditions for patients with EAS in comparison with patients using bilateral cochlear implants ( CI ) .
+METHODS	Speech perception in noise was measured for bilateral CI and EAS patient groups .
+METHODS	A total of 22 listeners with normal hearing served as a control group .
+METHODS	Speech reception thresholds ( SRT ) were measured using a closed-set sentence matrix test .
+METHODS	Speech was presented with a single source in frontal position ; noise was presented in frontal position or in a multisource noise field ( MSNF ) consisting of a four-loudspeaker array with independent noise sources .
+METHODS	Modulated speech-simulating noise and pseudocontinuous noise served respectively as interference signal with different temporal characteristics .
+RESULTS	The average SRTs in the EAS group were significantly better in all test conditions than those of the group with bilateral CI .
+RESULTS	Both user groups showed significant improvement in the MSNF condition compared with the frontal noise condition as a result of bilateral interaction .
+RESULTS	The normal-hearing control group was able to use short temporal gaps in modulated noise to improve speech perception in noise ( gap listening ) .
+RESULTS	This effect was absent in both implanted user groups .
+CONCLUSIONS	Patients with combined EAS in one ear and a hearing aid in the contralateral ear show significantly improved speech perception in complex noise conditions compared with bilateral CI recipients .
+

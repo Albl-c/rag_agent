@@ -1,0 +1,17 @@
+26241253
+OBJECTIVE	To evaluate intramuscular ketorolac compared with placebo saline injection for pain control with intrauterine device ( IUD ) placement .
+METHODS	We conducted a randomized , double-blind , placebo-controlled trial between July 2012 and March 2014 .
+METHODS	Patients received 30 mg ketorolac or placebo saline intramuscular injection 30 minutes before IUD placement .
+METHODS	The primary outcome was pain with IUD placement on a 10-cm visual analog scale .
+METHODS	Sample size was calculated to provide 80 % power to show a 2.0-cm difference ( = 0.05 ) in the primary outcome .
+METHODS	Secondary outcomes included pain with study drug injection , speculum insertion , tenaculum placement , uterine sounding , and at 5 and 15 minutes after IUD placement .
+RESULTS	A total of 67 women participated in the study , 33 in the ketorolac arm and 34 in the placebo arm .
+RESULTS	There were no differences in baseline demographics including age , body mass index , and race .
+RESULTS	There were no differences in median pain scores for IUD placement in the placebo compared with ketorolac groups ( 5.2 compared with 3.6 cm , P = .99 ) .
+RESULTS	There was a decrease in median pain scores at 5 minutes ( 2.2 compared with 0.3 cm , P. 001 ) and 15 minutes ( 1.6 compared with 0.1 cm , P. 001 ) after IUD placement but no difference for all other time points .
+RESULTS	Nulliparous participants ( n = 16 , eight per arm ) had a decrease in pain scores with IUD placement ( 8.1 compared with 5.4 cm , P = .02 ) .
+RESULTS	In this study , 22 % of participants in the placebo group and 18 % in the ketorolac group reported injection pain was as painful as IUD placement .
+CONCLUSIONS	Ketorolac does not reduce pain with IUD placement but does reduce pain at 5 and 15 minutes after placement .
+BACKGROUND	ClinicalTrials.gov ; www.clinicaltrials.gov , NCT01664559 .
+METHODS	I.
+

@@ -1,0 +1,13 @@
+25911762
+OBJECTIVE	By using orthogonal design method to optimnize prescription of pulsed electric field at Jiaji ( EX - B 2 ) points for spinal cord injury ( SCI ) .
+METHODS	Fifty six patients of SCI were selected , in which 36 cases were divided into orthogonal design trial and 20 cases were into clinical verification .
+METHODS	With 36 patients who received orthogonal design trial , Frankel grading scale was used as observation index to screen optimal prescription of pulsed electric field .
+METHODS	Pulse frequency ( factor A ) included low frequency ( factor A ( I ) , 10 ( 2 ) Hz ) .
+METHODS	moderate frequency ( factor A ( II ) , 10 ( 4 ) Hz ) and high frequency ( factor A ( III ) , 10 ( 3 ) Hz ) ; pulse amplitude ( factor B ) included 0-30 V ( factor B ) , 0-60 V ( factor B ( II ) ) and 0-90 V ( factor B ( III ) ) ; pulse width ( factor C ) included 0.1 ms ( factor C ( I ) ) .
+METHODS	0.6 ms ( factor C ( II ) ) and 0.9 ms ( factor C ( III ) ) ; acupuncture time ( factor D ) included one month ( DI ) , three months ( D ( II ) ) and five months ( D ( III ) ) .
+METHODS	Twenty patients were used for clinical efficacy observation and the effects of screened optimal pre scription of pulsed electric field at Jiaji ( EX-B 2 ) points combined with regular rehabilitation training on spasm se - verity , score of sensory and motor functions , Barthel index and Frankel score were observed .
+RESULTS	( 1 ) As results of orthogonal design trial , the optimal prescription was A ( III ) B ( III ) , C ( I ) , D ( III ) , which were high frequency ( 10 ( 3 ) Hz ) , 0-90 V of pulse amplitude , 0.4 ms of pulse width and 5 months of treatment time .
+RESULTS	( 2 ) As results of 20 patient clinical verification , Ashworth score , tendon reflex and clonus were all significantly improved ( P < 0.001 , P < 0.01 ) , the scores of sensory and motor functions were evidently improvedtl ( P < 0.001 , P < 0.05 ) , and Barthel in dex and Frankel score were also enhanced ( P < 0.001 , P < 0.05 ) .
+CONCLUSIONS	The optimal prescription of pulsed electric field at Jiaji ( EX-B 2 ) points for spinal cord injury is high frequency ( 10 & Hz ) , 0-90 V of pulse amplitude , 0.4 ms of pulse width and 5 months of treatment time .
+CONCLUSIONS	The optimal prescription of pulsed electric field at Jiaji ( EX-B 2 ) points combined with regular rehabilitation could obviously improve spasm severity , enhance senso - ry and motor functions , and ameliorate activity of daily life and Frankel score .
+

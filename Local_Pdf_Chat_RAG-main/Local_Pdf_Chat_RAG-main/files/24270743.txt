@@ -1,0 +1,15 @@
+24270743
+OBJECTIVE	To examine the diagnostic accuracy of novel biomarkers of myocardial injury and troponin assays for diagnosis of myocardial infarction .
+METHODS	850 patients randomised to the point-of-care testing arm of the Randomised Assessment of Panel Assay of Cardiac markers ( RATPAC ) study in six emergency departments of low-risk patients presenting with chest pain were studied .
+METHODS	Blood samples were obtained on admission and 90 min from admission .
+METHODS	Myocardial infarction was defined by the universal definition of myocardial infarction .
+METHODS	The following diagnostic strategies were compared by receiver operator characteristic curve analysis and comparison of area under the curve : individual marker values and the combination of presentation heart fatty acid binding protein ( HFABP ) and copeptin with troponin .
+RESULTS	68 patients had a final diagnosis of myocardial infarction .
+RESULTS	Admission samples were available from 838/1132 patients enrolled in the study .
+RESULTS	Areas under the curve were as follows ( CIs in parentheses ) : cardiac troponin I ( cTnI ) Stratus CS 0.94 ( 0.90 to 0.98 ) , cTnI Beckmann 0.92 ( 0.88 to 0.96 ) , cTnI Siemens ultra 0.90 ( 0.85 to 0.95 ) , cardiac troponin T high sensitivity 0.92 ( 0.88 to 0.96 ) , HFABP 1 0.84 ( 0.77 to 0.90 ) copeptin 0.62 ( 0.57 to 0.68 ) .
+RESULTS	HFABP and copeptin were diagnostically inferior to troponin .
+RESULTS	The combination of HFABP ( at the 95th percentile ) and troponin ( at the 99th percentile ) increased diagnostic sensitivity .
+CONCLUSIONS	High-sensitivity cardiac troponin is the best single marker .
+CONCLUSIONS	Addition of HFABP to high-sensitivity troponin increased diagnostic sensitivity .
+CONCLUSIONS	Additional measurement of copeptin is not useful in the chest pain population .
+

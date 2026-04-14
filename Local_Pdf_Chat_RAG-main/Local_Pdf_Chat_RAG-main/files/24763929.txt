@@ -1,0 +1,16 @@
+24763929
+OBJECTIVE	Exercise using virtual reality ( VR ) has improved balance in adults with traumatic brain injury and community-dwelling older adults .
+OBJECTIVE	Rigorous randomized studies regarding its efficacy , safety , and applicability with individuals after stroke are lacking .
+OBJECTIVE	The purpose of this study was to determine whether an adjunct VR therapy improves balance , mobility , and gait in stroke rehabilitation inpatients .
+METHODS	A blinded randomized controlled trial studying 59 stroke survivors on an inpatient stroke rehabilitation unit was performed .
+METHODS	The treatment group ( n = 30 ) received standard stroke rehabilitation therapy plus a program of VR exercises that challenged balance ( eg , soccer goaltending , snowboarding ) performed while standing .
+METHODS	The control group ( n = 29 ) received standard stroke rehabilitation therapy plus exposure to identical VR environments but whose games did not challenge balance ( performed in sitting ) .
+METHODS	VR training consisted of 10 to 12 thirty-minute daily sessions for a 3-week period .
+METHODS	Objective outcome measures of balance and mobility were assessed before , immediately after , and 1 month after training .
+RESULTS	Confidence intervals and effect sizes favored the treatment group on the Timed Up and Go and the Two-Minute Walk Test , with both groups meeting minimal clinical important differences after training .
+RESULTS	More individuals in the treatment group than in the control group showed reduced impairment in the lower extremity as measured by the Chedoke McMaster Leg domain ( P = 0.04 ) immediately after training .
+CONCLUSIONS	This VR exercise intervention for inpatient stroke rehabilitation improved mobility-related outcomes .
+CONCLUSIONS	Future studies could include nonambulatory participants as well as the implementation strategies for the clinical use of VR .
+BACKGROUND	http://www.ANZCTR.org.au/ .
+BACKGROUND	Unique identifier : ACTRN12613000710729 .
+

@@ -1,0 +1,10 @@
+25926408
+BACKGROUND	Intragastric creaming and droplet size of fat emulsions may affect intragastric behavior and gastrointestinal and satiety responses .
+OBJECTIVE	We tested the hypotheses that gastrointestinal physiologic responses and satiety will be increased by an increase in intragastric stability and by a decrease in fat droplet size of a fat emulsion .
+METHODS	This was a double-blind , randomized crossover study in 11 healthy persons [ 8 men and 3 women , aged 24 1 y ; body mass index ( in kg/m ( 2 ) ) : 24.4 0.9 ] who consumed meals containing 300-g 20 % oil and water emulsion ( 2220 kJ ) with 1 ) larger , 6-m mean droplet size ( Coarse treatment ) expected to cream in the stomach ; 2 ) larger , 6-m mean droplet size with 0.5 % locust bean gum ( LBG ; Coarse + LBG treatment ) to prevent creaming ; or 3 ) smaller , 0.4-m mean droplet size with LBG ( Fine + LBG treatment ) .
+METHODS	The participants were imaged hourly by using MRI and food intake was assessed by using a meal that participants consumed ad libitum .
+RESULTS	The Coarse + LBG treatment ( preventing creaming in the stomach ) slowed gastric emptying , resulting in 12 % higher gastric volume over time ( P < 0.001 ) , increased small bowel water content ( SBWC ) by 11 % ( P < 0.01 ) , slowed appearance of the ( 13 ) C label in the breath by 17 % ( P < 0.01 ) , and reduced food intake by 9 % ( P < 0.05 ) compared with the Coarse treatment .
+RESULTS	The Fine + LBG treatment ( smaller droplet size ) slowed gastric emptying , resulting in 18 % higher gastric volume ( P < 0.001 ) , increased SBWC content by 15 % ( P < 0.01 ) , and significantly reduced food intake by 11 % ( P < 0.05 , equivalent to an average of 411 kJ less energy consumed ) compared with the Coarse + LBG treatment .
+RESULTS	These high-fat meals stimulated substantial increases in SBWC , which increased to a peak at 4 h at 568 mL ( range : 150-854 mL ; P < 0.01 ) for the Fine + LBG treatment .
+CONCLUSIONS	Manipulating intragastric stability and fat emulsion droplet size can influence human gastrointestinal physiology and food intake .
+

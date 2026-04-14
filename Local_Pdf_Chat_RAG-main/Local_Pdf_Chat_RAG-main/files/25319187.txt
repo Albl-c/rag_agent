@@ -1,0 +1,12 @@
+25319187
+BACKGROUND	Whether the type of dietary fat could alter cardiometabolic responses to a hypercaloric diet is unknown .
+BACKGROUND	In addition , subclinical cardiometabolic consequences of moderate weight gain require further study .
+RESULTS	In a 7-week , double-blind , parallel-group , randomized controlled trial , 39 healthy , lean individuals ( mean age of 274 ) consumed muffins ( 51 % of energy [ % E ] from fat and 44 % E refined carbohydrates ) providing 750 kcal/day added to their habitual diets .
+RESULTS	All muffins had identical contents , except for type of fat ; sunflower oil rich in polyunsaturated fatty acids ( PUFA diet ) or palm oil rich in saturated fatty acids ( SFA diet ) .
+RESULTS	Despite comparable weight gain in the 2 groups , total : high-density lipoprotein ( HDL ) cholesterol , low-density lipoprotein : HDL cholesterol , and apolipoprotein B : AI ratios decreased during the PUFA versus the SFA diet ( -0.370.59 versus +0.070.29 , -0.310.49 versus +0.050.28 , and -0.070.11 versus +0.010.07 , P = 0.003 , P = 0.007 , and P = 0.01 for between-group differences ) , whereas no significant differences were observed for other cardiometabolic risk markers .
+RESULTS	In the whole group ( ie , independently of fat type ) , body weight increased ( +2.2 % , P < 0.001 ) together with increased plasma proinsulin ( +21 % , P = 0.007 ) , insulin ( +17 % , P = 0.003 ) , proprotein convertase subtilisin/kexin type 9 , ( +9 % , P = 0.008 ) fibroblast growth factor-21 ( +31 % , P = 0.04 ) , endothelial markers vascular cell adhesion molecule-1 , intercellular adhesion molecule-1 , and E-selectin ( +9 , +5 , and +10 % , respectively , P < 0.01 for all ) , whereas nonesterified fatty acids decreased ( -28 % , P = 0.001 ) .
+CONCLUSIONS	Excess energy from PUFA versus SFA reduces atherogenic lipoproteins .
+CONCLUSIONS	Modest weight gain in young individuals induces hyperproinsulinemia and increases biomarkers of endothelial dysfunction , effects that may be partly outweighed by the lipid-lowering effects of PUFA .
+BACKGROUND	http://ClinicalTrials.gov .
+BACKGROUND	Unique identifier : NCT01427140 .
+

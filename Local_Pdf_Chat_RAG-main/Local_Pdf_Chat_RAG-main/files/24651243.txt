@@ -1,0 +1,7 @@
+24651243
+BACKGROUND	We investigated whether medial cord stimulation is inferior to posterior cord stimulation for vertical infraclavicular block with respect to block success .
+METHODS	Ninety-six patients scheduled for upper limb surgery were randomly elicited a medial or posterior cord response for infraclavicular block using 40 mL of 0.5 % ropivacaine .
+METHODS	We assessed block success ( complete sensory block of the 5 nerves in the forearm at 50 minutes ) as the primary end point and block procedure characteristics and adverse events as secondary end points .
+RESULTS	The block success rates did not differ significantly between medial and posterior cord stimulation ( 95.7 % [ 44/46 ] vs 91.7 % [ 44/48 ] , 95 % CI of difference , -7.4 % to 15.6 % ) , while the secondary end points were comparable in both groups .
+CONCLUSIONS	Needle manipulation to elicit medial cord response is noninferior to posterior cord response of block success during neurostimulation-guided vertical infraclavicular block .
+

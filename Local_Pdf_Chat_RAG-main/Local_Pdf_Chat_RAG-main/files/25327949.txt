@@ -1,0 +1,12 @@
+25327949
+BACKGROUND	Posttraumatic stress disorder ( PTSD ) is associated with abnormal functioning of the hypothalamic-pituitary-adrenal ( HPA ) axis ; however , limited research has examined whether cortisol levels change following successful PTSD treatment .
+BACKGROUND	The current study examined the impact of successful PTSD treatment on the cortisol awakening response ( CAR ) .
+METHODS	Twenty-nine adults participating in a treatment trial for chronic PTSD provided saliva samples ( upon waking , and 30 - , 45 - , and 60 min postwaking ) before and after receiving either prolonged exposure therapy or sertraline .
+METHODS	PTSD responder status ( i.e. , loss or retention of a PTSD diagnosis ) served as the predictor variable .
+METHODS	Outcome measures included area under the curve with respect to ground and increase , reflecting total cortisol output and HPA axis reactivity , respectively .
+RESULTS	A series of hierarchical regressions revealed no significant main effects of PTSD responder status for either CAR outcome .
+RESULTS	However , a significant gender by treatment response interaction for cortisol reactivity revealed that female treatment nonresponders displayed higher cortisol reactivity following treatment than female responders , whereas cortisol reactivity did not change pre - to posttreatment for male responders .
+RESULTS	Findings remained after controlling for age , trauma history , baseline medication status , baseline PTSD , and baseline depressive symptoms .
+CONCLUSIONS	Loss of a PTSD diagnosis may contribute to decreased cortisol reactivity in females .
+CONCLUSIONS	Neuroendocrine changes following treatment may emerge only for specific subgroups , highlighting the importance of exploring treatment moderators .
+

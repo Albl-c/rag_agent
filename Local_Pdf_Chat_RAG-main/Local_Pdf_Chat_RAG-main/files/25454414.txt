@@ -1,0 +1,14 @@
+25454414
+BACKGROUND	Fluorouracil and irinotecan-based , and gemcitabine-based regimens , are the standard of care in the first-line treatment of patients with metastatic pancreatic cancer .
+BACKGROUND	New approaches are needed to improve survival and quality of life .
+BACKGROUND	Whether a sequential approach alternating irinotecan , fluorouracil and gemcitabine may be effective and tolerable in patients with metastatic pancreatic cancer is unknown .
+METHODS	In this randomised , multicentre , open-label , phase 2 trial , patients with metastatic pancreatic adenocarcinoma , World Health Organisation ( WHO ) performance status 0-1 , and bilirubin levels < 1.5 upper limit of normal values ( ULN ) were randomised 1:1 to receive as first-line treatment either FOLFIRI .3 ( irinotecan , leucovorin and fluorouracil ) alternating with fixed-dose rate gemcitabine as 2-month periods ( FIRGEM , arm A ) , or fixed-dose rate gemcitabine alone ( arm B ) .
+METHODS	Treatment was continued until disease progression or limiting toxicity .
+METHODS	The primary end-point was the crude progression-free survival ( PFS ) rate at 6 months .
+METHODS	The study is registered with EudraCT ( N 2006-005703-34 ) .
+RESULTS	Between October 2007 and March 2011 , 98 patients were enroled .
+RESULTS	The observed 6-month PFS rate was 43.5 % ( 95 % confidence interval ( CI ) , [ 28.6-58 .4 % ] ) in arm A reaching the Fleming decision rules criteria to reject H0 and 26.1 % ( 95 % CI [ 12.9-39 .3 % ] ) in arm B. Objective response rates were 37 % ( 23-51 % ) in arm A and 10 % ( 1-19 % ) in arm B. Median PFS ( 5.0 versus 3.4 months , hazard ratio ( HR ) = 0.59 [ 0.38-0 .90 ] ) and overall survival ( 11.0 versus 8.2 months , HR = 0.71 [ 0.46-1 .10 ] ) were higher in arm A compared to arm B.
+RESULTS	The most frequent grade 3-4 toxicities were neutropenia ( 49 % / 24 % ; febrile neutropenia , 4 % / 0 % in arms A/B ) , diarrhoea ( arm A , 12 % and arm B , 0 % ) , and nausea/vomiting ( 8 % / 4 % ) .
+RESULTS	No toxic deaths occurred .
+CONCLUSIONS	The FIRGEM strategy appears to be effective and feasible in patients with metastatic pancreatic cancer .
+

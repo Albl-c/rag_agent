@@ -1,0 +1,16 @@
+25414061
+BACKGROUND	Natural orifice transluminal endoscopic surgery ( NOTES ) is the consequence of further development of minimally invasive surgery to reduce abdominal incisions and surgical trauma .
+BACKGROUND	The potential benefits are expected to be less postoperative pain , faster convalescence , and reduced risk for incisional hernias and wound infections compared to conventional methods .
+BACKGROUND	Recent clinical studies have demonstrated the feasibility and safety of transvaginal NOTES , and transvaginal access is currently the most frequent clinically applied route for NOTES procedures .
+BACKGROUND	However , despite increasing clinical application , no firm clinical evidence is available for objective assessment of the potential benefits and risks of transvaginal NOTES compared to the current surgical standard .
+METHODS	The TRANSVERSAL trial is designed as a randomized controlled trial to compare transvaginal hybrid NOTES and laparoscopic-assisted sigmoid resection .
+METHODS	Female patients referred to elective sigmoid resection due to complicated or reoccurring diverticulitis of the sigmoid colon are considered eligible .
+METHODS	The primary endpoint will be pain intensity during mobilization 24 hours postoperatively as measured by the blinded patient and blinded assessor on a visual analogue scale ( VAS ) .
+METHODS	Secondary outcomes include daily pain intensity and analgesic use , patient mobility , intraoperative complications , morbidity , length of stay , quality of life , and sexual function .
+METHODS	Follow-up visits are scheduled 3 , 12 , and 36 months after surgery .
+METHODS	A total sample size of 58 patients was determined for the analysis of the primary endpoint .
+METHODS	The confirmatory analysis will be performed based on the intention-to-treat ( ITT ) principle .
+CONCLUSIONS	The TRANSVERSAL trial is the first study to compare transvaginal hybrid NOTES and conventionally assisted laparoscopic surgery for colonic resection in a randomized controlled setting .
+CONCLUSIONS	The results of the TRANSVERSAL trial will allow objective assessment of the potential benefits and risks of NOTES compared to the current surgical standard for sigmoid resection .
+BACKGROUND	The trial protocol was registered in the German Clinical Trials Register ( DRKS00005995 ) on March 27 , 2014 .
+

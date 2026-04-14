@@ -1,0 +1,12 @@
+25380538
+OBJECTIVE	The purpose of this study was to evaluate the safety and effectiveness of 2-level total disc replacement ( TDR ) using a Mobi-C cervical artificial disc at 48 months ' follow-up .
+METHODS	A prospective randomized , US FDA investigational device exemption pivotal trial of the Mobi-C cervical artificial disc was conducted at 24 centers in the U.S. Three hundred thirty patients with degenerative disc disease were randomized and treated with cervical total disc replacement ( 225 patients ) or the control treatment , anterior cervical discectomy and fusion ( ACDF ) ( 105 patients ) .
+METHODS	Patients were followed up at regular intervals for 4 years after surgery .
+RESULTS	At 48 months , both groups demonstrated improvement in clinical outcome measures and a comparable safety profile .
+RESULTS	Data were available for 202 TDR patients and 89 ACDF patients in calculation of the primary endpoint .
+RESULTS	TDR patients had statistically significantly greater improvement than ACDF patients for the following outcome measures compared with baseline : Neck Disability Index scores , 12-Item Short Form Health Survey Physical Component Summary scores , patient satisfaction , and overall success .
+RESULTS	ACDF patients experienced higher subsequent surgery rates and displayed a higher rate of adjacent-segment degeneration as seen on radiographs .
+RESULTS	Overall , TDR patients maintained segmental range of motion through 48 months with no device failure .
+CONCLUSIONS	Four-year results from this study continue to support TDR as a safe , effective , and statistically superior alternative to ACDF for the treatment of degenerative disc disease at 2 contiguous cervical levels .
+CONCLUSIONS	Clinical trial registration no. : NCT00389597 ( clinicaltrials.gov ) .
+

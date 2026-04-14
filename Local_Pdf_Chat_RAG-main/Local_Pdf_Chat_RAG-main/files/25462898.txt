@@ -1,0 +1,10 @@
+25462898
+BACKGROUND	Empathy improves our ability to communicate in social interactions and motivates prosocial behavior .
+BACKGROUND	The neuropeptides arginine vasopressin and oxytocin play key roles in socioemotional processes such as pair bonding and parental care , which suggests that they may be involved in empathic processing .
+METHODS	We investigated how vasopressin and oxytocin affect empathic responding in a randomized , double-blind , placebo controlled , between-subjects study design .
+METHODS	We also examined the moderating role of parental warmth , as reported in the early family environment , on empathic responding following vasopressin , oxytocin , or placebo administration .
+RESULTS	Among participants who reported higher levels of paternal warmth ( but not maternal warmth ) , vasopressin ( vs. placebo and oxytocin ) increased ratings of empathic concern after viewing distressing and uplifting videos .
+RESULTS	No main or interaction effects were found for individuals who received oxytocin .
+CONCLUSIONS	Vasopressin has a role in enhancing empathy among individuals who received higher levels of paternal warmth .
+BACKGROUND	NCT01680718 .
+

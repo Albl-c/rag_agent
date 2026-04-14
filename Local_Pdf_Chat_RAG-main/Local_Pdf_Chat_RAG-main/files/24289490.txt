@@ -1,0 +1,11 @@
+24289490
+BACKGROUND	Problem-based learning ( PBL ) involves discussions among students who resolve loosely-structured problems to facilitate learning .
+BACKGROUND	In the PBL curriculum , faculty tutors are employed as facilitators for small groups of students .
+BACKGROUND	Because of lack of time and staff shortage , the effectiveness of tutorless PBL has been discussed as an alternate option .
+METHODS	Sessions in which tutored and tutorless PBL groups are mixed were presented by 1st-year medical students , who experienced both tutored and tutorless groups alternately in the two sessions of a year .
+METHODS	To examine the effectiveness of tutored and tutorless PBL , written examination scores ( WES ) and self-contentment scores ( SCS ) were statistically analysed .
+RESULTS	WES averages did not significantly differ between the tutored and tutorless groups ; however , a significantly greater variation was observed in WES in the tutorless group .
+RESULTS	SCS averages tended to be higher in the tutored PBL than in tutorless PBL groups .
+CONCLUSIONS	Students in these tutorless PBL groups performed well in their written examinations , whereas those in the tutored PBL groups , achieved this and reported better self-contentment with their learning experience .
+CONCLUSIONS	Tutorless PBL sessions were considered to be comparable to tutored PBL sessions at least in the early stages .
+

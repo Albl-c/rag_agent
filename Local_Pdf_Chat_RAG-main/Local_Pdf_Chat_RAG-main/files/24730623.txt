@@ -1,0 +1,12 @@
+24730623
+OBJECTIVE	To evaluate the intra-operative and postoperative outcome of paediatric cataract surgery with primary posterior capsulotomy ( PPC ) and anterior vitrectomy using intra-operative preservative-free triamcinolone acetonide .
+METHODS	In this prospective , interventional case-control study , 20 Children who underwent cataract surgery for both eyes were enrolled and their eyes were randomized into two groups .
+METHODS	Group A consists of 20 eyes in which standard phacoaspiration with PPC with intracameral triamcinolone was used , and Group B consists of 20 eyes in which triamcinolone were not used .
+METHODS	Intra-operative complications and postoperative outcome like intraocular pressure ( IOP ) , posterior synechiae , pigment deposits and posterior capsule opacification ( PCO ) were studied .
+RESULTS	In both groups , age range varied between 2-8 years comprising 18 males and two females .
+RESULTS	The mean postoperative IOP did not show any significant variation during 6-month follow-up .
+RESULTS	In study group , all the 20 eyes were quiet at 2 weeks , while there was cellular reaction 1 + in four eyes ( 20 % ) and nil in 16 eyes ( 80 % ) at 2 week in the control group ( p = 0.035 ) .
+RESULTS	Pigment deposits on IOL optic was seen in two eyes ( 10 % ) of the study group while in control group , IOL deposits were present in 14 eyes ( 70 % ) ( p = 0.001 ) .
+RESULTS	Posterior capsule opacification was seen in two eyes ( 10 % ) in control group at 3 months while none occurred in study group .
+CONCLUSIONS	Intra-operative use of preservative-free triamcinolone acetonide led to less anterior chamber inflammation and pigment deposits on IOL optic postoperatively compared to those eyes where it was not used .
+

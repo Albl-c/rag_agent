@@ -1,0 +1,10 @@
+24873162
+OBJECTIVE	To compare the effect of transumbilical single-site single-port with that of transumbilical single-site double-port laparoscopic varicocelectomy in the treatment of varicocele in adolescents .
+METHODS	We randomly assigned 80 varicocele patients aged 10 - 16 years to two groups of equal number to receive transumbilical single-site single-port and single-site double-port laparoscopic varicocelectomy , respectively .
+METHODS	We compared the operation time , postoperative hospital stay , incisional pain , complications and satisfaction with the abdominal cosmetic outcomes between the two groups .
+RESULTS	All the operations were successfully performed .
+RESULTS	The double-port group showed a significantly higher score on the Visual Analogue Scale than the single-port group ( 4.8 + / - 1.4 vs 3.6 + / - 1.1 , t = -4.986 , P < 0.01 ) , but there were no significant differences between the two groups in the operation time ( [ 29.8 + / - 4.2 ] vs [ 31.2 + / - 4.6 ] min , t = 1.383 , P = 0.171 ) , postoperative hospital stay ( [ 1.95 + / - 0.7 ] vs [ 1.82 + / - 0.8 ] d , t = -0.784 , P = 0.436 ) , complications ( 0 vs 0 ) and scores on the satisfaction with abdominal cosmetic outcomes ( 4.6 + / - 0.6 vs 4.8 + / - 0.5 , t = 1.253 , P = 0.214 ) .
+RESULTS	No recurrence , umbilical hernia , hydrocele and orchiatrophy were found in the two groups of patients at 6 months after operation , and no visible scar was observed on the abdominal surface .
+CONCLUSIONS	With strict surgical indications , single-site single-port and single-site double-port laparoscopic varicocelectomies have similar clinical effects in the treatment of varicocele , which leave no scar on the abdominal surface .
+CONCLUSIONS	Single-site double-port laparoscopy needs no special instruments and therefore is worthier of wide clinical application .
+

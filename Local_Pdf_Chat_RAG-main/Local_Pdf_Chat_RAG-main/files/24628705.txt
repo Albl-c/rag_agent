@@ -1,0 +1,12 @@
+24628705
+BACKGROUND	There is growing evidence that Cognitive Simulation Therapy ( CST ) benefits cognition and quality of life of people with dementia , but little is known about the indirect effects of this intervention on family caregivers .
+BACKGROUND	This study sought to investigate the effect of CST on family caregivers general health status of people with dementia living in the community attending the CST intervention .
+METHODS	Eighty-five family caregivers of people with dementia took part in the study .
+METHODS	All the people with dementia received the standard twice weekly seven weeks of the CST intervention plus either 24 weeks of a maintenance CST ( MCST ) intervention or 24 weeks of treatment as usual .
+METHODS	Family caregivers were assessed before and after their relatives the CST programme , and after 3 and 6 months of the MCST programme .
+METHODS	A pre and post CST groups comparison was undertaken to evaluate the open trial first phase and an ANCOVA model used to analyse the maintenance phase with its controlled comparison .
+RESULTS	We found no evidence for a benefit on the family caregiver outcome measures of the intervention before and after CST groups by using a t-test analysis or any significant differences between intervention and control groups for any of the variables considered at any time point ( 3 and 6 month follow up ) .
+CONCLUSIONS	CST seems to have a relatively specific benefit fpr people with dementia that may not carry over to family carers .
+CONCLUSIONS	Future studies need to further explore and compare the effects that CST might bring to family caregivers of people with dementia attending the intervention .
+BACKGROUND	Current Controlled Trials ISRCTN26286067 .
+

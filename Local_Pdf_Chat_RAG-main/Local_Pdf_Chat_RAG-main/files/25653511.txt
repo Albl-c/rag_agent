@@ -1,0 +1,14 @@
+25653511
+BACKGROUND	The objective of this study was to assess the efficacy and safety of alfuzosin 10 mg monotherapy or combined antihypertensive medication on blood pressure ( BP ) in patients with lower urinary tract symptoms suggestive of benign prostatic hyperplasia ( BPH/LUTS ) with or without antihypertensive medication .
+METHODS	This was a 3-month , multicenter , randomized , open-label study in 335 patients aged 45 years with a clinical diagnosis of BPH/LUTS by medical history and clinical examination , a total International Prostatic Symptom Score ( IPSS ) 8 points , a maximum flow rate > 5 mL/sec and 15 mL/sec , and a voided volume 120 mL .
+METHODS	Eligible subjects were randomized to receive alfuzosin 10 mg as monotherapy ( group 1 ) or alfuzosin 10 mg + antihypertensive combination therapy ( group 2 ) .
+METHODS	Based on baseline BP and hypertensive history with or without antihypertensive medications at first medical examination , group 1 was divided into two subgroups of normotensive and untreated hypertensive patients , and group 2 into two subgroups of controlled hypertensive and uncontrolled hypertensive patients .
+METHODS	The primary study outcomes were change in IPSS , BP , and heart rate from baseline .
+METHODS	Secondary outcomes were change in IPSS-quality of life score , maximum flow rate , average flow rate , voided volume , and post-voided volume .
+RESULTS	The overall BP change was not significantly different between groups 1 and 2 ( systolic BP , P = 0.825 ; diastolic BP , P > 0.999 ) .
+RESULTS	In patients with uncontrolled or untreated hypertension , alfuzosin 10 mg alone or combined with antihypertensive therapy significantly decreased systolic and diastolic BP .
+RESULTS	The mean difference in total IPSS and IPSS-quality of life scores from baseline between groups 1 and 2 was 0.45 ( 95 % CI : -1.26 , 2.16 ) and 0.12 ( 95 % CI : -0.21 , 0.45 ) , respectively ( both P > 0.05 ) .
+RESULTS	Maximum flow rate , average flow rate , voided volume , and post-voided volume at endpoint were numerically , but not significantly , changed from baseline ( all P > 0.05 ) .
+CONCLUSIONS	This study shows that alfuzosin 10 mg is effective and well tolerated in patients with BPH/LUTS with or without antihypertensive medications .
+CONCLUSIONS	However , in patients with uncontrolled or untreated hypertension , alfuzosin 10 mg alone or in combination with antihypertensive medication appears to decrease systolic and diastolic BP , and these patients should be warned about a decrease in BP on initiation of therapy .
+

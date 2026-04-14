@@ -1,0 +1,12 @@
+24316711
+OBJECTIVE	To compare the three non-steroidal anti-inflammatory agents ( NSAIDs ) Diclofenac potassium , Etodolac and Naproxen sodium in relation to pain , swelling and trismus following impacted third molar surgery .
+METHODS	The study was a randomized and a double-blinded study which included 42 healthy young individuals with impacted third molars and bone retention .
+METHODS	Patients were randomly assigned to 3 groups ( n : 14 ) to which Diclofenac potassium , Naproxen sodium and Etodolac were administered orally an hour before the operation .
+METHODS	Impacted third molars were surgically extracted with local anaesthesia .
+METHODS	Visual analog scales ( VAS ) were used to assess the pain in the 6th , 12th hours and on the 1st , 2nd , 3rd , 5th , and 7th days postoperatively .
+METHODS	Swelling was evaluated using ultrasound ( US ) and mouth opening ( trismus ) was measured with a composing stick pre and post operatively on the 2nd and 7th days respectively .
+RESULTS	Regarding pain alleviation , Diclofenac potassium was better than Naproxen sodium and Naproxen sodium was better than Etodolac but these differences were not statistically significant .
+RESULTS	US measurements showed that the swelling on postoperative 2nd day was significantly lowest with Diclofenac potassium as compared to others ( p = 0.027 ) while Naproxen sodium and Etodolac acted similarly ( p = 0.747 ) .
+RESULTS	No difference was noted regarding trismus in any of the groups .
+CONCLUSIONS	NSAIDs ( Diclofenac , Naproxen and Etodolac ) are somehow similarly effective for controlling pain and trismus following extraction of mandibular third molars but Diclofenac potassium surpasses others in reduction of swelling .
+

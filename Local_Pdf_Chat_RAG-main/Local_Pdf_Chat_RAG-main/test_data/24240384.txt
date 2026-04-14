@@ -1,0 +1,17 @@
+24240384
+OBJECTIVE	Extracorporeal circulation ( ECC ) of blood during cardiopulmonary surgery has been shown to stimulate various proinflammatory molecules such as cytokines and chemokines .
+OBJECTIVE	The biochemical oxidation/reduction pathways of - lipoic acid suggest that it may have antioxidant properties .
+METHODS	In this study we aimed to evaluate only patients with coronary heart disease and those planned for coronary artery bypass graft operation .
+METHODS	Blood samples were obtained from the patients before the operation ( P1 ) and one ( P2 ) , four ( P3 ) , 24 ( P4 ) and 48 hours ( P5 ) after administration of - lipoic acid ( LA ) .
+METHODS	The patients were divided into two groups , control and LA treatment group .
+METHODS	Levels of interleukin - 6 ( IL-6 ) and -8 ( IL-8 ) , complement 3 ( C3 ) and 4 ( C4 ) , anti-streptolysin ( ASO ) , C-reactive protein ( CRP ) and haptoglobin were assessed in the blood samples .
+RESULTS	Cytokine IL-6 and IL-8 levels were significantly higher after surgery .
+RESULTS	Compared with the control groups , LA significantly decreased IL-6 and IL-8 levels in a time-dependent manner .
+RESULTS	CRP levels did not show significant variation in the first three time periods .
+RESULTS	CRP levels were higher after surgery , especially in the later periods .
+RESULTS	These results demonstrate that CRP formation depends on cytokine release .
+RESULTS	C3 and C4 levels were significantly higher after surgery than in the pre-operative period .
+RESULTS	LA treatment decreased C3 and C4 levels .
+RESULTS	Therefore , LA administration may be useful for the treatment of diseases and processes where excessive cytokine release could cause oxidative damage .
+CONCLUSIONS	Our findings suggest a possible benefit of using LA during cardiac surgery to reduce cytokine levels .
+

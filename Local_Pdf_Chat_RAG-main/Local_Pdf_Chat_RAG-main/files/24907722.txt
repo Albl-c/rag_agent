@@ -1,0 +1,13 @@
+24907722
+OBJECTIVE	Posttransplant anemia is associated with an increased risk of congestive heart failure , left ventricular hypertrophy , and death .
+OBJECTIVE	The purpose of this study was to evaluate the effect of long-acting erythropoietin-stimulating agents on anemia after kidney transplant .
+METHODS	In 2306 kidney transplant recipients , 250 anemic patients ( 11 % ) with stable graft function were followed at the Hamed Al-Essa Organ Transplant Centre ( Kuwait ) and were assessed for anemia .
+METHODS	We enrolled 120 patients into this open-label study in 2 groups : group 1 had treatment with darbepoetin alfa ( 86 patients ) and group 2 had continuous erythropoietin receptor activator ( 34 patients ) .
+RESULTS	Patient age correlated negatively with serum iron level .
+RESULTS	Serum ferritin correlated negatively with hemoglobin level 6 months after transplant but not at time of transplant .
+RESULTS	Most patients were women who received their grafts from male donors .
+RESULTS	The 2 groups were comparable in frequency of rejection and mean hemoglobin and serum albumin levels at 3 , 6 , 9 , and 12 months after transplant .
+RESULTS	There was no difference between the 2 groups in renal function ( estimated glomerular filtration rate ) ; posttransplant complications such as new-onset diabetes after transplant , hypertension , serious bacterial infections , or patient and graft outcomes .
+CONCLUSIONS	Anemia is an important problem after kidney transplant , and iron use is suboptimal in kidney transplant recipients .
+CONCLUSIONS	Darbepoetin alfa and continuous erythropoietin receptor activator had comparable positive results .
+

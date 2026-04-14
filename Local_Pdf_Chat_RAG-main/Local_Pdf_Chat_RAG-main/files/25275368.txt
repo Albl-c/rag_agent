@@ -1,0 +1,16 @@
+25275368
+BACKGROUND	Coordination between breathing and swallowing helps prevent aspiration of foreign material into the respiratory tract .
+BACKGROUND	The authors examined the effects of anesthesia and hypercapnia on swallowing-breathing coordination .
+METHODS	In a randomized controlled crossover study , general anesthesia with propofol or sevoflurane was titrated using an up-down method to identify the threshold for suppression of the motor response to electrical stimulation of the forearm .
+METHODS	Additional measurements included bispectral index , genioglossus electromyogram , ventilation ( pneumotachometer ) , and hypopharyngeal pressure .
+METHODS	During wakefulness and at each level of anesthesia , carbon dioxide was added to increase the end-tidal pressure by 4 and 8 mmHg .
+METHODS	A swallow was defined as increased genioglossus activity with deglutition apnea and an increase in hypopharyngeal pressure .
+METHODS	Spontaneous swallows were categorized as physiological ( during expiration or followed by expiration ) or pathological ( during inspiration or followed by an inspiration ) .
+RESULTS	A total of 224 swallows were analyzed .
+RESULTS	Anesthesia increased the proportion of pathological swallows ( 25.9 % vs. 4.9 % ) and decreased the number of swallows per hour ( 1.73.3 vs. 28.022.3 ) compared to wakefulness .
+RESULTS	During anesthesia , hypercapnia decreased hypopharyngeal pressure during inspiration ( -14.13.7 vs. -8.72 mmHg ) and increased minute ventilation , the proportion of pathological swallows ( 19.1 % vs. 12.3 % ) , and the number of swallows per hour ( 5.517.0 .
+RESULTS	vs. 1.35.5 ) .
+CONCLUSIONS	Anesthesia impaired the coordination between swallowing and respiration .
+CONCLUSIONS	Mild hypercapnia increased the frequency of swallowing during anesthesia and the likelihood of pathological swallowing .
+CONCLUSIONS	During anesthesia , the risk for aspiration may be further increased when ventilatory drive is stimulated .
+

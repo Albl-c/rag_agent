@@ -1,0 +1,12 @@
+26176357
+BACKGROUND	The anxiolytic efficacy of video watching , in the absence of parents , during the mask induction of anesthesia in young children with high separation anxiety has not been clearly established .
+BACKGROUND	We performed this study to determine whether the effect of video distraction on alleviating preoperative anxiety is independent of parental presence and whether a combination of both interventions is more effective than either single intervention in alleviating preoperative anxiety and postoperative behavioral disturbance in preschool children .
+METHODS	In this prospective trial , 117 children aged 2 to 7 years scheduled for elective minor surgery were randomly allocated to 1 of 3 groups , a video distraction group ( group V ) , a parental presence group ( group P ) , or a combination of video distraction plus parental presence group ( group VP ) during induction of sevoflurane anesthesia .
+METHODS	The Modified Yale Preoperative Anxiety Scale ( mYPAS ) was used to assess anxiety in the preoperative holding area ( baseline ) , immediately after entry to the operating room , and during mask induction .
+METHODS	Compliance during induction , emergence delirium during recovery , and negative behavioral changes at 1 day and 2 weeks postoperatively were also assessed .
+RESULTS	The mYPAS scores were comparable ( P = 0.558 ) , and the number of children exhibiting baseline anxiety ( an mYPAS score > 30 ) were not different among the 3 groups in the preoperative holding area ( P = 0.824 ) .
+RESULTS	After intervention , the changes in mYPAS scores from baseline to induction were not different among the 3 groups ( P = 0.049 ) .
+RESULTS	The proportion of children with increased mYPAS scores was higher in group P compared with group V from baseline to operating room entry ( Bonferroni-adjusted 95 % confidence interval for difference , 2 to 49 ) but similar from baseline to induction in all 3 groups .
+RESULTS	Although children in group V were more cooperative during mask induction than those in the other 2 groups ( P < 0.001 versus group P and P = 0.001 versus group VP ) , no significant intergroup differences were observed in the incidence of emergence delirium or new-onset negative behavioral change after surgery .
+CONCLUSIONS	Video distraction , parental presence , or their combination showed similar effects on preoperative anxiety during inhaled induction of anesthesia and postoperative behavioral outcomes in preschool children having surgery .
+

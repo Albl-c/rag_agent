@@ -1,0 +1,16 @@
+24297959
+OBJECTIVE	To investigate and compare the effects of superelastic nickel-titanium and multistranded stainless steel archwires on pain during the initial phase of orthodontic treatment .
+METHODS	A double-blind two-arm parallel design stratified randomized clinical trial .
+METHODS	A single centre in India between December 2010 and June 2012 .
+METHODS	A total of 96 participants ( 48 male and 48 females ; 14.12.1 years old ) were randomized ( stratified on age , sex and initial crowding ) to superelastic nickel-titanium or multistranded stainless steel archwire groups using a computer-generated allocation sequence .
+METHODS	We compared 0.016-inch superelastic nickel-titanium and 0.0175-inch multistranded stainless steel wires in 0.022-inch slot ( Roth prescription ) preadjusted edgewise appliances .
+METHODS	The follow-up period was 14 days .
+METHODS	Outcome was assessed with a visual analogue scale at baseline and 32 pre-specified follow-up points .
+METHODS	Data was analyzed using mixed-effects model analysis .
+RESULTS	One participant was lost to follow up and 10 were excluded from the analysis due to bond failure or incomplete questionnaire answers .
+RESULTS	Ultimately , 85 participants ( 42 males and 43 females ; 14.12.0 years old ) were analysed for the final results .
+RESULTS	No statistically significant difference was found for overall pain [ F value = 2.65 , degrees of freedom ( df ) = 92.6 ; P = 0.1071 ] .
+RESULTS	However , compared to multistranded stainless steel wires , pain in subjects with superelastic nickel-titanium archwires was significantly greater at 12 h ( t = 2.34 ; P = 0.0193 ) , as well as at day 1 in the morning ( t = 2.21 , P = 0.0273 ) , afternoon ( t = 2.11 , P = 0.0346 ) and at bedtime ( t = 2.03 , P = 0.042 ) .
+CONCLUSIONS	For overall pain , there was no statistically significant difference between the two wires .
+CONCLUSIONS	However , subjects with superelastic nickel-titanium archwires had a significantly higher pain at peak level .
+

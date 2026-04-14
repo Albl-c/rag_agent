@@ -1,0 +1,12 @@
+25206295
+OBJECTIVE	To study the effect of probiotic consumption on the faecal microbiota during and after antibiotic exposure .
+METHODS	A randomized , double-blind , placebo-controlled , parallel group study with a two species probiotic combination [ Lactobacillus acidophilus ( L. acidophilus ) ATCC 700396 and Bifidobacterium lactis ( B. lactis ) ATCC SD5220 ] on healthy adults during and after antibiotic treatment ( amoxicillin 875 and 125 mg clavulanate ) .
+METHODS	The dominant faecal microbiota was studied by real time-polymerase chain reaction to determine if this probiotic preparation could facilitate restoring the microbiota to its pre-antibiotic state and influence the prevalence of beta-lactam resistance .
+METHODS	Gastrointestinal symptoms were recorded by questionnaire and Bristol stool scale .
+RESULTS	Subjects on the probiotic combination had significantly higher faecal counts of L. acidophilus ATCC 700396 and B. lactis at day 8 ( end of antibiotic treatment period ) vs those on placebo .
+RESULTS	Furthermore , subjects on the probiotic combination had significantly higher faecal counts of L. acidophilus ATCC 700396 and B. lactis at Day 15 ( end of probiotic treatment ) vs those on placebo .
+RESULTS	Lactobacillus counts remained stable in the probiotic group over the course of the study , while Clostridium XIV group was higher at the end of the study and closer to baseline levels ; this in contrast to the placebo group .
+RESULTS	Beta-lactam resistance in creased after antibiotic exposure and was not different between both treatment groups .
+RESULTS	Gastrointestinal symptoms were generally mild and did not differ between the treatment groups , which correlates with the generally small changes in the microbiota .
+CONCLUSIONS	Consumption of the probiotic combination mainly leads to an increase in the faecal levels of the species included in the preparation .
+

@@ -1,0 +1,22 @@
+25255799
+OBJECTIVE	To assess the effects of a patient oriented decision aid for prioritising treatment goals in diabetes compared with usual care on patient empowerment and treatment decisions .
+METHODS	Pragmatic randomised controlled trial .
+METHODS	18 general practices in the north of the Netherlands .
+METHODS	344 patients with type 2 diabetes aged 65 years at the time of diagnosis and managed in primary care between April 2011 and August 2012 : 225 were allocated to the intervention group and 119 to the usual care group .
+METHODS	The intervention comprised a decision aid for people with diabetes , with individually tailored risk information and treatment options for multiple risk factors .
+METHODS	The aid was intended to empower patients to prioritise between clinical domains and to support treatment decisions .
+METHODS	It was offered to participants before a regular diabetes check-up and to their healthcare provider during the consultation .
+METHODS	Four different formats of the decision aid were included for additional explorative analyses .
+METHODS	The primary outcome was the effects on patient empowerment for setting and achieving goals .
+METHODS	The secondary outcomes were changes in the prescribing of drugs to regulate glucose , blood pressure , lipids , and albuminuria .
+METHODS	Data were collected through structured questionnaires and automated data extraction from electronic health records during six months before and after the intervention .
+RESULTS	Of all intervention participants , 103 ( 46 % ) reported to have received the basic elements of the intervention .
+RESULTS	For the primary outcome analysis , 199 intervention and 107 control patients with sufficient baseline and follow-up data could be included .
+RESULTS	The mean empowerment score increased 0.1 on a 5 point scale in the overall intervention group , which was not significantly different from that of the control group ( mean difference after adjusting for baseline 0.039 , 95 % confidence interval -0.056 to 0.134 ) .
+RESULTS	Lipid regulating drug treatment was intensified in 25 % of intervention and 12 % of control participants with increased cholesterol levels , which did not reach significance when the intervention was compared with the usual care group ( odds ratio 2.54 , 95 % confidence interval 0.89 to 7.23 ) .
+RESULTS	Prespecified explorative analyses showed that this effect was significant for the printed version of the decision aid in comparison to usual care ( 3.90 , 1.29 to 11.80 ) .
+RESULTS	No relevant or significant changes were seen for other treatments .
+CONCLUSIONS	We found no evidence that the patient oriented treatment decision aid improves patient empowerment by an important amount .
+CONCLUSIONS	The aid was not used to its full extent in a substantial number of participants .
+BACKGROUND	Dutch trial register NTR1942 .
+

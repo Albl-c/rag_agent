@@ -1,0 +1,10 @@
+24511017
+OBJECTIVE	We aimed to investigate the clinical significance of the activation of Yes-Associated Protein 1 ( YAP1 ) , a key downstream effector of Hippo tumor-suppressor pathway , in ovarian cancer .
+METHODS	A gene expression signature reflecting activation of YAP1 was developed from gene expression data of 267 samples from patients with ovarian cancer .
+METHODS	A refined ovarian cancer YAP1 signature was validated in an independent ovarian cancer cohort ( n = 185 ) .
+METHODS	Associations between the YAP1 signature and prognosis were assessed using Kaplan-Meier plots , the log-rank test , and a Cox proportional hazards model .
+RESULTS	We identified a 612-gene expression signature reflecting YAP1 activation in ovarian cancer .
+RESULTS	In multivariate analysis , the signature was an independent predictor of overall survival ( hazard ratio = 1.66 ; 95 % confidence interval = 1.1 to 2.53 ; p = 0.01 ) .
+RESULTS	In subset analysis , the signature identified patients likely to benefit from taxane-based adjuvant chemotherapy .
+CONCLUSIONS	Activation of YAP1 is significantly associated with prognosis and the YAP1 signature can predict response to taxane-based adjuvant chemotherapy in patients with ovarian cancer .
+

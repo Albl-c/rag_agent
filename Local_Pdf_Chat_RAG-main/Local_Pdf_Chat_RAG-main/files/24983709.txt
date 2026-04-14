@@ -1,0 +1,16 @@
+24983709
+BACKGROUND	Detailed characterization of asthma phenotypes is essential for identification of responder populations to allow directed personalized medical intervention .
+OBJECTIVE	The aim of this study was to identify distinctive patient characteristics within subgroups of a well-characterized severe asthma population at risk for exacerbations and to determine the treatment response within each subgroup .
+METHODS	A supervised cluster analysis with recursive partitioning approach was applied to data from the Dose Ranging Efficacy And safety with Mepolizumab ( DREAM ) study to identify characteristics that maximized the differences across subgroups .
+METHODS	Exacerbation rate ratios were calculated for each cluster comparing mepolizumab versus placebo .
+RESULTS	Three predictors were identified in four primary clusters : blood eosinophils , airway reversibility , and body mass index .
+RESULTS	The reduction in exacerbations was significantly greater in patients who received mepolizumab ( clusters 2 , 3 , and 4 ) with raised eosinophils ( responder population ) .
+RESULTS	Cluster 2 with low airway reversibility ( mean , 11 % ) had a 53 % reduction in exacerbations .
+RESULTS	These patients more frequently reported sinusitis and nasal polyposis .
+RESULTS	Those with higher airway reversibility ( mean , 28 % ) were further split by body mass index .
+RESULTS	The nonobese versus obese ( clusters 3 and 4 ) had a 35 and 67 % reduction in exacerbations , respectively .
+RESULTS	Cluster 4 also had patients with more comorbidities , including hypertension , weight gain , and anxiety .
+CONCLUSIONS	Using supervised cluster analysis helped identify specific patient characteristics related to disease and therapeutic response .
+CONCLUSIONS	Patients with eosinophilic inflammation received significant therapeutic benefit with mepolizumab , and responses differed within clusters .
+CONCLUSIONS	Clinical trial registered with www.clinicaltrials.gov ( NCT01000506 ) .
+

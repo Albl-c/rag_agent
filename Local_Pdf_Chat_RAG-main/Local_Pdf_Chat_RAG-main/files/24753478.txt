@@ -1,0 +1,10 @@
+24753478
+METHODS	Since bolus administration of capsaicin has been shown to reduce appetite and ad libitum energy intake , this study elucidated the satiating effect of the less pungent capsaicin analog , nonivamide , on subjective feelings of hunger , ad libitum food intake , and satiating hormones in moderately overweight male subjects .
+RESULTS	Following a randomized , crossover design , 24 male subjects ( BMI 27.5 1.53 kg/m ( 2 ) ) received either 75 g glucose in 300 mL water ( control treatment , CT ) or the same glucose solution supplemented with 0.15 mg nonivamide ( nonivamide treatment , NT ) .
+RESULTS	Ratings of hunger were assessed before and 2 h after each intervention by means of visual analog scales .
+RESULTS	Ad libitum energy and macronutrient intakes from a standardized breakfast 2 h postintervention were calculated .
+RESULTS	Plasma glucose , insulin , peptide YY ( 3-36 ) , glucagon-like peptide 1 , and serotonin were quantified in blood samples drawn before and 15 , 30 , 60 , 90 , and 120 min after each intervention .
+RESULTS	NT reduced subjective feelings of hunger and ad libitum energy and carbohydrate intakes from a standardized breakfast compared to CT. .
+RESULTS	Plasma analysis revealed higher mean plasma glucagon-like peptide 1 and serotonin concentrations after NT versus CT. .
+CONCLUSIONS	Addition of 0.15 mg nonivamide to a glucose solution reduced ad libitum energy intake from a standardized breakfast in moderately overweight men .
+

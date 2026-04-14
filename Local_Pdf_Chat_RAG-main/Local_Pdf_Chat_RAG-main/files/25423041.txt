@@ -1,0 +1,20 @@
+25423041
+BACKGROUND	Xpert MTB/RIF is approved for use in tuberculosis ( TB ) and rifampicin-resistance diagnosis .
+BACKGROUND	However , data are limited on the impact of Xpert under routine conditions in settings with high TB burden .
+RESULTS	A pragmatic prospective cluster-randomised trial of Xpert for all individuals with presumptive ( symptomatic ) TB compared to the routine diagnostic algorithm of sputum microscopy and limited use of culture was conducted in a large TB/HIV primary care clinic .
+RESULTS	The primary outcome was the proportion of bacteriologically confirmed TB cases not initiating TB treatment by 3 mo after presentation .
+RESULTS	Secondary outcomes included time to TB treatment and mortality .
+RESULTS	Unblinded randomisation occurred on a weekly basis .
+RESULTS	Xpert and smear microscopy were performed on site .
+RESULTS	Analysis was both by intention to treat ( ITT ) and per protocol .
+RESULTS	Between 7 September 2010 and 28 October 2011 , 1,985 participants were assigned to the Xpert ( n = 982 ) and routine ( n = 1,003 ) diagnostic algorithms ( ITT analysis ) ; 882 received Xpert and 1,063 routine ( per protocol analysis ) .
+RESULTS	13 % ( 32/257 ) of individuals with bacteriologically confirmed TB ( smear , culture , or Xpert ) did not initiate treatment by 3 mo after presentation in the Xpert arm , compared to 25 % ( 41/167 ) in the routine arm ( ITT analysis , risk ratio 0.51 , 95 % CI 0.33-0 .77 , p = 0.0052 ) .
+RESULTS	The yield of bacteriologically confirmed TB cases among patients with presumptive TB was 17 % ( 167/1 ,003 ) with routine diagnosis and 26 % ( 257/982 ) with Xpert diagnosis ( ITT analysis , risk ratio 1.57 , 95 % CI 1.32-1 .87 , p < 0.001 ) .
+RESULTS	This difference in diagnosis rates resulted in a higher rate of treatment initiation in the Xpert arm : 23 % ( 229/1 ,003 ) and 28 % ( 277/982 ) in the routine and Xpert arms , respectively ( ITT analysis , risk ratio 1.24 , 95 % CI 1.06-1 .44 , p = 0.013 ) .
+RESULTS	Time to treatment initiation was improved overall ( ITT analysis , hazard ratio 0.76 , 95 % CI 0.63-0 .92 , p = 0.005 ) and among HIV-infected participants ( ITT analysis , hazard ratio 0.67 , 95 % CI 0.53-0 .85 , p = 0.001 ) .
+RESULTS	There was no difference in 6-mo mortality with Xpert versus routine diagnosis .
+RESULTS	Study limitations included incorrect intervention allocation for a high proportion of participants and that the study was conducted in a single clinic .
+CONCLUSIONS	These data suggest that in this routine primary care setting , use of Xpert to diagnose TB increased the number of individuals with bacteriologically confirmed TB who were treated by 3 mo and reduced time to treatment initiation , particularly among HIV-infected participants .
+BACKGROUND	Pan African Clinical Trials Registry PACTR201010000255244 .
+BACKGROUND	Please see later in the article for the Editors ' Summary .
+

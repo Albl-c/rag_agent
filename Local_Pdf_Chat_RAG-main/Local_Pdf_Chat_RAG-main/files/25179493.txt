@@ -1,0 +1,16 @@
+25179493
+BACKGROUND	Chronic hepatitis B ( CHB ) is a major public health concern , particularly in endemic areas like Asia-Pacific .
+BACKGROUND	Sustained virologic suppression correlates with regression of histologic fibrosis and cirrhosis .
+OBJECTIVE	This study evaluated efficacy and safety of tenofovir disoproxil fumarate ( TDF ) in Asian patients through 240 weeks of treatment .
+METHODS	Post hoc analysis of the Asian subpopulation from two phase 3 clinical studies was performed .
+METHODS	Following a 48-week randomized , double-blind evaluation of once-daily TDF versus once-daily adefovir dipivoxil , open-label TDF for up to 240 weeks was evaluated .
+METHODS	Patients with both baseline and week 240 liver biopsies were evaluated for histologic changes .
+RESULTS	At baseline , 189/641 ( 29 % ) patients randomized were Asian .
+RESULTS	Sixty-eight percent of Asian patients were male ; 50 % were hepatitis B e antigen ( HBeAg ) - positive .
+RESULTS	At week 240 , similar proportions of Asian ( 88 % ) and non-Asian ( 87 % ) patients demonstrated improvement in liver histology , and 19/22 ( 86 % ) Asian patients with baseline cirrhosis were no longer cirrhotic .
+RESULTS	By modified intent-to-treat analysis , 74 % of Asian patients and 76 % of non-Asian patients had HBV DNA < 400 copies/mL at the end of week 240 ( P = 0.602 ) .
+RESULTS	No differences were seen in HBeAg loss or seroconversion in Asian versus non-Asian patients .
+RESULTS	No Asian patient experienced hepatitis B surface antigen loss .
+RESULTS	Safety and tolerability of TDF through week 240 , including changes in renal function and in hip/spine bone mineral density ( from weeks 192 to 240 ) , were comparable between Asian and non-Asian patients .
+CONCLUSIONS	Long-term virologic and histologic efficacy and safety of TDF are comparable in Asian and non-Asian CHB patients .
+

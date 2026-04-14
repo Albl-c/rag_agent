@@ -1,0 +1,14 @@
+25376735
+BACKGROUND	In addition to their effects on bone health , high doses of cholecalciferol may have beneficial non-classic effects including the reduction of incidence of type 2 diabetes mellitus , cardiovascular disease , and cancer .
+BACKGROUND	These pleiotropic effects have been documented in observational and experimental studies or in small intervention trials .
+BACKGROUND	Vitamin D insufficiency is a frequent finding in renal transplant recipients ( RTRs ) , and this population is at risk of the previously cited complications .
+METHODS	The VITALE study is a prospective , multicentre , double-blind , randomized , controlled trial with two parallel groups that will include a total of 640 RTRs .
+METHODS	RTRs with vitamin D insufficiency , defined as circulating 25-hydroxyvitamin D levels of less than 30 ng/ml ( or 75 nmol/l ) , will be randomized between 12 and 48 months after transplantation to blinded groups to receive vitamin D3 ( cholecalciferol ) either at high or low dose ( respectively , 100,000 UI or 12,000 UI every 2 weeks for 2 months then monthly for 22 months ) with a follow-up of 2 years .
+METHODS	The primary objective of the study is to evaluate the benefit/risk ratio of high-dose versus low-dose cholecalciferol on a composite endpoint consisting of de novo diabetes mellitus ; major cardiovascular events ; de novo cancer ; and patient death .
+METHODS	Secondary endpoints will include blood pressure ( BP ) control ; echocardiography findings ; the incidences of infection and acute rejection episodes ; renal allograft function using estimated glomerular filtration rate ; proteinuria ; graft survival ; bone mineral density ; the incidence of fractures ; and biological relevant parameters of mineral metabolism .
+CONCLUSIONS	We previously reported that the intensive cholecalciferol treatment ( 100 000 IU every 2 weeks for 2 months ) was safe in RTR .
+CONCLUSIONS	Using a pharmacokinetic approach , we showed that cholecalciferol 100,000 IU monthly should maintain serum 25-hydroxyvitamin D at above 30 ng/ml but below 80 ng/ml after renal transplantation .
+CONCLUSIONS	Taken together , these results are reassuring regarding the safety of the cholecalciferol doses that will be used in the VITALE study .
+CONCLUSIONS	Analysis of data collected during the VITALE study will demonstrate whether high or low-dose cholecalciferol is beneficial in RTRs with vitamin D insufficiency .
+BACKGROUND	ClinicalTrials.gov Identifier : NCT01431430 .
+

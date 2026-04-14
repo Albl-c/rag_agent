@@ -1,0 +1,13 @@
+25130704
+BACKGROUND	Red blood cell ( RBC ) transfusion is frequently used to treat women with acute anaemia after postpartum haemorrhage .
+BACKGROUND	We aimed to assess the economic consequences of red blood cell transfusion compared to non-intervention in these women .
+METHODS	A trial-based cost-effectiveness analysis was performed alongside the Well-Being of Obstetric patients on Minimal Blood transfusions ( WOMB ) trial .
+METHODS	Women with acute anaemia [ Hb 48-79g / dl ( 30-49mm ) ] after postpartum haemorrhage , without severe anaemic symptoms , were randomly allocated to RBC transfusion or non-intervention .
+METHODS	Primary outcome of the trial was physical fatigue ( Multidimensional Fatigue Inventory , scale 4-20 ; 20 represents maximal fatigue ) .
+METHODS	Total costs per arm were calculated using a hospital perspective with a 6weeks time horizon .
+RESULTS	Per woman , mean costs in the RBC transfusion arm ( n = 258 ) were 1957 compared to 1708 in the non-intervention arm ( n = 261 ; P = 0024 ) .
+RESULTS	The 13 % difference in costs between study arms predominantly originated from costs of RBC units , as costs of RBC units were six times higher in the RBC transfusion arm .
+RESULTS	RBC transfusion led to a small improvement in physical fatigue of 058 points per day ; thus , the costs to improve the physical fatigue score with one point would be 431 .
+CONCLUSIONS	In women with acute anaemia after postpartum haemorrhage ( PPH ) , RBC transfusion is on average 249 more expensive per woman than non-intervention , with only a small gain in HRQoL after RBC transfusion .
+CONCLUSIONS	Taking both clinical and economic consequences into account , implementation of a non-intervention policy seems justified .
+

@@ -1,0 +1,11 @@
+24359938
+OBJECTIVE	To compare the efficacy and safety of oral paracetamol and oral ibuprofen for the pharmacological closure of patent ductus arteriosus ( PDA ) in preterm infants .
+METHODS	This prospective , randomized , controlled study enrolled 90 preterm infants with gestational age 30 weeks , birthweight 1250 g , and postnatal age 48 to 96 hours who had echocardiographically confirmed significant PDA .
+METHODS	Each enrolled patient received either oral paracetamol ( 15 mg/kg every 6 hours for 3 days ) or oral ibuprofen ( initial dose of 10 mg/kg , followed by 5 mg/kg at 24 and 48 hours ) .
+RESULTS	Spontaneous closure rate for the entire study group was 54 % .
+RESULTS	After the first course of treatment , the PDA closed in 31 ( 77.5 % ) of the patients assigned to the oral ibuprofen group vs 29 ( 72.5 % ) of those enrolled in the oral paracetamol group ( P = .6 ) .
+RESULTS	The reopening rate was higher in the paracetamol group than in the ibuprofen group , but the reopening rates were not statistically different ( 24.1 % [ 7 of 29 ] vs 16.1 % [ 5 of 31 ] ; P = .43 ) .
+RESULTS	The cumulative closure rates after the second course of drugs were high in both groups .
+RESULTS	Only 2 patient ( 2.5 % ) in the paracetamol group and 3 patients ( 5 % ) in the ibuprofen group required surgical ligation .
+CONCLUSIONS	This randomized , controlled clinical study compared oral paracetamol with ibuprofen in preterm infants and demonstrated that paracetamol may be a medical alternative in the management of PDA .
+

@@ -1,0 +1,13 @@
+25369857
+BACKGROUND	Tobacco smoking prevalence continues to be high , particularly among adolescents and young adults with lower educational levels , and is therefore a serious public health problem .
+BACKGROUND	Tobacco smoking and problem drinking often co-occur and relapses after successful smoking cessation are often associated with alcohol use .
+BACKGROUND	This study aims at testing the efficacy of an integrated smoking cessation and alcohol intervention by comparing it to a smoking cessation only intervention for young people , delivered via the Internet and mobile phone .
+METHODS	A two-arm cluster-randomised controlled trial with one follow-up assessment after 6months will be conducted .
+METHODS	Participants in the integrated intervention group will : ( 1 ) receive individually tailored web-based feedback on their drinking behaviour based on age and gender norms , ( 2 ) receive individually tailored mobile phone text messages to promote drinking within low-risk limits over a 3-month period , ( 3 ) receive individually tailored mobile phone text messages to support smoking cessation for 3months , and ( 4 ) be offered the option of registering for a more intensive program that provides strategies for smoking cessation centred around a self-defined quit date .
+METHODS	Participants in the smoking cessation only intervention group will only receive components ( 3 ) and ( 4 ) .
+METHODS	Study participants will be 1350 students who smoke tobacco daily/occasionally , from vocational schools in Switzerland .
+METHODS	Main outcome criteria are 7-day point prevalence smoking abstinence and cigarette consumption assessed at the 6-month follow up .
+CONCLUSIONS	This is the first study testing a fully automated intervention for smoking cessation that simultaneously addresses alcohol use and interrelations between tobacco and alcohol use .
+CONCLUSIONS	The integrated intervention can be easily implemented in various settings and could be used with large groups of young people in a cost-effective way .
+BACKGROUND	Current Controlled Trials ISRCTN02427446 ( date of registration : 08th September , 2014 ) .
+

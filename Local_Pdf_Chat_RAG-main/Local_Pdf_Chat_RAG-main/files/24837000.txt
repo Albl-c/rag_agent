@@ -1,0 +1,17 @@
+24837000
+OBJECTIVE	To determine the psychometric properties of an observational scale of anxiety .
+METHODS	A cross-sectional and longitudinal survey with stroke survivor-carer dyads .
+METHODS	Eighty-nine dyads recruited in community stroke groups completed : a demographic questionnaire ; the Behavioural Outcomes of Anxiety scale ( BOA ) , survivor-rated ( survivor BOA ) and carer-rated ( carer BOA ) versions ; the anxiety scale of the Hospital Anxiety and Depression Scales ( HADS-A ) , also in carer and survivor versions .
+METHODS	Twenty-seven survivors and carers repeated the BOA after 1 week .
+RESULTS	Correlations between the carer BOA and the survivor HADS-A ( r = .55 , p < .001 ) and the survivor BOA ( r = .73 , p < .001 ) demonstrated construct validity .
+RESULTS	Cronbach 's alpha for the carer BOA was .81 ; item statistics did not identify any items for exclusion .
+RESULTS	The test-retest coefficient at 1 week was 0.83 .
+RESULTS	Receiver operating characteristic analysis against the survivor HADS-A and BOA produced areas under the curve of 0.75 and 0.88 , respectively .
+RESULTS	At a cut-off score of 13/14 sensitivity and specificity against the HADS-A were 0.77 and 0.58 , respectively , and 0.86 and 0.68 against the survivor BOA .
+RESULTS	The impact of stroke on memory was associated with elevated anxiety .
+RESULTS	Scores for both BOA versions were independent of demographic variables .
+CONCLUSIONS	The carer BOA has acceptable psychometric properties and is independent of survivor demographic variables such as age .
+CONCLUSIONS	It identifies self-reported cases with acceptable sensitivity and specificity .
+CONCLUSIONS	It has potential for use with persons unable to self-report anxiety .
+CONCLUSIONS	Further validation is recommended , but its continuing use is supported .
+

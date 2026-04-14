@@ -1,0 +1,13 @@
+24971591
+OBJECTIVE	The cortisol awakening response ( CAR ) is a natural metabolic response that can be potentiated by negative cognitive-emotional processes , including stress appraisals , negative affect , and rumination .
+OBJECTIVE	Psychological distress and the CAR are not consistently related , however .
+OBJECTIVE	Individual differences in aspects of dispositional mindfulness which reflect how people relate to negative thoughts and emotions may help explain such inconsistencies .
+OBJECTIVE	We tested whether the tendency to ( 1 ) label and describe inner experiences and ( 2 ) accept negative thoughts and feelings without judgment moderated the association between psychological distress and the CAR .
+METHODS	Self-reported dispositional mindfulness , perceived stress , anxiety , negative affect , rumination , and the CAR were assessed among overweight/obese women .
+METHODS	Regression analyses were conducted to examine whether dispositional mindfulness moderated the relationship between indicators of psychological distress and the CAR .
+RESULTS	While psychological distress was consistently positively related to the CAR , these associations were qualified by significant interactions with both components of dispositional mindfulness .
+RESULTS	Psychological distress was associated with the CAR at lower levels of dispositional mindfulness but not at higher levels .
+CONCLUSIONS	These findings are consistent with the idea that the tendency to describe and accept experiences may buffer the impact of psychological distress on physiological arousal .
+CONCLUSIONS	These metacognitive processes may be important moderators in unraveling the complex relationship between psychological distress and physiological stress reactivity .
+CONCLUSIONS	Further research is recommended to replicate this approach in other populations .
+

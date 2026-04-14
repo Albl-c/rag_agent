@@ -1,0 +1,18 @@
+24380989
+BACKGROUND	Food residue in the remnant stomach after subtotal gastrectomy ( STG ) interferes with endoscopic observation .
+BACKGROUND	We investigated whether intravenous erythromycin improves gastric mucosa visualization in patients with STG .
+METHODS	This study was conducted from April 2012 to October 2012 as a double-blinded , placebo-controlled , randomized trial .
+METHODS	Patients who received STG with complete resection ( stage T1-2N0M0 ) were included .
+METHODS	Exclusion criteria were diabetes mellitus , neurologic disease , myopathy , recent viral enteritis history , concomitant therapy influencing gastrointestinal motility and severe comorbidity .
+METHODS	Patients were instructed to consume a soft diet for dinner between 1800 and 2000 h , and endoscopies were performed between 0900 and 1200 h. Patients were assigned randomly to receive either erythromycin ( 125 mg in normal saline 50 cc ) or placebo saline .
+METHODS	The endoscopy was performed 15 min after infusion .
+METHODS	Grade of residual food was rated as follows : G0 , no residual food ; G1 , a small amount of residual food ; G2 , a moderate amount of residual food ; G3 , a moderate amount of residual food that hinders observation of the entire surface , even with body rolling ; G4 , a great amount of residual food such that endoscopic observation is impossible .
+RESULTS	When good visibility was defined as G0 + G1 , visibility was significantly better in the erythromycin group ( 61 + 19 % ) than in the placebo group ( 38 + 12 % , p < 0.001 ) .
+RESULTS	However , this effect was not seen in patients within 6 months after gastrectomy .
+RESULTS	The risk factor for food stasis in the placebo group ( n = 58 ) was food stasis at last endoscopy .
+RESULTS	The only factor predicting erythromycin response in the erythromycin group ( n = 56 ) was elapsed time since surgery .
+RESULTS	Adverse effects included nausea [ 11 ( 19.7 % ) ] and vomiting [ 1 ( 1.8 % ) ] in the erythromycin group and vomiting [ 3 ( 5.2 % ) ] in the placebo group .
+RESULTS	However , they were transient and tolerable .
+CONCLUSIONS	Premedication with erythromycin improves mucosal visualization during endoscopy in patients with STG .
+BACKGROUND	NCT01659619 ) .
+

@@ -1,0 +1,13 @@
+25187436
+BACKGROUND	Although half of all patients with heart failure ( HF ) have a normal or near-normal ejection fraction and their prognosis differs little from that of patients with a reduced ejection fraction , the pathophysiology of HF with preserved ejection fraction ( HF-PEF ) is still poorly understood , and its management poorly supported by clinical trials .
+BACKGROUND	Sodium and fluid restriction is the most common self-care measure prescribed to HF patients for management of congestive episodes .
+BACKGROUND	However , its role in the treatment of HF-PEF remains unclear .
+BACKGROUND	This trial seeks to compare the effects of a sodium - and fluid-restricted diet versus an unrestricted diet on weight loss , neurohormonal activation , and clinical stability in patients admitted for decompensated HF-PEF .
+METHODS	This is a randomized , parallel trial with blinded outcome assessment .
+METHODS	The sample will include adult patients ( aged 18years ) with a diagnosis of HF-PEF admitted for HF decompensation .
+METHODS	The patients will be randomized to receive a diet with sodium and fluid intake restricted to 0.8 g/day and 800mL/day respectively ( intervention group ) or an unrestricted diet , with 4g/day sodium and unlimited fluid intake ( control group ) , and followed for 7days or until hospital discharge .
+METHODS	The primary outcome shall consist of weight loss at 7days or discharge .
+METHODS	The secondary outcome includes assessment of clinical stability , neurohormonal activation , daily perception of thirst and readmission rate at 30days .
+CONCLUSIONS	Assessment of the effects of sodium and fluid restriction on neurohormonal activation and clinical course of HF-PEF can promote a deeper understanding of the pathophysiology and progression of this complex syndrome .
+BACKGROUND	ClinicalTrials.gov identifier : NCT01896908 ( date of registration : 8 August 2013 ) .
+

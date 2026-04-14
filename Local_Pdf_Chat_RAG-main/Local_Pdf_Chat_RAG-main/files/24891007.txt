@@ -1,0 +1,17 @@
+24891007
+METHODS	Randomised , double-blind , placebo-controlled crossover trial of melatonin supplementation to people with complete tetraplegia .
+OBJECTIVE	To investigate the effect that 3mg melatonin supplementation has on objective and subjective sleep , quality of life and mood of people living with complete tetraplegia .
+METHODS	Austin Hospital Sleep Laboratory and participants ' homes , Melbourne , Victoria , Australia .
+METHODS	Two week run-in followed by 3 week nightly administration of 3mg melatonin or placebo , 2-week washout and further 3 week administration of the opposite treatment .
+METHODS	Four testing sessions were conducted ; the last nights of the run-in , treatment and washout periods .
+METHODS	Testing sessions involved recording full polysomnography , completing a questionnaire battery and collecting urine and blood samples .
+METHODS	The questionnaires assessed mood , sleep symptoms and health-related quality of life , and the urine and plasma samples assayed 6-sulphatoxymelatonin ( aMT6s ) and melatonin levels , respectively .
+METHODS	A sleep diary was completed throughout the study .
+RESULTS	Eight participants ( mean ( s.d. ) : age 49.5 years ( 16 ) , postinjury 16.9 years ( 7.1 ) ) were recruited in which seven concluded the protocol .
+RESULTS	Endogenous-circulating melatonin was significantly higher ( P < or = 0.01 ) following melatonin ( urine : 152.94 gh ( -1 ) ( 74.51 ) , plasma : 43,554.57 pM ( 33,527.11 ) ) than placebo ( urine : 0.86 gh ( -1 ) ( 0.40 ) , plasma : 152.06 pM ( 190.55 ) ) .
+RESULTS	Subjective sleep improved significantly following melatonin specifically for duration of sleep per night and psychological wellbeing .
+RESULTS	Objective sleep showed a significant increase in light sleep with melatonin , with all other sleep parameters being unchanged .
+CONCLUSIONS	These results suggest that increasing melatonin in people with complete tetraplegia is beneficial , especially for subjective sleep .
+CONCLUSIONS	Investigation of the pharmacokinetics of melatonin metabolism in this population is warranted .
+BACKGROUND	This project is proudly supported by the Transport Accident Commission .
+

@@ -1,0 +1,15 @@
+25247991
+BACKGROUND	Exercise capacity is a strong predictor of survival in patients with coronary artery disease ( CAD ) .
+BACKGROUND	Exercise capacity improves after cardiac rehabilitation exercise training , but previous studies have demonstrated a decline in peak oxygen uptake after ending a formal rehabilitation program .
+BACKGROUND	There is a lack of knowledge on how long-term exercise adherence can be achieved in CAD patients .
+BACKGROUND	We therefore assessed if a 12-month maintenance program following cardiac rehabilitation would lead to increased adherence to exercise and increased exercise capacity compared to usual care .
+METHODS	Two-centre , open , parallel randomized controlled trial with 12 months follow-up comparing usual care to a maintenance program .
+METHODS	The maintenance program consisted of one monthly supervised high intensity interval training session , a written exercise program and exercise diary , and a maximum exercise test every third month during follow-up .
+METHODS	Forty-nine patients ( 15 women ) on optimal medical treatment were included following discharge from cardiac rehabilitation .
+METHODS	The primary endpoint was change in peak oxygen uptake at follow-up ; secondary endpoints were physical activity level , quality of life and blood markers of cardiovascular risk .
+RESULTS	There was no change in peak oxygen uptake from baseline to follow-up in either group ( intervention group 27.9 ( 4.7 ) to 28.8 ( 5.6 ) mLkg ( -1 ) min ( -1 ) , control group 32.0 ( 6.2 ) to 32.8 ( 5.8 ) mLkg ( -1 ) min ( -1 ) , with no between-group difference , p = 0.22 ) .
+RESULTS	Quality of life and blood biomarkers remained essentially unchanged , and both self-reported and measured physical activity levels were similar between groups after 12 months .
+CONCLUSIONS	A maintenance exercise program for 12 months did not improve adherence to exercise or peak oxygen uptake in CAD patients after discharge from cardiac rehabilitation compared to usual care .
+CONCLUSIONS	This suggests that infrequent supervised high intensity interval training sessions are inadequate to improve peak oxygen uptake in this patient group .
+BACKGROUND	ClinicalTrials.gov NCT01246570 .
+

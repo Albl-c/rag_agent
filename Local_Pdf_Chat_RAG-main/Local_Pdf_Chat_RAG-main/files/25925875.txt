@@ -1,0 +1,11 @@
+25925875
+OBJECTIVE	To evaluate the efficacy of Ginkgo biloba as a complementary therapy for attention-deficit/hyperactivity disorder ( ADHD ) .
+METHODS	Children and adolescents with ADHD received methylphenidate ( 20-30 mg/day ) plus either G. biloba ( 80-120 mg/day ) or placebo for 6 weeks .
+METHODS	Parent and teacher forms of the ADHD Rating Scale-IV ( ADHD-RS-IV ) were completed at baseline , week 2 , and week 6 .
+METHODS	Treatment response was defined as 27 % improvement from baseline in the ADHD-RS-IV .
+RESULTS	Compared with placebo , more reduction was observed with G. biloba regarding ADHD-RS-IV parent rating inattention score ( -7.74 1.94 vs. -5.34 1.85 , P < 0.001 ) and total score ( -13.1 3.36 vs. -10.2 3.01 , P = 0.001 ) as well as teacher rating inattention score ( -7.29 1.90 vs. -5.96 1.52 , P = 0.004 ) .
+RESULTS	Response rate was higher with G. biloba compared with placebo based on parent rating ( 93.5 % vs. 58.6 % , P = 0.002 ) .
+CONCLUSIONS	The G. biloba is an effective complementary treatment for ADHD .
+CONCLUSIONS	Further studies with longer treatment duration are warranted in this regard .
+CONCLUSIONS	IRCT2014111519958N1 .
+

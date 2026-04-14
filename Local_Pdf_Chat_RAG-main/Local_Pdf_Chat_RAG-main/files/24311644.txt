@@ -1,0 +1,14 @@
+24311644
+BACKGROUND	In patients with brain tumors , the choice of antiepileptic medication is guided by tolerability and pharmacokinetic interactions .
+BACKGROUND	This study investigated the effectiveness of levetiracetam ( LEV ) and pregabalin ( PGB ) , 2 non-enzyme-inducing agents , in this setting .
+METHODS	In this pragmatic , randomized , unblinded phase II trial ( NCT00629889 ) , patients with primary brain tumors and epilepsy were titrated to a monotherapy of LEV or PGB .
+METHODS	Efficacy and tolerability were assessed using structured questionnaires .
+METHODS	The primary composite endpoint was the need to discontinue the study drug , add-on of a further antiepileptic treatment , or occurrence of at least 2 seizures with impaired consciousness during 1 year follow-up .
+RESULTS	Over 40 months , 25 patients were randomized to LEV , and 27 to PGB .
+RESULTS	Most were middle-aged men , with a high-grade tumor and at least one generalized convulsion .
+RESULTS	Mean daily doses were 1125 mg ( LEV ) and 294 mg ( PGB ) .
+RESULTS	Retention rates were 59 % in the LEV group , and 41 % in the PGB group .
+RESULTS	The composite endpoint was reached in 9 LEV and 12 PGB patients-need to discontinue : side effects , 6 LEV , 3 PGB ; lack of efficacy , 1 and 2 ; impaired oral administration , 0 and 2 ; add-on of another agent : 1 LEV , 4 PGB ; and seizures impairing consciousness : 1 in each .
+RESULTS	Seven LEV and 5 PGB subjects died of tumor progression .
+CONCLUSIONS	This study shows that LEV and PGB represent valuable monotherapy options in this setting , with very good antiepileptic efficacy and an acceptable tolerability profile , and provides important data for the design of a phase III trial .
+

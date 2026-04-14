@@ -1,0 +1,18 @@
+24907224
+BACKGROUND	Pegylated interferon ( peginterferon ) alfa 2a or 2b plus ribavirin regimens were the standard of care in patients with hepatitis C virus ( HCV ) infection , but the sustained virological response can be suboptimum in patients with HCV genotype 1 infection .
+BACKGROUND	The efficacy , safety , and tolerability of the combination of simeprevir , a one-pill , once-daily , oral HCV NS3/4A protease inhibitor versus placebo , plus peginterferon alfa 2a or 2b plus ribavirin was assessed in treatment-naive patients with HCV genotype 1 infection .
+METHODS	In the QUEST-2 , phase 3 study , done at 76 sites in 14 countries ( Europe , and North and South Americas ) , patients with confirmed chronic HCV genotype 1 infection and no history of HCV treatment were randomly assigned with a computer-generated allocation sequence in a ratio of 2:1 and stratified by HCV genotype 1 subtype and host IL28B genotype to receive simeprevir ( 150 mg once daily , orally ) , peginterferon alfa 2a ( 180 g once weekly , subcutaneous injection ) or 2b ( according to bodyweight ; 50 g , 80 g , 100 g , 120 g , or 150 g once weekly , subcutaneous injection ) , plus ribavirin ( 1000-1200 mg/day or 800-1400 mg/day , orally ; simeprevir group ) or placebo ( once daily , orally ) , peginterferon alfa 2a or 2b , plus ribavirin ( placebo group ) for 12 weeks , followed by just peginterferon alfa 2a or 2b plus ribavirin .
+METHODS	Total treatment duration was 24 weeks or 48 weeks ( simeprevir group ) based on criteria for response-guided therapy ( ie , HCV RNA < 25 IU/mL undetectable or detectable at week 4 and undetectable week 12 ) or 48 weeks ( placebo ) .
+METHODS	Patients , study personnel , and the sponsor were masked to treatment assignment .
+METHODS	The primary efficacy endpoint was sustained virological response at 12 weeks after the planned end of treatment ( SVR12 ) .
+METHODS	Analyses were by intention to treat .
+METHODS	The trial is registered with ClinicalTrials.gov , number NCT01290679 .
+METHODS	Results from the primary ( SVR12 , week 60 ) analysis are presented .
+RESULTS	209 ( 81 % ) of 257 patients in the simeprevir group and 67 ( 50 % ) of 134 in the placebo group had SVR12 ( adjusted difference 322 % , 95 % CI 233-412 ; p < 00001 ) .
+RESULTS	The incidences of adverse events were similar in the simeprevir and placebo groups at 12 weeks ( 246 [ 96 % ] vs 130 [ 97 % ] ) and for the entire treatment ( 249 [ 97 % ] vs 132 [ 99 % ] ) , irrespective of the peginterferon alfa used .
+RESULTS	The most common adverse events were headache , fatigue , pyrexia , and influenza-like illness at 12 weeks ( 95 [ 37 % ) vs 45 [ 34 % ] , 89 [ 35 % ] vs 52 [ 39 % ] , 78 [ 30 % ] vs 48 [ 36 % ] , and 66 [ 26 % ] vs 34 [ 25 % ] , respectively ) and for the entire treatment ( 100 [ 39 % ] vs 49 [ 37 % ] , 94 [ 37 % ] vs 56 [ 42 % ] , 79 [ 31 % ] vs 53 [ 40 % ] , and 66 [ 26 % ] vs 35 [ 26 % ] , respectively ) .
+RESULTS	Rash and photosensitivity frequencies were higher in the simeprevir group than in the placebo group ( 61 [ 24 % ] vs 15 [ 11 % ] and ten [ 4 % ] vs one [ < 1 % ] , respectively ) .
+RESULTS	There was no difference in the prevalence of anaemia between the simeprevir and placebo groups ( 35 [ 14 % ] vs 21 [ 16 % ] , respectively , at 12 weeks , and 53 [ 21 % ] vs 37 [ 28 % ] , respectively , during the entire treatment ) .
+CONCLUSIONS	Addition of simeprevir to either peginterferon alfa 2a or peginterferon alfa 2b plus ribavirin improved SVR in treatment-naive patients with HCV genotype 1 infection , without worsening the known adverse events associated with peginterferon alfa plus ribavirin .
+BACKGROUND	Janssen Infectious Diseases-Diagnostics .
+

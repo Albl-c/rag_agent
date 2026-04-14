@@ -1,0 +1,20 @@
+24973609
+OBJECTIVE	To investigate the 20-year efficacy and safety of photorefractive keratectomy ( PRK ) .
+METHODS	Long-term observational case series .
+METHODS	In the setting of a university hospital , a study population of 42 patients ( 42 eyes ) who had , as part of a randomized prospective trial , undergone PRK 20 years previously were studied .
+METHODS	All had received -3.0 or -6.0 diopter ( D ) corrections with either 5.0 or 6.0 mm optical zones or a multizone treatment .
+METHODS	The mean preoperative spherical equivalent refractive error ( SEQ ) was -5.13 D ( range , -2.75 to -8.0 D ) .
+METHODS	The outcome measures included visual acuity , refractive error , corneal topography and axial length .
+RESULTS	Between 1 and 20 years there was an increase in mean myopic SEQ of -0.54 D ( P < 0.02 ) .
+RESULTS	In patients younger than 40 years of age at time of correction , this increase was -0.92 D ( P < 0.002 ) with an accompanying increase in variance ( P < 0.02 ) , whereas in those older than 40 it was -0.08 D ( P = 0.8 ) .
+RESULTS	In female patients the change was -0.69 D ( P < 0.01 ) , while in males it was -0.26 D ( P = 0.6 ) .
+RESULTS	The efficacy index at 20 years was 0.49 , and the safety index was 0.97 .
+RESULTS	Corrected distance visual acuity improved between 1 and 20 years ( P < 0.01 ) ; 93 % of corneas were clear at 20 years ; 3 eyes had trace haze .
+RESULTS	There was an improvement in haze scores between 1 and 20 years ( P < 0.02 ) .
+RESULTS	Cornea power remained unchanged between 6 months and 20 years ( P = 0.4 ) .
+RESULTS	Axial length increased by a mean of 0.84 mm ( P < 0.0001 ) .
+RESULTS	There was no ectasia .
+CONCLUSIONS	There was a slight but significant increase in myopic SEQ after PRK between 1 and 20 years , particularly in those under 40 at the time of treatment and in female patients .
+CONCLUSIONS	Corneal power remained unchanged , but axial length increased .
+CONCLUSIONS	The procedure was safe , with no long-term sight-threatening complications and with improvements in corrected distance visual acuity and corneal transparency with time .
+

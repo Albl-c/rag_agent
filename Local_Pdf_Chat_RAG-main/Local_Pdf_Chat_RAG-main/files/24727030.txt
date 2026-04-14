@@ -1,0 +1,13 @@
+24727030
+OBJECTIVE	To evaluate the effects of peritoneal cold nebulization of ropivacaine on pain control after gynecologic laparoscopy .
+METHODS	Evidence obtained from a properly designed , randomized , double-blind , placebo-controlled trial ( Canadian Task Force classification I ) .
+METHODS	Tertiary care center .
+METHODS	One hundred thirty-five women with American Society of Anesthesiologists disease classified as ASA I-III who were scheduled to undergo operative laparoscopy .
+METHODS	Patients were randomized to receive either nebulization of 30 mg ropivacaine before surgery ( preoperative group ) , nebulization of 30 mg ropivacaine after surgery ( postoperative group ) , instillation of 100 mg ropivacaine before surgery ( instillation group ) , or instillation of saline solution ( control group ) .
+METHODS	Nebulization was performed using the Aeroneb Pro device .
+RESULTS	Pain scores , morphine consumption , and ambulation time were collected in the post-anesthesia care unit and at 4 , 6 , and 24 hours postoperatively .
+RESULTS	One hundred eighteen patients completed the study .
+RESULTS	Patients in the preoperative group reported lower pain Numeric Ranking Scale values compared with those in the control group ( net difference 2 points ; 95 % confidence interval [ CI ] , 0.3-3 .1 at 4 hours , 1-3 at 6 hours , and 0.7-3 at 24 hours ; p = .01 ) Patients in the preoperative group consumed significantly less morphine than did those in the control group ( net difference 7 mg ; 95 % CI , 0.7-13 ; p = .02 ) .
+RESULTS	More patients who received nebulization walked without assistance within 12 hours after awakening than did those in the instillation and control groups ( net difference 15 % ; 95 % CI , 6 % -24 % ; p = .001 ) .
+CONCLUSIONS	Cold nebulization of ropivacaine before surgery reduced postoperative pain and morphine consumption and was associated with earlier walking without assistance .
+

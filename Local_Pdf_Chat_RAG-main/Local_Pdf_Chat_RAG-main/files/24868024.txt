@@ -1,0 +1,14 @@
+24868024
+OBJECTIVE	In Asian countries , paclitaxel once per week is used as second-line treatment in advanced gastric cancer , including human epidermal growth factor receptor 2 ( HER2 ) - positive tumors .
+OBJECTIVE	The role of anti-HER2 agents , including lapatinib , in this setting and population is unclear .
+METHODS	TyTAN was a two-part , parallel-group , phase III study in Asian patients .
+METHODS	An open-label , dose-optimization phase ( n = 12 ) was followed by a randomized phase ( n = 261 ) , in which patients who were HER2 positive by fluorescence in situ hybridization ( FISH ) received lapatinib 1,500 mg once per day plus once-per-week paclitaxel 80 mg/m ( 2 ) or paclitaxel alone .
+METHODS	The primary end point was overall survival ( OS ) .
+METHODS	Secondary end points included progression-free survival ( PFS ) , time to progression ( TTP ) , overall response rate ( ORR ) , time to response , response duration , and safety .
+METHODS	Analyses were based on immunohistochemistry ( IHC ) and gastrectomy status , prior trastuzumab therapy , and regional subpopulations .
+RESULTS	Median OS was 11.0 months with lapatinib plus paclitaxel versus 8.9 months with paclitaxel alone ( P = .1044 ) , with no significant difference in median PFS ( 5.4 v 4.4 months ) or TTP ( 5.5 v 4.4 months ) .
+RESULTS	ORR was higher with lapatinib plus paclitaxel versus paclitaxel alone ( odds ratio , 3.85 ; P < .001 ) .
+RESULTS	Better efficacy with lapatinib plus paclitaxel was demonstrated in IHC3 + compared with IHC0/1 + and 2 + patients and in Chinese compared with Japanese patients .
+RESULTS	A similar proportion of patients experienced adverse events with each treatment ( lapatinib plus paclitaxel , 100 % v paclitaxel alone , 98 % ) .
+CONCLUSIONS	Lapatinib plus paclitaxel demonstrated activity in the second-line treatment of patients with HER2 FISH-positive IHC3 + advanced gastric cancer but did not significantly improve OS in the intent-to-treat population .
+

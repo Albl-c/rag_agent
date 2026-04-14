@@ -1,0 +1,11 @@
+25345427
+OBJECTIVE	Drug-drug interactions between canagliflozin , a sodium glucose co-transporter 2 inhibitor approved for the management of type-2 diabetes mellitus , and an oral contraceptive ( OC ) , warfarin , and digoxin were evaluated in three phase 1 studies in healthy participants .
+METHODS	All studies were open-label ; study 1 included a fixed-sequence design , and studies 2 and 3 used a crossover design .
+METHODS	Regimens were : study 1 : OC ( levonorgestrel ( 150 g ) + ethinyl estradiol ( 30 g ) ) / day ( day 1 ) , canagliflozin 200 mg/day ( days 4 - 8 ) , and canagliflozin with OC ( day 9 ) ; study 2 : canagliflozin 300 mg/day ( days 1 - 12 ) with warfarin 30 mg/day ( day 6 ) in period 1 , and only warfarin 30 mg/day ( day 1 ) in period 2 , or vice versa ; study 3 : digoxin alone ( 0.5 mg/day ( day 1 ) + 0.25 mg/day ( days 2 - 7 ) ) in period 1 , and with canagliflozin 300 mg/day ( days 1 - 7 ) in period 2 , or vice versa .
+METHODS	Pharmacokinetics ( PK ) were assessed at prespecified intervals ; OC : days 1 and 9 , canagliflozin : days 8 - 9 ( study 1 ) ; warfarin : days 6 ( period 1 ) and 1 ( period 2 ) ( study 2 ) ; and digoxin : days 5 - 7 ( periods 1 and 2 ) ( study 3 ) .
+METHODS	Warfarin 's pharmacodynamics ( PD ; International Normalized Ratio ( INR ) ) was assessed on days 6 ( period 1 ) and 1 ( period 2 ) .
+RESULTS	Canagliflozin increased the plasma exposure of OC ( maximum plasma concentration ( Cmax ) : 22 % , area under the curve ( AUC ) : 6 % ) and digoxin ( Cmax : 36 % , AUC : 20 % ) ; but did not alter warfarin 's PK and PD .
+RESULTS	No clinically relevant safety findings ( including hypoglycemia ) were noted .
+CONCLUSIONS	Canagliflozin can be coadministered with OC , warfarin , or digoxin without dose adjustments .
+CONCLUSIONS	All treatments were well-tolerated .
+

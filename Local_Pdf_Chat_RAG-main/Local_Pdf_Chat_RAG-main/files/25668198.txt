@@ -1,0 +1,14 @@
+25668198
+BACKGROUND	Longitudinal data on bone mineral density ( BMD ) in children and adolescents with Prader-Willi Syndrome ( PWS ) during long-term GH treatment are not available .
+OBJECTIVE	This study aimed to determine effects of long-term GH treatment and puberty on BMD of total body ( BMDTB ) , lumbar spine ( BMDLS ) , and bone mineral apparent density of the lumbar spine ( BMADLS ) in children with PWS .
+METHODS	This was a prospective longitudinal study of a Dutch PWS cohort .
+METHODS	Seventy-seven children with PWS who remained prepubertal during GH treatment for 4 years and 64 children with PWS who received GH treatment for 9 years participated in the study .
+METHODS	The children received GH treatment , 1 mg/m ( 2 ) / day ( 0.035 mg/kg/d ) .
+METHODS	BMDTB , BMDLS , and BMADLS was measured by using the same dual-energy x-ray absorptiometry machine for all annual measurements .
+RESULTS	In the prepubertal group , BMDTB standard deviation score ( SDS ) and BMDLSSDS significantly increased during 4 years of GH treatment whereas BMADLSSDS remained stable .
+RESULTS	During adolescence , BMDTBSDS and BMADLSSDS decreased significantly , in girls from the age of 11 years and in boys from the ages of 14 and 16 years , respectively , but all BMD parameters remained within the normal range .
+RESULTS	Higher Tanner stages tended to be associated with lower BMDTBSDS ( P = .083 ) and a significantly lower BMADLSSDS ( P = .016 ) .
+RESULTS	After 9 years of GH treatment , lean body mass SDS was the most powerful predictor of BMDTBSDS and BMDLSSDS in adolescents with PWS .
+CONCLUSIONS	This long-term GH study demonstrates that BMDTB , BMDLS , and BMADLS remain stable in prepubertal children with PWS but decreases during adolescence , parallel to incomplete pubertal development .
+CONCLUSIONS	Based on our findings , clinicians should start sex hormone therapy from the age of 11 years in girls and 14 years in boys unless there is a normal progression of puberty .
+

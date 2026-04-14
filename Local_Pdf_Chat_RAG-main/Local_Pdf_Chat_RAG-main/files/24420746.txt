@@ -1,0 +1,17 @@
+24420746
+OBJECTIVE	To identify factors associated with variability in rifampin plasma pharmacokinetics and explore the relationship between rifampin pharmacokinetics and change in efavirenz plasma pharmacokinetics with rifampin coadministration .
+METHODS	In this randomized , cross-over study , 12 healthy volunteers received either efavirenz 600mg/day or efavirenz 600mg with rifampin 600mg/day for 8days .
+METHODS	After a washout period of at least 2weeks , subjects crossed over to the alternate 8-day regimen .
+METHODS	Samples were obtained for pharmacokinetic assessment on day 8 of each study cycle .
+METHODS	Drugs concentrations were determined by a validated high-performance liquid chromatography .
+METHODS	Pharmacokinetic parameters were calculated using noncompartmental analysis .
+METHODS	Multivariate analysis was used to examine factors associated with rifampin pharmacokinetics .
+METHODS	Spearman correlation analysis was used to investigate relationship between rifampin pharmacokinetics and change in efavirenz plasma pharmacokinetics with rifampin coadministration .
+RESULTS	Of 11 evaluable subjects , the median interquartile range , rifampin peak concentration ( Cmax ) , area under the concentration-time curve ( AUC0-24hour ) , and weight-normalized clearance were 8.9 ( 7.3-13 .8 ) g/ml , 48.8 ( 29.6-67 .4 ) gh/ml , and 0.19 ( 0.11-0 .29 ) L/h/kg , respectively .
+RESULTS	Solute carrier organic anion transporter family member 1B1 ( SLCO1B1 ) c. 388AG and SLCO1B1 c. 463CA polymorphisms jointly had significant effect on rifampin Cmax ( R ( 2 ) = 0.75 ) .
+RESULTS	Male sex and SLCO1B1 c. 463CA polymorphism together influenced rifampin AUC0-24hour ( R ( 2 ) = 0.52 ) and weight-normalized clearance ( R ( 2 ) = 0.65 ) .
+RESULTS	All four volunteers with rifampin Cmax less than8g/ml ( lower end of the normal range ) had c. 463CA genotype .
+RESULTS	Rifampin Cmax and AUC0-24hour had no significant relationship with the efavirenz AUC0-24hour ratio or weight-normalized clearance ratio in the presence versus absence of rifampin ( p > 0.05 ) .
+CONCLUSIONS	Men with the SLCO1B1c .463 CA genotype are at increased risk of lower rifampin plasma exposure .
+CONCLUSIONS	However , plasma rifampin concentrations did not correlate with the extent of induction of efavirenz clearance by rifampin during coadministration .
+

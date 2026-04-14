@@ -1,0 +1,13 @@
+24861837
+BACKGROUND	Traditional Chinese medicine ( TCM ) is considered an important complementary therapy with beneficial effects for cancer patients .
+BACKGROUND	Elderly patients with non-small-cell lung cancer ( NSCLC ) are a complex patient group with increasing co-morbidity and shrinking physiological reserve , and may derive substantial benefit from the supportive aspects of TCM .
+BACKGROUND	Researchers from Shanghai Longhua Hospital found that qi and yin deficiency is a common syndrome in patients with stage III or IV lung cancer .
+BACKGROUND	This project was designed to study the combination of single-agent chemotherapy with TCM methods of benefiting qi and yin in elderly patients with advanced NSCLC .
+METHODS	This is a double-blind controlled , multi-center , and prospective study with randomly selected participants from elderly NSCLC patients in China .
+METHODS	Seventy-six patients who meet the inclusion criteria will be allocated into two groups , which will receive treatments of 3-week single-agent chemotherapy with TCM or placebo for four cycles .
+METHODS	Progression-free survival ( PFS ) is the primary end point , and the secondary end points are overall survival , objective response rate , time-to-progression , and quality of life ( EORTC QLQ-LC43 , and TCM syndrome score ) .
+METHODS	Meanwhile , other end points such as toxicity , side effects and safety of the treatments will be assessed .
+CONCLUSIONS	Results from this study may provide evidence on the effectiveness , and parameters for the usage of single-agent chemotherapy combined with or without TCM on PFS of elderly patients with NSCLC .
+BACKGROUND	ClinicalTrials.gov .
+BACKGROUND	( Identifier : NCT01780181 ) .
+

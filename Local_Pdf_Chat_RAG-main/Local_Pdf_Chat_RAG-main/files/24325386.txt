@@ -1,0 +1,11 @@
+24325386
+OBJECTIVE	In the present study , the potential benefits of oral carnitine in preventing antituberculosis drug-induced hepatotoxicity ( ATDH ) were evaluated .
+METHODS	Fifty-four patients in the carnitine and 62 patients in the placebo group completed the study .
+METHODS	The carnitine group received 1000mg oral carnitine solution twice daily for 4 weeks .
+METHODS	The placebo group received 10mL of oral placebo solution twice daily for 4 weeks .
+METHODS	ATDH was defined as an increase in the serum level of aspartate aminotransferase or alanine aminotransferase greater than three or five times of the upper limit of normal with or without clinical symptoms of hepatotoxicity , respectively .
+RESULTS	During the study period , 29 ( 25 % ) patients experienced ATDH .
+RESULTS	Among these patients , nine ( 16.7 % ) and 20 ( 32.3 % ) were in the carnitine and placebo groups , respectively ( P = 0.049 ) .
+RESULTS	Based on multivariate logistic regression model , age over 35 years old ( odds ratio [ OR ] = 7.01 , P = 0.002 ) , human immunodeficiency virus infection ( OR = 40.4 , P < 0.001 ) , diabetes mellitus ( OR = 37.6 , P = 0.001 ) , and placebo treatment ( OR = 0.1 , P = 0.01 ) were identified as predisposing factors for ATDH .
+CONCLUSIONS	Results of our preliminary clinical trial suggested that cotreatment with 2000mg oral L-carnitine solution daily for 4 weeks significantly decreased the rate of ATDH .
+

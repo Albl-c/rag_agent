@@ -1,0 +1,15 @@
+24583275
+OBJECTIVE	Late adolescence represents a developmental risk period when many youth become involved in multiple forms of high-risk behaviors with adverse consequences .
+OBJECTIVE	This study assessed the degree to which two such behaviors , adolescent sexual behaviors and gambling , were associated in a community-based sample with a large African-American presence .
+METHODS	Data are derived from a cohort study .
+METHODS	This study focuses on 427 African-American participants with complete information on gambling and sexual behaviors by age 18 ( 72 % of original cohort ) .
+METHODS	Gambling involvement and related problems were based on responses to the South Oaks Gambling Screen - Revised for Adolescents .
+METHODS	Several questions assessed sexual behaviors , including age of initiation .
+METHODS	Multivariable logistic regression models adjusted for demographics , intervention status , impulsivity , depressive and anxiety symptoms , and alcohol and illegal drug use .
+RESULTS	Almost half of the sample ( 49 % , n = 211 ) had gambled at least once before age 18 .
+RESULTS	More gamblers than non-gamblers had initiated sexual intercourse by age 18 ( aOR : 2.29 [ 1.16 , 4.52 ] ) .
+RESULTS	Among those who had initiated sexual activity , more gamblers than non-gamblers with high impulsivity levels at age 13 ( vs. low impulsivity levels ) had become pregnant or had impregnated someone .
+RESULTS	Among those who had initiated sexual activity by age 18 , more male gamblers had impregnated someone by age 18 as compared to female gamblers becoming pregnant .
+CONCLUSIONS	Gambling and sexual behaviors often co-occur among adolescents .
+CONCLUSIONS	Such findings prompt the need for the inclusion of gambling , an often overlooked risky behavior , in behavioral prevention/intervention programs targeting adolescents .
+

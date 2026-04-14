@@ -1,0 +1,17 @@
+24691140
+OBJECTIVE	The aim of this study was to explore the impact of dynamic contrast-enhanced ( DCE ) computer tomography ( CT ) as a biomarker in metastatic renal cell carcinoma ( mRCC ) .
+METHODS	Twelve patients with favorable or intermediate Memorial Sloan Kettering Cancer Center risk group and clear cell mRCC participating in an ongoing prospective randomized phase II trial comprising interleukin-2-based immunotherapy and bevacizumab were included in this preliminary analysis .
+METHODS	All patients had a follow-up time of at least 2 years .
+METHODS	Interpretation of DCE-CT ( max slope method ) was performed blinded to treatment group .
+METHODS	The DCE-CT scans were performed at baseline , at weeks 5 and 10 , and thereafter every third month .
+METHODS	Blood flow ( BF ; mL/min/100 mL ) , peak enhancement ( Hounsfield units ) , time to peak ( seconds ) , and blood volume ( BV ; mL/100 g ) were calculated .
+METHODS	Parameters for DCE-CT were correlated with sum of diameters ( defined by Response Evaluation Criteria in Solid Tumors 1.1 ) , progression-free survival ( PFS ) , and overall survival ( OS ) using Wilcoxon , Man-Whitney , Kaplan-Meier , and log rank statistics , as appropriate .
+RESULTS	Blood flow at baseline ranged from 4.9 to 148.1 mL/min/100 mL ( median , 62.2 ; 25th percentile , 25.8 ; 75th percentile , 110.0 ) .
+RESULTS	Patients with high baseline BF ( using quartiles as cutoffs ) had significantly longer OS ( not reached vs 5.2 months , P = 0.011 ) and longer PFS ( not reached vs 3.9 months , P = 0.026 ) .
+RESULTS	Blood volume at baseline ranged from 8.8 to 74.1 mL/100 g tissue ( median , 21.5 ) , and at week 5 , from 4.9 to 34.7 mL/100 g ( median , 17.2 ) .
+RESULTS	Relative changes in BV between baseline and week 5 ranged from -64 % to +68 % ( median , -16 % ; 25th percentile , -41 % ; 75th percentile , +2 % ) and were significantly associated with OS using quartiles as cutoffs ( 5.2 months vs not reached , P = 0.038 ) and PFS using the median as cutoff ( 5.3 months vs not reached , P = 0.009 ) , with larger reductions associated with longer survival .
+RESULTS	Using medians as cutoffs , relative changes in both BF and BV between baseline and week 10 were significantly associated with OS ( for both , 8.6 months vs not reached , P = 0.031 ) .
+CONCLUSIONS	Dynamic contrast-enhanced CT is a potential biomarker in patients with mRCC .
+CONCLUSIONS	High baseline BF and reductions in BF and BV during early treatment are associated with improved outcome .
+CONCLUSIONS	Large-scale studies are required .
+

@@ -1,0 +1,16 @@
+25675061
+BACKGROUND	Dexmedetomidine and midazolam both modulate spinal analgesia by different mechanisms , and yet , no human studies are available to compare them for postoperative analgesia after neuraxial administration .
+OBJECTIVE	We investigated the addition of dexmedetomidine or midazolam to intrathecal bupivacaine on the duration of effective analgesia and clinical safety profile .
+METHODS	Prospective , randomized , double blind , placebo controlled study .
+METHODS	University teaching hospital .
+METHODS	The study cohort included a consecutive and prospective series of patients , referred for endourological procedures .
+METHODS	The patients were randomly allocated into 3 groups ( 20 patients each ) to receive intrathecally 3 mL of 0.5 % hyperbaric bupivacaine in combination with 5 mcg of dexmedetomidine ( dexmedetomidine group ) , 1 mg of midazolam ( midazolam group ) or 0.5 mL of 0.9 % saline ( control group ) .
+METHODS	The groups were compared to the regression time of sensory block , duration of effective analgesia ( defined as the time interval between administration of intrathecal drug to the time of first analgesic request or a numeric rating scale = 4.0 ) , sedation score , and side effects in the first 24 hours .
+METHODS	One way-ANOVA , Kruskal Wallis test , and Chi-square test ( ) , significance level : P < 0.05 .
+RESULTS	The duration of effective analgesia ( time to first analgesic request ) was significantly prolonged in the dexmedetomidine group ( 286 64 minutes , P < 0.01 ) when compared with midazolam group ( 236.9 64.9 minutes ) and the control group ( 212.7 70.2 minutes ) .
+RESULTS	Pairwise comparisons among the 3 groups with Bonferroni adjustment revealed that patients from the dexmedetomidine group were more sedated in comparison to the midazolam and control groups at the end of the first 15 minutes after intrathecal injection [ ( 2 ) = 7.157 , P = 0.028 ] , with a mean rank sedation score of 35.58 for dexmedetomidine , 25.00 for midazolam , and 30.93 for control .
+RESULTS	No significant differences in the side effects were observed during the study period .
+RESULTS	Midazolam did not lengthen the time of the two segment sensory regression or the time to first request analgesia .
+CONCLUSIONS	The study can not be extrapolated to muscle cutting surgeries under spinal anaesthesia .
+CONCLUSIONS	The addition of dexmedetomidine ( 5 mcg ) to 3 mL of intrathecal hyperbaric bupivacaine ( 0.5 % ) significantly prolongs the duration of effective analgesia in comparison to 1 mg midazolam or placebo ( 0.9 % normal saline ) with a comparable incidences of side effects .
+

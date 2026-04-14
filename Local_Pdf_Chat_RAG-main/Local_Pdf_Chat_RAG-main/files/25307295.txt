@@ -1,0 +1,11 @@
+25307295
+BACKGROUND	A phase 3 randomized clinical trial was designed to test whether bardoxolone methyl , a nuclear factor erythroid-2-related factor 2 ( Nrf2 ) activator , slows progression to end-stage renal disease in patients with stage 4 chronic kidney disease and type 2 diabetes mellitus .
+BACKGROUND	The trial was terminated because of an increase in heart failure in the bardoxolone methyl group ; many of the events were clinically associated with fluid retention .
+RESULTS	We randomized 2,185 patients with type 2 diabetes mellitus ( T2DM ) and stage 4 chronic kidney disease ( CKD ) ( estimated glomerular filtration rate 15 to < 30 mL min ( -1 ) 1.73 m ( -2 ) ) to once-daily bardoxolone methyl ( 20 mg ) or placebo .
+RESULTS	We used classification and regression tree analysis to identify baseline factors predictive of heart failure or fluid overload events .
+RESULTS	Elevated baseline B-type natriuretic peptide and previous hospitalization for heart failure were identified as predictors of heart failure events ; bardoxolone methyl increased the risk of heart failure by 60 % in patients with these risk factors .
+RESULTS	For patients without these baseline characteristics , the risk for heart failure events among bardoxolone methyl - and placebo-treated patients was similar ( 2 % ) .
+RESULTS	The same risk factors were also identified as predictors of fluid overload and appeared to be related to other serious adverse events .
+CONCLUSIONS	Bardoxolone methyl contributed to events related to heart failure and/or fluid overload in a subpopulation of susceptible patients with an increased risk for heart failure at baseline .
+CONCLUSIONS	Careful selection of participants and vigilant monitoring of the study drug will be required in any future trials of bardoxolone methyl to mitigate the risk of heart failure and other serious adverse events .
+

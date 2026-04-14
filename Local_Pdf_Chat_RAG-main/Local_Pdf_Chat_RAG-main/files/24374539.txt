@@ -1,0 +1,14 @@
+24374539
+OBJECTIVE	To investigate the effect that complications have on patients ' long-term quality of life ( QoL ) after curative colorectal cancer surgery .
+BACKGROUND	Colorectal cancer surgery is a high risk , with approximately 1 in 3 patients suffering a complication .
+BACKGROUND	The long-term consequences of postoperative complications are important but have poorly been documented .
+METHODS	The MRC-CLASICC trial ( laparoscopic-assisted vs open surgery for colorectal cancer ) included prospective evaluation of QoL using validated scoring questionnaires : EORTC QLQ-C30 / CR38 and EQ5D .
+METHODS	These were used to compare QoL at 3 , 6 , 18 , and 36 months to baseline values for patients categorized into 2 groups : ( i ) those suffering any complication and ( ii ) those suffering any of 5 common complications ( wound , chest , anastomotic leak , hemorrhage , and cardiac event ) .
+RESULTS	A total of 614 of 794 CLASICC patients were suitable for inclusion .
+RESULTS	Complications occurred in 215 ( 35.0 % ) patients , including : wound complications ( 61 , 9.9 % ) , chest infection ( 50 , 8.1 % ) , anastomotic leak ( 27 , 4.4 % ) , hemorrhage ( 14 , 2.3 % ) , and cardiac event ( 26 , 4.2 % ) .
+RESULTS	Significant long-term differences in QoL between patients with and without complications were found for Physical and Social Function , Role Functioning , and Body Image on EORTC QLQ-C30 / QLQ-CR38 analysis and Mobility , Self-care , and Pain/Discomfort on EQ5D analysis .
+RESULTS	No significant differences were seen for emotional/cognitive functioning , global QoL , financial difficulties , or future perspectives .
+RESULTS	Risk factors of age , gender , ASA ( American Society of Anesthesiologists ) grade , and stoma moderated the impact of complications in the short - to medium-term QoL , but had less influence on long-term QoL .
+CONCLUSIONS	Postoperative complications have adverse effects on long-term QoL , particularly for Physical , Role and Social Functioning , and Body Image , as well as for Mobility , Self-care , and Pain/Discomfort .
+CONCLUSIONS	These findings should inform future preoperative counseling and health care planning .
+

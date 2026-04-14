@@ -1,0 +1,13 @@
+25872782
+BACKGROUND	Gastroparesis is common in surgical patients and frequently leads to the need for enteral tube feeding .
+BACKGROUND	Nasoenteral feeding tubes are usually placed endoscopically by gastroenterologists , but this procedure is relatively cumbersome for patients and labor-intensive for hospital staff .
+BACKGROUND	Electromagnetic ( EM ) guided bedside placement of nasoenteral feeding tubes by nurses may reduce patient discomfort , workload and costs , but randomized studies are lacking , especially in surgical patients .
+BACKGROUND	We hypothesize that EM guided bedside placement of nasoenteral feeding tubes is at least as effective as endoscopic placement in surgical patients , at lower costs .
+METHODS	The CORE trial is an investigator-initiated , parallel-group , pragmatic , multicenter randomized controlled non-inferiority trial .
+METHODS	A total of 154 patients admitted to gastrointestinal surgical wards in five hospitals , requiring nasoenteral feeding , will be randomly allocated to undergo EM guided or endoscopic nasoenteral feeding tube placement .
+METHODS	Primary outcome is reinsertion of the feeding tube , defined as the insertion of an endoscope or tube in the nose/mouth and esophagus for ( re ) placement of the feeding tube ( e.g. after failed initial placement or dislodgement or blockage of the tube ) .
+METHODS	Secondary outcomes include patient-reported outcomes , costs and tube ( placement ) related complications .
+CONCLUSIONS	The CORE trial is designed to generate evidence on the effectiveness of EM guided placement of nasoenteral feeding tubes in surgical patients and the impact on costs as compared to endoscopic placement .
+CONCLUSIONS	The trial potentially offers a strong argument for wider implementation of this technique as method of choice for placement of nasoenteral feeding tubes .
+BACKGROUND	Dutch Trial Register : NTR4420 , date registered 5-feb-2014 .
+

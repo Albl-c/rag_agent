@@ -1,0 +1,14 @@
+24804638
+BACKGROUND	Scarring represents a significant biomedical burden in clinical medicine .
+BACKGROUND	Mechanomodulation has been linked to scarring through inflammation , but until now a systematic approach to attenuate mechanical force and reduce scarring has not been possible .
+METHODS	The authors conducted a 12-month , prospective , open-label , randomized , multicenter clinical trial to evaluate abdominoplasty scar appearance following postoperative treatment with the embrace Advanced Scar Therapy device to reduce mechanical forces on healing surgical incisions .
+METHODS	Incisions from 65 healthy adult subjects were randomized to receive embrace treatment on one half of an abdominoplasty incision and control treatment ( surgeon 's optimal care methods ) on the other half .
+METHODS	The primary endpoint for this study was the difference between assessments of scar appearance for the treated and control sides using the visual analogue scale scar score .
+RESULTS	Final 12-month study photographs were obtained from 36 subjects who completed at least 5 weeks of dressing application .
+RESULTS	The mean visual analogue scale score for embrace-treated scars ( 2.90 ) was significantly improved compared with control-treated scars ( 3.29 ) at 12 months ( difference , 0.39 ; 95 percent confidence interval , 0.14 to 0.66 ; p = 0.027 ) .
+RESULTS	Both subjects and investigators found that embrace-treated scars demonstrated significant improvements in overall appearance at 12 months using the Patient and Observer Scar Assessment Scale evaluation ( p = 0.02 and p < 0.001 , respectively ) .
+RESULTS	No serious adverse events were reported .
+CONCLUSIONS	These results demonstrate that the embrace device significantly reduces scarring following abdominoplasty surgery .
+CONCLUSIONS	To the authors ' knowledge , this represents the first level I evidence for postoperative scar reduction .
+METHODS	Therapeutic , II .
+

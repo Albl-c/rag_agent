@@ -1,0 +1,14 @@
+25831599
+OBJECTIVE	To compare the efficacy of an oscillating-rotating power toothbrush with a novel brush head incorporating angled CrissCross bristles ( Oral-B Pro 7000 SmartSeries and Oral-B CrossAction brush head ) versus a marketed sonic toothbrush ( Colgate ProClinical A1500 with the Triple Clean brush head ) in the reduction of gingivitis and plaque over a 6-week period .
+METHODS	This was a single center , randomized , open label , examiner-blind , 2-treatment , parallel group study .
+METHODS	Study participants who met the entrance criteria were enrolled in the study and randomly assigned to one of the two toothbrush groups .
+METHODS	Study participants brushed with their assigned toothbrush and a marketed fluoride dentifrice for 2 minutes twice daily at home for 6 weeks .
+METHODS	Gingivitis and plaque were evaluated at baseline and Week 6 .
+METHODS	Gingivitis was assessed using the Modified Gingival Index ( MGI ) and Gingival Bleeding Index ( GBI ) and plaque was assessed using the Rustogi Modified Navy Plaque Index ( RMNPI ) .
+METHODS	Data was analyzed using the ANCOVA with baseline as the covariate .
+RESULTS	In total , 130 study participants were randomized to treatment resulting in 64 study participants per group completing the study .
+RESULTS	Both brushes produced statistically significant ( P < 0.001 ) reductions in gingivitis and plaque measures relative to baseline .
+RESULTS	The oscillating-rotating , brush with the novel brush head demonstrated statistically significantly ( P < 0.05 ) greater reductions in all gingivitis measures , as well as whole mouth and interproximal plaque measures , compared to the sonic toothbrush .
+RESULTS	The benefit for the oscillating - rotating brush over the sonic brush was 21.3 % for gingivitis , 35.7 % for gingival bleeding , 34.7 % for number of bleeding sites , 17.4 % for whole mouth plaque , and 21.2 % for interproximal plaque .
+RESULTS	There were no adverse events reported or observed for either brush .
+

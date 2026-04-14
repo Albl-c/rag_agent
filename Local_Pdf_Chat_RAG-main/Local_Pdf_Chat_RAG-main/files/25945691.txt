@@ -1,0 +1,15 @@
+25945691
+OBJECTIVE	Although medical intervention is the first option for treatment of nasal polyps , surgery is still a therapeutic option for symptomatic cases that do not respond or partially respond to medical intervention .
+OBJECTIVE	However , there is a need for high-level evidence for the preoperative use of steroids in nasal polyposis surgery .
+OBJECTIVE	We aimed to assess the perioperative effect of preoperative use of oral prednisolone for advanced-stage diffuse nasal polyposis .
+METHODS	Prospective , double-blind , randomized , placebo-controlled study .
+METHODS	A visual analog scale ( VAS ) was evaluated for smell , nasal discharge , nasal obstruction , facial pressure , headache , butanol smell threshold , and peak nasal inspiratory flow ( PNIF ) before and after the use of study drug .
+METHODS	Perioperative bleeding volume , visibility of operative field , operative time , hospital stay , and complication rate were also evaluated .
+RESULTS	The improvement in the corticosteroid group ( CG ) in the VAS scores , butanol thresholds , and PNIF values showed statistically significant differences compared to the placebo group ( PG ) ( P < .05 ) .
+RESULTS	The perioperative bleeding volume , visibility score , operative time , and hospital stay for CG/PG were 141 mL/384 mL , 2.4 / 3.4 , 61 min/71 .6 min , and 1.1 day/1 .8 day , respectively ( P < .05 ) .
+RESULTS	The difference between the complication rates for the two groups did not show any statistically significant difference ( P = .214 ) .
+CONCLUSIONS	Preoperative administration of systemic corticosteroids improves the perioperative visibility by reducing blood loss and shortens the operation time .
+CONCLUSIONS	We recommend the use of preoperative corticosteroid for the safety of the patients .
+CONCLUSIONS	The optimum dose and duration have not been established and require further studies .
+METHODS	1b .
+

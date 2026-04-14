@@ -1,0 +1,11 @@
+24392964
+OBJECTIVE	The purpose of this randomized , controlled clinical trial was to compare the effectiveness of a new treatment approach , which consisted of laterally positioned flap ( LPF ) procedure combined with an external vestibular releasing incision made by a diode laser ( LALPF ) to LPF alone for the treatment of isolated gingival recession defects .
+METHODS	Thirty-two healthy patients presenting single Miller class II isolated gingival recessions with minimal loss of interdental papilla were treated with an LPF technique .
+METHODS	Sixteen patients were randomly assigned to the test group ( laser-assisted laterally positioned flap [ LALPF ] ) , and the other 16 patients were assigned to the control group ( LPF ) .
+METHODS	In the test group , diode laser was used for vestibular deepening in order to obtain maximum maneuverability of the advanced flap .
+METHODS	Clinical and patient-centered parameters ( visual analog scale for pain and aesthetics [ VAS ] ) were measured at baseline , 7 days , and 6 months after the surgery .
+RESULTS	Complete root coverage from baseline to 6 months post-surgery was achieved for 46.7 % of the control group and 81.2 % of the test group ( p = 0.044 ) .
+RESULTS	There were no differences in VAS pain measurements between the groups .
+RESULTS	Patient satisfaction with aesthetics was higher in LALPF group than in the LPF group .
+CONCLUSIONS	Six month results showed that the LALPF approach was effective for the treatment of single Miller class II gingival recessions .
+

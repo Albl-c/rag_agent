@@ -1,0 +1,14 @@
+24758510
+BACKGROUND	The management of patients with angiographically intermediate coronary lesions is a major clinical issue .
+BACKGROUND	Fractional flow reserve provides validated functional insights while optical coherence tomography provides high resolution anatomic imaging .
+BACKGROUND	Both techniques may be applied to guide management in case of angiographically intermediate coronary lesions .
+BACKGROUND	Moreover , these techniques may be used to optimize the result of percutaneous coronary intervention .
+BACKGROUND	We aim to compare the clinical and economic impact of fractional flow reserve versus optical coherence tomography guidance in patients with angiographically intermediate coronary lesions .
+METHODS	Patients with at least one angiographically intermediate coronary lesion will be randomized ( ratio 1:1 ) to fractional flow reserve or optical coherence tomography guidance .
+METHODS	In the fractional flow reserve arm , percutaneous coronary intervention will be performed if fractional flow reserve value is 0.80 , and will be conducted with the aim of achieving a post-percutaneous coronary intervention fractional flow reserve target value of 0.90 .
+METHODS	In the optical coherence tomography arm , percutaneous coronary intervention will be performed if percentage of area stenosis ( AS % ) is 75 % or 50 to 75 % with minimal lumen area < 2.5 mm2 , or if a major plaque ulceration is detected .
+METHODS	In case of percutaneous coronary intervention , optical coherence tomography will guide the procedure in order to minimize under-expansion , malapposition , and edge dissections.Cost load and clinical outcome will be prospectively assessed at one and thirteen months .
+METHODS	The assessed clinical outcome measures will be : major cardiovascular events and occurrence of significant angina defined as a Seattle Angina Questionnaire score < 90 in the angina frequency scale .
+CONCLUSIONS	The FORZA trial will provide useful guidance for the management of patients with coronary artery disease by prospectively assessing the use of two techniques representing the gold standard for functional and anatomical definition of coronary plaques .
+BACKGROUND	Clinicaltrials.gov NCT01824030 .
+

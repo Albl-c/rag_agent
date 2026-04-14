@@ -1,0 +1,15 @@
+25124510
+BACKGROUND	The presence of depressive subsyndromal symptoms ( SS ) in bipolar disorder ( BD ) increases the risk of affective relapse and worsens social , cognitive functioning , and quality of life .
+BACKGROUND	Nonetheless , there are limited data on how to optimize the treatment of subthreshold depressive symptoms in BD .
+BACKGROUND	Mindfulness-Based Cognitive Therapy ( MBCT ) is a psychotherapeutic intervention that has been shown effective in unipolar depression .
+BACKGROUND	The assessment of its clinical effectiveness and its impact on biomarkers in bipolar disorder patients with subsyndromal depressive symptoms and psychopharmacological treatment is needed .
+METHODS	A randomized , multicenter , prospective , versus active comparator , evaluator-blinded clinical trial is proposed .
+METHODS	Patients with BD and subclinical or mild depressive symptoms will be randomly allocated to : 1 ) MBCT added to psychopharmacological treatment ; 2 ) a brief structured group psychoeducational intervention added to psychopharmacological treatment ; 3 ) standard clinical management , including psychopharmacological treatment .
+METHODS	Assessments will be conducted at screening , baseline , post-intervention ( 8 weeks ) and 4 month follow-up post-intervention .
+METHODS	The aim is to compare MBCT intervention versus a brief structured group psychoeducation .
+METHODS	Our hypothesis is that MBCT will be more effective in reducing the subsyndromal depressive symptoms and will improve cognitive performance to a higher degree than the psychoeducational treatment .
+METHODS	It is also hypothesized that a significant increase of BDNF levels will be found after the MBCT intervention .
+CONCLUSIONS	This is the first randomized controlled trial to evaluate the effects of MBCT compared to an active control group on depressive subthreshold depressive symptoms in patients with bipolar disorder .
+BACKGROUND	ClinicalTrials.gov : NCT02133170 .
+BACKGROUND	Registered 04/30/2014 .
+

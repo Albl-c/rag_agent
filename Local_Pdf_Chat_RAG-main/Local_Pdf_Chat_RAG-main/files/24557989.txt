@@ -1,0 +1,12 @@
+24557989
+BACKGROUND	Whether convective therapies allow better control of serum phosphate ( P ) is still undefined , and no data are available concerning on-line haemofiltration ( HF ) .
+BACKGROUND	The objectives of the study are to evaluate the effect of convective treatments ( CTs ) on P levels in comparison with low-flux haemodialysis ( HD ) and to evaluate the correlates of serum phosphate in a post hoc analysis of a randomized clinical trial .
+METHODS	This analysis was performed in the database of a multicentre , open label and randomized controlled study in which 146 chronic HD patients from 27 Italian centres were randomly assigned to HD ( 70 patients ) or CTs : on-line pre-dilution HF ( 36 patients ) or on-line pre-dilution haemodiafiltration ( 40 patients ) .
+RESULTS	CTs did not affect P ( P = 0.526 ) , calcium ( Ca ) ( P = 0.849 ) and parathyroid hormone levels ( P = 0.622 ) .
+RESULTS	P levels were associated with the use of phosphate binders including aluminium-based phosphate binders ( P < 0.001 ) and sevelamer ( P < 0.001 ) , pre-dialysis bicarbonate levels ( P < 0.001 ) and pre-dialysis blood K levels ( P < 0.001 ) .
+RESULTS	On multivariate analysis ( generalized linear model ) , serum P was again largely unassociated with CTs ( P = 0.631 ) .
+RESULTS	Notably , participating centres were by far the strongest independent correlate of serum P , explaining 45.3 % of the variance of serum P over the trial and this association was confirmed at multivariate analysis .
+RESULTS	Bicarbonate ( P < 0.001 ) and , to a weaker extent , serum K ( P = 0.032 ) were independently related to serum P.
+CONCLUSIONS	In comparison with low-flux HD , CTs did not significantly affect serum P levels .
+CONCLUSIONS	Participating centres were the main source of P variability during the trial followed by treatment with phosphate binders , serum bicarbonate and , to a weak extent , serum potassium levels ( ClinicalTrials.gov Identifier : NCT011583309 ) .
+

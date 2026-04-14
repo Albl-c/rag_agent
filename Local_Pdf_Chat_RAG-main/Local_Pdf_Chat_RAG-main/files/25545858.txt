@@ -1,0 +1,19 @@
+25545858
+OBJECTIVE	Standard varenicline tartrate dosing was formulated to avoid adverse effects ( primarily nausea ) , but some patients may be underdosed .
+OBJECTIVE	To our knowledge , no evidence-based guidance exists for physicians considering increasing varenicline dose if there is no response to the standard dosage .
+OBJECTIVE	To determine whether increasing varenicline dose in patients showing no response to the standard dosage improves treatment efficacy .
+METHODS	In a double-blind randomized placebo-controlled trial , 503 smokers attending a stop smoking clinic commenced varenicline use 3 weeks before their target quit date ( TQD ) .
+METHODS	Two hundred participants reporting no strong nausea , no clear reduction in smoking enjoyment , and less than 50 % reduction in their baseline smoking on day 12 received additional tablets of varenicline or placebo .
+METHODS	All participants began standard varenicline tartrate dosing , gradually increasing to 2 mg/d .
+METHODS	Dose increases of twice-daily varenicline ( 0.5 mg ) or placebo took place on days 12 , 15 , and 18 ( up to a maximum of 5 mg/d ) .
+METHODS	Participants rated their smoking enjoyment during the prequit period and withdrawal symptoms weekly for the first 4 weeks after the TQD .
+METHODS	Continuous validated abstinence rates were assessed at 1 , 4 , and 12 weeks after the TQD .
+RESULTS	The dose increase reduced smoking enjoyment during the prequit period , with mean ( SD ) ratings of 1.7 ( 0.8 ) for varenicline vs 2.1 ( 0.7 ) for placebo ( P = .001 ) .
+RESULTS	It had no effect on the mean ( SD ) frequency of urges to smoke at 1 week after the TQD , their strength , or the severity of withdrawal symptoms : these ratings for varenicline vs placebo were 2.7 ( 1.1 ) vs 2.6 ( 0.9 ) ( P = .90 ) , 2.6 ( 1.1 ) vs 2.8 ( 1.0 ) ( P = .36 ) , and 1.5 ( 0.4 ) vs 1.6 ( 0.5 ) ( P = .30 ) , respectively .
+RESULTS	The dose increase also had no effect on smoking cessation rates for varenicline vs placebo at 1 week ( 37 [ 37.0 % ] vs 48 [ 48.0 % ] , P = .14 ) , 4 weeks ( 51 [ 51.0 % ] vs 59 [ 59.0 % ] , P = .32 ) , and 12 weeks ( 26 [ 26.0 % ] vs 23 [ 23.0 % ] , P = .61 ) after the TQD .
+RESULTS	There was significantly more nausea ( P < .001 ) and vomiting ( P < .001 ) reported in the varenicline arm than in the placebo arm .
+CONCLUSIONS	Increasing varenicline dose in smokers with low response to the drug had no significant effect on tobacco withdrawal symptoms or smoking cessation .
+CONCLUSIONS	Physicians often consider increasing the medication dose if there is no response to the standard dosage .
+CONCLUSIONS	This approach may not work with varenicline .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01206010 .
+

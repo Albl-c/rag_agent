@@ -1,0 +1,17 @@
+24720885
+BACKGROUND	Maternal obesity and gestational diabetes mellitus ( GDM ) may independently influence offspring fat mass and metabolic disease susceptibility .
+BACKGROUND	In this pilot study , body composition and fat distribution in offspring from obese women with and without GDM and lean women were assessed within the 1st year of life , and maternal and newborn plasma factors were related to offspring adipose tissue distribution .
+METHODS	Serum and plasma samples from pregnant obese women with ( n = 16 ) or without ( n = 13 ) GDM and normoglycemic lean women ( n = 15 ) at 3rd trimester and offspring cord plasma were used for analyzing lipid profiles , insulin and adipokine levels .
+METHODS	At week-1 and 6 , month-4 and year-1 , offspring anthropometrics and skinfold thickness ( SFT ) were measured and abdominal subcutaneous ( SCA ) and preperitoneal adipose tissue ( PPA ) were determined by ultrasonography .
+RESULTS	Cord insulin was significantly increased in the GDM group , whereas levels of cord leptin , total and high molecular weight ( HMW ) adiponectin were similar between the groups .
+RESULTS	Neonates of the GDM group showed significantly higher SFT and fat mass until week-6 and significantly increased SCA at week-1 compared to the lean group that persisted as strong trend at week-6 .
+RESULTS	Interestingly , PPA in neonates of the GDM group was significantly elevated at week-1 compared to both the lean and obese group .
+RESULTS	At month-4 and year-1 , significant differences in adipose tissue growth between the groups were not observed .
+RESULTS	Multiple linear regression analyses revealed that cord insulin levels are independently related to neonatal PPA that showed significant relation to PPA development at year-1 .
+RESULTS	Maternal fasted C-peptide and HMW adiponectin levels at 3rd trimester emerged to be determinants for PPA at week-1 .
+CONCLUSIONS	Maternal pregravid obesity combined with GDM leads to newborn hyperinsulinemia and increased offspring fat mass until week-6 , whereas pregravid obesity without GDM does not .
+CONCLUSIONS	This strongly suggests the pivotal role of GDM in the adverse offspring outcome .
+CONCLUSIONS	Maternal C-peptide and HMW adiponectin levels in pregnancy emerge to be predictive for elevated PPA in newborns and might be indicative for the obesity risk at later life .
+CONCLUSIONS	Altogether , the findings from our pilot study warrant evaluation in long-term studies .
+BACKGROUND	German Clinical Trials Register DRKS00004370 .
+

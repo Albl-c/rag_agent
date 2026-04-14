@@ -1,0 +1,15 @@
+24670844
+OBJECTIVE	National Surgical Adjuvant Breast and Bowel Project ( NSABP ) R-04 was a randomized controlled trial of neoadjuvant chemoradiotherapy in patients with resectable stage II-III rectal cancer .
+OBJECTIVE	We hypothesized that patients who underwent abdominoperineal resection ( APR ) would have a poorer quality of life than those who underwent sphincter-sparing surgery ( SSS ) .
+METHODS	To obtain patient-reported outcomes ( PROs ) we administered two symptom scales at baseline and 1 year postoperatively : the Functional Assessment of Cancer Therapy-Colorectal ( FACT-C ) and the European Organization for the Research and Treatment of Cancer module for patients with Colorectal Cancer Quality of Life Questionnaire ( EORTC QLQ-CR38 ) .
+METHODS	Scoring was stratified by nonrandomly assigned definitive surgery ( APR vs SSS ) .
+METHODS	Analyses controlled for baseline scores and stratification factors : age , sex , stage , intended surgery , and randomly assigned chemoradiotherapy .
+RESULTS	Of 1,608 randomly assigned patients , 987 had data for planned analyses ; 62 % underwent SSS ; 38 % underwent APR. .
+RESULTS	FACT-C total and subscale scores were not statistically different by surgery at 1 year .
+RESULTS	For the EORTC QLQ-CR38 functional scales , APR patients reported worse body image ( 70.3 vs 77.0 , P = 0.0005 ) at 1 year than did SSS patients .
+RESULTS	Males undergoing APR reported worse sexual enjoyment ( 43.7 vs 54.7 , P = 0.02 ) at 1 year than did those undergoing SSS .
+RESULTS	For the EORTC QLQ-CR38 symptom scale scores , APR patients reported worse micturition symptoms than the SSS group at 1 year ( 26.9 vs 21.5 , P = 0.03 ) .
+RESULTS	SSS patients reported worse gastrointestinal tract symptoms than did the APR patients ( 18.9 vs 15.2 , P < 0.0001 ) , as well as weight loss ( 10.1 vs 6.0 , P = 0.002 ) .
+CONCLUSIONS	Symptoms and functional problems were detected at 1 year by EORTC QLQ-CR38 , reflecting different symptom profiles in patients who underwent APR than those who underwent SSS .
+CONCLUSIONS	Information from these PROs may be useful in counseling patients anticipating surgery for rectal cancer .
+

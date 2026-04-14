@@ -1,0 +1,13 @@
+25650633
+OBJECTIVE	The comparative incidences of hemidiaphragmatic paralysis associated with contemporary ultrasound-guided supraclavicular versus infraclavicular blockade have not received extensive study .
+OBJECTIVE	We tested the hypothesis that the infraclavicular approach results in a lower incidence of hemidiaphragmatic paralysis compared with supraclavicular blockade when a standard local anesthetic volume and concentration are used .
+METHODS	With institutional human ethics board approval , we enrolled 64 patients undergoing right-sided upper extremity surgery in a randomized , blinded , parallel-group trial .
+METHODS	Patients were assigned to ultrasound-guided supraclavicular or infraclavicular blockade with 30 mL of 0.5 % ropivacaine .
+METHODS	The primary end point was complete hemidiaphragmatic paralysis at 30 minutes , defined as a greater than 75 % reduction in diaphragmatic excursion measured with the voluntary sniff test using M-mode ultrasonography .
+METHODS	Partial paralysis was defined as a 25 % to 75 % reduction .
+RESULTS	Eleven ( 34 % ) of 32 patients in the supraclavicular group versus 1 ( 3 % ) of 32 in the infraclavicular group had complete hemidiaphragmatic paralysis ( P = 0.001 [ 1-tailed ] ; relative risk , 11.0 [ 95 % confidence interval , 1.5-80 .3 ] ) ; 44 % versus 13 % had any ( complete or partial ) paralysis ( P = 0.006 ; relative risk , 3.5 [ 95 % confidence interval , 1.3-9 .5 ] ) .
+RESULTS	Eight ( 25 % ) of 32 patients in the supraclavicular group versus 5 ( 16 % ) of 32 in the infraclavicular group reported dyspnea ( P = 0.54 ) .
+CONCLUSIONS	Ultrasound-guided supraclavicular blockade with 30 mL of 0.5 % ropivacaine produced complete hemidiaphragmatic paralysis in approximately one-third of patients .
+CONCLUSIONS	The infraclavicular approach greatly reduced this risk but did not eliminate it .
+CONCLUSIONS	These data may aid in the selection of the approach to brachial plexus blockade , particularly in ambulatory patients and/or those with respiratory comorbidities .
+

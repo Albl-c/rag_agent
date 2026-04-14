@@ -1,0 +1,11 @@
+24220704
+OBJECTIVE	To develop an optimal model and age-specific centiles for the decline in antimllerian hormone ( AMH ) as measured by the new Beckman Coulter AMH Generation II ( Gen II ) assay and compare this to the previous nomogram derived for the Diagnostics Systems Laboratory ( DSL ) assay .
+METHODS	Multicenter retrospective population study , with validation of linear , biphasic linear , differential , power , and quadratic equations .
+METHODS	Two clinical pathology laboratories .
+METHODS	A new cohort of 10,984 women aged 25 to 45 years old attending infertility clinics , randomly divided into a training cohort of 5,492 women and a validation cohort of 5,492 women , and an existing cohort of 9,601 women , who had contributed to the development and validation of a nomogram for AMH measured by the DSL assay .
+METHODS	Serum measurement of AMH as determined by the Beckman Coulter AMH Generation II assay in 10,984 women .
+METHODS	Optimal model for the decline in AMH as measured by the AMH Gen II assay with age , with age-specific 5th , 10th , 25th , 50th , 75th , 90th , and 95th percentiles .
+RESULTS	A quadratic model defined as ( 2.431 + 0.089 * Age + -0.003 * Age ( 2 ) ) fitted the decline in AMH with age .
+RESULTS	The anticipated 40 % increase in age-specific population values relative to the previously validated DSL assay nomogram was not observed .
+CONCLUSIONS	Age-specific reference ranges for the AMH gen II assay suggest a systematic shift in assay calibration since initial evaluation and commercial release of the AMH Gen II assay .
+

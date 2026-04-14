@@ -1,0 +1,17 @@
+26035185
+BACKGROUND	Vortioxetine ( Lu AA21004 ) is an antidepressant with a mechanism of action thought to be related to a combination of 2 pharmacologic actions : direct modulation of several receptors and inhibition of the serotonin transporter .
+OBJECTIVE	To evaluate the efficacy of vortioxetine 10 and 20 mg once daily in outpatients with major depressive disorder .
+METHODS	This 8-week , multicenter , randomized , double-blind , placebo-controlled , parallel-group study was conducted from July 2010 to January 2012 among adults with a primary diagnosis of recurrent major depressive disorder ( DSM-IV-TR ) .
+METHODS	Eligible subjects were randomized in 1:1:1 ratio to 1 of 3 treatment arms : vortioxetine 10 mg , vortioxetine 20 mg , or placebo once daily for 8 weeks .
+METHODS	Subjects who completed the 8-week trial entered a 2-week blinded discontinuation period to assess potential discontinuation symptoms .
+METHODS	The primary endpoint was the least squares mean change in Montgomery-Asberg Depression Rating Scale ( MADRS ) total score from baseline .
+METHODS	Key secondary outcomes were analyzed in the following prespecified sequential order : MADRS response ( 50 % decrease from baseline in total score ) , Clinical Global Impressions-Improvement score , change from baseline in MADRS total score in subjects with baseline Hamilton Anxiety Rating Scale score 20 , MADRS remission ( total score 10 ) , and change from baseline in Sheehan Disability Scale total score ( all at week 8 ) .
+RESULTS	A total of 462 subjects were randomized to placebo ( n = 157 ) , vortioxetine 10 mg ( n = 155 ) , and vortioxetine 20 mg ( n = 150 ) .
+RESULTS	Mean ( SE ) reductions from baseline in MADRS total score ( week 8 ) were -10.77 ( 0.807 ) , -12.96 ( 0.832 ) , and -14.41 ( 0.845 ) for the placebo , vortioxetine 10 mg ( P = .058 vs placebo ) , and vortioxetine 20 mg ( P = .002 vs placebo ) groups .
+RESULTS	MADRS response/remission was achieved in 28.4 % / 14.2 % , 33.8 % / 21.4 % , and 39.2 % / 22.3 % of subjects , respectively , in the 3 groups .
+RESULTS	Only MADRS response for vortioxetine 20 mg significantly separated from placebo ( P = .044 ) .
+RESULTS	Treatment was well tolerated , with the most frequently reported adverse events consisting of nausea , headache , diarrhea , and dizziness .
+CONCLUSIONS	Vortioxetine 20 mg significantly reduced MADRS total score at 8 weeks in this study population .
+CONCLUSIONS	Overall , vortioxetine was well tolerated in this study .
+BACKGROUND	ClinicalTrials.gov identifier : NCT01163266 .
+

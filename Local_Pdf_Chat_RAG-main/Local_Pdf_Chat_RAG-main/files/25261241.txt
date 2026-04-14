@@ -1,0 +1,13 @@
+25261241
+OBJECTIVE	To determine whether stereopsis of infants treated for monocular cataracts varies with the type of optical correction used .
+METHODS	Randomized prospective clinical trial .
+METHODS	The Infant Aphakia Treatment Study randomized 114 patients with unilateral cataracts at age 1-7 months to either primary intraocular lens ( IOL ) or contact lens correction .
+METHODS	At 4.5 years of age a masked examiner assessed stereopsis on these patients using 3 different tests : ( 1 ) Frisby ; ( 2 ) Randot Preschool ; and ( 3 ) Titmus Fly .
+RESULTS	Twenty-eight patients ( 25 % ) had a positive response to at least 1 of the stereopsis tests .
+RESULTS	There was no statistically significant difference in stereopsis between the 2 treatment groups : Frisby ( contact lens , 6 [ 11 % ] ; IOL , 7 [ 13 % ] ; P = .99 ) , Randot ( contact lens , 3 [ 6 % ] ; IOL , 1 [ 2 % ] ; P = .62 ) , or Titmus ( contact lens , 8 [ 15 % ] ; IOL , 13 [ 23 % ] ; P = .34 ) .
+RESULTS	The median age at surgery for patients with stereopsis was younger than for those without stereopsis ( 1.2 vs 2.4 months ; P = .002 ) .
+RESULTS	The median visual acuity for patients with stereopsis was better than for those without stereopsis ( 20/40 vs 20/252 ; P = .0003 ) .
+CONCLUSIONS	The type of optical correction did not influence stereopsis outcomes .
+CONCLUSIONS	However , 2 other factors did : age at surgery and visual acuity in the treated eye at age 4.5 years .
+CONCLUSIONS	Early surgery for unilateral congenital cataract and the presence of visual acuity better than or equal to 20/40 appear to be more important than the type of initial optical correction used for the development of stereopsis .
+

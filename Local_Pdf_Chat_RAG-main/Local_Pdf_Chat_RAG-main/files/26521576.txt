@@ -1,0 +1,13 @@
+26521576
+OBJECTIVE	To explore the clinical efficacy and safety of acupuncture and moxibustion for copracrasia .
+METHODS	By prospective live randomized controlled trial , 40 cases with copracrasia were randomly divided into an acupuncture-moxibustion group and a medication group , 20 cases in each one .
+METHODS	In the acupuncture-moxibustion group , acupuncture was applied at Ciliao ( BL 32 ) , Changqiang ( GV 1 ) and Tianshu ( ST 25 ) and mild moxibustion was used at Qihai ( CV 6 ) .
+METHODS	Treatment was given for 12 weeks and 32 times , 3 times a week in the front 8 weeks , 2 times a week in the latter 4 weeks .
+METHODS	In the medication group , conventional symptomatic treatment , support therapy , and complications preventing and treating were adopted for 12 weeks .
+METHODS	Anal incontinence score ( Vaizey incontinence score ) , effective rate and self-rating score for satisfaction were observed before and after treatment and in the follow-up period .
+RESULTS	After 12 weeks ' treatment in the two groups , Vaizey incontinence ' scores were both decreased ( both P < 0.05 ) , and after treatment and in the follow-up period the scores in the acupuncture-moxibustion group were lower than those in the corresponding period in the medication group ( both P < 0.05 ) .
+RESULTS	The effective rate of the acupuncture-moxibustion group was 80.0 % ( 16/20 ) , which was statistically different from 50.0 % ( 10/20 ) in the medication group ( P < 0.05 ) .
+RESULTS	The effective rate in the follow-up period of the acupuncture-moxibustion group was 90.0 % ( 18/20 ) and it was not statistically different from 80.0 % ( 16/20 ) in the medication group ( P > 0.05 ) .
+RESULTS	The self-rating scores for satisfaction in the acupuncture-moxibustion group were superior to those in the medication group after treatment and in the follow-up period ( both P < 0.05 ) .
+CONCLUSIONS	Acupuncture and moxibustion could improve copracrasia and the acupuncture-moxibustion rules and characteristics for the disorder should be paid attention to in the further research .
+

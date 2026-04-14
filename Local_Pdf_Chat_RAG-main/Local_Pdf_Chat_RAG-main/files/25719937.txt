@@ -1,0 +1,15 @@
+25719937
+OBJECTIVE	Elevated intraocular pressure ( IOP ) is a well-known adverse event associated with the fluocinolone acetonide implant ( FAI ) , but no data are available regarding factors associated with increased risk of IOP elevation in patients treated with the FAI .
+OBJECTIVE	To report risk factors that may predispose patients to elevated IOP after treatment with the FAI .
+METHODS	Data from 3 multicenter , 3-year , prospective , randomized , phase 2b/3 clinical trials evaluating the safety and efficacy of the FAI were pooled and analyzed .
+METHODS	Patients had no underlying glaucoma and at least one eye with a history of recurrent noninfectious uveitis affecting the posterior segment .
+METHODS	Patients were treated with 1 or more of the following : systemic therapy ( corticosteroids or other immunosuppressive drugs ) for at least 3 months before enrollment , 2 or more sub-Tenon capsule corticosteroid injections for uveitis management during the 6 months before enrollment , or systemic corticosteroid or sub-Tenon capsule corticosteroid injection therapy required for at least 2 separate recurrences within 6 months before enrollment .
+METHODS	Factors evaluated as risk factors for IOP elevation included age , sex , lens status , uveitis severity at enrollment , and location of uveitis .
+RESULTS	Data analyses were based on 641 eyes .
+RESULTS	A total of 351 eyes did not receive the FAI , whereas 290 eyes had the 0.59-mg FAI placed .
+RESULTS	An increase in IOP of 10 mm Hg or elevation to 30 mm Hg was seen in 60 untreated eyes ( 17.1 % ) and 188 treated eyes ( 65.1 % ) ( hazard ratio , 5.80 ; 95 % CI , 4.28-7 .70 ; P < .001 ) .
+RESULTS	A total of 8 untreated eyes ( 2.3 % ) required surgical intervention for elevated IOP compared with 93 treated eyes ( 32.1 % ) ( hazard ratio , 16.48 ; 95 % CI , 8.24-32 .96 ; P < .001 ) .
+RESULTS	In patients with the FAI , younger age , male sex , and phakic lens status were associated with higher risk of IOP elevation and the need for glaucoma surgery ( P = .003 , P < .001 , and P < .001 , respectively ) .
+CONCLUSIONS	Patients receiving the FAI are at higher risk of developing an IOP increase of 10 mm Hg or an absolute IOP of 30 mm Hg when compared with patients without the FAI .
+CONCLUSIONS	Patients who are male , younger , and phakic are at an even higher risk for elevated IOP and possibly glaucoma surgery .
+

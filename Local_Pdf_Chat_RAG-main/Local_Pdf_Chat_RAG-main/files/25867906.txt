@@ -1,0 +1,11 @@
+25867906
+OBJECTIVE	To determine whether addition of an electronic sepsis evaluation and management tool to electronic sepsis alerting improves compliance with treatment guidelines and clinical outcomes in septic ICU patients .
+METHODS	A pragmatic randomized trial .
+METHODS	Medical and surgical ICUs of an academic , tertiary care medical center .
+METHODS	Four hundred and seven patients admitted during a 4-month period to the medical or surgical ICU with a diagnosis of sepsis established at the time of admission or in response to an electronic sepsis alert .
+METHODS	Patients were randomized to usual care or the availability of an electronic tool capable of importing , synthesizing , and displaying sepsis-related data from the medical record , using logic rules to offer individualized evaluations of sepsis severity and response to therapy , informing users about evidence-based guidelines , and facilitating rapid order entry .
+RESULTS	There was no difference between the electronic tool ( 218 patients ) and usual care ( 189 patients ) with regard to the primary outcome of time to completion of all indicated Surviving Sepsis Campaign 6-hour Sepsis Resuscitation Bundle elements ( hazard ratio , 1.98 ; 95 % CI , 0.75-5 .20 ; p = 0.159 ) or time to completion of each element individually .
+RESULTS	ICU mortality , ICU-free days , and ventilator-free days did not differ between intervention and control .
+RESULTS	Providers used the tool to enter orders in only 28 % of available cases .
+CONCLUSIONS	A comprehensive electronic sepsis evaluation and management tool is feasible and safe but did not influence guideline compliance or clinical outcomes , perhaps due to low utilization .
+

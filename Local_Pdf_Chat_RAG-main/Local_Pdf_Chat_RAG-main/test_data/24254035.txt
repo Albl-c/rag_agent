@@ -1,0 +1,13 @@
+24254035
+BACKGROUND	Fatigue is one problem that is seen in high numbers in hemodialysis patients .
+BACKGROUND	Fatigue decreases quality of life by negatively affecting an individual 's daily performance , activities , professional life , relations with family and friends , and treatment process .
+OBJECTIVE	This study was carried out to determine the effect of acupressure on the level of fatigue in hemodialysis patients .
+METHODS	The study was conducted as experimental research with an acupressure ( intervention ) group and a control group .
+METHODS	The research , for which an ethics committee 's approval and institutional permission was obtained , was conducted in two central provinces of Turkey , Nevehir and Aksaray , at two hemodialysis centers with similar characteristics .
+METHODS	The research was completed with a total of 118 participants ( 52 in the intervention group and 66 in the control group ) who met the inclusion criteria .
+METHODS	A total of 12 acupressure sessions , 3 / wk for 1 mo , were performed for all participants in the intervention group , as required by the acupressure application protocol , applying acupressure at the Stomach 36 ( ST-36 ) , Gallbladder 34 ( GB-34 ) , Spleen 6 ( SP-6 ) , and Kidney 1 ( K-1 ) acupuncture points with a transcutaneous electrical nerve stimulation ( TENS ) acupuncture pen ( XFT-320 acupuncture pen , Shenzhen Xunfegtong Electronics Co , Ltd , Shenzhen , China ) .
+METHODS	A visual analog scale ( VAS ) for fatigue and the Piper Fatigue Scale ( PFS ) were used to evaluate the fatigue level of the participants before and after the acupressure application .
+RESULTS	After the acupressure applications for 1 mo , the subscale and total fatigue scores for the VAS ( P < .001 ) and PFS were lower ( P < .05 ) for participants in the intervention group compared to the controls , except for the cognitive subscale on the PFS ( P < .05 ) .
+CONCLUSIONS	The study found that acupressure , applied using an acupuncture pen , was effective in decreasing fatigue in hemodialysis patients .
+CONCLUSIONS	Based on this result , the current research team suggests that hemodialysis patients and nurses should be informed about acupressure application so as to extend the use of acupressure in reducing fatigue symptoms .
+

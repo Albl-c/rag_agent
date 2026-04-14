@@ -1,0 +1,16 @@
+25085298
+BACKGROUND	In this study , we aimed to determine the effect of carbon dioxide laser irradiation on enamel surface microhardness .
+METHODS	In this single-blind interventional clinical trial , 16 patients needing at least 2 premolars extracted for orthodontic purposes participated .
+METHODS	In each subject , 1 premolar was treated with the carbon dioxide laser ( beam diameter , 0.2 mm ; power , 0.7 W ) ; the other was exposed to a visible guiding light as the control .
+METHODS	A t-loop was ligated to the bonded brackets to increase caries risk .
+METHODS	After at least 2 months , the teeth were extracted , and the surface microhardness was measured .
+METHODS	Scanning electron microscope evaluation was performed on 1 sample from each group .
+METHODS	Normal distribution of the data was assessed by the Kolmogorov-Smirnov and Shapiro-Wilks tests .
+METHODS	Mean microhardness values of the 2 groups were compared using paired t tests .
+RESULTS	The data had normal distributions .
+RESULTS	Means and standard deviations of the microhardness in the laser-treated and control groups were 301.81 94.29 and 183.9 72.08 Vickers hardness numbers , respectively ; this was different significantly ( P < 0.001 ) .
+RESULTS	Scanning electron microscopy showed the enamel surface melting in the laser-treated specimens .
+CONCLUSIONS	Carbon dioxide laser treatment results in higher enamel surface microhardness around orthodontic brackets .
+CONCLUSIONS	Patients at high risk of caries might benefit from this intervention .
+CONCLUSIONS	Exact control of the laser irradiation parameters is recommended .
+

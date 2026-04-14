@@ -1,0 +1,14 @@
+24560760
+BACKGROUND	The pediatric diffuse intrinsic pontine glioma ( DIPG ) outcome remains dismal despite multiple therapeutic attempts .
+OBJECTIVE	To compare the results of treatment of pediatric diffuse intrinsic pontine glioma ( DIPG ) using hypofractionated versus conventional radiotherapy .
+METHODS	Seventy-one newly diagnosed DIPG children were randomized into hypofractionated ( HF ) ( 39Gy/13 fractions in 2.6 weeks ) and conventional ( CF ) arm ( 54Gy/30 fractions in 6weeks ) .
+RESULTS	The median and one-year overall survival ( OS ) was 7.8 months and 36.48.2 % for the hypofractionated arm , and 9.5 and 26.27.4 % for the conventional arm respectively .
+RESULTS	The 18-month OS difference was 2.2 % .
+RESULTS	The OS hazard ratio ( HR ) was 1.14 ( 95 % CI : 0.70-1 .89 ) ( p = 0.59 ) .
+RESULTS	The hypofractionated arm had a median and one-year progression-free survival ( PFS ) of 6.6 months and 22.57.1 % , compared to 7.3 and 17.97.1 % for the conventional arm .
+RESULTS	The PFS HR was 1.10 ( 95 % CI : 0.67-1 .90 ) ( p = 0.71 ) .
+RESULTS	The 18-month PFS difference was 1.1 % .
+RESULTS	These differences exceed the non-inferiority margin .
+RESULTS	The immediate and delayed side effects were not different in the 2 arms .
+CONCLUSIONS	Hypofractionated radiotherapy offers lesser burden on the patients , their families and the treating departments , with nearly comparable results to conventional fractionation , though not fulfilling the non-inferiority assumption .
+

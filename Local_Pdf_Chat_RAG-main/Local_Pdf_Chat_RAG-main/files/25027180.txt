@@ -1,0 +1,14 @@
+25027180
+OBJECTIVE	This study aimed to evaluate whether a high relative ADP induced aggregation ( r-ADP-agg ) is associated with an increased mortality in patients after coronary stent implantation .
+BACKGROUND	Several trials were not able to improve clinical outcome by adapting platelet inhibition in patients after coronary stent implantation and high platelet reactivity ( HPR ) .
+BACKGROUND	Platelet monitoring is complex and conventional definition of adenosindiphosphate ( ADP ) induced aggregation alone might not transfer the whole picture of adequate platelet inhibition in vivo .
+METHODS	In a prospective single-centre observational trial multiple electrode aggregometry was performed in whole blood of patients after stent implantation .
+METHODS	r-ADP-agg was defined as the ADP-thrombin receptor activating peptide ratio to reflect an individual degree of P2Y12 dependent platelet inhibition with a cut-off value for HPR of 50 % .
+METHODS	The primary end point was mortality .
+RESULTS	Follow-up was completed in 176 of 184 patients ( 96 % ) with a mean follow-up time of 3.7 years .
+RESULTS	35 ( 20 % ) patients revealed an r-ADP-agg 50 % .
+RESULTS	An r-ADP-agg 50 % was associated with an increased mortality [ unadjusted hazard ratio ( HR ) 7.006 ( 2.561-19 .17 ) ; p = 0.0001 ] .
+RESULTS	In a multivariable Cox regression analysis mortality was independently associated with an r-ADP-agg 50 % [ HR 3.324 ( 1.542-7 .165 ) ; p = 0.0022 ] , ACS-setting [ HR 3.249 ( 1.322-7 .989 ) ; p = 0.0102 ] and severely reduced LV function [ HR 5.463 ( 2.098-14 .26 ) ; p = 0.0005 ] .
+CONCLUSIONS	An r-ADP-agg 50 % is associated with an increased mortality in patients after coronary stent implantation .
+CONCLUSIONS	Furthermore , r-ADP-agg might represent a better tool to predict clinical outcome than the conventional ADP induced platelet aggregation alone .
+

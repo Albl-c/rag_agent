@@ -1,0 +1,16 @@
+26076387
+BACKGROUND	The I-gel ( IG ) supraglottic airway device is a reliable way to establish an airway .
+BACKGROUND	Its large ventilation lumen allows for easy passage of an endotracheal tube .
+BACKGROUND	With the use of a flexible bronchoscope , the IG offers a good visualization of the laryngeal inlet .
+BACKGROUND	This prospective randomized study aims to compare the success rate of flexible bronchoscope-guided tracheal intubation using either the IG or the LMA-Fastrach ( FT ) laryngeal masks .
+METHODS	One hundred twenty patients requiring general anesthesia were randomized to 1 of the 2 study groups : IG or FT. After anesthesia induction , the assigned laryngeal mask was inserted to obtain adequate ventilation .
+METHODS	We then proceeded to a flexible bronchoscope-guided intubation through the supraglottic device .
+METHODS	Tracheal intubation and laryngeal mask insertion success rates were noted , as well as the time required for these manipulations .
+METHODS	The view of the laryngeal inlet was graded for each intubation attempt .
+RESULTS	Sixty patients were assigned to each study group .
+RESULTS	The intubation success rates were similar between the IG and the FT groups ( 100 % vs 95.0 % at first attempt ; P = 0.12 ) .
+RESULTS	The times required for tracheal intubation were significantly lower in the IG group ( 30 11 seconds vs 50 21 seconds ; P < 0.0001 ) .
+RESULTS	Glottic visualization was better in the IG group , with a significantly higher percentage of grade 1 visualization ( 63.3 % vs 3.3 % ; P < 0.0001 ) and a lower percentage of grade 3 visualization ( 1.7 % vs 60.0 % ; P < 0.0001 ) , than that in the FT group .
+CONCLUSIONS	The use of the IG supraglottic airway device as a conduit for flexible bronchoscope-guided tracheal intubation results in a success rate equivalent to the use of the LMA-FT .
+CONCLUSIONS	However , the IG allows for shorter intubation times and a better visualization of the glottic opening compared with the LMA-FT .
+

@@ -1,0 +1,12 @@
+24266074
+OBJECTIVE	To observe the outcome after sacral canal injection in patients with disc herniation associated with without sciatica .
+METHODS	From December 2010 to June 2011 , 65 patients with acute low back pain without sciatica due to lumbar disc herniation or bulging confirmed by CT or MRI were randomly divided into sacral canal injection group ( experimental group ) and lumbar oblique wrench group ( control group ) : the experimental group had 35 cases , including 30 males and 5 females , with an average age of ( 43.90 + / - 1.14 ) years old ranging from 33 to 56 years old .
+METHODS	The control group had 30 cases , including 27 males and 3 females , with an average age of ( 44.00 + / - 1.19 ) years old ranging from 34 to 57 years old .
+METHODS	The course of morbidity was 1 to 3 days .
+METHODS	All patients received sacral canal injection or lumbar oblique wrench method .
+METHODS	The visual analog scale ( VAS ) scores before and at 30 min after treatment were compared between two groups .
+RESULTS	The symptom of acute low back pain were relieved obviously .
+RESULTS	The average VAS scores before and after treatment in experimental group were decreased from 6.63 + / - 0.97 to 3.06 + / - 1.51 , in control group were from 6.67 + / - 0.96 to 3.93 + / - 1.20 respectively .
+RESULTS	These two methods could improve the VAS score , but the effect of sacral canal injection group was better than that of lumbar oblique wrench group , there was statistically differences ( P < 0.05 ) .
+CONCLUSIONS	It is effective that the methods of sacral canal injection and lumbar oblique wrench applied to patients with acute low back pain without sciatica due to lumbar disc herniation or bulging confirmed , the former has better effect .
+

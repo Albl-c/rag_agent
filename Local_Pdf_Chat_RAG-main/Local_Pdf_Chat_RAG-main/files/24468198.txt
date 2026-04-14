@@ -1,0 +1,13 @@
+24468198
+OBJECTIVE	This study compared time-to-hospitalization among subjects enrolled in different diabetes self-management programs ( DSMP ) .
+OBJECTIVE	We sought to determine whether the interventions delayed the occurrence of any acute event necessitating hospitalization .
+METHODS	Electronic medical records ( EMR ) were obtained for 376 adults enrolled in a randomized controlled trial ( RCT ) of Type 2 diabetes ( T2DM ) self-management programs .
+METHODS	All study participants had uncontrolled diabetes and were randomized into either : personal digital assistant ( PDA ) , Chronic Disease Self-Management Program ( CDSMP ) , combined PDA and CDSMP ( COM ) , or usual care ( UC ) groups .
+METHODS	Subjects were followed for a maximum of two years .
+METHODS	Time-to-hospitalization was measured as the interval between study enrollment and the occurrence of a diabetes-related hospitalization .
+RESULTS	Subjects enrolled in the CDSMP-only arm had significantly prolonged time-to-hospitalization ( Hazard ratio : 0.10 ; p = 0.002 ) when compared to subjects in the control arm .
+RESULTS	Subjects in the PDA-only and combined PDA and CDSMP arms showed no improvements in comparison to the control arm .
+CONCLUSIONS	CDSMP can be effective in delaying time-to-hospitalization among patients with T2DM .
+CONCLUSIONS	Reducing unnecessary healthcare utilization , particularly inpatient hospitalization is a key strategy to improving the quality of health care and lowering associated health care costs .
+CONCLUSIONS	The CDSMP offers the potential to reduce time-to-hospitalization among T2DM patients .
+

@@ -1,0 +1,16 @@
+25439084
+BACKGROUND	Exercise is a potential treatment for depression .
+BACKGROUND	However , few studies have evaluated the role of adjunct exercise in the treatment of severely major depressed inpatients .
+BACKGROUND	The goal of this study was to evaluate the effects of add-on exercise on the usual treatment of severely depressed inpatients .
+METHODS	Fifty participants were randomized to an exercise ( exercise + usual treatment ) or a control ( usual treatment ) group .
+METHODS	Twenty-five patients were randomly allocated to each group .
+METHODS	The participants in the exercise group performed three sessions per week throughout the hospitalization period , with a goal dose of 16.5 kcal/kg/week plus the usual pharmacological treatment .
+METHODS	Depressive symptoms and the Quality of Life ( QoL ) of the participants were assessed at the baseline , the second week , and discharge .
+RESULTS	A significant group time interaction was found for depressive symptoms and the physical and psychological domains of QoL .
+RESULTS	Differences between groups occurred at the second week and discharge with respect to depressive symptoms and the physical and psychological domains of QoL .
+RESULTS	There was no difference in the remission rate at discharge ( 48 % and 32 % for the exercise and control group , respectively ) .
+RESULTS	An NNT of 6.25 was found .
+RESULTS	No significant baseline characteristics predict remission at discharge .
+CONCLUSIONS	Add-on exercise is an efficacious treatment for severely depressed inpatients , improving their depressive symptoms and QoL .
+CONCLUSIONS	Initial acceptance of exercise remains a challenge .
+

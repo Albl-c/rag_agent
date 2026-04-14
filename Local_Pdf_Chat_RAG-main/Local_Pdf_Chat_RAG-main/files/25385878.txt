@@ -1,0 +1,13 @@
+25385878
+BACKGROUND	In the United Kingdom , licensed nicotine-containing products can be recommended to reduce the harm associated with smoking .
+BACKGROUND	Many smokers find currently available nicotine replacement products unsatisfactory .
+BACKGROUND	The arterial and venous pharmacokinetics ( PK ) of nicotine delivered via a novel inhaler device were determined .
+METHODS	Results are reported for Parts A ( N = 18 ) and C ( N = 18 ) of a 4-part ( A-D ) Phase I study .
+METHODS	Participants ( 18-55 years , 10 cigarettes/day , smoking within 1 hr of waking , expired carbon monoxide > 10 ppm on screening ) orally inhaled 2 single doses of nicotine ( 2 of 3 dose levels [ 0.22 , 0.45 , and 0.67 mg ] ) ( Part A ) and repeated hourly doses of 0.67 mg nicotine for 12 hr ( Part C ) , via the novel device .
+METHODS	Arterial and venous PK and tolerability were assessed .
+RESULTS	In Part A , mean arterial plasma nicotine concentrations at 2 min after the start of inhalation were 1.10 , 2.06 , and 2.59 ng/mL for the 0.22 , 0.45 , and 0.67 mg doses , respectively .
+RESULTS	Mean maximum arterial plasma nicotine concentrations ( C ( max ) ) were 2.11 , 3.73 , and 4.38 ng/mL and mean times to C ( max ) were 10.2 , 7.3 , and 6.5 min after the start of inhalation for the 0.22 , 0.45 , and 0.67 mg doses , respectively .
+RESULTS	In Part C , the mean pre - and postdose venous plasma nicotine concentration increased steadily and fluctuated in the range 8-10 mg/mL after 9 hr .
+RESULTS	The novel device was well tolerated ; most adverse events were mild .
+CONCLUSIONS	The novel inhaler device delivers nicotine rapidly into the systemic circulation and offers a viable alternative to cigarettes for those finding it difficult to quit the behavioral and sensorial aspects of smoking .
+

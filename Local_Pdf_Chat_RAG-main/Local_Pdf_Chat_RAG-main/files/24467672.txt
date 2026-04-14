@@ -1,0 +1,11 @@
+24467672
+BACKGROUND	Liver transection is considered a critical factor influencing intra-operative blood loss .
+BACKGROUND	A increase in the number of complex liver resections has determined a growing interest in new devices able to ` optimize ' the liver transection .
+BACKGROUND	The aim of this randomized controlled study was to compare a radiofrequency vessel-sealing system with the ` gold-standard ' clamp-crushing technique .
+METHODS	From January to December 2012 , 100 consecutive patients undergoing a liver resection were randomized to the radiofrequency vessel-sealing system ( LF1212 group ; N = 50 ) or to the clamp-crushing technique ( Kelly group , N = 50 ) .
+RESULTS	Background characteristics of the two groups were similar .
+RESULTS	There were not significant differences between the two groups in terms of blood loss , transection time and transection speed .
+RESULTS	In spite of a not-significant larger transection area in the LF1212 group compared with the Kelly group ( 51.5 versus 39cm ( 2 ) , P = 0.116 ) , the overall and ` per cm ( 2 ) ' blood losses were similar whereas the transection speed was better ( even if not significantly ) in the LF1212 group compared with the Kelly group ( 1.1 cm ( 2 ) / min versus 0.8 , P = 0.089 ) .
+RESULTS	Mortality , morbidity and bile leak rates were similar in both groups .
+CONCLUSIONS	The radiofrequency vessel-sealing system allows a quick and safe liver transection similar to the gold-standard clamp-crushing technique .
+

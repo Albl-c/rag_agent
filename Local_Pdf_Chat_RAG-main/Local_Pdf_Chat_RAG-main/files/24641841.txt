@@ -1,0 +1,12 @@
+24641841
+BACKGROUND	Due to physical characteristics , ions like protons or carbon ions can administer the dose to the target volume more efficiently than photons since the dose can be lowered at the surrounding normal tissue .
+BACKGROUND	Radiation biological considerations are based on the assumption that the / value for prostate cancer cells is 1.5 Gy , so that a biologically more effective dose could be administered due to hypofractionation without increasing risks of late effects of bladder ( / = 4.0 ) and rectum ( / = 3.9 ) .
+METHODS	The IPI study is a prospective randomized phase II study exploring the safety and feasibility of primary hypofractionated irradiation of the prostate with protons and carbon ions in a raster scan technique .
+METHODS	The study is designed to enroll 92 patients with localized prostate cancer .
+METHODS	Primary aim is the assessment of the safety and feasibility of the study treatment on the basis of incidence grade III and IV NCI-CTC-AE ( v. 4.02 ) toxicity and/or the dropout of the patient from the planned therapy due to any reason .
+METHODS	Secondary endpoints are PSA-progression free survival ( PSA-PFS ) , overall survival ( OS ) and quality-of-life ( QoL ) .
+CONCLUSIONS	This pilot study aims at the evaluation of the safety and feasibility of hypofractionated irradiation of the prostate with protons and carbon ions in prostate cancer patients in an active beam technique .
+CONCLUSIONS	Additionally , the safety results will be compared with Japanese results recently published for carbon ion irradiation .
+CONCLUSIONS	Due to the missing data of protons in this hypofractionated scheme , an in depth evaluation of the toxicity will be created to gain basic data for a following comparison study with carbon ion irradiation .
+BACKGROUND	Clinical Trial Identifier : NCT01641185 ( clinicaltrials.gov ) .
+

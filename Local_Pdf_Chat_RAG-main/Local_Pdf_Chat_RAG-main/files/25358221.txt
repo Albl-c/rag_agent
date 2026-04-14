@@ -1,0 +1,17 @@
+25358221
+BACKGROUND	Acne vulgaris is a common inflammatory disorder of the skin that involves pilosebaceous units .
+BACKGROUND	This study was conducted to compare the efficacy of oral azithromycin with oral doxycycline in the treatment of acne vulgaris in our population .
+METHODS	This randomized controlled trial was conducted in the dermatology department of Lady Reading Hospital , Peshawar from January to December 2011 .
+METHODS	All male and female patients of age ( 14-30 years ) having moderate acne vulgaris on face only were included in the study .
+METHODS	Patients were randomly divided into two groups .
+METHODS	Patients in first group were given azithromycin 500 mg daily before meal for 4 consecutive days monthly for 3 months while patients in second group were given doxycycline 100 mg daily after meals for 3 months .
+METHODS	Patients were followed up after taking treatment for three months to see the response of each drug .
+METHODS	Response was graded as excellent , good , moderate , mild and no response .
+RESULTS	A total of 386 patients equally divided in azithromycin and doxycycline groups .
+RESULTS	Male to female ratio in azithromycin and doxycycline groups was 0.82:1.11 and 0.89:1.04 respectively .
+RESULTS	Mean age in both groups was 18.45 2.91 years and 17.96 2.59 years respectively .
+RESULTS	In azithromycin group , an excellent response was noted in 6 ( 3.1 % ) , and good response was observed in 44 ( 22.8 % ) patients .
+RESULTS	In doxycycline group 22 ( 11.4 % ) patients had excellent and 107 ( 55.4 % ) patients had good response .
+RESULTS	The difference being statistically significant .
+CONCLUSIONS	Doxycycline is a better option fdr treatment of acne vulgaris as compared to azithromycin .
+

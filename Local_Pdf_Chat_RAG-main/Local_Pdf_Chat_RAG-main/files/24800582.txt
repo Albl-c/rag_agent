@@ -1,0 +1,12 @@
+24800582
+OBJECTIVE	To investigate the efficacy and safety of adjusting the doses of diuretics of different time in the treatment of advanced schistosomiasis ascites .
+METHODS	A total of 80 advanced schistosomiasis patients with ascites were randomly divided into an observation group and a control group ( 40 cases each ) .
+METHODS	The patients in the observation group received spironolactone and furosemide , and the first doses were 100 mg/d and 40 mg/d , respectively .
+METHODS	If the efficacy was poor , according to the first doses of the standard increments once every four days , the doses gradually increased to the maximum doses of spironolactone 400 mg/d and furosemide 160 mg/d , respectively .
+METHODS	The patients in the control group received spironolactone and furosemide , and the first doses were the same as those of the observation group .
+METHODS	If the efficacy was poor , according to the first doses of the standard increments once every seven days , the doses gradually increased to the maximum doses as those of the observation group .
+METHODS	Other conventional treatments were the same in both groups .
+RESULTS	In both groups , the reductions of the total amount of the weight were ( 5.62 + / - 1.28 ) kg and ( 5.42 + / - 1.37 ) kg respectively ; the time of efficacy beginning was ( 3.84 + / - 2.36 ) days and ( 4.65 + / - 2.86 ) days respectively ; the average daily amounts of weight loss were ( 0.41 + / - 0.16 ) kg and ( 0.35 + / - 0.11 ) kg respectively ; the efficient rates were 95 % and 92.5 % respectively ; and there were no significant differences between the two group ( all P > 0.05 ) .
+RESULTS	However , the time of reduction from moderate ascites to mild ascites was ( 10.70 + / - 3.01 ) days ( 6-20 days ) in the observation group and the time was ( 14.75 + / - 5.62 ) days ( 7-30 days ) in the control group ( u = 3.876 , P < 0.01 ) .
+CONCLUSIONS	The therapy of diuretic doses adjusted by a four-day cycle is more useful for advanced schistosomiasis patients with ascites .
+

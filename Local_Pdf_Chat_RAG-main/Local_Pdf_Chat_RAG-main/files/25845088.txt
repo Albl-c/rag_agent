@@ -1,0 +1,11 @@
+25845088
+OBJECTIVE	To determine whether exercise training might exert anti-inflammatory effect by reducing HMGB1 levels in women with breast cancer ( BC ) .
+METHODS	We analyzed monocentric data from the DIANA ( DIET AND ANDROGENS ) -5 PROJECT .
+METHODS	Study population consisted of 94 patients randomized into two groups : 61 patients ( 53 + / - 8 yrs , training group ) were assigned to a structured exercise training intervention ( 3 times/week for the first 3 months , and once / week for the following 9 months ) ; whereas 33 patients ( 52 + / - 7 yrs , control group ) followed only the general indications to adhere to the life-style intervention suggestions of the DIANA protocol .
+METHODS	At study entry and after 12 months , all patients underwent cardiopulmonary exercise testing , biochemical as - sessment [ HMGB1 , high-sensitivity C-reactive protein ( hs-CRP ) , interleukin-6 ( IL-6 ) ] ; and lipid and glycemic profile .
+RESULTS	There were no significant differences between groups in baseline clinical and inflammatory profile .
+RESULTS	Among the training group , only 19/61 patients had high adherence to the exercise intervention .
+RESULTS	After stratifying the study population according to the level of adhesion to the exer - cise intervention , 1-year HMGB1 levels were lower among patients more adherent to exercise ( p for trend = 0.001 ) .
+RESULTS	Further adjusting for age , body mass index and baseline values , 1-year HMGB1 levels remained significantly and inversely associated to the level of adhesion to the exercise intervention ( B = -0.97 , SE = 0.43 , p = 0.01 ) .
+CONCLUSIONS	Moderate intensity exercise training in BC survivors is associated with reduced HMGB1 levels that are proportional to the level of adhesion to the exercise intervention , independently from other classical inflammatory molecules , suggesting an exercise-induced anti-inflammatory effect mediated by HMGB1 .
+

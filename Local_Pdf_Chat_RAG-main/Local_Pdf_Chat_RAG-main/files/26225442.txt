@@ -1,0 +1,14 @@
+26225442
+OBJECTIVE	The quality of integrated diabetes care is important for reducing the burden of diabetes .
+OBJECTIVE	Therefore , we have evaluated the effect of a supervision program on the quality of integrated diabetes care in the Netherlands in the 2011-2012 period .
+METHODS	In this cluster RCT , the supervision program was assigned to randomly selected care groups providing care to diabetes patients .
+METHODS	The supervision program included announcements of inspections , site visits , and sending individualized reports .
+METHODS	Indicators of effectiveness were derived from the structures , processes , and outcomes of care .
+METHODS	These indicators were collected from patients ' files , before and after the supervision program .
+METHODS	Hierarchical linear and logistic regression models were used to analyze data from 356 patients of 10 intervention and 8 control care groups .
+RESULTS	Structures and processes of care did not improve more in the intervention groups than in the control care groups .
+RESULTS	Moreover , health outcomes did not improve more in the intervention groups than in the control care groups .
+RESULTS	Although structures of care improved over time in the total population of intervention and control care groups , there were no changes in process of care or health outcomes .
+CONCLUSIONS	In this cluster RCT , we could not demonstrate improvements in quality of integrated diabetes care resulting from the supervision program .
+CONCLUSIONS	Although structures of care did improve over time , other quality-improvement initiatives are necessary to substantially strengthen integrated care for diabetes patients .
+

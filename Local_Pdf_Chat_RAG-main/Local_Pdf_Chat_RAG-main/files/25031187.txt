@@ -1,0 +1,17 @@
+25031187
+BACKGROUND	Multidimensional tinnitus models describe dysfunctional cognitions as a complicating factor in the process of tinnitus habituation .
+BACKGROUND	However , this concept has rarely been investigated in previous research .
+OBJECTIVE	The present study investigated the effects of two cognitive-behavioral treatments on dysfunctional tinnitus-related cognitions in patients with chronic tinnitus .
+OBJECTIVE	Furthermore , dysfunctional cognitions were examined as possible predictors of the therapeutic effect on tinnitus distress .
+METHODS	A total of 128 patients with chronic tinnitus were randomly assigned to either an Internet-delivered guided self-help treatment ( Internet-based cognitive-behavioral therapy , ICBT ) , a conventional face-to-face group therapy ( cognitive-behavioral group therapy , GCBT ) , or an active control group in the form of a web-based discussion forum ( DF ) .
+METHODS	To assess tinnitus-related dysfunctional thoughts , the Tinnitus Cognitions Scale ( T-Cog ) was used at pre - and post-assessment , as well as at the 6 - and 12-month follow-up .
+RESULTS	Multivariate ANOVAs with post hoc tests revealed significant and comparable reductions of dysfunctional tinnitus-related cognitions for both treatments ( GCBT and ICBT ) , which remained stable over a 6 - and 12-month period .
+RESULTS	Negative correlations were found between the catastrophic subscale of the T-Cog and therapy outcome for ICBT , but not for GCBT .
+RESULTS	This means a higher degree of catastrophic thinking at baseline was associated with lower benefit from ICBT directly after the treatment .
+RESULTS	Hierarchical regression analysis confirmed catastrophizing as a predictor of poorer therapy outcome regarding emotional tinnitus distress in ICBT .
+RESULTS	No associations were detected in the follow-up assessments .
+CONCLUSIONS	Both forms of CBT are successful in reducing dysfunctional tinnitus-related cognitions .
+CONCLUSIONS	Catastrophizing significantly predicted a less favorable outcome regarding emotional tinnitus distress in ICBT .
+CONCLUSIONS	Clinical implications of these results are described .
+CONCLUSIONS	Dysfunctional cognitions could be targeted more intensively in therapy and in future research on tinnitus .
+

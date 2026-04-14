@@ -1,0 +1,9 @@
+25230038
+OBJECTIVE	To compare the level of anxiety and performance of nursing students when performing a clinical simulation through the traditional method of assessment with the presence of an evaluator and through a filmed assessment without the presence of an evaluator .
+METHODS	Controlled trial with the participation of Brazilian public university 20 students who were randomly assigned to one of two groups : a ) assessment through the traditional method with the presence of an evaluator ; or b ) filmed assessment .
+METHODS	The level of anxiety was assessed using the Zung test and performance was measured based on the number of correct answers .
+RESULTS	Averages of 32 and 27 were obtained on the anxiety scale by the group assessed through the traditional method before and after the simulation , respectively , while the filmed group obtained averages of 33 and 26 ; the final scores correspond to mild anxiety .
+RESULTS	Even though there was a statistically significant reduction in the intra-groups scores before and after the simulation , there was no difference between the groups .
+RESULTS	As for the performance assessments in the clinical simulation , the groups obtained similar percentages of correct answers ( 83 % in the traditional assessment and 84 % in the filmed assessment ) without statistically significant differences .
+CONCLUSIONS	Filming can be used and encouraged as a strategy to assess nursing undergraduate students .
+

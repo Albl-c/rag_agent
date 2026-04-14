@@ -1,0 +1,13 @@
+25624374
+BACKGROUND	Inadequate designs and conflicting results from previous studies prompted the US Food and Drug Administration to publish guidelines for the design of clinical trials evaluating the effects of orally inhaled and intranasal corticosteroids on the growth of children .
+BACKGROUND	This study conformed to these guidelines to evaluate the effect of triamcinolone acetonide aqueous nasal spray ( TAA-AQ ) on the growth of children with perennial allergic rhinitis ( PAR ) .
+METHODS	This randomized , double-blind , placebo-controlled , parallel-group , multicenter study evaluated the effect of once-daily TAA-AQ ( 110 g ) on the growth velocity ( GV ) of children aged 3-9 years with PAR by using stadiometry at baseline ( 4-6 months ) , during treatment ( 12 months ) , and at follow-up ( 2 months ) .
+METHODS	Hypothalamus-pituitary-adrenal ( HPA ) axis function was assessed by measuring urinary cortisol levels .
+METHODS	Details of adverse events were recorded .
+RESULTS	Of 1078 subjects screened , 299 were randomized , and 216 completed the study ( placebo , 107 ; TAA-AQ , 109 ) .
+RESULTS	In the primary analysis ( modified intent-to-treat : placebo , 133 ; TAA-AQ , 134 ) , least-squares mean GV during treatment was lower in the TAA-AQ group ( 5.65 cm/year ) versus placebo ( 6.09 cm/year ) .
+RESULTS	The difference ( -0.45 cm/year ; 95 % confidence interval : -0.78 to -0.11 ; P = .01 ) , although clinically nonsignificant , was evident within 2 months of treatment and stabilized thereafter .
+RESULTS	At follow-up , the GV approached baseline ( 6.70 cm/year ) in the TAA-AQ group ( 6.59 cm/year ) and decreased slightly in the placebo group ( 5.89 cm/year vs 6.06 cm/year at baseline ) .
+RESULTS	No HPA axis suppression was observed .
+CONCLUSIONS	By using rigorous Food and Drug Administration-recommended design elements , this study detected a small , statistically significant effect of TAA-AQ on the GV of children with PAR .
+

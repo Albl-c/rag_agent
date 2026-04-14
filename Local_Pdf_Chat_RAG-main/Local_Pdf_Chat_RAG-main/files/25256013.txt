@@ -1,0 +1,13 @@
+25256013
+BACKGROUND	In ruminants , lower ruminal pH causes massive disruption of ruminal epithelial structure during periods of feeding high-concentrate diets .
+BACKGROUND	However , the influence of excessive organic fatty acids in the lumen of hindgut on the epithelial structure is unclear .
+BACKGROUND	In this study , twelve mid-lactating goats were randomly assigned to either a HC diet group ( 65 % concentrate of dry matter ; n = 6 ) or a LC diet group ( 35 % concentrate of dry matter ; n = 6 ) for 10 weeks .
+BACKGROUND	The colonic epithelial structure was detected by HE staining and transmission electron microscopy ( TEM ) , and the apoptotic status of epithelial cells was estimated by TUNEL method and caspase activities .
+RESULTS	HC goats showed higher level of free lipopolysaccharide ( LPS ) in rumen fluid ( p < 0.01 ) but not in colonic digesta ( p > 0.05 ) , and higher total volatile fatty acid ( VFA ) concentrations in rumen fluid ( p < 0.05 ) and in colonic digesta ( p < 0.01 ) , and higher content of starch in colonic digesta ( p < 0.05 ) compared to LC goats .
+RESULTS	HC goats demonstrated profound alterations in the colonic epithelial structure and tight junctions ( TJ ) , apparently due to damage of the epithelium with widened TJs space and nuclear breakdown and mitochondrial swelling .
+RESULTS	HC goats showed higher level of apoptosis in the colonic epithelium with higher proportion of TUNEL-positive apoptotic cells and increases of caspase-3 and -3 / 7 activities , as well as the lower ratio of bcl-2 / bax mRNA expression in the colonic mucosa ( p < 0.05 ) .
+RESULTS	However , - defense mRNA was significantly down-regulated in the colonic mucosa of HC goats compared to LC ( p < 0.05 ) .
+RESULTS	HC goats showed higher level of TJ proteins including claudin-1 and claudin-4 in the colonic mucosa than LC ( p < 0.05 ) .
+RESULTS	Neither free LPS content in the colonic digesta nor NF - B protein expression in tissues showed significant difference between HC and LC goats ( p > 0.05 ) .
+CONCLUSIONS	Our results reveal that long-term feeding HC diet to lactating goats causes severe damages to the colonic mucosa barrier associated with activating cells apoptosis .
+

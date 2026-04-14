@@ -1,0 +1,14 @@
+24786016
+OBJECTIVE	We aimed to investigate the population pharmacokinetics ( PK ) of soluble recombinant human tumor necrosis factor receptor fusion protein ( rhTNFR - Fc ) in Chinese patients with rheumatic arthritis ( RA ) .
+OBJECTIVE	The PK differences between Chinese patients with RA and healthy Chinese subjects were also compared .
+METHODS	40 patients were randomized to a single subcutaneous ( SC ) injections of 12.5 mg ( n = 10 ) , 25 mg ( n = 10 ) , and 50 mg ( n = 10 ) of rhTNFR-Fc , and six SC injection of rhTNFR - Fc at 25 mg once in 3 days ( n = 10 ) respectively .
+METHODS	A total of 550 serum concentration data points were collected in the RA patients .
+METHODS	The population PK analysis was performed by NONMEM .
+METHODS	Based on the population PK parameters obtained herein and those reported in healthy Chinese subjects , simulation was conducted to compare the difference of rhTNFR-Fc exposure between these populations .
+RESULTS	The PK data of Chinese patients with RA were best described by a one compartment model with lag time .
+RESULTS	A higher CL/F was noted in RA patients compared with that of the healthy Chinese subjects ( 1.64 L/h vs. 1.10 L/h ) , and a lower Ka was noticed in the RA patients compared with that of the healthy subjects ( 0.0317 h-1 vs. 0.0605 h-1 ) .
+RESULTS	The simulate results showed that rhTNFR-Fc exposure in Chinese patients with RA was significantly lower than that in healthy subjects .
+RESULTS	The mean patients/healthy subjects C ( max ) and AUC ( ss ) ratios were 0.870 and 0.890 , respectively .
+CONCLUSIONS	A population PK model of rhTNFR - Fc was developed in Chinese patients with RA .
+CONCLUSIONS	Statistical difference was noted in the PK of rhTNFR-Fc between Chinese patients with RA and healthy Chinese subjects .
+

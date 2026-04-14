@@ -1,0 +1,15 @@
+24364223
+BACKGROUND	The importance of vitamin D on bone health and osteoporosis was studied by many researchers .
+BACKGROUND	The main role of the Vitamin D is to absorb calcium and phosphate and increase bone mineralization .
+BACKGROUND	Older people are at an increased risk of the inadequate vitamin D production in the skin because of lower sun exposure and reduced ability of the skin to synthesize vitamin D.
+OBJECTIVE	The aim of this clinical trial was to evaluate the efficacy and tolerability of short-term ( 2 weeks ) low energy UVB irradiation in postmenopausal women with osteoporosis using bone mineral density and bone turnover markers .
+METHODS	A three-month , single-blinded , randomized , placebo-controlled clinical trial was conducted at the University hospital in Daegu , Republic of Korea .
+METHODS	Fifty-two postmenopausal Korean women ( older than 65 years ) with osteoporosis were randomly allocated to have either low energy UVB or placebo for 30 minutes a day for two weeks of treatment during winter .
+METHODS	Laboratory analysis and physical examination before and 4 , 8 and 12 weeks after treatment were carried out and BMD was measured before and 8 and 12 weeks after treatment .
+METHODS	The effects of time and treatment interaction between these two groups were evaluated by repeated-measure two-factor analysis , and subgroup analysis was performed to examine UVB effect on the vitamin D insufficient group [ serum 25 ( OH ) D3 concentration < 30 ng/mL ] .
+RESULTS	In vitamin D insufficient group , the effect of UVB irradiation on vitamin D and bone ALP as well as additional benefit on bone formation was confirmed .
+RESULTS	The vitamin D insufficient group showed statistically significant increment in serum 25 ( OH ) D3 compared with the normal group ( p < 0.05 ) .
+RESULTS	However , there was no significant difference between two groups in the other bone turnover markers , such as serum calcium , PTH-C , serum osteocalcin , serum CTX and BMD .
+CONCLUSIONS	Low-energy-short-term UVB radiation for postmenopausal women may be of use in vitamin D synthesis .
+CONCLUSIONS	There was a modest benefit in change of bone ALP especially in women with the insufficient vitamin D.
+

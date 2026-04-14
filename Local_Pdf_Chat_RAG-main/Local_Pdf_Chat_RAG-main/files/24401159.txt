@@ -1,0 +1,12 @@
+24401159
+BACKGROUND	Patients surviving stroke but who have significant impairment of function in the affected arm are at more risk of developing pain , stiffness and contractures .
+BACKGROUND	The abnormal muscle activity , associated with post-stroke spasticity , is thought to be causally associated with the development of these complications .
+BACKGROUND	Treatment of spasticity is currently delayed until a patient develops signs of these complications .
+METHODS	This protocol is for a phase II study that aims to identify whether using OnabotulinumtoxinA ( BoNT-A ) in combination with physiotherapy early post stroke when initial abnormal muscle activity is neurophysiologically identified can prevent loss of range at joints and improve functional outcomes.The trial uses a screening phase to identify which people are appropriate to be included in a double blind randomised placebo-controlled trial .
+METHODS	All patients admitted to Sandwell and West Birmingham NHS Trust Hospitals with a diagnosis of stroke will be screened to identify functional activity in the arm .
+METHODS	Those who have no function will be appropriate for further screening .
+METHODS	Patients who are screened and have abnormal muscle activity identified on EMG will be given electrical stimulation to forearm extensors for 3 months and randomised to have either injections of BoNT-A or normal saline .
+METHODS	The primary outcome measure is the action research arm test - a measure of arm function .
+METHODS	Further measures include spasticity , stiffness , muscle strength and fatigue as well as measures of quality of life , participation and caregiver strain .
+BACKGROUND	ISRCTN57435427 , EudraCT2010-021257-39 , NCT01882556 .
+

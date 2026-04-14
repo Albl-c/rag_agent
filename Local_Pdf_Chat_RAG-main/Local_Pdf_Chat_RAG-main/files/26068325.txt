@@ -1,0 +1,13 @@
+26068325
+OBJECTIVE	The present study aimed to assess the effects of two different sports training methods - traditional and maturational - on the flexibility of female rhythmic gymnasts at different levels of biological maturation .
+METHODS	The sample consisted of 120 children , randomly divided ( by draw ) into six groups of 20 children ( eight and nine-years old ) : traditional training group ( TG ) ; maturational training group ( MG ) ; and the control group ( CG ) .
+METHODS	These were subdivided into early , normal and late , based on biological maturation assessment by hand/wrist X-ray examination .
+METHODS	Flexibility was evaluated by angle goniometer testing , applying the LABIFIE protocol .
+METHODS	A Lafayette Goniometer Set and Hoorn-Brasil exercise mat were used and the following exercises were performed : external shoulder rotation ( ESR ) and lumbar flexion ( LF ) .
+METHODS	Both the TG and MG participated in twice-weekly , 45-minute rhythmic gymnastics classes over 16 weeks .
+METHODS	The TG used the traditional sports training method while the MG executed sporting activities according to biological maturation .
+METHODS	The CG received no special treatment .
+RESULTS	The results showed a significant improvement ( P < 0.001 ) in the subgroups ( late , normal and early ) for both variables ( ESR = 7.54 and LF = 7.51 ) in the eight and nine-year age groups .
+RESULTS	Moreover , in relation to division by biological maturity , better results were recorded in the early subgroups .
+CONCLUSIONS	Thus , it can be inferred that , due to the changes in important physical parameters as a result of maturation , selecting children for physical education should not be based solely on chronological , but primarily on biological maturation .
+

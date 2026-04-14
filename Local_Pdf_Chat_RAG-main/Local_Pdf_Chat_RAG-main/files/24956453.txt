@@ -1,0 +1,14 @@
+24956453
+OBJECTIVE	Patients undergoing breast cancer surgery frequently experience chronic postoperative pain .
+OBJECTIVE	The primary objective of this randomized study was to determine if thoracic paravertebral block ( TPVB ) reduced the incidence of chronic pain after a modified radical mastectomy ( MRM ) when compared with general anesthesia ( GA ) .
+METHODS	One hundred eighty women undergoing MRM were randomized to 1 of 3 study groups : group 1 : standardized GA , group 2 : GA with a single-injection TPVB and placebo paravertebral infusion , and group 3 : GA with a continuous TPVB .
+METHODS	Outcomes assessed postoperatively included acute postoperative pain and analgesic consumption and , at 3 and 6 months , the incidence and severity of chronic pain and physical and mental health-related quality of life ( HRQOL ) .
+RESULTS	There was no significant difference in the incidence of chronic pain at 3 months ( P = 0.13 ) and 6 months ( P = 0.79 ) after the MRM between the study groups .
+RESULTS	The relative risk of developing chronic pain ( P = 0.25 ) was also similar between the groups .
+RESULTS	There was no difference in acute pain ( P = 0.22 ) or postoperative analgesic consumption ( P = 0.67 ) between the groups .
+RESULTS	Nevertheless , differences were observed in chronic pain-related secondary outcome variables .
+RESULTS	The TPVB groups reported lower chronic pain scores ( P < 0.05 ) , exhibited fewer symptoms and signs of chronic pain ( P 0.01 ) , and also experienced better physical and mental HRQOL than did the GA group .
+RESULTS	Chronic pain scores also decreased with time in all study groups ( P < 0.05 ) .
+CONCLUSIONS	There is no significant difference in the incidence or relative risk of chronic pain at 3 and 6 months after an MRM when TPVB is used in conjunction with GA. .
+CONCLUSIONS	Nevertheless , patients who receive a TPVB report less severe chronic pain , exhibit fewer symptoms and signs of chronic pain , and also experience better physical and mental HRQOL .
+

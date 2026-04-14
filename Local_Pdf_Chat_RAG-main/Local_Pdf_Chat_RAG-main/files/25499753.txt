@@ -1,0 +1,12 @@
+25499753
+BACKGROUND	The development of secondary non-response ( SNR ) to botulinum neurotoxin type-A ( BoNT-A ) is considered a key issue in the management of cervical dystonia ( CD ) .
+BACKGROUND	This case-controlled study was performed to systematically identify factors influencing SNR during BoNT-A therapy .
+METHODS	This was a retrospective , international , non-interventional study of CD patients .
+METHODS	Patients with SNR were matched with up to three responder patients ( control ) on the basis of duration of therapy and number of injection cycles .
+METHODS	Factors influencing the development of SNR were screened using a univariate logistic regression model and confirmed using a multivariate conditional logistic regression model .
+RESULTS	216 patients were enrolled , and 201 ( SNR = 52 ; responder = 149 ) were matched and subdivided into blocks ( doublets , triplets or quadruplets ) .
+RESULTS	At baseline , a significantly higher proportion of SNR patients had received previous or concomitant therapies ( p = 0.038 ) and surgery for CD ( p = 0.007 ) compared with controls .
+RESULTS	Although disease severity at onset was similar between groups , a significantly higher proportion of SNR patients experienced severe CD at the time of SNR compared with controls at the last documented visit .
+RESULTS	Multivariate analyses identified five factors that were significantly associated in predicting SNR ( odds ratio [ OR ] > 1 indicated higher chances for being SNR ) : previous surgical procedure for CD ( OR 9.8 , p = 0.013 ) , previous BoNT-A related severe adverse event ( AE ) ( OR 5.6 p = 0.027 ) , physical therapy ( OR 4.6 , p = 0.028 ) , neuroleptic use ( OR 3.3 , p = 0.019 ) and average BoNT-A dose ( OR 2.7 , p = 0.010 ) .
+CONCLUSIONS	These findings suggest that SNR may not reflect true pharmacological resistance to BoNT-A therapy , but may be related to underlying disease severity .
+

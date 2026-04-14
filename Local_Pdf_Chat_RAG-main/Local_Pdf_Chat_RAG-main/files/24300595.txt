@@ -1,0 +1,15 @@
+24300595
+BACKGROUND	Obesity and reduced muscle strength are associated with increased blood pressure ( BP ) .
+BACKGROUND	We examined the impact of milk proteins and combined exercise training ( CET ) on BP , arterial function , and muscle strength ( one-repetition maximum ( 1-RM ) ) .
+METHODS	Thirty-three obese sedentary women ( age = 30 1 years ; body mass index = 35.2 0.9 kg/m ( 2 ) ; systolic BP ( SBP ) = 129 2 mm Hg ) were randomized to control carbohydrate ( n = 11 ) , whey ( n = 11 ) , and casein ( n = 11 ) supplementation for 4 weeks .
+METHODS	All participants performed moderate-intensity CET 3 days/week .
+METHODS	Brachial and aortic SBP , augmentation index adjusted for 75 beats/minute ( AIx@75 ) , arterial stiffness ( brachial-ankle pulse wave velocity ( baPWV ) ) , and 1-RM were measured before and after the interventions .
+RESULTS	There were significant ( P < 0.05 ) time-by-group interactions for brachial SBP ( bSBP ) , aortic SBP ( aSBP ) , AIx@75, and baPWV .
+RESULTS	Whey and casein supplementation significantly ( P < 0.05 ) decreased bSBP ( approximately 5mm Hg for both ) , aSBP ( approximately 7 mm Hg and approximately 6mm Hg , respectively ) , AIx@75 ( approximately 9.2 % and approximately 8.1 % , respectively ) and baPWV ( approximately 57 cm/s and approximately 53 cm/s , respectively ) compared with no changes in the control group .
+RESULTS	Upper - ( approximately 22.2 % ) and lower-body 1-RM ( approximately 44.0 % ) increased similarly in all groups .
+RESULTS	Changes in arterial function and 1-RM were not correlated .
+CONCLUSIONS	Milk protein supplementation with CET reduced SBP , wave reflection , and arterial stiffness in young obese women with prehypertension and hypertension .
+CONCLUSIONS	Because CET did not affect arterial function , milk proteins may have an antihypertensive effect by improving arterial function , as shown by reduced AIx@75 and baPWV .
+CONCLUSIONS	Muscle strength improvements after CET did not affect BP and arterial function .
+BACKGROUND	ClinicalTrial.gov Registration NCT01830946 .
+

@@ -1,0 +1,22 @@
+25250660
+OBJECTIVE	Anorexia nervosa ( AN ) is a serious disorder with high rates of morbidity and mortality .
+OBJECTIVE	Family-based treatment ( FBT ) is an evidence-based therapy for adolescent AN , but less than half of those who receive this approach recover .
+OBJECTIVE	Hence , it is important to identify other approaches to prevent the development of the chronic form of AN for which there is no known evidence-based treatment .
+OBJECTIVE	To compare FBT with systemic family therapy ( SyFT ) for the treatment of adolescent-onset AN .
+METHODS	Research in Anorexia Nervosa ( RIAN ) is a 2-group ( FBT and SyFT ) randomized trial conducted between September 2005 and April 2012 .
+METHODS	Interviewers were blinded to the treatment condition .
+METHODS	A total of 564 adolescents receiving care at 6 outpatient clinics experienced in the treatment of AN were screened .
+METHODS	Of these , 262 adolescents did not meet the inclusion criteria and 138 declined to participate ; hence , 164 adolescents ( aged 12-18 years ) of both sexes meeting the criteria for Diagnostic and Statistical Manual of Mental Disorders , Fourth Edition , AN ( except for amenorrhea ) were enrolled .
+METHODS	Three participants were withdrawn from FBT and 7 were withdrawn from SyFT after serious adverse events occurred .
+METHODS	Two manualized family therapies with 16 one-hour sessions during 9 months .
+METHODS	Family-based therapy focuses on the facilitation of weight gain , whereas SyFT addresses general family processes .
+METHODS	The primary outcomes were percentage of ideal body weight ( IBW ) and remission ( 95 % of IBW ) .
+METHODS	The a priori hypothesis was that FBT would result in faster weight gain early in treatment and at the end of treatment ( EOT ) .
+RESULTS	There were no statistically significant differences between treatment groups for the primary outcome , for eating disorder symptoms or comorbid psychiatric disorders at the EOT or follow-up .
+RESULTS	Remission rates included FBT , 33.1 % at the EOT and 40.7 % at follow-up and SyFT , 25.3 % and 39.0 % , respectively .
+RESULTS	Family-based therapy led to significantly faster weight gain early in treatment , significantly fewer days in the hospital , and lower treatment costs per patient in remission at the EOT ( FBT , $ 8963 ; SyFT , $ 18005 ) .
+RESULTS	An exploratory moderator analysis found that SyFT led to greater weight gain than did FBT for participants with more severe obsessive-compulsive symptoms .
+CONCLUSIONS	The findings of this study suggest that FBT is the preferred treatment for adolescent AN because it is not significantly different from SyFT and leads to similar outcomes at a lower cost than SyFT .
+CONCLUSIONS	Adolescents with more severe obsessive-compulsive symptoms may receive more benefits with SyFT .
+BACKGROUND	clinicaltrials.gov Identifier NCT00610753 .
+

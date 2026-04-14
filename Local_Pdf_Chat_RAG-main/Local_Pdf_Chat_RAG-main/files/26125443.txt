@@ -1,0 +1,10 @@
+26125443
+BACKGROUND	Bevacizumab prolongs progression-free survival ( PFS ) in patients with metastatic colorectal cancer .
+BACKGROUND	We analysed the protein expression levels of vascular endothelial growth factor ( VEGF ) ligands and receptors to determine their prognostic and predictive effects .
+METHODS	We graded expression of VEGF-A , VEGF-B , VEGF-C , VEGF-D , VEGF-R1 , and VEGF-R2 to assess whether overexpression predicted bevacizumab resistance in samples from 268 of 471 patients randomised to capecitabine ( C ) , capecitabine and bevacizumab ( CB ) , or CB and mitomycin ( CBM ) in the MAX trial and extended the analysis to the CAIRO-2 population .
+RESULTS	Patients with low expression of VEGF-D ( 0 , 1 ) benefited from bevacizumab treatment ( PFS hazard ratio ( HR ) ( C vs CBCBM ) , 0.21 ; 95 % CI , 0.080.55 ; overall survival ( OS ) HR , 0.35 ; 95 % CI , 0.130.90 ) .
+RESULTS	Patients with higher VEGF-D expression received less benefit ( VEGF-D 2 PFS HR , 0.67 ; 95 % CI , 0.451.00 ; OS HR , 0.82 ; 95 % CI , 0.521.30 ; VEGF-D 3 PFS HR , 0.77 ; 95 % CI , 0.501.17 ; OS HR , 1.28 ; 95 % CI , 0.792.09 ) ( P interaction o0 .05 ) .
+RESULTS	In CAIRO-2 , there was no difference in PFS or OS according to VEGF-D expression .
+CONCLUSIONS	The predictive value of VEGF-D expression for bevacizumab may depend on the chemotherapy backbone used .
+CONCLUSIONS	Further evaluation is required before clinical utilisation .
+

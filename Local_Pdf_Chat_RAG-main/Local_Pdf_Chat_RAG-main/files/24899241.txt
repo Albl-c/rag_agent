@@ -1,0 +1,15 @@
+24899241
+OBJECTIVE	To assess the effect of virtual reality distraction on pain among patients with a hand injury undergoing a dressing change .
+BACKGROUND	Virtual reality distraction can effectively alleviate pain among patients undergoing a dressing change .
+BACKGROUND	Clinical research has not addressed pain control during a dressing change .
+METHODS	A randomised controlled trial was performed .
+METHODS	In the first dressing change sequence , 98 patients were randomly divided into an experimental group and a control group , with 49 cases in each group .
+METHODS	Pain levels were compared between the two groups before and after the dressing change using a visual analog scale .
+METHODS	The sense of involvement in virtual environments was measured using the Pearson correlation coefficient analysis , which determined the relationship between the sense of involvement and pain level .
+RESULTS	The difference in visual analog scale scores between the two groups before the dressing change was not statistically significant ( t = 0196 , p > 005 ) , but the scores became statistically significant after the dressing change ( t = -30792 , p < 001 ) .
+RESULTS	The correlation between the sense of involvement in a virtual environment and pain level during the dressing was statistically significant ( R ( 2 ) = 05538 , p < 005 ) .
+CONCLUSIONS	Virtual reality distraction can effectively alleviate pain among patients with a hand injury undergoing a dressing change .
+CONCLUSIONS	Better results can be obtained by increasing the sense of involvement in a virtual environment .
+CONCLUSIONS	Virtual reality distraction can effectively relieve pain without side effects and is not reliant on a doctor 's prescription .
+CONCLUSIONS	This tool is convenient for nurses to use , especially when analgesics are unavailable .
+

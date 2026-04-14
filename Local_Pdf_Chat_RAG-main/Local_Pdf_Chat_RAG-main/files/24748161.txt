@@ -1,0 +1,14 @@
+24748161
+BACKGROUND	The purpose of this study was to describe hospital and geographic variation in 30-day risk of surgical complications and death among colorectal cancer ( CRC ) patients and the extent to which patient - , hospital - , and census-tract-level characteristics increased risk of these outcomes .
+METHODS	We included patients at least 66years old with first primary stage I-III CRC from the 2000-2005 National Cancer Institute 's Surveillance , Epidemiology , and End Results data linked with 1999-2005 Medicare claims .
+METHODS	A multilevel , cross-classified logistic model was used to account for nesting of patients within hospitals and within residential census tracts .
+METHODS	Outcomes were risk of complications and death after a complication within 30days of surgery .
+RESULTS	Data were analyzed for 35,946 patients undergoing surgery at 1,222 hospitals and residing in 12,187 census tracts ; 27.2 % of patients developed complications , and of these 13.4 % died .
+RESULTS	Risk-adjusted variability in complications across hospitals and census tracts was similar .
+RESULTS	Variability in mortality was larger than variability in complications , across hospitals and across census tracts .
+RESULTS	Specific characteristics increased risk of complications ( e.g. , census-tract-poverty rate , emergency surgery , and being African-American ) .
+RESULTS	No hospital characteristics increased complication risk .
+RESULTS	Specific characteristics increased risk of death ( e.g. census-tract-poverty rate , being diagnosed with colon ( versus rectal ) cancer , and emergency surgery ) , while hospitals with at least 500 beds showed reduced death risk .
+CONCLUSIONS	Large , unexplained variations exist in mortality after surgical complications in CRC across hospitals and geographic areas .
+CONCLUSIONS	The potential exists for quality improvement efforts targeted at the hospital and/or census-tract levels to prevent complications and augment hospitals ' ability to reduce mortality risk .
+

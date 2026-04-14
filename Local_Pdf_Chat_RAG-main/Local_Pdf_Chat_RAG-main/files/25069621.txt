@@ -1,0 +1,7 @@
+25069621
+OBJECTIVE	To examine the feasibility , acceptability , and initial efficacy of a technology-based weight loss intervention for urban , low-income mothers .
+METHODS	Eighteen obese , ethnic minority , socioeconomically disadvantaged mothers in the first year after childbirth were randomly assigned to either : 1 ) technology-based intervention , which included empirically supported behavior-change strategies , daily skills , and self-monitoring text messages with personalized feedback , biweekly counseling calls from a health coach , and access to a Facebook support group , or 2 ) usual-care control .
+RESULTS	After 14 weeks of treatment , the technology-based intervention participants had significantly greater weight loss ( -2.9 3.6 kg ) than usual care ( 0.5 2.3 kg ; adjusted mean difference : -3.2 kg , 95 % confidence interval -6.2 to -0.1 kg , P = .04 ) .
+RESULTS	One-third of intervention participants ( 3 of 9 ) and no control participants lost > 5 % of their initial body weight at follow up .
+CONCLUSIONS	Results suggest the potential for using technology to deliver a postpartum weight loss intervention among low-income racial/ethnic minorities .
+

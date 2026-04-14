@@ -1,0 +1,7 @@
+25186922
+BACKGROUND	Little is known about the differences between standard-dose statins effects on glucose level and lipids in Japanese patients with diabetes mellitus ( DM ) .
+RESULTS	The 1,049 patients were randomly assigned to either the rosuvastatin group or atorvastatin group .
+RESULTS	There were no significant differences between the 2 groups in the effect on non-high-density lipoprotein cholesterol ( non-HDL-C ) and HbA1c at 12 months .
+RESULTS	However , physicians tended to switch to more intensive therapy for DM in the atorvastatin group .
+CONCLUSIONS	Rosuvastatin 5 mg and atorvastatin 10 mg have a similar lowering effect on non-HDL-C , but might be different in terms of adverse effect on glucose levels .
+

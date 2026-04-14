@@ -1,0 +1,10 @@
+25427135
+OBJECTIVE	We evaluated a novel visual representation for current and near-term prosthetic vision .
+OBJECTIVE	Augmented depth emphasizes ground obstacles and floor-wall boundaries in a depth-based visual representation .
+OBJECTIVE	This is achieved by artificially increasing contrast between obstacles and the ground surface via a novel ground plane extraction algorithm specifically designed to preserve low-contrast ground-surface boundaries .
+METHODS	The effectiveness of augmented depth was examined in human mobility trials compared against standard intensity-based ( Intensity ) , depth-based ( Depth ) and random ( Random ) visual representations .
+METHODS	Eight participants with normal vision used simulated prosthetic vision with 20 phosphenes and eight perceivable brightness levels to traverse a course with randomly placed small and low-contrast obstacles on the ground .
+RESULTS	The number of collisions was significantly reduced using augmented depth , compared with intensity , depth and random representations ( 48 % , 44 % and 72 % less collisions , respectively ) .
+CONCLUSIONS	These results indicate that augmented depth may enable safe mobility in the presence of low-contrast obstacles with current and near-term implants .
+CONCLUSIONS	This is the first demonstration that an augmentation of the scene ensuring key objects are visible may provide better outcomes for prosthetic vision .
+

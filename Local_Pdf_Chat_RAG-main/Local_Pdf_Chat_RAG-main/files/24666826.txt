@@ -1,0 +1,17 @@
+24666826
+BACKGROUND	Acute heart failure ( AHF ) is characterized by inadequate cardiac output ( CO ) , congestive symptoms , poor peripheral perfusion and end-organ dysfunction .
+BACKGROUND	Treatment often includes a combination of diuretics , oxygen , positive pressure ventilation , inotropes and vasodilators or vasopressors .
+BACKGROUND	Lactate is a marker of illness severity but is also an important metabolic substrate for the myocardium at rest and during stress .
+BACKGROUND	We tested the effects of half-molar sodium lactate infusion on cardiac performance in AHF .
+METHODS	We conducted a prospective , randomised , controlled , open-label , pilot clinical trial in 40 patients fulfilling two of the following three criteria for AHF : ( 1 ) left ventricular ejection fraction < 40 % , ( 2 ) acute pulmonary oedema or respiratory failure of predominantly cardiac origin requiring mechanical ventilation and ( 3 ) currently receiving vasopressor and/or inotropic support .
+METHODS	Patients in the intervention group received a 3 ml/kg bolus of half-molar sodium lactate over the course of 15 minutes followed by 1 ml/kg/h continuous infusion for 24 hours .
+METHODS	The control group received only a 3 ml/kg bolus of Hartmann 's solution without continuous infusion .
+METHODS	The primary outcome was CO assessed by transthoracic echocardiography 24 hours after randomisation .
+METHODS	Secondary outcomes included a measure of right ventricular systolic function ( tricuspid annular plane systolic excursion ( TAPSE ) ) , acid-base balance , electrolyte and organ function parameters , along with length of stay and mortality .
+RESULTS	The infusion of half-molar sodium lactate increased ( meanSD ) CO from 4.051.37 L/min to 5.491.9 L/min ( P < 0.01 ) and TAPSE from 14.75.5 mm to 18.37 mm ( P = 0.02 ) .
+RESULTS	Plasma sodium and pH increased ( 1364 to 1466 and 7.400.06 to 7.530.03 , respectively ; both P < 0.01 ) , but potassium , chloride and phosphate levels decreased .
+RESULTS	There were no significant differences in the need for vasoactive therapy , respiratory support , renal or liver function tests , duration of ICU and hospital stay or 28 - and 90-day mortality .
+CONCLUSIONS	Infusion of half-molar sodium lactate improved cardiac performance and led to metabolic alkalosis in AHF patients without any detrimental effects on organ function .
+BACKGROUND	Clinicaltrials.gov NCT01981655 .
+BACKGROUND	Registered 13 August 2013 .
+

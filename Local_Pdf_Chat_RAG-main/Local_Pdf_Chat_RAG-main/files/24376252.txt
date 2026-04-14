@@ -1,0 +1,13 @@
+24376252
+OBJECTIVE	The Lower Mississippi Delta ( LMD ) region of the United States is characterized by high levels of obesity and physical inactivity .
+OBJECTIVE	The objective was to test the effectiveness of adapting the 2010 Dietary Guidelines for Americans ( DG ) , with and without a physical activity ( PA ) component , for attenuating weight gain .
+METHODS	Overall , 121 white and African-American adults ( 35-64 years ; body mass index 25-34 .9 kg/m ( 2 ) ) were randomized to a DG only group ( n = 61 ) or a DG + PA group ( n = 60 ) .
+METHODS	Both groups received a 12-week dietary education and behavior change intervention .
+METHODS	The DG + PA group also received PA education and a pedometer .
+METHODS	Changes in weight ( kg ) , % weight , and waist circumference ( WC ; cm ) were determined .
+METHODS	Analyses considered all completers ( n = 99 ) and those who engaged with 80 % of the intervention ( n = 83 ) .
+METHODS	General linear models compared mean changes between groups after adjustment for baseline values , race , and sex .
+RESULTS	Weight , % weight , and WC significantly decreased from baseline to follow-up in both groups ( p < 0.05 ; unadjusted values ) .
+RESULTS	Adjusted analysis showed a main effect of group for weight ( p = 0.041 ) and % weight ( p = 0.047 ) in the completers analysis , and WC ( p = 0.046 ) in the 80 % attendance analysis , with the DG + PA group improving weight-related outcomes more .
+CONCLUSIONS	Low-burden behavioral interventions could be effective strategies in attenuating unhealthy weight gain in the LMD .
+

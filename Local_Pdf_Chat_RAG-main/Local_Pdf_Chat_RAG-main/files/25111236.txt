@@ -1,0 +1,17 @@
+25111236
+OBJECTIVE	Polycystic liver disease ( PLD ) , the most common extrarenal manifestation of autosomal-dominant polycystic kidney disease ( ADPKD ) , has become more prevalent as a result of increased life expectancy , improved renal survival , reduced cardiovascular mortality , and renal replacement therapy .
+OBJECTIVE	No studies have fully characterized PLD in large cohorts .
+OBJECTIVE	We investigated whether liver and cyst volumes are associated with volume of the hepatic parenchyma , results from liver laboratory tests , and patient-reported outcomes .
+METHODS	We performed a cross-sectional analysis of baseline liver volumes , measured by magnetic resonance imaging , and their association with demographics , results from liver laboratory and other tests , and quality of life .
+METHODS	The data were collected from a randomized , placebo-controlled trial underway at 7 tertiary-care medical centers to determine whether the combination of an angiotensin I-converting enzyme inhibitor and angiotensin II-receptor blocker was superior to the inhibitor alone , and whether low blood pressure ( < 110/75 mm Hg ) was superior to standard blood pressure ( 120-130/70 -80 mm Hg ) , in delaying renal cystic progression in 558 patients with ADPKD , stages 1 and 2 chronic kidney disease , and hypertension ( age , 15-49 y ) .
+RESULTS	We found hepatomegaly to be common among patients with ADPKD .
+RESULTS	Cysts and parenchyma contributed to hepatomegaly .
+RESULTS	Cysts were more common and liver and cyst volumes were greater in women , increasing with age .
+RESULTS	Patients with advanced disease had a relative loss of liver parenchyma .
+RESULTS	We observed small abnormalities in results from liver laboratory tests , and that splenomegaly and hypersplenism were associated with PLD severity .
+RESULTS	Higher liver volumes were associated with a lower quality of life .
+CONCLUSIONS	Hepatomegaly is common even in early stage ADPKD and is not accounted for by cysts alone .
+CONCLUSIONS	Parenchymal volumes were larger , compared with liver volumes of patients without ADPKD or with those predicted by standardized equations , even among patients without cysts .
+CONCLUSIONS	The severity of PLD was associated with altered biochemical and hematologic features , as well as quality of life .
+CONCLUSIONS	ClinicalTrials.gov identifier : NCT00283686 .
+

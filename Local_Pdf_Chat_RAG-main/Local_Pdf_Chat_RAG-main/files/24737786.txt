@@ -1,0 +1,12 @@
+24737786
+OBJECTIVE	To estimate the incremental cost-effectiveness of infliximab versus conventional combination treatment over 21months in patients with methotrexate-refractory early rheumatoid arthritis .
+METHODS	In this multicentre , two-arm , parallel , randomised , active-controlled , open-label trial , rheumatoid arthritis patients with < 1year symptom duration were recruited from 15 rheumatology clinics in Sweden between October 2002 and December 2005 .
+METHODS	After 3-4months of methotrexate monotherapy , patients not achieving low disease activity were randomised to addition of infliximab or sulfasalazine + hydroxychloroquine ( conventional treatment group ) .
+METHODS	Costs of drugs , healthcare use , and productivity losses were retrieved from nationwide registers , while EuroQol 5-Dimensions utility was collected quarterly .
+RESULTS	Of 487 patients initially enrolled , 128 and 130 were randomised to infliximab and conventional treatment , respectively .
+RESULTS	The infliximab group accumulated higher drug and healthcare costs ( 27,487 vs 10,364 ; adjusted mean difference 16,956 ( 95 % CI 14,647 to 19,162 ) ) , while productivity losses did not differ ( 33,804 vs 29,220 ; 3961 ( 95 % CI -3986 to 11,850 ) ) , resulting in higher societal cost compared to the conventional group ( 61,291 vs 39,584 ; 20,916 ( 95 % CI 12,800 to 28,660 ) ) .
+RESULTS	Mean accumulated quality-adjusted life-years ( QALYs ) did not differ ( 1.10 vs 1.12 ; adjusted mean difference favouring infliximab treatment 0.01 ( 95 % CI -0.07 to 0.08 ) ) .
+RESULTS	The incremental cost-effectiveness ratios for the infliximab versus conventional treatment strategy were 2,404,197 / QALY from the societal perspective and 1,948,919 / QALY from the healthcare perspective .
+CONCLUSIONS	In early , methotrexate-refractory rheumatoid arthritis , a treatment strategy commencing with addition of infliximab , as compared to sulfasalazine + hydroxychloroquine , was not cost-effective over 21months at willingness to pay levels generally considered acceptable .
+BACKGROUND	NCT00764725 .
+

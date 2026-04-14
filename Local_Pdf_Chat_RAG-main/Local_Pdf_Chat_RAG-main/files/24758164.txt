@@ -1,0 +1,19 @@
+24758164
+BACKGROUND	Antibiotic prescribing in dentistry accounts for 9 % of total antibiotic prescriptions in Scottish primary care .
+BACKGROUND	The Scottish Dental Clinical Effectiveness Programme ( SDCEP ) published guidance in April 2008 ( 2nd edition , August 2011 ) for Drug Prescribing in Dentistry , which aims to assist dentists to make evidence-based antibiotic prescribing decisions .
+BACKGROUND	However , wide variation in prescribing persists and the overall use of antibiotics is increasing .
+METHODS	RAPiD is a 12-month partial factorial cluster randomised trial conducted in NHS General Dental Practices across Scotland .
+METHODS	Its aim is to compare the effectiveness of individualised audit and feedback ( A&F ) strategies for the translation into practice of SDCEP recommendations on antibiotic prescribing .
+METHODS	The trial uses routinely collected electronic healthcare data in five aspects of its design in order to : identify the study population ; apply eligibility criteria ; carry out stratified randomisation ; generate the trial intervention ; analyse trial outcomes .
+METHODS	Eligibility was determined on contract status and a minimum level of recent NHS treatment provision .
+METHODS	All eligible dental practices in Scotland were simultaneously randomised at baseline either to current audit practice or to an intervention group .
+METHODS	Randomisation was stratified by single-handed/multi-handed practices .
+METHODS	General dental practitioners ( GDPs ) working at intervention practices will receive individualised graphical representations of their antibiotic prescribing rate from the previous 14 months at baseline and an update at six months .
+METHODS	GDPs could not be blinded to their practice allocation .
+METHODS	Intervention practices were further randomised using a factorial design to receive feedback with or without : a health board comparator ; a supplementary text-based intervention ; additional feedback at nine months .
+METHODS	The primary outcome is the total antibiotic prescribing rate per 100 courses of treatment over the year following delivery of the baseline intervention .
+METHODS	A concurrent qualitative process evaluation will apply theory-based approaches using the Consolidated Framework for Implementation Research to explore the acceptability of the interventions and the Theoretical Domains Framework to identify barriers and enablers to evidence-based antibiotic prescribing behaviour by GDPs .
+CONCLUSIONS	RAPiD will provide a robust evaluation of A&F in dentistry in Scotland .
+CONCLUSIONS	It also demonstrates that linked administrative datasets have the potential to be used efficiently and effectively across all stages of an randomised controlled trial .
+BACKGROUND	Current Controlled Trials ISRCTN49204710 .
+

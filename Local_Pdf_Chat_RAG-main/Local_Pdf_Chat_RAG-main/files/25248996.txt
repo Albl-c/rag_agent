@@ -1,0 +1,18 @@
+25248996
+BACKGROUND	Intimate partner violence ( IPV ) and HIV are important and interconnected public health concerns .
+BACKGROUND	While it is recognized that they share common social drivers , there is limited evidence surrounding the potential of community interventions to reduce violence and HIV risk at the community level .
+BACKGROUND	The SASA !
+BACKGROUND	study assessed the community-level impact of SASA !
+BACKGROUND	, a community mobilization intervention to prevent violence and reduce HIV-risk behaviors .
+METHODS	From 2007 to 2012 a pair-matched cluster randomized controlled trial ( CRT ) was conducted in eight communities ( four intervention and four control ) in Kampala , Uganda .
+METHODS	Cross-sectional surveys of a random sample of community members , 18 - to 49-years old , were undertaken at baseline ( n = 1,583 ) and four years post intervention implementation ( n = 2,532 ) .
+METHODS	Six violence and HIV-related primary outcomes were defined a priori .
+METHODS	An adjusted cluster-level intention-to-treat analysis compared outcomes in intervention and control communities at follow-up .
+RESULTS	The intervention was associated with significantly lower social acceptance of IPV among women ( adjusted risk ratio 0.54 , 95 % confidence interval ( CI ) 0.38 to 0.79 ) and lower acceptance among men ( 0.13 , 95 % CI 0.01 to 1.15 ) ; significantly greater acceptance that a woman can refuse sex among women ( 1.28 , 95 % CI 1.07 to 1.52 ) and men ( 1.31 , 95 % CI 1.00 to 1.70 ) ; 52 % lower past year experience of physical IPV among women ( 0.48 , 95 % CI 0.16 to 1.39 ) ; and lower levels of past year experience of sexual IPV ( 0.76 , 95 % CI 0.33 to 1.72 ) .
+RESULTS	Women experiencing violence in intervention communities were more likely to receive supportive community responses .
+RESULTS	Reported past year sexual concurrency by men was significantly lower in intervention compared to control communities ( 0.57 , 95 % CI 0.36 to 0.91 ) .
+CONCLUSIONS	This is the first CRT in sub-Saharan Africa to assess the community impact of a mobilization program on the social acceptability of IPV , the past year prevalence of IPV and levels of sexual concurrency .
+CONCLUSIONS	SASA !
+CONCLUSIONS	achieved important community impacts , and is now being delivered in control communities and replicated in 15 countries .
+BACKGROUND	ClinicalTrials.gov #NCT 00790959 .
+

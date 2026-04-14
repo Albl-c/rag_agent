@@ -1,0 +1,14 @@
+24452810
+OBJECTIVE	Veliparib ( ABT-888 ) is a potent oral inhibitor of Poly ( ADP-ribose ) polymerase enzyme that is currently in development for the treatment of non-hematologic and hematologic malignancies .
+OBJECTIVE	This analysis characterizes the population pharmacokinetics of veliparib , including developing a structural pharmacokinetic model and testing patient demographics and covariates for potential influence on veliparib pharmacokinetics in patients with non-hematologic malignancies .
+METHODS	The analysis dataset included 3,542 veliparib concentration values from 325 patients with non-hematologic malignancies enrolled in three phase I and one phase II studies .
+METHODS	Population pharmacokinetic modeling was performed using NONMEM .
+METHODS	The likelihood ratio test was used for comparison of nested models , and visual predictive check was employed for model qualification .
+METHODS	Covariates tested included body size measures , creatinine clearance ( CLCR ) , formulation , age , sex , race , liver function tests , and coadministration with temozolomide .
+RESULTS	A one-compartment model with first-order absorption and elimination adequately described veliparib pharmacokinetics .
+RESULTS	The final model included fixed effects for CLCR on veliparib oral clearance ( CL/F ) and lean body mass ( LBM ) on volume of distribution ( V d/F ) .
+RESULTS	CL/F and V d/F were 20.9 L/h ( for a CLCR of 100 mL/min ) and 173 L ( for an LBM of 56 kg ) , respectively .
+CONCLUSIONS	Only LBM and CLCR were found to be determinants of veliparib V d/F and CL/F , respectively .
+CONCLUSIONS	Dosage adjustments of veliparib on the basis of body size , age , sex , race , liver function , and temozolomide coadministration are not necessary in patients with non-hematologic malignancies .
+CONCLUSIONS	This is the first study to characterize the population pharmacokinetics of veliparib , and the developed model will be used to conduct simulations and evaluate veliparib exposure-response relationships .
+

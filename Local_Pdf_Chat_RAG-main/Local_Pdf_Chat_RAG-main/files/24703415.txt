@@ -1,0 +1,11 @@
+24703415
+OBJECTIVE	To test whether a breakfast including eggs ( EB ) containing high-quality protein decreases subsequent food intake and increases satiety-related hormones in overweight or obese adults more than a breakfast including cereal ( CB ) of lower protein quality , but matched for energy density and macronutrient composition .
+METHODS	Twenty healthy overweight or obese subjects were randomized to eat an EB or a CB daily under supervision for one week , followed by a crossover to the opposite breakfast week after a two-week washout period .
+METHODS	On days 1 and 7 of each test week , a structured lunch was provided ad libitum .
+METHODS	Food intake , hunger and satiety scores , and blood parameters were measured before and after breakfast .
+METHODS	Outcomes were analyzed using mixed effects statistical models for repeated measures analysis of variance .
+RESULTS	Compared to the CB week , during the EB week , a ) feeling of fullness was greater ( P < 0.05 ) on day 1 but not on day 7 ; b ) energy intake was not significantly lower on either day ; c ) right before lunch , acylated ghrelin was lower and PYY3-36 was higher on day 1 ( P < 0.01 and < 0.002 , respectively ) but not on day 7 ; d ) PYY3-36 , but not ghrelin , showed greater rise between breakfast and lunch on days 1 ( P < 0.001 ) and 7 ( P < 0.01 ) .
+CONCLUSIONS	Despite a highly similar energy density and macronutrient composition , the higher protein quality breakfast significantly influenced fullness , ghrelin and PYY3-36 .
+CONCLUSIONS	Only the effect on PYY3-36 lasted throughout the week .
+CONCLUSIONS	A next step would be to test if the benefits are pronounced and lasting , if protein quality of all meals is increased .
+

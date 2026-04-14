@@ -1,0 +1,13 @@
+24429541
+BACKGROUND	Epidemiologic evidence has suggested that diets with a high ratio of palmitic acid ( PA ) to oleic acid ( OA ) increase risk of cardiovascular disease ( CVD ) .
+OBJECTIVE	To gain additional insights into the relative effect of dietary fatty acids and their metabolism on CVD risk , we sought to identify a metabolomic signature that tracks with diet-induced changes in blood lipid concentrations and whole-body fat oxidation .
+METHODS	We applied comprehensive metabolomic profiling tools to biological specimens collected from 18 healthy adults enrolled in a crossover trial that compared a 3-wk high-palmitic acid ( HPA ) with a low-palmitic acid and high-oleic acid ( HOA ) diet .
+RESULTS	A principal components analysis of the data set including 329 variables measured in 15 subjects in the fasted state identified one factor , the principal components analysis factor in the fasted state ( PCF1-Fasted ) , which was heavily weighted by the PA : OA ratio of serum and muscle lipids , that was affected by diet ( P < 0.0001 ; HPA greater than HOA ) .
+RESULTS	One other factor , the additional principal components analysis factor in the fasted state ( PCF2-Fasted ) , reflected a wide range of acylcarnitines and was affected by diet in women only ( P = 0.0198 ; HPA greater than HOA ) .
+RESULTS	HOA lowered the ratio of serum low-density lipoprotein to high-density lipoprotein ( LDL : HDL ) in men and women , and adjustment for the PCF1-Fasted abolished the effect .
+RESULTS	In women only , adjustment for the PCF2-Fasted eliminated the HOA-diet effect on serum total - and LDL-cholesterol concentrations .
+RESULTS	The respiratory exchange ratio in the fasted state was lower with the HPA diet ( P = 0.04 ) , and the diet effect was eliminated after adjustment for the PCF1-Fasted .
+RESULTS	The messenger RNA expression of the cholesterol regulatory gene insulin-induced gene-1 was higher with the HOA diet ( P = 0.008 ) .
+CONCLUSIONS	These results suggest that replacing dietary PA with OA reduces the blood LDL concentration and whole-body fat oxidation by modifying the saturation index of circulating and tissue lipids .
+CONCLUSIONS	In women , these effects are also associated with a higher production and accumulation of acylcarnitines , possibly reflecting a shift in fat catabolism .
+

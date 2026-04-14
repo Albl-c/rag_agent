@@ -1,0 +1,15 @@
+24374549
+OBJECTIVE	To compare efficacy and safety of thromboprophylaxis with semuloparin started postoperatively versus enoxaparin started preoperatively in major abdominal surgery .
+BACKGROUND	Venous thromboembolism is an important complication following major abdominal surgery .
+BACKGROUND	Semuloparin is a novel ultra-low-molecular-weight heparin with high antifactor Xa and minimal antifactor IIa activity .
+METHODS	In this double-blind noninferiority trial , adult patients undergoing major abdominal or pelvic operation under general anesthesia lasting more than 45 minutes were assigned to either daily enoxaparin 40 mg commenced preoperatively or daily semuloparin 20 mg commenced postoperatively , for 7 to 10 days .
+METHODS	Patients underwent bilateral leg venography between 7 and 11 days postsurgery .
+METHODS	The primary efficacy end point was the composite of any deep vein thrombosis , nonfatal pulmonary embolism , or all-cause death .
+METHODS	The primary safety outcome was bleeding .
+METHODS	Both were independently adjudicated .
+RESULTS	In total , 4413 patients were randomized ; 3030 ( 1499 in the enoxaparin and 1531 in the semuloparin groups ) were evaluable for the primary efficacy end point , which occurred in 97 patients ( 6.3 % ) in the semuloparin group and 82 patients ( 5.5 % ) in the enoxaparin group [ odds ratio ( OR ) = 1.16 , 95 % confidence interval ( CI ) : 0.84-1 .59 ] .
+RESULTS	On the basis of a noninferiority margin of 1.25 , postoperative semuloparin did not demonstrate noninferiority to preoperative enoxaparin .
+RESULTS	Major bleeding occurred in 63 of 2175 patients ( 2.9 % ) in the semuloparin group and 98 of 2177 patients ( 4.5 % ) in the enoxaparin group ( OR = 0.63 , 95 % CI : 0.46-0 .87 ) .
+CONCLUSIONS	Semuloparin commenced postoperatively did not demonstrate noninferiority to enoxaparin initiated preoperatively for thromboprophylaxis after major abdominal surgery .
+CONCLUSIONS	Study registered with clinicaltrials.gov : NCT00679588 .
+

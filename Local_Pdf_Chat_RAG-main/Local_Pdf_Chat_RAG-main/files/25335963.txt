@@ -1,0 +1,14 @@
+25335963
+BACKGROUND	Major depression is a serious mental disorder that causes substantial distress and impairment in individuals and places an enormous burden on society .
+BACKGROUND	Although antidepressant treatment is the most common therapy provided in routine practice , there is little evidence to guide second-line therapy for patients who have failed to respond to antidepressants .
+BACKGROUND	The aim of this paper is to describe the study protocol for a randomised controlled trial that measures the clinical effectiveness of cognitive behavioural therapy ( CBT ) as an augmentation strategy to treat patients with non-psychotic major depression identified as suboptimal responders to usual depression care .
+METHODS	The current study is a 16-week assessor-blinded randomised , parallel-groups superiority trial with 12-month follow-up at an outpatient clinic as part of usual depression care .
+METHODS	Patients aged 20-65years with Diagnostic and Statistical Manual of Mental Disorders , Fourth Edition ( DSM-IV ) Major Depressive Disorder who have experienced at least one failed trial of antidepressants as part of usual depression care , will be randomly assigned to receive CBT plus treatment as usual , or treatment as usual alone .
+METHODS	The primary outcome is the change in clinician-rated 17-item GRID-Hamilton Depression Rating Scale ( GRID-HAMD ) score at 16weeks , and secondary outcomes include severity and change in scores of subjective depression symptoms , proportion of responders and remitters , safety and quality of life .
+METHODS	The primary population will be the intention-to-treat patients .
+BACKGROUND	All protocols and the informed consent form comply with the Ethics Guideline for Clinical Research ( Japanese Ministry of Health , Labour and Welfare ) .
+BACKGROUND	Ethics review committees at the Keio University School of Medicine and the Sakuragaoka Memorial Hospital approved the study protocol .
+BACKGROUND	The results of the study will be disseminated at several research conferences and as published articles in peer-reviewed journals .
+BACKGROUND	The study will be implemented and reported in line with the CONSORT statement .
+BACKGROUND	UMIN Clinical Trials Registry : UMIN000001218 .
+

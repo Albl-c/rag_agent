@@ -1,0 +1,17 @@
+26179814
+BACKGROUND	Surgical patients are at risk of adverse drug events ( ADEs ) causing morbidity and mortality .
+BACKGROUND	Much harm is preventable .
+BACKGROUND	Ward-based pharmacy interventions to reduce medication-related harm have not been evaluated in surgical patients .
+METHODS	This multicentre prospective clinical trial evaluated a protocolled , ward-based pharmacy method compared with standard pharmaceutical care in surgical patients .
+METHODS	Allocation of study group was done by one-time randomization at ward level .
+METHODS	Consecutive patients admitted for elective surgery with an expected hospital stay longer than 48 h were included .
+METHODS	Pharmacy practitioners performed bedside medication reconciliation at admission and discharge , and hospital pharmacists undertook regular medication reviews in the study wards .
+METHODS	Preventable ADEs and clinical outcomes were assessed .
+RESULTS	A total of 1094 surgical patients were studied .
+RESULTS	Some 880 specific interventions were made by the hospital pharmacist to improve pharmacotherapy in 309 of 547 patients on study wards .
+RESULTS	A further 547 patients were included on control wards .
+RESULTS	A crude non-significant reduction in incidence of preventable ADEs was seen on intervention wards in comparison with control wards ( 2.74 versus 3.84 preventable ADEs per 100 admissions ; incidence rate ratio 0.71 , 95 per cent c.i. 0.37 to 1.39 ; P = 0.324 ) .
+RESULTS	After adjustment for differences in treatment groups and for potential confounding , the incidence rate ratio remained non-significant ( 0.82 , 0.39 to 1.72 ; P = 0.598 ) .
+RESULTS	No differences were seen for other outcomes , such as duration of hospital stay , number of complications and quality of life .
+CONCLUSIONS	The present prospective controlled trial showed no significant reduction in medication-related harm or changes in clinical outcomes when surgical patients received protocolled ward-based pharmacy interventions .
+

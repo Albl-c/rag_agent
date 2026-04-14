@@ -1,0 +1,13 @@
+25007225
+BACKGROUND	Fatigue and emotional reactivity are common among women suffering from breast cancer and might detrimentally affect these women 's quality of life .
+BACKGROUND	This study evaluates if the stress management delivered either in a group or individual setting would improve fatigue and emotional reactivity among women with a newly diagnosed breast cancer .
+METHODS	Participants ( n = 304 ) who reported elevated levels of distress at three-month post-inclusion were randomised between stress management in a group ( GSM ) ( n = 77 ) or individual ( ISM ) ( n = 78 ) setting .
+METHODS	Participation was declined by 149 women .
+METHODS	Participants completed the Multidimensional Fatigue Inventory ( MFI-20 ) and the Everyday Life Stress Scale ( ELSS ) at the time of inclusion , 3 - and 12-month post-inclusion .
+METHODS	Analyses were made according to intention to treat and per-protocol principles .
+METHODS	Mann-Whitney tests were used to examine differences between the two intervention groups .
+RESULTS	No significant differences were detected between the GSM and ISM groups on fatigue or emotional reactivity .
+RESULTS	In addition , there were no changes over time for these outcomes .
+CONCLUSIONS	There were no differences between the two intervention arms with reference to fatigue or emotional reactivity ; however , a clinically interesting finding was the low number of women who were interested in participating in a psychosocial intervention .
+CONCLUSIONS	This finding may have clinical implications when psychosocial support is offered to women with a newly diagnosed breast cancer and also in the planning of future studies .
+

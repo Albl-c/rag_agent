@@ -1,0 +1,8 @@
+25524481
+OBJECTIVE	To compare the clinical outcome and complications of high viscosity and low viscosity poly-methyl methacrylate bone cement PVP for severe OVCFs .
+METHODS	From December 2010 to December 2012 , 32 patients with severe OVCFs were randomly assigned to either group H using high viscosity cement ( n = 14 ) or group L using low viscosity cement ( n = 18 ) .
+METHODS	The clinical outcomes were assessed by the Visual Analog Scale ( VAS ) , Oswestry Disability Index ( ODI ) , Short Form-36 General Health Survey ( SF-36 ) , kyphosis Cobb 's angle , vertebral height , and complications .
+RESULTS	Significant improvement in the VAS , ODI , SF-36 scores , kyphosis Cobb 's angle , and vertebral height were noted in both the groups , and there were no significant differences between the two groups .
+RESULTS	Cement leakage was seen less in group H. Postoperative assessment using computed tomography identified cement leakage in 5 of 17 ( 29.4 % ) vertebrae in group H and in 15 of 22 ( 68.2 % ) vertebrae in group L ( P = 0.025 ) .
+CONCLUSIONS	The PVP using high viscosity bone cement can provide the same clinical outcome and fewer complications compared with PVP using low viscosity bone cement .
+

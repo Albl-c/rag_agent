@@ -1,0 +1,24 @@
+25525672
+BACKGROUND	While Web-based interventions have been shown to assist a wide range of patients successfully in managing their illness , few studies have examined the relative contribution of different Web-based components to improve outcomes .
+BACKGROUND	Further efficacy trials are needed to test the effects of Web support when offered as a part of routine care .
+OBJECTIVE	Our aim was to compare in regular care the effects of ( 1 ) an Internet-based patient provider communication service ( IPPC ) , ( 2 ) WebChoice , a Web-based illness management system for breast cancer patients ( IPPC included ) , and ( 3 ) usual care on symptom distress , anxiety , depression , ( primary outcomes ) , and self-efficacy ( secondary outcome ) .
+OBJECTIVE	This study reports preliminary findings from 6 months ' follow-up data in a 12-month trial .
+METHODS	We recruited 167 patients recently diagnosed with breast cancer and undergoing treatment from three Norwegian hospitals .
+METHODS	The nurse-administered IPPC allowed patients to send secure e-messages to and receive e-messages from health care personnel at the hospital where they were treated .
+METHODS	In addition to the IPPC , WebChoice contains components for symptom monitoring , tailored information and self-management support , a diary , and communication with other patients .
+METHODS	A total of 20 care providers ( 11 nurses , 6 physicians , and 3 social workers ) were trained to answer questions from patients .
+METHODS	Outcomes were measured with questionnaires at study entry and at study months 2 , 4 , and 6 .
+METHODS	Linear mixed models for repeated measures were fitted to compare effects on outcomes over time .
+RESULTS	Patients were randomly assigned to the WebChoice group ( n = 64 ) , the IPPC group ( n = 45 ) , or the usual care group ( n = 58 ) .
+RESULTS	Response rates to questionnaires were 73.7 % ( 123/167 ) at 2 months , 65.9 ( 110/167 ) at 4 months , and 62.3 % ( 104/167 ) at 6 months .
+RESULTS	Attrition was similar in all study groups .
+RESULTS	Among those with access to WebChoice , 64 % ( 41/64 ) logged on more than once and 39 % ( 25/64 ) sent e-messages to care providers .
+RESULTS	In the IPPC group , 40 % ( 18/45 ) sent e-messages .
+RESULTS	Linear mixed models analyses revealed that the WebChoice group reported significantly lower symptom distress ( mean difference 0.16 , 95 % CI 0.06-0 .25 , P = .001 ) , anxiety ( mean difference 0.79 , 95 % CI 0.09-1 .49 , P = .03 ) , and depression ( mean difference 0.79 , 95 % CI 0.09-1 .49 , P = .03 ) compared with the usual care group .
+RESULTS	The IPPC group reported significant lower depression scores compared with the usual care group ( mean difference 0.69 , 95 % CI 0.05-1 .32 , P = .03 ) , but no differences were observed for symptom distress or anxiety .
+RESULTS	No significant differences in self-efficacy were found among the study groups .
+CONCLUSIONS	In spite of practice variations and moderate use of the interventions , our results suggest that offering Web support as part of regular care can be a powerful tool to help patients manage their illness .
+CONCLUSIONS	Our finding that a nurse-administered IPPC alone can significantly reduce depression is particularly promising .
+CONCLUSIONS	However , the multicomponent intervention WebChoice had additional positive effects .
+BACKGROUND	Clinicaltrials.gov : NCT00971009 ; http://clinicaltrials.gov/show/NCT00971009 ( Archived by WebCite at http://www.webcitation.org/6USKezP0Y ) .
+

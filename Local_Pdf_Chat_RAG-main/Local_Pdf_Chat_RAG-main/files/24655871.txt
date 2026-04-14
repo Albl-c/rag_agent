@@ -1,0 +1,19 @@
+24655871
+BACKGROUND	Post-burn hyperglycemia leads to graft failure , multiple organ failure , and death .
+BACKGROUND	A hyperinsulinemic-euglycemic clamp is used to keep serum glucose between 60 and 110 mg/dL .
+BACKGROUND	Because of frequent hypoglycemic episodes , a less-stringent sliding scale insulin protocol is used to maintain serum glucose levels between 80 and 160 mg/dL after elevations > 180 mg/dL .
+METHODS	We randomized pediatric patients with massive burns into 2 groups , patients receiving sliding scale insulin to lower blood glucose levels ( n = 145 ) and those receiving no insulin ( n = 98 ) , to determine the differences in morbidity and mortality .
+METHODS	Patients 0 to 18 years old with burns covering 30 % of the total body surface area and not randomized to receive anabolic agents were included in this study .
+METHODS	End points included glucose levels , infections , resting energy expenditure , lean body mass , bone mineral content , fat mass , muscle strength , and serum inflammatory cytokines , hormones , and liver enzymes .
+RESULTS	Maximal glucose levels occurred within 6 days of burn injury .
+RESULTS	Blood glucose levels were age dependent , with older children requiring more insulin ( p < 0.05 ) .
+RESULTS	Daily maximum and daily minimum , but not 6 am , glucose levels were significantly different based on treatment group ( p < 0.05 ) .
+RESULTS	Insulin significantly increased resting energy expenditure and improved bone mineral content ( p < 0.05 ) .
+RESULTS	Each additional wound infection increased incidence of hyperglycemia ( p = 0.004 ) .
+RESULTS	There was no mortality in patients not receiving insulin , only in patients who received insulin ( p < 0.004 ) .
+RESULTS	Muscle strength was increased in patients receiving insulin ( p < 0.05 ) .
+CONCLUSIONS	Burn-induced hyperglycemia develops in a subset of severely burned children .
+CONCLUSIONS	Length of stay was reduced in the no insulin group , and there were no deaths in this group .
+CONCLUSIONS	Administration of insulin positively impacted bone mineral content and muscle strength , but increased resting energy expenditure , hypoglycemic episodes , and mortality .
+CONCLUSIONS	New glucose-lowering strategies might be needed .
+

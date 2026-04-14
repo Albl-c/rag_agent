@@ -1,0 +1,18 @@
+24862029
+OBJECTIVE	The core clinical and neuropathological feature of the autosomal dominant spinocerebellar ataxias ( SCAs ) is cerebellar degeneration .
+OBJECTIVE	Mutations in the known genes explain only 50 % to 60 % of SCA cases .
+OBJECTIVE	To date , no effective treatments exist , and the knowledge of drug-treatable molecular pathways is limited .
+OBJECTIVE	The examination of overlapping mechanisms and the interpretation of how ataxia genes interact will be important in the discovery of potential disease-modifying agents .
+OBJECTIVE	To address the possible relationships among known SCA genes , predict their functions , identify overlapping pathways , and provide a framework for candidate gene discovery using whole-transcriptome expression data .
+METHODS	We have used a systems biology approach based on whole-transcriptome gene expression analysis .
+METHODS	As part of the United Kingdom Brain Expression Consortium , we analyzed the expression profile of 788 brain samples obtained from 101 neuropathologically healthy individuals ( 10 distinct brain regions each ) .
+METHODS	Weighted gene coexpression network analysis was used to cluster 24 SCA genes into gene coexpression modules in an unsupervised manner .
+METHODS	The overrepresentation of SCA transcripts in modules identified in the cerebellum was assessed .
+METHODS	Enrichment analysis was performed to infer the functions and molecular pathways of genes in biologically relevant modules .
+METHODS	Molecular functions and mechanisms implicating SCA genes , as well as lists of relevant coexpressed genes as potential candidates for novel SCA causative or modifier genes .
+RESULTS	Two cerebellar gene coexpression modules were statistically enriched in SCA transcripts ( P = .021 for the tan module and P = 2.8710-5 for the light yellow module ) and contained established granule and Purkinje cell markers , respectively .
+RESULTS	One module includes genes involved in the ubiquitin-proteasome system and contains SCA genes usually associated with a complex phenotype , while the other module encloses many genes important for calcium homeostasis and signaling and contains SCA genes associated mostly with pure ataxia .
+CONCLUSIONS	Using normal gene expression in the human brain , we identified significant cell types and pathways in SCA pathogenesis .
+CONCLUSIONS	The overrepresentation of genes involved in calcium homeostasis and signaling may indicate an important target for therapy in the future .
+CONCLUSIONS	Furthermore , the gene networks provide new candidate genes for ataxias or novel genes that may be critical for cerebellar function .
+

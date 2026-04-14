@@ -1,0 +1,12 @@
+24957569
+OBJECTIVE	Few data are available on the influence of a colonoscope length for trainees , which could affect both the duration of training and colonoscopy quality .
+OBJECTIVE	We conducted this study to validate which scope needs more duration for training to reach technical competence and to shows better quality indicators during diagnostic colonoscopy .
+METHODS	We conducted a prospective randomly assigned study from April 2010 to February 2011 at Asan Medical Center .
+METHODS	Among the 1329 patients enrolled , 1200 colonoscopies were analyzed .
+METHODS	We compared cecal intubation rate , adenoma detection rate , cecal intubation time ( < 20 min ) , and withdrawal time between the trainees using the intermediate-length colonoscope and those using long-length colonoscope .
+RESULTS	Trainees who used the long-length colonoscope showed a higher overall cecal intubation rate ( 88.2 % vs. 81.0 % , p = 0.001 ) and adenoma detection rate ( 49.7 % vs. 34.2 % , p < 0.001 ) than those using the intermediate-length colonoscope .
+RESULTS	The successful cecal intubation rate improved significantly and reached the requisite standard of competence ( > 90 % ) after 90 procedures in the long-length colonoscope group .
+RESULTS	However , the trainees using the intermediate-length colonoscope reached the requisite standard of competence after 150 procedures .
+RESULTS	Logistic regression analysis revealed that prolonged cecal intubation was associated with the use of the intermediate-length colonoscope , poor colon preparation , a small number of esophagastroduodenoscopy or sigmoidoscopy procedures conducted , and pain during procedures .
+CONCLUSIONS	During the same training period , use of the long-length colonoscope in trainee was better in terms of reaching competency and quality indicators , and was less painful for the patients during colonoscopic procedures .
+

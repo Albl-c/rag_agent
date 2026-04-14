@@ -1,0 +1,11 @@
+25571684
+OBJECTIVE	The aim of the present study is to determine the possible effect of Bifidobacterium bifidum DN-173 010 on dental plaque of children .
+METHODS	52 children ( 25 F and 27 M ) , between the ages of 8-10 , participated in the present study .
+METHODS	The study had a double blind , randomized crossover design and the experimental period consisted of four consecutive time periods .
+METHODS	During periods 2 and 4 ( 2 weeks each ) , children consumed 110 g probiotic fruit yogurt ( Bifidobacterium DN-173 010 ( 1 x 10 ( 10 ) cfu/g ) ) , or a placebo fruit yogurt per day .
+METHODS	Available supragingival plaque ( 24 h later ) was collected from teeth 16 , 11 , 36 and 31 at baseline and at the end of periods 2 and 4 .
+METHODS	The counts of dental plaque mutans streptococci ( MS ) were evaluated using Dentocult SM ( Strep Mutans ) .
+RESULTS	Changes of pre - and post-treatment levels of dental plaque MS were recorded for four consecutive sampling sites .
+RESULTS	There were no statistically differences between transition scores of test and placebo groups regarding different dental plaque sampling sites ( p > 0.05 ) ( unpaired t-test ) .
+CONCLUSIONS	Within the limitations of the present study , Bifidobacterium bifidum DN-173 010 has no effect on dental plaque MS levels in children .
+

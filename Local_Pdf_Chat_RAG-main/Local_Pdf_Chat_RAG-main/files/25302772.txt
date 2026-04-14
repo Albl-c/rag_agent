@@ -1,0 +1,11 @@
+25302772
+OBJECTIVE	The objective of this longitudinal study was to determine what typical vitamin D predictors influence the change in vitamin D status from mid-pregnancy to birth .
+METHODS	Plasma 25-hydroxyvitamin D [ 25 ( OH ) D ] was determined at mid-pregnancy ( 8-20 weeks gestation ) and following birth ( n = 193 ) .
+METHODS	Usual predictors of vitamin D status [ body mass index ( BMI ) , race , season ] in addition to prenatal supplemental vitamin D intake and docosahexaenoic acid ( DHA ) status at delivery were assessed for their interaction on the change on plasma 25 ( OH ) D concentration between the two time points .
+RESULTS	Forty-nine percent of women had inadequate vitamin D status [ categorized as deficient ( < 30 nmol/L ) or insufficient ( 30-49 .9 nmol/L ) by IOM guidelines ] at mid-pregnancy and 82 % were deficient or insufficient at birth .
+RESULTS	Plasma 25 ( OH ) D concentration dropped 61 % from mid-pregnancy to birth .
+RESULTS	Season of birth ( F = 7.86 , P = 0.006 ) and mid-pregnancy plasma 25 ( OH ) D concentration ( F = 6.17 , P = 0.014 ) were significant variables in the change of vitamin D status while BMI , race , DHA status , and typical vitamin D intake ( 334 IU/day ) from prenatal supplements did not have an effect .
+RESULTS	Women who delivered in summer and fall had a 1.5-fold greater plasma 25 ( OH ) D concentration than women who delivered in winter in spring ( 41.1 23.1 and 40.7 20.5 nmol/L summer and fall , respectively , versus 27.7 17.9 and 29.3 21.4 nmol/L in winter and spring , respectively ) .
+CONCLUSIONS	Typical supplemental vitamin D intake during pregnancy did not prevent precipitous drops in maternal plasma 25 ( OH ) D concentration .
+CONCLUSIONS	Clinicians and dietitians should be aware of the risk of inadequate vitamin D status in pregnant women in the United States relative to their initial vitamin D status and the season of birth .
+

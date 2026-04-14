@@ -1,0 +1,18 @@
+24397584
+OBJECTIVE	To compare characteristics of hypoglycemic episodes in patients with type 2 diabetes receiving saxagliptin or glipizide add-on therapy to metformin .
+METHODS	This was a post hoc analysis of an international , randomized , parallel-group , double-blind , active-controlled , phase 3 trial .
+METHODS	The 52-week trial and 52-week extension were conducted from December 2007 to August 2010 .
+METHODS	Patients aged 18 years with glycated hemoglobin ( HbA1c ) > 6.5 % to 10.0 % receiving stable metformin doses ( 1500mg/d ) were randomized 1:1 to add-on therapy with saxagliptin 5mg/d or glipizide 5 to 20mg/d ( titrated to optimal effect or highest tolerable dose during the initial 18 weeks ) .
+METHODS	Hypoglycemic episodes were recorded in patient diaries .
+METHODS	Confirmed hypoglycemic events were defined as fingerstick glucose 50mg/dL ( 2.8 mmol/L ) with associated symptoms .
+RESULTS	Of 858 patients randomized , 428 received saxagliptin + metformin , and 430 received glipizide + metformin .
+RESULTS	Saxagliptin was noninferior to glipizide in lowering HbA1c .
+RESULTS	Hypoglycemia with saxagliptin + metformin and glipizide + metformin was reported by 15 ( 24 events ) and 165 ( 896 events ) patients , respectively , through week 104 .
+RESULTS	The mean ( SD ) number of hypoglycemic events per patient reporting hypoglycemia was lower with saxagliptin + metformin versus glipizide + metformin through weeks 52 ( 1.5 [ SD 0.88 ] vs 4.8 [ SD 4.9 ] , respectively ) and 104 ( 1.6 [ SD 0.99 ] vs 5.4 [ SD 5.8 ] ) .
+RESULTS	Most patients receiving glipizide + metformin with hypoglycemia had multiple events ( 124/165 patients [ 75 % ] ) .
+RESULTS	Confirmed hypoglycemia , major events , and severe events occurred only with glipizide + metformin .
+RESULTS	Time to first hypoglycemic event was shorter with glipizide versus saxagliptin .
+RESULTS	Limitations of this analysis include its post hoc nature , a high rate of study discontinuation , and exclusion of patients with serious comorbidities and complications .
+CONCLUSIONS	Saxagliptin + metformin was associated with fewer patients reporting hypoglycemia and fewer and less severe hypoglycemic events in those experiencing hypoglycemia compared with glipizide + metformin .
+CONCLUSIONS	ClinicalTrials.gov registration number : NCT00575588 .
+

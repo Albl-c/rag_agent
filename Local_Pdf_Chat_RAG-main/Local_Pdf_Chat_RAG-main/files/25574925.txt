@@ -1,0 +1,13 @@
+25574925
+BACKGROUND	Passive smoking is associated with tuberculosis ( TB ) .
+BACKGROUND	Measures are required to protect non-smoking TB patients from second-hand smoke ( SHS ) .
+METHODS	We developed a behavioural intervention to encourage TB patients to implement smoking restrictions at home in Pakistan .
+OBJECTIVE	To assess the likelihood of such an intervention being successful and to inform a definitive trial in future .
+METHODS	This was a pilot randomised controlled trial in which non-smoking TB patients were randomised to receive either individual-based support or individual-based support combined with family reminders .
+METHODS	We recruited patients living with at least one smoker in their homes .
+METHODS	Our primary outcome was urinary cotinine level as a measure of SHS exposure 2 months post-randomisation .
+RESULTS	Of 273 patients assessed for eligibility , 150 ( 56 % ) patients were recruited and all but one were retained throughout the trial .
+RESULTS	A statistically significant absolute reduction was observed in non-smoking participants ' exposure to SHS based on urinary cotinine levels in both Arm 1 ( 71 % , 95 % CI 61-79 ) and Arm 2 ( 76 % , 95 % CI 67-83 ) between baseline and follow-up at 2 months .
+CONCLUSIONS	The recruitment and retention rates for trial participants make it feasible to conduct a definitive trial in future .
+CONCLUSIONS	The observed effect size makes it worthwhile to conduct such a trial .
+

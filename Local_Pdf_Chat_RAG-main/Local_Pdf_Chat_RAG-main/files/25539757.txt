@@ -1,0 +1,16 @@
+25539757
+BACKGROUND	Treatments of eating disorders result too often in partial psychological and physical remission , chronicization , dropout , relapse and death , with no fully known explanations for this failure .
+BACKGROUND	In order to clarify this problem , we conducted three studies to identify the biochemical background of cognitive-behavioural psychotherapy ( CBT ) , individual psychology brief psychotherapy ( IBPP ) , and psychotherapy-pharmacotherapy with CBT + olanzapine in anorexics ( AN ) and bulimics ( BN ) by measuring the levels of plasma homovanillic acid ( HVA ) for dopamine secretion , plasma 3-methoxy-4-hydroxy-phenylglycol ( MHPG ) for noradrenalin secretion , and platelet [ 3H ] - Paroxetin-binding Bmax and Kd for serotonin transporter function .
+BACKGROUND	The data were then compared with psychopathological and physical alterations .
+METHODS	Study 1 investigated the effects of 4 months of CBT on plasma HVA , MHPG and [ 3H ] - Par-binding in 14 AN-restricted , 14 AN-bingeing/purging , and 22 BN inpatients .
+METHODS	Study 2 investigated the effects of 4 months of IBPP on plasma HVA in 15 AN and 17 BN outpatients .
+METHODS	Study 3 investigated the effect of 3 months of CBT + olanzapine ( 5 mg/day ) in 30 AN outpatients .
+METHODS	The data were analyzed using one-way ANOVA for repeated measures for the changes between basal and post-treatment biological and psychological parameters , two-way ANOVA for repeated measures for the differences in the psychobiological data in the 3 groups , Spearman 's test for the correlations between basal and final changes in the psychological and biological scores .
+RESULTS	Study 1 revealed significant amelioration of the psychopathology in the AN and BN patients , no effects on HVA , MHPG or Paroxetin binding Kd , and a significant increase in Par-binding Bmax only in the BN patients .
+RESULTS	Study 2 revealed a significant effect of IBPP on psychopathology in the AN and BN patients , and a significant increase in HVA only in the BN patients .
+RESULTS	Study 3 revealed a significant positive effect of CBT + olanzapine therapy on the psychopathology and increased HVA values .
+RESULTS	No correlations were observed in the 3 groups between biological and psychological effects of the three treatments .
+CONCLUSIONS	Our data advance suggestions on the mechanism of action of the three therapies ; however , the lack of correlations between biochemical and psychological effects casts doubt on their significance .
+CONCLUSIONS	Clinical Trials.gov .
+CONCLUSIONS	Identifier NCT01990755 .
+

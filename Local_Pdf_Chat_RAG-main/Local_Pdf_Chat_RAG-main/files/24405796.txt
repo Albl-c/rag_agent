@@ -1,0 +1,14 @@
+24405796
+OBJECTIVE	Although previous studies have demonstrated that a variety of local anesthetics are effective to decrease pain associated with tenaculum placement , no studies directly compare an injection with a topical anesthetic .
+OBJECTIVE	The objective of this study was therefore to compare mean pain scores with tenaculum placement after an intracervical lidocaine injection or topical lidocaine gel .
+METHODS	A randomized , single-blinded trial of women presenting for office gynecologic procedures that required a tenaculum .
+METHODS	Women aged 18 years or older were randomized to receive either a 1 % lidocaine intracervical injection or topical application of 2 % lidocaine gel to the cervix immediately prior to tenaculum placement .
+METHODS	The primary outcome was pain at the time of tenaculum placement , measured on a 100 mm Visual Analog Scale .
+METHODS	Secondary outcomes included pain with the intervention and satisfaction with tenaculum placement .
+RESULTS	Seventy-four women were enrolled and randomized ; 35 subjects in each group met criteria for analysis .
+RESULTS	The two groups had similar socio-demographic characteristics .
+RESULTS	Women who received the injection had lower mean pain levels at tenaculum placement [ 12.3 mm ( S.D. 17.4 mm ) versus 36.6 mm ( S.D. 23.0 mm ) , p < .001 ] but higher mean pain levels with study drug application [ 20.4 mm ( S.D. 19.4 mm ) versus 5.9 mm ( S.D. 8.6 mm ) , p < .001 ] .
+RESULTS	Satisfaction with tenaculum placement was similar for the two groups .
+CONCLUSIONS	Mean pain with tenaculum placement is lower after receiving a lidocaine injection than after receiving a topical lidocaine gel .
+CONCLUSIONS	Satisfaction with tenaculum placement is similar with both interventions .
+

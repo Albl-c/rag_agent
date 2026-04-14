@@ -1,0 +1,20 @@
+25054392
+BACKGROUND	Tapentadol prolonged release ( PR ) is effective and well tolerated for chronic osteoarthritis , low back , and diabetic peripheral neuropathic pain .
+OBJECTIVE	To evaluate the efficacy and tolerability of tapentadol PR compared with placebo and morphine controlled release ( CR ) for managing moderate to severe chronic malignant tumor-related pain .
+METHODS	Randomized-withdrawal , parallel group , active - and placebo-controlled , double-blind phase 3 study ( NCT00472303 ) .
+METHODS	Primary , secondary , and tertiary care settings in 16 countries .
+METHODS	Eligible patients ( pain intensity 5 [ 11-point numerical rating scale ] on prior analgesics ) were randomized ( 2:1 ) and titrated to their optimal dose of tapentadol PR ( 100-250 mg bid ) or morphine sulfate CR ( 40-100 mg bid ) over 2 weeks .
+METHODS	Morphine sulfate immediate release 10 mg was permitted as needed for rescue medication ( no maximum dose ) .
+METHODS	Patients who completed titration and , during the last 3 days of titration , had mean pain intensity < 5 ( based on twice-daily ratings ) and mean rescue medication use = 20 mg/day continued into a 4-week maintenance period ; patients who received morphine CR during titration continued taking morphine CR , and those who received tapentadol PR were re-randomized ( 1:1 ) to tapentadol PR or placebo bid .
+METHODS	Response during maintenance ( primary efficacy endpoint ) was defined as having : ( 1 ) completed the maintenance period , ( 2 ) a mean pain intensity < 5 during maintenance , and ( 3 ) used an average of = 20 mg/day of rescue medication during maintenance .
+METHODS	Response at the end of titration was defined similarly , with pain intensity and rescue medication averages based on the last 3 days of titration .
+RESULTS	Of 622 patients screened , 496 were randomized , treated during titration , and evaluable for safety ; 327 were re-randomized , treated during maintenance , and evaluable for safety ; and 325 were evaluable for efficacy .
+RESULTS	The adjusted responder rate estimate during maintenance ( logistic regression adjusting for treatment group , pooled center , and pain intensity at start of maintenance ) was significantly higher with tapentadol PR ( 64.3 % ) than with placebo ( 47.1 % ; odds ratio ( OR ) , 2.02 [ 95 % confidence interval ( CI ) , 1.12 - 3.65 ] ; P = 0.02 ) .
+RESULTS	Based on responder rates at the end of titration , tapentadol PR ( 76.0 % [ 174/229 ] ) was non-inferior to morphine CR ( 83.0 % [ 83/100 ] ) .
+RESULTS	The lower limit of the 95 % CI for the between-groups difference ( -15.5 % ) was within the pre-specified 20 % non-inferiority margin .
+RESULTS	During titration , incidences of treatment-emergent adverse events ( TEAEs ) were 50.0 % ( 169/338 ) with tapentadol PR and 63.9 % ( 101/158 ) with morphine CR ; incidences of nausea , vomiting , and dry mouth were lower with tapentadol PR than with morphine CR .
+RESULTS	During maintenance , incidences of TEAEs were 56.3 % ( 63/112 ) , 62.3 % ( 66/106 ) , and 62.4 % ( 68/109 ) with placebo , tapentadol PR , and morphine CR , respectively .
+CONCLUSIONS	Statistical comparisons between tapentadol PR and morphine CR were limited to descriptive statistics during the maintenance period because of the pre-selection of responders to tapentadol PR or morphine CR during titration .
+CONCLUSIONS	Results obtained during maintenance indicate that tapentadol PR ( 100-250 mg bid ) is effective compared with placebo for managing moderate to severe chronic malignant tumor-related pain .
+CONCLUSIONS	Based on results obtained during titration , tapentadol PR provides comparable efficacy to that of morphine sulfate CR ( 40-100 mg bid ) , but is associated with better gastrointestinal tolerability .
+

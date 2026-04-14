@@ -1,0 +1,12 @@
+26008626
+OBJECTIVE	To study the effect of different protocols of collagen cross-linking on visual , refractive , and tomographic parameters in patients with progressive keratoconus .
+METHODS	Prospective randomized interventional study .
+METHODS	In this study , 138 eyes of 138 patients with progressive keratoconus underwent corneal collagen cross-linking ( CXL ) .
+METHODS	Following detailed preoperative examination , Group I underwent conventional cross-linking ( 36 patients , 3 mW/cm ( 2 ) for 30 min ) ; Group II ( 36 patients , 9 mW/cm ( 2 ) for 10 min ) , Group III ( 33 patients , 18 mW/cm ( 2 ) for 5 min ) , and Group IV ( 33 patients , 30 mW/cm ( 2 ) for 3 min ) underwent accelerated cross-linking .
+METHODS	Changes in corrected distance visual acuity ( CDVA ) , spherical equivalent ( SE ) , flat keratometry , steep keratometry , thinnest pachymetry , specular microscopy , and demarcation line were studied at 6 and 12 months .
+RESULTS	Improvement in the mean CDVA and SE were statistically significant in all groups except Group IV ( P = .15 at 6 months , P = .17 at 12 months ) , with Group III ( P = .01 at 6 and 12 months ) showing the best results .
+RESULTS	Flattening of steep and flat keratometry was significant in Groups I ( P = .01 ) and II ( P = .01 ) as compared to the other groups .
+RESULTS	There was no significant difference in the pachymetry or specular microscopy in any of the groups .
+RESULTS	Groups I and II demonstrated a good demarcation line when compared to other groups .
+CONCLUSIONS	Conventional CXL ( Group I ) and accelerated CXL with irradiations of 9 mW/cm ( 2 ) ( Group II ) and 18 mW/cm ( 2 ) ( Group III ) showed better visual , refractive , and tomographic improvements at the end of 12 months .
+

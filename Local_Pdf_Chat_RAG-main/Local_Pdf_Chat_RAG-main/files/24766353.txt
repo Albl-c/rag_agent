@@ -1,0 +1,10 @@
+24766353
+OBJECTIVE	Two reports of infants found dead after sleeping in baby hammocks have raised international concern about the safety of infant hammocks .
+OBJECTIVE	We therefore tested whether hammock sleep affected oxygenation in infants , when they were at an age of high risk of sudden , unexpected infant death .
+METHODS	Healthy , full-term 4 - to 8-week-old infants were randomised to sleep either in a commercially available hammock ( n = 14 ) or a standard bassinet ( n = 9 ) , and sleep state , oxygen desaturation ( a fall in peripheral haemoglobin oxygen saturation ( SpO2 ) 4 % , for 4 sec from baseline to nadir ) , apnoea and hypopnoea , and mean SpO2 were analysed .
+RESULTS	There was no significant difference in mean SpO2 ( both 98.5 % ) or rate of oxygen desaturation events between the hammock and the bassinet cot ( mean SD , 24 20 vs. 28 23 events per hour ) , but infants slept less in the hammock ( 59 31 vs. 81 34 min , p < 0.02 ) .
+CONCLUSIONS	When correctly used , the hammock sleep position did not compromise the upper airway of sleeping infants .
+CONCLUSIONS	The significance of shorter duration of sleep in the hammocks is unclear .
+CONCLUSIONS	These findings should not be applied to all baby hammocks , nor to older babies , particularly once the infant can roll .
+CONCLUSIONS	Given that it is not possible to predict when an infant will be able to roll , we strongly recommend that hammocks should not be used for unsupervised sleep .
+

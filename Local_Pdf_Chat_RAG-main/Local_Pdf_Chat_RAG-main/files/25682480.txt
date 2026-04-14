@@ -1,0 +1,12 @@
+25682480
+BACKGROUND	Cocaine addiction continues to be a significant healthcare issue , yet there are no FDA approved medications for the treatment of cocaine use disorder within the United States .
+METHODS	This 12-week , prospective , double-blind , randomized , placebo-controlled study examined the effectiveness of quetiapine ( Seroquel XR ) versus matched placebo for the treatment of DSM-IV cocaine dependence in non-psychotic individuals .
+METHODS	Subjects randomized to quetiapine ( N = 29 ) were titrated up to a target dose of 400mg/day of quetiapine , while those in the placebo arm ( N = 31 ) were given a matched placebo .
+METHODS	All subjects had weekly clinic visits and a cognitive-behavioral therapy group session .
+METHODS	Outcome measures included self-report of cocaine use and money spent on cocaine as well as urine drug screens ( UDS ) .
+RESULTS	The drop-out rate was substantial at 68 % .
+RESULTS	Logistic regression analysis did not find significant differences between groups in predicting end-of trial abstinence , defined as three consecutive weekly negative UDS ( 13.7 % in the quetiapine group versus 12.9 % in the placebo group ; p = .92 ) .
+RESULTS	Based upon a repeated measures analysis of variance , subjects in this study , as a whole , demonstrated reductions in their self-reported use of cocaine , self-reported money spent on cocaine , and number of days per week using cocaine .
+RESULTS	However , the quetiapine group did not differ significantly from the placebo group .
+CONCLUSIONS	This study did not find group differences between the quetiapine and placebo arms , suggesting that quetiapine is not an efficacious treatment for DSM-IV cocaine dependence .
+

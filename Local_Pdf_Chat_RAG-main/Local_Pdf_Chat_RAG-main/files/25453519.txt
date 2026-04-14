@@ -1,0 +1,16 @@
+25453519
+OBJECTIVE	To assess change in physical functioning ( pain , range of motion ( ROM ) , strength , and endurance ) after 8 weeks of therapeutic-yoga .
+METHODS	Planned analyses of data from a randomized pilot study of yoga after stroke .
+METHODS	University-based research laboratory .
+METHODS	People with chronic stroke ( N = 47 ) randomized to therapeutic-yoga ( n = 37 ) or wait-list control ( n = 10 ) .
+METHODS	16 sessions of therapeutic yoga ( twice a week/8 weeks ) .
+METHODS	Yoga was delivered in a standardized and progressive format with postures , breathing , and meditation , and relaxation in sitting , standing , and supine .
+METHODS	Pain was assessed with the PEG , a 3-item functional measure of the interference of pain .
+METHODS	ROM included neck and hip active and passive ROM measurements ) .
+METHODS	Upper and lower extremity strength were assessed with the arm curl test and chair-to-stand test , respectively .
+METHODS	Endurance was assessed with the 6-minute walk and modified 2-min step test .
+RESULTS	After a Bonferroni Correction , pain , neck ROM , hip passive ROM , upper extremity strength , and the 6-min walk scores all significantly improved after 8 weeks of engaging in yoga .
+RESULTS	No changes occurred in the wait-list control group .
+CONCLUSIONS	A group therapeutic-yoga intervention may improve multiple aspects of physical functioning after stroke .
+CONCLUSIONS	Such an intervention may be complementary to traditional rehabilitation .
+

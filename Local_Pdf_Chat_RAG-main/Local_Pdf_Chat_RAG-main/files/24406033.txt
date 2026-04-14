@@ -1,0 +1,19 @@
+24406033
+BACKGROUND	Colorectal cancer is a major public health problem .
+BACKGROUND	There is growing support for colorectal cancer survivors who are experiencing problems after cancer treatment to engage in self-management programs to reduce symptom distress .
+BACKGROUND	However , there is inconclusive evidence as to the effectiveness of such program especially in Asian region .
+OBJECTIVE	This study tested the effects of a six-month nurse-led self-efficacy-enhancing intervention for patients with colorectal cancer , compared with routine care over a six-month follow up .
+METHODS	A randomized controlled trial with repeated measures , two-group design .
+METHODS	Three teaching hospitals in Guangzhou , China .
+METHODS	One hundred and fifty-two Chinese adult patients with a diagnosis of colorectal cancer were recruited .
+METHODS	The intervention group ( n = 76 ) received self-efficacy-enhancing intervention and the control group ( n = 76 ) received standard care .
+METHODS	The participants were randomized into either intervention or control group after baseline measures .
+METHODS	The outcomes of the study ( self-efficacy , symptom distress , anxiety , depression and quality of life ) were compared at baseline , three and six months after the intervention .
+RESULTS	Sixty-eight participants in the intervention group and 53 in the control group completed the study .
+RESULTS	Their mean age was 53 ( SD = 11.3 ) .
+RESULTS	Repeated measure MANOVA found that the patients in the intervention group had significant improvement in their self-efficacy ( F = 7.26 , p = 0.003 ) and a reduction of symptom severity ( F = 5.30 , p = 0.01 ) , symptom interference ( F = 4.06 , p = 0.025 ) , anxiety ( F = 6.04 , p = 0.006 ) and depression ( F = 6.96 , p = 0.003 ) at three and six months , compared with the control group .
+RESULTS	However , no statistically significant main effect was observed in quality of life perception between the two groups .
+CONCLUSIONS	The nurse-led self-efficacy enhancing intervention was effective in promoting self-efficacy and psychological well-being in patients with colorectal cancer , compared with standard care .
+CONCLUSIONS	The intervention can be incorporated into routine care .
+CONCLUSIONS	Future empirical work is required to determine the longer term effects of the intervention .
+

@@ -1,0 +1,13 @@
+24835379
+BACKGROUND	Esophagogastrostomy for oesophageal cancer is the standard surgical treatment .
+BACKGROUND	However , traditional techniques have been associated with high frequency of anastomotic complications .
+BACKGROUND	The purpose of this study is to clarify the superiority of the oesophageal flap valvuloplasty and wrapping suturing technique in preventing postoperative complications after oesophagectomy for oesophageal cancer .
+METHODS	A prospective , randomised study was performed on 394 patients treated for esophageal cancer between January 2006 and December 2010 .
+METHODS	The trial registry number is ChiCTR-TRC-13003817 in the Chinese Clinical Trial Registry .
+RESULTS	Anastomotic leaks occurred in four patients in group A ( 2.1 % ) and in twelve patients in group B ( 6.2 % ) with statistically significant ( P = 0.038 ) .
+RESULTS	During the evaluation of benign stricture seven patients were excluded for hospital mortality .
+RESULTS	Thirty three patients in group A ( 6.9 % ) and 25 patients in group B ( 13.2 % ) occurred anastomotic stricture respectively ( P = 0.044 ) .
+RESULTS	Furthermore , reflux oesophagitis and Barrett 's epithelium were found in 105 patients ( 55.3 % ) of group B , and 54 ( 28.7 % ) patients in group A ( P < 0.001 ) .
+CONCLUSIONS	The oesophageal flap valvuloplasty and wrapping suturing technique decreased anastomotic leakage incidence and stricture rate thereby decreasing the morbidity and mortality .
+CONCLUSIONS	This procedure also prevented the occurrence of gastroesophageal reflux after esophagectomy .
+

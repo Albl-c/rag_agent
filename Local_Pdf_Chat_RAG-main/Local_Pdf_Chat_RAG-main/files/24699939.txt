@@ -1,0 +1,14 @@
+24699939
+OBJECTIVE	The safety and efficacy of sirukumab , an anti-interleukin-6 ( IL-6 ) monoclonal antibody , were evaluated in a 2-part , placebo-controlled phase II study of patients with active rheumatoid arthritis ( RA ) despite methotrexate therapy .
+METHODS	In Part A ( proof-of-concept ) , 36 patients were randomised to placebo or sirukumab 100mg every 2weeks ( q2w ) through week 10 , with crossover treatment during weeks 12-22 .
+METHODS	In Part B ( dose finding ) , 151 patients were randomised to sirukumab ( 100mg q2w , 100mg q4w , 50mg q4w , or 25mg q4w ) through week 24 , or placebo through week 10 with crossover to sirukumab 100mg q2w ( weeks 12-24 ) .
+METHODS	The proportion of patients with an American College of Rheumatology 50 ( ACR50 ) response and the change from baseline in the 28-joint count disease activity score using C-reactive protein ( DAS28-CRP ) were determined .
+METHODS	Safety was evaluated through week 38 in both parts .
+RESULTS	The primary endpoint ( ACR50 at week 12 in Part B ) was achieved only with sirukumab 100mg q2w versus placebo ( 26.7 % vs 3.3 % ; p = 0.026 ) .
+RESULTS	Greater improvements in mean DAS28-CRP at week 12 were observed with sirukumab 100mg q2w versus placebo in Parts A ( 2.1 vs 0.6 , p < 0.001 ) and B ( 2.2 vs 1.1 ; p < 0.001 ) .
+RESULTS	The incidence of adverse events ( AEs ) was similar for sirukumab-treated and placebo-treated patients through week 12 in Part A ( 70.6 % and 63.2 % , respectively ) and B ( 67.8 % and 66.7 % , respectively ) .
+RESULTS	Infections were the most common type of AE ; one death occurred ( Part B , sirukumab 100mg q2w , brain aneurysm ) .
+CONCLUSIONS	Sirukumab-treated patients experienced improvements in the signs/symptoms of RA .
+CONCLUSIONS	Safety results through 38weeks were consistent with other IL-6 inhibitors .
+BACKGROUND	NCT00718718 .
+

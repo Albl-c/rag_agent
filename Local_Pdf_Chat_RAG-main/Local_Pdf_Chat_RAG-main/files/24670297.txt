@@ -1,0 +1,15 @@
+24670297
+BACKGROUND	Paradoxically , a breast cancer risk reduction with conjugated equine estrogens ( CEE ) and a risk elevation with CEE plus medroxyprogesterone acetate ( CEE+MPA ) were observed in the Women 's Health Initiative ( WHI ) randomized controlled trials .
+BACKGROUND	The effects of hormone therapy on serum sex hormone levels , and on the association between baseline sex hormones and disease risk , may help explain these divergent breast cancer findings .
+METHODS	Serum sex hormone concentrations were measured for 348 breast cancer cases in the CEE+MPA trial and for 235 cases in the CEE trial along with corresponding pair-matched controls , nested within the WHI trials of healthy postmenopausal women .
+METHODS	Association and mediation analyses , to examine the extent to which sex hormone levels and changes can explain the breast cancer findings , were conducted using logistic regression .
+RESULTS	Following CEE treatment , breast cancer risk was associated with higher concentrations of baseline serum estrogens , and with lower concentrations of sex hormone binding globulin .
+RESULTS	However , following CEE+MPA , there was no association of breast cancer risk with baseline sex hormone levels .
+RESULTS	The sex hormone changes from baseline to year 1 provided an explanation for much of the reduced breast cancer risk with CEE .
+RESULTS	Specifically , the treatment odds ratio ( 95 % confidence interval ) increased from 0.71 ( 0.43 , 1.15 ) to 0.92 ( 0.41 , 2.09 ) when the year 1 measures were included in the logistic regression analysis .
+RESULTS	In comparison , the CEE+MPA odds ratio was essentially unchanged when these year 1 measures were included .
+CONCLUSIONS	Breast cancer risk remains low following CEE use among women having favorable baseline sex hormone profiles , but CEE+MPA evidently produces a breast cancer risk for all women similar to that for women having an unfavorable baseline sex hormone profile .
+CONCLUSIONS	These patterns could reflect breast ductal epithelial cell stimulation by CEE+MPA that is substantially avoided with CEE , in conjunction with relatively more favorable effects of either regimen following a sustained period of estrogen deprivation .
+CONCLUSIONS	These findings may have implications for other hormone therapy formulations and routes of delivery .
+BACKGROUND	clinicaltrials.gov identifier : NCT00000611 .
+

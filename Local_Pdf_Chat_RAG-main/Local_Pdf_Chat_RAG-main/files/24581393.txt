@@ -1,0 +1,21 @@
+24581393
+BACKGROUND	The purpose was to determine whether a brachytherapy boost improves outcomes in patients with advanced nasopharyngeal carcinoma treated with standard chemo-radiotherapy .
+METHODS	Patients with nasopharyngeal carcinoma WHO grades I-III and TNM stages III or non-metastatic stage IV were eligible for this phase III study .
+METHODS	Patients were randomized to either arm ( A ) induction chemotherapy , followed by external beam radiotherapy ( EBRT ) with concomitant cisplatin ( n = 139 ) or arm ( B ) , the same schedule plus a brachytherapy boost to the nasopharynx ( n = 135 ) .
+METHODS	The EBRT doses given were 70 Gy to the primary tumour and positive lymph nodes and 46 Gy to the negative neck .
+METHODS	The additional brachytherapy boost in arm ( B ) was given by either low dose-rate ( LDR - 11 Gy ) or high dose-rate ( HDR - 3 fractions of 3.0 Gy ) brachytherapy .
+METHODS	The primary endpoint was 3-year overall survival ( OS ) and secondary endpoints were : local control , regional control , distant metastasis and grade 3-4 adverse events .
+RESULTS	274 patients were randomized between September 2004 and December 2008 .
+RESULTS	The two arms were comparable with regard to age , gender , stage and grade .
+RESULTS	273 patients completed treatment .
+RESULTS	Median follow-up was 29 months ( 0.2-67 months ) .
+RESULTS	The effect of treatment arm , country , age , gender , WHO pathology , stage ( T3-4 , N2-3 versus other ) and chemotherapy on overall survival ( OS ) , disease-free survival ( DFS ) and local recurrence-free survival ( LRFS ) was studied .
+RESULTS	Stage significantly affected OS ( p = 0.024 ) and DFS ( p = 0.018 ) while age significantly affected OS ( p = 0.014 ) .
+RESULTS	None of the other factors studied were significant .
+RESULTS	The 3-year LRFS was 60.5 % and 54.4 % in arms A and B respectively ( p = 0.647 ) .
+RESULTS	The 3-year regional control rate in the neck was 59.7 % and 54.3 % respectively ( p = 0.7 ) .
+RESULTS	Distant metastasis developed in 59.7 % of patients in arm A and 55.4 % in arm B ( p = 0.377 ) .
+RESULTS	Patients with T1/T2 N + had a 3 year LRFS of 51.8 % in Arm A ( 62 patients ) versus 57.9 % in Arm B ( 67 patients ) ( p = 0.343 ) .
+RESULTS	The grade 3-4 toxicity rate was 21.6 % ( 30/139 ) and 24.4 % ( 33/135 ) respectively ( p = 0.687 ) .
+CONCLUSIONS	The addition of a brachytherapy boost to external beam radiotherapy and chemotherapy did not improve outcome in loco-regionally advanced nasopharyngeal carcinoma .
+

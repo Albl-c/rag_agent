@@ -1,0 +1,15 @@
+24958603
+OBJECTIVE	Not all hypertensive patients respond well to ACE inhibition .
+OBJECTIVE	Here we determined whether renin-angiotensin system ( RAS ) phenotyping , i.e. , the measurement of renin or ACE , can predict the individual response to RAS blockade , either chronically ( enalapril vs. enalapril + candesartan ) or acutely ( enalaprilhydrochlorothiazide , HCT ) .
+RESULTS	Chronic enalapril + candesartan induced larger renin rises , but did not lower blood pressure ( BP ) more than enalapril .
+RESULTS	Similar observations were made for enalapril + HCT vs. enalapril when given acutely .
+RESULTS	Baseline renin predicted the peak changes in BP chronically , but not acutely .
+RESULTS	Baseline ACE levels had no predictive value .
+RESULTS	Yet , after acute drug intake , the degree of ACE inhibition , like renin , did correlate with BP .
+RESULTS	Only the relationship with renin remained significant after chronic RAS blockade .
+RESULTS	Thus , a high degree of ACE inhibition and a steep renin rise associate with larger acute responses to enalapril .
+RESULTS	However , variation was large , ranging > 50mm Hg for a given degree of ACE inhibition or renin .
+RESULTS	The same was true for the relationships between renin and BP , and between baseline renin and the maximum reduction in BP in the chronic study .
+CONCLUSIONS	Our data do not support that RAS phenotyping will help to predict the individual BP response to RAS blockade .
+CONCLUSIONS	Notably , these conclusions were reached in a carefully characterized , homogenous population , and when taking into account the known fluctuations in renin that relate to gender , age , ethnicity , salt intake and diuretic treatment , it seems unlikely that a cut-off renin level can be defined that has predictive value .
+

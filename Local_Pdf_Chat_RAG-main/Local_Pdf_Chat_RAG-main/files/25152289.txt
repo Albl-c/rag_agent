@@ -1,0 +1,17 @@
+25152289
+OBJECTIVE	To explore the effects of pri ming rocuronium on neuromuscular blockade produced by mivacurium .
+METHODS	Ethical approval was granted by the medical ethics committee of our hospital with a reference number of C-2013-018-01 .
+METHODS	A total of 120 ASA physical status I and II patients undergoing selective otorhinolaryngologic surgery under general anesthesia signed the form of informed consent .
+METHODS	And they were randomly divided by a random number table into 4 groups .
+METHODS	After a standardized imidazole-propofol-fentanyl induction , they received a saline placebo injection ( GroupI ) and a pri ming dose of rocuronium 0.06 mg/kg ( GroupII ) , rocuronium 0.075 mg/kg ( Group III ) and rocuronium 0.1 mg/kg ( Group IV ) .
+METHODS	An intubating dose of mivacurium 0.15 mg/kg was offered 3 minutes later .
+METHODS	Anesthesia was maintained with propofol and remifentanyl continuous infusion .
+METHODS	Neuromuscular block was monitored with train of four ( TOF ) stimulation .
+METHODS	The onset time , reappearance of T1 ( DUR TOFc 1 ) , times of T1 25 % and 75 % recovery , recovery index and times of TOF25 % , 75 % and 90 % recovery were recorded .
+RESULTS	The onset time of mivacurium was significantly shorter and the times of T1 25 % and 75 % recovery were significantly longer in groups of II , III and IV than those in groupI .
+RESULTS	No significant difference existed in recovery index among 4 groups .
+RESULTS	The onset time of mivacurium became progressively shorter with the growing pri ming dose of rocurium among three experiment groups .
+RESULTS	And it was not statistically significant .
+CONCLUSIONS	Pri ming rocuronium decreases the onset and intubating times of mivacurium without effect on recovery index .
+CONCLUSIONS	No significant difference exists in drug effect among 3 experiment groups .
+

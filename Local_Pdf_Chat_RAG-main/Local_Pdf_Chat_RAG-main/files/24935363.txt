@@ -1,0 +1,12 @@
+24935363
+BACKGROUND	The aim of this study was to evaluate the efficacy of alternating etoposide-cisplatin and vinorelbine-cisplatin ( EP-NP ) compared with an etoposide-cisplatin ( EP ) regimen for advanced combined small cell carcinomas .
+METHODS	Histologically confirmed combined small cell carcinoma patients who met the inclusion criteria were randomly assigned ( 1:1 ) into either the EP-NP setting ( group A ) or the EP setting ( group B ) .
+METHODS	The primary endpoint was progression-free survival in patients who received at least one dose of treatment .
+RESULTS	Eighty-two patients entered into this trial , 42 in group A and 40 in group B.
+RESULTS	The objective response rates in group A and group B were 42.9 % and 32.5 % , respectively ( p = 0.334 ) .
+RESULTS	Survival analysis showed that median progression-free survival was 6.1 months in group A , which was significantly longer than the 4.1 months in group B ( p = 0.041 ) .
+RESULTS	However , as to overall survival , no significant difference was found between the two groups ( 11.0 vs 10.1 months in groups A and B , respectively , p = 0.545 ) .
+RESULTS	No unexpected side effects were observed in either group .
+CONCLUSIONS	The EP-NP regimen for combined small cell carcinomas prolonged progression - free survival compared with the EP regimen .
+CONCLUSIONS	Further clinical investigations are warranted .
+

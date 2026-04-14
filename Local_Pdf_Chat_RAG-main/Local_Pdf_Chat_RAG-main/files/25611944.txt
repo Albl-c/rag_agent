@@ -1,0 +1,10 @@
+25611944
+OBJECTIVE	To examine the effect of weight loss on sleep duration , sleep quality , and mood in 390 obese men and women who received one of three behavioral weight loss interventions in the Practice-based Opportunities for Weight Reduction trial at the University of Pennsylvania ( POWER-UP ) .
+METHODS	Sleep duration and quality were assessed at baseline and months 6 and 24 by the Pittsburgh Sleep Quality Index ( PSQI ) questionnaire and mood by the Patient Health Questionnaire-8 ( PHQ-8 ) .
+METHODS	Changes in sleep and mood were examined according to treatment group and based on participants ' having lost 5 % of initial weight vs. < 5 % .
+RESULTS	There were few significant differences between treatment groups in changes in sleep or mood .
+RESULTS	At month 6 , however , mean ( SD ) min of sleep increased significantly more in participants who lost 5 % vs. < 5 % ( 21.67.2 vs. 1.26.0 min , P = 0.0031 ) .
+RESULTS	PSQI total scores similarly improved ( declined ) more in those who lost 5 % vs. < 5 % ( -1.20.2 vs. -0.40.2 , P < 0.001 ) , as did PHQ-8 scores ( -2.50.4 vs. -0.10.3 , P < 0.0001 ) .
+RESULTS	At month 24 , only the differences in mood remained statistically significant ( P < 0.05 ) .
+CONCLUSIONS	Losing 5 % of initial weight was associated with short-term improvements in sleep duration and sleep quality , as well as favorable short - and long-term changes in mood .
+

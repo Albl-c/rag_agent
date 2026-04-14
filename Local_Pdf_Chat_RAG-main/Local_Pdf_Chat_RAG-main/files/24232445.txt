@@ -1,0 +1,14 @@
+24232445
+OBJECTIVE	Hypericum perforatum ( St John 's wort ) is used to treat depression , but the effectiveness has not been established .
+OBJECTIVE	Recent guidelines described the analysis of clinical trials with missing data , inspiring the reanalysis of this trial using proper missing data methods .
+OBJECTIVE	The objective was to determine whether hypericum was superior to placebo in treating major depression .
+METHODS	A placebo-controlled , randomized clinical trial was conducted for 8 weeks to determine the effectiveness of hypericum or sertraline in reducing depression , measured using the Hamilton depression scale.We performed sensitivity analyses under different assumptions about the missing data process .
+RESULTS	Three hundred forty participants were randomized , with 28 % lost to follow-up .
+RESULTS	The missing data mechanism was not missing completely at random .
+RESULTS	Under missing at random assumptions , some sensitivity analyses found no difference between either treatment armand placebo , while some sensitivity analyses found a significant difference from baseline to week 8 between sertraline and placebo ( -1.28 , 95 % credible interval [ -2.48 ; -0.08 ] ) , but not between hypericum and placebo ( 0.56 , [ -0.64 ; 1.76 ] ) .
+RESULTS	The results were similar when the missing data process was assumed to be missing not at random .
+CONCLUSIONS	There is no difference between hypericum and placebo , regardless of the assumption about the missing data process .
+CONCLUSIONS	There is a significant difference between sertraline and placebo with some statistical-methods used .
+CONCLUSIONS	It is important to conduct an analysis that takes account of missing data using valid statistically principled methods .
+CONCLUSIONS	The assumptions about the missing data process could influence the results .
+

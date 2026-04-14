@@ -1,0 +1,13 @@
+24700403
+OBJECTIVE	We tested the hypothesis that clevidipine , a rapidly acting dihydropyridine calcium channel blocker , is not inferior to nitroglycerin ( NTG ) in controlling blood pressure before cardiopulmonary bypass ( CPB ) during coronary artery bypass grafting ( CABG ) .
+METHODS	In this double-blind study from October 4 , 2003 to April 26 , 2004 , 100 patients undergoing CABG with CPB were randomized at four centres to receive intravenous infusions of clevidipine ( 0.2-8gkg ( -1 ) min ( -1 ) ) or NTG ( 0.4 gkg ( -1 ) min ( -1 ) to a clinician-determined maximum dose rate ) from induction of anesthesia through 12hr postoperatively .
+METHODS	The study drug was titrated in the pre-CPB period with the aim of maintaining mean arterial pressure ( MAP ) within 5mmHg of a clinician-predetermined target .
+METHODS	The primary endpoint was the area under the curve ( AUC ) for the total time each patient 's MAP was outside the target range from drug initiation to the start of CPB , normalized per hour ( AUCMAP-D ) .
+METHODS	The predefined non-inferiority criterion for the primary endpoint was a 95 % confidence interval ( CI ) upper limit no greater than 1.50 for the geometric means ratio between clevidipine and NTG .
+RESULTS	Total mean [ standard deviation ( SD ) ] dose pre-bypass was 4.5 ( 4.7 ) mg for clevidipine and 6.9 ( 5.4 ) mg for NTG ( P < 0.05 ) .
+RESULTS	The geometric mean AUCMAP-D for clevidipine was 283mmHgminhr ( -1 ) ( n = 45 ) and for NTG was 292mmHgminhr ( -1 ) ( n = 48 ) ; the geometric means ratio was 0.97 ( 95 % CI 0.74 to 1.27 ) .
+RESULTS	The geometric mean AUCMAP-D during aortic cannulation was 357.7 mmHgminhr ( -1 ) for clevidipine compared with 190.5 mmHgminhr ( -1 ) for NTG .
+RESULTS	Mean ( SD ) heart rate with clevidipine was 76.0 ( 13.8 ) beatsmin ( -1 ) compared with 81.5 ( 14.4 ) beatsmin ( -1 ) for NTG .
+RESULTS	There were no clinically important differences between groups in adverse events .
+CONCLUSIONS	During CABG , clevidipine was not inferior to NTG for blood pressure control pre-bypass .
+

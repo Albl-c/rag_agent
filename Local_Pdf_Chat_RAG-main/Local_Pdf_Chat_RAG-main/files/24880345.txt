@@ -1,0 +1,14 @@
+24880345
+BACKGROUND	Despite improvements in liver surgery over the past decades , hemostasis during hepatic resections remains challenging .
+BACKGROUND	This multicenter randomized study compares the hemostatic effect of a collagen hemostat vs. a carrier-bound fibrin sealant after hepatic resection .
+METHODS	Patients scheduled for elective liver resection were randomized intraoperatively to receive either the collagen hemostat ( COLL ) or the carrier-bound fibrin sealant ( CBFS ) for secondary hemostasis .
+METHODS	The primary endpoint was the proportion of patients with hemostasis after 3 min .
+METHODS	Secondary parameters were the proportions of patients with hemostasis after 5 and 10 min , the total time to hemostasis , and the complication rates during a 3 months follow-up period .
+RESULTS	A total of 128 patients were included .
+RESULTS	In the COLL group , 53 out of 61 patients ( 86.9 % ) achieved complete hemostasis within 3 min after application of the hemostat compared to 52 out of 65 patients ( 80.0 % ) in the CBFS group .
+RESULTS	The 95 % confidence interval for this difference [ -6.0 % , 19.8 % ] does not include the lower noninferiority margin ( -10 % ) .
+RESULTS	Thus , the COLL treatment can be regarded as noninferior to the comparator .
+RESULTS	The proportions of patients with hemostasis after 3 , 5 , and 10 min were not significantly different between the two study arms .
+RESULTS	Postoperative mortality and morbidity were similar in both treatment groups .
+CONCLUSIONS	The collagen hemostat is as effective as the carrier-bound fibrin sealant in obtaining secondary hemostasis during liver resection with a comparable complication rate .
+

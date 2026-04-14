@@ -1,0 +1,13 @@
+24931587
+OBJECTIVE	To assess the effect of acetazolamide ( Az ) on exercise performance during early acclimatization to altitude .
+METHODS	Az ( 250 mg twice daily ) or placebo was administered for 3 days in a double-blind , randomized manner followed by a rapid ascent to 3459 m in the Italian Alps .
+METHODS	Twenty healthy adults ( age range , 18-67 years ) were tested at 60 % of sea-level peak power output for 15 minutes on a bicycle ergometer after 16 to 27 hours of altitude exposure .
+METHODS	Exercise performance was measured in relation to peripheral oxygen saturations measured from pulse oximetry ( Spo2 ) , Lake Louise acute mountain sickness ( AMS ) score , and perceived difficulty .
+RESULTS	At altitude , resting Spo2 was higher in the Az group compared with placebo ( P < .001 ) .
+RESULTS	The highest AMS scores were in 4 of the placebo individuals with the lowest resting Spo2 ( P < .05 ) .
+RESULTS	During the exercise test , Spo2 fell in all but 1 subject ( P < .001 ) and was reduced more in the Az group ( P < .01 ) .
+RESULTS	Four Az and 1 placebo subject were unable to complete the exercise test ; 4 of these 5 had the largest fall in Spo2 .
+RESULTS	The perception of exercise difficulty was higher in the Az subjects compared with those taking the placebo ( P < .01 ) .
+RESULTS	There was an age relationship with exercise limitation ; 4 of the 9 older than 50 years failed to complete the test whereas only 1 of 11 younger than 50 years failed , and there were no failures in the 6 younger than 30 years ( P < .05 ) .
+CONCLUSIONS	In this study group , and despite higher resting Spo2 , Az may have compromised exercise at 3459 m altitude during early acclimatization , particularly in older subjects .
+

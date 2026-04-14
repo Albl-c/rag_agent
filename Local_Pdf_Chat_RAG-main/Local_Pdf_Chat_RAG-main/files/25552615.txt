@@ -1,0 +1,16 @@
+25552615
+BACKGROUND	Patients with transient ischaemic attack ( TIA ) or stroke are at risk for cognitive impairment and dementia .
+BACKGROUND	Currently , there is no known effective strategy to prevent this cognitive decline .
+BACKGROUND	Increasing evidence exists that physical exercise is beneficial for cognitive function .
+BACKGROUND	However , in patients with TIA or stroke who are at risk of cognitive impairment and dementia , only a few trials have been conducted .
+BACKGROUND	In this study , we aim to investigate whether a physical exercise programme ( MoveIT ) can prevent cognitive decline in patients in the acute phase after a TIA or minor ischaemic stroke .
+METHODS	A single-blinded randomised controlled trial will be conducted to investigate the effect of an aerobic exercise programme on cognition compared with usual care .
+METHODS	120 adult patients with a TIA or minor ischaemic stroke less than 1 month ago will be randomly allocated to an exercise programme consisting of a 12-week aerobic exercise programme and regular follow-up visits to a specialised physiotherapist during the period of 1 year or to usual care .
+METHODS	Outcome measures will be assessed at the baseline , and at the 1-year and 2-year follow-up .
+METHODS	The primary outcome is cognitive functioning measured with the Montreal Cognitive Assessment ( MoCA ) test and with additional neuropsychological tests .
+METHODS	Secondary outcomes include maximal exercise capacity , self-reported physical activity and measures of secondary prevention .
+BACKGROUND	The study received ethical approval from the VU University Amsterdam Ethics committee ( 2011/383 ) .
+BACKGROUND	The results of this study will be published in peer-reviewed journals and presented at international conferences .
+BACKGROUND	We will also disseminate the main results to our participants in a letter .
+BACKGROUND	The Nederlands Trial Register NTR3884 .
+

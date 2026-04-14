@@ -1,0 +1,13 @@
+25982133
+BACKGROUND	The commonality between chronic conditions that are treated with low-dose ketamine , such as specific chronic pain conditions , depression , and post-traumatic stress disorder , can be found in relation to the stress system , particularly the hypothalamus-pituitary-adrenal axis .
+BACKGROUND	In this study we assess the effect of ketamine on the stress system by measuring plasma and saliva cortisol production during and following exposure to low-dose ketamine .
+METHODS	In a double-blind , randomized , placebo-controlled study , the influence of subanaesthetic ketamine ( 0.29 mg kg ( -1 ) h ( -1 ) for 1 h , followed by 0.57 mg kg ( -1 ) h ( -1 ) for another hour ) was studied with repeated plasma and saliva cortisol samples in 12 healthy male volunteers .
+METHODS	A pharmacokinetic-pharmacodynamic model was used to describe the circadian rhythm-dependent ketamine-induced production of cortisol .
+RESULTS	The endogenous mean baseline cortisol production was 7.9 ( SE 1.5 ) nM min ( -1 ) .
+RESULTS	Consistent with the circadian rhythm , cortisol production decayed by 1.25 nM min ( -1 ) h ( -1 ) .
+RESULTS	Ketamine doubled the cortisol production at a concentration of 165 ( SE 35 ) ng ml ( -1 ) .
+RESULTS	The salivary cortisol concentration closely mirrored the plasma concentration and was exponentially related to the plasma concentration with , at 100 ng ml ( -1 ) ketamine , a saliva : plasma ratio of 0.036 ( se 0.006 ) .
+CONCLUSIONS	Ketamine has an appreciable effect on cortisol production .
+CONCLUSIONS	This may impact on critical physiological and psychological functions .
+BACKGROUND	This study was registered in the Dutch Trial Register under number NTR2717 at www.trialregister.nl .
+

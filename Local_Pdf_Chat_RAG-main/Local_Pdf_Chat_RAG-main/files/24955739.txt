@@ -1,0 +1,13 @@
+24955739
+OBJECTIVE	To evaluate the efficacy of valproic acid ( VPA ) on visual function in patients with retinitis pigmentosa ( RP ) .
+METHODS	Thirty patients ( 60 eyes ) with typical RP were recruited for the study .
+METHODS	Of these , 15 patients received oral VPA ( 500mg once daily ) for a period of 1 year ( group 1 ) and the remaining 15 received no treatment ( group 2 ) and served as controls .
+METHODS	The effect of VPA on visual function was determined in terms of visual acuity , amplitude and implicit time in multifocal electroretinography ( mfERG ) , and visual evoked response ( VER ) performed at presentation and at the third month , sixth month , and 1 year in both groups .
+METHODS	Side effects of oral VPA were also monitored .
+RESULTS	At 1-year follow-up , 14 of 15 patients in group 1 had improvement in median best corrected visual acuity ( BCVA ) from 1.8 [ Range ( R ) 1-3 ] at baseline to 1.3 ( R , 0.6-1 .3 ) ( P < 0.001 ) .
+RESULTS	In contrast , there was a slight decrease in median BCVA from 1.8 ( 0.8 - 3 ) logarithm of the minimum angle of resolution ( logMAR ) at baseline to 1.83 ( P = 0.3 ) in the control arm .
+RESULTS	There was also a statistically significant increase in improvement in amplitude and latency/implicit time in mfERG and VER in this group ( P < 0.001 ) .
+RESULTS	However , no such improvement was observed in the control arm .
+CONCLUSIONS	Thus , VPA seems to have a positive effect on the visual functions in RP patients .
+CONCLUSIONS	Long-term studies evaluating the dose modifications , genetic analysis , and change in visual fields will add to our current knowledge .
+

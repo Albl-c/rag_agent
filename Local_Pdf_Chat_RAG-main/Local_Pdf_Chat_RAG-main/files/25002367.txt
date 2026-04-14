@@ -1,0 +1,12 @@
+25002367
+OBJECTIVE	A startling loud acoustic stimulus can involuntarily elicit planned movements , a phenomenon referred to as startReact .
+OBJECTIVE	Following stroke , startReact elbow flexion in stroke survivors are improved from voluntary movements .
+OBJECTIVE	Specifically , startReact elbow flexion in unimpaired individuals is not statistically different from stroke survivors in terms of onset latency and muscle activation patterns .
+OBJECTIVE	As hand movements are particularly impacted by stroke , our objective was to determine if startReact was intact in the hand following stroke .
+METHODS	Data were collected in 8 stroke survivors and 10 age-matched subjects performing hand extension following two non-startling acoustic stimuli representing `` get ready '' and `` go '' respectively .
+METHODS	Randomly , the `` go '' was replaced with a startling acoustic stimulus .
+METHODS	We hypothesized that ( 1 ) startReact would be intact during hand extension in stroke survivors and that ( 2 ) the latency of movement would be the same as in age-matched subjects .
+RESULTS	We found that startReact was intact in stroke subjects and further that the onset latency of these movements was not different from age-matched subjects .
+CONCLUSIONS	We conclude that startReact is intact in the hand following stroke .
+CONCLUSIONS	An intact startReact response indicates that this reflex may be an attractive therapeutic target for initiating hand extension in stroke survivors .
+

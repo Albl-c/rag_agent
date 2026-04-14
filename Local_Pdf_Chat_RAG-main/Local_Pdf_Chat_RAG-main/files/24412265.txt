@@ -1,0 +1,19 @@
+24412265
+OBJECTIVE	To describe changes in and predictors of comfortable gait speed ( GS-C ) after using a foot-drop stimulator ( FDS ; Bioness L300 ; Bioness Inc , Valencia , CA ) for 42 weeks in persons who had sustained a stroke .
+METHODS	Secondary analysis of prospective assessments .
+METHODS	Multicenter clinical trial .
+METHODS	A total of 99 subjects who had sustained a stroke 3 months earlier and who had GS-C 0.8 m/s and drop foot with a mean age of 60.7 years and a poststroke time of 4.8 years .
+METHODS	GS-C was assessed at baseline and at 30 weeks with and without use of an FDS ( therapeutic effect ) and at 6 , 12 , 30 , 36 , and 42 weeks with use of an FDS ( total effect ) .
+METHODS	After subjects participated in 8 physical therapy sessions , an FDS was used for ambulation over the course of 42 weeks .
+METHODS	Changes in mean GS-C over time , FDS `` responder '' status defined as either 0.1 m/s gain in GS-C ( the minimal clinically important difference [ MCID ] ) or advancing by one Perry Ambulation Category ( PAC ) , and the incidence and nature of adverse events ( AEs ) .
+RESULTS	A total of 74 ( 75 % ) and 69 ( 70 % ) of 99 subjects completed assessments at 30 weeks and 42 weeks , respectively .
+RESULTS	Baseline GS-C was 0.42 m/s without use of an FDS and 0.49 m/s with use of an FDS .
+RESULTS	GS-C improved to 0.54 m/s at 30 weeks without use of an FDS ( effect size = 0.75 ) and 0.54 , 0.55 , 0.58 , 0.60 , and 0.61 m/s at 6 , 12 , 30 , 36 , and 42 weeks with use of an FDS , respectively ( effect size 0.84 at 42 weeks ) .
+RESULTS	Half of the subjects achieved a maximum GS-C by 12 weeks .
+RESULTS	Approximately 18 % were PAC responders and 29 % were MCID responders for 30-week therapeutic effect , and 55 % were PAC responders and 67 % were MCID responders for 42-week total effect .
+RESULTS	After logistic regression , the following factors emerged as the strongest predictors of FDS responders : younger age , faster baseline GS-C and Timed Up and Go , and balance .
+RESULTS	At 42 weeks , 60 % reported a device-related AE ; 92 % were mild and 96 % were anticipated .
+CONCLUSIONS	When an FDS was used , GS-C improved progressively over 42 weeks , with 50 % of patients achieving a clinically meaningful 42-week total effect and 50 % achieving a maximum GS-C by 12 weeks .
+CONCLUSIONS	Younger patients with greater mobility levels may benefit most from use of an FDS .
+CONCLUSIONS	AEs were frequent , mild , and reversible .
+

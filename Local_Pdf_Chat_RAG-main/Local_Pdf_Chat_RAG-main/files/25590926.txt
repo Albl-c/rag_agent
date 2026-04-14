@@ -1,0 +1,16 @@
+25590926
+BACKGROUND	Ventricular and supraventricular premature complexes ( PC ) are frequent and usually symptomatic .
+BACKGROUND	According to a previous study , magnesium pidolate ( MgP ) administration to symptomatic patients can improve the PC density and symptoms .
+OBJECTIVE	To assess the late follow-up of that clinical intervention in patients treated with MgP or placebo .
+METHODS	In the first phase of the study , 90 symptomatic and consecutive patients with PC were randomized ( double-blind ) to receive either MgP or placebo for 30 days .
+METHODS	Monthly follow-up visits were conducted for 15 months to assess symptoms and control electrolytes .
+METHODS	24-hour Holter was performed twice , regardless of symptoms , or whenever symptoms were present .
+METHODS	In the second phase of the study , relapsing patients , who had received MgP or placebo ( crossing-over ) in the first phase , were treated with MgP according to the same protocol .
+RESULTS	Of the 45 patients initially treated with MgP , 17 ( 37.8 % ) relapsed during the 15-month follow-up , and the relapse time varied .
+RESULTS	Relapsing patients treated again had a statistically significant reduction in the PC density of 138.25 / hour ( p < 0.001 ) .
+RESULTS	The crossing-over patients reduced it by 247/hour ( p < 0.001 ) .
+RESULTS	Patients who did not relapse , had a low PC frequency ( 3 PC/hour ) .
+RESULTS	Retreated patients had a 76.5 % improvement in symptom , and crossing-over patients , 71.4 % .
+CONCLUSIONS	Some patients on MgP had relapse of symptoms and PC , indicating that MgP is neither a definitive nor a curative treatment for late follow-up .
+CONCLUSIONS	However , improvement in the PC frequency and symptoms was observed in the second phase of treatment , similar to the response in the first phase of treatment .
+

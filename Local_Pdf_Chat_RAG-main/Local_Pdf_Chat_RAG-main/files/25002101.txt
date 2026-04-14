@@ -1,0 +1,17 @@
+25002101
+BACKGROUND	Chronic gastritis ( CG ) , a poorly understood entity , is a very common disease of the digestive tract and is difficult to cure .
+BACKGROUND	Chronic non-atrophic gastritis ( CNG ) is the most common type of CG .
+BACKGROUND	Even if treated with current standard chemotherapy , some patients will not be freed from this confusing disease .
+BACKGROUND	Many studies have shown traditional Chinese medicine ( TCM ) is more effective compared to chemotherapy in the treatment of chronic gastritis and no serious side effects have been identified .
+BACKGROUND	However , the studies that have been carried out were not scientifically rigorous trials .
+BACKGROUND	Our aim is to design a high-quality trial for a new TCM drug , the Jian-Wei-Qu-Tong Pills ( JWQTP ) , to investigate the efficacy and safety of this new drug in treating chronic non-atrophic gastritis patients with spleen and stomach qi deficiency with damp-heat stasis syndrome ( SSQDDSS ) .
+METHODS	This is a phase II , multicenter , parallel-group , double-blind , randomized and placebo-controlled trial .
+METHODS	A total of 240 participants will be assigned to a high-dose group , a low-dose group or a placebo control group with a 1:1:1 ratio at five sites .
+METHODS	Then , one dose ( six 1-g pills ) , with a variable ratio between real drug and dummy drug according to the intervention protocol , will be taken three times a day before each meal for 8 weeks .
+METHODS	The primary outcome is the eradication rate of epigastric pain .
+METHODS	The secondary outcome includes the changes of endoscopic examination , histopathological examination , traditional Chinese medicine symptom scores and patient-reported outcome instrument scores for chronic gastrointestinal diseases and the eradication rate of Helicobacter pylori ( HP ) .
+CONCLUSIONS	Many CNG patients suffer from frequent , recurrent bouts of dyspeptic symptoms .
+CONCLUSIONS	This is the first clinical trial to evaluate the safety and efficacy of JWQTP in treating CNG with SSQDDSS in a multicenter , parallel-group , double-blind , randomized and placebo-controlled manner .
+CONCLUSIONS	This trial may not only provide evidence for a phase III clinical trial , but also a vision of an alternative option for CNG treatment .
+BACKGROUND	The registration number , ChiCTR-TRC-14004088 , was assigned by the Chinese Clinical Trial Registry on 7 January 2014 .
+

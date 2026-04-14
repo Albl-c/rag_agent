@@ -1,0 +1,14 @@
+24409075
+OBJECTIVE	To evaluate the efficacy and toxicity of nedaplatin ( NDP ) concurrent with radiotherapy in the treatment of locally advanced esophageal carcinoma .
+METHODS	Sixty-eight patients with locally advanced esophageal carcinoma were randomized into either a NDP group ( n = 34 ) or a cisplatin ( DDP ) group ( n = 34 ) .
+METHODS	The NDP group received NDP 80-100 mg/m iv on day 1 + leucovorin ( CF ) 100 mg/m iv on days 1-5 + 5-fluorouracil ( 5-FU ) 500 mg/m iv on days 1-5 .
+METHODS	The DDP group received DDP 30 mg/m iv on days 1-3 + CF 100 mg/m on days 1-5 + 5-FU 500 mg/m iv on days 1-5 .
+METHODS	The treatment was repeated every 4 wk in both groups .
+METHODS	Concurrent radiotherapy [ 60-66 Gy / ( 30-33 f ) / ( 6-7 wk ) ] was given during chemotherapy .
+RESULTS	There was no significant difference in the short-term response rate between the NDP group and DDP group ( 90.9 % vs 81.3 % , P = 0.528 ) .
+RESULTS	Although the 1 - and 2-year survival rates were higher in the NDP group than in the DDP group ( 75.8 % vs 68.8 % , 57.6 % vs 50.0 % ) , the difference in the overall survival rate was not statistically significant between the two groups ( P = 0.540 ) .
+RESULTS	The incidences of nausea , vomiting and nephrotoxicity were significantly lower in the NDP group than in the DDP group ( 17.6 % vs 50.0 % , P = 0.031 ; 11.8 % vs 47.1 % , P = 0.016 ; 8.8 % vs 38.2 % , P = 0.039 ) .
+RESULTS	There was no significant difference in the incidence of myelosuppression , radiation-induced esophagitis or radiation-induced pneumonia between the two groups .
+CONCLUSIONS	NDP-based concurrent chemoradiotherapy is effective and well-tolerated in patients with locally advanced esophageal carcinoma .
+CONCLUSIONS	NDP-based regimen has comparable efficacy to DDP-based regimen but is associated with lower incidences of gastrointestinal and renal toxicity .
+

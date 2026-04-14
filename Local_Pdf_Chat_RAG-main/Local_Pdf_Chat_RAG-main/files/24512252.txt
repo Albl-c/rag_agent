@@ -1,0 +1,12 @@
+24512252
+BACKGROUND	The use of 17-alpha-hydroxyprogesterone caproate ( 17P ) has been shown to reduce preterm delivery in women who have had a prior preterm birth .
+BACKGROUND	The role of 17P in women with arrested preterm labor is less certain .
+OBJECTIVE	To compare the preterm birth rate and neonatal outcome in women with arrested preterm labor randomized to receive 17P or placebo .
+METHODS	Women with arrested preterm labor were randomized to weekly injections of either 17P ( 250mg ) or placebo .
+METHODS	Maternal and neonatal outcome were evaluated .
+RESULTS	Forty-five singleton pregnancies were randomized after successful tocolysis ; 22 received 17P while 23 got placebo .
+RESULTS	Gestational age at delivery ( p = 0.067 ) and the interval from treatment to delivery ( p = 0.233 ) were not affected by 17P .
+RESULTS	Significantly less women in the 17P group delivered at < 34 weeks ( 14 versus 21 , p = 0.035 ) .
+RESULTS	There was also a significant reduction in the risk of neonatal sepsis ( p = 0.047 ) and gr III/IV intraventricular hemorrhage ( IVH ) ( p = 0.022 ) in the 17P group .
+CONCLUSIONS	In this study , 17P did not delay the interval to delivery after successful preterm labor , but births < 34 weeks as well as neonatal sepsis and IVH were reduced by 17P treatment .
+

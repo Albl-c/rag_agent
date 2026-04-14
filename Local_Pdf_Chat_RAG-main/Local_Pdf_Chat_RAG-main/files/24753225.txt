@@ -1,0 +1,13 @@
+24753225
+BACKGROUND	There is an urgent need for more effective treatments for major depressive disorder ( MDD ) .
+BACKGROUND	As understanding of the cognitive and affective neuroscience underlying psychiatric disorders expands , so do opportunities to develop interventions that capitalize on the capacity for brain plasticity .
+BACKGROUND	Cognitive training is one such strategy .
+BACKGROUND	In this article , we report a proof-of-concept study of a novel cognitive-emotional training exercise designed to enhance cognitive control for emotional information processing and targeting components of the neural networks that have been implicated in MDD .
+METHODS	Twenty-one participants with MDD in a current episode were randomly assigned to one of the two treatment conditions : 11 participating in a cognitive-emotional training paradigm ( emotional faces memory task ( EFMT ) ) involving eight sessions over 4 weeks , and 10 participating in an active control condition ( control training , CT ) .
+METHODS	Assessments of MDD symptoms , negative affective bias in cognitive processing , and neurocognition ( attention and working memory ) were administered at baseline and after 4 weeks .
+RESULTS	Participants in the EFMT group exhibited a greater reduction in MDD symptoms compared to the CT group , and 6 of the 11 EFMT participants achieved clinical response ( 50 % reduction in symptoms ) .
+RESULTS	EFMT participants also exhibited changes in negative affective bias in the hypothesized direction whereas the CT participants did not .
+RESULTS	Both groups exhibited similar , small improvements in attention and working memory .
+CONCLUSIONS	Cognitive-emotional training may represent a feasible and effective intervention strategy for MDD .
+CONCLUSIONS	This proof-of-concept study highlights the need for future studies to fully understand the effectiveness , and mechanisms of effect , of these training strategies .
+

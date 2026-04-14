@@ -1,0 +1,11 @@
+24831970
+BACKGROUND	Bright constant light levels in the NICU may have negative effects on the growth and development of preterm infants
+OBJECTIVE	The aim of this study is to evaluate the benefits of an alternating light/dark cycle in the NICU on weight gain and early discharge from the therapy in premature infants .
+METHODS	A randomized interventional study was designed comparing infants in the NICU of Hospital Juarez de Mxico , exposed from birth either to an LD environment ( LD , n = 19 ) or to the traditional continuous light ( LL , n = 19 ) .
+METHODS	The LD condition was achieved by placing individual removable helmets over the infant 's heads .
+METHODS	Body weight gain was analyzed , as the main indicator of stability and the main criteria for discharge in preterm infants born at 31.730.31 week gestational age .
+RESULTS	Infants maintained in an LD cycle gained weight faster than infants in LL and therefore attained a shorter hospital stay , ( 34.373.12 vs 51.115.29 days ; P > 0.01 ) .
+RESULTS	Also , LD infants exhibited improved oxygen saturation and developed a daily melatonin rhythm .
+CONCLUSIONS	These findings provide a convenient alternative for establishing an LD environment for preterm healthy newborns in the NICU and confirm the beneficial effects of an alternating LD cycle for growth and weight gain and for earlier discharge time .
+CONCLUSIONS	Here we provide an easy and practical alternative to implement light/dark conditions in the NICU .
+

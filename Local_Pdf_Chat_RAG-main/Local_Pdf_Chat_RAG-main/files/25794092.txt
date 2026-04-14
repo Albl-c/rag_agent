@@ -1,0 +1,14 @@
+25794092
+OBJECTIVE	The purpose of this study was to determine whether the occurrence of numerous colonic bubbles during CT colonography ( CTC ) performed with polyethylene glycol cleansing and oral iohexol fecal/fluid tagging could be prevented by use of simethicone .
+METHODS	Adults with suspected colonic neoplasia who had been randomly assigned to control and simethicone intervention groups underwent CTC after cleansing with 4 L of polyethylene glycol , tagging with 50 mL of 350 mg I/mL oral iohexol , and without ( control ) or with ( intervention ) oral administration of 200 mg of simethicone .
+METHODS	Colonic segments in the control and intervention groups were evaluated for amount of colonic bubbles during CTC .
+METHODS	A 6-point grading system was used in which 0 indicated no bubbles and 5 indicated that more than three fourths of the air-distended mucosa was covered with bubbles .
+METHODS	The primary endpoint was a per-patient colonic bubble grade , derived as an average of the segmental grades .
+RESULTS	Eighty adults with suspected colonic neoplasia were randomly assigned to the control ( 40 patients ) and simethicone intervention ( 40 patients ) groups .
+RESULTS	A total of 659 colonic segments in the control group and 689 segments in the intervention group were evaluated for amount of colonic bubbles during CTC .
+RESULTS	The per-patient colonic bubble score was significantly lower in the simethicone intervention group than in the control group .
+RESULTS	The mean score was 0.00.1 ( SD ) versus 1.20.8 ( p < 0.001 ; 95 % CI for the mean difference , -1.4 to -1.0 ) .
+RESULTS	In the intervention group , 673 ( 97.7 % ) segments were grade 0 , and 16 ( 2.3 % ) were grade 1 .
+RESULTS	In contrast , in the control group , 226 ( 34.3 % ) segments were grade 0 ; 173 ( 26.3 % ) , grade 1 ; 175 ( 26.6 % ) , grade 2 ; 45 ( 6.8 % ) , grade 3 ; 23 ( 3.5 % ) , grade 4 ; and 17 ( 2.6 % ) , grade 5 .
+CONCLUSIONS	The colonic bubbles associated with fecal/fluid tagging with iohexol can be successfully prevented by adding simethicone to the colonic preparation .
+

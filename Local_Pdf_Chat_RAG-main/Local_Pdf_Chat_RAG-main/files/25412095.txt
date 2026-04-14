@@ -1,0 +1,16 @@
+25412095
+OBJECTIVE	Peripancreatic fluid collections ( PFCs ) have been adequately drained using multiple plastic stents placed in a single-step endoscopic ultrasound ( EUS ) procedure .
+OBJECTIVE	Recent reports have presented the usefulness of metal stents for this procedure ; however , there has been no prospective comparative study on their effectiveness and safety .
+OBJECTIVE	We conducted a prospective randomized study to compare multiple plastic stents with fully covered , self-expanding metal stents ( FCSEMSs ) for the drainage of PFCs .
+METHODS	Between January 2012 and May 2013 , patients with PFCs demonstrated by various modalities were enrolled in our study .
+METHODS	Patients were randomly assigned to receive either a FCSEMS or plastic stents for EUS-guided PFC drainage .
+METHODS	The procedure time , technical success rate , and adverse event rates of the PFCs were evaluated .
+RESULTS	50 patients ( 41 men ) were included and randomly assigned to either the FCSEMS group ( n = 25 ) or the plastic stent group ( n = 25 ) .
+RESULTS	The median procedure time with FCSEMS was significantly shorter than with plastic stents ( 15.0 min vs. 29.5 min , P < 0.01 ) .
+RESULTS	The technical success rate was 100 % for both groups .
+RESULTS	The clinical success rate was 20 out of 23 for FCSEMS and 20 out of 22 for plastic stents ( P = 0.97 ) .
+RESULTS	No adverse events occurred in the FCSEMS group , while adverse events occurred in two patients in the plastic stent group ( P = 0.16 ) .
+RESULTS	One recurrence was observed during follow-up in the FCSEMS group and none in the plastic stent group ( P = 0.15 ) .
+CONCLUSIONS	EUS-guided PFC drainage with FCSEMSs is comparable to such drainage with plastic stents in terms of technical feasibility , efficacy , and safety ; however , the use of FCSEMSs may also simplify and shorten the procedure .
+BACKGROUND	KCT0000766 ( https://cris.nih.go.kr ) .
+

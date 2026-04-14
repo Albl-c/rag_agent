@@ -1,0 +1,12 @@
+24986722
+BACKGROUND	In a task-environment where visibility has deteriorated , individuals rely heavily on tactile performance ( perception and manipulation ) to complete complex tasks .
+BACKGROUND	When this happens under hyperbaric conditions , factors like nitrogen narcosis could influence a person 's ability to successfully complete such tasks .
+OBJECTIVE	To examine the effect of nitrogen narcosis on a complex neuropsychological task measuring tactile performance at a pressure of 608 kPa ( 6 atm abs ) , in the absence of visual access to the task .
+METHODS	In a prospective cross-over study , 139 commercial divers were tested in a dry chamber at 101.3 kPa and 608 kPa .
+METHODS	They completed the Tupperware Neuropsychological Task ( TNT ) of tactile performance without visual access to the task , and completed questionnaires to provide psychological and biographical data , which included trait anxiety and transient mood states , as well as formal qualifications and technical proficiency .
+RESULTS	A significant decrement ( 9.5 % , P < 0.001 ) in performance on the TNT at depth was found , irrespective of the sequence of testing .
+RESULTS	Generally , neither the psychological nor biographical variables showed any significant effect on tactile performance .
+RESULTS	Tactile performance on the surface was a good indicator of performance at depth .
+CONCLUSIONS	These findings have practical implications for professional diving where conditions of low visibility during deeper diving occur .
+CONCLUSIONS	Recommendations are made towards managing potential impairments in tactile performance , such as pre-dive practical learning ( ` rehearsal ' ) as an aid to successful completion of tasks .
+

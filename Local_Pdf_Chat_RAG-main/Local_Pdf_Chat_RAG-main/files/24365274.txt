@@ -1,0 +1,17 @@
+24365274
+BACKGROUND	Despite the popularity of hypnotherapy for smoking cessation , the efficacy of this method is unclear .
+BACKGROUND	We aimed to investigate the efficacy of a single-session of group hypnotherapy for smoking cessation compared to relaxation in Swiss adult smokers .
+METHODS	This was a cluster-randomised , parallel-group , controlled trial .
+METHODS	A single session of hypnosis or relaxation for smoking cessation was delivered to groups of smokers ( median size = 11 ) .
+METHODS	Participants were 223 smokers consuming 5 cigarettes per day , willing to quit and not using cessation aids ( 47.1 % females , M = 37.5 years [ SD = 11.8 ] , 86.1 % Swiss ) .
+METHODS	Nicotine withdrawal , smoking abstinence self-efficacy , and adverse reactions were assessed at a 2-week follow-up .
+METHODS	The main outcome , self-reported 30-day point prevalence of smoking abstinence , was assessed at a 6-month follow up .
+METHODS	Abstinence was validated through salivary analysis .
+METHODS	Secondary outcomes included number of cigarettes smoked per day , smoking abstinence self-efficacy , and nicotine withdrawal .
+RESULTS	At the 6-month follow up , 14.7 % in the hypnosis group and 17.8 % in the relaxation group were abstinent .
+RESULTS	The intervention had no effect on smoking status ( p = .73 ) or on the number of cigarettes smoked per day ( p = .56 ) .
+RESULTS	Smoking abstinence self-efficacy did not differ between the interventions ( p = .14 ) at the 2-week follow-up , but non-smokers in the hypnosis group experienced reduced withdrawal ( p = .02 ) .
+RESULTS	Both interventions produced few adverse reactions ( p = .81 ) .
+CONCLUSIONS	A single session of group hypnotherapy does not appear to be more effective for smoking cessation than a group relaxation session .
+BACKGROUND	Current Controlled Trials ISRCTN72839675 .
+

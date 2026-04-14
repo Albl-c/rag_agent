@@ -1,0 +1,10 @@
+24694949
+BACKGROUND	The aim of this study was to evaluate the impact of Quality and Outcomes Framework ( QOF ) , a major pay-for-performance programme in the United Kingdom , on prescribing of long-acting reversible contraceptives ( LARC ) in primary care .
+METHODS	Negative binomial interrupted time series analysis using practice level prescribing data from April 2007 to March 2012 .
+METHODS	The main outcome measure was the prescribing rate of long-acting reversible contraceptives ( LARC ) , including hormonal and non hormonal intrauterine devices and systems ( IUDs and IUSs ) , injectable contraceptives and hormonal implants .
+RESULTS	Prescribing rates of Long-Acting Reversible Contraception ( LARC ) were stable before the introduction of contraceptive targets to the QOF and increased afterwards by 4 % annually ( rate ratios = 1.04 , 95 % CI = 1.03 , 1.06 ) .
+RESULTS	The increase in LARC prescribing was mainly driven by increases in injectables ( increased by 6 % annually ) , which was the most commonly prescribed LARC method .
+RESULTS	Of other types of LARC , the QOF indicator was associated with a step increase of 20 % in implant prescribing ( RR = 1.20 , 95 % CI = 1.09 , 1.32 ) .
+RESULTS	This change is equivalent to an additional 110 thousand women being prescribed with LARC had QOF points not been introduced .
+CONCLUSIONS	Pay for performance incentives for contraceptive counselling in primary care with women seeking contraceptive advice has increased uptake of LARC methods .
+

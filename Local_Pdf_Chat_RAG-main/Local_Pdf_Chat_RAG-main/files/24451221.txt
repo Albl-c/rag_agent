@@ -1,0 +1,17 @@
+24451221
+BACKGROUND	As traditional methods have become increasingly difficult , the Internet offers a mechanism for conducting survey research quickly and efficiently .
+BACKGROUND	However , the validity of this research depends on the ability of respondents to accurately report health status .
+BACKGROUND	We used a large Internet-based inflammatory bowel disease ( IBD ) cohort to validate self-reported IBD against physician reports .
+METHODS	Between June 22 , 2012 , and April 01 , 2013 , all participants of CCFA Partners ( n = 6681 ) were invited to participate , and 450 were selected by random stratified sampling .
+METHODS	We sent physicians a survey to confirm IBD diagnosis and characteristics .
+METHODS	We used descriptive statistics to compare data .
+RESULTS	A total of 4423 participants ( 66 % ) indicated interest .
+RESULTS	Of 450 selected , 261 ( 58 % ) consented , and physician reports were obtained for 184 ( 71 % ) .
+RESULTS	Physicians confirmed IBD status in 178 ( 97 % ) and type in 171 ( 97 % of confirmed ) .
+RESULTS	The matching between patient and physician reports for Crohn 's disease ( CD ) was 82 % for disease location , 89 % for the presence of perianal disease , and 46 % for disease behavior .
+RESULTS	For ulcerative colitis ( UC ) , disease location matched 54 % of the time .
+RESULTS	Physician reports confirmed the status of ever having bowel surgery for 97 % of CD and 94 % for UC and confirmed current pouch or ostomy in 84 % of CD and 81 % of UC .
+CONCLUSIONS	Self-reported IBD in CCFA Partners is highly accurate , and participants are willing to release medical records for research .
+CONCLUSIONS	Self-reported phenotypic characteristics were less valid .
+CONCLUSIONS	The validity of IBD diagnoses among the participants of CCFA Partners supports the use of this cohort for patient-centered outcome research .
+

@@ -1,0 +1,14 @@
+24265330
+OBJECTIVE	Cranial electrotherapy stimulation ( CES ) is used as a treatment for depression and anxiety , and as an adjunctive intervention for pain management .
+OBJECTIVE	This prospective study investigated whether CES could decrease preoperative anxiety , the injection pain of rocuronium , postoperative pain and stress hormone levels .
+METHODS	Female patients undergoing thyroidectomy were randomly assigned to two groups , to receive either no pretreatment ( control group ) or CES pretreatment .
+METHODS	Anxiety score , withdrawal response on rocuronium injection , and pain scores at 1 , 4 , 12 and 24 h post surgery were evaluated .
+METHODS	Adrenocorticotrophic hormone ( ACTH ) , cortisol and glucose levels were measured .
+METHODS	Patients were blinded to the treatment condition .
+RESULTS	Fifty patients entered the study ( n = 25 per group ) .
+RESULTS	Anxiety score and withdrawal responses during rocuronium injection were significantly reduced in the CES group compared with the control group .
+RESULTS	Pain score was significantly lower in the CES group than in the control group , 1 h and 4 h post surgery .
+RESULTS	There were no significant differences in ACTH , cortisol and glucose levels .
+CONCLUSIONS	CES pretreatment appears to reduce the level of preoperative anxiety , injection pain of rocuronium and postoperative pain .
+CONCLUSIONS	However , CES pretreatment did not affect stress hormone responses .
+

@@ -1,0 +1,12 @@
+24562806
+OBJECTIVE	ST-segment resolution ( STR ) after reperfusion therapy has been shown to correlate with prognosis in patients with ST-segment elevation myocardial infarction ( STEMI ) .
+OBJECTIVE	We investigated whether acute ECG measurements also correlate with ultimate infarct size .
+RESULTS	The INFUSE-AMI trial randomized 452 patients with anterior STEMI to intracoronary bolus abciximab vs. no abciximab , and to thrombus aspiration vs. no aspiration .
+RESULTS	Infarct size as percentage of total LV mass was calculated by cardiac magnetic resonance imaging ( MRI ) 30 days post intervention .
+RESULTS	Five ECG methods were analysed for their ability to predict MRI infarct mass : ( 1 ) summed STR across all infarct-related ECG leads ( STR ) ; ( 2 ) STR in the single lead with maximum baseline ST-segment elevation ( maxSTR ) ; ( 3 ) summed residual ST-segment elevation across all infarct-related leads at 60 min post intervention ( ST residual ) ; ( 4 ) maximum residual ST-segment elevation in the worst single lead at 60 min post intervention ( maxST residual ) ; ( 5 ) number of new significant Q-waves ( Qwave ) at 60 min .
+RESULTS	All ECG methods strongly correlated with 30-day MRI infarct mass ( all p < 0.003 ) .
+RESULTS	Simpler ECG measurements such as maxSTresidual and Qwave were as predictive as more complex measurements .
+RESULTS	A subset analysis of 158 patients who had microvascular obstruction ( MVO ) determined by MRI 5 days post intervention also showed strong correlations of MVO with the ECG measures .
+CONCLUSIONS	ST-segment and Q-wave changes after primary PCI in anterior STEMI strongly correlated with 30-day infarct size by MRI .
+CONCLUSIONS	In particular , maxST residual and Qwave at 60 min are simple ECG parameters that offer rapid analysis for prognostication .
+

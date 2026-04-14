@@ -1,0 +1,15 @@
+25038486
+OBJECTIVE	Asunaprevir is a selective HCV NS3 protease inhibitor , active against genotypes 1 , 4 , 5 , and 6 in vitro .
+OBJECTIVE	We evaluated asunaprevir plus peginterferon alfa-2a / ribavirin ( PegIFN/RBV ) for genotype 1 and 4 chronic HCV .
+METHODS	In this phase 2b , double-blind , placebo-controlled study , treatment-naive adults with genotype 1 ( n = 213 ) or 4 ( n = 25 ) were randomly assigned ( 3:1 ) to asunaprevir 200mg or placebo twice daily plus PegIFN/RBV .
+METHODS	Asunaprevir recipients , achieving protocol-defined response ( HCV-RNA below quantification limit at week 4 and undetectable at week 10 ) , were rerandomized at week 12 to continue asunaprevir-based triple therapy or receive placebo plus PegIFN/RBV for weeks 13-24 .
+METHODS	Patients without protocol-defined response ( PDR ) and placebo recipients continued PegIFN/RBV through week 48 .
+METHODS	Co-primary end points were undetectable HCV-RNA at week 4 and 12 ( eRVR ) and 24 weeks posttreatment ( SVR24 ) .
+RESULTS	Most patients were male ( 64.3 % ) , white ( 83.6 % ) , and had non-CC IL28B genotypes ( 71.3 % ) .
+RESULTS	Among genotype 1 patients , eRVR rates ( asunaprevir vs. placebo ) were 67 % ( 80 % CI 62 , 72 ) vs. 6 % ( 80 % CI 2 , 10 ) ; corresponding SVR24 rates were 64 % ( 80 % CI 59 , 68 ) vs. 44 % ( 80 % CI 36 , 53 ) .
+RESULTS	SVR24 among genotype 4 patients was 89 % ( asunaprevir ) vs. 43 % ( placebo ) .
+RESULTS	Rates of rash and haematologic adverse events were similar between treatment groups .
+RESULTS	Five asunaprevir-treated patients had grade 4 alanine aminotransferase elevations that resolved following discontinuation ( n = 4 ) or with continued dosing ( n = 1 ) .
+CONCLUSIONS	Addition of asunaprevir to PegIFN/RBV in treatment-naive genotype 1 - or 4-infected patients improves response rates and is well tolerated , with aminotransferase elevations that were manageable with appropriate monitoring .
+CONCLUSIONS	ClinicalTrials.gov ID : NCT01030432 .
+

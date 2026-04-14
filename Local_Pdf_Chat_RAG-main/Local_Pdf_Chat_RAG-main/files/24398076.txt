@@ -1,0 +1,12 @@
+24398076
+BACKGROUND	Much of the existing literature on physical activity ( PA ) interventions involves physically inactive individuals recruited from community settings rather than clinical practice settings .
+BACKGROUND	Recruitment of patients into interventions in clinical practice settings is difficult due to limited time available in the clinic , identification of appropriate personnel to efficiently conduct the process , and time-consuming methods of recruitment .
+BACKGROUND	The purpose of this report is to describe the approach used to identify and recruit veterans from the Veterans Affairs ( VA ) Pittsburgh Healthcare System Primary Care Clinic into a randomized controlled PA study .
+METHODS	A sampling frame of veterans was developed using the VA electronic medical record .
+METHODS	During regularly scheduled clinic appointments , primary care providers ( PCPs ) screened identified patients for safety to engage in moderate-intensity PA and willingness to discuss the study with research staff members .
+METHODS	Research staff determined eligibility with a subsequent telephone screening call and scheduled a research study appointment , at which time signed informed consent and baseline measurements were obtained .
+RESULTS	Of the 3,482 veterans in the sampling frame who were scheduled for a primary care appointment during the study period , 1,990 ( 57.2 % ) were seen in the clinic and screened by the PCP ; moderate-intensity PA was deemed safe for 1,293 ( 37.1 % ) , 871 ( 25.0 % ) agreed to be contacted for further screening , 334 ( 9.6 % ) were eligible for the study , and 232 ( 6.7 % ) enrolled .
+CONCLUSIONS	Using a semiautomated screening approach that combined an electronically-derived sampling frame with paper and pencil prescreening by PCPs and research staff , VA-STRIDE was able to recruit 1 in 15 veterans in the sampling frame .
+CONCLUSIONS	Using this approach , a high proportion of potentially eligible veterans were screened by their PCPs .
+BACKGROUND	Clinical trials.gov identifier : NCT00731094 .
+

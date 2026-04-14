@@ -1,0 +1,16 @@
+24633376
+OBJECTIVE	Speech perception is the most important social task of the auditory system .
+OBJECTIVE	Consequently , speech audiometry is essential to evaluate hearing aid benefit .
+OBJECTIVE	The aim of the study was to describe the correlation between pure-tone hearing loss and speech perception .
+OBJECTIVE	In particular , pure-tone audiogram , speech audiogram , and speech perception with hearing aids were compared .
+METHODS	In a retrospective study , 102 hearing aid users with bilateral sensorineural hearing loss were included .
+METHODS	Pure-tone loss ( PTA ) was correlated to monosyllabic perception at 65 dB with hearing aid and with maximum monosyllabic perception with headphones .
+RESULTS	Speech perception as a function of hearing loss can be represented by a sigmoid function .
+RESULTS	However , for higher degrees of hearing loss , substantial deviations are observed .
+RESULTS	Maximum monosyllabic perception with headphones is usually not achieved with hearing aids at standard speech levels of 65 dB .
+CONCLUSIONS	For larger groups , average pure-tone hearing loss and speech perception correlate significantly .
+CONCLUSIONS	However , prognosis for individuals is not possible .
+CONCLUSIONS	In particular for higher degrees of hearing loss substantial deviations could be observed .
+CONCLUSIONS	Speech performance with hearing aids can not be predicted sufficiently from speech audiograms .
+CONCLUSIONS	Above the age of 80 , speech perception is significantly worse .
+

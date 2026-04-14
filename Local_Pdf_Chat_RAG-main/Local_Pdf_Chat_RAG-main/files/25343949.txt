@@ -1,0 +1,13 @@
+25343949
+OBJECTIVE	High levels of fibroblast growth factor 23 are associated with accelerated progression of CKD .
+OBJECTIVE	Whether high fibroblast growth factor 23 levels also predict incident CKD is uncertain .
+METHODS	A prospective case-cohort study was conducted within the Action to Control Cardiovascular Risk in Diabetes Trial .
+METHODS	The analytic sample consisted of a random subcohort of 590 patients with type 2 diabetes without prevalent CKD at baseline , 124 of whom developed incident CKD during follow-up , and 520 additional patients with incident CKD outside the random subcohort .
+METHODS	The association between serum intact fibroblast growth factor 23 and incident CKD , defined as the new onset of eGFR < 60 ml/min per 1.73 m ( 2 ) that represented a 25 % decrease from baseline in an individual with eGFR60 ml/min per 1.73 m ( 2 ) and no microalbuminuria ( < 30 mg/g creatinine ) at baseline , was tested .
+RESULTS	The mean baseline eGFR in the random subcohort was 90.922.7 ml/min per 1.73 m ( 2 ) .
+RESULTS	During a median follow-up of 4.7 years , there was a total of 644 patients with incident CKD .
+RESULTS	The median baseline fibroblast growth factor 23 level was modestly higher among patients with incident CKD versus controls ( 43.5 , interquartile range = 34.7-55 .1 versus 39.8 , interquartile range = 31.9-49 .5 pg/ml ; P < 0.001 ) .
+RESULTS	Higher baseline fibroblast growth factor 23 levels were associated with higher risk of incident CKD in unadjusted and demographics-adjusted models , but the effect was attenuated after additional adjustment for clinical risk factors and baseline eGFR ( hazard ratio per SD of natural log fibroblast growth factor 23 , 1.09 ; 95 % confidence interval , 0.94 to 1.27 ) , which was the strongest predictor of incident CKD .
+RESULTS	Consistent with the results of primary analyses , baseline fibroblast growth factor 23 was not associated with eGFR slope .
+CONCLUSIONS	Higher fibroblast growth factor 23 levels are not independently associated with higher risk of incident CKD in patients with type 2 diabetes .
+

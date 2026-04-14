@@ -1,0 +1,15 @@
+24317232
+OBJECTIVE	We describe a new approach to blocking the sciatic and saphenous nerves in the proximal thigh ( level of the lesser trochanter or immediately below ) using a single-penetration dual-injection ( SPEDI ) technique .
+OBJECTIVE	The popliteal-sciatic approach necessitates repositioning of the leg exposing the popliteal fossa and an extra injection for the saphenous nerve ( SAN ) block at the midthigh level .
+OBJECTIVE	We introduce an alternative , effective , and possibly faster method .
+METHODS	Sixty patients undergoing leg and foot surgery under general anesthesia were included .
+METHODS	We deposited 15 mL of ropivacaine 0.75 % around the sciatic nerve ( SCN ) and 5 mL of ropivacaine 0.75 % at the SAN .
+METHODS	Patients were randomized to the popliteal-sciatic/saphenous technique or the SPEDI technique .
+METHODS	The primary outcome measure was performance time .
+METHODS	Positioning time , pain assessment , nausea in the postanesthesia care unit , sufentanil demand , dermatomal anesthesia , and degree of motor blockade were also recorded .
+RESULTS	Performance time was significantly faster with the SPEDI technique ( median time , 110 seconds [ range , 57-315 seconds ] vs 246 seconds [ range , 163-472 seconds ] ; P < 0.0001 ) .
+RESULTS	Positioning time was significantly shorter with the SPEDI technique ( P < 0.0001 ) .
+RESULTS	No other statistically significant differences were recorded .
+CONCLUSIONS	The SPEDI block resulted in significantly faster performance time and reduced positioning time with statistically equal efficacy in relation to pain assessment , nausea , sufentanil demand , dermatomal anesthesia , and motor blockade .
+CONCLUSIONS	The SPEDI block is statistically an equally effective alternative to the traditional popliteal-sciatic/saphenous block combination for leg and foot surgery , but it is faster , requires only 1 skin penetration , and does not require repositioning of the leg .
+

@@ -1,0 +1,15 @@
+25710288
+OBJECTIVE	To estimate age at attaining Tanner stages in Ugandan/Zimbabwean HIV-infected children initiating antiretroviral therapy ( ART ) in older childhood and investigate predictors of delayed puberty , particularly age at ART initiation .
+METHODS	Observational analysis within a randomized trial .
+METHODS	Tanner staging was assessed every 24 weeks from 10 years of age , menarche every 12 weeks and height every 4-6 weeks .
+METHODS	Age at attaining different Tanner stages was estimated using normal interval regression , considering predictors using multivariable regression .
+METHODS	Growth was estimated using multilevel models with child-specific intercepts and trajectories .
+RESULTS	Median age at ART initiation was 9.4 years ( inter-quartile range 7.8 , 11.3 ) ( n = 582 ) .
+RESULTS	At the first assessment , the majority ( 80.2 % ) were in Tanner stage 1 ; median follow-up with staging was 2.8 years .
+RESULTS	There was a strong delaying effect of older age at ART initiation on age at attaining all Tanner stages ( P < 0.05 ) and menarche ( P = 0.02 ) ; in boys the delaying effect generally weakened with older age .
+RESULTS	There were additional significant delays associated with greater impairments in pre-ART height-for-age Z-score ( P < 0.05 ) in both sexes and pre-ART BMI-for-age in girls ( P < 0.05 ) .
+RESULTS	There was no evidence that pre-ART immuno-suppression independently delayed puberty or menarche .
+RESULTS	However , older children/adolescents had significant growth spurts in intermediate Tanner stages , and were still significantly increasing their height when in Tanner stage 5 ( P < 0.01 ) .
+CONCLUSIONS	Delaying ART initiation until older childhood substantially delays pubertal development and menarche , independently of immuno-suppression .
+CONCLUSIONS	This highlights that factors other than CD4 , such as pubertal development , need consideration when making decisions about timing of ART initiation in older children .
+

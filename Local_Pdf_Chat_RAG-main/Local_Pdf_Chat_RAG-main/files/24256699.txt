@@ -1,0 +1,11 @@
+24256699
+OBJECTIVE	Statins and calcium channel blockers have been proven beneficial toward improvement of endothelial function .
+OBJECTIVE	The aim of this study was to compare the effect of combination therapy of statin and calcium channel blocker with solo treatment in patients with cardiac syndrome X.
+RESULTS	Sixty-eight patients with cardiac syndrome X were divided randomly into three groups : fluvastatin ( 40 mg/day , n = 23 ) , diltiazem ( 90 mg/day , n = 22 ) , and combination of fluvastatin ( 40 mg/day ) and diltiazem ( 90 mg/day , n = 23 ) .
+RESULTS	At the end of 90 days , the coronary flow reserve was improved in the three groups ( fluvastatin-treated group : 23.2 % ; diltiazem-treated group : 12.4 % ; fluvastatin + diltiazem-treated group : 29.1 % , all P < 0.05 ) .
+RESULTS	The time to 1 mm ST segment depression increased significantly in the fluvastatin-treated group ( from 24197 to 410140 s , P < 0.05 ) , the diltiazem-treated group ( from 25891 to 392124 s , P < 0.05 ) , and the fluvastatin + diltiazem-treated group ( from 250104 to 446164 s , P < 0.05 ) .
+RESULTS	The improvement in coronary flow reserve and prolonged time to 1 mm ST segment depression in the combination treatment group were more remarkable than in those who received monotherapy .
+RESULTS	Combination therapy also induced a significant increase ( 35.6 % , P < 0.05 ) in nitric oxide and an apparent reduction ( 48.7 % , P < 0.05 ) in endothelin-1 .
+CONCLUSIONS	Combination treatment with fluvastatin and diltiazem is more effective on endothelial function and exercise tolerance than solo treatment in patients with cardiac syndrome X.
+CONCLUSIONS	The benefits of these drugs may be related to the elevation of nitric oxide and reduction of endothelin-1 .
+

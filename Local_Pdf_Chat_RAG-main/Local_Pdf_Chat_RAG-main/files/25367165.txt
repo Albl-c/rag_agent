@@ -1,0 +1,11 @@
+25367165
+OBJECTIVE	To describe secondary analyses from a 12-week , randomized , open-label trial where adult schizophrenia outpatients receiving risperidone , olanzapine , or aripiprazole were switched to iloperidone .
+METHODS	Patients were randomized into two groups : one where the antecedent antipsychotic dose was titrated downwards to zero over 2 weeks ( n = 240 ) , and the other group where the antecedent antipsychotic was abruptly stopped ( n = 260 ) .
+METHODS	Adaptations of the Clinical Global Impression scale were used to evaluate clinical changes .
+METHODS	Other assessments included the reporting of adverse events ( AEs ) , study discontinuation , body weight , and metabolic variables .
+RESULTS	Improvement was steady throughout the study for both gradual - and immediate-switch groups starting at Week 1 and continuing through Week 12 .
+RESULTS	Discontinuations due to AEs in the first 2 weeks of treatment were higher for the immediate-switch group compared with the gradual-switch group ( 10.8 % vs. 5.4 % , NNT 19 , 95 % CI 10-151 ) .
+RESULTS	Fewer patients in the gradual-switch group experienced dizziness as an AE , whereas a higher percentage of patients in the immediate-switch group exhibited earlier onset of a therapeutic response within the first 2 weeks ; both groups were comparable thereafter with low rates of dizziness and similar efficacy outcomes .
+CONCLUSIONS	Switching to iloperidone can be accomplished either with a gradual crossover or immediate discontinuation of the prior antipsychotic ; however , the immediate-switch method is associated with greater proportion of initial dizziness .
+CONCLUSIONS	The observed outcomes are consistent with what has been previously reported regarding iloperidone 's favorable akathisia/EPS profile and modest impact on somnolence/sedation , body weight , and metabolic variables .
+

@@ -1,0 +1,11 @@
+25627340
+OBJECTIVE	The Veterans Administration Cooperative Studies Program # 468 , a multicenter study that randomized Parkinson 's disease ( PD ) patients to either subthalamic nucleus ( STN ) or globus pallidus internus ( GPi ) deep brain stimulation ( DBS ) , found that stimulation at either target provided similar overall motoric benefits .
+OBJECTIVE	We conducted an additional analysis of this data set to evaluate whether PD motor subtypes responded differently to the 2 stimulation targets .
+METHODS	We classified 235 subjects by motor subtype : tremor dominant ( TD ) , intermediate ( I ) , or postural instability gait difficulty ( PIGD ) , based on pre-DBS baseline Unified Parkinson 's Disease Rating Scale ( UPDRS ) scores off-medication .
+METHODS	The primary outcome was change in UPDRS part III ( UPDRS-III ) off-medication scores from baseline to 24 months post-DBS , compared among subjects with particular PD motor subtypes and by DBS target ( STN vs GPi ) .
+METHODS	Changes in tremor , rigidity , akinesia , and gait scores were also assessed using the UPDRS .
+RESULTS	TD patients had greater mean overall motor improvement , measured by UPDRS-III , after GPi DBS , compared to STN DBS ( 17.513.0 vs 14.614.9 , p = 0.02 ) , with improvement in gait accounting for this difference .
+RESULTS	Regardless of stimulation target , PIGD subjects had lower mean overall improvement in UPDRS-III scores compared with I or TD subjects ( 8.712.2 vs 21.711.2 vs 16.313.8 , p = 0.001 ) .
+CONCLUSIONS	Our results suggest that responsiveness to both GPi and STN DBS is similar among different PD motor subtypes , although the TD motor subtype may have a greater response to GPi DBS with respect to gait .
+CONCLUSIONS	PIGD patients obtained less overall benefit from stimulation .
+

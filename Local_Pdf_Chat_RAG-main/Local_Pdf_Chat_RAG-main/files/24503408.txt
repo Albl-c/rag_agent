@@ -1,0 +1,18 @@
+24503408
+OBJECTIVE	To study the intraocular distribution and safety of polymethylmethacrylate nanoparticles loaded with carboplatin after posterior subtenon injection in humans .
+METHODS	Prospective , interventional , comparative case series .
+METHODS	Six patients ( mean age : 26.83 7.5 years ) , scheduled to undergo planned uniocular enucleation in aninstitutional setting , were randomly divided into 3 groups .
+METHODS	Each group received a 10mg/mL posterior subtenon injection of nanoparticle carboplatin in the eye to be enucleated .
+METHODS	Two eyes were enucleated 6 , 24 and 72 hours post injection .
+METHODS	Intravenous blood was collected during enucleation .
+METHODS	The concentration of carboplatin reaching various intraocular tissues was determined by inductively coupled plasma atomic emission spectroscopy .
+METHODS	The drug toxicity in the ocular tissues was assessed by histopathology and high-resolution transmission electron microscopy .
+RESULTS	The highest level of carboplatin was detected in retinas ( 8.33 1.69 mg/g ) , up to 24 hours post treatment .
+RESULTS	The intravitreal concentration continued to increase gradually until 72 hours ( 3.46 0.26 mg/g ) .
+RESULTS	The choroids and lenses showed very low levels of carboplatin after 6 hours , with negligible amounts at 72 hours .
+RESULTS	No signs of tissue damage were observed on histopathology or electron microscopy .
+RESULTS	Intravenous concentration of carboplatin was undetectable in all patients .
+CONCLUSIONS	Results may indicate an increased facilitated trans-scleral transport of nanoparticle carboplatin , with a sustained-release behavior but without any associated short-term ocular or systemic side effects in humans .
+CONCLUSIONS	The very high concentrations achieved in vitreous and retina after a single posterior subtenon injection may be clinically useful for adjunctive treatment of advanced intraocular retinoblastoma with vitreous seeds .
+CONCLUSIONS	However , further studies are needed to assess long-term toxicity andclinical efficacy .
+

@@ -1,0 +1,14 @@
+24666767
+BACKGROUND	Early negative postoperative behavior ( e-PONB ) is common in children and manifests itself as emergence agitation ( EA ) , emergence delirium ( ED ) , and pain .
+BACKGROUND	The objective of this prospective double blind , randomized , placebo-controlled trial was to determine whether IV clonidine or IV fentanyl prior to surgery modifies e-PONB in children .
+METHODS	Ninety children scheduled for subumbilical surgery under sevoflurane anesthesia supplemented with regional anesthesia were randomized to either receive IV clonidine 2mcgkg ( -1 ) , IV fentanyl 2mcgkg ( -1 ) or placebo ( IV saline ) before surgery .
+METHODS	Primary outcome measures were the incidence of EA , ED and pain during the first hour after awakening .
+METHODS	Secondary outcome measures were side effects such as nausea and vomiting and delayed discharge from PACU .
+RESULTS	Eighty-seven children ( n = 29 per group ) completed the study .
+RESULTS	EA was present in 10 children ( six clonidine , none fentanyl , and four placebo , P = 0.04 ) whereas ED was observed in 20 children ( nine clonidine , three fentanyl , and eight placebo P = 0.13 ) .
+RESULTS	Sixteen children who received placebo had a CHIPPS score of 4 compared with nine children in fentanyl group and 18 children receiving clonidine ( P = 0.04 ) .
+RESULTS	Ten children receiving fentanyl vomited during the first postoperative day , compared with six children in placebo group and none in clonidine group ( P = 0.003 ) .
+RESULTS	Discharge from PACU was not affected .
+CONCLUSIONS	IV fentanyl before surgery but not IV clonidine modifies e-PONB in children undergoing lower abdominal surgery under general anesthesia supplemented with regional anesthesia .
+CONCLUSIONS	The use of fentanyl in this population was also associated with reduced pain scores after awakening but with significantly greater incidence of PONV .
+

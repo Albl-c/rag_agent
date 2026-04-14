@@ -1,0 +1,17 @@
+25636048
+BACKGROUND	Mild primary hyperparathyroidism ( PHPT ) is a common disease especially in middle-aged and elderly women .
+BACKGROUND	The diagnosis is frequently made incidentally and treatment strategies are widely discussed .
+OBJECTIVE	To study the effect of parathyroidectomy ( PTX ) compared with observation ( OBS ) on biochemistry , safety , bone mineral density ( BMD ) , and new fractures .
+METHODS	Prospective , randomized controlled study ( SIPH study ) , with a 5-year follow-up .
+METHODS	The study was conducted at multicenter , tertiary referral centers .
+METHODS	Of 191 randomized patients with mild PHPT , biochemical data were available for 145 patients after 5 years , with a mean age at inclusion of 62.8 years ( OBS group , 9 males ) and 62.1 years ( PTX group , 10 males ) .
+METHODS	Parathyroidectomy vs observation .
+METHODS	Biochemistry , BMD , and new radiographic vertebral fractures .
+RESULTS	Serum-calcium and PTH-levels normalized after surgery and did not deteriorate by observation .
+RESULTS	BMD Z-scores were normal at inclusion in the lumbar spine ( LS ) and femoral neck ( FN ) .
+RESULTS	For LS , BMD Z-scores were stable for 5 years with observation , but decreased in FN ( P < .02 ) .
+RESULTS	After surgery , BMD Z-scores increased significantly in both compartments ( P < .02 for both ) , with a highly significant treatment effect of surgery compared to observation ( P < .001 ) .
+RESULTS	During follow-up , five new clinically unrecognized vertebral fractures were found in 5 females , all in the OBS group ( P = .058 ) .
+CONCLUSIONS	Even though new vertebral fractures occurred only in the observation group , the frequency was not significantly different from the surgery group .
+CONCLUSIONS	Longer follow-up is needed before firm conclusions can be drawn about the long-term safety of observation , as opposed to surgery .
+

@@ -1,0 +1,14 @@
+24882173
+BACKGROUND	The hippocampal volume is reduced in patients with major depression .
+BACKGROUND	Exercise leads to an increased hippocampal volume in schizophrenia and in healthy old adults .
+BACKGROUND	The effect of exercise on hippocampal volume is potentially mediated by brain derived neurotrophic factor ( BDNF ) , vascular endothelial growth factor ( VEGF ) , and insulin like growth factor 1 ( IGF-1 ) .
+BACKGROUND	The aim of this trial was to assess the effect of an aerobic exercise intervention on hippocampal volume and serum BDNF , VEGF , and IGF-1 in patients with major depression .
+METHODS	Patients were randomized to an aerobic exercise intervention ( n = 41 ) or a control condition ( n = 38 ) .
+METHODS	Both interventions consisted of three supervised sessions per week during a three months period .
+RESULTS	Post-intervention the increase in maximal oxygen uptake was 3.90 ml/kg/min ( SD 5.1 ) in the aerobic exercise group and 0.95 ml/kg/min ( SD 6.2 ) in the control group ( p = 0.03 ) .
+RESULTS	The hippocampal volume , BDNF , VEGF , or IGF-1 did not differ between the two groups .
+RESULTS	Post-hoc we found a positive association between change in hippocampal volume and verbal memory ( Rho = 0.27 ; p = 0.05 ) and change in hippocampal volume and depressive symptoms ( Rho = 0.30 ; p = 0.03 ) .
+CONCLUSIONS	Participation was low in both groups corresponding to an average participation of one session per week .
+CONCLUSIONS	Despite a significant increase in maximal oxygen uptake , a pragmatic exercise intervention did not increase hippocampal volume or resting levels of neurotrophines in out-patients with mild to moderate major depression .
+CONCLUSIONS	Trial identifier : ClinicalTrials.gov ( NCT00695552 ) .
+

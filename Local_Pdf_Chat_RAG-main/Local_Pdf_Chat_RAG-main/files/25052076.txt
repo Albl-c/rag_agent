@@ -1,0 +1,14 @@
+25052076
+OBJECTIVE	To evaluate the effect of automated tube voltage selection on radiation dose and image quality at cardiovascular CT angiography ( CTA ) .
+METHODS	We retrospectively analysed paired studies in 72 patients ( 41 male , 60.516.5 years ) , who had undergone CTA acquisitions of the heart or aorta both before and after the implementation of an automated x-ray tube voltage selection algorithm ( ATVS ) .
+METHODS	All other parameters were kept identical between the two acquisitions .
+METHODS	Subjective image quality ( IQ ) was rated and objective IQ was measured by image noise , signal-to-noise ratio ( SNR ) , contrast-to-noise ratio ( CNR ) and figure of merit ( FOM ) .
+METHODS	Image quality parameters and effective dose were compared between acquisitions .
+RESULTS	Overall subjective image quality improved with the percentage of cases scored as adequate or higher increasing from 79 % to 92 % after implementation of ATVS ( P = 0.03 ) .
+RESULTS	SNR ( 14.15.9 , 15.76.1 , P = 0.009 ) , CNR ( 11.65.3 , 13.25.6 , P = 0.011 ) , and FOM ( 19.923.3 , 43.851.1 , P < 0.001 ) were significantly higher after implementation of ATVS .
+RESULTS	Mean image noise ( 24.18.4 HU , 22.77.1 HU , P = 0.048 ) and mean effective dose ( 10.65.9 mSv , 8.85.0 mSv , P = 0.003 ) were significantly lower after implementation of ATVS .
+CONCLUSIONS	Automated tube voltage selection can operator-independently optimize cardiovascular CTA image acquisition parameters with improved image quality at reduced dose .
+CONCLUSIONS	Automatic tube voltage selection optimizes tube voltage for each individual patient .
+CONCLUSIONS	In this population , overall radiation dose decreased while image quality improved .
+CONCLUSIONS	This tool may become valuable for improving dose/quality ratio .
+

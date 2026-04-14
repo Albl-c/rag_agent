@@ -1,0 +1,15 @@
+24952836
+OBJECTIVE	For people with chronic low back pain , does Kinesio Taping , applied according to the treatment manual to create skin convolutions , reduce pain and disability more than a simple application without convolutions ?
+METHODS	Randomised trial with concealed allocation , intention-to-treat analysis and blinded assessment of some outcomes .
+METHODS	148 participants with chronic non-specific low back pain .
+METHODS	Experimental group participants received eight sessions ( over four weeks ) of Kinesio Taping applied according to the Kinesio Taping Method treatment manual ( ie , 10 to 15 % tension applied in flexion to create skin convolutions in neutral ) .
+METHODS	Control group participants received eight sessions ( over four weeks ) of Kinesio Taping with no tension , creating no convolutions .
+METHODS	The primary outcome measures were pain intensity and disability after the four-week intervention .
+METHODS	Secondary outcomes were pain intensity and disability 12 weeks after randomisation , and global perceived effect at both four and 12 weeks after randomisation .
+RESULTS	Applying Kinesio Tape to create convolutions in the skin did not significantly change its effect on pain ( MD-0 .4 points , 95 % CI-1 .3 to 0.4 ) or disability ( MD-0 .3 points , 95 % CI-1 .9 to 1.3 ) at four weeks .
+RESULTS	There was a small difference in favour of the experimental group for the secondary outcome of global perceived effect ( MD 1.4 points , 95 % CI 0.3 to 2.5 ) at four weeks .
+RESULTS	No significant between-group differences were observed for the other secondary outcomes .
+CONCLUSIONS	Kinesio Taping applied with stretch to generate convolutions in the skin was no more effective than simple application of the tape without tension for the outcomes measured .
+CONCLUSIONS	These results challenge the proposed mechanism of action of this therapy .
+BACKGROUND	Brazilian Registry of Clinical Trials , RBR-7ggfkv .
+

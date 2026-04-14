@@ -1,0 +1,12 @@
+25658223
+OBJECTIVE	To assess the impact of passive and active promotional strategies on patient acceptance of medication therapy management ( MTM ) services , and to identify reasons for patient acceptance or refusal .
+METHODS	Four promotional approaches were developed to offer MTM services to eligible patients , including letters and bag stuffers ( `` passive '' approaches ) , and face-to-face offers and telephone calls ( `` active '' approaches ) .
+METHODS	Thirty pharmacies in a grocery store chain were randomized to one of the four approaches .
+METHODS	Patient acceptance rates were compared among the four groups , and between active and passive approaches using hierarchical logistic regression techniques .
+METHODS	Depending on their decision to accept or decline the service , patients were invited to take part in one of two brief telephone surveys .
+RESULTS	No significant differences were identified among the four promotional methods or between active and passive methods in the analyses .
+RESULTS	Patients ' most frequent reasons for accepting MTM services were potential cost savings , review of how the medications were working , the expert opinion of the pharmacist , and education about medications .
+RESULTS	Patients ' most frequent reasons for declining MTM services were that the participant already felt comfortable with their medications and felt their pharmacist provides these services on a regular basis .
+CONCLUSIONS	No significant difference was found among any of the four groups or between active or passive approaches .
+CONCLUSIONS	Further research is warranted to identify strategies for improving patient engagement in MTM services .
+

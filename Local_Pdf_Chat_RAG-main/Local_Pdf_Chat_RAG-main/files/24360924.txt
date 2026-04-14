@@ -1,0 +1,14 @@
+24360924
+OBJECTIVE	Farm youth continue to experience high rates of injury and deaths as a result of agricultural activities .
+OBJECTIVE	Farm machinery , especially tractors , is the most common cause of casualties to youth .
+OBJECTIVE	A Roll-Over Protection Structure ( ROPS ) along with a fastened seatbelt can prevent almost all injuries and fatalities from tractor overturns .
+OBJECTIVE	Despite this knowledge , the use of seatbelts by farmers on ROPS tractors remains low .
+OBJECTIVE	This study treats farm safety as a family issue and builds on the central role of parents as teachers and role models of farm safety for youth .
+METHODS	This research study used a longitudinal , repeated-measures , randomized-control design in which youth 10-19years of age were randomly assigned to either of two intervention groups ( parent-led group and staff-led group ) or the control group .
+RESULTS	Fathers in the parent-led group were less likely to operate ROPS tractors without a seatbelt compared with other groups .
+RESULTS	They were more likely to have communicated with youth about the importance of wearing seatbelts on ROPS tractors .
+RESULTS	Consequently , youth in the parent-led group were less likely to operate a ROPS tractor without a seatbelt than the control group at post-test .
+CONCLUSIONS	This randomized control trial supports the effectiveness of a home-based , father-led farm safety intervention as a promising strategy for reducing youth as well as father-unsafe behaviors ( related to tractor seatbelts ) on the farm .
+CONCLUSIONS	This intervention appealed to fathers ' strong motivation to practice tractor safety for the sake of their youth .
+CONCLUSIONS	Involving fathers helped change both father as well as youth unsafe tractor-seatbelt behaviors .
+

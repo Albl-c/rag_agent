@@ -1,0 +1,17 @@
+25662415
+BACKGROUND	Most patients with hip fractures are characterised by older age ( > 70 years ) , frailty , and functional deterioration , and their long-term outcomes are poor with increased costs .
+BACKGROUND	We compared the effectiveness and cost-effectiveness of giving these patients comprehensive geriatric care in a dedicated geriatric ward versus the usual orthopaedic care .
+METHODS	We did a prospective , single-centre , randomised , parallel-group , controlled trial .
+METHODS	Between April 18 , 2008 , and Dec 30 , 2010 , we randomly assigned home-dwelling patients with hip-fractures aged 70 years or older who were able to walk 10 m before their fracture , to either comprehensive geriatric care or orthopaedic care in the emergency department , to achieve the required sample of 400 patients .
+METHODS	Randomisation was achieved via a web-based , computer-generated , block method with unknown block sizes .
+METHODS	The primary outcome , analysed by intention to treat , was mobility measured with the Short Physical Performance Battery ( SPPB ) 4 months after surgery for the fracture .
+METHODS	The type of treatment was not concealed from the patients or staff delivering the care , and assessors were only partly masked to the treatment during follow-up .
+METHODS	This trial is registered with ClinicalTrials.gov , number NCT00667914 .
+RESULTS	We assessed 1077 patients for eligibility , and excluded 680 , mainly for not meeting the inclusion criteria such as living in a nursing home or being aged less than 70 years .
+RESULTS	Of the remaining patients , we randomly assigned 198 to comprehensive geriatric care and 199 to orthopaedic care .
+RESULTS	At 4 months , 174 patients remained in the comprehensive geriatric care group and 170 in the orthopaedic care group ; the main reason for dropout was death .
+RESULTS	Mean SPPB scores at 4 months were 512 ( SE 020 ) for comprehensive geriatric care and 438 ( SE 020 ) for orthopaedic care ( between-group difference 074 , 95 % CI 018-130 , p = 0010 ) .
+CONCLUSIONS	Immediate admission of patients aged 70 years or more with a hip fracture to comprehensive geriatric care in a dedicated ward improved mobility at 4 months , compared with the usual orthopaedic care .
+CONCLUSIONS	The results suggest that the treatment of older patients with hip fractures should be organised as orthogeriatric care .
+BACKGROUND	Norwegian Research Council , Central Norway Regional Health Authority , St Olav Hospital Trust and Fund for Research and Innovation , Liaison Committee between Central Norway Regional Health Authority and the Norwegian University of Science and Technology , the Department of Neuroscience at the Norwegian University of Science and Technology , Foundation for Scientific and Industrial Research at the Norwegian Institute of Technology ( SINTEF ) , and the Municipality of Trondheim .
+

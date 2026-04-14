@@ -1,0 +1,12 @@
+24286966
+OBJECTIVE	This study examined the relationships between treatment fidelity and treatment outcomes in a community-based trial of a 12-Step Facilitation ( TSF ) intervention .
+METHODS	In a prior multi-site randomized clinical trial , 234 participants in 10 outpatient drug treatment clinics were assigned to receive the Stimulant Abuser Groups to Engage in 12-Step ( STAGE-12 ) intervention .
+METHODS	A secondary analysis reviewed and coded all STAGE-12 sessions for fidelity to the protocol , using the Twelve Step Facilitation Adherence Competence Empathy Scale ( TSF ACES ) .
+METHODS	Linear mixed-effects models tested the relationship between three fidelity measures ( adherence , competence , empathy ) and six treatment outcomes ( number of days of drug use and five Addiction Severity Index ( ASI ) composite scores ) measured at 3 months post-baseline .
+RESULTS	Adherence , competence and empathy were robustly associated with improved employment status at follow up .
+RESULTS	Empathy was inversely associated with drug use , as was competence in a non-significant trend ( p = .06 ) .
+RESULTS	Testing individual ASI drug composite score items suggested that greater competence was associated with fewer days of drug use and , at the same time , with an increased sense of being troubled or bothered by drug use .
+CONCLUSIONS	Greater competence and empathy in the delivery of a TSF intervention were associated with better drug use and employment outcomes , while adherence was associated with employment outcomes only .
+CONCLUSIONS	Higher therapist competence was associated with lower self-report drug use , and also associated with greater self-report concern about drug use .
+CONCLUSIONS	The nature of TSF intervention may promote high levels of concern about drug use even when actual use is low .
+

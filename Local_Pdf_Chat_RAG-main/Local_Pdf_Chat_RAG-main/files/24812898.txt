@@ -1,0 +1,15 @@
+24812898
+OBJECTIVE	To observe the efficacy of integrative medical sequential method in treating cerebral palsy ( CP ) children 's intelligence development , muscular tension , serum interleukin 6 ( IL-6 ) , and tumor necrosis factor alpha ( TNF-alpha ) .
+METHODS	Totally 111 CP children were randomly assigned to the control group ( 50 cases ) and the treatment group ( 61 cases ) .
+METHODS	All patients received comprehensive rehabilitation training and intravenous dripping of Monosialotetrahexosylganglioside Sodium Injection for 10 days .
+METHODS	But those in the treatment group additionally received Chinese medical enema for brain resuscitation , relieving rigidity of muscles and activating collaterals for 14 days .
+METHODS	Then they started another medication cycle and lasted for a total of 6 cycles .
+METHODS	Serum IL-6 levels and TNF-alpha contents were determined before treatment .
+METHODS	Scoring for muscular tension , Gesell score for intelligence development , contents of serum IL-6 and TNF-alpha were assessed before and after treatment in the two groups .
+RESULTS	Compared with before treatment in this group , muscular tension , Gesell scores for intelligence development all decreased in the two groups ( P < 0.05 ) .
+RESULTS	As for inter-group comparison , the decrement was more obvious in the treatment group than in the control group ( P < 0.05 ) .
+RESULTS	The total effective rate was 86.9 % in the treatment group and 76.0 % in the control group ( P < 0.05 ) .
+RESULTS	The contents of IL-6 and TNF-alpha were obviously reduced in the treatment group and the control group after treatment ( P < 0.01 ) .
+RESULTS	The decrement was more obvious in the treatment group ( P < 0.05 ) .
+CONCLUSIONS	The two treatment methods were effective for CP children , but the efficacy was superior in the treatment group than in the control group , indicating integrative medical methods could play a synergistic effect and optimize the treatment program for CP .
+

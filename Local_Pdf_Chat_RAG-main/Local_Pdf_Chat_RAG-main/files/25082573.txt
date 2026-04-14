@@ -1,0 +1,19 @@
+25082573
+BACKGROUND	The results of SYNTAX trial have been reported based on `` corelab '' calculated SS ( cSS ) .
+BACKGROUND	It has been shown that reproducibility of SS is better among the core laboratory technicians than interventional cardiologists .
+BACKGROUND	Thus , the prognostic value and clinical implication of the `` site '' SYNTAX SS ( sSS ) remain unknown .
+OBJECTIVE	The study sought to evaluate the prognostic value and clinical implication of the sSS after percutaneous coronary intervention ( PCI ) or coronary artery bypass graft ( CABG ) surgery in the randomized SYNTAX trial .
+METHODS	The sSS was calculated by the site investigators before randomization in the SYNTAX trial .
+METHODS	New tertiles based on the sSS were defined with low ( 0 to 19 ) , intermediate ( 20 to 27 ) , and high ( 28 ) scores .
+METHODS	The clinical endpoints were compared between PCI and CABG by Kaplan-Meier estimates , log-rank comparison , and Cox regression analyses using the new tertiles .
+METHODS	The sSS-based SS II was calculated and its predictive performance was evaluated .
+RESULTS	The mean difference in cSS and sSS is 3.8 11.2 , with a mean absolute difference of 8.9 7.8 .
+RESULTS	In the overall cohort , using sSS there was a higher incidence of major adverse cardiac and cerebrovascular events ( MACCE ) at 5-year follow-up in the PCI group for low ( 31.9 % vs. 24.5 % ; p = 0.054 ) , intermediate ( 39.5 % vs. 29.5 % ; p = 0.019 ) , and high ( 43.0 % vs. 31.4 % ; p = 0.003 ) tertiles , compared with the CABG group .
+RESULTS	Similarly , in the 3-vessel disease subgroup , 5-year MACCE rates were higher in PCI group in all tertiles .
+RESULTS	Conversely , in the left main subgroup , MACCE rates were similar for PCI and CABG groups in all tertiles .
+RESULTS	The sSS-based SS II ( c-index : 0.736 ) had predictive performance similar to the cSS-based SS II ( c-index : 0.744 ) , with net reclassification index of -0.0062 ( p = 0.79 ) .
+CONCLUSIONS	Appropriate training and unbiased assessment are needed when using SS in clinical decision making .
+CONCLUSIONS	sSS and tertiles based on sSS showed poor discrimination among low , intermediate , and high-risk groups .
+CONCLUSIONS	However , combining clinical factors with sSS retained the predictive performance of SS II .
+CONCLUSIONS	( SYNTAX Study : TAXUS Drug-Eluting Stent Versus Coronary Artery Bypass Surgery for the Treatment of Narrowed Arteries ; NCT00114972 ) .
+

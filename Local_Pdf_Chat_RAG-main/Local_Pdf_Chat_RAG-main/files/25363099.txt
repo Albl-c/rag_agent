@@ -1,0 +1,18 @@
+25363099
+OBJECTIVE	The premenstrual syndrome ( PMS ) is a series of physical , mental , and behavioral symptoms with various severities , and disturbs social and personal relationships .
+OBJECTIVE	The syndrome appears during luteal phase of the menstrual cycle and is a common disorder of reproductive age .
+OBJECTIVE	Different treatments have been introduced for the syndrome due to its unknown complicated causes .
+OBJECTIVE	Vitamin B1 ( Thiamin ) may reduce symptoms of the syndrome through affecting the performance of coenzymes in the metabolism of carbohydrates and main branch of amino acid that plays an important role in appearance of physical and mental symptoms of the PMS .
+OBJECTIVE	Vitamin B1 is the first water-soluble discovered vitamin .
+OBJECTIVE	As it is effective in neural activity and muscle tonus in different body activities , including hematopoiesis , metabolism of carbohydrates , activities of the central nervous system and neuromuscular system , etc. , it can be effective in this dysmenorrhea that is a disorder resulting from uterine muscular contraction .
+OBJECTIVE	There are no enough studies and research on the effect of vitamin B1 on the symptoms of PMS , therefore , this study was conducted to determine the effect of vitamin B1 on the symptoms of PMS in students residing at dormitories of Jahrom University of Medical Sciences in 2013 .
+METHODS	In this double-blind placebo-controlled clinical trial , 80 students with PMS residing at dormitories of Jahrom University of Medical Sciences were divided randomly into two groups , vitamin B1 and placebo .
+METHODS	The severity of the symptoms of PMS in two cycles , before the intervention and during the intervention , was recorded by the students .
+METHODS	The data were collected using an information collection form , PMS provisional diagnosis form , daily status record form , Beck Depression Inventory .
+METHODS	The data were analyzed using descriptive and inferential statistics .
+RESULTS	There was no significant difference among the studied variables in terms of confounding variables .
+RESULTS	The comparison of vitamin B1 group before the intervention with that after the intervention showed that vitamin B1 reduced mean mental ( 35.08 % ) and physical ( 21.2 % ) symptoms significantly ( P < 0.0001 ) .
+RESULTS	Moreover , there was a significant difference between vitamin B1 and placebo groups in terms of mean mental and physical symptoms , as mean symptoms in vitamin B1 group was significantly lower than that in the placebo group ( P < 0.0001 ) .
+CONCLUSIONS	It seems that vitamin B1 is effective in recovery of mental and physical symptoms of PMS .
+CONCLUSIONS	Therefore , this vitamin can be used to reach a major goal of midwifery , that is , reduction of symptom severity of PMS , without any side effects .
+

@@ -1,0 +1,14 @@
+24444862
+OBJECTIVE	Cognitive deficits that characterize schizophrenia are present in the prodrome , worsen with illness onset , and predict functional outcome .
+OBJECTIVE	Cognitive dysfunction is thus a critical target for early intervention in young individuals with recent onset schizophrenia .
+METHODS	This 2-site double-blind randomized controlled trial investigated cognitive training of auditory processing/verbal learning in 86 subjects with recent onset schizophrenia ( mean age of 21 years ) .
+METHODS	Subjects were given laptop computers to take home and were asked to perform 40 hours of training or 40 hours of commercial computer games over 8 weeks .
+METHODS	We examined cognitive measures recommended by the Measurement and Treatment Research to Improve Cognition in Schizophrenia initiative ( MATRICS ) , symptoms , and functioning .
+METHODS	We also assessed baseline reward anticipation to index motivational system functioning and measured changes in auditory processing speed after 20 hours of training to assess target engagement .
+RESULTS	Auditory training subjects demonstrated significant improvements in global cognition , verbal memory , and problem solving compared with those of computer games control subjects .
+RESULTS	Both groups showed a slight but significant decrease in symptoms and no change in functional outcome measures .
+RESULTS	Training-induced cognitive gains at posttraining showed significant associations with reward anticipation at baseline and with improvement in auditory processing speed at 20 hours .
+CONCLUSIONS	Neuroscience-informed cognitive training via laptop computer represents a promising treatment approach for cognitive dysfunction in early schizophrenia .
+CONCLUSIONS	An individual 's baseline motivational system functioning ( reward anticipation ) , and ability to engage in auditory processing speed improvement , may represent important predictors of treatment outcome .
+CONCLUSIONS	Future studies must investigate whether cognitive training improves functioning and how best to integrate it into critical psychosocial interventions .
+

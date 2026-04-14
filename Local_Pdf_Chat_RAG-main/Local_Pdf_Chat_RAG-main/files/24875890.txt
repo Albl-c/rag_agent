@@ -1,0 +1,14 @@
+24875890
+OBJECTIVE	To determine the effects of dexmedetomidine premedication on the minimum alveolar concentration of sevoflurane for tracheal intubation ( MACTI ) in children .
+METHODS	Prospective , randomized , clinical comparison study .
+METHODS	Operating room of an academic hospital .
+METHODS	90 pediatric , ASA physical status 1 patients , aged 3 to 7 years , scheduled for minor elective surgery .
+METHODS	Patients were randomized to three groups to receive placebo , dexmedetomidine 1 g/kg , or dexmedetomidine 2 g/kg approximately 60 minutes before anesthesia .
+METHODS	Anesthesia was induced with sevoflurane .
+METHODS	Each concentration of sevoflurane for which a tracheal intubation was attempted was predetermined according to modification of the Dixon 's up-and-down method , with 0.25 % as a step size and held constant for at least 15 minutes before tracheal intubation .
+METHODS	All responses ( `` movement '' or `` no movement '' ) to tracheal intubation were assessed .
+RESULTS	The MACTI of sevoflurane was 2.82 % 0.17 % in the control group , 2.26 % 0.18 % in the 1 g/kg dexmedetomidine group , and 1.83 % 0.16 % in the 2 g/kg dexmedetomidine group .
+RESULTS	Dexmedetomidine premedication ( 1 and 2 g/kg ) decreased the MACTI of sevoflurane by 20 % and 35 % , respectively .
+RESULTS	There were no clinically significant episodes of hypotension or bradycardia in any patients .
+CONCLUSIONS	Intranasal dexmedetomidine premedication produces a dose-dependent decrease in the concentration of sevoflurane needed for tracheal intubation in children .
+

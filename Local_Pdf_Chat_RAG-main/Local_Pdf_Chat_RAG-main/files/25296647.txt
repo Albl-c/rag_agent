@@ -1,0 +1,15 @@
+25296647
+OBJECTIVE	In this paper , we describe a trial protocol used to assess feasibility related to : study administration ( recruitment , randomization , retention , compliance , eligibility criteria , suitability of protocol instructions and data collection questionnaires ) ; resource and data management ( suitability of site , time and budget allocation , management of personnel and data ) ; intervention fidelity ( treatment dose , violations ) ; and effect size .
+BACKGROUND	Pressure injury can lead to increases in hospital length of stay and cost .
+BACKGROUND	The sacrum is identified as one of the most common anatomical pressure injury sites for hospitalized patients .
+BACKGROUND	Silicone foam border dressings have been proposed as one strategy to reduce pressure injury incidence ; however , rigorous testing of benefit in a general medical-surgical population is required .
+METHODS	Randomized controlled trial .
+METHODS	Eighty patients will be recruited after assessment of high risk of pressure injury in a large tertiary hospital in south-east Queensland , Australia .
+METHODS	Eligible , consenting participants will be randomly allocated to either a control group ( routine care ) or an intervention group ( routine care and a sacral prophylactic dressing ) .
+METHODS	The primary outcomes comprise feasibility criteria as identified above .
+METHODS	The secondary measure is the presence and severity of sacral pressure injury via blind assessment of digital photographs .
+METHODS	Research ethics approval was received in October 2013 .
+CONCLUSIONS	Prophylactic dressings applied to the sacrum may be an effective method for reducing pressure injury in high-risk general medical-surgical patients .
+CONCLUSIONS	However , more rigorous studies to confirm benefit are required .
+CONCLUSIONS	This pilot study will determine the feasibility and effect size to inform a larger randomized controlled trial .
+

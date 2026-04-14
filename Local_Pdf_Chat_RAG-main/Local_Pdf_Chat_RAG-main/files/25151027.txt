@@ -1,0 +1,12 @@
+25151027
+OBJECTIVE	To evaluate the role of post-surgical medical treatment with GnRHa in patients with DIE ( Deep Infiltrating Endometriosis ) that received complete or incomplete surgery laparoscopic excision .
+METHODS	Hundred fifty-nine patients with deep infiltrating endometriosis of the cul-de-sac and of the rectovaginal septum with pelvic pain undergoing laparoscopic surgery in academic tertiary-care medical center .
+METHODS	Eighty patients underwent complete laparoscopic excision of DIE ( Arm A ) while 79 patients underwent incomplete surgery ( Arm B ) .
+METHODS	After surgery each surgical arm was randomized in two groups : no treatment groups 1A [ 40 pts ] and 1B [ 40 pts ] and GnRHa treatment for 6 months groups 2A [ 40 pts ] and 2B [ 39 pts ] .
+METHODS	Pain recurrence and quality of life were evaluated in follow-up of 12 months and compared between groups .
+RESULTS	No differences were observed between patient groups 1A and 2A .
+RESULTS	Groups 1A , 2A and 2B obtained significantly lower pain scores than those achieved by the group 1B undergoing incomplete surgical treatment and no post-surgical therapy .
+RESULTS	At 1-year follow-up patients treated with en-block resection ( Groups 1A and 2A ) showed the lowest pain scores and the highest quality of life in comparison with the other two groups ( Group 1B and 2B ) .
+CONCLUSIONS	GnRHa administration is followed by a temporary improvement of pain in patients with incomplete surgical treatment .
+CONCLUSIONS	It seems that it has no role on post-surgical pain when the surgeon is able to completely excise DIE implants .
+

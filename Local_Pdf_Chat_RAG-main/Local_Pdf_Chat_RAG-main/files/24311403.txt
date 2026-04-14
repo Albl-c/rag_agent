@@ -1,0 +1,19 @@
+24311403
+BACKGROUND	Catecholamines and inflammatory mediators , with elevated levels after brain death , are associated with reduced function and survival of transplanted organs .
+BACKGROUND	Enteral nutrition reduces tissue damage and may benefit organs .
+OBJECTIVE	To evaluate the effects of immunomodulating enteral nutrition in organ donors .
+METHODS	Prospective , randomized , open-label study .
+METHODS	Intensive care unit .
+METHODS	Thirty-six brain-dead organ donors .
+METHODS	Donors were randomized to receive enteral nutrition containing omega-3 polyunsaturated fatty acid , antioxidants , and glutamine or standard care ( fasting ) .
+METHODS	Donors received hormonal replacement therapy of corticosteroid , levothyroxine , dextrose , and insulin .
+METHODS	Gastrointestinal assimilation ( measured by 13 carbon-labeled uracil breath analysis ) , quantity of organs recovered , resting energy expenditure , urine level of urea nitrogen , and serum levels of albumin , prealbumin , interleukin 6 , tumor necrosis factor - , and C-reactive protein were evaluated .
+RESULTS	Thirteen patients ( 36 % ) assimilated 13C-labeled uracil .
+RESULTS	Resting energy expenditure was significantly higher than predicted between 10 and 14 hours after baseline in 33 donors ( P = .007 ) .
+RESULTS	Other measures were not conclusively different between fed and fasting groups .
+RESULTS	No adverse events occurred that were related to the enteral feeding .
+CONCLUSIONS	About 30 % of donors metabolized 13C-labeled uracil , although no difference in oxidation rate was found between fasting and fed donors .
+CONCLUSIONS	Corticosteroid administration lowers plasma levels of interleukin 6 and most likely contributes to greater than predicted resting energy expenditure .
+CONCLUSIONS	Thus energy needs may not be met during fasting if hormones are given .
+CONCLUSIONS	Consequences of this possible energy deficit warrant further study .
+

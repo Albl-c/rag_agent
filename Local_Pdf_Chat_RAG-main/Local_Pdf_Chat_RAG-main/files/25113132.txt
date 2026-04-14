@@ -1,0 +1,15 @@
+25113132
+BACKGROUND	Hepatitis C virus ( HCV ) infection is common among prisoners , particularly those with a history of injecting drug use ( IDU ) .
+BACKGROUND	Incarcerated people who inject drugs frequently report high-risk injecting practices both in prison and in the community .
+BACKGROUND	In spite of rising morbidity and mortality , utilisation of HCV-related services in Australia has been persistently low .
+BACKGROUND	This study aimed to describe the incidence , prevalence and correlates of HCV seropositivity in a large cohort of prisoners who have injected drugs , and to identify correlates of receiving confirmation of active infection .
+METHODS	Data-linkage to a State-wide statutory notifiable diseases surveillance system was used to investigate the incidence of notified HCV seropositivity , seroconversion and confirmed HCV infection in a cohort of 735 prisoners with a history of IDU , over 14 years of follow up .
+METHODS	Hepatitis C test results from prison medical records were used to identify correlates of testing positive in prison .
+RESULTS	The crude incidence of HCV notification was 5.1 cases per 100 person-years .
+RESULTS	By the end of follow up , 55.1 % of the cohort had been the subject of a HCV-related notification , and 47.4 % of those tested in prison were HCV seropositive .
+RESULTS	In multivariable analyses , injecting in prison was strongly associated with HCV seropositivity , as was opioid use compared to injection of other drugs .
+RESULTS	The rate of reported diagnostic confirmation among those with notified infections was very low , at 6.6 confirmations per 100 seropositive participants per year .
+CONCLUSIONS	Injecting drugs in prison was strongly associated with HCV seropositivity , highlighting the need for increased provision of services to mitigate the risk of transmission within prisons .
+CONCLUSIONS	Once identified as seropositive through screening , people with a history of IDU and incarceration may not be promptly receiving diagnostic services , which are necessary if they are to access treatment .
+CONCLUSIONS	Improving access to HCV-related services will be of particular importance in the coming years , as HCV-related morbidity and mortality is increasing , and next generation therapies are becoming more widely available .
+

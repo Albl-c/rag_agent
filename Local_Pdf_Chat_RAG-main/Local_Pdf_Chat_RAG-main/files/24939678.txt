@@ -1,0 +1,12 @@
+24939678
+OBJECTIVE	The aim of this study was to assess the usefulness of colour duplex sonography ( CDS ) - guided temporal artery biopsy ( TAB ) for the diagnosis of GCA in patients with suspected GCA .
+METHODS	From September 2009 through December 2012 , 112 consecutive patients with suspected GCA were randomized to undergo CDS-guided TAB or standard TAB .
+METHODS	All patients underwent temporal artery physical examination and temporal artery CDS prior to TAB .
+METHODS	CDS of the temporal artery was performed by the same ultrasonographer , who was unaware of the patient 's clinical data , and all TABs were evaluated by the same pathologist .
+METHODS	Seven patients in whom biopsy failed to sample temporal artery tissue were excluded from the analysis .
+RESULTS	Fifty patients were randomized to undergo CDS-guided TAB and 55 patients to standard TAB .
+RESULTS	Except for a younger age in patients who underwent standard TAB ( P = 0.026 ) , no significant differences were observed between the two groups .
+RESULTS	There were no significant differences in the frequencies of positive TAB for classic transmural inflammation ( 28 % vs 18.2 % ) or for periadventitial small vessel vasculitis and/or vasa vasorum vasculitis ( 6 % vs 14.5 % ) between the two groups .
+RESULTS	No significant differences in the frequency of positive TAB in the two groups were observed when we excluded the patients treated with glucocorticoids and when we stratified the patients of the two groups for the presence or absence of the halo sign .
+CONCLUSIONS	Our study showed that CDS-guided TAB did not improve the sensitivity of TAB for diagnosing GCA .
+

@@ -1,0 +1,14 @@
+24288395
+BACKGROUND	Vascular calcification is a potent predictor of plaque instability and cardiac events .
+BACKGROUND	Osteoprotegerin ( OPG ) , well-known vascular calcification mediator , is a signaling molecule involved in bone remodeling , which has been implicated in the regulation of vascular calcification and atherogenesis .
+BACKGROUND	The purpose of this study was to compare the combination treatments of olmesartan/azelnidipine and olmesartan/diuretics on serum bone-related markers in patients with essential hypertension .
+RESULTS	A total of 48 patients with hypertension treated with 20 mg olmesartan were randomized to receive combination treatment with 16 mg azelnidipine ( O/A group ) or diuretics ( 1 mg indapamide ; O/D group ) for 12 months .
+RESULTS	Osteoprotegerin , matrix metalloproteinase 2 ( MMP-2 ) , and high-sensitive CRP ( hs-CRP ) were measured after 3 and 12 months of treatment .
+RESULTS	Cardio-ankle vascular index ( CAVI ) was measured as the arterial stiffness using a VaSera CAVI instrument at the same time points .
+RESULTS	In both groups , the systolic and diastolic blood pressure reduction is similar .
+RESULTS	Serum OPG , MMP-2 , and hs-CRP were significantly decreased at 12 months in the O/A group ( P < .05 ) , while there were no significant reductions in the O/D group .
+RESULTS	CAVI was significantly improved at 12 months in both the treatment groups .
+RESULTS	The improvement in CAVI was significantly greater in the O/A group than in the O/D group .
+CONCLUSIONS	Azelnidipine , but not indapamide , combined with olmesartan , improved arterial stiffness and were associated with significant decrease in OPG , MMP-2 , and hs-CRP concentrations .
+CONCLUSIONS	These results suggest that the beneficial effects of the combination treatments of olmesartan/azelnidipine on arterial stiffness are mediated by alteration in bone-remodeling and inflammatory markers .
+

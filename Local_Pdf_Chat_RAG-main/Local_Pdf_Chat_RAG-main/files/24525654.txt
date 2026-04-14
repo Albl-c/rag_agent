@@ -1,0 +1,15 @@
+24525654
+BACKGROUND	Cocaine dependence is a major public health problem with no available robustly effective pharmacotherapy .
+BACKGROUND	This study 's aim was to determine if treatment with sertraline ( SERT ) or SERT plus gabapentin ( GBP ) improved treatment retention , depressive symptoms , and/or cocaine use .
+METHODS	Depressed cocaine-dependent patients ( N = 99 ) were enrolled in a 12-week , double-blind , randomized , placebo ( PLA ) - controlled , clinical trial and placed in research beds at a residential treatment facility ( Recovery Centers of Arkansas ) .
+METHODS	They were randomized by depressive symptom severity and inducted onto 1 of the following while residing at the Recovery Centers of Arkansas : SERT ( 200 mg/d ) , SERT ( 200 mg/d ) plus GBP ( 1200 mg/d ) , or PLA .
+METHODS	Participants transferred to outpatient treatment at the start of their third week , continued receiving study medications or PLA ( weeks 3-12 ) , and participated in weekly individual cognitive behavioral therapy .
+METHODS	Compliance was facilitated through the use of contingency management procedures .
+METHODS	Supervised urine samples were obtained thrice weekly and self-reported mood weekly .
+METHODS	At the end of 12 weeks , participants were tapered off the study medication over 5 days and referred to a local treatment program .
+RESULTS	Sertraline , but not SERT plus GBP , showed a significantly lower overall percentage of cocaine-positive urine samples compared with that of PLA .
+RESULTS	A significantly greater percentage of participants experienced relapse in the PLA group ( 88.9 % ) compared with that of the SERT group ( 65.2 % ) .
+RESULTS	Hamilton depression ratings decreased significantly over time regardless of the treatment group .
+RESULTS	Retention in treatment did not differ significantly between the treatment groups .
+CONCLUSIONS	Sertraline plus GBP may not be superior to SERT alone in delaying relapse among abstinent cocaine-dependent individuals undergoing cognitive behavioral therapy .
+

@@ -1,0 +1,22 @@
+25175097
+BACKGROUND	The management of depression in patients with poor prognosis cancers , such as lung cancer , creates specific challenges .
+BACKGROUND	We aimed to assess the efficacy of an integrated treatment programme for major depression in patients with lung cancer compared with usual care .
+METHODS	Symptom Management Research Trials ( SMaRT ) Oncology-3 is a parallel-group , multicentre , randomised controlled trial .
+METHODS	We enrolled patients with lung cancer and major depression from three cancer centres and their associated clinics in Scotland , UK .
+METHODS	Participants were randomly assigned in a 1:1 ratio to the depression care for people with lung cancer treatment programme or usual care by a database software algorithm that used stratification ( by trial centre ) and minimisation ( by age , sex , and cancer type ) with allocation concealment .
+METHODS	Depression care for people with lung cancer is a manualised , multicomponent collaborative care treatment that is systematically delivered by a team of cancer nurses and psychiatrists in collaboration with primary care physicians .
+METHODS	Usual care is provided by primary care physicians .
+METHODS	The primary outcome was depression severity ( on the Symptom Checklist Depression Scale [ SCL-20 ] , range 0-4 ) averaged over the patient 's time in the trial ( up to a maximum of 32 weeks ) .
+METHODS	Trial statisticians and data collection staff were masked to treatment allocation , but patients and clinicians could not be masked to the allocations .
+METHODS	Analyses were by intention to treat .
+METHODS	This trial is registered with Current Controlled Trials , number ISRCTN75905964 .
+RESULTS	142 participants were recruited between Jan 5 , 2009 , and Sept 9 , 2011 ; 68 were randomly allocated to depression care for people with lung cancer and 74 to usual care .
+RESULTS	43 ( 30 % ) of 142 patients had died by 32 weeks , all of which were cancer-related deaths .
+RESULTS	No intervention-related serious adverse events occurred .
+RESULTS	131 ( 92 % ) of 142 patients provided outcome data ( 59 in the depression care for people with lung cancer group and 72 in the usual care group ) and were included in the intention-to-treat primary analysis .
+RESULTS	Average depression severity was significantly lower in patients allocated to depression care for people with lung cancer ( mean score on the SCL-20 124 [ SD 064 ] ) than in those allocated to usual care ( mean score 161 [ SD 058 ] ) ; difference -038 ( 95 % CI -058 to -018 ) ; standardised mean difference -062 ( 95 % CI -094 to -029 ) .
+RESULTS	Self-rated depression improvement , anxiety , quality of life , role functioning , perceived quality of care , and proportion of patients achieving a 12-week treatment response were also significantly better in the depression care for people with lung cancer group than in the usual care group .
+CONCLUSIONS	Our findings suggest that major depression can be treated effectively in patients with a poor prognosis cancer ; integrated depression care for people with lung cancer was substantially more efficacious than was usual care .
+CONCLUSIONS	Larger trials are now needed to estimate the effectiveness and cost-effectiveness of this care programme in this patient population , and further adaptation of the treatment will be necessary to address the unmet needs of patients with major depression and even shorter life expectancy .
+BACKGROUND	Cancer Research UK and Chief Scientist Office of the Scottish Government .
+

@@ -1,0 +1,12 @@
+24912901
+OBJECTIVE	The aim of this study was to identify the effects of a communication skills training ( CST ) program for oncologists , developed based on patient preferences regarding oncologists ' communication .
+METHODS	Thirty oncologists were randomly assigned to either an intervention group ( IG ; 2-day CST workshop ) or control group ( CG ) .
+METHODS	Participants were assessed on their communication performance during simulated consultation and their confidence in communicating with patients at baseline and follow-up .
+METHODS	A total of 1,192 patients ( response rate , 84.6 % ) who had consultations with the participating oncologists at baseline and/or follow-up were assessed regarding their distress using the Hospital Anxiety and Depression Scale , satisfaction with the consultation , and trust in their oncologist after the consultation .
+RESULTS	At the follow-up survey , the performance scores of the IG had improved significantly , in terms of their emotional support ( P = .011 ) , setting up a supportive environment ( P = .002 ) , and ability to deliver information ( P = .001 ) , compared with those of the CG .
+RESULTS	Oncologists in the IG were rated higher at follow-up than those in the CG in terms of their confidence in themselves ( P = .001 ) .
+RESULTS	Patients who met with oncologists after they had undergone the CST were significantly less depressed than those who met with oncologists in the CG ( P = .027 ) .
+RESULTS	However , the CST program did not affect patient satisfaction with oncologists ' style of communication .
+CONCLUSIONS	A CST program based on patient preferences is effective for both oncologists and patients with cancer .
+CONCLUSIONS	Oncologists should consider CST as an approach to enhancing their communication skills .
+

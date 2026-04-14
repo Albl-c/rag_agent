@@ -1,0 +1,16 @@
+24913003
+BACKGROUND	Despite growing emphasis on transitional care to reduce costs and improve quality , few studies have examined transitional care improvements in socioeconomically disadvantaged adults .
+BACKGROUND	It is important to consider these patients separately as many are high-utilizers , have different needs , and may have different responses to interventions .
+OBJECTIVE	To evaluate the impact of a multicomponent transitional care improvement program on 30-day readmissions , emergency department ( ED ) use , transitional care quality , and mortality .
+METHODS	Clustered randomized controlled trial conducted at a single urban academic medical center in Portland , Oregon .
+METHODS	Three hundred eighty-two hospitalized low-income adults admitted to general medicine or cardiology who were uninsured or had public insurance .
+METHODS	Multicomponent intervention including ( 1 ) transitional nurse coaching and education , including home visits for highest risk patients ; ( 2 ) pharmacy care , including provision of 30 days of medications after discharge for those without prescription drug coverage ; ( 3 ) post-hospital primary care linkages ; ( 4 ) systems integration and continuous quality improvement .
+METHODS	Primary outcomes included 30-day inpatient readmission and ED use .
+METHODS	Readmission data were obtained using state-wide administrative data for all participants ( insured and uninsured ) .
+METHODS	Secondary outcomes included quality ( 3-item Care Transitions Measure ) and mortality .
+METHODS	Research staff administering questionnaires and assessing outcomes were blinded .
+RESULTS	There was no significant difference in 30-day readmission between C-TraIn ( 30/209 , 14.4 % ) and control patients ( 27/173 , 16.1 % ) , p = 0.644 , or in ED visits between C-TraIn ( 51/209 , 24.4 % ) and control ( 33/173 , 19.6 % ) , p = 0.271 .
+RESULTS	C-TraIn was associated with improved transitional care quality ; 47.3 % ( 71/150 ) of C-TraIn patients reported a high quality transition compared to 30.3 % ( 36/119 ) control patients , odds ratio 2.17 ( 95 % CI 1.30-3 .64 ) .
+RESULTS	Zero C-TraIn patients died in the 30-day post-discharge period compared with five in the control group ( unadjusted p = 0.02 ) .
+CONCLUSIONS	C-TraIn did not reduce 30-day inpatient readmissions or ED use ; however , it improved transitional care quality .
+

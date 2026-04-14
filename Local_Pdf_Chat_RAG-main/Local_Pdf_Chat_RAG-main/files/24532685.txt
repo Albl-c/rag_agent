@@ -1,0 +1,23 @@
+24532685
+OBJECTIVE	To evaluate the 4-year results following a randomised controlled trial ( RCT ) comparing open ( ONF ) and laparoscopic ( LNF ) Nissen fundoplication in children .
+BACKGROUND	It is assumed that long-term results of ONF and LNF are comparable .
+BACKGROUND	No randomised studies have been performed in children .
+METHODS	A follow-up study was performed in children randomised to ONF or LNF ( clinicaltrials.gov identifier NCT00259961 ) .
+METHODS	Recurrent gastro-oesophageal reflux ( GER ) was documented by upper gastrointestinal contrast study and/or 24-h pH study .
+METHODS	Nutritional status , retching and other symptoms were investigated .
+METHODS	A questionnaire was used to assess the quality of life before and after surgery .
+RESULTS	Thirty-nine children were randomised to ONF ( n = 20 ) or LNF ( n = 19 ) .
+RESULTS	There were 15 ONF and 16 LNF neurologically impaired children .
+RESULTS	One patient ( ONF group ) was lost to follow-up .
+RESULTS	Follow-up was 4.1 years ( 3.1-5 .3 ) for ONF group and 4.1 years ( 2.6-5 .1 ) for LNF group ( p = 0.9 ) .
+RESULTS	Seven neurologically impaired children had died by the time of follow-up ( 3 ONF , 4 LNF ) .
+RESULTS	Incidence of recurrent GER was 12.5 % in the ONF and 20 % in the LNF ( p = ns ) .
+RESULTS	One patient in each group underwent redo-Nissen fundoplication .
+RESULTS	Nutritional status improved in both groups , as indicated by a significant increase in weight Z-score ( p < 0.01 ) .
+RESULTS	Gas bloat and dumping syndrome were present in both groups ( p = ns ) .
+RESULTS	Incidence of retching was lower in the laparoscopic group ( p = 0.01 ) .
+RESULTS	Quality of life improved in both groups ( p = ns ) .
+CONCLUSIONS	Open and laparoscopic Nissen provide similar control of reflux and quality of life at follow-up .
+CONCLUSIONS	LNF is associated with reduced incidence of retching persisting at 4-year follow-up .
+BACKGROUND	NCT00259961 .
+

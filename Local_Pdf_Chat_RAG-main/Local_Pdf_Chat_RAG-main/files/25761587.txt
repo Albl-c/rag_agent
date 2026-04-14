@@ -1,0 +1,14 @@
+25761587
+OBJECTIVE	To evaluate the efficacy of dienogest + estradiol valerate ( E2V ) and gonadotrophin-releasing hormone analogue ( GnRH-a ) in reducing recurrence of pain in patients with chronic pelvic pain due to laparoscopically diagnosed and treated endometriosis .
+METHODS	Multi-center , prospective , randomized study .
+METHODS	Three university departments of obstetrics and gynecology in Italy .
+METHODS	Seventy-eight women who underwent laparoscopic surgery for endometriosis combined with chronic pelvic pain .
+METHODS	Post-operative administration of dienogest + E2V for 9 months ( group 1 ) or GnRH-a monthly for 6 months ( group 2 ) .
+METHODS	A visual analogue scale was used to test intensity of pain before laparoscopic surgery at 3 , 6 and 9 months of follow up .
+METHODS	A questionnaire to investigate quality of life was administered before surgery and at 9 months of follow up .
+RESULTS	The visual analogue scale score did not show any significant differences between the two groups ( p = 0.417 ) .
+RESULTS	The questionnaire showed an increase of scores for all women compared with pre-surgery values , demonstrating a marked improvement in quality of life and health-related satisfaction with both treatments .
+RESULTS	No significant differences were found between the groups .
+RESULTS	The rate of apparent endometriosis recurrence was 10.8 % in group 1 and 13.7 % in group 2 ( p = 0.962 ) .
+CONCLUSIONS	Both therapies seemed equally efficacious in preventing endometriosis-related chronic pelvic pain recurrence in the first 9 months of follow-up .
+

@@ -1,0 +1,17 @@
+26170351
+BACKGROUND	Pregabalin may reduce postoperative pain and opioid use .
+BACKGROUND	Higher doses may be more effective , but may cause sedation and confusion .
+BACKGROUND	This prospective , randomized , blinded , placebo-controlled study tested the hypothesis that pregabalin reduces pain at 2 weeks after total knee arthroplasty , but increases drowsiness and confusion .
+METHODS	Patients ( 30 per group ) received capsules containing pregabalin ( 0 , 50 , 100 , or 150 mg ) ; two capsules before surgery , one capsule twice a day until postoperative day ( POD ) 14 , one on POD15 , and one on POD16 .
+METHODS	Multimodal analgesia included femoral nerve block , epidural analgesia , oxycodone-paracetamol , and meloxicam .
+METHODS	The primary outcome was pain with flexion ( POD14 ) .
+RESULTS	Pregabalin did not reduce pain at rest , with ambulation , or with flexion at 2 weeks ( P = 0.69 , 0.23 , and 0.90 , respectively ) .
+RESULTS	Pregabalin increased POD1 drowsiness ( 34.5 , 37.9 , 55.2 , and 58.6 % in the 0 , 50 , 100 , and 150 mg arms , respectively ; P = 0.030 ) , but did not increase confusion ( 0 , 3.5 , 0 , and 3.5 % , respectively ; P = 0.75 ) .
+RESULTS	Pregabalin had no effect on acute or chronic pain , opioid consumption , or analgesic side-effects .
+RESULTS	Pregabalin reduced POD14 patient satisfaction [ 1-10 scale , median ( first quartile , third quartile ) : 9 ( 8 , 10 ) , 8 ( 7 , 10 ) , 8 ( 5 , 9 ) , and 8 ( 6 , 9.3 ) , respectively ; P = 0.023 ) .
+RESULTS	Protocol compliance was 63 % by POD14 ( 50.0 , 70.0 , 76.7 , and 56.7 % compliance , respectively ) , with no effect of dose on compliance .
+RESULTS	Per-protocol analysis of compliant patients showed no effect of pregabalin on pain scores .
+CONCLUSIONS	Pregabalin had no beneficial effects , but increased sedation and decreased patient satisfaction .
+CONCLUSIONS	This study does not support routine perioperative pregabalin for total knee arthroplasty patients .
+BACKGROUND	ClinicalTrials.gov : http://www.clinicaltrials.gov/ct2/show/study/NCT01333956 .
+

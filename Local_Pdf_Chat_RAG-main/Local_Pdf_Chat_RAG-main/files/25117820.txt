@@ -1,0 +1,12 @@
+25117820
+BACKGROUND	Bevacizumab has broad anti-tumour activity , but substantial risk of hypertension .
+BACKGROUND	No reliable markers are available for predicting bevacizumab-induced hypertension .
+METHODS	A genome-wide association study ( GWAS ) was performed in the phase III bevacizumab-based adjuvant breast cancer trial , ECOG-5103 , to evaluate for an association between genotypes and hypertension .
+METHODS	GWAS was conducted in those who had experienced systolic blood pressure ( SBP ) > 160mmHg during therapy using binary analysis and a cumulative dose model for the total exposure of bevacizumab .
+METHODS	Common toxicity criteria ( CTC ) grade 3-5 hypertension was also assessed .
+METHODS	Candidate SNP validation was performed in the randomised phase III trial , ECOG-2100 .
+RESULTS	When using the phenotype of SBP > 160mmHg , the most significant association in SV2C ( rs6453204 ) approached and met genome-wide significance in the binary model ( P = 6.0 10 ( -8 ) ; OR = 3.3 ) and in the cumulative dose model ( P = 4.7 10 ( -8 ) ; HR = 2.2 ) , respectively .
+RESULTS	Similar associations with rs6453204 were seen for CTC grade 3-5 hypertension but did not meet genome-wide significance .
+RESULTS	Validation study from ECOG-2100 demonstrated a statistically significant association between this SNP and grade 3/4 hypertension using the binary model ( P-value = 0.037 ; OR = 2.4 ) .
+CONCLUSIONS	A genetic variant in SV2C predicted clinically relevant bevacizumab-induced hypertension in two independent , randomised phase III trials .
+

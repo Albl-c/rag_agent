@@ -1,0 +1,17 @@
+25391692
+BACKGROUND	The Focused Abdominal Sonography in Trauma ( FAST ) scan is used to detect free fluid in the peritoneal cavity , or pericardium , to quickly assess for injuries needing immediate surgical intervention .
+BACKGROUND	Mass-casualty incidents ( MCIs ) are settings where paramedics must make triage decisions in minutes .
+BACKGROUND	The Simple Triage and Rapid Transport ( START ) system is used to prioritize transport .
+BACKGROUND	The FAST scan can be added to the triage of critical patients , and may aid in triage .
+METHODS	This was a single-blinded , randomized control trial .
+METHODS	Ten paramedics with field experience were trained with an ultrasound machine in the performance of the FAST scan .
+METHODS	Two weeks were allowed to pass before testing to simulate the time between training of standard procedures and their implementation .
+METHODS	On test day , five peritoneal dialysis patients with instilled dialysis fluid and five matched control patients were placed in a room in a random order where the paramedics performed FAST scans on each patient .
+METHODS	The paramedics were assessed by declaring positive or negative for each evaluation , as well as being timed for the total exercise .
+RESULTS	Of the ninety tests ( one paramedic dropped out due to family emergency ) , the paramedics had a mean accuracy of 60 % and median of 62 % ( range 40 % -80 % ) .
+RESULTS	There was a statistically significant higher false-positive rate of 59 % than false-negative rate of 41 % ( P < .01 ) .
+RESULTS	Sensitivity was 67 % with a specificity of 56 % .
+RESULTS	Average time taken was 1,218 seconds ( 121.8 seconds per patient ) with a range of 735-1 ,701 seconds and a median of 1,108 seconds .
+CONCLUSIONS	In this simulation study , paramedics had difficulty performing FAST scans with a high degree of accuracy .
+CONCLUSIONS	However , they were more apt to call a patient positive , limiting the likelihood for false-negative triage .
+

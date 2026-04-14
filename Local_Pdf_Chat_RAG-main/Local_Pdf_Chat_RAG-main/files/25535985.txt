@@ -1,0 +1,12 @@
+25535985
+OBJECTIVE	This prospective long-term follow-up study evaluated the effects of half-dose etanercept ( 25 mg weekly ) on clinical remission and radiographic progression in a large cohort of patients with rheumatoid arthritis ( RA ) in clinical remission after etanercept 25 mg bi-weekly .
+METHODS	524 biologic-nave RA patients were treated with etanercept 25 mg bi-weekly after failure of conventional drugs .
+METHODS	Patients achieving remission ( DAS28 < 2.6 ) for 12 months were randomised to receive etanercept 25 mg weekly or 25 mg bi-weekly .
+METHODS	Patients were assessed at baseline and every 12 weeks .
+METHODS	Remission rates , radiographic progression , incidence of infections and costs of the regimens were compared .
+RESULTS	After a mean follow-up of 1811 months , 347 patients ( 66.2 % ) achieved DAS28 remission ; 323 were randomised to one of two dose regimens : etanercept 25 weekly ( group A , 159 patients ) and etanercept 25 mg bi-weekly ( group B , 164 patients ) .
+RESULTS	At the end of follow-up , 81.8 % patients of group A maintained remission for a mean of 3.61.5 years .
+RESULTS	Radiographic progression occurred in a small number of patients of group A and the rate of radiographic progression ( TSS > 0 ) was not significantly different in the two groups ( 18.85 % vs. 19.0 % after the first year and 16.9 % vs. 21.6 % after the second year , respectively ) .
+RESULTS	The incidence ratio of severe infections was 2.3 / 1.000 patient-years in group A. Etanercept half-dose regimen resulted in a saving of 3.190.545 with a cost saving up to 827.318 per year .
+CONCLUSIONS	Clinical remission and arrest of radiographic progression persisted in a substantial percentage of patients with RA even after reduction of standard-dose etanercept .
+

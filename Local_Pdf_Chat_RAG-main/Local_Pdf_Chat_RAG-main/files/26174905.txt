@@ -1,0 +1,12 @@
+26174905
+BACKGROUND	Hemolysis reaction is a rare class effect of therapy with intravenously administered human normal immunoglobulin ( IVIG ) .
+BACKGROUND	Anti-A/B isoagglutinins ( isohemagglutinins ) originating from donor plasma are considered a probable risk factor for hemolysis .
+BACKGROUND	We hypothesized that screening and exclusion of plasma obtained from donors with high isoagglutinin titers from the manufacturing process would produce a meaningful reduction of anti-A/B isoagglutinin titers of the final IVIG product .
+METHODS	A donor screening method for anti-A isoagglutinins using an automated indirect agglutination test ( IAT ) in gel cards was developed .
+METHODS	Industry-scale donor plasma pools and final IVIG product were prepared according to the manufacturing process of Privigen ( human 10 % liquid IVIG ) .
+METHODS	Anti-A/B isoagglutinin levels were measured by IAT , direct agglutination test , and a flow cytometry-based assay .
+RESULTS	Screening of plasma from 705 randomly selected donors identified 6.8 % donors with high anti-A isoagglutinin titers in plasma .
+RESULTS	Exclusion of plasma from these donors resulted in a one-titer-step reduction of anti-A isoagglutinin in laboratory-scale pooled plasma .
+RESULTS	The same donor screening method applied to industry-scale production resulted in exclusion of 5.1 % of donors and produced a one-titer-step reduction of both anti-A and anti-B isoagglutinin titers in the final IVIG product .
+CONCLUSIONS	Anti-A/B isoagglutinin titers in IVIG products can be reduced on an industrial scale through implementation of anti-A donor screening , which may lower the risk of hemolysis after IVIG therapy .
+

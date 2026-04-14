@@ -1,0 +1,18 @@
+24556911
+OBJECTIVE	To evaluate the effect of the intravenous ( i.v. ) L-alanyl-L-glutamine dipeptide supplementation during 5 days on clinical outcome in trauma patients admitted to the intensive care unit ( ICU ) .
+METHODS	This was a prospective , randomized , double-blind , multicenter trial .
+METHODS	Glutamine was not given as a component of nutrition but as an extra infusion .
+METHODS	The primary outcome variable was the number of new infections within the first 14 days .
+RESULTS	We included 142 patients .
+RESULTS	There were no differences between groups in baseline characteristics .
+RESULTS	Up to 62 % of the patients in the placebo group and 63 % in the treatment group presented confirmed infections ( p = 0.86 ) .
+RESULTS	ICU length of stay was 14 days in both groups ( p = 0.54 ) .
+RESULTS	Hospital length of stay was 27 days in the placebo group and 29 in the treatment group ( p = 0.88 ) .
+RESULTS	ICU mortality was 4.2 % in both groups ( p = 1 ) .
+RESULTS	Sixty percent of the patients presented low glutamine levels before randomization .
+RESULTS	At the end of the treatment ( 6th day ) , 48 % of the patients maintained low glutamine levels ( 39 % of treated patients vs. 57 % in the placebo group ) .
+RESULTS	Patients with low glutamine levels at day 6 had more number of infections ( 58.8 vs. 80.9 % ; p = 0.032 ) and longer ICU ( 9 vs. 20 days ; p < 0.01 ) and hospital length of stay ( 24 vs. 41 days ; p = 0.01 ) .
+CONCLUSIONS	There was no benefit with i.v. L-alanyl-L-glutamine dipeptide supplementation ( 0.5 g/kg body weight/day of the dipeptide ) during 5 days in trauma patients admitted to the ICU .
+CONCLUSIONS	The i.v. glutamine supplementation was not enough to normalize the plasma glutamine levels in all patients .
+CONCLUSIONS	Low plasma glutamine levels at day 6 were associated with a worse outcome .
+

@@ -1,0 +1,18 @@
+24407163
+BACKGROUND	One of the advantages of Internet-based research is the ability to efficiently recruit large , diverse samples of international participants .
+BACKGROUND	Currently , there is a dearth of information on the behind-the-scenes process to setting up successful online recruitment tools .
+OBJECTIVE	The objective of the study was to examine the comparative impact of Spanish - and English-language keywords for a Google AdWords campaign to recruit pregnant women to an Internet intervention and to describe the characteristics of those who enrolled in the trial .
+METHODS	Spanish - and English-language Google AdWords campaigns were created to advertise and recruit pregnant women to a Web-based randomized controlled trial for the prevention of postpartum depression , the Mothers and Babies/Mams y Bebs Internet Project .
+METHODS	Search engine users who clicked on the ads in response to keyword queries ( eg , pregnancy , depression and pregnancy ) were directed to the fully automated study website .
+METHODS	Data on the performance of keywords associated with each Google ad reflect Web user queries from February 2009 to June 2012 .
+METHODS	Demographic information , self-reported depression symptom scores , major depressive episode status , and Internet use data were collected from enrolled participants before randomization in the intervention study .
+RESULTS	The Google ads received high exposure ( 12,983,196 impressions ) and interest ( 176,295 clicks ) from a global sample of Web users ; 6745 pregnant women consented to participate and 2575 completed enrollment in the intervention study .
+RESULTS	Keywords that were descriptive of pregnancy and distress or pregnancy and health resulted in higher consent and enrollment rates ( i.e. , high-performing ads ) .
+RESULTS	In both languages , broad keywords ( eg , pregnancy ) had the highest exposure , more consented participants , and greatest cost per consent ( up to US $ 25.77 per consent ) .
+RESULTS	The online ads recruited a predominantly Spanish-speaking sample from Latin America of Mestizo racial identity .
+RESULTS	The English-speaking sample was also diverse with most participants residing in regions of Asia and Africa .
+RESULTS	Spanish-speaking participants were significantly more likely to be of Latino ethnic background , not married , completed fewer years of formal education , and were more likely to have accessed the Internet for depression information ( P < .001 ) .
+CONCLUSIONS	The Internet is an effective method for reaching an international sample of pregnant women interested in online interventions to manage changes in their mood during the perinatal period .
+CONCLUSIONS	To increase efficiency , Internet advertisements need to be monitored and tailored to reflect the target population 's conceptualization of health issues being studied .
+BACKGROUND	ClinicalTrials.gov NCT00816725 ; http://clinicaltrials.gov/show/NCT00816725 ( Archived by WebCite at http://www.webcitation.org/6LumonjZP ) .
+

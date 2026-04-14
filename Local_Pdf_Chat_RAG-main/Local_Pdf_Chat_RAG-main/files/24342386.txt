@@ -1,0 +1,15 @@
+24342386
+OBJECTIVE	Attention bias modification treatment ( ABMT ) is a promising novel treatment for anxiety disorders , but clinical trials have focused largely on stand-alone formats among adults .
+OBJECTIVE	This randomized controlled trial examined the augmenting effects of threat-based ABMT on cognitive behavioral therapy ( CBT ) in clinically anxious youth .
+METHODS	Sixty-three treatment-seeking children with anxiety disorder were randomly assigned to 1 of the following 3 treatment groups : ABMT + CBT ; ABMT placebo + CBT ; and CBT-alone .
+METHODS	Participants in the 2 ABMT conditions received repeated training on dot-probe tasks either designed to shift attention away from threats ( active ) or designed to induce no changes in attention patterns ( placebo ) .
+METHODS	Primary outcome measures were frequency and severity of anxiety symptoms as determined by a clinician using a semi-structured interview .
+METHODS	Self - and parent-rated anxiety measures and threat-related attention bias scores were also measured before and after treatment .
+RESULTS	Both the active and placebo ABMT groups showed greater reductions in clinician-rated anxiety symptoms than the CBT-alone group .
+RESULTS	Furthermore , only the active ABMT group showed significant reduction in self - or parent-rated anxiety symptoms .
+RESULTS	Finally , all groups showed a shift in attention patterns across the study , starting with a bias toward threat at baseline and shifting attention away from threat after treatment .
+CONCLUSIONS	Active and placebo ABMT might augment the clinical response to CBT for anxiety .
+CONCLUSIONS	This effect could arise from benefits associated with performing computer-based paradigms such as the dot-probe task .
+CONCLUSIONS	Given the absence of group differences in attention-bias changes during treatment , possible mechanisms and methodological issues underlying the observed findings are discussed .
+CONCLUSIONS	Clinical trial registration information-Augmenting Effects of ABMT on CBT in Anxious Children : A Randomized Clinical Trial ; http://clinicaltrials.gov/; NCT01730625 .
+

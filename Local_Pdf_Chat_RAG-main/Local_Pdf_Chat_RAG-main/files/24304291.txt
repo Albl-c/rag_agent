@@ -1,0 +1,11 @@
+24304291
+BACKGROUND	Previous studies have shown that a calcium ( Ca ) pre-rinse given before a 228 ppm fluoride ( F ) rinse greatly increased salivary fluoride .
+BACKGROUND	Objectives .
+BACKGROUND	The aim of this randomized controlled trial is to examine if Ca pre-rinse could increase the fluoride concentration in the overnight unstimulated saliva after a 905 ppm F-rinse .
+METHODS	Pre-rinses containing 150 mM , 75 mM or 0 mM Ca-lactate prepared by a validated pharmaceutical cGPM procedure were tested by nine subjects in a randomized order immediately followed by a 905 ppm F-rinse .
+METHODS	The fluoride concentration was measured in unstimulated saliva collected 10 h later .
+CONCLUSIONS	The Ca pre-treatment significantly increased F level in overnight saliva following the 905 ppm fluoride rinse by 1.7 relative to the 905 ppm F-rinse alone ; however , a significant effect was only observed with the highest ( 150 mM ) Ca concentration as pre-rinse .
+CONCLUSIONS	Clinical relevance .
+CONCLUSIONS	High concentration F rinses ( 905 ppm ) are commonly recommended for patients at high-risk of caries .
+CONCLUSIONS	A pre-treatment with high levels of Ca may further improve the cariostatic effect of this ion .
+

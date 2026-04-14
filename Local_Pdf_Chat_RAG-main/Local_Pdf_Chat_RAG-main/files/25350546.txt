@@ -1,0 +1,15 @@
+25350546
+BACKGROUND	Low rates of adherence to artemisinin-based combination therapy ( ACT ) regimens increase the risk of treatment failure and may lead to drug resistance , threatening the sustainability of current anti-malarial efforts .
+BACKGROUND	We assessed the impact of text message reminders on adherence to ACT regimens .
+METHODS	Health workers at hospitals , clinics , pharmacies , and other stationary ACT distributors in Tamale , Ghana provided flyers advertising free mobile health information to individuals receiving malaria treatment .
+METHODS	The messaging system automatically randomized self-enrolled individuals to the control group or the treatment group with equal probability ; those in the treatment group were further randomly assigned to receive a simple text message reminder or the simple reminder plus an additional statement about adherence in 12-hour intervals .
+METHODS	The main outcome was self-reported adherence based on follow-up interviews occurring three days after treatment initiation .
+METHODS	We estimated the impact of the messages on treatment completion using logistic regression .
+RESULTS	1140 individuals enrolled in both the study and the text reminder system .
+RESULTS	Among individuals in the control group , 61.5 % took the full course of treatment .
+RESULTS	The simple text message reminders increased the odds of adherence ( adjusted OR 1.45 , 95 % CI [ 1.03 to 2.04 ] , p-value 0.028 ) .
+RESULTS	Receiving an additional message did not result in a significant change in adherence ( adjusted OR 0.77 , 95 % CI [ 0.50 to 1.20 ] , p-value 0.252 ) .
+CONCLUSIONS	The results of this study suggest that a simple text message reminder can increase adherence to antimalarial treatment and that additional information included in messages does not have a significant impact on completion of ACT treatment .
+CONCLUSIONS	Further research is needed to develop the most effective text message content and frequency .
+BACKGROUND	ClinicalTrials.gov NCT01722734 .
+

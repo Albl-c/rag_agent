@@ -1,0 +1,10 @@
+25881753
+OBJECTIVE	This thorough QT/QTc ( TQT ) study assessed the effects of a supratherapeutic dose of pomaglumetad methionil , a potential treatment for schizophrenia , compared to placebo on the QT interval in subjects with schizophrenia .
+METHODS	This double-blind , 3-period crossover study enrolled 86 subjects aged 22 - 63 years , who met Diagnostic and Statistical Manual , Fourth Edition , Test Revision ( DSM-IV-TR ) criteria for schizophrenia ; 78 subjects completed the study .
+METHODS	Subjects were randomly assigned to sequences of 3 treatment periods of single oral doses of pomaglumetad methionil 400 mg , moxifloxacin 400 mg , and placebo .
+METHODS	Quadruplicate electrocardiograms ( ECGs ) were extracted from 2 hours predose to 12 hours postdose and were overread by a blinded central reader .
+METHODS	Time-matched pharmacokinetic ( PK ) parameters were assessed .
+RESULTS	At all-time points , the upper bound of the 90 % 2-sided confidence interval ( CI ) for the least squares ( LS ) mean difference in changes from baseline in Fridericia 's corrected QT interval ( QTcF ) between pomaglumetad methionil and placebo was < 10 milliseconds ( msec ) .
+RESULTS	Sufficient assay sensitivity was not achieved , likely due to food effect ; although the maximum observed drug concentration ( Cmax ) with moxifloxacin ( 1,410 ng/mL ) was lower than expected , the slope of the regression line of moxifloxacin plasma concentrations versus placebo-subtracted QTcF was similar to that reported in the literature .
+CONCLUSIONS	A single supratherapeutic dose of 400 mg pomaglumetad methionil did not prolong QTcF to a clinically significant degree and , importantly , did not result in any absolute QTcF > 450 msec or increase in QTcF from predose > 30 msec .
+

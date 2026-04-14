@@ -1,0 +1,14 @@
+24591266
+BACKGROUND	Inadequate surgical field visualization due to intraoperative bleeding during endoscopic sinus surgery ( ESS ) can cause major complications .
+BACKGROUND	The aim of this prospective study was to compare the effect of preoperative administration of clonidine and melatonin on the quality of the surgical field visualization and selected aspects of presurgical premedication .
+METHODS	Twenty-six patients undergoing ESS for chronic sinusitis and polyp removal were enrolled and randomly assigned to receive either oral clonidine or melatonin as preoperative premedication .
+METHODS	During the operation , the quality of the surgical field was assessed and graded using the scale proposed by Boezaart .
+METHODS	The evaluations were done at 15 , 30 , and 60 minutes after incision .
+METHODS	The effect of this premedication choice on the intraoperative and postoperative hemodynamic profile was examined in each group .
+METHODS	Anxiolytic effects of both premedication agents were assessed using the visual analogue scale for anxiety ( VAS-A ) .
+METHODS	Propofol dose and induction time ( the time for bispectral index [ BIS ] to reach 45 ) , anesthesia and surgical procedures time , and recovery time ( the time for BIS to reach 90 ) were assessed in both groups as well .
+RESULTS	The quality of the surgical field was consistently better in 2 of 3 time points in the clonidine group .
+RESULTS	Perioperative mean arterial pressure and intraoperative heart rate had a more favorable profile in patients premedicated with clonidine .
+RESULTS	There were no differences in other measured parameters between groups .
+CONCLUSIONS	Premedication with clonidine before ESS provides better quality of surgical field and more favorable hemodynamic profile as compared to melatonin .
+

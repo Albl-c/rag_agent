@@ -1,0 +1,15 @@
+24935020
+OBJECTIVE	Beta-blockers ( BBs ) improve outcomes in heart failure .
+OBJECTIVE	Results from the Cardiac Insufficiency Bisoprolol Study in Elderly ( CIBIS-ELD ) trial previously demonstrated the feasibility of heart rate , not maximum dose , as a treatment goal .
+OBJECTIVE	In this pre-specified analysis , we investigated the prognostic value of achieved heart rate after BB optimization on long-term mortality .
+RESULTS	Elderly heart failure patients from the CIBIS-ELD trial were invited to participate in a follow-up examination 4 years after the initial 12-week BB up-titration period .
+RESULTS	The relationship between all-cause mortality , BB dose , and heart rate after titration and potentially confounding clinical variables was analysed by multivariable Cox regression .
+RESULTS	In total , 728 patients ( 38 % women ; mean age 72.9 5.4 years ) were included .
+RESULTS	During a mean follow-up period of 45 9 months , 134 patients ( 19 % ) died , thus accumulating 2268 patient-years at risk .
+RESULTS	There was no significant difference in baseline heart rate for survivors and non-survivors ( P = 0.19 ) .
+RESULTS	In models adjusting for age , sex , BB pre-treatment , ventricular function , heart rate , and NYHA class at baseline , a heart rate increase by 10 b.p.m. following up-titration was associated with a subsequent mortality hazard ratio of 1.19 ( 95 % confidence interval 1.02-1 .38 , P = 0.023 ) .
+RESULTS	The heart rate range with the lowest mortality and the fewest treatment-related adverse events was 55-64 b.p.m.
+RESULTS	The achieved BB dose was not associated with mortality risk .
+CONCLUSIONS	The heart rate after up-titration , but not BB dose , predicted all-cause mortality risk in elderly patients with chronic heart failure .
+CONCLUSIONS	These patients should be titrated to resting heart rates between 55 and 64 b.p.m.
+

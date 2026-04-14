@@ -1,0 +1,15 @@
+24684104
+OBJECTIVE	To observe the protective effect of transcutaneous electrical acupoint stimulation ( TEAS ) on cerebral tissue in elderly hip replacement operation patients during general anesthesia under controlled hypotension .
+METHODS	Forty hip replacement operation patients were randomly divided into general anesthesia ( GA ) control group and TEAS + GA group ( n = 20 in each group ) .
+METHODS	Patients of the two groups during operation were treated with controlled hypotension for reducing blood loss .
+METHODS	TEAS ( 2 Hz/100 Hz , 8-12 mA ) was applied to bilateral Yuyao ( EX-HN 4 ) and Fengchi ( GB 20 ) and began 30 min before GA. .
+METHODS	General anesthesia was performed by intravenous injection of Midazolam , Diprivan , Fentanyl and Cis-atracurium , sevoflurane-inhaling , Remifentanil , etc. , and the patient 's mean arterial pressure was maintained to be about 70 % of the normal level ( controlled hypotension ) by using venous administration of Remifentanil about 10 min after the operation .
+METHODS	GEM Premier 3000 blood gas analyzer was used to analyze levels of the arterial oxygen ( CaO2 ) , internal jugular venous oxygen ( CjvO2 ) , arterio-venous oxygen content difference ( Da-jvO2 ) and cerebral oxygen ( CERO2 ) uptake rates of blood samples before controlled hypotension ( T0 ) , 20 min after controlled hypotension ( T ) .
+METHODS	40 min after controlled hypotension ( T2 ) and 20 min after the end of controlled hypotension ( T3 ) .
+RESULTS	Self-comparison of each group showed that in comparison with pre-controlled hypotension , CjvO2 levels at the time-points of T , T2 and T3 were significantly increased in both GA control and TEAS+GA groups ( P < 0.05 ) , while Da-jvO2 and CERO2 uptake rate levels at the time-points of T , .
+RESULTS	T2 and T3 in these two groups were significantly decreased ( P < 0.05 ) .
+RESULTS	Comparison between two groups showed that CivO2 levels at the time-points of T2 and T3 were significantly higher in the TEAS + GA group than in the GA control group ( P < 0.05 ) .
+RESULTS	while Da-jvO2 and CERO2 uptake rate levels at the time-point of T2 were obviously lower in the TEAS + GA group than in the GA control group ( P < 0.05 ) , suggesting a reduction of cerebral oxygen consumption after TEAS .
+RESULTS	No significant differences were found between these two groups in blood CjvO2 , Da-jvO2 and CERO2 uptake rate levels at the time-points of T0 and T1 ( P > 0.05 ) .
+CONCLUSIONS	TEAS can reduce cerebral oxygen uptake rate in elderly patients undergoing hip replacement during controlled hypotension , suggesting a protective effect of TEAS on patient 's cerebral tissue .
+

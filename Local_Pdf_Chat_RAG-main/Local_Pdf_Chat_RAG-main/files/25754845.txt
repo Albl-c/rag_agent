@@ -1,0 +1,11 @@
+25754845
+BACKGROUND	In this study , we evaluated long-term survival in patients treated with and without mechanical bowel preparation ( MBP ) before colorectal surgery for cancer .
+METHODS	Long-term outcome of patients of 2 main participating hospitals in a prior multicenter randomized trial comparing clinical outcome of MBP versus no MBP was reviewed .
+METHODS	Primary endpoint was cancer-related mortality and secondary endpoint was all-cause mortality .
+RESULTS	A total of 382 patients underwent potentially curative surgery for colorectal cancer .
+RESULTS	One hundred seventy-seven ( 46 % ) patients were treated with MBP and 205 ( 54 % ) were not before surgery .
+RESULTS	Median follow-up was 7.6 years ( mean 6.6 , range .01 to 12.73 ) .
+RESULTS	There was no significant difference in both cancer-related mortality and all-cause mortality in patients treated with MBP and without MBP ( P = .76 and P = .36 , respectively ) .
+RESULTS	Multivariate analysis , taking account of age , sex , AJCC cancer stage , and ASA classification , also showed no survival difference .
+CONCLUSIONS	Our results indicate that MBP does not seem to influence long-term survival in patients surgically treated for colorectal cancer .
+

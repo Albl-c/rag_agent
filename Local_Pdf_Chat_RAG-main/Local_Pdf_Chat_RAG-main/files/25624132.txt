@@ -1,0 +1,17 @@
+25624132
+BACKGROUND	Allergic rhinitis ( AR ) is an inflammatory condition of the nasal mucosa characterized by symptoms of nasal discharge , itching , sneezing , and congestion .
+BACKGROUND	Ocular symptoms are commonly associated with AR and include itching or burning , tearing or watering , and redness .
+BACKGROUND	Intranasal corticosteroids are a mainstay of treatment , and their effect on nasal symptoms is well described .
+OBJECTIVE	To demonstrate that a 14-day course of 200 g/d of nasal fluticasone propionate is superior to placebo in relieving ocular symptoms associated with AR .
+METHODS	This was a randomized , double-blind , parallel group , multicenter study comparing 200 g/d of fluticasone propionate with placebo in patients with seasonal allergic rhinitis .
+METHODS	The primary end point was mean change from baseline in patient-rated reflective total ocular symptom score ( rTOSS ) .
+METHODS	Key secondary end points included mean change from baseline in the morning and evening rTOSS , end-of-treatment assessment of response , and effect on activities of daily living .
+METHODS	The primary analysis was performed using analysis of covariance with a linear fixed-effects model .
+RESULTS	Fluticasone was statistically significantly more efficacious in reducing the ocular symptoms of AR than placebo .
+RESULTS	The least squares mean difference in the change from baseline of rTOSS was -0.36 ( P = .002 ) .
+RESULTS	A statistically significant difference in mean change from baseline was observed in favor of fluticasone for morning and evening rTOSS .
+RESULTS	Significantly more patients taking fluticasone achieved an overall response compared with placebo .
+RESULTS	Fluticasone had a significantly greater effect on daily living activities and was well tolerated .
+CONCLUSIONS	This study supports the efficacy of fluticasone in treating ocular symptoms associated with AR .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01817790 .
+

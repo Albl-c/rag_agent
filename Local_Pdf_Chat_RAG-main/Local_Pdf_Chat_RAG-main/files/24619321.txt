@@ -1,0 +1,16 @@
+24619321
+BACKGROUND	Hypertension self-management has been shown to improve systolic blood pressure ( BP ) control , but longer-term economic and clinical impacts are unknown .
+BACKGROUND	The purpose of this article is to examine clinical and economic outcomes 18 months after completion of a hypertension self-management trial .
+RESULTS	This study is a follow-up analysis of an 18-month , 4-arm , hypertension self-management trial of 591 veterans with hypertension who were randomized to usual care or 1 of 3 interventions .
+RESULTS	Clinic-derived systolic blood pressure obtained before , during , and after the trial were estimated using linear mixed models .
+RESULTS	Inpatient admissions , outpatient expenditures , and total expenditures were estimated using generalized estimating equations .
+RESULTS	The 3 telephone-based interventions were nurse-administered health behavior promotion , provider-administered medication adjustments based on hypertension treatment guidelines , or a combination of both .
+RESULTS	Intervention calls were triggered by home BP values transmitted via telemonitoring devices .
+RESULTS	Clinical and economic outcomes were examined 12 months before , 18 months during , and 18 months after trial completion .
+RESULTS	Compared with usual care , patients randomized to the combined arm had greater improvement in proportion of BP control during and after the 18-month trial and estimated proportion of BP control improved 18 months after trial completion for patients in the behavioral and medication management arms .
+RESULTS	Among the patients with inadequate baseline BP control , estimated mean systolic BP was significantly lower in the combined arm as compared with usual care during and after the 18-month trial .
+RESULTS	Utilization and expenditure trends were similar for patients in all 4 arms .
+CONCLUSIONS	Behavioral and medication management can generate systolic BP improvements that are sustained 18 months after trial completion .
+BACKGROUND	URL : http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00237692 .
+

@@ -1,0 +1,10 @@
+24335026
+OBJECTIVE	The present study tested the hypothesis that pretreatment with metformin decreases postprocedural myocardial injury and improves clinical outcomes in metabolic syndrome patients following percutaneous coronary intervention ( PCI ) .
+METHODS	We enrolled 152 metabolic syndrome patients with no prior history of metformin treatment .
+METHODS	Patients scheduled for elective coronary intervention were randomized to the metformin or control group 7 days before the procedure .
+METHODS	Creatine kinase-MB ( CK-MB ) and troponin I levels were measured at baseline and 8 and 24 h after the procedure , and clinical outcomes were monitored for 1 year .
+RESULTS	Post-PCI myocardial injury as indicated by CK-MB elevation ( 14.5 vs. 32.9 % , p = 0.008 ) and troponin I elevation ( 14.5 vs. 34.2 % , p = 0.005 ) was significantly lower in the metformin group than in the control group .
+RESULTS	Postprocedural peak values of CK-MB ( 2.70 4.30 vs. 6.29 8.03 ng/ml , p < 0.001 ) and troponin I ( 0.02 0.05 vs. 0.07 0.10 ng/ml , p = 0.001 ) were also significantly lower in the metformin group than in the control group .
+RESULTS	At 1 year , the composite endpoint of death from any cause , post-PCI myocardial infarction ( MI ) , MI after PCI hospitalization or ischemia-driven target lesion revascularization occurred in 7.9 % of metformin-treated patients and 28.9 % of controls ( hazard ratio 0.25 , 95 % CI 0.10-0 .62 , log rank p = 0.001 ) .
+CONCLUSIONS	A 7-day metformin pretreatment regimen ( 250 mg 3 times a day ) significantly reduces postprocedural myocardial injury and improves 1-year clinical outcomes in metabolic syndrome patients undergoing PCI .
+

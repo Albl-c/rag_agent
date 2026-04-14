@@ -1,0 +1,13 @@
+25619520
+BACKGROUND	Recurrent airway obstruction ( RAO ) , an asthma-like disease , is 1 of the most common allergic diseases in horses in the northern hemisphere .
+BACKGROUND	Hypersensitivity reactions to environmental antigens cause an allergic inflammatory response in the equine airways .
+BACKGROUND	Cytosine-phosphate-guanosine-oligodeoxynucleotides ( CpG-ODN ) are known to direct the immune system toward a Th1-pathway , and away from the pro-allergic Th2-line ( Th2/Th1-shift ) .
+BACKGROUND	Gelatin nanoparticles ( GNPs ) are biocompatible and biodegradable immunological inert drug delivery systems that protect CpG-ODN against nuclease degeneration .
+BACKGROUND	Preliminary studies on the inhalation of GNP-bound CpG-ODN in RAO-affected horses have shown promising results .
+OBJECTIVE	The aim of this study was to evaluate the clinical and immunological effects of GNP-bound CpG-ODN in a double-blinded , placebo-controlled , prospective , randomized clinical trial and to verify a sustained effect post-treatment .
+METHODS	Twenty-four RAO-affected horses received 1 inhalation every 2 days for 5 consecutive administrations .
+METHODS	Horses were examined for clinical , endoscopic , cytological , and blood biochemical variables before the inhalation regimen ( I ) , immediately afterwards ( II ) , and 4 weeks post-treatment ( III ) .
+RESULTS	At time points I and II , administration of treatment rather than placebo corresponded to a statistically significant decrease in respiratory effort , nasal discharge , tracheal secretion , and viscosity , AaDO2 and neutrophil percentage , and an increase in arterial oxygen pressure .
+CONCLUSIONS	Administration of a GNP-bound CpG-ODN formulation caused a potent and persistent effect on allergic and inflammatory-induced clinical variables in RAO-affected horses .
+CONCLUSIONS	This treatment , therefore , provides an innovative , promising , and well-tolerated strategy beyond conventional symptomatic long-term therapy and could serve as a model for asthma treatment in humans .
+

@@ -1,0 +1,19 @@
+25609368
+BACKGROUND	When performing clinical trials involving acupuncture , it can be difficult to choose a placebo control .
+OBJECTIVE	To validate the Park sham needle for use as a double-blind control intervention .
+METHODS	Two different methods were employed .
+METHODS	First , a researcher blinded to needle type administered the Park sham or a real needle , chosen at random , on the arms of 16 healthy volunteers .
+METHODS	The researcher and the volunteers independently recorded which needle type they thought had been applied at each acupuncture point .
+METHODS	Second , 19 patients with shoulder impingement syndrome were randomly assigned to receive acupuncture applied with the real needle or the Park sham needle , once a week for 6 weeks alongside a course of physiotherapy .
+METHODS	At the end of the 6 sessions the patients recorded which needle type they thought was being used .
+METHODS	The results were analyzed with a Fisher 's exact test .
+METHODS	This study was carried out in the Outpatient Department of Physiotherapy in Charing Cross Hospital , London , UK , on healthy volunteers and patients with shoulder impingement pain .
+METHODS	The age range was 23 to 54 and 22 to 74 years respectively .
+RESULTS	Of the healthy volunteers , there was no difference ( P = 0.23 ) between the number of needles that were correctly ( n = 43 ) or incorrectly identified ( n = 53 ) .
+RESULTS	All patients thought that they had received the real needles .
+RESULTS	The researcher correctly identified all needles that were applied .
+CONCLUSIONS	The researcher delivering the acupuncture recognized the needle type .
+CONCLUSIONS	However , both healthy and patient volunteers were blind to the needle type .
+CONCLUSIONS	This demonstrates that the Park sham needle is an effective single-blind control .
+CONCLUSIONS	It should be noted that the number of patients recruited was small and the study was underpowered to detect an effect of treatment .
+

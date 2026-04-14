@@ -1,0 +1,12 @@
+24632316
+BACKGROUND	The aim of this study is to explore the efficacy and safety of the combination of autologous transplantation of granulocyte colony-stimulating factor ( G-CSF ) - mobilized peripheral blood mononuclear cells ( PBMNCs ) and Panax notoginseng saponins ( PNS ) in the treatment of unreconstructable critical limb ischemia ( CLI ) .
+METHODS	We performed an open-label , parallel-group , single-center , randomized clinical trial in this study .
+METHODS	A total of 52 patients were enrolled and randomly divided into 2 groups ( the PBMNC + PNS group and the PBMNC group ) in a 1:1 ratio .
+METHODS	Evaluation variables , including changes in the ankle-brachial index ( ABI ) of ischemic limbs , ulcer area , severity of rest pain , transcutaneous oxygen pressure ( T ( C ) PO2 ) , and 6-min walk distance from baseline to week 8 and 16 , as well as angiographic scores for new collateral vessel formation at week 16 , were used to compare the benefits of these 2 treatment approaches .
+RESULTS	After 16 weeks of treatment , improvement in ABI , T ( C ) PO2 , and 6-min walk distance was significantly better in the PBMNC + PNS group .
+RESULTS	In addition , the combination of PBMNC transplantation and PNS administration yielded a greater reduction in ulcer area and severity of rest pain than did PBMNC transplantation alone .
+RESULTS	The proportion of patients experiencing any adverse event was similar between both treatment groups .
+RESULTS	Adverse events caused by PBMNC transplantation or PNS were generally mild and no serious adverse events occurred throughout the entire period of study .
+CONCLUSIONS	A combination of PNS and PBMNC transplantation appears to be a safe and effective treatment for patients with unreconstructable CLI .
+CONCLUSIONS	This combination may have great potential advantages in comparison with PBMNC transplantation alone and might constitute a novel therapeutic option for unreconstructable CLI .
+

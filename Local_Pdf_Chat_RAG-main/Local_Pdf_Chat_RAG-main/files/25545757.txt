@@ -1,0 +1,14 @@
+25545757
+BACKGROUND	Vincristine causes known side effects of peripheral sensory , motor , autonomic and cranial neuropathies .
+BACKGROUND	No preventive interventions are known .
+METHODS	We performed a randomized , placebo-controlled , double-blind trial of oral glutamic acid as a preventive agent in pediatric patients with cancer who would be receiving vincristine therapy for at least 9 consecutive weeks ( Stratum 1 = Wilms tumor and rhabdomyosarcoma ) or 4 consecutive weeks in conjunction with steroids ( Stratum 2 = Acute lymphoblastic leukemia and non-Hodgkin lymphoma ) .
+METHODS	At designated time points , a scored neurologic exam using the Modified Balis Pediatric Scale of Peripheral Neuropathies was performed to document neurologic toxicity .
+RESULTS	Between 2007 and 2012 , 250 patients were enrolled ( Stratum 1 = 50 , Stratum 2 = 200 ) .
+RESULTS	The glutamic acid treated group did not have a significantly lower percentage of neurotoxicity compared to placebo treated group either overall or within stratum or age subgroups .
+RESULTS	The only subgroup which was suggestive of treatment effect was for age .
+RESULTS	Patients 13 years or older showed a larger benefit in favor of glutamic acid ( P = 0.055 ) compared to patients less than 13 years ( P = 1.00 ) .
+RESULTS	Constipation was the most frequently reported ( 14 % ) Grade II or higher neurotoxicity .
+CONCLUSIONS	Vincristine-associated neurotoxicity in pediatric oncology remains a frequent complication of chemotherapy for multiple diagnoses with an approximate 30 % of patients affected .
+CONCLUSIONS	Glutamic acid is not effective for prevention in pre-adolescents .
+CONCLUSIONS	There is a suggestion of benefit in patients 13 years or older , but the study was not designed to provide adequate power to test the treatment effect within this age group alone .
+

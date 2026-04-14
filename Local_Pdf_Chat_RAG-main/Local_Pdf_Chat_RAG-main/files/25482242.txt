@@ -1,0 +1,15 @@
+25482242
+OBJECTIVE	To determine whether a home-based care coordination program focused on medication self-management would affect the cost of care to the Medicare program and whether the addition of technology , a medication-dispensing machine , would further reduce cost .
+METHODS	Randomized , controlled , three-arm longitudinal study .
+METHODS	Participant homes in a large Midwestern urban area .
+METHODS	Older adults identified as having difficulty managing their medications at discharge from Medicare Home Health Care ( N = 414 ) .
+METHODS	A team consisting of advanced practice nurses ( APNs ) and registered nurses ( RNs ) coordinated care for two groups : home-based nurse care coordination ( NCC ) plus a pill organizer group and NCC plus a medication-dispensing machine group .
+METHODS	To measure cost , participant claims data from 2005 to 2011 were retrieved from Medicare Part A and B Standard Analytical Files .
+RESULTS	Ordinary least squares regression with covariate adjustment was used to estimate monthly dollar savings .
+RESULTS	Total Medicare costs were $ 447 per month lower in the NCC plus pill organizer group ( P = .11 ) than in a control group that received usual care .
+RESULTS	For participants in the study at least 3 months , total Medicare costs were $ 491 lower per month in the NCC plus pill organizer group ( P = .06 ) than in the control group .
+RESULTS	The cost of the NCC plus pill organizer intervention was $ 151 per month , yielding a net savings of $ 296 per month or $ 3,552 per year .
+RESULTS	The cost of the NCC plus medication-dispensing machine intervention was $ 251 per month , and total Medicare costs were $ 409 higher per month than in the NCC plus pill organizer group .
+CONCLUSIONS	Nurse care coordination plus a pill organizer is a cost-effective intervention for frail elderly Medicare beneficiaries .
+CONCLUSIONS	The addition of the medication machine did not enhance the cost effectiveness of the intervention .
+

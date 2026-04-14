@@ -1,0 +1,13 @@
+24464531
+BACKGROUND	Opioid antagonists ( e.g. , naltrexone ) and positive modulators of - aminobutyric-acidA ( GABAA ) receptors ( e.g. , alprazolam ) modestly attenuate the abuse-related effects of stimulants like amphetamine .
+BACKGROUND	The use of higher doses to achieve greater efficacy is precluded by side effects .
+BACKGROUND	Combining naltrexone and alprazolam might safely maximize efficacy while avoiding the untoward effects of the constituent compounds .
+OBJECTIVE	The present pilot study tested the hypothesis that acute pretreatment with the combination of naltrexone and alprazolam would not produce clinically problematic physiological effects or negative subjective effects and would reduce the positive subjective effects of d-amphetamine to a greater extent than the constituent drugs alone .
+METHODS	Eight nontreatment-seeking , stimulant-using individuals completed an outpatient experiment in which oral d-amphetamine ( 0 , 15 , and 30 mg ) was administered following acute pretreatment with naltrexone ( 0 and 50 mg ) and alprazolam ( 0 and 0.5 mg ) .
+METHODS	Subjective effects , psychomotor task performance , and physiological measures were collected .
+RESULTS	Oral d-amphetamine produced prototypical physiological and stimulant-like positive subjective effects ( e.g. , VAS ratings of Active/Alert/Energetic , Good Effect , and High ) .
+RESULTS	Pretreatment with naltrexone , alprazolam , and their combination did not produce clinically problematic acute physiological effects or negative subjective effects .
+RESULTS	Naltrexone and alprazolam each significantly attenuated some of the subjective effects of d-amphetamine .
+RESULTS	The combination attenuated a greater number of subjective effects than the constituent drugs alone .
+CONCLUSIONS	The present results support the continued evaluation of an opioid receptor antagonist combined with a GABAA-positive modulator using more clinically relevant experimental conditions like examining the effect of chronic dosing with these drugs on methamphetamine self-administration .
+

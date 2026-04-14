@@ -1,0 +1,16 @@
+25833784
+BACKGROUND	In Haiti and other countries , large-scale investments in school feeding programs have been made with marginal evidence of nutrition outcomes .
+OBJECTIVE	We aimed to examine the effectiveness of a fortified ready-to-use supplementary food ( RUSF ) , Mamba , on reduced anemia and improved body composition in school-aged children compared to an unfortified cereal bar , Tablet Yo , and control groups .
+METHODS	A cluster , randomized trial with children ages 3-13 y ( n = 1167 ) was conducted in the north of Haiti .
+METHODS	Six schools were matched and randomized to the control group , Tablet Yo group ( 42 g , 165 kcal ) , or Mamba group ( 50 g , 260 kcal , and > 75 % of the RDA for critical micronutrients ) .
+METHODS	Children in the supplementation groups received the snack daily for 100 d , and all were followed longitudinally for hemoglobin concentrations , anthropometry , and bioelectrical impedance measures : baseline ( December 2012 ) , midline ( March 2013 ) , and endline ( June 2013 ) .
+METHODS	Parent surveys were conducted at baseline and endline to examine secondary outcomes of morbidities and dietary intakes .
+METHODS	Longitudinal regression modeling using generalized least squares and logit with random effects tested the main effects .
+RESULTS	At baseline ,14.0 % of children were stunted , 14.5 % underweight , 9.1 % thin , and 73 % anemic .
+RESULTS	Fat mass percentage ( mean SD ) was 8.1 % 4.3 % for boys and 12.5 % 4.4 % for girls .
+RESULTS	In longitudinal modeling , Mamba supplementation increased body mass index z score ( regression coefficient SEE ) 0.25 0.06 , fat mass 0.45 0.14 kg , and percentage fat mass 1.28 % 0.27 % compared with control at each time point ( P < 0.001 ) .
+RESULTS	Among boys , Mamba increased fat mass ( regression coefficient SEE ) 0.73 0.19 kg and fat-free mass 0.62 0.34 kg compared with control ( P < 0.001 ) .
+RESULTS	Mamba reduced the odds of developing anemia by 28 % compared to control ( adjusted OR : 0.72 ; 95 % CI : 0.57 , 0.91 ; P < 0.001 ) .
+RESULTS	No treatment effect was found for hemoglobin concentration .
+CONCLUSIONS	To our knowledge , this is the first study to give evidence of body composition effects from an RUSF in school-aged children .
+

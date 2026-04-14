@@ -1,0 +1,13 @@
+24581132
+OBJECTIVE	To evaluate the efficacy of reflex entropy ( RE ) / state entropy ( SE ) in monitoring the response to nociceptive stimulus during propofol-remifentanil infusion .
+METHODS	After the approval of the hospital ethics committee , sixty American Society of Anesthesiologists ( ASA ) classification 1-2 patients , aged 18-65 years , receiving the hypogastrium operation undergoing general anesthesia , were randomly allocated to groups A and B with different remifentanil concentrations .
+METHODS	After the concentration of propofol and remifentanil reached balance , tetanic stimulation , intubation , and incision were performed respectively with certain intervals .
+METHODS	RE and SE were monitored during this procedure .
+RESULTS	Twelve patients were withdrawn from this study due to the use of vasoactive drugs .
+RESULTS	Finally , there were 28 cases in group A and 20 cases in group B.
+RESULTS	The RE and SE were not significantly changed before and after the tetanic stimulation in both groups ( all P > 0.05 ) .
+RESULTS	Both RE and SE were significantly increased after intubation in group B ( both P < 0.05 ) and after skin incision in both groups ( all P < 0.05 ) .
+RESULTS	Under the same stimulation , RE and SE showed no significant difference among groups administered with different levels of remifentanil ( P > 0.05 ) .
+CONCLUSIONS	Under the anesthesia with propofol + remifentanil , nociceptive response may cause the increase of RE and SE .
+CONCLUSIONS	Therefore , RE and SE may be useful parameters for monitoring the nociceptive response during general anaesthesia .
+

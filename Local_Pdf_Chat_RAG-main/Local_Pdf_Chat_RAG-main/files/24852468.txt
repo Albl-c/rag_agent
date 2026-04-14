@@ -1,0 +1,13 @@
+24852468
+BACKGROUND	High-intensity focused ultrasound ( HIFU ) is a noninvasive alternative to traditional invasive body sculpting procedures .
+OBJECTIVE	To assess the effectiveness and tolerability of HIFU treatment using high and low fluence settings with 2 treatment techniques , grid repeat ( GR ) and site repeat ( SR ) .
+METHODS	Two multicenter studies were conducted .
+METHODS	Subjects underwent 1 HIFU treatment with 1 of 5 treatment protocols ( total fluence , 150-180 J/cm ) .
+METHODS	Primary end point was change from baseline in waist circumference ( CBWC ) at 12 weeks .
+METHODS	Secondary end points included CBWC at 4 and 8 weeks and investigator - and subject-assessed clinical improvement .
+METHODS	Adverse events were monitored throughout the study .
+RESULTS	In the intent-to-treat ( ITT ) population , all subjects had a statistically significant mean circumferential reduction of -2.3 2.9 cm ( p < .0001 ) from baseline at 12 weeks , with no significant differences among the 5 treatment groups ( ITT : p = .153 ) .
+RESULTS	Analysis of secondary end points in the ITT population demonstrated a significant circumferential reduction starting as early as 4 weeks in all subjects ( -1.1 1.9 cm , p < .0001 ) .
+RESULTS	Most subjects in all treatment groups showed improvements at 12 weeks as rated by the investigators and subjects .
+CONCLUSIONS	High-intensity focused ultrasound treatment using either a low or high fluence setting in a GR or SR method is effective for circumferential waist reduction , resulting in statistically significant CBWC in all treatment groups .
+

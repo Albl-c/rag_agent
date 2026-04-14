@@ -1,0 +1,15 @@
+25288125
+BACKGROUND	Edgewise fixed orthodontic appliances are available in two different bracket slot sizes ( 0.018 and 0.022 inch ) .
+BACKGROUND	Both systems are used by clinicians worldwide with some orthodontists claiming the superiority and clinical advantages of one system over the other .
+BACKGROUND	However , the scientific evidence supporting this area is scarce and weak .
+BACKGROUND	This leaves the clinician 's choice of bracket slot system to clinical preference .
+BACKGROUND	We aim to compare the 0.018-inch and 0.022-inch pre-adjusted bracket slot systems in terms of the effectiveness of orthodontic treatment .
+METHODS	This is a prospective , multicenter , randomized clinical trial , undertaken in the secondary care hospital environment in the NHS Tayside region of Scotland ( United Kingdom ) .
+METHODS	A total of 216 orthodontic patients will be recruited in three centers in secondary care hospitals in NHS Tayside .
+METHODS	The participants will be randomly allocated to treatment with either the 0.018-inch or 0.022-inch bracket slot systems ( n = 108 for each group ) using Victory series conventional pre-adjusted bracket systems ( 3 M Unitek , Monrovia , United States ) .
+METHODS	Baseline records and outcome data collected during and at the end of orthodontic treatment will be assessed .
+METHODS	The primary outcome measures will be the duration of orthodontic treatment in the maxillary and mandibular arches .
+METHODS	The secondary outcome measures will be the number of scheduled appointments for orthodontic treatment in the maxillary and mandibular arches , treatment outcome using Peer Assessment Rating index ( PAR ) , orthodontically induced inflammatory root resorption ( as measured using periapical radiographs ) and the patient 's perception of wearing orthodontic appliances .
+CONCLUSIONS	The results from the current study will serve as evidence to guide the clinician in deciding whether the difference in bracket slot size has a significant impact on the effectiveness of orthodontic treatment .
+BACKGROUND	Registered with ClinicalTrials.gov on 5 March 2014 , registration number : NCT02080338 .
+

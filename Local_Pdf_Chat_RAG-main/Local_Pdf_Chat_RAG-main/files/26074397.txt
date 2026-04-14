@@ -1,0 +1,16 @@
+26074397
+OBJECTIVE	Breast International Group ( BIG ) 2-98 is a randomised phase III trial that tested the effect of adding docetaxel , either in sequence to or in combination with anthracycline-based adjuvant chemotherapy , in women with node-positive breast cancer ( BC ) .
+OBJECTIVE	Here , we present the 10-year final trial safety and efficacy analyses .
+OBJECTIVE	We also report an exploratory analysis on the predictive value of Ki67 for docetaxel efficacy , in the BIG 2-98 and using a pooled analysis of three other randomised trials .
+METHODS	2887 patients were randomly assigned in a 22 trial design to one of four treatments .
+METHODS	The primary objective was to evaluate the overall efficacy of docetaxel on disease free survival ( DFS ) .
+METHODS	Secondary objectives included comparisons of sequential docetaxel versus sequential control arm , safety and overall survival ( OS ) .
+METHODS	Ki67 expression was centrally evaluated by immunohistochemistry .
+RESULTS	After a median follow-up of 10.1 years , the addition of docetaxel did not significantly improve DFS or OS ( hazard ratio ( HR ) = 0.91 , 95 % confidence interval ( CI ) = 0.81-1 .04 ; P = 0.16 and HR = 0.88 , 95 % CI = 0.76-1 .03 ; P = 0.11 , respectively ) .
+RESULTS	Sequential docetaxel did not improve DFS compared to the sequential control arm ( HR = 0.86 , 95 % CI = 0.72-1 .03 ; P = 0.10 ) .
+RESULTS	In oestrogen receptor ( ER ) - positive tumours with Ki6714 % , the addition of docetaxel resulted in 5.4 % improvement in 10-year OS ( P = 0.03 , test for interaction = 0.1 ) .
+RESULTS	In a multivariate model , there was a trend for improved DFS and OS in ER-positive patients with high Ki67 and treated with docetaxel ( HR = 0.79 , 95 % CI = 0.63-1 .01 ; P = 0.05 and HR = 0.76 , 95 % CI = 0.57-1 .01 ; P = 0.06 , respectively ) .
+RESULTS	A pooled analysis of four randomised trials showed a benefit of taxanes in highly proliferative ER-positive disease but not in low proliferating tumours ( interaction test P = 0.01 ) .
+CONCLUSIONS	The DFS benefit previously demonstrated with sequential docetaxel is no longer observed at 10years .
+CONCLUSIONS	However , an exploratory analysis suggested a benefit of docetaxel in patients with highly proliferative ER-positive BC .
+

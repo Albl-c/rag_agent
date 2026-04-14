@@ -1,0 +1,9 @@
+24814528
+BACKGROUND	Polycystic ovary syndrome ( PCOS ) is the most common endocrine cause of menstrual irregularities , hirsutism and acne .
+BACKGROUND	Women with PCOS present elevated plasma insulin levels , both fasting and after a glucose load , as an indirect evidence of insulin resistance .
+BACKGROUND	PCOS women may also present hypertension , low levels of HDL cholesterol , hypertriglyceridemia , visceral obesity and a higher level of CRP and fibrinogen that can predict an atherosclerotic risk .
+METHODS	This study was carried out on 15 young women with PCOS selected according to the 2003 diagnostic criteria of The Rotterdam Consensus Statement and 15 Control women .
+METHODS	PCOS women were treated with pioglitazone 30 mg/day and at the beginning and after 6 months of treatment were evaluated : menstrual cycle trend , hirsutism and acne , total cholesterolemia and HDL , triglyceridemia , fibrinogenemia , C-reactive protein , oral glucose tolerance test , glycated hemoglobin , FSH , LH , 17OH-progesterone , 17-estradiol , free and total testosterone , SHBG , DHEA-S , 4-androstenedione and adiponectin .
+CONCLUSIONS	Treatment with pioglitazone improves the irregularities of menses and hirsutism .
+CONCLUSIONS	Six months of treatment modify other parameters linked with a higher risk of type 2 diabetes mellitus and cardiovascular diseases : adiponectin increased with reduction of insulin resistance while fibrinogen and CRP levels decreased .
+

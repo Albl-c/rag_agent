@@ -1,0 +1,14 @@
+24462484
+OBJECTIVE	There have been repeated calls from health professionals and policy-makers to clarify the side-effects of the increasingly popular consumption trend of alcohol mixed with energy drinks ( AmED ) .
+OBJECTIVE	There is a dearth of research assessing the differential effects of AmED relative to alcohol by comparing self-reported psychological and physiological outcomes whilst under the influence of these substances .
+OBJECTIVE	The aim of the present study was to examine the acute effects of a moderate alcohol and energy drink ( ED ) dose on self-reported psychological and physiological outcomes .
+METHODS	Using a single-blind , placebo-controlled , crossover design , 28 adults completed four sessions where they were administered : ( i ) 0.50 g/kg alcohol , ( ii ) 3.57 mL/kg ED , ( iii ) AmED , and ( iv ) placebo .
+METHODS	Participants independently completed the Profile of Mood States and a Somatic Symptom Scale at baseline and at 30 and 125min after beverage administration .
+RESULTS	Breath alcohol concentration peaked at .068 % and .067 % in the alcohol and AmED conditions , respectively .
+RESULTS	There were no interactive alcohol and ED effects on self-reported psychological outcomes .
+RESULTS	Treatment effects for physiological outcomes generally only related to alcohol or ED administration , with the exception of a moderate magnitude decrease in heart palpitation ratings following alcohol relative to AmED .
+RESULTS	Decreased muscular tension ratings were evident when the two constituents were consumed separately relative to placebo .
+CONCLUSIONS	The results provide evidence of few subjective changes in physiological and psychological state after consuming AmED relative to alcohol .
+CONCLUSIONS	The majority of treatment-based changes arose from the independent effects of alcohol or ED , rather than being modified by their interaction .
+CONCLUSIONS	However , research extending into higher dosage domains is required to increase outcome generalisability for consumers in the night-time economy .
+

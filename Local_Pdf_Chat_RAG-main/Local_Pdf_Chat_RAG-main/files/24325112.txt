@@ -1,0 +1,14 @@
+24325112
+OBJECTIVE	To investigate the safety and efficay of low-dose furosemide in the correction of oliguria in the patients undergoing gynecologic surgery .
+METHODS	A total of 120 patients , aged between 20 to 50 years old , who were scheduled to receive elective gynecological open surgery under general anesthesia , were randomly divided into 3 groups : the control group , furosemide 0.05 mg/kg ( F0 .5 ) group and furosemide 0.1 mg/kg ( F1 ) group ( n = 40 ) .
+METHODS	During surgery , blood volume and blood pressure was maintained in the normal range .
+METHODS	The urine volume was recorded every 30 minutes .
+METHODS	Oliguria was defined as the urine volume less than 0.5 mL / ( kg .
+METHODS	h ) , When oliguria was observed , flurosemide or saline was given to the patients based on the enrollment status .
+METHODS	If the patients were still oliguric 30 min later , the treatment was repeated .
+METHODS	The total time of surgery , net fluid infusion volume , urine volume per unit time per body weight at the completion of surgery , the incidence of intraoperative oliguria , the total amount of furosemide and the average specific gravity of urine were recorded .
+RESULTS	There was no statistically significant difference in sex , age , fasting time , the total time of surgery and intraoperative net fluid infusion volume among the three groups ( P > 0.05 ) .
+RESULTS	The urine volume per unit time per body weight in control group was significantly lower than that of the other two groups ( P < 0.01 ) .
+RESULTS	The incidence of intraoperative oliguria in the three groups ( control , low dose , high dose groups ) were 52.5 % , 12.5 % and 0 % , respectively ( P < 0.01 ) .
+CONCLUSIONS	Low-dose of furosemide could maintain normal urine volume and specific gravity of urine during gynecological surgery .
+

@@ -1,0 +1,13 @@
+25339468
+OBJECTIVE	We aimed to determine the relationship between blood lactate , carboxy-hemoglobin ( COHb ) levels and the severity of clinical findings in patients with CO poisoning .
+METHODS	Patients over 18 years old and of both gender who were admitted to Emergency Department with the diagnosis of CO poisoning between 10.02.2008 and 17.03.20011 were enrolled in this study .
+METHODS	Detailed physical examination of each patient was performed , patients and their relatives were informed about the study and written consents were noted .
+METHODS	The levels of consciousness , physical examination findings , electrocardiographic findings , Glasgow Coma Scale ( GCS ) scores , laboratory results ( lactate , COHb , CK-MB , Troponin-I levels ) and applied treatments [ normobaric oxygen therapy ( NBOT ) , hyperbaric oxygen therapy ( HBOT ) ] were recorded to standart data entry form for each patient .
+METHODS	SPSS for Windows version 18 package program was used for statistical analysis of the data .
+RESULTS	Total 201 patients were included in this study .
+RESULTS	Thirty five patients ( 17.4 % ) received HBOT and lactate , COHb , CKMB , Troponin-I levels of this group were higher than the other patients .
+RESULTS	Lactate and COHb levels were statistically significantly higher in patients with GCS < 15 than the ones with GCS = 15 ( p < 0.01 ) .
+RESULTS	The patients whose both Troponin-I and CK-MB levels increased have higher lactate levels ( p = 0.038 ) , but COHb levels of these patients did not change ( p = 0.495 ) .
+CONCLUSIONS	According to our study , blood lactate and COHb levels were both correlated with the changes of consciousness in CO poisoning .
+CONCLUSIONS	Blood lactate levels together with COHb in defining indications for HBO treatment might be suggested .
+

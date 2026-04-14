@@ -1,0 +1,14 @@
+24531987
+BACKGROUND	Social connections at all stages of life are essential for physical and mental well-being .
+BACKGROUND	Of particular importance are social relationships during adolescence that shape adult health behaviors and health outcomes .
+OBJECTIVE	The aim of this study was to estimate the association between adolescent peer status in school and later-life quality-adjusted life-years ( QALYs ) and healthcare costs .
+METHODS	This study used social network and health outcomes data from Wave I ( ages 12-18years ) and Wave III ( ages 18-24years ) of the US National Longitudinal Study of Adolescent Health ( n = 10,578 ) to compare QALYs and healthcare costs ( in 2012 US$ ) by adolescent peer status in US schools .
+METHODS	Generalized linear models controlled for school fixed effects , individual and family characteristics , and US census block neighborhood effects .
+METHODS	Non-parametric bootstrapping accounted for residual skewness in QALYs and healthcare costs .
+METHODS	Net monetary benefit ( NMB ) was calculated by converting adjusted 5-year QALYs into US$ values and subtracting 5-year healthcare costs .
+METHODS	NMB was then compared across quintiles of adolescent peer status in school at Wave I.
+RESULTS	Results obtained from non-parametric bootstrapping indicate that adolescents with higher peer status in school experience significantly better health and lower healthcare costs over the next 5years .
+RESULTS	At US$ 50,000 per QALY , adolescents with 8 or more friends achieved NMB of US$ 214,300 ( 95 % CI 212,800-215 ,800 ) over a 5-year span , in comparison to adolescents with 0-1 friends , who attained US$ 209,900 ( 95 % CI 207,900-211 ,700 ) NMB .
+RESULTS	This difference translates into approximately US$ 4,440 ( 95 % CI 2,036-6 ,825 ) per socially disengaged adolescent in additional health costs and/or reduced QALYs over 5years .
+CONCLUSIONS	The study calls for randomized controlled trials targeting adolescent peer group structures in schools as a means to promote better health and lower healthcare costs in adulthood .
+

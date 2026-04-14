@@ -1,0 +1,11 @@
+25884724
+BACKGROUND	Adults living in the sunny Australian climate are at high risk of skin cancer , but vitamin D deficiency ( defined here as a serum 25-hydroxyvitamin D ( 25 ( OH ) D ) concentration of less than 50 nmol/L ) is also common .
+BACKGROUND	Vitamin D deficiency may be a risk factor for a range of diseases .
+BACKGROUND	However , the optimal strategies to achieve and maintain vitamin D adequacy ( sun exposure , vitamin D supplementation or both ) , and whether sun exposure itself has benefits over and above initiating synthesis of vitamin D , remain unclear .
+BACKGROUND	The Sun Exposure and Vitamin D Supplementation ( SEDS ) Study aims to compare the effectiveness of sun exposure and vitamin D supplementation for the management of vitamin D insufficiency , and to test whether these management strategies differentially affect markers of immune and cardio-metabolic function .
+METHODS	The SEDS Study is a multi-centre , randomised controlled trial of two different daily doses of vitamin D supplementation , and placebo , in conjunction with guidance on two different patterns of sun exposure .
+METHODS	Participants recruited from across Australia are aged 18-64 years and have a recent vitamin D test result showing a serum 25 ( OH ) D level of 40-60 nmol/L .
+CONCLUSIONS	This paper discusses the rationale behind the study design , and considers the challenges but necessity of data collection within a non-institutionalised adult population , in order to address the study aims .
+CONCLUSIONS	We also discuss the challenges of participant recruitment and retention , ongoing engagement of referring medical practitioners and address issues of compliance and participant retention .
+BACKGROUND	Australia New Zealand Clinical Trials Registry : ACTRN12613000290796 Registered 14 March 2013 .
+

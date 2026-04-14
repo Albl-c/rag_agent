@@ -1,0 +1,16 @@
+24550202
+BACKGROUND	In-hospital cardiac arrest ( IHCA ) outcomes vary widely between hospitals , even after adjusting for patient characteristics , suggesting variations in practice as a potential etiology .
+BACKGROUND	However , little is known about the standards of IHCA resuscitation practice among US hospitals .
+OBJECTIVE	To describe current US hospital practices with regard to resuscitation care .
+METHODS	A nationally representative mail survey .
+METHODS	A random sample of 1000 hospitals from the American Hospital Association database , stratified into 9 categories by hospital volume tertile and teaching status ( major teaching , minor teaching , and nonteaching ) .
+METHODS	Surveys were addressed to each hospital 's cardiopulmonary resuscitation ( CPR ) committee chair or chief medical/quality officer .
+METHODS	A 27-item questionnaire .
+RESULTS	Responses were received from 439 hospitals with a similar distribution of admission volume and teaching status as the sample population ( P = 0.50 ) .
+RESULTS	Of the 270 ( 66 % ) hospitals with a CPR committee , 23 ( 10 % ) were chaired by a hospitalist .
+RESULTS	High frequency practices included having a rapid response team ( 91 % ) and standardizing defibrillators ( 88 % ) .
+RESULTS	Low frequency practices included therapeutic hypothermia and use of CPR assist technology .
+RESULTS	Other practices such as debriefing ( 34 % ) and simulation training ( 62 % ) were more variable and correlated with the presence of a CPR committee and/or dedicated personnel for resuscitation quality improvement .
+RESULTS	The majority of hospitals ( 79 % ) reported at least 1 barrier to quality improvement , of which the lack of a resuscitation champion and inadequate training were the most common .
+CONCLUSIONS	There is wide variability among hospitals and within practices for resuscitation care in the United States with opportunities for improvement .
+

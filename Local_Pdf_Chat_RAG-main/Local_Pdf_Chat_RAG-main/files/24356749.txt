@@ -1,0 +1,13 @@
+24356749
+OBJECTIVE	The aim of this study was to investigate whether genetic variance can influence the efficacy of glibenclamide in patients with type 2 diabetes .
+METHODS	A total of 747 patients with type 2 diabetes was enrolled from the Xiaoke Pills Clinical Trial , which is a double-blind , randomised controlled trial .
+METHODS	All the patients had been treated with glibenclamide for 48 weeks , with strict drug dose adjustment and data collection .
+METHODS	Treatment failure was confirmed when patients reached the criteria for terminating their participation in the study ( fasting blood glucose level 7.0 mmol/l on two consecutive tests 4 weeks after reaching the pre-set maximal dose or maximal tolerated dose ) .
+METHODS	Using this cohort , we tested 44 single-nucleotide polymorphisms ( SNPs ) in 27 gene regions .
+METHODS	The genes in our study were involved in the metabolism of sulfonylureas , islet beta cell function , insulin resistance and beta cell growth and differentiation .
+METHODS	A logistic regression model was used to evaluate the relationship between genetic variants and treatment failure over a period of 48 weeks .
+RESULTS	We found that no SNP reached the significance level of p < 0.00125 if Bonferroni correction was performed for multiple testing in the logistic regression model used in this pharmacogenetic study .
+RESULTS	Participants with the minor allele C of rs10811661 in CDKN2A/CDKN2B showed a significantly greater reduction in fasting blood glucose ( TT vs TC vs CC : 9.3 % ( 0-20 .0 % ) vs 9.2 % ( 0.9-20 .5 % ) vs 12.7 % ( 5.2-24 .4 % ) , p = 0.008 ) after the initial 4 weeks of treatment independent of age , sex and BMI .
+RESULTS	There was a significant difference in beta cell function among carriers of different genotypes of rs10811661 .
+CONCLUSIONS	Our study demonstrated that the CDKN2A/CDKN2B gene may be nominally associated with the efficacy of glibenclamide , and that CDKN2A/CDKN2B is associated with beta cell function .
+

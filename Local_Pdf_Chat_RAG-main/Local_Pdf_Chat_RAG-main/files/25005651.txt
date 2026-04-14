@@ -1,0 +1,15 @@
+25005651
+OBJECTIVE	Ninety percent of cases of acute calculous cholecystitis are of mild ( grade I ) or moderate ( grade II ) severity .
+OBJECTIVE	Although the preoperative and intraoperative antibiotic management of acute calculous cholecystitis has been standardized , few data exist on the utility of postoperative antibiotic treatment .
+OBJECTIVE	To determine the effect of postoperative amoxicillin plus clavulanic acid on infection rates after cholecystectomy .
+METHODS	A total of 414 patients treated at 17 medical centers for grade I or II acute calculous cholecystitis and who received 2 g of amoxicillin plus clavulanic acid 3 times a day while in the hospital before and once at the time of surgery were randomized after surgery to an open-label , noninferiority , randomized clinical trial between May 2010 and August 2012 .
+METHODS	After surgery , no antibiotics or continue with the preoperative antibiotic regimen 3 times daily for 5 days .
+METHODS	The proportion of postoperative surgical site or distant infections recorded before or at the 4-week follow-up visit .
+RESULTS	An imputed intention-to-treat analysis of 414 patients showed that the postoperative infection rates were 17 % ( 35 of 207 ) in the nontreatment group and 15 % ( 31 of 207 ) in the antibiotic group ( absolute difference , 1.93 % ; 95 % CI , -8.98 % to 5.12 % ) .
+RESULTS	In the per-protocol analysis , which involved 338 patients , the corresponding rates were both 13 % ( absolute difference , 0.3 % ; 95 % CI , -5.0 % to 6.3 % ) .
+RESULTS	Based on a noninferiority margin of 11 % , the lack of postoperative antibiotic treatment was not associated with worse outcomes than antibiotic treatment .
+RESULTS	Bile cultures showed that 60.9 % were pathogen free .
+RESULTS	Both groups had similar Clavien complication severity outcomes : 195 patients ( 94.2 % ) in the nontreatment group had a score of 0 to I and 2 patients ( 0.97 % ) had a score of III to V , and 182 patients ( 87.8 % ) in the antibiotic group had a score of 0 to I and 4 patients ( 1.93 % ) had a score of III to V.
+CONCLUSIONS	Among patients with mild or moderate calculous cholecystitis who received preoperative and intraoperative antibiotics , lack of postoperative treatment with amoxicillin plus clavulanic acid did not result in a greater incidence of postoperative infections .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01015417 .
+

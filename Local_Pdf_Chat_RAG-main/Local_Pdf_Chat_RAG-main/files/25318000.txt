@@ -1,0 +1,11 @@
+25318000
+OBJECTIVE	To evaluate the pain on injection of propofol via different combinations of fentanyl , sufentanil or remifentanil in gastrointestinal endoscopy .
+METHODS	Total 439 patients were randomly allocated into 6 groups .
+METHODS	Propofol & fentanil ( PF ) group received 1 g/kg fentanyl , propofol & sufentanil ( PS ) group received 0.1 g/kg sufentanil and propofol & remifentanyl ( PR ) group received 1 g/kg remifentanyl prior to administration of 1-2 mg/kg of propofol .
+METHODS	The propofol & half-fentanil ( Pf ) group , propofol & half-sufentanil ( Ps ) group and propofol & half-remifentanyl ( Pr ) group were given 0.5 g/kg fentanyl , 0.05 g/kg sufentanil and 0.5 g/kg remifentanyl , respectively and later administrated 1-2 mg/kg propofol .
+METHODS	All patients were monitored for the blood pressure ( MAP ) , heart rate ( HR ) , and oxygen saturation ( SpO2 ) .
+METHODS	Additionally , the pain intensity was assessed using a 4-point verbal rating scale ( VRS ) by professional doctors .
+RESULTS	The incidence of pain due to propofol injection in Ps group ( 33.8 % ) was significantly lower than other 5 groups .
+RESULTS	The heart rate ( HR ) and mean arterial pressure ( MAP ) were maintained within the normal limits in all six groups and there was no hypotension or bradycardia encountered during the study period .
+CONCLUSIONS	Propofol and sufentanil group was the most suitable program for painless gastroscopy .
+

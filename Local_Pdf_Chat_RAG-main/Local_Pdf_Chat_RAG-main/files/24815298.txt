@@ -1,0 +1,16 @@
+24815298
+BACKGROUND	The importance of interactions between the host and gut microbiota in the pathogenesis of irritable bowel syndrome ( IBS ) is becoming increasingly apparent .
+BACKGROUND	Probiotics offer a potential new treatment for IBS , but current results are conflicting , largely as a result of poorly designed trials and nonstandardisation of outcome measures .
+OBJECTIVE	To assess the efficacy of a liquid , multi-strain probiotic ( Symprove ) in IBS .
+METHODS	A single-centre , randomised , double-blind , placebo-controlled trial of adult patients with symptomatic IBS .
+METHODS	Patients received 12 weeks of treatment with the probiotic or placebo ( 1 mL/kg/day ) .
+METHODS	The primary efficacy measure was the difference in change in the IBS symptom severity score ( IBS-SSS ) between probiotic vs. placebo at week 12 .
+METHODS	Secondary outcome measures included change in the IBS quality of life ( IBS-QOL ) score and change in the IBS-SSS symptom component scores .
+RESULTS	A total of 186 patients were randomised and 152 patients completed the study .
+RESULTS	The mean change in IBS-SSS was -63.3 probiotic vs. -28.3 placebo .
+RESULTS	The mean difference in the IBS-SSS was statistically significant [ -35.0 ( 95 % CI ; -62.03 , -7.87 ) ; P = 0.01 ] .
+RESULTS	There was no significant improvement in the IBS-QOL .
+RESULTS	No serious adverse events were reported .
+CONCLUSIONS	The multi-strain probiotic was associated with a statistically significant improvement in overall symptom severity in patients with IBS , and was well tolerated .
+CONCLUSIONS	These results suggest this probiotic confers benefit in IBS and deserves further investigation ( ISRCTN identifier : 77512412 ) .
+

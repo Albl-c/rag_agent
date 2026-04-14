@@ -1,0 +1,17 @@
+26143666
+OBJECTIVE	To evaluate the association of subretinal hyperreflective material ( SHRM ) with visual acuity ( VA ) , geographic atrophy ( GA ) , and scar in the Comparison of Age-Related Macular Degeneration Treatments Trials ( CATT ) .
+METHODS	Prospective cohort study within a randomized clinical trial .
+METHODS	The 1185 CATT participants .
+METHODS	Masked readers graded scar and GA on fundus photography and fluorescein angiography and graded SHRM on time-domain and spectral-domain ( SD ) optical coherence tomography ( OCT ) throughout 104 weeks .
+METHODS	Measurements of SHRM height and width in the fovea , within the center 1 mm ( 2 ) , or outside the center 1mm ( 2 ) were obtained on SD OCT images at 56 ( n = 76 ) and 104 ( n = 66 ) weeks .
+METHODS	Presence of SHRM , as well as location and size , and associations with VA , scar , and GA. .
+RESULTS	Among CATT participants , the percentage with SHRM at enrollment was 77 % , decreasing to 68 % at 4 weeks after treatment and to 54 % at 104 weeks .
+RESULTS	At 104 weeks , scar was present more often in eyes with persistent SHRM than in eyes with SHRM that resolved ( 64 % vs. 31 % ; P < 0.0001 ) .
+RESULTS	Among eyes with detailed evaluation of SHRM at weeks 56 ( n = 76 ) and 104 ( n = 66 ) , mean VA letter score was 73.5 ( standard error [ SE ] , 2.8 ) , 73.1 ( SE , 3.4 ) , 65.3 ( SE , 3.5 ) , and 63.9 ( SE , 3.7 ) when SHRM was absent , present outside the central 1 mm ( 2 ) , present within the central 1 mm ( 2 ) but not the foveal center , or present at the foveal center ( P = 0.02 ) , respectively .
+RESULTS	When SHRM was present , the median maximum height under the fovea , within the central 1 mm ( 2 ) including the fovea and anywhere within the scan , was 86 m , 120 m , and 122 m , respectively .
+RESULTS	Visual acuity was decreased with greater SHRM height and width ( P < 0.05 ) .
+CONCLUSIONS	In eyes with neovascular age-related macular degeneration ( AMD ) , SHRM is common and often persists after anti-vascular endothelial growth factor treatment .
+CONCLUSIONS	At 2 years , eyes with scar were more likely to have SHRM than other eyes .
+CONCLUSIONS	Greater SHRM dimensions were associated with worse VA. .
+CONCLUSIONS	In eyes with neovascular AMD , SHRM is an important morphologic biomarker .
+

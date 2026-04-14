@@ -1,0 +1,531 @@
+{
+  "total_questions": 20,
+  "hit_at_k": 0.65,
+  "answer_success_rate": 0.0,
+  "avg_latency_ms": 29.9,
+  "details": [
+    {
+      "id": "q01_naion_fc",
+      "question": "在 NAION 急性期治疗中，氟可龙（fluocortolone）对视力是否有长期改善作用？",
+      "gold_sources": [
+        "24225379.txt"
+      ],
+      "retrieved_top_sources": [
+        "24225379.txt",
+        "24268590.txt",
+        "24256699.txt",
+        "24228533.txt",
+        "24273046.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "fluocortolone",
+        "6 months",
+        "long-term",
+        "visual acuity",
+        "significantly improves"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 19.01
+    },
+    {
+      "id": "q02_obesity_nurse_se",
+      "question": "PRIMROSE 儿童肥胖预防试验中，对护士进行培训后自我效能（SE）有何变化？",
+      "gold_sources": [
+        "24220044.txt"
+      ],
+      "retrieved_top_sources": [
+        "24280465.txt",
+        "24228532.txt",
+        "24247300.txt"
+      ],
+      "hit_at_k": false,
+      "expected_keywords": [
+        "self-efficacy",
+        "increased",
+        "nurses",
+        "childhood obesity",
+        "workshop"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 29.73
+    },
+    {
+      "id": "q03_knee_oa_plaster",
+      "question": "关于膝骨关节炎，golden plaster 研究采用了什么研究设计，主要评估目标是什么？",
+      "gold_sources": [
+        "24220504.txt"
+      ],
+      "retrieved_top_sources": [
+        "24220504.txt",
+        "24253956.txt",
+        "24245880.txt",
+        "24262496.txt",
+        "24260129.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "randomized",
+        "double-blind",
+        "placebo-controlled",
+        "knee osteoarthritis",
+        "vas"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 38.26
+    },
+    {
+      "id": "q04_haiti_lns_growth",
+      "question": "海地城市贫民区婴幼儿研究中，6个月 LNS 对生长指标是否有改善且是否持续？",
+      "gold_sources": [
+        "24225356.txt"
+      ],
+      "retrieved_top_sources": [
+        "24280465.txt",
+        "24280475.txt",
+        "24245880.txt",
+        "24225356.txt",
+        "24260129.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "lns",
+        "6-mo",
+        "length-for-age",
+        "weight-for-age",
+        "sustained"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 14.48
+    },
+    {
+      "id": "q05_cesarean_nv_prophylaxis",
+      "question": "剖宫产脊麻患者预防恶心呕吐（NV）中，哪种方案风险降低最明显？",
+      "gold_sources": [
+        "24226381.txt"
+      ],
+      "retrieved_top_sources": [
+        "24280465.txt",
+        "24228533.txt",
+        "24280475.txt"
+      ],
+      "hit_at_k": false,
+      "expected_keywords": [
+        "tropisetron",
+        "metoclopramide",
+        "59.5%",
+        "nausea",
+        "vomiting"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 14.06
+    },
+    {
+      "id": "q06_hs_tni_af_risk",
+      "question": "在房颤患者中，hs-TnI 对卒中、心源性死亡和大出血风险分层有什么价值？",
+      "gold_sources": [
+        "24226808.txt"
+      ],
+      "retrieved_top_sources": [
+        "24280465.txt",
+        "24280475.txt",
+        "24228533.txt",
+        "24228532.txt"
+      ],
+      "hit_at_k": false,
+      "expected_keywords": [
+        "hs-tni",
+        "risk stratification",
+        "stroke",
+        "cardiac death",
+        "cha2ds2vasc"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 22.55
+    },
+    {
+      "id": "q07_haart_hlp_tcm",
+      "question": "HAART 相关高脂血症研究里，中药方案与血脂康在 Tch/LDL/HDL/TG 上的差异是什么？",
+      "gold_sources": [
+        "24228532.txt"
+      ],
+      "retrieved_top_sources": [
+        "24228532.txt",
+        "24261345.txt",
+        "24225201.txt",
+        "24270743.txt",
+        "24247300.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "haart",
+        "tch",
+        "ldl",
+        "hdl",
+        "12 weeks"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 35.15
+    },
+    {
+      "id": "q08_immune1_cd4",
+      "question": "Immune 1 联合 HAART 对哪一类 HIV/AIDS 患者的免疫重建率提升更明显？",
+      "gold_sources": [
+        "24228534.txt"
+      ],
+      "retrieved_top_sources": [
+        "24228534.txt",
+        "24228533.txt",
+        "24273179.txt",
+        "24228532.txt",
+        "24268590.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "immune 1",
+        "haart",
+        "cd4",
+        "200-350",
+        "immune reconstitution"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 36.47
+    },
+    {
+      "id": "q09_lss_ehealth",
+      "question": "SSPANLI 干预针对腰椎管狭窄（LSS）包含哪些核心组成，试验周期如何设置？",
+      "gold_sources": [
+        "24228747.txt"
+      ],
+      "retrieved_top_sources": [
+        "24237188.txt",
+        "24228532.txt",
+        "24228747.txt",
+        "24245880.txt",
+        "24280475.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "sspanli",
+        "e-health",
+        "pedometer",
+        "nutrition education",
+        "12-week"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 38.15
+    },
+    {
+      "id": "q10_t2dm_combo",
+      "question": "2型糖尿病患者中，mitiglinide+sitagliptin 联合方案相比单药的主要优势是什么？",
+      "gold_sources": [
+        "24249434.txt"
+      ],
+      "retrieved_top_sources": [
+        "24249434.txt",
+        "24228532.txt",
+        "24247812.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "mitiglinide",
+        "sitagliptin",
+        "postprandial glucose",
+        "no hypoglycemic events",
+        "insulinogenic index"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 38.03
+    },
+    {
+      "id": "q11_cad_ait_weight",
+      "question": "CAD 超重/肥胖人群研究中，主要终点是什么，干预组是如何设置的？",
+      "gold_sources": [
+        "24252596.txt"
+      ],
+      "retrieved_top_sources": [
+        "24246588.txt",
+        "24252596.txt",
+        "24245738.txt",
+        "24247300.txt",
+        "24260129.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "coronary flow reserve",
+        "ait",
+        "weight loss",
+        "12weeks",
+        "stable cad"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 23.84
+    },
+    {
+      "id": "q12_cbt_video_vs_inperson",
+      "question": "视频 CBT 与面对面 CBT 在情绪/焦虑障碍治疗效果上是否存在显著差异？",
+      "gold_sources": [
+        "24252663.txt"
+      ],
+      "retrieved_top_sources": [
+        "24252663.txt",
+        "24228532.txt",
+        "24275909.txt",
+        "24249434.txt",
+        "24236828.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "videoconference",
+        "in-person",
+        "no significant differences",
+        "depression",
+        "anxiety"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 13.74
+    },
+    {
+      "id": "q13_mets_bread_response",
+      "question": "代谢综合征受试者中，不同面包（AX/BG/RK/WB）对餐后血糖和胰岛素反应的结论是什么？",
+      "gold_sources": [
+        "24253758.txt"
+      ],
+      "retrieved_top_sources": [
+        "24245880.txt",
+        "24228532.txt",
+        "24268433.txt",
+        "24261345.txt",
+        "24228533.txt"
+      ],
+      "hit_at_k": false,
+      "expected_keywords": [
+        "metabolic syndrome",
+        "bg",
+        "rk",
+        "glycaemic responses",
+        "insulin responses"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 29.5
+    },
+    {
+      "id": "q14_asthma_acupuncture_icer",
+      "question": "过敏性哮喘中，针灸作为常规治疗附加方案的成本效果结论是什么？",
+      "gold_sources": [
+        "24256028.txt"
+      ],
+      "retrieved_top_sources": [
+        "24228533.txt",
+        "24228532.txt",
+        "24280465.txt",
+        "24260129.txt",
+        "24280475.txt"
+      ],
+      "hit_at_k": false,
+      "expected_keywords": [
+        "allergic bronchial asthma",
+        "qaly",
+        "icer",
+        "cost-effective",
+        "routine care"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 35.31
+    },
+    {
+      "id": "q15_ich_platelet_transfusion",
+      "question": "创伤性颅内出血且服用阿司匹林患者中，单次血小板输注是否改善血小板功能并改善结局？",
+      "gold_sources": [
+        "24256671.txt"
+      ],
+      "retrieved_top_sources": [
+        "24254035.txt",
+        "24245880.txt",
+        "24280465.txt",
+        "24228532.txt",
+        "24268590.txt"
+      ],
+      "hit_at_k": false,
+      "expected_keywords": [
+        "traumatic ich",
+        "platelet transfusion",
+        "did not improve platelet function",
+        "neurosurgical intervention",
+        "nonfunctioning platelets"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 39.09
+    },
+    {
+      "id": "q16_children_fiber_snacks",
+      "question": "7-11岁儿童高纤零食干预中，膳食纤维摄入和胃肠健康变化如何？",
+      "gold_sources": [
+        "24274323.txt"
+      ],
+      "retrieved_top_sources": [
+        "24231639.txt",
+        "24280465.txt",
+        "24253758.txt",
+        "24260129.txt",
+        "24274323.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "high-fiber snacks",
+        "dietary fiber",
+        "2.5 g per day",
+        "gi health",
+        "whole grain"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 34.61
+    },
+    {
+      "id": "q17_pwv_valsartan_atenolol",
+      "question": "EXPLOR 试验中，valsartan 组与 atenolol 组在 PWV 变化上有什么关键区别？",
+      "gold_sources": [
+        "24275838.txt"
+      ],
+      "retrieved_top_sources": [
+        "24275838.txt",
+        "24228532.txt",
+        "24247300.txt",
+        "24245880.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "pwv",
+        "valsartan",
+        "atenolol",
+        "aortic stiffness",
+        "bp-independent"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 37.37
+    },
+    {
+      "id": "q18_niv_hme_vs_hh",
+      "question": "急性呼衰 NIV 研究中，HH 相比 HME 是否降低插管率？",
+      "gold_sources": [
+        "24275900.txt"
+      ],
+      "retrieved_top_sources": [
+        "24275900.txt",
+        "24247300.txt",
+        "24280465.txt",
+        "24228532.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "noninvasive ventilation",
+        "hme",
+        "hh",
+        "intubation rate",
+        "no difference"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 23.37
+    },
+    {
+      "id": "q19_implant_immediate_loading",
+      "question": "后牙区即刻负重种植研究中，两类锥形种植体1年成功率和稳定性结论如何？",
+      "gold_sources": [
+        "24278929.txt"
+      ],
+      "retrieved_top_sources": [
+        "24260129.txt",
+        "24228532.txt",
+        "24245738.txt",
+        "24228533.txt",
+        "24280465.txt"
+      ],
+      "hit_at_k": false,
+      "expected_keywords": [
+        "immediate loading",
+        "tapered implants",
+        "success rates",
+        "implant stability",
+        "12 months"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 37.66
+    },
+    {
+      "id": "q20_nucai_hnc_qol",
+      "question": "头颈癌患者 NUCAI 护理干预在 12-24 个月对生活质量和抑郁症状的效果如何？",
+      "gold_sources": [
+        "24280999.txt"
+      ],
+      "retrieved_top_sources": [
+        "24280999.txt",
+        "24261644.txt",
+        "24268387.txt",
+        "24280465.txt",
+        "24225216.txt"
+      ],
+      "hit_at_k": true,
+      "expected_keywords": [
+        "nucai",
+        "head and neck cancer",
+        "quality of life",
+        "depressive symptoms",
+        "12 months"
+      ],
+      "matched_keywords": [],
+      "keyword_hit_ratio": 0.0,
+      "answer_success": false,
+      "latency_ms": 37.69
+    }
+  ],
+  "experiment": {
+    "data_dir": "test_data",
+    "file_count": 100,
+    "chunk_count": 615,
+    "chunk_size": 425,
+    "chunk_overlap": 45,
+    "enable_bm25": false,
+    "model_choice": "ollama",
+    "enable_web_search": false,
+    "top_k": 5,
+    "keyword_hit_threshold": 0.4
+  }
+}

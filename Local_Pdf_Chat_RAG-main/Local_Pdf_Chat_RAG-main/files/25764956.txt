@@ -1,0 +1,16 @@
+25764956
+OBJECTIVE	The aim of the study was to compare the efficacy of a microorganism-binding ( MB ) dressing with a silver-containing hydrofiber ( SCH ) dressing in controlling the bacterial loads of heavily colonised or locally infected chronic venous leg ulcers , before surgical management with homologous skin grafts .
+METHODS	A randomised comparative single centre study recruited patients presenting with hard-to-heal critically colonised or locally infected leg ulcers , who could be treated with skin grafting .
+METHODS	Inclusion criteria included ; ulcers of vascular aetiology , over 18 years old , a wound duration 6 months and ankle brachial index ( ABPI ) > 0.6 .
+METHODS	Patients were randomly assigned to treatment with SCH dressings ( Aquacel Ag ) or MB dressing ( Cutimed Sorbact ) .
+METHODS	Dressings were changed daily over a four-day observation period , after which they were taken for a skin grafting procedure .
+METHODS	Swab samples from ulcer beds were taken in order to quantify the bacterial load at inclusion ( D0 ) and at the end of the observation period day 4 ( D4 ) .
+METHODS	No antibiotics were administered before or during the evaluation period .
+RESULTS	Both groups ( n = 20 SCH , n = 20 MB ) were similar in gender , age , pathophysiology ( both had 15 patients with venous leg ulcers and 5 with arterial leg ulcers ) , ulcer surface , ulcer duration , treatment-related pain and initial bacterial load .
+RESULTS	Analysing bacterial load variation showed a significant reduction of bacterial burden at D4 in both groups .
+RESULTS	In the SCH group , we found an average bacterial load reduction of 41.6 % , with an average reduction of 73.1 % in the MB group ( p < 0.00001 ) .
+RESULTS	No serious adverse events were reported .
+CONCLUSIONS	Our evaluation confirmed that MB and SCH dressings are effective in reducing the bacterial burden in critically colonised or locally infected chronic leg ulcers , without inducing adverse events , with MB dressings significantly more effective .
+BACKGROUND	There were no external sources of funding for this study .
+BACKGROUND	The authors have no conflicts of interest to declare .
+

@@ -1,0 +1,14 @@
+24342746
+OBJECTIVE	Little is known about the effects of natural mineral water on constipation in adults .
+OBJECTIVE	We assessed the effect of a magnesium sulfate-rich natural mineral water ( Hpar ; Nestl Waters , Issy-les-Moulineaux , France ) on gastrointestinal transit in constipated women .
+METHODS	We performed a randomized , double-blind , placebo-controlled trial to evaluate the efficacy and safety of Hpar in outpatients with functional constipation ( based on the Rome III criteria ) .
+METHODS	The study included 244 female patients , age 18 to 60 years , identified by 62 general practitioners throughout France .
+METHODS	After a washout period , subjects drank 1.5 L natural low-mineral water daily ( control , n = 77 ) , 0.5 L Hpar and 1 L natural low-mineral water daily ( Hpar 0.5 group , n = 85 ) , or 1 L Hpar and 0.5 L natural low-mineral water daily ( Hpar 1 group , n = 82 ) for 4 weeks .
+METHODS	We collected information on the number and types of stools , abdominal pain , rescue medications , adverse events , and volume of water consumed .
+RESULTS	We observed no significant effect at week 1 .
+RESULTS	At week 2 , constipation was reduced in 21.1 % of patients in the control group , in 30.9 % in the Hpar 0.5 group ( P = .099 vs controls ) , and in 37.5 % in the Hpar 1 group ( P = .013 vs controls ) .
+RESULTS	The Hpar 1 group also had a decreased number of hard or lumpy stools ( Bristol scale , P = .030 vs baseline ) and a substantial decrease in the use of rescue medication ( P = .034 vs controls ) .
+RESULTS	Patient responses correlated with magnesium sulfate concentrations .
+RESULTS	Safety was very good ; there were no serious adverse events among patients who drank Hpar .
+CONCLUSIONS	In a controlled trial , daily consumption of 1 L Hpar reduced constipation and hard or lumpy stools in a greater percentage of women with functional constipation than natural low-mineral water , as early as the second week of treatment .
+

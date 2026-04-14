@@ -1,0 +1,10 @@
+24582162
+BACKGROUND	The aim of this multicenter study was to determine the normal ranges and the clinical relevance of multidirectional systolic parameters to evaluate global left ventricular ( LV ) systolic function .
+METHODS	Three hundred twenty-three healthy adult subjects prospectively included at 10 centers and a cohort of 310 patients with hypertension were analyzed .
+METHODS	Multidirectional global LV systolic function was analyzed using two-dimensional speckle-tracking echocardiography by means of two indices : longitudinal-circumferential systolic index ( the average of longitudinal and circumferential global systolic strain ) and global systolic index ( the average of longitudinal , circumferential , and radial global systolic strain ) .
+RESULTS	The ranges of values of the multidirectional systolic parameters in healthy subjects were -21.22 2.22 % for longitudinal-circumferential systolic index and 29.71 5.28 % for global systolic index .
+RESULTS	In addition , the lowest expected values of these multidirectional indices were determined in this population ( calculated as -1.96 SDs from the mean ) : -16.86 % for longitudinal-circumferential systolic index and 19.36 % for global systolic index .
+RESULTS	Concerning the clinical relevance of these measurements , these indices indicated the presence of subtle LV global systolic dysfunction in patients with hypertension , even though LV global longitudinal systolic strain and LV ejection fraction were normal .
+RESULTS	Moreover , in these patients , functional class ( dyspnea [ New York Heart Association classification ] ) was inversely related to both the longitudinal-circumferential index and the global systolic index .
+CONCLUSIONS	In the present multicenter study analyzing a large cohort of healthy subjects and patients with hypertension , the normal range and the clinical relevance of multidirectional systolic parameters to evaluate global LV systolic function have been determined .
+

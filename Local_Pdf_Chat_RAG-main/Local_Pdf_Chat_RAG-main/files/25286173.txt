@@ -1,0 +1,18 @@
+25286173
+OBJECTIVE	The clinical benefit of adding a macrolide to a - lactam for empirical treatment of moderately severe community-acquired pneumonia remains controversial .
+OBJECTIVE	To test noninferiority of a - lactam alone compared with a - lactam and macrolide combination in moderately severe community-acquired pneumonia .
+METHODS	Open-label , multicenter , noninferiority , randomized trial conducted from January 13 , 2009 , through January 31 , 2013 , in 580 immunocompetent adult patients hospitalized in 6 acute care hospitals in Switzerland for moderately severe community-acquired pneumonia .
+METHODS	Follow-up extended to 90 days .
+METHODS	Outcome assessors were masked to treatment allocation .
+METHODS	Patients were treated with a - lactam and a macrolide ( combination arm ) or with a - lactam alone ( monotherapy arm ) .
+METHODS	Legionella pneumophila infection was systematically searched and treated by addition of a macrolide to the monotherapy arm .
+METHODS	Proportion of patients not reaching clinical stability ( heart rate < 100/min , systolic blood pressure > 90 mm Hg , temperature < 38.0 C , respiratory rate < 24/min , and oxygen saturation > 90 % on room air ) at day 7 .
+RESULTS	After 7 days of treatment , 120 of 291 patients ( 41.2 % ) in the monotherapy arm vs 97 of 289 ( 33.6 % ) in the combination arm had not reached clinical stability ( 7.6 % difference , P = .07 ) .
+RESULTS	The upper limit of the 1-sided 90 % CI was 13.0 % , exceeding the predefined noninferiority boundary of 8 % .
+RESULTS	Patients infected with atypical pathogens ( hazard ratio [ HR ] , 0.33 ; 95 % CI , 0.13-0 .85 ) or with Pneumonia Severity Index ( PSI ) category IV pneumonia ( HR , 0.81 ; 95 % CI , 0.59-1 .10 ) were less likely to reach clinical stability with monotherapy , whereas patients not infected with atypical pathogens ( HR , 0.99 ; 95 % CI , 0.80-1 .22 ) or with PSI category I to III pneumonia ( HR , 1.06 ; 95 % CI , 0.82-1 .36 ) had equivalent outcomes in the 2 arms .
+RESULTS	There were more 30-day readmissions in the monotherapy arm ( 7.9 % vs 3.1 % , P = .01 ) .
+RESULTS	Mortality , intensive care unit admission , complications , length of stay , and recurrence of pneumonia within 90 days did not differ between the 2 arms .
+CONCLUSIONS	We did not find noninferiority of - lactam monotherapy in patients hospitalized for moderately severe community-acquired pneumonia .
+CONCLUSIONS	Patients infected with atypical pathogens or with PSI category IV pneumonia had delayed clinical stability with monotherapy .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00818610 .
+

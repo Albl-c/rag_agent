@@ -1,0 +1,12 @@
+24291151
+BACKGROUND	The negative consequences of unhealthy weight gain and the high likelihood of pediatric obesity tracking into adulthood highlight the importance of targeting youth who are ` at risk ' of obesity .
+BACKGROUND	The aim of this paper is to report the rationale and study protocol for the ` Active Teen Leaders Avoiding Screen-time ' ( ATLAS ) obesity prevention intervention for adolescent boys living in low-income communities .
+METHODS	The ATLAS intervention will be evaluated using a cluster randomized controlled trial in 14 secondary schools in the state of New South Wales ( NSW ) , Australia ( 2012 to 2014 ) .
+METHODS	ATLAS is an 8-month multi-component , school-based program informed by self-determination theory and social cognitive theory .
+METHODS	The intervention consists of teacher professional development , enhanced school-sport sessions , researcher-led seminars , lunch-time physical activity mentoring sessions , pedometers for self-monitoring , provision of equipment to schools , parental newsletters , and a smartphone application and website .
+METHODS	Assessments were conducted at baseline and will be completed again at 9 - and 18-months from baseline .
+METHODS	Primary outcomes are body mass index ( BMI ) and waist circumference .
+METHODS	Secondary outcomes include BMI z-scores , body fat ( bioelectrical impedance analysis ) , physical activity ( accelerometers ) , muscular fitness ( grip strength and push-ups ) , screen-time , sugar-sweetened beverage consumption , resistance training skill competency , daytime sleepiness , subjective well-being , physical self-perception , pathological video gaming , and aggression .
+METHODS	Hypothesized mediators of behavior change will also be explored .
+CONCLUSIONS	ATLAS is an innovative school-based intervention designed to improve the health behaviors and related outcomes of adolescent males in low-income communities .
+

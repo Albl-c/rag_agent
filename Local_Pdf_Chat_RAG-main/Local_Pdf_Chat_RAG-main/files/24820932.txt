@@ -1,0 +1,14 @@
+24820932
+OBJECTIVE	In this pilot study we evaluated the feasibility of and methods for assessing the quality of life of long term survivors of European Organisation for Research and Treatment of Cancer ( EORTC ) phase III clinical trials .
+OBJECTIVE	Here we report the results pertaining to the feasibility of conducting such research .
+METHODS	In this cross-sectional study , we recruited long-term , disease-free survivors from two mature EORTC clinical trials in testicular and prostate cancer from centres in Northern and Southern Europe , and the United Kingdom ( UK ) .
+RESULTS	A number of challenges were encountered in recruiting participating centres , obtaining medical ethical approval and in recruiting survivors and collecting the health-related quality of life ( HRQoL ) data in a timely manner .
+RESULTS	The efficiency with which the study could be conducted varied widely across centres and countries .
+RESULTS	Time to obtain medical ethical approval for the study ranged from 1.5 to 25 months .
+RESULTS	We encountered most problems with ethical approval in the UK , Italy and Belgium .
+RESULTS	In most cases , data collection was completed within 3 months ( range 10 weeks-1 year ) .
+RESULTS	Completed questionnaires were obtained from 68 % and 56 % , respectively , of the testicular and prostate cancer survivors who were approached .
+CONCLUSIONS	HRQoL research among long-term survivors of EORTC phase III clinical trials is possible , but the process of ethical approval and data collection is a lengthy one .
+CONCLUSIONS	To minimise many of the logistical problems , long-term follow-up of patients should be an integral part of future clinical trials .
+CONCLUSIONS	Moreover , regulations governing medical ethical approval for clinical research within the EU should be carefully evaluated to facilitate long-term follow-up of cancer survivors in Europe .
+

@@ -1,0 +1,15 @@
+24962527
+BACKGROUND	This study compared mid-term functional and radiologic results of syndesmotic transfixation with no fixation in supination external rotation ( SER ) ankle fractures with intraoperatively confirmed syndesmosis disruption .
+BACKGROUND	Our hypothesis was that early-stage good functional results would remain and unfixed syndesmosis disruption in SER IV ankle fractures would not lead to an increased incidence of osteoarthritis .
+METHODS	A prospective study of 140 operatively treated patients with Lauge-Hansen SER IV ( Weber B ) ankle fractures was performed .
+METHODS	After bony fixation , the 7.5-Nm standardized external rotation stress test for both ankles was performed under fluoroscopy .
+METHODS	A positive stress examination was defined as a difference of more than 2 mm side-to-side in the tibiotalar or tibiofibular clear spaces on mortise radiographs .
+METHODS	The patients were randomized to either syndesmotic screw fixation ( 13 patients ) or no syndesmotic fixation ( 11 patients ) .
+METHODS	After a minimum of 4 years of follow-up ( mean , 58 months ) , ankle function and pain ( Olerud-Molander , a 100-mm visual analogue scale [ VAS ] for ankle function and pain ) and quality of life ( RAND-36 ) of all 24 patients were assessed .
+METHODS	Ankle joint congruity and osteoarthritis were assessed using mortise and lateral projection plain weight-bearing radiographs and magnetic resonance imaging ( MRI ; 3T ) scans .
+RESULTS	Improvement in Olerud-Molander score , VAS , and RAND-36 showed no significant difference between groups during the follow-up .
+RESULTS	In the syndesmotic transfixation group , improvements in all functional parameters and pain measurements were not significant , whereas in the group without syndesmotic fixation , the Olerud-Molander score improved from 84 to 93 ( P = .007 ) and the pain ( VAS ) score improved from 11 to 4 ( P = .038 ) from 1 year to last follow-up .
+RESULTS	X-ray or MRI imaging showed no difference between groups at the last follow-up visit .
+CONCLUSIONS	With the numbers available , no significant difference in functional outcome or radiologic findings could be detected between syndesmosis transfixation and no-fixation patients with SER IV ankle fracture after a minimum of 4 years of follow-up .
+METHODS	Level II , prospective comparative study .
+

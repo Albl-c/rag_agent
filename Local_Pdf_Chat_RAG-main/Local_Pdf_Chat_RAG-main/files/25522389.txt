@@ -1,0 +1,9 @@
+25522389
+BACKGROUND	Some studies suggest better overall outcomes when right unilateral electroconvulsive therapy ( RUL ECT ) is given with an ultrabrief , rather than brief , pulse width .
+METHODS	The aim of the study was to test if ultrabrief-pulse RUL ECT results in less cognitive side effects than brief - pulse RUL ECT , when given at doses which achieve comparable efficacy .
+METHODS	One hundred and two participants were assigned to receive ultrabrief ( at 8 times seizure threshold ) or brief ( at 5 times seizure threshold ) pulse RUL ECT in a double-blind , randomized controlled trial .
+METHODS	Blinded raters assessed mood and cognitive functioning over the ECT course .
+RESULTS	Efficacy outcomes were not found to be significantly different .
+RESULTS	The ultrabrief group showed less cognitive impairment immediately after a single session of ECT , and over the treatment course ( autobiographical memory , orientation ) .
+CONCLUSIONS	In summary , when ultrabrief RUL ECT was given at a higher dosage than brief RUL ECT ( 8 versus 5 times seizure threshold ) , efficacy was comparable while cognitive impairment was less .
+

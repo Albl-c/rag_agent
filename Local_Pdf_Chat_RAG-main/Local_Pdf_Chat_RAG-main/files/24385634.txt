@@ -1,0 +1,12 @@
+24385634
+OBJECTIVE	To longitudinally examine gender and racial disparities in driving cessation among older adults .
+METHODS	Data came from the Advanced Cognitive Training for Independent and Vital Elderly ( ACTIVE ) Study ( N = 1,789 ) .
+METHODS	Logistic generalized estimating equations ( GEE ) were used to identify predictors of driving cessation ; stratified analysis and interaction terms were used to determine whether factors differed by gender and race .
+RESULTS	Two hundred and five ( 11.5 % ) participants stopped driving over the study period .
+RESULTS	Education was associated with increased risk of cessation for men ( adjusted odds ratio [ AOR ] = 1.40 , 95 % confidence interval [ CI ] = 1.10 to 1.78 ) , but decreased risk for women ( AOR = 0.90 , 95 % CI = 0.82-0 .98 ) .
+RESULTS	Being married was associated with lower risk of cessation for men ( AOR = 0.18 , 95 % CI = 0.06-0 .56 ) but was unrelated to cessation for women ( AOR = 1.00 , 95 % CI = 0.56-1 .80 ) .
+RESULTS	Results were consistent with the hypothesis that racial disparities in cessation widen with increasing age .
+CONCLUSIONS	Factors predictive of driving cessation vary by gender .
+CONCLUSIONS	Racial disparities in cessation are wider at older ages .
+CONCLUSIONS	Transportation policies and programs should account for social determinants and aim to address social disparities in driving mobility among older adults .
+

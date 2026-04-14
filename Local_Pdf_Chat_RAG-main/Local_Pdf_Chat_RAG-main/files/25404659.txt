@@ -1,0 +1,9 @@
+25404659
+OBJECTIVE	To evaluate 3 - and 6-month weight-loss outcomes achieved when physicians refer overweight/obese patients to an automated 3-month Internet-based behavioral weight-loss intervention .
+METHODS	A total of 154 patients age 18-70 years with a BMI between 25 and 45 kg/m ( 2 ) and access to a personal computer and the Internet were randomly assigned to 3 months of Internet behavioral intervention ( IBI ; n = 77 ) with 12 weekly videos teaching behavioral weight-loss skills , a platform for submitting self-monitored data , and automated feedback or an education-only Internet-delivered eating and activity control group ( IDEA ; n = 77 ) .
+METHODS	Outcome measures were weight loss after 3 months ( primary outcome ) and 6 months and changes in weight-control behaviors ( secondary outcomes ) .
+RESULTS	In intent-to-treat analyses with baseline weight carried forward for missing data , IBI produced significantly larger mean ( SD ) weight losses than IDEA at 3 months ( 5.5 kg [ 4.4 ] vs. 1.3 kg [ 2.1 ] ) and 6 months ( 5.4 kg [ 5.6 ] vs. 1.3 kg [ 4.1 ] ) ( P < 0.001 ) .
+RESULTS	Participants in IBI compared with IDEA were also more likely to achieve a clinically significant weight loss of 5 % of initial body weight at 3 months ( 53.3 vs. 9.1 % ) and 6 months ( 48.1 vs. 15.6 % ) ( P < 0.001 ) and reported more frequent use of weight control-related strategies .
+CONCLUSIONS	Physician referral to an Internet-based behavioral weight-loss intervention produced clinically significant weight loss for over half of the patients studied .
+CONCLUSIONS	Further research is needed to determine the effectiveness of implementing this intervention more broadly within diverse health care settings .
+

@@ -1,0 +1,15 @@
+25527071
+BACKGROUND	The Centre for the AIDS Programme of Research in South Africa ( CAPRISA ) 004 trial demonstrated a 39 % reduction in HIV infection , with a 54 % HIV reduction in women who used tenofovir gel consistently .
+BACKGROUND	A confirmatory trial is expected to report results in early 2015 .
+BACKGROUND	In the interim , we have a unique window of opportunity to prepare for and devise effective strategies for the future policy and programmatic scale-up of tenofovir gel provision .
+BACKGROUND	One approach is to integrate tenofovir gel provision into family planning ( FP ) services .
+BACKGROUND	The CAPRISA 008 implementation trial provides an opportunity to provide post-trial access to tenofovir gel while generating empiric evidence to assess whether integrating tenofovir gel provision into routine FP services can achieve similar levels of adherence as the CAPRISA 004 trial .
+METHODS	This is a two-arm , open-label , randomized controlled non-inferiority trial .
+METHODS	A maximum of 700 sexually active , HIV-uninfected women aged 18 years and older who previously participated in an antiretroviral prevention study will be enrolled from an urban and rural site in KwaZulu-Natal , South Africa .
+METHODS	The anticipated study duration is 30 months , with active accrual requiring approximately 12 months ( following which an open cohort will be maintained ) and follow-up continuing for approximately 18 months .
+METHODS	At each of the two sites , eligible participants will be randomly assigned to receive tenofovir gel through either FP services ( intervention arm ) or through the CAPRISA research clinics ( control arm ) .
+METHODS	As part of the study intervention , a quality improvement approach will be used to assist the FP services to expand their current services to include tenofovir gel provision .
+CONCLUSIONS	This protocol aims to address an important implementation question on whether FP services are able to effectively incorporate tenofovir gel provision for this at-risk group of women in South Africa .
+CONCLUSIONS	Provision of tenofovir gel to the women from the CAPRISA 004 trial meets the ethical obligation for post-trial access , and helps identify a potential avenue for future scale-up of microbicides within the public health system of South Africa .
+BACKGROUND	This trial was registered with the South Africa Department of Health ( reference : DOH-27-0812-4129 ) and ClinicalTrials.gov ( reference : NCT01691768 ) on 05 July 2012 .
+

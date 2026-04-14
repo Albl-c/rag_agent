@@ -1,0 +1,11 @@
+24681859
+OBJECTIVE	The aim of this study was to measure round window ( RW ) diameters in patients with congenital aural atresia ( CAA ) or sensorineural hearing loss ( SNHL ) and a normal control group and to analyze whether differences exist between these groups .
+METHODS	Temporal bone computed tomographic scans of 12 patients with CAA ( 5 males , 7 females ) aged 1 to 50 years ( median age , 6 years ) , 12 patients with SNHL ( 8 males , 4 females ) aged 2 to 32 years ( median age , 5 years ) , and 11 patients ( 3 males , 7 females ) aged 2 months to 53 years ( median age , 8 years ) randomly selected from a pool of patients with unilateral chronic otitis media or cholesteatoma were reviewed .
+METHODS	We measured RW diameter on oblique reconstruction planes .
+METHODS	To prevent possible individual differences , skull width was measured .
+RESULTS	There were no statistically significant differences between all groups for skull width .
+RESULTS	Both RW diameter and RW membrane width were found smaller in the CAA group than both SNHL group and control group with statistical significance , whereas there were no statistically significant differences between the SNHL group and the control group .
+CONCLUSIONS	We found that both the RW diameter and RW membrane width in CAA were smaller than those in the control group .
+CONCLUSIONS	If this finding is supported in future studies , the production of floating mass transducer with different sizes may be useful .
+CONCLUSIONS	We suggest that RW diameter should be measured in each patient before operation and thus a floating mass transducer with the appropriate caliber should be chosen .
+

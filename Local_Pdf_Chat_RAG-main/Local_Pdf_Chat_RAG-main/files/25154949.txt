@@ -1,0 +1,14 @@
+25154949
+OBJECTIVE	Proximal and distal ( mid-thigh ) ultrasound-guided continuous adductor canal block techniques have been described but not yet compared , and infusion benefits or side effects may be determined by catheter location .
+OBJECTIVE	We hypothesized that proximal placement will result in faster onset of saphenous nerve anesthesia , without additional motor block , compared to a distal technique .
+METHODS	Preoperatively , patients receiving an ultrasound-guided nonstimulating adductor canal catheter for knee arthroplasty were randomly assigned to either proximal or distal insertion .
+METHODS	A local anesthetic bolus was administered via the catheter after successful placement .
+METHODS	The primary outcome was the time to achieve complete sensory anesthesia in the saphenous nerve distribution .
+METHODS	Secondary outcomes included procedural time , procedure-related pain and complications , postoperative pain , opioid consumption , and motor weakness .
+RESULTS	Proximal insertion ( n = 23 ) took a median ( 10th-90th percentiles ) of 12.0 ( 3.0-21 .0 ) minutes versus 6.0 ( 3.0-21 .0 ) minutes for distal insertion ( n = 21 ; P = .106 ) to anesthetize the medial calf .
+RESULTS	Only 10 of 25 ( 40 % ) and 10 of 24 ( 42 % ) patients in the proximal and distal groups , respectively , developed anesthesia at both the medial calf and top of the patella ( P = .978 ) .
+RESULTS	Bolus-induced motor weakness occurred in 19 of 25 ( 76 % ) and 16 of 24 ( 67 % ) patients in the proximal and distal groups ( P = .529 ) .
+RESULTS	Ten of 24 patients ( 42 % ) in the distal group required intravenous morphine postoperatively , compared to 2 of 24 ( 8 % ) in the proximal group ( P = .008 ) , but there were no differences in other secondary outcomes .
+CONCLUSIONS	Continuous adductor canal blocks can be performed reliably at both proximal and distal locations .
+CONCLUSIONS	The proximal approach may offer minor analgesic and logistic advantages without an increase in motor block .
+

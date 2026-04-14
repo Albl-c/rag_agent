@@ -1,0 +1,13 @@
+24444682
+OBJECTIVE	To compare the two different nutritional supports , enteral nutrition and parenteral nutrition in the aspects of nutritional conditions , immune status , the incidence of perioperative complications and quality of life impacts in pancreatic cancer .
+METHODS	For the pancreatic cancer patients which pancreaticoduodenectomy were performed from January 2007 to December 2008 in five high-volume medical centres , prospective , randomized controlled study was carried out .
+METHODS	The enrolled patients were randomly divided into enteral nutritional group ( EN group ) and parenteral nutritional group ( PN group ) .
+METHODS	Related indicators , such as nutritional conditions , immune status , incidence of complications , general status and quality of life were assessed .
+RESULTS	The 200 patients were enrolled , while 178 cases which 90 patients in EN group and 88 patients in PN group were qualified to evaluate .
+RESULTS	The 22 cases were dropped out .
+RESULTS	For the mean hospital stay ( ( 23 13 ) days and ( 27 24 ) days respcectively ) , Karnofsky score and the life quality scoring , there are no statistical differences between the two groups .
+RESULTS	In post-operation day 7 and day 10 , the prealbumin was ( 69 16 ) mg/L and ( 80 22 ) mg/L in EN group and it was ( 67 19 ) mg/L and ( 70 11 ) mg/L in PN group , which are all significantly decreased than preoperational levels ( ( 186 38 ) mg/L for enteral group and ( 179 37 ) mg/L for parenteral group , t = -2.24 , -2.13 , -2.23 , -2.20 , all P < 0.05 ) , but there was no statistically significant between the 2 groups ( P > 0.05 ) .
+RESULTS	Other general indicators such as the albumin , hemoglobin , total bilirubin , blood urea nitrogen , serum creatinine , serum potassium and serum sodium , revealed no statistical differences in the 2 groups ( P > 0.05 ) ; The total lymphocytes , CD ( + ) 3CD ( + ) 4 and CD ( + ) 3CD ( + ) 8 lymphocytes in PN group was ( 0.687 0.065 ) 10 ( 9 ) / L , ( 0.363 0.029 ) 10 ( 9 ) / L , and ( 0.183 0.018 ) 10 ( 9 ) / L respectively in post-operation day 10 , which they are significantly decreased than in preoperational levels of PN group and the respective counterpart of EN group in post-operation day10 ( t = -2.04 -2.83 , P < 0.05 ) .
+RESULTS	The 35 patients were suffered from different complications in the 2 groups , but there was no statistical differences among them ( P > 0.05 ) .
+CONCLUSIONS	Enteral nutritional support could not decrease the incidence of perioperative complications in pancreatic cancer patient , but it can improve the immunonutrition status in comparison with parenteral nutrition .
+

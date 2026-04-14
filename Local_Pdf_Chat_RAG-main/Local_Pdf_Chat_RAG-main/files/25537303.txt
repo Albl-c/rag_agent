@@ -1,0 +1,15 @@
+25537303
+BACKGROUND	Acid suppressant drugs are a mainstay of treatment for cats with gastrointestinal erosion and ulceration .
+BACKGROUND	However , clinical studies have not been performed to compare the efficacy of commonly PO administered acid suppressants in cats .
+OBJECTIVE	To compare the effect of PO administered famotidine , fractionated omeprazole tablet ( fOT ) , and omeprazole reformulated paste ( ORP ) on intragastric pH in cats .
+OBJECTIVE	We hypothesized that both omeprazole formulations would be superior to famotidine and placebo .
+METHODS	Six healthy adult DSH colony cats .
+METHODS	Utilizing a randomized , 4-way crossover design , cats received 0.88-1 .26 mg/kg PO q12h fOT , ORP , famotidine , and placebo ( lactose capsules ) .
+METHODS	Intragastric pH monitoring was used to continuously record intragastric pH for 96 hours beginning on day 4 of treatment .
+METHODS	Plasma omeprazole concentrations at steady state ( day 7 ) were determined by high performance liquid chromatography ( HPLC ) with ultraviolet detection .
+METHODS	Mean percentage time that intragastric pH was 3 and 4 were compared among groups using ANOVA with a posthoc Tukey-Kramer test ( = 0.05 ) .
+RESULTS	The mean percentage time SD that intragastric pH was 3 was 68.4 35.0 % for fOT , 73.9 23.2 % for ORP , 42.8 18.6 % for famotidine , and 16.0 14.2 % for placebo .
+RESULTS	Mean SD plasma omeprazole concentrations were similar in cats receiving fOT compared to those receiving ORP and in a range associated with acid suppression reported in other studies .
+CONCLUSIONS	These results suggest that both omeprazole formulations provide superior acid suppression in cats compared to famotidine or placebo .
+CONCLUSIONS	Fractionated enteric-coated OT is an effective acid suppressant despite disruption of the enteric coating .
+

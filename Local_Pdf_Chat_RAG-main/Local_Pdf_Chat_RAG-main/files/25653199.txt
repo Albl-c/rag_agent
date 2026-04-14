@@ -1,0 +1,20 @@
+25653199
+BACKGROUND	Excessive alcohol use is a prevalent and worldwide problem .
+BACKGROUND	Excessive drinking causes a significant burden of disease and is associated with both morbidity and excess mortality .
+BACKGROUND	Prototype alteration and provision of a cue reminder could be useful strategies to enhance the effectiveness of online tailored interventions for excessive drinking .
+OBJECTIVE	Through a Web-based randomized controlled trial , 2 strategies ( ie , prototype alteration and cue reminders ) within an existing online personalized feedback intervention ( Drinktest ) aimed to reduce adults ' excessive drinking .
+OBJECTIVE	It was expected that both strategies would add to Drinktest and would result in reductions in alcohol consumption by intrinsic motivation and the seizure of opportunities to act .
+METHODS	Participants were recruited online and through printed materials .
+METHODS	Excessive drinking adults ( N = 2634 ) were randomly assigned to 4 conditions : original Drinktest , Drinktest plus prototype alteration , Drinktest plus cue reminder , and Drinktest plus prototype alteration and cue reminder .
+METHODS	Evaluation took place at 1-month posttest and 6-month follow-up .
+METHODS	Differences in drinking behavior , intentions , and behavioral willingness ( ie , primary outcomes ) were assessed by means of longitudinal multilevel analyses using a last observation carried forward method .
+METHODS	Measures were based on self-reports .
+RESULTS	All conditions showed reductions in drinking behavior and willingness to drink , and increased intentions to reduce drinking .
+RESULTS	Prototype alteration ( B = -0.15 , P < .05 ) and cue reminder usage ( B = -0.15 , P < .05 ) were both more effective in reducing alcohol consumption than when these strategies were not provided .
+RESULTS	Combining the strategies did not produce a synergistic effect .
+RESULTS	No differences across conditions were found regarding intentions or willingness .
+CONCLUSIONS	Although individuals ' awareness of their cue was reasonable , their reported alcohol consumption was nevertheless reduced .
+CONCLUSIONS	Individuals appeared to distance their self-image from heavier drinking prototypes .
+CONCLUSIONS	Thus , prototype alteration and cue reminder usage may be feasible and simple intervention strategies to promote reductions in alcohol consumption among adults , with an effect up to 6 months .
+BACKGROUND	Nederlands Trial Register ( NTR ) : 4169 ; http://www.trialregister.nl/trialreg/admin/rctview.asp?TC=4169 ( Archived by WebCite at http://www.webcitation.org/6VD2jnxmB ) .
+

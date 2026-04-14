@@ -1,0 +1,16 @@
+25122979
+OBJECTIVE	To evaluate the efficacy of a marketed oscillating-rotating ( O-R ) power toothbrush ( Oral-B Triumph with SmartGuide and FlossAction brush head , D34/EB25 ) to a new sonic toothbrush ( Sonicare FlexCare Platinum ) in the reduction of gingivitis and plaque over a 12-week test period .
+METHODS	This was a single center , randomized , open label , examiner-blind , two-treatment , parallel group study .
+METHODS	Subjects who met the entrance criteria were enrolled in the study and randomly assigned to either the O-R or sonic treatment group .
+METHODS	Subjects brushed with their assigned toothbrush and a marketed fluoride dentifrice for two minutes twice daily at home for 12 weeks .
+METHODS	Gingivitis and plaque were evaluated at Baseline , Week 6 , and Week 12 .
+METHODS	Gingivitis was assessed using the Modified Gingival Index ( MGI ) and Gingival Bleeding Index ( GBI ) , and plaque was assessed using the Rustogi Modified Navy Plaque Index ( RMNPI ) .
+METHODS	Data were analyzed using an Analysis of Covariance ( ANCOVA ) with Baseline as the covariate .
+RESULTS	In total , 130 subjects ( 65 per group ) were randomized to treatment and 127 subjects completed the study .
+RESULTS	Both brushes produced statistically significant ( p < 0.001 ) reductions in gingivitis and plaque measures relative to Baseline .
+RESULTS	At Week 12 , the O-R brush demonstrated significantly greater reductions than the sonic brush in whole mouth gingivitis measures ( p = 0.007 ) .
+RESULTS	Additionally , the O-R brush presented significantly fewer bleeding sites ( p < 0.007 ) and significantly greater reductions in whole mouth plaque measures ( p < or = 0.035 ) at Weeks 6 and 12 versus the sonic brush .
+RESULTS	The benefit for the O-R brush versus the sonic brush at Week 12 was 11.7 % for gingivitis , 19.8 % for number of bleeding sites , and 12.2 % for whole mouth plaque .
+RESULTS	There were no adverse events reported or observed for either brush .
+CONCLUSIONS	The oscillating-rotating toothbrush demonstrated statistically significantly greater reductions in whole mouth plaque at Weeks 6 and 12 , as well as significantly greater gingivitis reductions over the long-term ( 12 weeks ) , compared to the new sonic toothbrush .
+

@@ -1,0 +1,11 @@
+25937378
+OBJECTIVE	The question of whether the placement of the dominant hand against the sternum could improve the quality of manual chest compressions remains controversial .
+OBJECTIVE	In the present study , we evaluated the influence of dominant vs nondominant hand positioning on the quality of conventional cardiopulmonary resuscitation ( CPR ) during prolonged basic life support ( BLS ) by rescuers who performed optimal and suboptimal compressions .
+METHODS	Six months after completing a standard BLS training course , 101 medical students were instructed to perform adult single-rescuer BLS for 8 minutes on a manikin with a randomized hand position .
+METHODS	Twenty-four hours later , the students placed the opposite hand in contact with the sternum while performing CPR .
+METHODS	Those with an average compression depth of less than 50 mm were considered suboptimal .
+RESULTS	Participants who had performed suboptimal compressions were significantly shorter ( 170.2 6.8 vs 174.0 5.6 cm , P = .008 ) and lighter ( 58.9 7.6 vs 66.9 9.6 kg , P < .001 ) than those who performed optimal compressions .
+RESULTS	No significant differences in CPR quality were observed between dominant and nondominant hand placements for these who had an average compression depth of greater than 50 mm .
+RESULTS	However , both the compression depth ( 49.7 4.2 vs 46.5 4.1 mm , P = .003 ) and proportion of chest compressions with an appropriate depth ( 47.6 % 27.8 % vs 28.0 % 23.4 % , P = .006 ) were remarkably higher when compressing the chest with the dominant hand against the sternum for those who performed suboptimal CPR .
+CONCLUSIONS	Chest compression quality significantly improved when the dominant hand was placed against the sternum for those who performed suboptimal compressions during conventional CPR .
+

@@ -1,0 +1,22 @@
+24861959
+OBJECTIVE	Most primary care clinicians lack the skills and resources to offer effective lifestyle and medication ( L&M ) counseling to reduce coronary heart disease ( CHD ) risk .
+OBJECTIVE	Thus , effective and feasible CHD prevention programs are needed for typical practice settings .
+OBJECTIVE	To assess the effectiveness , acceptability , and cost-effectiveness of a combined L&M intervention to reduce CHD risk offered in counselor-delivered and web-based formats .
+METHODS	A comparative effectiveness trial in 5 diverse family medicine practices in North Carolina .
+METHODS	Participants were established patients , aged 35 to 79 years , with no known cardiovascular disease , and at moderate to high risk for CHD ( 10-year Framingham Risk Score [ FRS ] , 10 % ) .
+METHODS	Participants were randomized to counselor-delivered or web-based format , each including 4 intensive and 3 maintenance sessions .
+METHODS	After randomization , both formats used a web-based decision aid showing potential CHD risk reduction associated with L&M risk-reducing strategies .
+METHODS	Participants chose the risk-reducing strategies they wished to follow .
+METHODS	The primary outcome was within-group change in FRS at 4-month follow-up .
+METHODS	Other measures included standardized assessments of blood pressure , blood lipid levels , lifestyle behaviors , and medication adherence .
+METHODS	Acceptability and cost-effectiveness were also assessed .
+METHODS	Outcomes were assessed at 4 and 12 months .
+RESULTS	Of 2274 screened patients , 385 were randomized ( 192 counselor ; 193 web ) : mean age , 62 years ; 24 % African American ; and mean FRS , 16.9 % .
+RESULTS	Follow-up at 4 and 12 months included 91 % and 87 % of the randomized participants , respectively .
+RESULTS	There was a sustained reduction in FRS at both 4 months ( primary outcome ) and 12 months for both counselor-based ( -2.3 % [ 95 % CI , -3.0 % to -1.6 % ] and -1.9 % [ 95 % CI , -2.8 % to -1.1 % ] , respectively ) and web-based groups ( -1.5 % [ 95 % CI , -2.2 % to -0.9 % ] and -1.7 % [ 95 % CI , -2.6 % to -0.8 % ] respectively ) .
+RESULTS	At 4 months , the adjusted difference in FRS between groups was -1.0 % ( 95 % CI , -1.8 % to -0.1 % ) ( P = .03 ) , and at 12 months , it was -0.6 % ( 95 % CI , -1.7 % to 0.5 % ) ( P = .30 ) .
+RESULTS	The 12-month costs from the payer perspective were $ 207 and $ 110 per person for the counselor - and web-based interventions , respectively .
+CONCLUSIONS	Both intervention formats reduced CHD risk through 12-month follow-up .
+CONCLUSIONS	The web format was less expensive .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01245686 .
+

@@ -1,0 +1,15 @@
+25108752
+OBJECTIVE	The purpose of this study was to compare the effects of manual therapy with exercise to kinesiotaping with exercise for patients with subacromial impingement syndrome .
+METHODS	Randomized clinical before and after trial was used .
+METHODS	Fifty-four patients diagnosed as having subacromial impingement syndrome who were referred for outpatient treatment were included .
+METHODS	Eligible patients ( between 30 and 60 years old , with unilateral shoulder pain ) were randomly allocated to 2 study groups : kinesiotaping with exercise ( n = 28 ) or manual therapy with exercise ( n = 26 ) .
+METHODS	In addition , patients were advised to use cold packs 5 times per day to control for pain .
+METHODS	Visual analog scale for pain , Disability of Arm and Shoulder Questionnaire for function , and diagnostic ultrasound assessment for supraspinatus tendon thickness were used as main outcome measures .
+METHODS	Assessments were applied at the baseline and after completing 6 weeks of related interventions .
+RESULTS	At the baseline , there was no difference between the 2 group characteristics ( P > .05 ) .
+RESULTS	There were significant differences in both groups before and after treatment in terms of pain decrease and improvement of Disability of Arm and Shoulder Questionnaire scores ( P < .05 ) .
+RESULTS	No difference was observed on ultrasound for tendon thickness after treatment in both groups ( P > .05 ) .
+RESULTS	The only difference between the groups was at night pain , resulting in favor of the kinesiotaping with exercise group ( P < .05 ) .
+CONCLUSIONS	For the group of subjects studied , no differences were found between kinesiotaping with exercise and manual therapy with exercise .
+CONCLUSIONS	Both treatments may have similar results in reducing pain and disability in subacromial impingement in 6 weeks .
+

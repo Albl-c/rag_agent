@@ -1,0 +1,14 @@
+26006702
+OBJECTIVE	Onapristone is an antiprogestin with activity in breast cancer and is under investigation for use in endometrial , ovarian and prostate cancers .
+OBJECTIVE	Megestrol acetate and abiraterone generally show variability in absorption and , depending on the formulation , food effect .
+OBJECTIVE	This study was conducted to determine the effect of food on 10mg oral immediate-release ( IR ) onapristone and to help identify a formulation to minimize variability .
+METHODS	This is an open-label , randomized , crossover study to determine the pharmacokinetic profile of onapristone and its main metabolite , N-mono-desmethyl onapristone .
+METHODS	Twelve healthy female subjects received 10mg of oral IR onapristone after an overnight fast , or within 30min of a high-fat , high-calorie meal with a 2-week washout between dosing periods .
+RESULTS	Onapristone plasma t1/2 ( meanSD ) was 4.360.81 h for the fasted state and 3.760.36 h for the fed state .
+RESULTS	Following food , onapristone tmax was delayed from 1 to 4h .
+RESULTS	Food intake was also associated with a small increase in AUC0 - of approximately 13 % and a statistically significant decrease in Cmax of approximately 18 % .
+RESULTS	One subject experienced a 23-day delay in menses after one 10mg onapristone dose , while another subject experienced transient grade 2 NCI-CTCAE liver enzyme elevation 3weeks post dose .
+CONCLUSIONS	The results are consistent with previous observations , indicating that there is a small increase in onapristone exposure and a significant decrease in Cmax when taken with food .
+CONCLUSIONS	These changes are within acceptable limits set out by the FDA .
+CONCLUSIONS	Thus , our findings indicate that onapristone could be administered without regard to food .
+

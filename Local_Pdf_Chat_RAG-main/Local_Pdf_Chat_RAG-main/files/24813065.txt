@@ -1,0 +1,15 @@
+24813065
+OBJECTIVE	Specific genetic or biological markers may predict inadequate response to therapy for major depressive disorder ( MDD ) .
+OBJECTIVE	The objective of the current post hoc analysis was to evaluate the effect of specific biological and genetic markers on the antidepressant efficacy of adjunctive L-methylfolate 15 mg versus placebo from a trial of inadequate responders to selective serotonin reuptake inhibitors ( SSRIs ) .
+METHODS	The double-blind , randomized , placebo-controlled trial used the sequential parallel comparison design .
+METHODS	Outpatients with SSRI-resistant MDD ( DSM-IV criteria ) received L-methylfolate 15 mg/d for 60 days , placebo for 30 days followed by L-methylfolate 15 mg/d for 30 days , or placebo for 60 days .
+METHODS	The effects of baseline levels of select biological and genetic markers individually and combined on treatment response to L-methylfolate versus placebo were evaluated ; the primary response measure was the 28-Item Hamilton Depression Rating Scale ( HDRS-28 ) .
+METHODS	The first patient was enrolled July 14 , 2009 , and the last patient completed April 28 , 2011 .
+RESULTS	Seventy-five patients were enrolled .
+RESULTS	Patients with specific biological ( body mass index 30 kg/m , elevated plasma levels of high-sensitivity C-reactive protein or 4-hydroxy-2-nonenal , low S-adenosylmethionine/S-adenosylhomocysteine ratio ) and genetic markers at baseline had significantly ( P .05 ) greater pooled mean change from baseline on the HDRS-28 with L-methylfolate versus placebo .
+RESULTS	Pooled mean change from baseline on the Clinical Global Impressions-Severity of Illness scale was significantly ( P < .05 ) greater with L-methylfolate versus placebo for most genetic markers .
+RESULTS	Most combinations of baseline biological and genetic markers predicted significantly ( P .05 ) greater reductions in pooled mean change from baseline in HDRS-28 scores with L-methylfolate versus placebo .
+CONCLUSIONS	Biomarkers associated with inflammation or metabolism and genomic markers associated with L-methylfolate synthesis and metabolism may identify patients with SSRI-resistant depression who are responsive to adjunctive therapy with L-methylfolate 15 mg .
+CONCLUSIONS	Confirmatory studies are needed .
+BACKGROUND	ClinicalTrials.gov identifier : NCT00955955 .
+

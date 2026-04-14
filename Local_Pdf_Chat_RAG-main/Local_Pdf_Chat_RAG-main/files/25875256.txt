@@ -1,0 +1,16 @@
+25875256
+BACKGROUND	Oral ulcers , the hallmark of Behet 's syndrome , can be resistant to conventional treatment ; therefore , alternative agents are needed .
+BACKGROUND	Apremilast is an oral phosphodiesterase-4 inhibitor that modulates several inflammatory pathways .
+METHODS	We conducted a phase 2 , multicenter , placebo-controlled study in which 111 patients with Behet 's syndrome who had two or more oral ulcers were randomly assigned to receive 30 mg of apremilast twice daily or placebo for 12 weeks .
+METHODS	This regimen was followed by a 12-week extension phase in which the placebo group was switched to apremilast and a 28-day post-treatment observational follow-up phase .
+METHODS	The patients and clinicians were unaware of the study assignments throughout the trial .
+METHODS	The primary end point was the number of oral ulcers at week 12 .
+METHODS	Secondary outcomes included pain from these ulcers ( measured on a 100-mm visual-analogue scale , with higher scores indicating worse pain ) , the number of genital ulcers , overall disease activity , and quality of life .
+RESULTS	The mean ( SD ) number of oral ulcers per patient at week 12 was significantly lower in the apremilast group than in the placebo group ( 0.51.0 vs. 2.12.6 ) ( P < 0.001 ) .
+RESULTS	The mean decline in pain from oral ulcers from baseline to week 12 was greater with apremilast than with placebo ( -44.724.3 mm vs. -16.032.5 mm ) ( P < 0.001 ) .
+RESULTS	Nausea , vomiting , and diarrhea were more common in the apremilast group ( with 22 , 9 , and 12 incidents , respectively , among 55 patients ) than in the placebo group ( with 10 , 1 , and 2 incidents , respectively , among 56 patients ) , findings that were similar to those in previous studies of apremilast .
+RESULTS	There were two serious adverse events in patients receiving apremilast .
+CONCLUSIONS	Apremilast was effective in treating oral ulcers , which are the cardinal manifestation of Behet 's syndrome .
+CONCLUSIONS	This preliminary study was neither large enough nor long enough to assess long-term efficacy , the effect on other manifestations of Behet 's syndrome , or the risk of uncommon serious adverse events .
+CONCLUSIONS	( Funded by Celgene ; ClinicalTrials.gov number , NCT00866359 . )
+

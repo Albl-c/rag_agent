@@ -1,0 +1,12 @@
+24548289
+BACKGROUND	Diets rich in fermentable residues increase intestinal gas production .
+BACKGROUND	Our aim was to demonstrate the potential effects of diet on gas-related symptoms .
+METHODS	The effect of a low-flatulogenic test diet ( restricted to foodstuffs low in fermentable residues ; n = 15 ) was compared to that of a balanced control diet ( Mediterranean type ; n = 15 ) in 30 patients complaining of flatulence and other abdominal symptoms using a randomized parallel design .
+METHODS	The following outcomes were measured daily : number of anal gas evacuations by an event marker , severity of gas-related symptoms by 0-10 scales , and sensation of digestive comfort by a -5 ( unpleasant ) to +5 ( pleasant ) scale .
+METHODS	Measurements were taken pretreatment for 3days on their habitual diet and for 7days during the treatment phase .
+RESULTS	No pretreatment differences were detected between patients allocated to the control or test diets .
+RESULTS	The test diet significantly reduced the number of gas evacuations ( by 5410 % ; p = 0.002 vs basal diet ) whereas the control diet had a lesser effect ( reduction by 289 % ; p = 0.059 vs basal diet ; p = 0.089 vs test diet ) .
+RESULTS	Compared to the control diet , the test diet significantly reduced flatulence ( by 487 % vs 278 % , respectively ; p = 0.018 ) , abdominal distension ( by 484 % vs 2212 % , respectively ; p = 0.038 ) , and enhanced digestive well-being ( by 14918 % vs 5822 % , respectively ; p = 0.006 ) .
+CONCLUSIONS	In patients with gas-related symptoms , a low-flatulogenic diet produces immediate beneficial effects with digestive , cognitive , and emotive dimensions .
+CONCLUSIONS	The number of gas evacuations is an objective biological marker of response to dietary treatment .
+

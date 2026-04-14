@@ -1,0 +1,12 @@
+24565103
+OBJECTIVE	To determine whether modifying a plastic speculum with a flexible sheath would improve visualization and decrease pain during vaginal examination .
+METHODS	We conducted a prospective randomized controlled trial of 136 women undergoing vaginal speculum examination at an outpatient obstetrics and gynecology faculty practice .
+METHODS	Patients underwent examination via a standardized technique with either a medium-sized plastic speculum ( standard ) or an identical speculum modified with a flexible polypropylene sheath ( sheathed ) .
+METHODS	Investigators recorded the percentage of the cervix visualized .
+METHODS	After speculum insertion , patients recorded pain using a 10-cm visual analog scale .
+RESULTS	There were no substantial demographic differences between the standard ( n = 67 ) and the sheathed ( n = 68 ) groups .
+RESULTS	Investigators were able to visualize a significantly greater percentage of the cervix using the sheathed speculum compared with the standard speculum ( 95.1 % 8.2 % vs. 78.2 % 18.4 % ; P < 0.001 ) , representing a 21.6 % improvement in visualization , and were able to visualize the entire cervix in 42 ( 61.8 % ) patients when using the sheathed speculum compared with 11 ( 16.4 % ) patients undergoing standard speculum examination ( P < 0.001 ) .
+RESULTS	Patients undergoing examination with the sheathed speculum reported a nonsignificant decrease in pain scores ( 1.0 vs 1.2 ; P = 0.087 ) .
+CONCLUSIONS	A sheathed speculum significantly improves visualization of the cervix , without compromising patient comfort .
+CONCLUSIONS	ClinicalTrials.gov : NCT01670630 .
+

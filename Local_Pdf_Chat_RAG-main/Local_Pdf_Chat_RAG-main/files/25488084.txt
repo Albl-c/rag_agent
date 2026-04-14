@@ -1,0 +1,16 @@
+25488084
+OBJECTIVE	To undertake a five year follow up of a cohort of women and children delivered by forceps or vacuum extractor in a randomised controlled study .
+METHODS	Follow up of a randomised controlled trial .
+METHODS	District general hospital in the West Midlands .
+METHODS	Follow up questionnaires were sent to 306 of the 313 women originally recruited at the North Staffordshire Hospital to a randomised controlled study comparing forceps and vacuum extractor for assisted delivery .
+METHODS	Two hundred and twenty-eight women responded ( 74.5 % ) and all were included in the study ; forceps ( n = 115 ) and vacuum extractor ( n = 113 ) .
+METHODS	Bowel and urinary dysfunction , child vision assessment , and child development .
+RESULTS	Maternal adverse symptoms at long term follow up were relatively common .
+RESULTS	Urinary incontinence of various severity was reported by 47 % , bowel habit urgency was reported by 44 % ( 98/225 ) , and loss of bowel control ` sometimes ' or ` frequently ' by 20 % of women ( 46/226 ) .
+RESULTS	No significant differences between instruments were found in terms of either bowel or urinary dysfunction .
+RESULTS	Overall , 13 % ( 20/158 ) of children were noted to have visual problems .
+RESULTS	There was no significant difference in visual function between the two groups : ventouse 11/86 ( 12.8 % ) , compared with forceps 9/72 ( 12.5 % ) ; odds ratio 0.97 , 95 % CI 0.38-2 .50 .
+RESULTS	Of the 20 children with visual problems , a family history was known in 18 , and 17/18 ( 94 % ) had a positive family history for visual problems .
+RESULTS	No significant differences in child development were found between the two groups .
+CONCLUSIONS	There is no evidence to suggest that at five years after delivery use of the ventouse or forceps has specific maternal or child benefits or side effects .
+

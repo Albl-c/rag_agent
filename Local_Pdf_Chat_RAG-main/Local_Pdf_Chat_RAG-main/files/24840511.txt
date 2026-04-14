@@ -1,0 +1,13 @@
+24840511
+OBJECTIVE	Levels of stool fatty acid soaps and beneficial bacteria differ between formula-fed and breast-fed infants ; addition of specific formula ingredients may reduce these differences .
+OBJECTIVE	This study evaluated the effects of a term infant formula containing high sn-2 palmitate term infant formula ( sn-2 ) or an identical formula supplemented with oligofructose ( OF ) at 2 concentrations ( sn-2 +3 g/L OF , sn-2 +5 g/L OF ) on stool composition , stool characteristics , and fecal bifidobacteria .
+METHODS	Healthy , term formula-fed infants 7 to 14 days old ( n = 300 ) were randomized in a double-blind manner to receive standard formula ( control ) , sn-2 , sn-2 +3 g/L OF , or sn-2 +5 g/L OF for 8 weeks .
+METHODS	Human milk ( HM ) - fed infants ( n = 75 ) were studied in parallel .
+METHODS	Stool samples were collected from all subjects at week 8 for fatty acid soaps and mineral content , and from a subset at baseline and week 8 for bifidobacteria .
+METHODS	Stool characteristics were assessed via 3-day diary .
+RESULTS	The sn-2 group had 46 % less stool soap palmitate ( P < 0.001 ) and softer stools than control ( 20 % more mushy soft stools , P = 0.026 ; 50 % fewer formed stools , P = 0.003 ) .
+RESULTS	Addition of OF resulted in even fewer formed stools versus control ( 65 % fewer for sn-2 +3 g/L OF , 79 % fewer for sn-2 +5 g/L OF ) , with 5 g/L OF more closely resembling that of HM-fed infants .
+RESULTS	Both sn-2 ( P < 0.05 ) and sn-2 with OF groups ( P < 0.01 ) had significantly higher fecal bifidobacteria concentrations than control at week 8 , not differing from HM-fed infants .
+CONCLUSIONS	High sn-2-palmitate formulas led to reduced stool soaps , softer stools , and increased bifidobacteria , whereas addition of OF further improved stool consistency .
+CONCLUSIONS	Those modifications brought outcomes in formula-fed infants closer to that in HM-fed infants .
+

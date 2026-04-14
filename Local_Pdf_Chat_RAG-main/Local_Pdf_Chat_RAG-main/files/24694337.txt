@@ -1,0 +1,9 @@
+24694337
+BACKGROUND	Sexual dimorphism in plasma triglyceride ( TG ) metabolism is well established but it is unclear to what extent it is driven by differences in the sex hormone milieu .
+BACKGROUND	RESULTS from previous studies evaluating the effects of sex steroids on plasma TG homeostasis are inconclusive because they relied on orally administered synthetic hormone preparations or evaluated only plasma lipid concentrations but not kinetics .
+OBJECTIVE	The purpose of this study was to evaluate the effects of systemically delivered 17-estradiol , progesterone , and T on very low density lipoprotein-triglyceride ( VLDL-TG ) concentration and kinetics in postmenopausal women .
+METHODS	VLDL-TG concentration and kinetics were evaluated by using stable isotope-labeled tracer techniques in four groups of postmenopausal women ( n = 27 total ) who were studied before and after treatment with either 17-estradiol ( 0.1 mg/d via continuous delivery skin patch ) , progesterone ( 100 mg/d via vaginal insert ) and T ( 12.5 mg/d via skin gel ) , or no intervention ( control group ) .
+RESULTS	VLDL-TG concentration and kinetics were unchanged in the control group and not altered by T and progesterone administration .
+RESULTS	Estradiol treatment , in contrast , reduced VLDL-TG concentration by approximately 30 % due to accelerated VLDL-TG plasma clearance ( 25.1 2.5 vs. 17.4 2.7 mL/min ; P < .01 ) .
+CONCLUSIONS	Estradiol , but not progesterone or T , is a major regulator of VLDL-TG metabolism .
+

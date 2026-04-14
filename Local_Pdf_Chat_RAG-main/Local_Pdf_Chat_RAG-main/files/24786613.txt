@@ -1,0 +1,16 @@
+24786613
+OBJECTIVE	To evaluate the clinical efficacy , safety , and costs of percutaneous occlusive balloon catheter-assisted ureteroscopic lithotripsy ( POBC-URSL ) for large impacted proximal ureteral calculi .
+METHODS	156 patients with impacted proximal ureteral stones 1.5 cm in size were randomized to ureteroscopic lithotripsy ( URSL ) , POBC-URSL , and percutaneous nephrolithotomy ( PNL ) group between May 2010 and May 2013 .
+METHODS	For URSL , the calculi were disintegrated with the assistance of anti-retropulsion devices .
+METHODS	POBC-URSL was performed with the assistance of an 8F percutaneous occlusive balloon catheter .
+METHODS	PNL was finished with the combination of an ultrasonic and a pneumatic lithotripter .
+METHODS	A flexible ureteroscope and a 200m laser fiber were used to achieve stone-free status to a large extent for each group .
+METHODS	Variables studied were mean operative time , auxiliary procedure , postoperative hospital stay , operation-related complications , stone clearance rate , and treatment costs .
+RESULTS	The mean lithotripsy time for POBC-URSL was shorter than URSL , but longer than PNL ( 42.68.9 minutes vs 66.715.3 minutes vs 28.16.3 minutes , p = 0.014 ) .
+RESULTS	The auxiliary procedure rate and postoperative fever rate for POBC-URSL were significantly lower than URSL and comparable to PNL ( p < 0.01 , p = 0.034 ) .
+RESULTS	POBC-URSL was superior to URSL with regard to the stone clearance rate at 3 days postoperatively , and as good as PNL ( 98.1 % vs 75.0 % vs 96.2 % , p < 0.01 ) .
+RESULTS	The postoperative hospital stay and hematuria rate were lower in POBC-URSL group than PNL group and similar to URSL group ( p = 0.016 , p < 0.01 ) .
+RESULTS	The treatment costs were lowest in POBC-URSL group ( $ 1205.0 $ 113.9 vs $ 1731.7 $ 208.1 vs $ 2446.4 $ 166.4 , p = 0.004 ) .
+CONCLUSIONS	For large impacted proximal ureteral calculi , POBC-URSL was associated with a higher stone clearance rate , fewer complications and costs .
+CONCLUSIONS	POBC-URSL combined the advantages of URSL and PNL .
+

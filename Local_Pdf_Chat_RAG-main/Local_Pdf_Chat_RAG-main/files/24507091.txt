@@ -1,0 +1,18 @@
+24507091
+BACKGROUND	No available treatments slow or halt progression of multiple system atrophy , which is a rare , progressive , fatal neurological disorder .
+BACKGROUND	In a mouse model of multiple system atrophy , rifampicin inhibited formation of - synuclein fibrils , the neuropathological hallmark of the disease .
+BACKGROUND	We aimed to assess the safety and efficacy of rifampicin in patients with multiple system atrophy .
+METHODS	In this randomised , double-blind , placebo-controlled trial we recruited participants aged 30-80 years with possible or probable multiple system atrophy from ten US medical centres .
+METHODS	Eligible participants were randomly assigned ( 1:1 ) via computer-generated permuted block randomisation to rifampicin 300 mg twice daily or matching placebo ( 50 mg riboflavin capsules ) , stratified by subtype ( parkinsonian vs cerebellar ) , with a block size of four .
+METHODS	The primary outcome was rate of change ( slope analysis ) from baseline to 12 months in Unified Multiple System Atrophy Rating Scale ( UMSARS ) I score , analysed in all participants with at least one post-baseline measurement .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT01287221 .
+RESULTS	Between April 22 , 2011 , and April 19 , 2012 , we randomly assigned 100 participants ( 50 to rifampicin and 50 to placebo ) .
+RESULTS	Four participants in the rifampicin group and five in the placebo group withdrew from study prematurely .
+RESULTS	Results of the preplanned interim analysis ( n = 15 in each group ) of the primary endpoint showed that futility criteria had been met , and the trial was stopped ( the mean rate of change [ slope analysis ] of UMSARS I score was 0.62 points [ SD 0.85 ] per month in the rifampicin group vs 0.47 points [ 0.48 ] per month in the placebo group ; futility p = 0.032 ; efficacy p = 0.76 ) .
+RESULTS	At the time of study termination , 49 participants in the rifampicin group and 50 in the placebo group had follow-up data and were included in the final analysis .
+RESULTS	The primary endpoint was 0.5 points ( SD 0.7 ) per month for rifampicin and 0.5 points ( 0.5 ) per month for placebo ( difference 0.0 , 95 % CI -0.24 to 0.24 ; p = 0.82 ) .
+RESULTS	Three ( 6 % ) of 50 participants in the rifampicin group and 12 ( 24 % ) of 50 in the placebo group had one or more serious adverse events ; none was thought to be related to treatment .
+CONCLUSIONS	Our results show that rifampicin does not slow or halt progression of multiple system atrophy .
+CONCLUSIONS	Despite the negative result , the trial does provide information that could be useful in the design of future studies assessing potential disease modifying therapies in patients with multiple system atrophy .
+BACKGROUND	National Institutes of Health , Mayo Clinic Center for Translational Science Activities , and Mayo Funds .
+

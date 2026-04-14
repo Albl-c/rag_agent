@@ -1,0 +1,16 @@
+25271779
+OBJECTIVE	Trichotillomania is a psychiatric condition characterized by the chronic pulling and plucking of one 's own hair .
+OBJECTIVE	Cognitive-behavioral therapy shows promise as a treatment for trichotillomania and might be preferable to pharmacotherapy .
+OBJECTIVE	However , there have been no randomized , controlled studies of the efficacy of group cognitive-behavioral therapy .
+METHODS	We evaluated 44 subjects , recruited from April 2009 to May 2010 , all of whom met DSM-IV criteria for a diagnosis of trichotillomania .
+METHODS	Subjects were randomized to receive 22 sessions of either group cognitive-behavioral therapy or group supportive therapy ( control ) .
+METHODS	Treatment evaluation was non-blind and used self-report scales .
+METHODS	The primary outcome measure was the improvement of hair-plucking behavior as assessed by the Massachusetts General Hospital Hairpulling Scale .
+METHODS	Secondary measures included scores on the Beck Depression Inventory , the Beck Anxiety Inventory , and the Social Adjustment Scale-Self-Report .
+RESULTS	Both groups showed significant posttreatment improvement in the scores from the Massachusetts General Hospital Hairpulling Scale ( F = 23.762 , P < .001 ) and the Beck Depression Inventory ( F = 6.579 , P = .003 ) .
+RESULTS	The decrease in hair-plucking behavior over time was significantly greater in the study group than in the control group ( F = 3.545 , P < .038 ) .
+RESULTS	There were no significant differences between the pretreatment and posttreatment time points or between the groups in the scores from the Beck Anxiety Inventory and the Social Adjustment Scale-Self-Report .
+CONCLUSIONS	We conclude that group cognitive-behavioral therapy is a valid treatment for trichotillomania .
+CONCLUSIONS	This treatment model should be further revised and expanded to address comorbidities such as anxiety and social maladjustment .
+BACKGROUND	ClinicalTrials.gov identifier : NCT01968343 .
+

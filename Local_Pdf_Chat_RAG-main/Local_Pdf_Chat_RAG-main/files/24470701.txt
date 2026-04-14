@@ -1,0 +1,11 @@
+24470701
+OBJECTIVE	To evaluate the efficacy of a brief 4-w group-administered treatment program of cognitive behavior therapy for insomnia ( CBT-I ) for older adults with sleep maintenance insomnia .
+METHODS	Randomized controlled trial of CBT-I compared to waitlist control with comparisons at pretreatment , posttreatment , and 3-mo follow-up .
+METHODS	Flinders University Sleep and Circadian Rhythm Research Laboratory , Adelaide , South Australia .
+METHODS	One-hundred eighteen adults with sleep maintenance insomnia ( mean age = 63.76 y , standard deviation = 6.45 y , male = 55 ) .
+METHODS	A 4-w , group-based treatment program of CBT-I including bedtime restriction therapy , sleep education , and cognitive restructuring .
+METHODS	Seven-day sleep diaries , actigraphy , and several self-report measures to assess perceived insomnia severity , daytime functioning , and confidence in and beliefs about sleep .
+RESULTS	The brief group-administered CBT-I program produced improvements in the timing and quality of sleep including later bedtimes , earlier out-of-bed times , reduced wake after sleep onset , and improved sleep efficiency .
+RESULTS	Participants also reported a reduction of the Insomnia Severity Index , Flinders Fatigue Scale , Epworth Sleepiness Scale , Daytime Feeling and Functioning Scale , Sleep Anticipatory Anxiety Questionnaire , the Dysfunctional Beliefs and Attitudes Scale , and increased Sleep Self-Efficacy Scale .
+CONCLUSIONS	The treatment program used in the current study has demonstrated potential for a brief , inexpensive , and effective treatment of sleep maintenance insomnia in the older adult population .
+

@@ -1,0 +1,9 @@
+24220044
+OBJECTIVE	To evaluate the effects of training in methods of preventing childhood obesity on self-efficacy ( SE ) in nurses .
+METHODS	In a randomized , controlled trial conducted in child health services in Sweden , nurses in the intervention and control groups of the PRIMROSE prevention trial of childhood obesity were offered a 5-day workshop on dietary and physical activity interventions , and motivational interviewing .
+METHODS	Self-efficacy for influencing parents to promote healthy dietary and physical activity behaviors in their children was measured using an 18-item instrument .
+METHODS	Difference in SE between groups at post-assessment was analyzed using multiple linear regression analysis .
+RESULTS	Compared to control nurses ( n = 38 ) , intervention nurses ( n = 22 ) demonstrated higher SE ( = 14.70 , P < .001 ) .
+CONCLUSIONS	Training in methods of preventing childhood obesity increased SE in nurses .
+CONCLUSIONS	Self-efficacy should be included as a construct in evaluations of clinical training .
+

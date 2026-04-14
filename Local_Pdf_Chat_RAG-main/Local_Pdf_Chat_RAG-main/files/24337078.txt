@@ -1,0 +1,12 @@
+24337078
+BACKGROUND	Black box warnings for young adults under the age of 25 years indicate that antidepressants may increase risk of suicide .
+BACKGROUND	While underlying mechanisms for age-related treatment effects remain unclear , vagally mediated cardiovascular function may play a key role .
+BACKGROUND	Decreased heart rate ( HR ) and an increase in its variability ( HRV ) improve one 's capacity to adapt to environmental stress and attenuate risk for suicide .
+OBJECTIVE	Using a double blind , randomized , placebo-controlled , crossover , experimental study , we examine whether a single dose of escitalopram ( 20 mg ) attenuates cardiovascular responses to stress under experimental conditions and determine whether age moderates these effects .
+METHODS	Forty-four healthy females received a single dose of escitalopram ( 20 mg ) and placebo treatment separated by a 1-week interval ( > 5 half-lives ) .
+METHODS	HR and high frequency HRV ( HF HRV normalized units ; 0.15-0 .40 Hz ) were measured during resting state and stress .
+RESULTS	While escitalopram attenuated the increase in HR and increased HF HRV , these moderate to large effects were only significant in participants over 25 years of age .
+RESULTS	No beneficial cardiovascular effects of escitalopram were observed in those under the age of 25 .
+CONCLUSIONS	Maturational differences in the development of the prefrontal cortex -- a critical region in the central network of autonomic control -- may underpin these differential findings .
+CONCLUSIONS	This study provides a theoretical framework on which future research on treatment-emergent suicidality in clinical populations could be based .
+

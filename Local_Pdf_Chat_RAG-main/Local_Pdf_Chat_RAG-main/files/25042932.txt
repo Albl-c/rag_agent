@@ -1,0 +1,14 @@
+25042932
+OBJECTIVE	To develop a reliable and safe laryngeal nerve conduction technique and to obtain consistent parameters as normal reference values .
+METHODS	A prospective single-arm study .
+METHODS	A nerve conduction test was performed on the contralateral normal side in 42 patients with unilateral vocal fold palsy .
+METHODS	The recording was performed in the intact thyroarytenoid muscle using a monopolar needle .
+METHODS	The electrical stimulation using a 37-mm monopolar needle was applied 3 cm below the lower margin of the cricoid cartilage , just lateral to the trachea and medial to the carotid artery , and its intensity was gradually increased until the amplitude of the electrical response reached the maximum level .
+METHODS	The latency of the evoked muscle response was acquired at the first evoked waveform deflection from the baseline .
+RESULTS	The average latency of the recurrent laryngeal nerves was 1.980.26 ms. The latencies showed normal distribution according to the quantile-quantile plot and Kolmogorov-Smirnov test ( P = .098 ) .
+RESULTS	There was no significant difference in latencies between the right and left recurrent laryngeal nerves .
+RESULTS	Anthropometric factors including height and weight did not show any correlation with the latencies .
+CONCLUSIONS	We developed a reliable and safe laryngeal nerve conduction technique and obtained normal reference values for the recurrent laryngeal nerve conduction study .
+CONCLUSIONS	This laryngeal nerve conduction study can be an additional tool for detecting recurrent laryngeal nerve injury if it is performed in combination with the conventional laryngeal electromyography .
+METHODS	4 .
+

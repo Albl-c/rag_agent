@@ -1,0 +1,16 @@
+25134858
+OBJECTIVE	To identify predictive factors associated with the development of pressure ulcers in patients at risk who receive standardized preventive care .
+BACKGROUND	Numerous studies have examined factors that predict risk for pressure ulcer development .
+BACKGROUND	Only a few studies identified risk factors associated with pressure ulcer development in hospitalized patients receiving standardized preventive care .
+METHODS	Secondary analyses of data collected in a multicentre randomized controlled trial .
+METHODS	The sample consisted of 610 consecutive patients at risk for pressure ulcer development ( Braden Score < 17 ) receiving standardized preventive care measures .
+METHODS	Patient demographic information , data on skin and risk assessment , medical history and diagnosis were collected during 26months ( December 2007-January 2010 ) .
+METHODS	Predictive factors were identified using multivariate statistics .
+RESULTS	Pressure ulcers in category II-IV were significantly associated with non-blanchable erythema , urogenital disorders and higher body temperature .
+RESULTS	Predictive factors significantly associated with superficial pressure ulcers were admission to an internal medicine ward , incontinence-associated dermatitis , non-blanchable erythema and a lower Braden score .
+RESULTS	Superficial sacral pressure ulcers were significantly associated with incontinence-associated dermatitis .
+CONCLUSIONS	Despite the standardized preventive measures they received , hospitalized patients with non-blanchable erythema , urogenital disorders and a higher body temperature were at increased risk for developing pressure ulcers .
+CONCLUSIONS	Improved identification of at-risk patients can be achieved by taking into account specific predictive factors .
+CONCLUSIONS	Even if preventive measures are in place , continuous assessment and tailoring of interventions is necessary in all patients at risk .
+CONCLUSIONS	Daily skin observation can be used to continuously monitor the effectiveness of the intervention .
+

@@ -1,0 +1,15 @@
+24411718
+BACKGROUND	Long chain omega-3 polyunsaturated fatty acids ( LC n-3 PUFA ) such as EPA and DHA have been shown to possess beneficial health effects , and it is believed that many of their effects are mediated by their oxygenated products ( oxylipins ) .
+BACKGROUND	Recently , we have shown that serum levels of several hydroxy , epoxy , and dihydroxy FAs are dependent on the individual status of the parent FAs in a cohort of normo - and hyperlipidemic subjects .
+BACKGROUND	So far , the effect of an increased dietary LC n-3 PUFA intake on hydroxy , epoxy , and dihydroxy FA levels has not been investigated in subjects with mild combined hyperlipidemia .
+METHODS	In the present study , we compared oxylipin patterns of 10 hyperlipidemic ( cholesterol > 200mg/dl ; triglyceride > 150mg/ml ) and 10 normolipidemic men in response to twelve weeks of LC n-3 PUFA intake ( 1.14 g DHA and 1.56 g EPA ) .
+METHODS	Levels of 44 free hydroxy , epoxy and dihydroxy FAs were analyzed in serum by LC-MS .
+METHODS	Additionally , oxylipin levels were compared with their parent PUFA levels in erythrocyte membranes ; a biomarker for the individual PUFA status .
+RESULTS	Differences in the oxylipin pattern between normo - and hyperlipidemic subjects were minor before and after treatment .
+RESULTS	In all subjects , levels of EPA-derived oxylipins ( 170-4800pM ) were considerably elevated after LC n-3 PUFA intake ( 150-1400 % ) , the increase of DHA-derived oxylipins ( 360-3900pM ) was less pronounced ( 30-130 % ) .
+RESULTS	The relative change of EPA in erythrocyte membranes is strongly correlated ( r0 .5 ; p < 0.05 ) with the relative change of corresponding epoxy and dihydroxy FA serum levels .
+RESULTS	The effect on arachidonic acid ( AA ) - derived oxylipin levels ( 140-27 ,100 pM ) was inconsistent .
+CONCLUSIONS	The dietary LC PUFA composition has a direct influence on the endogenous oxylipin profile , including several highly biological active EPA - and DHA-derived lipid mediators .
+CONCLUSIONS	The shift in oxylipin pattern appears to be dependent on the initial LC PUFA status particularly for EPA .
+CONCLUSIONS	The finding that also levels of other oxylipins derived from ALA , LA or AA are modified by LC n-3 PUFA intake might suggest that at least some of the effects of EPA and DHA could be mediated by a shift in the entire oxylipin profile .
+

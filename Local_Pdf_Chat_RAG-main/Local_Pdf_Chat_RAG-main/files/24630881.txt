@@ -1,0 +1,13 @@
+24630881
+OBJECTIVE	This study sought to evaluate the short - and long-term outcomes for smokers with non-ST-segment elevation acute coronary syndromes ( NSTE-ACS ) .
+BACKGROUND	Smoking has been associated with the `` paradox '' of reduced mortality after acute myocardial infarction ( MI ) .
+BACKGROUND	This is thought to be due to favorable baseline characteristics and less diffuse coronary artery disease ( CAD ) among smokers .
+METHODS	In the ACUITY ( Acute Catheterization and Urgent Intervention Triage Strategy ) trial , 13,819 patients ( 29.1 % smokers ) with moderate - to high-risk NSTE-ACS underwent angiography and , if indicated , revascularization .
+RESULTS	Smokers were significantly younger and had fewer comorbidities than nonsmokers .
+RESULTS	Incidence of death and MI were comparable at 30 days , although smokers had significantly reduced risks of 30-day major bleeding ( hazard ratio [ HR ] : 0.80 , 95 % confidence interval [ CI ] : 0.67 to 0.96 ; p = 0.016 ) and 1-year mortality ( HR : 0.797 , 95 % CI : 0.65 to 0.97 ; p = 0.027 ) .
+RESULTS	After correction for baseline and clinical differences , smoking was no longer predictive of major bleeding ( odds ratio : 1.06 , 95 % CI : 0.86 to 1.32 ; p = 0.56 ) and was associated with higher 1-year mortality ( HR : 1.37 , 95 % CI : 1.07 to 1.7 ; p = 0.013 ) .
+RESULTS	This pattern of reversed risk after multivariable correction held true for those smokers requiring percutaneous coronary intervention .
+RESULTS	Core laboratory angiographic analysis showed that smokers and nonsmokers were comparable in terms of the extent of CAD , Thrombolysis In Myocardial Infarction flow , myocardial blush , and the presence of thrombi .
+CONCLUSIONS	In contrast to the paradox previously described in ST-segment elevation MI , our analysis finds smoking to be an independent predictor of higher 1-year mortality in patients presenting with NSTE-ACS , and our angiographic study demonstrates CAD in smokers that is comparable to that in nonsmokers but evident 1 decade earlier .
+CONCLUSIONS	( Acute Catheterization and Urgent Intervention Triage Strategy [ ACUITY ] ; NCT00093158 ) .
+

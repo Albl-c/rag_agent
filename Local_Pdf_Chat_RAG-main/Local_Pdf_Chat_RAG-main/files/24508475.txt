@@ -1,0 +1,18 @@
+24508475
+BACKGROUND	Previous observational studies examining outcomes associated with the timing of dialysis therapy initiation in the United States have often been limited by lead time and survivor bias .
+METHODS	Retrospective cohort study comparing the effectiveness of early versus later ( conventional ) dialysis therapy initiation in advanced chronic kidney disease ( CKD ) .
+METHODS	The analysis used inverse probability weighting to account for an individual 's contribution to different exposure groups over time in a pooled logistic regression model .
+METHODS	Patients contributed risk to both exposure categories ( early and later initiation ) until there was a clear treatment strategy ( ie , dialysis therapy was initiated early or estimated glomerular filtration rate [ eGFR ] decreased to < 10mL/min/1 .73 m ( 2 ) ) .
+METHODS	Patients with CKD who had at least one face-to-face outpatient encounter with a Cleveland Clinic health care provider as of January 1 , 2005 , and at least 3 eGFRs in the range of 20-30mL / min/1 .73 m ( 2 ) measured at least 180 days apart .
+METHODS	Timing of dialysis therapy initiation as determined using model-based interpolation of eGFR trajectories over time .
+METHODS	Timing was defined as early ( interpolated eGFR at dialysis therapy initiation10mL/min/1 .73 m ( 2 ) ) or later ( eGFR < 10mL/min/1 .73 m ( 2 ) ) and was time-varying .
+RESULTS	Death from any cause occurring from the time that eGFR was equal to 20mL/min/1 .73 m ( 2 ) through September 15 , 2009 .
+RESULTS	The study population consisted of 652 patients meeting inclusion criteria .
+RESULTS	Most ( 71.3 % ) of the study population did not initiate dialysis therapy during follow-up .
+RESULTS	Patients who did not initiate dialysis therapy ( n = 465 ) were older , more likely to be white , and had more favorable laboratory profiles than those who started dialysis therapy .
+RESULTS	Overall , 146 initiated dialysis early and 80 had eGFRs decrease to < 10mL/min/1 .73 m ( 2 ) .
+RESULTS	Many participants ( n = 426 ) were censored prior to attaining a clear treatment strategy and were considered undeclared .
+RESULTS	There was no statistically significant survival difference for the early compared with later initiation strategy ( OR , 0.85 ; 95 % CI , 0.65-1 .11 ) .
+CONCLUSIONS	Interpolated eGFR , moderate sample size , and likely unmeasured confounders .
+CONCLUSIONS	In patients with advanced CKD , timing of dialysis therapy initiation was not associated with mortality when accounting for lead time bias and survivor bias .
+

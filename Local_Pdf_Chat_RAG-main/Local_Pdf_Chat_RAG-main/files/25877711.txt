@@ -1,0 +1,10 @@
+25877711
+OBJECTIVE	To observe the efficacy of bromfenac sodium eye drops on relieving the irritative symptoms after LASEK surgery .
+METHODS	Sixty-four people who had received LASEK surgery were randomly divided into two groups , observing the right eye for each group .
+METHODS	group A was given 0.1 % bromfenac sodium eye drops twice a day in three days before surgery and one day after surgery ; group B was given 0.5 % ketorolac tromethamine ( acular ) eye drops four times a day in three days before surgery and on day after surgery .
+METHODS	In the 1 ( st ) , 3 ( rd ) , 5 ( th ) and 7 ( th ) day after surgery , irritative symptoms grade , duration of irritation , time for corneal epithelial healing , and uncorrected visual acuity were observed and compared between the two groups .
+RESULTS	0.1 % no discomfort in group A with bromfenac sodium eye drops was observed while 0.5 % ketorolac tromethamine eye drops caused tingling , burning discomfort that lasted for 2-3 seconds in 16 of the 28 subjects ( 87.5 % ) .
+RESULTS	No significant difference was observed between the irritation grades of group A and B ( Z = -1.625 , P = 0.104 ) ; the duration of irritative symptom was significantly shorter in group A than that in group B ( Z = -2.895 , P = 0.004 ) .
+RESULTS	No significant difference was observed between the time of healing and visual acuity recovery of the two groups .
+CONCLUSIONS	0.1 % bromfenac sodium eye drops can effectively relieve the post-LASEK irritative symptoms , and it is better tolerated than 0.5 % ketorolac tromethamine eye drops .
+

@@ -1,0 +1,12 @@
+25239479
+BACKGROUND	The Modifications of Diet in Renal Disease ( MDRD ) and Chronic Kidney Disease Epidemiology Collaboration ( CKD-EPI ) are 2 equations commonly used to estimate glomerular filtration rate ( eGFR ) .
+BACKGROUND	The predictive performance offered by these equations , particularly in relation to clinical outcomes in elderly hypertensive patients , is not clear .
+METHODS	The Second Australian National Blood Pressure Study cohort was used to investigate the predictive performance of these 2 equations for long-term outcomes ( median 10.8 years ) in elderly treated hypertensive patients .
+METHODS	Both equations were used to calculate eGFR in 6,083 patients aged 65 years and classified as having chronic kidney disease ( CKD ) or no CKD ( eGFR 60ml/min/1 .73 m2 ) .
+RESULTS	More patients were classified as having no CKD using the CKD-EPI equation compared with the MDRD equation ( 72.1 % vs. 69.4 % ; P = 0.001 ) .
+RESULTS	Both equations performed similarly in risk prediction of all-cause and cardiovascular mortality with decreased eGFR , except for patients with baseline eGFR of 45-59ml / min/1 .73 m2 , where the CKD-EPI equation predicted higher risk of all-cause mortality compared with those with no CKD .
+RESULTS	However , the magnitude of difference in risk prediction was too small to be clinically meaningful .
+RESULTS	Both equations showed similar predictive performance .
+RESULTS	However , we observed longer survival and no higher risk in those who were reclassified as having no CKD using the CKD-EPI equation , but these patients were classified earlier as having CKD using the MDRD equation .
+CONCLUSIONS	There was no clinically relevant difference in predictive performance for long-term survival by eGFR calculated using either of these equations in this elderly hypertensive population .
+

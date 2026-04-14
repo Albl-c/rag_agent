@@ -1,0 +1,15 @@
+24249049
+BACKGROUND	Heart failure with preserved ejection fraction ( HFpEF ) is associated with substantial morbidity and mortality .
+BACKGROUND	Existing data on cardiac structure and function in HFpEF suggest significant heterogeneity in this population .
+RESULTS	Echocardiograms were obtained from 935 patients with HFpEF ( left ventricular ejection fraction 45 % ) enrolled in the Treatment of Preserved Cardiac Function Heart Failure with an Aldosterone Antagonist ( TOPCAT ) trial before initiation of randomized therapy .
+RESULTS	Average age was 7010 years , 49 % were women , 14 % were of African descent , and comorbidities were highly prevalent .
+RESULTS	Centralized quantitative analysis in a blinded core laboratory demonstrated a mean left ventricular ejection fraction of 59.37.9 % , with prevalent concentric left ventricular remodeling ( 34 % ) and hypertrophy ( 43 % ) , and left atrial enlargement ( 53 % ) .
+RESULTS	Diastolic dysfunction was present in 66 % of gradable participants and was significantly associated with greater left ventricular hypertrophy and a higher prevalence of left atrial enlargement .
+RESULTS	Doppler evidence of pulmonary hypertension was present in 36 % .
+RESULTS	At least 1 measure of structural heart disease was present in 93 % of patients .
+CONCLUSIONS	Patients enrolled in TOPCAT demonstrated heterogeneous patterns of ventricular remodeling , with high prevalence of structural heart disease , including left ventricular hypertrophy and left atrial enlargement , in addition to pulmonary hypertension , each of which has been associated with adverse outcomes in HFpEF .
+CONCLUSIONS	Diastolic function was normal in approximately one third of gradable participants , highlighting the heterogeneity of the cardiac phenotype in this syndrome .
+CONCLUSIONS	These findings deepen our understanding of the TOPCAT trial population and expand our knowledge of the diversity of the cardiac phenotype in HFpEF .
+BACKGROUND	URL : http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00094302 .
+

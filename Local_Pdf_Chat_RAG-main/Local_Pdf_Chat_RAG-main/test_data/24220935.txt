@@ -1,0 +1,10 @@
+24220935
+OBJECTIVE	We investigated potential biomarkers of efficacy in a phase III trial of sunitinib versus interferon-alpha ( IFN - ) , first-line in metastatic renal cell carcinoma ( mRCC ) , by analyzing plasma levels of vascular endothelial growth factor ( VEGF ) - A , VEGF-C , soluble VEGF receptor-3 ( sVEGFR-3 ) and interleukin ( IL ) -8 .
+METHODS	Seven hundred and fifty mRCC patients were randomized to oral sunitinib 50 mg/day in repeated cycles of a 4-week on/2-week off schedule or IFN - 9 million units subcutaneously thrice weekly .
+METHODS	Plasma samples collected from a subset of 63 patients on days 1 and 28 of cycles 1-4 and at end of treatment were analyzed by ELISA .
+RESULTS	Baseline characteristics of biomarker-evaluated patients in sunitinib ( N = 33 ) and IFN - ( N = 30 ) arms were comparable to their respective intent-to-treat populations .
+RESULTS	By univariate Cox regression analysis , low baseline soluble protein levels were associated with lower risk of progression/death ( all P < 0.05 ) : in both treatment arms , baseline VEGF-A and IL-8 were associated with overall survival ( OS ) and baseline VEGF-C with progression-free survival ( PFS ) ; in the sunitinib arm , baseline VEGF-A was associated with PFS and baseline sVEGFR-3 with PFS and OS ; in the IFN - arm , baseline IL-8 was associated with PFS .
+RESULTS	In multivariate analysis , baseline sVEGFR-3 and IL-8 remained independent predictors of OS in the sunitinib arm , while no independent predictors of outcome remained in the IFN - arm .
+RESULTS	Pharmacodynamic changes were not associated with PFS or OS for any plasma protein investigated .
+CONCLUSIONS	Our findings suggest that , in mRCC , baseline VEGF-A and IL-8 may have prognostic value , while baseline sVEGFR-3 may predict sunitinib efficacy .
+

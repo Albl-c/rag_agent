@@ -1,0 +1,12 @@
+24747867
+OBJECTIVE	Data comparing the efficacy and safety of combination therapy with peginterferon plus low-dose ribavirin and peginterferon monotherapy in treatment-naive haemodialysis patients with hepatitis C virus genotype 2 ( HCV-2 ) infection are limited .
+METHODS	In this randomised trial , 172 patients received 24weeks of peginterferon alfa-2a 135g/week plus ribavirin 200mg/day ( n = 86 ) or peginterferon alfa-2a 135g/week ( n = 86 ) .
+METHODS	The efficacy and safety endpoints were sustained virological response ( SVR ) rate and adverse event ( AE ) - related withdrawal rate .
+RESULTS	Compared with monotherapy , combination therapy had a greater SVR rate ( 74 % vs 44 % , relative risk ( RR ) : 1.68 [ 95 % CI 1.29 to 2.20 ] ; p < 0.001 ) .
+RESULTS	The beneficial effect of combination therapy was more pronounced in patients with baseline viral load 800,000 IU/mL than those with baseline viral load < 800,000 IU/mL ( RR : 3.08 [ 95 % CI 1.80 to 5.29 ] vs. RR : 1.11 [ 95 % CI 0.83 to 1.45 ] ; interaction p = 0.001 ) .
+RESULTS	Patients receiving combination therapy were more likely to have a haemoglobin level of < 8.5 g/dL ( 70 % vs. 8 % , risk difference ( RD ) : 62 % [ 95 % CI 50 % to 73 % ] ; p < 0.001 ) and required a higher dosage [ mean : 13,417 vs. 6667 IU/week , p = 0.027 ] of epoetin to manage anaemia than those receiving monotherapy .
+RESULTS	The AE-related withdrawal rates were 6 % and 3 % in combination therapy and monotherapy groups , respectively ( RD : 2 % [ 95 % CI -4 % to 9 % ] ) .
+CONCLUSIONS	In treatment-naive haemodialysis patients with HCV-2 infection , combination therapy with peginterferon plus low-dose ribavirin achieved a greater SVR rate than peginterferon monotherapy .
+CONCLUSIONS	Most haemodialysis patients can tolerate combination therapy .
+BACKGROUND	ClinicalTrial.gov number , NCT00491244 .
+

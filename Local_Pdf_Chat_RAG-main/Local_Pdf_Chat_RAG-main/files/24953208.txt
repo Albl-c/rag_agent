@@ -1,0 +1,9 @@
+24953208
+BACKGROUND	Endoplasmic reticulum stress and unfolded protein response have been recently associated with the development of inflammatory bowel diseases in adults .
+BACKGROUND	We aimed at assessing the involvement of these pathways also in paediatric inflammatory bowel disease by analysing the expression of the main genes involved in endoplasmic reticulum stress and correlating them with the degree of intestinal inflammation .
+METHODS	Real-time PCR and Western blot analysis of the expression of the endoplasmic reticulum stress marker HSPA5 and of selected genes representing the three pathways of unfolded protein response ( IRE-XBP1 , PERK-ATF4 , ATF6p90-p50 ) in inflamed and uninflamed biopsies from 28 inflammatory bowel disease paediatric patients and 10 controls .
+RESULTS	HSPA5 , PDIA4 , as well as unspliced and spliced XBP1 mRNAs were significantly increased in patients ' inflamed colonic mucosa compared to uninflamed mucosa and controls .
+RESULTS	HSPA5 , PDIA4 , ATF6 , and phospho-IRE proteins were also upregulated , indicating the activation of the IRE-XBP1 and ATF6p90-p50 branches of unfolded protein response .
+RESULTS	A positive significant correlation between interleukin-8 levels , as a marker of inflammation , and upregulated genes was found in the inflamed colonic mucosa .
+CONCLUSIONS	A deregulation of the genes involved in the endoplasmic reticulum stress and unfolded protein response pathways may be a key component of the inflammatory response in paediatric patients with inflammatory bowel disease .
+

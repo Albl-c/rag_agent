@@ -1,0 +1,13 @@
+25465711
+OBJECTIVE	To compare the six-month outcome of three different ultrasound-guided treatments for de Quervain 's disease ( DQD ) .
+METHODS	We prospectively treated 75 consecutive patients ( 51 females , 24 males , mean age standard deviation = 45.39.8 years ) with DQD .
+METHODS	Patients ' features ( hand dominance , intraretinaculum septum , accessory tendons ) were recorded .
+METHODS	Visual analogue scale ( VAS ) , reduced disability ( quickDASH ) score , and retinaculum thickness were evaluated at baseline and after one ( excluding retinaculum thickness ) , three , and six months .
+METHODS	Patients were randomized into three groups of 25 patients each treated under ultrasound guidance : Group A ( 1 ml methylprednisolone acetate ; mean baseline thickness = 1.6 mm ; mean baseline VAS = 6 ; mean baseline quickDASH = 55 ) ; Group B ( 1 ml methylprednisolone acetate +15 - day delayed 2 ml saline 0.9 % ; 1.4 ; 6 ; 56 ) ; Group C ( 1 ml methylprednisolone acetate +15 - day delayed 2 ml low molecular weight hyaluronic acid ; 1.7 ; 6 ; 55 ) .
+RESULTS	After one month results were : Group A mean VAS = 2 ; mean quickDASH = 23 ; Group B 2 ; 22 ; Group C 2 ; 21 .
+RESULTS	After three months results were : Group A retinaculum thickness = 0.7 mm ; 3 ; 27 ) ; Group B 0.8 mm ; 1 ; 25 ; Group C 0.5 mm ; 1 ; 23 .
+RESULTS	After six months results were : Group A 1.5 mm ; 3 ; 51 ; Group B 1 mm ; 2 ; 51 ; Group C 0.7 mm ; 1 ; 26 ( P < 0.001 for all vs. baseline ) .
+RESULTS	Patients ' age , sex , hand dominance , presence of subcompartment dividing septum , and supernumerary tendons had no influence on outcome ( P 0.177 ) .
+CONCLUSIONS	Addition of hyaluronic acid to ultrasound-guided injections of steroids to treat DQD seems to improve the outcome and to reduce the recurrence rate .
+CONCLUSIONS	Ultrasound guidance allows for safe injection procedures to treat de Quervains ' disease Steroid injections allow prompt recovery in de Quervain 's disease with short-term recurrence Addition of hyaluronic acid allows recurrence rate reduction compared to simple steroid injections .
+

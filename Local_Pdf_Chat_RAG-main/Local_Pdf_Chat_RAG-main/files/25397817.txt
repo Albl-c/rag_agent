@@ -1,0 +1,14 @@
+25397817
+BACKGROUND	Several evidence-based treatments are available to veterans diagnosed with posttraumatic stress disorder ( PTSD ) .
+BACKGROUND	However , not all veterans benefit from these treatments or prefer to engage in them .
+OBJECTIVE	The current study explored whether ( 1 ) a mantram repetition program ( MRP ) increased mindful attention among veterans with PTSD , ( 2 ) mindful attention mediated reduced PTSD symptom severity and enhanced psychological well-being , and ( 3 ) improvement in mindful attention was due to the frequency of mantram repetition practice .
+METHODS	Data from a randomized controlled trial comparing MRP plus treatment as usual ( MRP+TAU ) or TAU were analyzed using hierarchical linear models .
+METHODS	A total of 146 veterans with PTSD from military-related trauma were recruited from a Veterans Affairs outpatient PTSD clinic ( 71 MRP+TAU ; 75 TAU ) .
+METHODS	The Clinician Administered PTSD Scale ( CAPS ) , PTSD Checklist ( PCL ) , the Brief Symptom Inventory-18 depression subscale , Health Survey SF-12v2 , and Mindfulness Attention Awareness Scale ( MAAS ) were used .
+METHODS	Frequency of mantram repetition practice was measured using wrist-worn counters and daily logs .
+RESULTS	Intent-to-treat analyses indicated greater increases in mindful attention , as measured by the MAAS , for MRP+TAU as compared with TAU participants ( P < 0.01 ) .
+RESULTS	Mindful attention gains mediated previously reported treatment effects on reduced PTSD symptoms ( using both CAPS and PCL ) , reduced depression , and improved psychological well-being .
+RESULTS	Frequency of mantram repetition practice in turn mediated increased mindful attention .
+CONCLUSIONS	The MRP intervention and specifically , mantram practice , improved mindful attention in veterans with PTSD , yielding improved overall psychological well-being .
+CONCLUSIONS	MRP may be a beneficial adjunct to usual care in veterans with PTSD .
+

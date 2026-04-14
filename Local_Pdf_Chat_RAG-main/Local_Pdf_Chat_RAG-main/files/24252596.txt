@@ -1,0 +1,14 @@
+24252596
+BACKGROUND	Coronary artery disease ( CAD ) is accountable for more than 7 million deaths each year according to the World Health Organization ( WHO ) .
+BACKGROUND	In a European population 80 % of patients diagnosed with CAD are overweight and 31 % are obese .
+BACKGROUND	Physical inactivity and overweight are major risk factors in CAD , thus central strategies in secondary prevention are increased physical activity and weight loss .
+METHODS	In a randomized controlled trial 70 participants with stable CAD , age 45-75 , body mass index 28-40kg / m2 and no diabetes are randomized ( 1:1 ) to 12weeks of intensive exercise or weight loss both succeeded by a 40-week follow-up .
+METHODS	The exercise protocol consist of supervised aerobic interval training ( AIT ) at 85-90 % of VO2peak 3 times weekly for 12weeks followed by supervised AIT twice weekly for 40weeks .
+METHODS	In the weight loss arm dieticians instruct the participants in a low energy diet ( 800-1000kcal / day ) for 12weeks , followed by 40weeks of weight maintenance combined with supervised AIT twice weekly .
+METHODS	The primary endpoint of the study is change in coronary flow reserve after the first 12weeks ' intervention .
+METHODS	Secondary endpoints include cardiovascular , metabolic , inflammatory and anthropometric measures .
+CONCLUSIONS	The study will compare the short and long-term effects of a protocol consisting of AIT alone or a rapid weight loss followed by AIT .
+CONCLUSIONS	Additionally , it will provide new insight in mechanisms behind the benefits of exercise and weight loss .
+CONCLUSIONS	We wish to contribute to the creation of effective secondary prevention and sustainable rehabilitation strategies in the large population of overweight and obese patients diagnosed with CAD .
+BACKGROUND	ClinicalTrials.gov : NCT01724567 .
+

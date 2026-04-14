@@ -1,0 +1,18 @@
+25416496
+BACKGROUND	Depression is one the most common mental disorders that can be seen all over the world .
+BACKGROUND	In traditional Persian medicine , some medicinal herbs are recommended for depression treatment .
+BACKGROUND	This study aimed to evaluate the effects of Cuscuta planiflora Ten .
+BACKGROUND	and Nepeta menthoides Boiss .
+BACKGROUND	& Buhse in patients with major depression .
+METHODS	This study is a randomized triple-blind controlled clinical trial conducted in the year 2010 in Shiraz University of Medical Sciences on patients with major depression .
+METHODS	Pharmaceutical capsules of Cuscuta planiflora ( 500 mg ) and Nepeta menthoides ( 400 mg ) were prepared by a pharmacist .
+METHODS	Patients were randomly assigned to 3 groups : group A ( treated with Nepeta menthoides capsules and conventional drugs ) , group B ( treated with Cuscuta planiflora capsules and conventional drugs ) , and group C ( treated only with conventional drugs ) .
+METHODS	The study period was 8 weeks and depression was measured before and after the study by Beck Depression Inventory and Hamilton Depression Inventory .
+METHODS	The data were analyzed by SPSS version 20 and the P < .05 was considered statistically significant .
+RESULTS	A total of 43 subjects participated in this study , of whom 81.4 % were females ( n = 35 ) and 18.6 % were males ( n = 8 ) .
+RESULTS	The mean standard deviation of age of the participants was 38 10.9 years .
+RESULTS	The majority of patients ( 65.1 % , n = 28 ) were married .
+RESULTS	There were 15 patients ( 34.9 % ) in group A , 13 ( 30.29 % ) in group B , and 15 ( 34.9 % ) in group C.
+RESULTS	There was a significant decrease in mean scores of Beck and Hamilton depression inventories in the 3 groups after treatment ( P < .01 ) ; moreover , there was more decrease in scores of the Beck and Hamilton depression inventories in groups A and B compared with group C after treatment ( P < .01 ) .
+CONCLUSIONS	Despite the paucity of the population under study , the findings showed that Cuscuta planiflora and Nepeta menthoides capsules could be effective , affordable herbal medicines with improved cost-benefit in treatment of major depression and it is worth designing further and more extensive studies to get to a more accurate conclusion .
+

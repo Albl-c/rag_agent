@@ -1,0 +1,18 @@
+25238659
+OBJECTIVE	To determine the effects of addition of different dosages of gonadotrophin releasing hormone agonist ( GnRH-a ) to routine luteal phase support ( LPS ) on implantation and pregnancy rates .
+METHODS	Three hundred infertile couples who were treated by intracytoplasmic sperm injection and embryo transfer ( ICSI-ET ) following controlled ovarian stimulation ( COS ) with long luteal GnRH agonist protocol were enrolled .
+METHODS	All women received 600 mg/day vaginal micronized progesterone plus 4 mg 17 estradiol for LPS starting from the day of oocyte retrieval .
+METHODS	Patients ( n = 300 ) were randomized into three treatment groups .
+METHODS	Group A ( n = 100 ) received leuprolide acetate 1 mg s.c. injection 3 days after ET in addition to routine LPS .
+METHODS	Group B ( n = 100 ) received two sequential doses of leuprolide acetate 1 mg s.c. injections 3 and 6 days after ET in addition to routine LPS .
+METHODS	Control group ( n = 100 ) received only the routine LPS .
+RESULTS	A total of 279 patients completed the study .
+RESULTS	The groups were comparable in terms of baseline demographic parameters including age , duration of infertility and day 3 levels of FSH and estradiol .
+RESULTS	The cycle parameters of the groups were also comparable regarding the E2 level on day of hCG , number of retrieved oocytes , number of day 3 embryos , number of embryos transferred , and endometrial thickness on both days of OPU and ET .
+RESULTS	The implantation rates were similar in between the Groups A , B , and control group ( 20.7 % and 25.8 % vs. 13.3 % , respectively ; P = .099 ) .
+RESULTS	The clinical pregnancy rates and miscarriage rates were similar in between the groups .
+RESULTS	The ongoing pregnancy rates were 27.4 % in control group , 36 % in Group A and 42.9 % in Group B ( P = .093 ) .
+RESULTS	The OHSS rates were comparable in between the groups .
+RESULTS	The multiple pregnancy rates were significantly higher in Groups A and B than in control group ( 12 % and 17.9 % vs. 4.2 % , respectively ; P = .014 ) .
+CONCLUSIONS	The implantation , clinical pregnancy and ongoing pregnancy and multiple pregnancy rates seem to be increased with the addition of GnRH-a to routine luteal phase support .
+

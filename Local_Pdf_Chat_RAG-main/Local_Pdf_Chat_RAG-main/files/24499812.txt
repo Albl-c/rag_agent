@@ -1,0 +1,23 @@
+24499812
+BACKGROUND	Tubal ectopic pregnancy can be surgically treated by salpingectomy , in which the affected Fallopian tube is removed , or salpingotomy , in which the tube is preserved .
+BACKGROUND	Despite potentially increased risks of persistent trophoblast and repeat ectopic pregnancy , salpingotomy is often preferred over salpingectomy because the preservation of both tubes is assumed to offer favourable fertility prospects , although little evidence exists to support this assumption .
+BACKGROUND	We aimed to assess whether salpingotomy would improve rates of ongoing pregnancy by natural conception compared with salpingectomy .
+METHODS	In this open-label , multicentre , international , randomised controlled trial , women aged 18 years and older with a laparoscopically confirmed tubal pregnancy and a healthy contralateral tube were randomly assigned via a central internet-based randomisation program to receive salpingotomy or salpingectomy .
+METHODS	The primary outcome was ongoing pregnancy by natural conception .
+METHODS	Differences in cumulative ongoing pregnancy rates were expressed as a fecundity rate ratio with 95 % CI , calculated by Cox proportional-hazards analysis with a time horizon of 36 months .
+METHODS	Secondary outcomes were persistent trophoblast and repeat ectopic pregnancy ( expressed as relative risks [ RRs ] with 95 % CIs ) and ongoing pregnancy after ovulation induction , intrauterine insemination , or IVF .
+METHODS	The researchers who collected data for fertility outcomes were masked to the assigned intervention , but patients and the investigators who analysed the data were not .
+METHODS	All endpoints were analysed by intention to treat .
+METHODS	We also did a ( non-prespecified ) meta-analysis that included the findings from the present trial .
+METHODS	This trial is registered , number ISRCTN37002267 .
+RESULTS	446 women were randomly assigned between Sept 24 , 2004 , and Nov 29 , 2011 , with 215 allocated to salpingotomy and 231 to salpingectomy .
+RESULTS	Follow-up was discontinued on Feb 1 , 2013 .
+RESULTS	The cumulative ongoing pregnancy rate was 607 % after salpingotomy and 562 % after salpingectomy ( fecundity rate ratio 106 , 95 % CI 081-138 ; log-rank p = 0678 ) .
+RESULTS	Persistent trophoblast occurred more frequently in the salpingotomy group than in the salpingectomy group ( 14 [ 7 % ] vs 1 [ < 1 % ] ; RR 150 , 20-1134 ) .
+RESULTS	Repeat ectopic pregnancy occurred in 18 women ( 8 % ) in the salpingotomy group and 12 ( 5 % ) women in the salpingectomy group ( RR 16 , 08-33 ) .
+RESULTS	The number of ongoing pregnancies after ovulation induction , intrauterine insemination , or IVF did not differ significantly between the groups .
+RESULTS	43 ( 20 % ) women in the salpingotomy group were converted to salpingectomy during the initial surgery because of persistent tubal bleeding .
+RESULTS	Our meta-analysis , which included our own results and those of one other study , substantiated the results of the trial .
+CONCLUSIONS	In women with a tubal pregnancy and a healthy contralateral tube , salpingotomy does not significantly improve fertility prospects compared with salpingectomy .
+BACKGROUND	Netherlands Organisation for Health Research and Development ( ZonMW ) , Region Vstra Gtaland Health & Medical Care Committee .
+

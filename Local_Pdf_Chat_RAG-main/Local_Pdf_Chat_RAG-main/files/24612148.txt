@@ -1,0 +1,11 @@
+24612148
+OBJECTIVE	To assess treatment satisfaction with tadalafil or tamsulosin vs placebo in a 12-week , randomised , double-blind study of men with lower urinary tract symptoms suggestive of benign prostatic hyperplasia ( LUTS/BPH ) .
+METHODS	After a 4-week placebo lead-in period , men aged 45 years with an International Prostate Symptom Score ( IPSS ) of 13 and a maximum urinary flow rate of 4 to 15mL/s received placebo ( 172 men ) , tadalafil 5mg ( 171 ) , or tamsulosin 0.4 mg ( 168 ) once daily for 12 weeks .
+METHODS	Treatment Satisfaction Scale-BPH ( TSS-BPH ) responses were assessed based on median treatment differences using the van Elteren test .
+RESULTS	Overall treatment satisfaction was greater for tadalafil vs placebo ( P = 0.005 ) , based on greater satisfaction with efficacy ( P = 0.003 ) ; neither overall treatment satisfaction nor satisfaction with efficacy was greater for tamsulosin vs placebo ( P 0.409 ) .
+RESULTS	For individual questions , 66.5 % of men rated tadalafil treatment as ` effective/very effective ' ( Question 1 , Q1 ) vs placebo ( P = 0.011 ) , 72.6 % would ` definitely/probably recommend their treatment ' ( Q3 ; P = 0.043 ) , 71.8 % were generally ` very satisfied/satisfied with their medication ' ( Q8 ; P < 0.003 ) , and 65.0 % would ` definitely/probably continue therapy ' ( Q10 ; P = 0.035 ) .
+RESULTS	With tamsulosin , differences vs placebo were not statistically significant .
+RESULTS	Subgroup analyses of overall TSS-BPH by baseline age ( 65 / > 65 years ) , history of erectile dysfunction ( yes/no ) , LUTS/BPH severity ( IPSS < / 20 ) , total testosterone level ( < 300/300ng/dL ) , and age-specific predicted prostate volume ( < 40/40mL ) showed no statistically significant treatment-subgroup interactions .
+RESULTS	Men with recent prior - blocker therapy reported greater treatment satisfaction with tadalafil vs placebo , with only borderline difference for men without prior therapy .
+CONCLUSIONS	Treatment satisfaction was greater with tadalafil vs placebo , with no significant difference between tamsulosin and placebo .
+

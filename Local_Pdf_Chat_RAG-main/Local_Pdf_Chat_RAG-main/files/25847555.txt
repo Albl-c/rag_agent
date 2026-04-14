@@ -1,0 +1,18 @@
+25847555
+OBJECTIVE	To determine effects of Argentine tango on motor and non-motor manifestations of Parkinson 's disease .
+METHODS	Randomized control trial .
+METHODS	Forty patients with idiopathic Parkinson 's disease .
+METHODS	Movement disorder clinic and dance studio .
+METHODS	Two randomized groups : group ( N = 18 ) with 24 partnered tango classes , and control self-directed exercise group ( N = 15 ) .
+METHODS	The primary outcome was overall motor severity .
+METHODS	Secondary outcomes included other motor measures , balance , cognition , fatigue , apathy , depression and quality of life .
+RESULTS	On the primary intention-to-treat analysis there was no difference in motor severity between groups MDS-UPDRS-3 ( 1.6 vs.1.2-point reduction , p = 0.85 ) .
+RESULTS	Patient-rated clinical global impression of change did not differ ( p = 0.33 ) , however examiner rating improved in favor of tango ( p = 0.02 ) .
+RESULTS	Mini-BESTest improved in the tango group compared to controls ( 0.72.2 vs. -2.75.9 , p = 0.032 ) .
+RESULTS	Among individual items , tango improved in both simple TUG time ( -1.31.6 s vs. 0.12.3 , p = 0.042 ) and TUG Dual Task score ( 0.40.9 vs. -0.20.4 , p = 0.012 ) , with borderline improvement in walk with pivot turns ( 0.20.5 vs. -0.10.5 , p = 0.066 ) .
+RESULTS	MoCa ( 0.41.6 vs. -0.61.5 , p = 0.080 ) and FSS ( -3.610.5 vs. 2.56.2 , p = 0.057 ) showed a non-significant trend toward improvement in the tango group .
+RESULTS	Tango participants found the activity more enjoyable ( p < 0.001 ) and felt more `` overall '' treatment satisfaction ( p < 0.001 ) .
+RESULTS	We found no significant differences in other outcomes or adverse events .
+CONCLUSIONS	Argentine tango can improve balance , and functional mobility , and may have modest benefits upon cognition and fatigue in Parkinson 's disease .
+CONCLUSIONS	These findings must be confirmed in longer-term trials explicitly powered for cognition and fatigue .
+

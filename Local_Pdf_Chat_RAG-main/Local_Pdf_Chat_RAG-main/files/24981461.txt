@@ -1,0 +1,12 @@
+24981461
+OBJECTIVE	To evaluate the analgesic efficacy of oral premedication of oxycodone in a group of patients undergoing elective uterine artery embolization under sedation for fibroid disease .
+METHODS	Thirty-nine patients ( mean age 42.3 years ) were prospectively randomized 1:1 to receive 20 mg oxycodone or placebo orally immediately before their procedure .
+METHODS	At the commencement of the procedure , patients were provided with a patient-controlled analgesia device for 24 h , programmed to deliver 1 mg boluses of intravenous morphine with a 5 min lockout .
+METHODS	Mean visual analog scale pain intensity ratings ( 0-100 mm ) were measured from both groups and evaluated over 0 to 6 h as the primary end point .
+METHODS	Other measured parameters included opioid-related side effects and eligibility for discharge ( NCT00163930 ; September 12 , 2005 ) .
+RESULTS	Early pain intensity did not vary significantly between the active and placebo groups [ mean ( standard deviation ) : 3.2 ( 2.5 ) vs. 3.1 ( 2.2 ) , p = 0.89 ] .
+RESULTS	The oxycodone group , however , experienced significantly more nausea ( p = 0.035 ) and a greater incidence of vomiting ( p = 0.044 ) .
+RESULTS	Overall opioid requirement over 24 h , measured as oral morphine equivalent , was greater in the oxycodone group ( median [ interquartile range ] : 64.5 [ 45-90 ] mg vs. 22.5 [ 15-46 .5 ] mg , p < 0.0001 ) .
+RESULTS	The number of patients first eligible for discharge at 24 h in the oxycodone group was decreased but not significantly ( p = 0.07 ) .
+CONCLUSIONS	The addition of preprocedural oral oxycodone to morphine patient-controlled analgesia does not offer any analgesic advantage to patients having uterine artery embolization and may cause a greater incidence of nausea and vomiting .
+

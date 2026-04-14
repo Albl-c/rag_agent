@@ -1,0 +1,16 @@
+25532604
+BACKGROUND	In 2006 , Ethicon Inc. introduced a new minimally invasive single incision sling device for the surgical treatment of stress urinary incontinence , the Gynecare TVT Secur .
+BACKGROUND	For device licensing , no new evidence of TVT Secur efficacy and safety was needed : rather evidence was provided of the long-term follow-up of patients who had a procedure using a predecate retropubic tension-free vaginal tape device .
+BACKGROUND	Before adopting TVT Secur into our routine clinical practice , we decided to evaluate it .
+BACKGROUND	The objective of our Canadian multi-centre pragmatic randomized controlled trial was to compare the effectiveness of the new single-incision device , TVT Secur , to the established TVT device , in terms of objective cure of stress urinary incontinence ( SUI ) at 12 months postoperatively .
+BACKGROUND	Other outcomes included : complications , symptoms , and incontinence-related quality of life .
+RESULTS	The sample size estimate for our trial was 300 , but the trial stopped early because of poor recruitment .
+RESULTS	74 women participated ( 40 allocated to TVT Secur , 34 to TVT ) .
+RESULTS	At 12 months postoperatively , 27/33 ( 82 % ) of TVT Secur group were cured , compared with 25/28 ( 89 % ) of the TVT group ( relative risk 0.92 , 95 % confidence interval 0.75 to 1.13 , p = 0.49 ) .
+RESULTS	Most women reported little or no SUI symptoms ( 35/37 ( 95 % ) vs 29/30 ( 97 % ) , > 0.999 ) .
+RESULTS	Quality of life improved significantly from baseline for both groups ( IIQ-7 mean change -25 for both groups ) but did not differ between groups ( p = 0.880 ) .
+CONCLUSIONS	Our small randomized trial did not find statistically significant differences in outcomes between women allocated to the TVT Secur device versus those allocated to the TVT device for stress urinary incontinence .
+CONCLUSIONS	Despite the discontinuation of TVT Secur in March 2013 for commercial reasons , the importance of our study lies in making evidence available for the many women who had a TVT Secur device implanted and their physicians who may be considering alternative treatments .
+CONCLUSIONS	Our experience illustrates the difficulty of undertaking research on new licensed devices in a rapidly changing surgical specialty , and further highlights the need for research before licensing if surgeons and their patients are to be confident in the effectiveness and safety of new surgical devices .
+BACKGROUND	ClinicalTrials.gov NCT00685217 , 22 May 2008 .
+

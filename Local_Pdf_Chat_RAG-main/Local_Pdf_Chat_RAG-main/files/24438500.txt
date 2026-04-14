@@ -1,0 +1,13 @@
+24438500
+BACKGROUND	Computed tomography is widely used to diagnose acute appendicitis .
+BACKGROUND	Many adolescents and young adults are exposed to the associated radiation .
+BACKGROUND	A recent single-institution trial has reported promising results for low-dose computed tomography ; however , this technique has not yet been widely adopted .
+BACKGROUND	LOCAT ( low-dose computed tomography for appendicitis trial ) , a multi-institution randomized controlled non-inferiority trial , aims to compare low-dose computed tomography and standard-dose computed tomography as the first-line imaging tests for adolescents and young adults , and therefore to test the generalizability of the previous single-institution trial results .
+METHODS	Participants with suspected appendicitis are randomly assigned to either the low-dose group ( with a typical effective dose of 2mSv ) or the standard-dose group ( as used in normal practice at each participating site , typically 8mSv ) .
+METHODS	The primary end point is the negative appendectomy rate ( the percentage of the number of uninflamed appendices that were removed among all non-incidental appendectomies ) , which is a consequence of false-positive diagnoses , with a non-inferiority margin of 4.5 percentage points .
+METHODS	The key secondary end point is the appendiceal perforation rate , which is a consequence of delayed ( or false-negative ) diagnoses .
+METHODS	Participant recruitment will be continued until the number of non-incidental appendectomies for each group exceeds 444 .
+METHODS	The total number of expected participants approximates 3,000 , including those not undergoing appendectomy .
+CONCLUSIONS	In addition to the study protocol , we elaborate on several challenging or potentially debatable components of the study design , including the broad eligibility criteria , choice of the primary end point , potential effect of using advanced imaging techniques on study results , determining and adjusting the radiation doses , ambiguities in reference standards , rationale for the non-inferiority margin , use of the intention-to-treat approach and difficulties in defining adverse events .
+BACKGROUND	ClinicalTrials.gov NCT01925014 .
+

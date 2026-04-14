@@ -1,0 +1,12 @@
+25297681
+OBJECTIVE	Providing effective analgesia for total knee arthroplasty ( TKA ) patients remains challenging .
+OBJECTIVE	Femoral nerve block ( FNB ) offers targeted pain control ; however , its effect on motor function , related fall risk and impact on rehabilitation has been the source of controversy .
+OBJECTIVE	Adductor canal block ( ACB ) potentially spares motor fibres of the femoral nerve , but the comparative effect of the two approaches has not yet been well defined due to considerable variability in pain perception .
+OBJECTIVE	Our study compares both single-shot FNB and ACB , side to side , in the same patients undergoing bilateral TKA .
+METHODS	Sixty patients scheduled for bilateral TKA were randomised to receive ultrasound-guided FNB on one leg and ACB on the other , in addition to combined spinal epidural anaesthesia .
+METHODS	The primary outcome was comparative postoperative pain in either extremity at six to eight , 24 and 48 hours postoperatively .
+METHODS	Secondary comparative outcomes included motor strength ( manually and via dynamometer ) , physical therapy milestones and patient satisfaction .
+RESULTS	While pain levels were lowest at six to eight hours postoperatively and increased thereafter ( P < 0.001 ) , no significant differences were seen between extremities at any time point with regard to pain in the quantitative comparison using visual analogue scale ( VAS ) scores ( P = 0.4154 ) , motor strength ( P = 0.7548 ) , physical therapy milestones or patient satisfaction .
+RESULTS	However , in the qualitative comparison , a significant proportion of patients reported the leg receiving ACB to be more painful than that receiving FNB at 24 h [ 50.9 % ( n = 30 ) vs 25.42 % ( n = 15 ) , P = 0.0168 ) ] .
+CONCLUSIONS	Although we could not confirm a benefit in motor function between ACB and FNB , given the equivalent analgesic potency combined with its potentially lower overall impact if neuropraxia should occur , ACB may represent an attractive alternative to FNB .
+

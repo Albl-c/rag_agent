@@ -1,0 +1,19 @@
+24559642
+OBJECTIVE	To investigate whether a home-based rehabilitation program for community-dwelling older people with recent hip fracture is more effective than standard care in improving mobility recovery and reducing disability .
+METHODS	Randomized , controlled , parallel-group trial .
+METHODS	Rehabilitation in participants ' homes ; measurements in university-based laboratory and local hospital .
+METHODS	Clinical population of community-dwelling men and women ( aged 60 + ) recovering from hip fracture .
+METHODS	Participants were randomly assigned into control ( n = 41 ) or intervention ( n = 40 ) groups on average 42 23 days after discharge home .
+METHODS	A yearlong multicomponent home-based rehabilitation aimed at promoting mobility recovery and physical functional capacity after hip fracture .
+METHODS	The intervention included evaluation and modification of environmental hazards , guidance for safe walking , nonpharmacological pain management , a progressive home exercise program , physical activity counseling , and standard care .
+METHODS	Measurements were outlined according to the tiers of the disablement process , with the ability to negotiate stairs as the main outcome .
+METHODS	Prefracture ability to negotiate stairs was enquired at the hospital on average 10 5 days after fracture .
+METHODS	Subsequently , current perceived ability to negotiate stairs was reported immediately before the intervention ( on average 9 weeks after surgery ) and 3 , 6 , and 12 months thereafter .
+METHODS	Other measurements included leg extension power deficit ( LEP ) , functional balance ( Berg Balance Scale ) and lower extremity performance ( Short Physical Performance Battery ) .
+METHODS	Effects of the intervention were analyzed with generalized estimation equations and longitudinal repeated measures mixture path models .
+RESULTS	The intervention reduced perceived difficulties in negotiating stairs ( interaction , group time P = .001 ) from prefracture to 12 months compared with the control condition .
+RESULTS	The mixture path model revealed that less difficulty in negotiating stairs at 6 and 12 months correlated with better functional balance at 3 and 6 months in the intervention group but not controls ( group difference P = .007 and P < .001 , respectively ) .
+CONCLUSIONS	The individualized home-based rehabilitation program improved mobility recovery after hip fracture over standard care .
+CONCLUSIONS	To be efficacious in reducing or reversing disability after hip fracture , rehabilitation needs to be individualized , include many components , be progressive , and span a sufficiently long period .
+CONCLUSIONS	Current Controlled Trials ( ISRCTN53680197 ) .
+

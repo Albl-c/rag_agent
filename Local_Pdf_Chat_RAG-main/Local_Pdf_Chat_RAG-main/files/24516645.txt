@@ -1,0 +1,14 @@
+24516645
+OBJECTIVE	The training response of an intensified period of high-intensity exercise is not clear .
+OBJECTIVE	Therefore , we compared the cardiovascular adaptations of completing 24 high-intensity aerobic interval training sessions carried out for either three or eight weeks , respectively .
+METHODS	Twenty-one healthy subjects ( 23.02.1 years , 10 females ) completed 24 high-intensity training sessions throughout a time-period of either eight weeks ( moderate frequency , MF ) or three weeks ( high frequency , HF ) followed by a detraining period of nine weeks without any training .
+METHODS	In both groups , maximal oxygen uptake ( VO2max ) was evaluated before training , at the 9 ( th ) and 17 ( th ) session and four days after the final 24 ( th ) training session .
+METHODS	In the detraining phase VO2max was evaluated after 12 days and thereafter every second week for eight weeks .
+METHODS	Left ventricular echocardiography , carbon monoxide lung diffusion transfer factor , brachial artery flow mediated dilatation and vastus lateralis citrate maximal synthase activity was tested before and after training .
+RESULTS	The cardiovascular adaptation after HF training was delayed compared to training with MF .
+RESULTS	Four days after ending training the HF group showed no improvement ( +3.0 % , p = 0.126 ) , whereas the MF group reached their highest VO2max with a 10.7 % improvement ( p < 0.001 : group difference p = 0.035 ) .
+RESULTS	The HF group reached their highest VO2max ( 6.1 % increase , p = 0.026 ) twelve days into the detraining period , compared to a concomitant reduction to 7.9 % of VO2max ( p < 0.001 ) above baseline in the MF group ( group difference p = 0.609 ) .
+CONCLUSIONS	Both HF and MF training of high-intensity aerobic exercise improves VO2max .
+CONCLUSIONS	The cardiovascular adaptation following a HF programme of high-intensity exercise is however delayed compared to MF training .
+BACKGROUND	ClinicalTrials.gov NCT00733941 .
+

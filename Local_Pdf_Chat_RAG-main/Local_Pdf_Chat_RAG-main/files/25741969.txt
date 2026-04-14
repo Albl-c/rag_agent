@@ -1,0 +1,12 @@
+25741969
+OBJECTIVE	To investigate the association between feeding patterns and HIV-free survival in children born to HIV-infected mothers and to clarify whether antiretroviral ( ARV ) prophylaxis modifies the association .
+METHODS	From June 2005 to August 2008 , HIV-infected pregnant women were counseled regarding infant feeding options , and randomly assigned to triple-ARV prophylaxis ( triple ARV ) until breastfeeding cessation ( BFC ) before age 6 months or antenatal zidovudine with single-dose nevirapine ( short-course ARV ) .
+METHODS	Eighteen-month HIV-free survival of infants HIV-negative at 2 weeks of age was assessed by feeding patterns ( replacement feeding from birth , BFC < 3 months , BFC 3 months ) .
+RESULTS	Of the 753 infants alive and HIV-negative at 2 weeks , 28 acquired infection and 47 died by 18 months .
+RESULTS	Overall HIV-free survival at 18 months was 0.91 [ 95 % confidence interval ( CI ) : 0.88-0 .93 ] .
+RESULTS	In the short-course ARV arm , HIV-free survival ( 0.88 ; CI : 0.84-0 .91 ) did not differ by feeding patterns .
+RESULTS	In the triple ARV arm , overall HIV-free survival was 0.93 ( CI : 0.90-0 .95 ) and BFC < 3 months was associated with lower HIV-free survival than BFC 3 months ( adjusted hazard ratio : 0.36 ; CI : 0.15-0 .83 ) and replacement feeding ( adjusted hazard ratio : 0.20 ; CI : 0.04-0 .94 ) .
+RESULTS	In the triple ARV arm , 4 of 9 transmissions occurred after reported BFC ( and 5 of 19 in the short-course arm ) , indicating that some women continued breastfeeding after interruption of ARV prophylaxis .
+CONCLUSIONS	In resource-constrained settings , early weaning has previously been associated with higher infant mortality .
+CONCLUSIONS	We show that , even with maternal triple-ARV prophylaxis during breastfeeding , early weaning remains associated with lower HIV-free survival , driven in particular by increased mortality .
+

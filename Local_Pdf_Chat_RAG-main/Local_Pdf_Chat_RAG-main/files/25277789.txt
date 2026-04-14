@@ -1,0 +1,15 @@
+25277789
+OBJECTIVE	To evaluate whether a combination of misoprostol and oxytocin more effectively reduces blood loss during and after cesarean delivery than does oxytocin alone among women with known risk factors for postpartum hemorrhage ( PPH ) .
+METHODS	A prospective , randomized , double-blind , placebo-controlled trial was performed at a tertiary care center in Kolkata , India , between October 2012 and December 2013 .
+METHODS	Women were eligible if they were undergoing emergency cesarean under spinal anesthesia and were at high risk for PPH .
+METHODS	Participants were randomly assigned ( 1:1 ) to receive 400 g misoprostol or matched placebo sublingually after delivery of the newborn using a computer-generated random number sequence ( block size eight ) .
+METHODS	Participants and providers were masked to assignment .
+METHODS	All participants received 20 IU oxytocin .
+METHODS	The primary outcomes were intraoperative and postoperative blood loss .
+RESULTS	Both groups contained 198 women .
+RESULTS	Mean intraoperative blood loss was significantly lower in the misoprostol group ( 505.4215.5 mL ) than in the placebo group ( 587.3201.5 mL ; P < 0.001 ) .
+RESULTS	Mean postoperative blood loss was slightly lower in the misoprostol group ( 96.957.3 mL ) than in the placebo group ( 103.458.4 mL ; P = 0.07 ) .
+RESULTS	Shivering and pyrexia were more frequently associated with misoprostol ( P < 0.05 for both ) .
+CONCLUSIONS	Misoprostol as an adjunct to oxytocin seemed to more effectively reduce blood loss than did oxytocin alone .
+CONCLUSIONS	Clinical Trial Registry India : CTRI/2013/05 / 003645 .
+

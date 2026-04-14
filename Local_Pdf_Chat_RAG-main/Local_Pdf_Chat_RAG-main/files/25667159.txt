@@ -1,0 +1,16 @@
+25667159
+OBJECTIVE	The 2010 guidelines recommend new requirements of the chest compression depth for infant .
+OBJECTIVE	The compression technique recommendation for infant remains the 2-finger ( TF ) technique for lone rescuer and the 2-thumb-encircling hands technique for 2 rescuers .
+OBJECTIVE	We hypothesized that the TF technique can not result in an enough compression depth to meet the guideline requirements and that the 2-thumb-encircling hands technique will not affect the ventilation .
+METHODS	Crossover experimental study randomizes 27 health care providers to perform 2 sets of 5-minute cardiopulmonary resuscitation using a 30:2 compression/ventilation ratio to compare TF and 2-thumb-encircling hands techniques .
+METHODS	A Laerdal Resusci Baby QCPR manikin equipped with PC SkillReporting System was used for measuring and recording cardiopulmonary resuscitation data .
+METHODS	Data ( mean SD ) were analyzed by using a paired t test .
+METHODS	Significance was defined qualitatively as P .05 .
+RESULTS	Mean compression depths were 39.25 3.06 cm in the TF technique and 42.37 1.15 cm in the 2-thumb-encircling hands technique , P < .001 .
+RESULTS	Two-finger technique had significant lower fractions of correct hand position than 2-thumb-encircling hands technique ( 96.56 % 6.74 % vs 99.41 % 2.52 % , P < .05 ) .
+RESULTS	The fatigue point appears much earlier in TF than in 2-thumb-encircling hands .
+RESULTS	No difference was identified on ventilation between 2 groups .
+CONCLUSIONS	The 2-thumb-encircling hands technique can produce a compression depth meeting the current guidelines recommendation without negative influence on ventilation , whereas the TF technique can not .
+CONCLUSIONS	The 2-thumb-encircling hands technique generates a significant higher ratio of correct compression position than the TF technique .
+CONCLUSIONS	Furthermore , the 2-thumb-encircling hands technique is less fatiguing than the TF technique .
+

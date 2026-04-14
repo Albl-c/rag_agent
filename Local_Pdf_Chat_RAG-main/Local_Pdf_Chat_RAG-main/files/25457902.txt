@@ -1,0 +1,15 @@
+25457902
+OBJECTIVE	This study sought to evaluate the effect of macitentan on hospitalization of patients with symptomatic pulmonary arterial hypertension ( PAH ) .
+BACKGROUND	PAH is a progressive , life-threatening disease often requiring hospitalization .
+METHODS	In the multicenter , double-blind , randomized , event-driven , phase III SERAPHIN ( Study with an Endothelin Receptor Antagonist in Pulmonary arterial Hypertension to Improve cliNical outcome ) trial , patients with symptomatic PAH were randomized ( 1:1:1 ) to receive placebo or 3 mg or 10 mg of macitentan .
+METHODS	Effects of macitentan on the risk , rate , and number of hospital days for all-cause and PAH-related hospitalizations were compared with those for placebo .
+METHODS	Risk and causes of hospitalizations unrelated to PAH were investigated .
+RESULTS	Of 742 randomized patients , 250 received placebo , 250 received 3 mg of macitentan , and 242 received 10 mg of macitentan ; the overall median duration of treatment was 115 weeks .
+RESULTS	Risk of all-cause hospitalization was reduced by 18.9 % ( p = 0.1208 ) and 32.3 % ( p = 0.0051 ) in the macitentan 3-mg and 10-mg arm , respectively .
+RESULTS	Rates of all-cause hospitalizations and numbers of hospital days were reduced by 20.5 % ( p = 0.0378 ) and 30.6 % ( p = 0.0278 ) , respectively , with 3 mg of macitentan and by 33.1 % ( p = 0.0005 ) and 31.0 % ( p = 0.0336 ) , respectively , with 10 mg of macitentan .
+RESULTS	Risk of PAH-related hospitalizations were reduced by 42.7 % ( p = 0.0015 ) and 51.6 % ( p < 0.0001 ) in the macitentan 3-mg and 10-mg arms , respectively .
+RESULTS	Rate of PAH-related hospitalizations and numbers of hospital days were reduced by 44.5 % ( p = 0.0004 ) and 53.3 % ( p = 0.0001 ) , respectively , with 3 mg of macitentan , and reduced by 49.8 % ( p < 0.0001 ) and 52.3 % ( p = 0.0003 ) , respectively , with 10 mg of macitentan .
+RESULTS	Risk of non-PAH-related hospitalization was similar between treatment arms .
+CONCLUSIONS	Macitentan 10 mg significantly reduced the risk and rate of all-cause hospitalization , which was driven by reductions in the risk and rate of PAH-related hospitalization .
+CONCLUSIONS	( Study of Macitentan [ ACT-064992 ] on Morbidity and Mortality in Patients With Symptomatic Pulmonary Arterial Hypertension ; NCT00660179 ) .
+

@@ -1,0 +1,12 @@
+26078250
+OBJECTIVE	Long-chain polyunsaturated fatty acids ( LC-PUFA ) are regarded as essential for child cognition .
+OBJECTIVE	Genetic variation in fatty acid ( FA ) desaturase enzyme ( FADS ) has been recognized as an important effect modifier in the relation between LC-PUFA and child cognitive function .
+OBJECTIVE	This study aimed to identify the distribution of genetic variant ( genotype ) SNP rs174468 and to assess plasma FA and developmental outcome by the genotype among under-2 year old Sasaknese Indonesian children .
+METHODS	Data was collected at baseline of a randomized trial ( NUPICO , clinicaltrials.gov NCT01504633 ) in East Lombok district , Indonesia .
+METHODS	Breastfed , 12 - 17 month old children were recruited and 240 subjects were included in the study .
+METHODS	Child cognition was assessed as Bayley Mental Developmental Index ( MDI ) .
+RESULTS	From 206 subjects whose blood samples can be collected , only two genotypes were found ( 90.3 % GG homozygotes , 9.7 % AG heterozygotes ) , and minor allele AG was significantly associated with higher level of arachidonic acid ( 20:4 n-6 ) , n-6 LC-PUFA and FADS1 index .
+RESULTS	MDI score was associated with a FADS2 index ( DHA : EPA ratio ) but not genotype ( Adjusted R-square = 0.043 ) .
+CONCLUSIONS	FADS2 index was associated with cognitive function .
+CONCLUSIONS	No difference was found between children with GG and AG genotypes who were all breastfed and not low birth weight .
+

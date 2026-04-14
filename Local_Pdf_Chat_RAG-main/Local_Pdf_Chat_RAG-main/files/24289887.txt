@@ -1,0 +1,17 @@
+24289887
+BACKGROUND	Numerous animal studies and clinical trials have demonstrated that erythropoietin ( EPO ) has therapeutic effects in ischemic and degenerative diseases .
+BACKGROUND	However , few clinical trials have investigated the effect of EPO in Parkinson 's disease ( PD ) patients .
+BACKGROUND	This study was an exploratory pilot study to investigate the effects of recombinant human EPO ( rhEPO ) on motor and non-motor symptoms ( NMS ) in PD patients .
+METHODS	A total of 26 PD patients at the Hanyang University Hospital were enrolled in the study .
+METHODS	The participants were randomly assigned to rhEPO and placebo groups .
+METHODS	The rhEPO group was infused intravenously ( 40,000 IU each ) twice a week for 5 weeks .
+METHODS	Clinical improvement was estimated using the Unified Parkinson 's Disease Rating Scale-III ( UPDRS-III ) , the NMS Scale ( NMSS ) and the 39-Item Parkinson 's Disease Questionnaire ( PDQ-39 ) .
+METHODS	[ ( 18 ) F ] N - ( 3-fluoropropyl ) -2 - carbon ethoxy-3 - ( 4-iodophenyl ) nortropane ( FP-CIT ) photon emission tomography ( PET ) scanning was performed on each participant at baseline and again after 12 months .
+RESULTS	The rhEPO administration significantly improved the NMSS and PDQ-39 scores at 12 months .
+RESULTS	The UPDRS-III , which reflects motor function , did not change significantly after the rhEPO treatment .
+RESULTS	With the NMSS , the domains of cardiovascular autonomic function , sleep/fatigue , mood/cognition and attention/memory showed significant changes .
+RESULTS	None of the participants experienced any serious adverse effects .
+CONCLUSIONS	We found that rhEPO had beneficial effects on NMS but not on motor function .
+CONCLUSIONS	Dopaminergic refractory NMS , such as cardiovascular autonomic dysfunction and cognition , showed improvement after the administration of rhEPO .
+CONCLUSIONS	Our results suggest that rhEPO might be a good candidate for the treatment of NMS in PD patients .
+

@@ -1,0 +1,12 @@
+24851692
+OBJECTIVE	To evaluate the performance effect of short-term catheter-directed thrombolysis with different dosage of rt-PA allied with endovascular interventional therapy for patients with acute lower limb ischemia .
+METHODS	To separate 84 consecutive patients suffered from acute lower limb ischemia into two groups at random , then adopt catheter-directed thrombolysis for each group of patients injected 20 mg ( Group A ) or 10 mg ( Group B ) rt-PA into the occlusive lesion correspondingly , and subsequently perform endovascular intervention on significant underlying lesions on the base of angiography results .
+METHODS	Adopt statistical methods to assess treatment effectiveness , rates of complication and amputation rates within 30 days , 6 months or 12 months .
+METHODS	The statistic analysis was performed under SPSS 16.0 format , and adopts t test and ( 2 ) test .
+RESULTS	There was no statistical difference on patient characteristics and lesions between both groups ( P > 0.05 ) .
+RESULTS	Procedural success rates as well clinical success rates were all 100 % .
+RESULTS	Not incur any diversity on thrombolysis effectiveness between both groups injected different dosage of rt-PA ( P > 0.05 ) .
+RESULTS	Not found major differences on ratios of PTA or implant stent between both groups ( P > 0.05 ) .
+RESULTS	During the follow-up period of 30-day , 6 - , 12 - months , there were no statistical differences on the amputation-free survival rates and complication rates between both groups .
+CONCLUSIONS	Whereas short-term catheter-directed thrombolysis combined with endovascular interventional therapy won good operation effectiveness on patients with acute lower limb ischemia , moreover the dosage of rt-PA did not impact on thrombolysis , it is worthy to be applied in the clinical practice .
+

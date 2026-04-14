@@ -1,0 +1,15 @@
+24679060
+BACKGROUND	In short-term randomized trials ( duration , 1 to 2 years ) , bariatric surgery has been associated with improvement in type 2 diabetes mellitus .
+METHODS	We assessed outcomes 3 years after the randomization of 150 obese patients with uncontrolled type 2 diabetes to receive either intensive medical therapy alone or intensive medical therapy plus Roux-en-Y gastric bypass or sleeve gastrectomy .
+METHODS	The primary end point was a glycated hemoglobin level of 6.0 % or less .
+RESULTS	The mean ( SD ) age of the patients at baseline was 488 years , 68 % were women , the mean baseline glycated hemoglobin level was 9.31.5 % , and the mean baseline body-mass index ( the weight in kilograms divided by the square of the height in meters ) was 36.03.5 .
+RESULTS	A total of 91 % of the patients completed 36 months of follow-up .
+RESULTS	At 3 years , the criterion for the primary end point was met by 5 % of the patients in the medical-therapy group , as compared with 38 % of those in the gastric-bypass group ( P < 0.001 ) and 24 % of those in the sleeve-gastrectomy group ( P = 0.01 ) .
+RESULTS	The use of glucose-lowering medications , including insulin , was lower in the surgical groups than in the medical-therapy group .
+RESULTS	Patients in the surgical groups had greater mean percentage reductions in weight from baseline , with reductions of 24.59.1 % in the gastric-bypass group and 21.18.9 % in the sleeve-gastrectomy group , as compared with a reduction of 4.28.3 % in the medical-therapy group ( P < 0.001 for both comparisons ) .
+RESULTS	Quality-of-life measures were significantly better in the two surgical groups than in the medical-therapy group .
+RESULTS	There were no major late surgical complications .
+CONCLUSIONS	Among obese patients with uncontrolled type 2 diabetes , 3 years of intensive medical therapy plus bariatric surgery resulted in glycemic control in significantly more patients than did medical therapy alone .
+CONCLUSIONS	Analyses of secondary end points , including body weight , use of glucose-lowering medications , and quality of life , also showed favorable results at 3 years in the surgical groups , as compared with the group receiving medical therapy alone .
+CONCLUSIONS	( Funded by Ethicon and others ; STAMPEDE ClinicalTrials.gov number , NCT00432809 . )
+

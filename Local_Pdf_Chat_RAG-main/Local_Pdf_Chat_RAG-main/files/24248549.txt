@@ -1,0 +1,15 @@
+24248549
+OBJECTIVE	To compare lag-screw sliding characteristics and fixation stability of two cephalomedullary nails ( CMN ) with different lag-screw designs ( solid and telescopic ) , we conducted a biomechanical study and an analysis of clinical results .
+METHODS	Six pairs of cadaver femurs with simulated intertrochanteric fractures were randomly assigned to one of two CMN fixations .
+METHODS	Femur constructs were statically then cyclically loaded on an MTS machine .
+METHODS	Lag-screw sliding and inferior and lateral femoral head displacements were measured , following which failure strength of the construct was determined .
+METHODS	Forty-five patients with intertrochanteric fractures treated with these CMN were identified .
+METHODS	Medical records and radiographs were reviewed and analyzed using Fisher 's exact test and Student 's t test to determine lag-screw sliding .
+RESULTS	No difference was seen with cycling in inferior femoral head displacement between the two screw designs .
+RESULTS	The solid screw had an average inferior head displacement of 1.75 mm compared with 1.59 mm for the telescoping screw ( p = 0.772 ) .
+RESULTS	The solid lag screws slid an average of 2.79 mm lateral from the nail , whereas the telescoping screws slid an average of 0.27 mm ( p = 0.003 ) .
+RESULTS	In our clinical review , the average lateral sliding of the telescoping screw was 0.5 mm and of the solid screw was 3.7 mm ( p < 0.001 ) .
+RESULTS	Despite differences in lateral sliding , there were no reoperations for prominent or painful hardware in either group .
+CONCLUSIONS	Both designs are acceptable devices for stabilization of intertrochanteric fractures .
+CONCLUSIONS	Clinical and biomechanical data demonstrate greater lateral sliding in the solid lag-screw group , making for greater potential for lateral-sided hip pain in CMNs with solid lag screws as opposed to telescoping lag screws .
+

@@ -1,0 +1,15 @@
+25046167
+OBJECTIVE	The aim of this study was to assess in healthy subjects the safety , tolerability , pharmacokinetics , and pharmacodynamics of ponesimod , an oral selective sphingosine-1-phosphate receptor 1 ( S1P1 ) modulator in development for multiple sclerosis , by using an uptitration scheme up to supratherapeutic doses .
+METHODS	This was a double-blind , placebo-controlled , randomised , parallel group , uptitration study .
+METHODS	Male and female subjects received ascending oral doses of ponesimod ( n = 12 ) or placebo ( n = 4 ) once daily for 3 days at each dose level ( 10-20-40-60-80-100mg ) .
+RESULTS	The most frequent adverse events were chest discomfort , headache , dizziness , dyspnoea , abdominal pain , and night sweats .
+RESULTS	Chest discomfort and dyspnoea were considered dose-limiting .
+RESULTS	A transient decrease in heart rate was observed following the first 10-mg ponesimod dose ( maximum mean decrease of 9 beats per minute ( bpm ) ( placebo : 2 bpm ) ) .
+RESULTS	After uptitration , effects on heart rate were indistinguishable from placebo .
+RESULTS	A dose-dependent effect on pulmonary function tests was observed and reached a plateau with 60-80 mg ponesimod ( maximum mean decrease from baseline of 1.24 l ( -30.5 % ) in forced expiratory volume in 1s ) .
+RESULTS	A plateau in mean lymphocyte count reduction of approximately 70 % from baseline was reached at the 40 mg dose level .
+RESULTS	Observed effects were fully reversible within 10days after treatment discontinuation .
+RESULTS	No relevant sex differences were observed .
+CONCLUSIONS	At supratherapeutic doses , symptoms of chest discomfort and dyspnoea were dose-limiting .
+CONCLUSIONS	An uptitration dosing scheme is to be preferred in clinical studies in patients in order to limit effects of ponesimod on heart rate and atrioventricular ( AV ) conduction .
+

@@ -1,0 +1,12 @@
+25588594
+OBJECTIVE	Dexmedetomidine can prolong the duration of local anesthetics , but the effect of retrobulbar dexmedetomidine on the potency of ropivacaine for retrobulbar block has not been investigated .
+OBJECTIVE	Our study was designed to determine the effect of retrobulbar dexmedetomidine on ropivacaine for retrobulbar block in children .
+METHODS	A group of 90 children aged 10-16 years scheduled for vitreoretinal surgery who received retrobulbar block were randomly assigned to 1 of 3 groups : group L ( retrobulbar ropivacaine ) , group LD1 ( ropivacaine plus 0.5 g.kg-1 dexmedetomidine ) , or group LD2 ( ropivacaine plus 1 g.kg-1 dexmedetomidine ) .
+METHODS	The minimum local anesthetic concentration ( MLAC ) was determined according to a Dixon-Massey protocol .
+METHODS	The primary endpoint of the study was MLAC .
+METHODS	Secondary outcomes were duration of postoperative analgesia , postoperative pain scores , dexmedetomidine side effects , and time to hospital discharge .
+RESULTS	The MLAC values of retrobulbar ropivacaine were 0.314 % , 0.259 % , and 0.246 % in groups L , LD1 , and LD2 , respectively .
+RESULTS	The median ( interquartile range ) durations of analgesia in the postoperative period were 66 ( 54-117 ) , 89 ( 40-157 ) , and 168 ( 120-194 ) minutes in groups L , LD1 , and LD2 , respectively ( L vs LD1 or LD2 , p < 0.05 ) .
+RESULTS	Wake-up time was significantly increased in groups LD1 and LD2 .
+CONCLUSIONS	Retrobulbar dexmedetomidine reduces the MLAC values of ropivacaine and improves postoperative analgesia in children without any neurologic side effects .
+

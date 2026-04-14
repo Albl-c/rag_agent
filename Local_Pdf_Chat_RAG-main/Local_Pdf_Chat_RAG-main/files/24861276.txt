@@ -1,0 +1,12 @@
+24861276
+OBJECTIVE	To assess the comparative drug systemic exposure of a reference ( RF ) and four test ( Test I , Test II , Test III and Test IV ) formulations of triclabendazole ( TCBZ ) in heifers .
+METHODS	Thirty Holstein heifers were randomly distributed into five groups ( n = 6 per group ) .
+METHODS	Animals in the RF group received the reference formulation ( Fasinex ) , and those in the other groups received different commercially available TCBZ formulations ( Test I , Test II , Test III and Test IV ) .
+METHODS	All treatments were orally administered at 12 mg/kg bodyweight .
+METHODS	The concentrations of TCBZ metabolites in plasma between 0 and 168 hours after treatment were quantified by high-performance liquid chromatography ( HPLC ) .
+RESULTS	Triclabendazole sulphoxide ( TCBZ.SO ) and TCBZ-sulphone ( TCBZ.SO ) were the only analytes recovered in plasma .
+RESULTS	Only the Test I formulation did not differ from the RF for all pharmacokinetic parameters measured for either metabolite ( p > 0.8 ) .
+RESULTS	The TCBZ.SO area under the concentration vs. time curve for Test II formulation ( 268.9 g.h / mL ) was lower , and for Test III ( 619.9 g.h / mL ) and Test IV ( 683.4 g.h / mL ) was higher , than the RF ( 418.1 g.h / mL ) ( p < 0.005 ) .
+CONCLUSIONS	Based on the currently available bioequivalence criteria , the only test formulation under evaluation that could be considered equivalent to the RF was the Test I formulation , which demonstrated an equivalent systemic exposure for the active TCBZ.SO metabolite .
+CONCLUSIONS	This comparison of TCBZ pioneer and test formulations in cattle raises awareness of the need for further quality control for drug approval in the veterinary pharmaceutical field in many regions of the world .
+

@@ -1,0 +1,17 @@
+24622318
+BACKGROUND	Results of an exploratory phase 2 study showed that insulin degludec , a basal insulin with an action profile of longer than 42 h , provided similar glycaemic control when injected three times a week ( IDeg 3TW ) to once-daily insulin glargine ( IGlar OD ) .
+BACKGROUND	To provide further evidence , we did two phase 3 trials to compare the efficacy and safety of IDeg 3TW with IGlar OD in insulin-naive patients with type 2 diabetes .
+METHODS	In two 26 week , randomised , open-label , parallel group , non-inferiority trials IDeg was injected Monday , Wednesday , and Friday before breakfast ( IDeg 3TW ( AM ) ) in the AM trial ( 94 sites in seven countries ) or with the evening meal ( IDeg 3TW ( PM ) ) in the PM trial ( 89 sites in seven countries ) , and compared with IGlar OD .
+METHODS	Adults with type 2 diabetes ( HbA ( 1c ) 7.0-10 .0 % ; body-mass index 45 kg/m ( 2 ) ) were randomly allocated ( 1:1 ) without stratification by a central interactive response system to IDeg 3TW or IGlar OD .
+METHODS	Both groups continued taking metformin with or without dipeptidyl peptidase-4 inhibitors .
+METHODS	Insulin was titrated to achieve a prebreakfast self-monitored blood glucose ( SMBG ) concentration of between 3.9 and less than 5.0 mmol/L .
+METHODS	The primary outcome was non-inferiority of IDeg 3TW compared with IGlar OD , as assessed by change in HbA ( 1c ) from baseline to 26 weeks ( non-inferiority limit of 0.4 % ) by ANOVA in an intent-to-treat analysis ( full analysis set ) .
+METHODS	These trials are registered with ClinicalTrials.gov , numbers NCT01068678 and NCT01076647 .
+RESULTS	We recruited 460 patients for the AM trial ( IDeg 3TW ( AM ) , n = 230 ; IGlar OD , n = 230 ) and 467 patients for the PM trial ( IDeg 3TW ( PM ) , n = 233 ; IGlar OD , n = 234 ) .
+RESULTS	After 26 weeks , mean HbA decreased by 0.9 % ( IDeg 3TW ( AM ) ) and 1.3 % ( IGlar OD ) in the AM trial , and by 1.1 % ( IDeg 3TW ( PM ) ) and 1.4 % ( IGlar OD ) in the PM trial .
+RESULTS	Non-inferiority was not confirmed in either trial ( estimated treatment difference [ IDeg 3TW ( AM ) - IGlar OD ] 0.34 % , 95 % CI 0.18-0 .51 ; [ IDeg 3TW ( PM ) - IGlar OD ] 0.26 % , 0.11-0 .41 ) .
+RESULTS	Across the two trials , rates of confirmed hypoglycaemia ( SMBG < 3.1 mmol/L or severe [ needing assistance ] ) ranged from 1.0 to 1.6 episodes per patient-year and were similar for IDeg 3TW ( AM ) and IGlar OD ( estimated rate ratio [ ERR ] 1.04 , 95 % CI 0.69-1 .55 ) , but higher for IDeg 3TW ( PM ) than for IGlar OD ( ERR 1.58 , 1.03-2 .43 ) .
+RESULTS	The rate of nocturnal confirmed hypoglycaemia was higher for IDeg 3TW ( AM ) than for IGlar OD ( ERR 2.12 , 1.08-4 .16 ) ; we noted no significant difference between IDeg 3TW ( PM ) and IGlar OD ( ERR 0.60 , 0.21-1 .69 ) .
+CONCLUSIONS	The inferior glycaemic control and increased risk of hypoglycaemia with IDeg 3TW compared with IGlar OD do not support a three-times-weekly dosing regimen .
+BACKGROUND	Novo Nordisk .
+

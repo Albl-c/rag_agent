@@ -1,0 +1,12 @@
+25362221
+BACKGROUND	This study was aimed to investigate the effects of raloxifene on intact parathyroid hormone ( PTH ) level and bone mineral density ( BMD ) for 8 months in women on hemodialysis and women with chronic kidney disease stage 5 not dependent on dialysis to determine its effect on secondary hyperparathyroidism and osteoporosis .
+METHODS	Fifty-one women on hemodialysis and 9 with chronic kidney disease stage 5 were randomly assigned to receive oral raloxifene , 60 mg/d , or placebo for 8 months .
+METHODS	Baseline blood determinations and BMD were done and repeated after 8 months .
+METHODS	Serum levels of total calcium , phosphorus , alkaline phosphatase , and intact PTH were measured .
+RESULTS	Serum levels of intact PTH significantly decreased in both groups , and there was no difference between the two groups after 8 months ( P = .37 ) .
+RESULTS	Serum phosphorus levels also decreased by 1.8 % in the two groups .
+RESULTS	After 8 months of treatment , the BMD of the lumbar spine and femural neck decreased by 1.9 % in the control group , while an increase in BMD was observed in the raloxifene group , with an average increase in both BMDs of the lumbar spine and the femural neck by 2 % ( significant in the lumbar spine ; P = .01 ) .
+CONCLUSIONS	Raloxifene has proven to be an effective medication in terms of improving BMD , with no adverse effects .
+CONCLUSIONS	However , it had no effect on controlling hyperparathyroidism in our patients .
+CONCLUSIONS	Long-term studies should be done to investigate the effects of raloxifene in chronic kidney disease and dialysis patients .
+

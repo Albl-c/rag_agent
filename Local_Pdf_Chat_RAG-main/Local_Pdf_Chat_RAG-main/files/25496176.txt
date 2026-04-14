@@ -1,0 +1,11 @@
+25496176
+CONCLUSIONS	Although children vaccinated with heptavalent pneumococcal conjugate vaccine ( PCV ) had fewer episodes of acute otitis media ( AOM ) , this trial was unable to prove a simultaneous decrease in nasopharyngeal carriage .
+OBJECTIVE	Carriage rates of AOM pathogens in the nasopharynx are high among children , and colonization is the first step towards infection .
+OBJECTIVE	The possible impact of PCV on carriage is therefore of interest , particularly in children with recurrent AOM .
+OBJECTIVE	The aims of this study were to examine the effect of heptavalent PCV on carriage of AOM pathogens in children at high risk of developing recurrent disease , and to monitor carriage of resistant pathogens in vaccinated and unvaccinated children .
+METHODS	A total of 109 children with an onset of AOM before 6 months of age , 89 of whom developed recurrent disease , were enrolled in a trial .
+METHODS	Fifty-two children were vaccinated and all were closely monitored for 3 years .
+RESULTS	There was no difference statistically between vaccinated children and controls concerning the carriage of any of the major AOM pathogens .
+RESULTS	There was evidence of within-child clustering for S. pneumoniae ( p = 0.002 ) and H. influenzae ( p < 0.001 ) , indicating that children continued to carry either species over time .
+RESULTS	Resistance rates were generally low and comparable with national levels .
+

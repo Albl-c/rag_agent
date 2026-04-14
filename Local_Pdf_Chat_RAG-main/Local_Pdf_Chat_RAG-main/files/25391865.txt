@@ -1,0 +1,14 @@
+25391865
+OBJECTIVE	To evaluate image quality of low-voltage coronary artery computed tomographic ( CT ) angiography with low contrast agent in comparison with image quality .
+METHODS	Forty-five patients underwent coronary artery computed tomographic ( CT ) angiography .
+METHODS	They were randomly assigned to 3 groups , group A ( n = 15 ) were scanned in 120 kVp with 350 mgI/ml iodinated contrast agent mode , group B ( n = 15 ) were scanned in 100 kVp with 350 mgI/ml iodinated contrast agent mode , group C ( n = 15 ) were scanned in 100 kVp with 270 mgI/ml iodinated contrast agent mode .
+METHODS	Then measured CT attenuation value of three main branches ( RCA , LAD and CX ) of coronary artery , And compare the SNR , CNR , the effective radiation dose ( ED ) and iodine intake .
+METHODS	The Kappa test were used to quantify inter - and intra-reader agreement in detecting quality of the images under different scanning solutions .
+RESULTS	Three groups of coronary artery CT image quality was no statistically significant differences ( all P values > 0.05 ) , Good inter - and intra-reader agreement ( k = 0.754 , P < 0.05 ) for the detection of noise in all the patients .
+RESULTS	There was significant difference in the CT attenuation of RCA , LAD and CX among the 3 groups ( P < 0.05 ) , the CT attenuation was the highest in group B , the CT value of RCA , LAD and CX were 537 90 , 505 90 , 484 75 HU , respectively.the CT attenuation was the lowest in group C , the CT value of RCA , LAD and CX were 357 126 , 360 95 , 378 121 HU , respectively .
+RESULTS	There was no significant difference in the SNR and CNR among the 3 groups ( P > 0.05 ) .
+RESULTS	There was significant difference in the ED among the 3 groups ( P < 0.05 ) .
+RESULTS	The ED value of the group A was bigger than the value of the group B and C.
+RESULTS	There was no significant difference between the group B and C. Compared the group A and B , the iodine intake of the group C had fallen by 23 % .
+CONCLUSIONS	The coronary artery CT angiography using 100 kVp with 270 mgI/ml iodinated contrast agent provide similar objective or subjective image quality compared with the ( 350 mgI/ml ) and the 100 kVp ( 350 mgI/ml ) , thus enabling effective dose and iodine intake reduction without loss of diagnostic information .
+

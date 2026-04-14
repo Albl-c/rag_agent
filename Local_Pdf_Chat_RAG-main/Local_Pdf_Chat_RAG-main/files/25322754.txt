@@ -1,0 +1,11 @@
+25322754
+BACKGROUND	The potential negative influence of angiogenic gene therapy on the development or progression of retinal pathologies such as diabetic retinopathy ( DR ) or age-related macular degeneration ( AMD ) has led to the systematic exclusion of affected patients from trials .
+BACKGROUND	We investigated the role of nonviral fibroblast factor 1 ( NV1FGF ) in two phase II , multinational , double-blind , randomized , placebo-controlled , gene therapy trials ( TALISMAN 201 and 211 ) .
+METHODS	One hundred and fifty-two subjects with critical limb ischemia or claudication were randomized to receive eight intramuscular injections of 2.5 ml of NV1FGF at 0.2 mg/ml or 0.4 mg/dl or placebo .
+METHODS	One hundred and fifty-two patients received a plasmid dose of NV1FGF of up to 32 mg or placebo .
+METHODS	All patients underwent a systematic ophthalmologic examination at baseline and at 3 , 6 or 12 months following gene therapy .
+METHODS	Twenty-six of these patients ( Mnster subgroup ) received a retinal fluorescence angiography at baseline and at final examination .
+RESULTS	Among those 26 patients , four of nine patients with diabetes suffered from nonproliferative DR. Three patients showed non-exsudative AMD .
+RESULTS	No change of retinal morphology or function was observed in Mnster subgroup of both TALISMAN trials independent of the intramuscular NV1FGF dosage applied .
+CONCLUSIONS	Angiogenic gene therapy using NV1FGF is safe even in diabetics .
+

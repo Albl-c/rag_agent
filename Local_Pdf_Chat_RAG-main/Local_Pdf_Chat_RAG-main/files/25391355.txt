@@ -1,0 +1,11 @@
+25391355
+OBJECTIVE	Echocardiography-guided ( EG ) lead placement at the site of latest left ventricular ( LV ) mechanical activation improves outcome in patients receiving a cardiac resynchronization therapy ( CRT ) defibrillator ( D ) .
+OBJECTIVE	The purpose of this study is to examine whether a strategy of EG LV lead placement equally improves outcome in CRT recipients with wide ( 150 ms ) versus intermediate ( 120-149 ms ) QRS duration .
+METHODS	Patients treated with a CRT-D in the Speckle Tracking Assisted Resynchronization Therapy for Electrode Region ( STARTER ) prospective , randomized trial ( 108 EG strategy and 75 routine strategy ) were followed to the endpoint of death or first appropriate CRT-D therapy .
+METHODS	Of the patients enrolled in STARTER , 115 had QRS150 ms and 68 had 120 < QRS149 ms.
+RESULTS	Over a mean follow-up period of 3.72.1 years , 62 ( 33 % ) patients died and 40 ( 22 % ) received appropriate CRT-D therapy .
+RESULTS	Compared to patients with QRS150 ms , patients with intermediate QRS had meaningfully worse survival free from ICD therapy ( HR = 1.48 , p = 0.056 ) .
+RESULTS	CRT-D therapy-free survival was significantly worse in patients with intermediate QRS duration randomized to the routine LV lead placement strategy , compared to patients with intermediate QRS duration randomized to the EG LV lead placement strategy or patients with wide QRS duration regardless of LV implantation strategy ( HR = 2.08 , 95 % confidence interval = 1.21-3 .56 , P = 0.008 ) .
+RESULTS	This finding was independent in type of cardiomyopathy .
+CONCLUSIONS	A strategy of EG LV lead placement improves survival free from defibrillator therapy in patients with QRS between 120-149 ms to levels comparable to those of patients with QRS150 ms.
+

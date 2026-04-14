@@ -1,0 +1,16 @@
+24333184
+OBJECTIVE	Treatment for CH-C contains interferon with substantial associated side effects and health-related quality of life ( HRQL ) impairment .
+OBJECTIVE	Currently , there is no published data assessing the impact of interferon-free regimens on HRQL .
+OBJECTIVE	The aim is to report the HRQL of patients who participated in clinical trials of sofosbuvir ( SOF ) for CH-C .
+METHODS	CH-C patients were treated with sofosbuvir ( SOF ) , pegylated interferon ( PegIFN ) , ribavirin ( RBV ) , or placebo in different combinations and duration ( POSITRON , FISSION , FUSION , and NEUTRINO phase III trials ) .
+METHODS	HRQL was assessed using SF-36 at baseline , during treatment , at the end of treatment , and at follow-up , and compared between treatment arms .
+RESULTS	HRQL scores decreased over the course of treatment for all treatment arms in all studies ; however , patients returned to their baseline score by the end of follow-up .
+RESULTS	Compared to placebo , SOF and RBV was not associated with HRQL impairment ( POSITRON ) .
+RESULTS	Compared to SOF and RBV , HRQL was significantly more impaired in the PegIFN and RBV arm ( FISSION ) .
+RESULTS	For those treated with SOF and RBV , there was no difference in HRQL between 12 weeks or 16 weeks of treatment ( FUSION ) .
+RESULTS	Multivariate analysis demonstrated that depression , fatigue , and insomnia were important predictors of patients ' HRQL prior , during or after treatment .
+RESULTS	Additionally , anemia and receiving interferon were predictors of HRQL impairment during treatment .
+RESULTS	Achieving sustained virologic response after 12 weeks of follow-up ( SVR-12 ) with SOF and RBV was associated with improvement in HRQL scores from baseline .
+CONCLUSIONS	Treatment-related HRQL impairment during SOF and RBV regimen is mild , and does not increase with longer treatment duration .
+CONCLUSIONS	Achieving SVR-12 with SOF and RBV is associated with an improvement in HRQL .
+

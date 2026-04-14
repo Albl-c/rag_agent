@@ -1,0 +1,18 @@
+24261644
+BACKGROUND	Delirium is a frequent disorder in intensive care unit ( ICU ) patients with serious consequences .
+BACKGROUND	Therefore , preventive treatment for delirium may be beneficial .
+BACKGROUND	Worldwide , haloperidol is the first choice for pharmacological treatment of delirious patients .
+BACKGROUND	In daily clinical practice , a lower dose is sometimes used as prophylaxis .
+BACKGROUND	Some studies have shown the beneficial effects of prophylactic haloperidol on delirium incidence as well as on mortality , but evidence for effectiveness in ICU patients is limited .
+BACKGROUND	The primary objective of our study is to determine the effect of haloperidol prophylaxis on 28-day survival .
+BACKGROUND	Secondary objectives include the incidence of delirium and delirium-related outcome and the side effects of haloperidol prophylaxis .
+METHODS	This will be a multicenter three-armed randomized , double-blind , placebo-controlled , prophylactic intervention study in critically ill patients .
+METHODS	We will include consecutive non-neurological ICU patients , aged 18 years with an expected ICU length of stay > 1 day .
+METHODS	To be able to demonstrate a 15 % increase in 28-day survival time with a power of 80 % and alpha of 0.05 in both intervention groups , a total of 2,145 patients will be randomized ; 715 in each group .
+METHODS	The anticipated mortality rate in the placebo group is 12 % .
+METHODS	The intervention groups will receive prophylactic treatment with intravenous haloperidol 1 mg/q8h or 2 mg/q8h , and patients in the control group will receive placebo ( sodium chloride 0.9 % ) , both for a maximum period of 28-days .
+METHODS	In patients who develop delirium , study medication will be stopped and patients will subsequently receive open label treatment with a higher ( therapeutic ) dose of haloperidol .
+METHODS	We will use descriptive summary statistics as well as Cox proportional hazard regression analyses , adjusted for covariates .
+CONCLUSIONS	This will be the first large-scale multicenter randomized controlled prevention study with haloperidol in ICU patients with a high risk of delirium , adequately powered to demonstrate an effect on 28-day survival .
+BACKGROUND	Clinicaltrials.gov : NCT01785290.EudraCT number : 2012-004012-66 .
+

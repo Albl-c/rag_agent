@@ -1,0 +1,13 @@
+24728329
+OBJECTIVE	To compare the relative bioavailability , safety and tolerability of oral methotrexate ( MTX ) and subcutaneous ( SC ) MTX administered via an auto-injector ( MTXAI ) in patients with rheumatoid arthritis ( RA ) .
+METHODS	In this randomised , multicenter , open-label , three-way crossover study , patients 18years with adult RA undergoing treatment with MTX for 3months were assigned to receive MTX 10 , 15 , 20 and 25mg weekly in a random sequence of three treatments : oral , SC into the abdomen and SC into the thigh .
+METHODS	For 24h after administration of each treatment , blood samples were collected for pharmacokinetic analysis and injection sites were assessed .
+RESULTS	Forty-seven patients completed the study .
+RESULTS	Systemic exposure of oral MTX plateaued at doses 15mg/week .
+RESULTS	In contrast , SC MTX demonstrated a linear increase in systemic exposure that was greater than oral MTX at each dose .
+RESULTS	No unexpected AEs were noted for either formulation .
+CONCLUSIONS	Unlike oral MTX , the systemic exposure of SC MTX did not plateau over the doses studied , particularly at doses 15mg/week .
+CONCLUSIONS	In this study , higher systemic MTX exposure was not associated with increases in AEs .
+CONCLUSIONS	Patients with an inadequate clinical response to oral MTX may benefit from higher drug exposure by switching to SC MTX .
+BACKGROUND	NCT01618968 .
+

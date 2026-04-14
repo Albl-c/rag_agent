@@ -1,0 +1,12 @@
+24709780
+BACKGROUND	Umbilical cord milking ( UCM ) improves blood pressure and urine output , and decreases the need for transfusions in comparison to immediate cord clamping ( ICC ) .
+BACKGROUND	The immediate effect of UCM in the first few minutes of life and the impact on neonatal resuscitation has not been described .
+METHODS	Women admitted to a tertiary care center and delivering before 32 weeks gestation were randomized to receive UCM or ICC .
+METHODS	A blinded analysis of physiologic data collected on the newborns in the delivery room was performed using a data acquisition system .
+METHODS	Heart rate ( HR ) , SpO2 , mean airway pressure ( MAP ) , and FiO2 in the delivery room were compared between infants receiving UCM and infants with ICC .
+RESULTS	41 of 60 neonates who were enrolled and randomized had data from analog tracings at birth .
+RESULTS	20 of these infants received UCM and 21 had ICC .
+RESULTS	Infants receiving UCM had higher heart rates and higher SpO2 over the first 5 minutes of life , were exposed to less FiO2 over the first 10 minutes of life than infants with ICC .
+CONCLUSIONS	UCM when compared to ICC had decreased need for support immediately following delivery , and in situations where resuscitation interventions were needed immediately , UCM has the advantage of being completed in a very short time to improve stability following delivery .
+BACKGROUND	ClinicalTrials.gov NCT01434732 .
+

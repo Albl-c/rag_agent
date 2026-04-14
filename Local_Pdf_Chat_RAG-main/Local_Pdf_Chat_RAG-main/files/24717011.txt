@@ -1,0 +1,17 @@
+24717011
+BACKGROUND	Childhood obesity is a growing concern in Sweden .
+BACKGROUND	Children with overweight and obesity run a high risk of becoming obese as adults , and are likely to develop comorbidities .
+BACKGROUND	Despite the immense demand , there is still a lack of evidence-based comprehensive prevention programmes targeting pre-school children and their families in primary health care settings .
+BACKGROUND	The aims are to describe the design and methodology of the PRIMROSE cluster-randomised controlled trial , assess the relative validity of a food frequency questionnaire , and describe the baseline characteristics of the eligible young children and their mothers .
+METHODS	The PRIMROSE trial targets first-time parents and their children at Swedish child health centres ( CHC ) in eight counties in Sweden .
+METHODS	Randomisation is conducted at the CHC unit level .
+METHODS	CHC nurses employed at the participating CHC received training in carrying out the intervention alongside their provision of regular services .
+METHODS	The intervention programme , starting when the child is 8-9months of age and ending at age 4 , is based on social cognitive theory and employs motivational interviewing .
+METHODS	Primary outcomes are children 's body mass index and waist circumference at fouryears .
+METHODS	Secondary outcomes are children 's and mothers ' eating habits ( assessed by a food frequency questionnaire ) , and children 's and mothers ' physical activity ( measured by accelerometer and a validated questionnaire ) , and mothers ' body mass index and waist circumference .
+CONCLUSIONS	The on-going population-based PRIMROSE trial , which targets childhood obesity , is embedded in the regular national ( routine ) preventive child health services that are available free-of-charge to all young families in Sweden .
+CONCLUSIONS	Of the participants ( n = 1369 ) , 489 intervention and 550 control mothers ( 75.9 % ) responded to the validated physical activity and food frequency questionnaire at baseline ( i.e. , before the first intervention session , or , for children in the control group , before they reached 10months of age ) .
+CONCLUSIONS	The food frequency questionnaire showed acceptable relative validity when compared with an 8-day food diary .
+CONCLUSIONS	We are not aware of any previous RCT , concerned with the primary prevention of childhood obesity through sessions at CHC that addresses healthy eating habits and physical activity in the context of a routine child health services programme .
+BACKGROUND	ISRCTN16991919 .
+

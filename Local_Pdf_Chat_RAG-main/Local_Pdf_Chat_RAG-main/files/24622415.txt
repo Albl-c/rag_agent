@@ -1,0 +1,18 @@
+24622415
+BACKGROUND	An improper balance of regulatory/effector T ( Treg/Teff ) cells is central to the development of autoimmune diseases , including type 1 diabetes .
+BACKGROUND	We previously showed that low-dose interleukin 2 ( IL2 ) induced Treg cell expansion and activation and clinical improvement in patients with hepatitis-C-virus-induced vasculitis .
+BACKGROUND	We aimed to establish which low doses of IL2 would be safe and induce Treg cells in patients with type 1 diabetes , considering that : ( 1 ) type 1 diabetes might be linked to alteration of the IL2/IL2R activation pathway ; ( 2 ) activation of pathogenic Teff cells by IL2 could exacerbate disease ; and ( 3 ) the safety of low-dose IL2 is not known in type 1 diabetes .
+METHODS	This was a single-centre phase 1/2 study .
+METHODS	24 adult patients ( 18-55 years ) with established insulin-dependent type 1 diabetes and at least one diabetes-related autoantibody were enrolled and randomly assigned ( in a 1:1:1:1 ratio , by computer-generated randomisation list , with block size four ) to placebo or IL2 at 0.33 MIU/day , 1 MIU/day , or 3 MIU/day for a 5-day course and were followed up for 60 days .
+METHODS	All investigators and participants were masked to assignment .
+METHODS	The primary outcome was change in Treg cells , measured by flow cytometry , and expressed as a percentage of CD4 + T cells , from day 1 to day 60 .
+METHODS	This trial is registered with ClinicalTrials.gov , number NCT01353833 .
+RESULTS	Six patients were assigned to each group between June 1 , 2011 , and Feb 3 , 2012 .
+RESULTS	IL2 was well tolerated at all doses , with no serious adverse events .
+RESULTS	However , there was a dose-response association for non-serious adverse events during the treatment phase ( days 1-6 ) ; one patient in the placebo group , three patients in the 0.33 MIU group , five patients in the 1 MIU group , and six patients in the 3 MIU group had non-serious adverse events .
+RESULTS	The most common adverse events in the treatment phase were injection-site reaction ( no patients with placebo vs three patients with 0.33 MIU and 1 MIU vs two patients with 3 MIU ) and influenza-like syndrome ( no patients with placebo vs one patient with 0.33 MIU and 1 MIU vs four patients with 3 MIU ) .
+RESULTS	After the treatment phase , adverse events did not differ between groups .
+RESULTS	IL2 did not induce deleterious changes in glucose-metabolism variables .
+RESULTS	IL2 induced a dose-dependent increase in the proportion of Treg cells , significant at all doses compared with placebo ( placebo mean increase 0.5 % [ SD 0.4 ] ; 0.33 MIU 2.8 % [ 1.2 ] , p = 0.0039 ; 1 MIU 3.9 % [ 1.8 ] , p = 0.0039 ; 3 MIU 4.8 % [ 1.9 ] p = 0.0039 ) .
+CONCLUSIONS	We have defined a well-tolerated and immunologically effective dose range of IL2 for application to type 1 diabetes therapy and prevention , which could be relevant to other disorders in which a Treg cell increase would be desirable .
+

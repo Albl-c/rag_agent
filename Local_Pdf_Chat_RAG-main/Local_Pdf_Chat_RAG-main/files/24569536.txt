@@ -1,0 +1,13 @@
+24569536
+OBJECTIVE	Evidence from animal and in vitro models suggest a role of probiotic bacteria in improving glycaemic control and delaying the onset of type 2 diabetes .
+OBJECTIVE	However , the evidence from controlled trials in humans is limited .
+OBJECTIVE	The objective was to determine if the probiotic bacteria L. acidophilus La5 and B. animalis subsp lactis Bb12 , supplemented in a whole food ( yoghurt ) or isolated ( capsules ) form , can improve biomarkers of glycaemic control .
+METHODS	Following a 3-week washout period , 156 overweight men and women over 55 years ( mean age : 67 8 years ; mean body mass index ( 31 4 kg/m ( 2 ) ) were randomized to a 6-week double-blinded parallel study .
+METHODS	The four intervention groups were : ( A ) probiotic yoghurt plus probiotic capsules ; ( B ) probiotic yoghurt plus placebo capsules ; ( C ) control milk plus probiotic capsules ; and ( D ) control milk plus placebo capsules .
+METHODS	Outcome measurements , including fasting glucose , insulin , glycated haemoglobin and Homoeostasis Model Assessment of Insulin Resistance ( HOMA-IR ) , were performed at baseline and week 6 .
+RESULTS	Relative to the milk-control group , probiotic yoghurt resulted in a significantly higher HOMA-IR ( 0.32 0.15 , P = 0.038 ) , but did not have a significant effect on the other three measures of glycaemic control ( P > 0.05 ) .
+RESULTS	Relative to placebo capsules , probiotic capsules resulted in a significantly higher fasting glucose ( 0.15 0.07 mmol/l , P = 0.037 ) , with no significant effect on the other three measures of glycaemic control ( P > 0.05 ) .
+RESULTS	Further analyses did not identify other variables as contributing to these adverse findings .
+CONCLUSIONS	Data from this study does not support the hypothesis that L. acidophilus La5 and B. animalis subsp lactis Bb12 , either in isolated form or as part of a whole food , benefit short-term glycaemic control .
+CONCLUSIONS	Indeed , there is weak data for an adverse effect of these strains on glucose homoeostasis .
+

@@ -1,0 +1,15 @@
+24980238
+BACKGROUND	After vidian neurectomy , low reported rates of dry eye syndrome ( DES ) seemed incompatible with the high success rate of nerve severance in previous studies .
+BACKGROUND	This study aimed at understanding of the pathophysiology of lacrimation and evaluating the effect of thermal injury through the distal stump on the sphenopalatine ganglion ( SPG ) after vidian neurectomy .
+METHODS	A randomized , double-blind , controlled study was performed to evaluate the DES .
+METHODS	Eighty precise vidian neurectomies were randomized in a 1:1 ratio to groups 1 and 2 .
+METHODS	Group 1 represented the cauterization and was used in both distal and proximal nerve stumps , whereas only the proximal nerve stump was cauterized in group 2 subjects .
+METHODS	The DES was evaluated with Schirmer 's test and ocular surface disease index ( OSDI ) before and after surgery at 7-10 days and 30 days , respectively .
+RESULTS	In group 1 , the Schirmer 's test showed a mean decline of 20 mm ( 20/30 , 66 % ) at 7-10 days and 15 mm ( 15/30 , 50 % ) at 30 days .
+RESULTS	In group 2 , the Schirmer 's test revealed significantly lesser dry eye problems , with a mean decline of 16 mm ( 16/30 ; 52 % ) at 7-10 days and 2 mm ( 2/30 ; 6 % ) at 30 days .
+RESULTS	The significantly less postoperative dry eye problems in group 2 can be shown by the OSDI at 7-10 days , but not at 30 days .
+RESULTS	The mean follow-up period was 24 months .
+RESULTS	No recurrence of nasal allergy symptoms was noted in the follow up period .
+CONCLUSIONS	The significant advantage of preservation of the SPG function is justified by Schirmer 's test , although the effect did not appear to be comparable with the clinical manifestations evaluated by OSDI at 30 days .
+CONCLUSIONS	Nevertheless , the preservation of distal stump from preventive cauterization can still offer better eye ball moisture in the early evaluation of DES .
+

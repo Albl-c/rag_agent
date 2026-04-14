@@ -1,0 +1,14 @@
+24824051
+BACKGROUND	School-based mass treatment with praziquantel is the cornerstone for schistosomiasis control in school-aged children .
+BACKGROUND	However , uptake of treatment among school-age children in Uganda is low in some areas .
+BACKGROUND	The objective of the study was to examine the effectiveness of a pre-treatment snack on uptake of mass treatment .
+RESULTS	In a cluster randomized trial carried out in Jinja district , Uganda , 12 primary schools were randomized into two groups ; one received education messages for schistosomiasis prevention for two months prior to mass treatment , while the other , in addition to the education messages , received a pre-treatment snack shortly before mass treatment .
+RESULTS	Four weeks after mass treatment , uptake of praziquantel was assessed among a random sample of 595 children in the snack schools and 689 children in the non-snack schools as the primary outcome .
+RESULTS	The occurrence of side effects and the prevalence and mean intensity of Schistosoma mansoni infection were determined as the secondary outcomes .
+RESULTS	Uptake of praziquantel was higher in the snack schools , 93.9 % ( 95 % CI 91.7 % -95.7 % ) , compared to that in the non-snack schools , 78.7 % ( 95 % CI 75.4 % -81.7 % ) ( p = 0.002 ) .
+RESULTS	The occurrence of side effects was lower in the snack schools , 34.4 % ( 95 % CI 31.5 % -39.8 % ) , compared to that in the non-snack schools , 46.9 % ( 95 % CI 42.2 % -50.7 % ) ( p = 0.041 ) .
+RESULTS	Prevalence and mean intensity of S. mansoni infection was lower in the snack schools , 1.3 % ( 95 % CI 0.6 % -2.6 % ) and 38.3 eggs per gram of stool ( epg ) ( 95 % CI 21.8-67 .2 ) , compared to that in the non-snack schools , 14.1 % ( 95 % CI 11.6 % -16.9 % ) ( p = 0.001 ) and 78.4 epg ( 95 % CI 60.6-101 .5 ) ( p = 0.001 ) , respectively .
+CONCLUSIONS	Our results suggest that provision of a pre-treatment snack combined with education messages achieves a higher uptake compared to the education messages alone .
+CONCLUSIONS	The use a pre-treatment snack was associated with reduced side effects as well as decreased prevalence and intensity of S. mansoni infection .
+BACKGROUND	www.ClinicalTrials.gov NCT01869465
+

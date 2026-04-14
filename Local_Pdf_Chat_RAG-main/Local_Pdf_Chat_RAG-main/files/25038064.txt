@@ -1,0 +1,12 @@
+25038064
+BACKGROUND	Although physical exercise improves motor aspects of Parkinson 's disease ( PD ) , it is not clear whether it may also have a neuroprotective effect .
+BACKGROUND	Objective .
+BACKGROUND	In this 2-year follow-up study , we determined whether intensive exercise in the early stages of the disease slows down PD progression .
+METHODS	Forty newly diagnosed patients with PD were treated with rasagiline and randomly assigned to 2 groups : MIRT Group ( two 28-day multidisciplinary intensive rehabilitation treatments [ MIRT ] , at 1-year interval ) and Control Group ( only drug ) .
+METHODS	In both groups , Unified Parkinson 's Disease Rating Scale Section II ( UPDRS II ) , UPDRS III , 6-minute walking test ( 6MWT ) , Timed Up-and-Go test ( TUG ) ; PD Disability Scale ( PDDS ) , and l-dopa equivalents were assessed at baseline ( T0 ) , 6 months ( T1 ) , 1 year ( T2 ) , 18 months ( T3 ) , and 2 years ( T4 ) later .
+RESULTS	Over 2 years , UPDRS II , UPDRS III , TUG , and PDDS differentially progressed in the 2 groups : In the MIRT Group , all scores at T4 were better than at T0 ( all Ps < .03 ) .
+RESULTS	No changes were noted in the Control Group .
+RESULTS	l-dopa equivalent dosages increased significantly only in the Control Group ( P = .0015 ) , with a decrease in the percentages of patients in monotherapy ( T1 40 % ; T2 , T3 , and T4 20 % ) .
+RESULTS	In the MIRT Group , the percentages of such patients remained higher ( T1 and T2 100 % ; T3 89 % ; T4 75 % ) .
+CONCLUSIONS	These results suggest that MIRT might slow down the progression of motor decay , it might delay the need for increasing drug treatment , and thus , it might have a neuroprotective effect .
+

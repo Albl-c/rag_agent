@@ -1,0 +1,13 @@
+25584489
+BACKGROUND	Rilotumumab , an investigational , monoclonal antibody , inhibits MET-mediated signalling .
+BACKGROUND	In a randomized phase 2 trial of rilotumumabepirubicin/cisplatin/capecitabine in gastric or oesophagogastric junction cancer , patients receiving rilotumumab showed a trend towards improved survival , especially in MET-positive patients , but no clear dose-response relationship was observed .
+BACKGROUND	Exposure-response and biomarker analyses were used for dose selection and to differentiate patient subpopulations that may benefit most from treatment .
+BACKGROUND	Here , we analyse rilotumumab exposure-survival and exposure-safety and the impact of MET expression on these relationships .
+METHODS	Individual rilotumumab exposure parameters were generated using population pharmacokinetic modelling .
+METHODS	Relationships among rilotumumab dose ( 7.5 and 15mgkg ( -1 ) ) , exposure , and clinical outcomes ( progression-free survival ( PFS ) and overall survival ( OS ) ) were evaluated with Cox regression models and Kaplan-Meier plots .
+METHODS	MET status and other baseline covariates were evaluated in subgroup and multivariate analyses .
+METHODS	Treatment-emergent adverse events were summarised by exposure .
+RESULTS	Among MET-positive patients , higher rilotumumab exposure , vs placebo and low exposure , was associated with improved median PFS ( 80 % CI : 7.0 ( 5.7-9 .7 ) vs 4.4 ( 2.9-4 .9 ) and 5.5 ( 4.2-6 .8 ) months ) and OS ( 13.4 ( 10.6-18 .6 ) vs 5.7 ( 4.7-10 .2 ) and 8.1 ( 6.9-11 .1 ) months ) without increased toxicity .
+RESULTS	No rilotumumab benefit was seen among MET-negative patients .
+CONCLUSIONS	Rilotumumab had an exposure-dependent treatment effect in patients with MET-positive gastric or oesophagogastric junction cancer .
+

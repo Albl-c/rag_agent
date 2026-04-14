@@ -1,0 +1,12 @@
+24393344
+BACKGROUND	Pressure ulcers are one of the most common health complaints , which often take months or years to heal , and affect patients ' morbidity and quality of life .
+BACKGROUND	Medical options for pressure ulcers are limited .
+BACKGROUND	Electroacupuncture ( EA ) has been employed to relieve the symptoms for patients with pressure ulcers , but there is limited clinical evidence for its effectiveness .
+METHODS	This study consists of a randomized controlled trial ( RCT ) with two parallel arms : a control group and an EA group .
+METHODS	Both groups will receive standard wound care ( including changing position , using mattresses and cushions , and a good diet ) of five sessions per week for a total of 40 sessions during the 8-week treatment period .
+METHODS	In addition , the EA group will receive the EA intervention .
+METHODS	The following outcome measurements will be used in examination of participants : wound surface area ( WSA ) , visual analogue scale ( VAS ) , and the proportion of ulcers healed within trial period ( PUHTP ) .
+METHODS	All the outcomes will be evaluated at the start of the study , at the end of the fourth week , at 8 weeks after randomization , and 1 month after treatment cessation .
+CONCLUSIONS	The aim of this study is to evaluate the effectiveness of EA for the treatment of patients with pressure ulcers .
+BACKGROUND	Chinese Clinical Trial Register : ChiCTR-TRC-11001693 .
+

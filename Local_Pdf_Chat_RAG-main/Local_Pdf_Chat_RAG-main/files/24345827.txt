@@ -1,0 +1,12 @@
+24345827
+OBJECTIVE	The aim of the study was to assess the impact of LYM-X-SORB ( LXS ) , an organized lipid matrix that has been shown to be absorbable without pancreatic enzyme therapy on fat-soluble vitamin status in children with cystic fibrosis ( CF ) and pancreatic insufficiency ( PI ) .
+METHODS	Children with CF and PI were randomized to daily LXS or an isocaloric placebo comparison supplement for 12 months .
+METHODS	Serum vitamins A ( retinol ) , D ( 25-hydroxyvitamin D [ 25D ] ) , E ( - tocopherol , - tocopherol : cholesterol ratio ) , and K ( percentage of undercarboxylated osteocalcin [ % ucOC ] and plasma proteins induced by vitamin K absence factor II [ PIVKA II ] ) were assessed at baseline and 12 months .
+METHODS	Dietary intake was determined using 3-day weighed food records and supplemental vitamin intake by a comprehensive questionnaire .
+RESULTS	A total of 58 subjects ( 32 boys , age 10.3 2.9 years [ mean standard deviation ] ) with complete serum vitamin , dietary and supplemental vitamin data were analyzed .
+RESULTS	After adjusting for dietary and supplemental vitamin intake , serum retinol increased 3.0 1.4 g/dL ( coefficient standard error ) ( adjusted R2 = 0.02 , P = 0.03 ) and vitamin K status improved as demonstrated by a decreased percentage of undercarboxylated osteocalcin of -6.0 % 1.6 % by 12 months ( adjusted R2 = 0.15 , P < 0.001 ) .
+RESULTS	These changes occurred in both the LXS and placebo comparison groups .
+RESULTS	No changes in serum 25D or - tocopherol were detected .
+RESULTS	Both nutrition interventions increased caloric intake a mean of 83 666 kcal/day by 12 months .
+CONCLUSIONS	Vitamins A and K status improved , whereas vitamins D and E status was unchanged during 12 months of LXS and isocaloric placebo comparison supplement in children with CF and PI .
+

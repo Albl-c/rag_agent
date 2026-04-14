@@ -1,0 +1,13 @@
+25307979
+OBJECTIVE	The purpose of the study is to compare neuromuscular electrical stimulation ( NMES ) vs sham on leg strength at hospital discharge in mechanically ventilated patients .
+METHODS	We conducted a randomized pilot study of NMES vs sham applied to 3 bilateral lower extremity muscle groups for 60 minutes daily in the intensive care unit ( ICU ) .
+METHODS	Between June 2008 and March 2013 , we enrolled adults who were receiving mechanical ventilation within the first week of ICU stay and who could transfer independently from bed to chair before hospital admission .
+METHODS	The primary outcome was lower extremity muscle strength at hospital discharge using Medical Research Council score ( maximum , 30 ) .
+METHODS	Secondary outcomes at hospital discharge included walking distance and change in lower extremity strength from ICU awakening .
+METHODS	Clinicaltrials.gov : NCT00709124 .
+RESULTS	We stopped enrollment early after 36 patients due to slow patient accrual and the end of research funding .
+RESULTS	For NMES vs sham , mean ( SD ) lower extremity strength was 28 ( 2 ) vs 27 ( 3 ) , P = .072 .
+RESULTS	Among secondary outcomes , NMES vs sham patients had a greater mean ( SD ) walking distance ( 514 [ 389 ] vs 251 [ 210 ] ft , P = .050 ) and increase in muscle strength ( 5.7 [ 5.1 ] vs 1.8 [ 2.7 ] , P = .019 ) .
+CONCLUSIONS	In this pilot randomized trial , NMES did not significantly improve leg strength at hospital discharge .
+CONCLUSIONS	Significant improvements in secondary outcomes require investigation in future research .
+

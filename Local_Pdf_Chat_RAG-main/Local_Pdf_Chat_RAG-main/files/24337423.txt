@@ -1,0 +1,8 @@
+24337423
+BACKGROUND	The efficacy of functional restoration programs for the treatment of chronic back pain is well documented .
+BACKGROUND	Nevertheless , there are only a few such centres in Germany and few trials have been conducted in German-speaking regions to demonstrate that implementing such programs in everyday clinical settings with large numbers of patients is just as effective as in a research setting .
+BACKGROUND	The present study examined whether the positive effects of such programs can also be observed in the clinically relevant context of a standardized day clinic treatment regimen .
+METHODS	A total of 681 back pain patients in 2 German cities were examined at 4 measurement points ( before and immediately after the program , as well as 6 and 12 months after treatment ) using a comprehensive questionnaire on perceived pain and symptoms of anxiety and depression , as well as the work situation .
+RESULTS	In both cities significant and long-term improvements in back pain , pain-related impairment and degree of chronification were observed , as well as a high return-to-work rate after treatment .
+RESULTS	Hence , the quality of such programs was also confirmed for a large patient population .
+

@@ -1,0 +1,14 @@
+24582813
+OBJECTIVE	Ventricular arrhythmias are common after acute myocardial infarction ( AMI ) .
+OBJECTIVE	Endothelin ( ET ) is a mediator of microvascular dysfunction and cardiac remodeling with arrhythmogenic potential .
+OBJECTIVE	The aim of this study was to assess safety and feasibility of selective ET-A receptor blockade in ST-elevation acute coronary syndrome ( STE-ACS ) within a larger randomized trial .
+METHODS	Patients with posterior-wall STE-ACS were randomly assigned to receive intravenous BQ-123 at 400 nmol/min or placebo over 60 min , starting immediately prior to primary percutaneous coronary intervention .
+METHODS	Twenty-four hour Holter recordings were performed during hospitalization for STE-ACS and after 6-8 weeks .
+METHODS	The predefined primary endpoint was the documentation of ventricular tachycardia and/or late potentials at follow-up .
+RESULTS	There was no significant difference in the predefined primary endpoint at 45 ( 33-62 ) days ( 0/16 ( 0 % ) in BQ-123 treated patients vs. 1/14 ( 7 % ) in the placebo group , p = 0.465 ) .
+RESULTS	At 2 ( 1-3 ) days , an increase in the total number of supraventricular extrasystoles ( SVES ) / 24 h in patients randomized to BQ-123 ( 45 ( 17-165 ) beats vs. 11 ( 5-72 ) beats in placebo treated patients , p = 0.025 ) occurred .
+RESULTS	This increase was also observed at 45 days ( 105 ( 37-216 ) beats vs. 11 ( 3-98 ) beats in placebo treated patients , p = 0.037 ) .
+RESULTS	There was no significant difference regarding other rhythmologic secondary endpoints between the two groups .
+CONCLUSIONS	Based on the analysis of long-term ECG data , short-term administration of BQ-123 after AMI was safe .
+CONCLUSIONS	Because of the small sample size , no firm conclusion regarding antiarrhythmic efficacy can be drawn .
+

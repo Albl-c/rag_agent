@@ -1,0 +1,16 @@
+25262257
+BACKGROUND	The prevalence and correlates of dual-antiplatelet therapy ( DAPT ) use in stable coronary artery disease ( CAD ) are unknown .
+BACKGROUND	In addition , whether prolonged DAPT may impact prognosis in stable CAD has not been studied in real-life conditions .
+METHODS	We studied 3,691 patients included in a prospective registry on stable CAD .
+METHODS	The patients were divided in 2 groups according to their antiplatelet therapy regimen at inclusion : patients treated with DAPT were compared with those treated with single-antiplatelet therapy ( SAPT ) .
+METHODS	The primary outcome was a composite of cardiovascular death , myocardial infarction , or stroke .
+RESULTS	Altogether , 868 ( 24 % ) patients received DAPT .
+RESULTS	Factors positively associated with DAPT use were persistent angina at inclusion , body mass index , myocardial infarction since 1 to 3 years , myocardial revascularization since 1 to 3 years , multivessel CAD , prior drug-eluting stent implantation , and prior aortic or peripheral intervention .
+RESULTS	Factors negatively associated with DAPT use were age , prior coronary bypass , and left ventricular ejection fraction .
+RESULTS	The rate of the primary outcome at 2 years was similar whether patients were treated with SAPT ( 4.6 % ) or DAPT ( 5.5 % ) ( P = .301 ) .
+RESULTS	Similar rates were also observed after propensity score matching : 5.7 % when treated with SAPT versus 5.5 % when treated with DAPT ( P = .886 ) .
+RESULTS	The rate of bleeding was similar between groups .
+CONCLUSIONS	Our study shows that a significant proportion of stable CAD patients are treated with DAPT in modern practice .
+CONCLUSIONS	Several correlates of DAPT were identified .
+CONCLUSIONS	Although no increase in bleeding was observed , our results do not support the prescription of prolonged DAPT .
+

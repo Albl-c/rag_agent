@@ -1,0 +1,16 @@
+24480956
+METHODS	A prospective , randomized , and double-blind study .
+OBJECTIVE	To compare the efficacy of ramosetron and palonosetron on preventing postoperative nausea and vomiting ( PONV ) associated with opioid-based intravenous patient-controlled analgesia ( IV-PCAopioid ) after lumbar spinal surgery .
+BACKGROUND	IV-PCAopioid , an effective method to control pain after lumbar spinal surgery , accompanies PONV .
+BACKGROUND	Ramosetron and palonosetron are novel 5-hydroxytryptamine 3 antagonists known to have longer action duration and higher receptor affinity than their congeners , whereas their relative efficacy has not been validated yet .
+METHODS	One hundred ninety-six patients were randomly and evenly allocated to receive either 0.3 mg of ramosetron or 0.075 mg of palonosetron 10 minutes before the end of operation .
+METHODS	Ramosetron or palonosetron were also added to the IV-PCAopioid , which was continuously infused for 48 hours postoperatively .
+METHODS	The incidence and intensity of PONV were serially assessed for 72 hours postoperatively .
+METHODS	Intensity of pain , volume of IV-PCAopioid consumption , use of rescue analgesics and antiemetics , and adverse events were also assessed .
+RESULTS	The overall incidence of PONV was lower in the ramosetron group than the palonosetron group ( 50 % vs. 67 % , P = 0.014 ) without any intergroup difference in the incidence of vomiting .
+RESULTS	Nausea intensity scores were also lower until 6 ( P = 0.041 ) and 24 hour ( P = 0.026 ) postoperatively in the ramosetron group than the palonosetron group .
+RESULTS	Pain intensity scores were significantly lower in the ramosetron group than the palonosetron group for 72 hours postoperatively .
+CONCLUSIONS	Ramosetron was superior to palonosetron in term of reducing the incidence and severity of nausea associated with IV-PCAopioid after lumbar spinal surgery .
+CONCLUSIONS	This favorable influence of ramosetron on PONV was translated to significant postoperative pain reduction compared with palonosetron .
+METHODS	1 .
+

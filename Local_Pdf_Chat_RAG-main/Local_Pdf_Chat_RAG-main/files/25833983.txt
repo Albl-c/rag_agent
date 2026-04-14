@@ -1,0 +1,18 @@
+25833983
+BACKGROUND	Abdominal obesity and exaggerated postprandial lipemia are independent risk factors for cardiovascular disease ( CVD ) and mortality , and both are affected by dietary behavior .
+OBJECTIVE	We investigated whether dietary supplementation with whey protein and medium-chain saturated fatty acids ( MC-SFAs ) improved postprandial lipid metabolism in humans with abdominal obesity .
+METHODS	We conducted a 12-wk , randomized , double-blinded , diet intervention study .
+METHODS	Sixty-three adults were randomly allocated to one of 4 diets in a 2 2 factorial design .
+METHODS	Participants consumed 60 g milk protein ( whey or casein ) and 63 g milk fat ( with high or low MC-SFA content ) daily .
+METHODS	Before and after the intervention , a high-fat meal test was performed .
+METHODS	We measured changes from baseline in fasting and postprandial triacylglycerol , apolipoprotein B-48 ( apoB-48 ; reflecting chylomicrons of intestinal origin ) , free fatty acids ( FFAs ) , insulin , glucose , glucagon , glucagon-like peptide 1 ( GLP-1 ) , and gastric inhibitory polypeptide ( GIP ) .
+METHODS	Furthermore , changes in the expression of adipose tissue genes involved in lipid metabolism were investigated .
+METHODS	Two-factor ANOVA was used to examine the difference between protein types and fatty acid compositions , as well as any interaction between the two .
+RESULTS	Fifty-two participants completed the study .
+RESULTS	We found that the postprandial apoB-48 response decreased significantly after whey compared with casein ( P = 0.025 ) independently of fatty acid composition .
+RESULTS	Furthermore , supplementation with casein resulted in a significant increase in the postprandial GLP-1 response compared with whey ( P = 0.003 ) .
+RESULTS	We found no difference in postprandial triacylglycerol , FFA , insulin , glucose , glucagon , or GIP related to protein type or MC-SFA content .
+RESULTS	We observed no interaction between milk protein and milk fat on postprandial lipemia .
+CONCLUSIONS	We found that a whey protein supplement decreased the postprandial chylomicron response compared with casein in persons with abdominal obesity , thereby indicating a beneficial impact on CVD risk .
+CONCLUSIONS	This trial was registered at clinicaltrials.gov as NCT01472666 .
+

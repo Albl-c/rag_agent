@@ -1,0 +1,12 @@
+24838844
+BACKGROUND	Previous research suggests that African American smokers may have improved outcomes if interventions are culturally specific .
+BACKGROUND	However , few interventions sufficiently address the unique needs of this population in a format with large reach potential .
+BACKGROUND	The purpose of this study was to test the efficacy of a newly developed digital video disc ( DVD ) - based cessation intervention targeting African Americans .
+METHODS	In a 2-arm randomized trial , smokers ( N = 140 ) were randomly assigned to view either the new Pathways to Freedom ( PTF ) DVD or a standard control DVD .
+METHODS	Participants were assessed at baseline , immediately postviewing the DVD , and at a 1-month follow-up .
+METHODS	The primary outcomes were feasibility and process variables , including intervention evaluations , readiness to quit , and risk perceptions , and smoking-related behavior changes were examined as secondary outcomes .
+RESULTS	Findings demonstrated the hypothesized positive effects of the PTF DVD compared with the control DVD on content evaluations , risk perceptions , and readiness to quit at follow-up .
+CONCLUSIONS	We found initial evidence for the efficacy of the PTF DVD as a stand-alone intervention .
+CONCLUSIONS	Future research will test the efficacy of the DVD for smoking cessation in a larger randomized trial .
+CONCLUSIONS	The ultimate goal of this research is to validate a new intervention for an underserved community of smokers that can be used in multiple settings , such as community health clinics , primary care , quitlines , cessation clinics , and seminars/workshops .
+

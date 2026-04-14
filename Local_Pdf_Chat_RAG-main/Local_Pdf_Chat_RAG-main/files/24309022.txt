@@ -1,0 +1,14 @@
+24309022
+OBJECTIVE	To evaluate the effect of oral Lactobacillus reuteri ( L reuteri ) first on the incidence and severity of Necrotising enterocolitis ( NEC ) and second on sepsis .
+METHODS	Prospective randomised controlled study .
+METHODS	Tertiary neonatal intensive care unit .
+METHODS	Preterm infants with a gestational age of 32 weeks and a birth weight of 1500 g were included ( n = 400 ) .
+METHODS	Infants in the first group were given 100 million CFU/day ( 5 drops ) of lyophilised L reuteri ( DSM 17938 ) mixed in breast milk or formula , starting from first feeding until discharge .
+METHODS	Participants in the control group were given a placebo .
+METHODS	To determine and compare the frequency of NEC and/or death after 7 days , frequency of proven sepsis , rates of feeding intolerance and duration of hospital stay .
+RESULTS	There was no statistically significant difference between groups in terms of frequency of NEC stage 2 ( 4 % vs 5 % ; p = 0.63 ) or overall NEC or mortality rates ( 10 % vs 13.5 % ; p = 0.27 ) .
+RESULTS	Frequency of proven sepsis was significantly lower in the probiotic group compared to the control group ( 6.5 % vs 12.5 % ; p = 0.041 ) .
+RESULTS	A significant difference was also observed with regard to rates of feeding intolerance ( 28 % vs 39.5 % ; p = 0.015 ) and duration of hospital stay ( 38 ( 10-131 ) vs 46 ( 10-180 ) days ; p = 0.022 ) .
+CONCLUSIONS	Our results show that oral L reuteri does not seem to affect the overall rates of NEC and/or death in preterm infants followed up in the neonatal intensive care unit , and significant reductions were observed in the frequency of proven sepsis , rates of feeding intolerance and duration of hospital stay .
+BACKGROUND	NCT01531179 .
+

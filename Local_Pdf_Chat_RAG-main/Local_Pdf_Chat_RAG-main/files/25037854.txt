@@ -1,0 +1,12 @@
+25037854
+BACKGROUND	A recent clinical trial could not find differences between anti-inflammatory drugs , antibiotics and placebo in shortening the duration of symptoms in acute bronchitis .
+OBJECTIVE	To investigate if C-reactive protein ( CRP ) concentrations at presentation are predictive of symptom resolution in these patients .
+METHODS	We performed a secondary analysis of the data from a placebo-controlled , randomized clinical trial carried out in primary care .
+METHODS	Patients from 18 to 70 years of age presenting a respiratory tract infection of < 1 week of evolution , with cough as the predominant symptom and the presence of discoloured expectoration , were enrolled in the study .
+METHODS	On the baseline visit , CRP was determined in capillary blood and a five-item symptom diary was given .
+METHODS	Patients were followed up to 30 days .
+METHODS	The main outcome measure was the number of days with persistent cough .
+RESULTS	A total of 312 subjects fulfilled all the criteria for the efficacy analysis and had undergone the CRP test ; of these , 56.4 % presented a CRP value < 8 mg/l and 76 % presented < 20 mg/l .
+RESULTS	There were no significant differences in the median duration of cough : 10 days among patients with CRP concentrations < 8 mg/l [ 95 % confidence interval ( CI ) : 8-11 days ] , 11 days among those with concentrations ranging from 8 to 19 mg/l ( 95 % CI : 8-16 ) and 11 days in those with CRP > 20 mg/l ( 95 % CI : 9-12 ) ( P = 0.337 ) .
+CONCLUSIONS	Among patients with uncomplicated acute bronchitis and discoloured sputum , the CRP concentrations at presentation are not helpful for predicting symptom resolution .
+

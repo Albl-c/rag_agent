@@ -1,0 +1,14 @@
+25946647
+OBJECTIVE	To compare the demographic characteristics and intra - and postoperative outcomes in elderly adults ( 75 ) with those of younger adults undergoing early ( < 5 days after onset of complaints ) cholecystectomy .
+METHODS	Retrospective analysis from May 2010 to August 2012 .
+METHODS	Randomized , multicenter , clinical trial ( ABCAL Study , NCT01015417 ) .
+METHODS	Individuals with mild or moderate acute calculous cholecystitis ( ACC ) according to the Tokyo Guidelines ( N = 414 ; n = 78 aged 75-94 , median 82 ; n = 336 aged 18-74 , median 49 ) .
+METHODS	Demographic characteristics and pre - , intra - , and postoperative data .
+RESULTS	The elderly group was more likely to have an American Society of Anesthesiologists score of 3 or greater ( 62 % vs 23 % , P < .001 ) , higher serum creatinine ( 103 vs 74 mol/L , P < .001 ) , and more-severe ACC ( moderate ACC ( 62 % vs 50 % , P = .05 ) , gangrenous cholecystitis ( 38 % vs 15 % , P = .001 ) ) on preoperative imaging and confirmed intraoperatively .
+RESULTS	Ulcerated mucosa ( 76 % vs 61 % , P = .001 ) was significantly more frequent in the elderly group .
+RESULTS	Operative time , postoperative mortality , and postoperative infectious ( 18 % vs 14 % , P = .35 ) and noninfectious ( 9 % vs 3 % , P = .80 ) complications were similar between the two groups .
+RESULTS	Median length of stay ( 7.0 vs 5.0 days , P = .54 ) and readmission rate ( 15 % vs 4 % , P = .07 ) were not significantly higher in the elderly group .
+RESULTS	No significant difference was observed for the subgroup of participants aged 80 and older .
+CONCLUSIONS	In this randomized trial that included a selected sample of older adults , there was no difference in major outcomes between elderly adults and their younger counterparts after early cholecystectomy .
+CONCLUSIONS	The findings are limited because important geriatric outcomes such as delirium and functional decline were not examined .
+

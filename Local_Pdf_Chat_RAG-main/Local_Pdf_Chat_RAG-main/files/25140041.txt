@@ -1,0 +1,9 @@
+25140041
+OBJECTIVE	The aim of this study was to assess the degree of fluctuation of osteitis on MRI during long-term treatment with etanercept ( ETN ) in patients with early axial SpA ( axSpA ) with active inflammation ( osteitis ) on whole-body MRI in the spine and/or the SI joints at baseline .
+METHODS	We analysed MRI data from 328 SI joint quadrants and 943 spine vertebral units ( VUs ) in terms of osteitis in the pooled data set of 41 patients who were treated with ETN for 3 consecutive years .
+METHODS	Scoring was performed by two blinded radiologists at baseline , year 2 and year 3 .
+RESULTS	Through years 2 and 3 , osteitis on MRI resolved completely in 56 of 144 ( 38.9 % ) SI joint quadrants and in 20 of 40 ( 50 % ) VUs affected at baseline , while persistent osteitis was found in 24 of 144 ( 16.7 % ) SI joint quadrants and in 8 of 40 ( 20.0 % ) spine VUs .
+RESULTS	The development of new osteitis in sites that were free of osteitis at baseline only occurred in 2 of 131 ( 1.5 % ) SI joint quadrants and in 3 of 862 ( 0.4 % ) spine VUs in both year 2 and year 3 .
+CONCLUSIONS	There was a consistently small amount of osteitis on MRI in patients with early axSpA compared with baseline values , and only a very low rate of new-onset osteitis was found during 3 years of continuous treatment with ETN .
+BACKGROUND	www.clinicaltrials.gov , NCT00844142 .
+

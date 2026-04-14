@@ -1,0 +1,16 @@
+24430407
+BACKGROUND	There are limited treatment options for tissue restoration and the prevention of degenerative changes in the knee .
+BACKGROUND	Stem cells have been a focus of intense preclinical research into tissue regeneration but limited clinical investigation .
+BACKGROUND	In a randomized , double-blind , controlled study , the safety of the intra-articular injection of human mesenchymal stem cells into the knee , the ability of mesenchymal stem cells to promote meniscus regeneration following partial meniscectomy , and the effects of mesenchymal stem cells on osteoarthritic changes in the knee were investigated .
+METHODS	A total of fifty-five patients at seven institutions underwent a partial medial meniscectomy .
+METHODS	A single superolateral knee injection was given within seven to ten days after the meniscectomy .
+METHODS	Patients were randomized to one of three treatment groups : Group A , in which patients received an injection of 50 10 allogeneic mesenchymal stem cells ; Group B , 150 10 allogeneic mesenchymal stem cells ; and the control group , a sodium hyaluronate ( hyaluronic acid/hyaluronan ) vehicle control .
+METHODS	Patients were followed to evaluate safety , meniscus regeneration , the overall condition of the knee joint , and clinical outcomes at intervals through two years .
+METHODS	Evaluations included sequential magnetic resonance imaging ( MRI ) .
+RESULTS	No ectopic tissue formation or clinically important safety issues were identified .
+RESULTS	There was significantly increased meniscal volume ( defined a priori as a 15 % threshold ) determined by quantitative MRI in 24 % of patients in Group A and 6 % in Group B at twelve months post meniscectomy ( p = 0.022 ) .
+RESULTS	No patients in the control group met the 15 % threshold for increased meniscal volume .
+RESULTS	Patients with osteoarthritic changes who received mesenchymal stem cells experienced a significant reduction in pain compared with those who received the control , on the basis of visual analog scale assessments .
+CONCLUSIONS	There was evidence of meniscus regeneration and improvement in knee pain following treatment with allogeneic human mesenchymal stem cells .
+CONCLUSIONS	These results support the study of human mesenchymal stem cells for the apparent knee-tissue regeneration and protective effects .
+

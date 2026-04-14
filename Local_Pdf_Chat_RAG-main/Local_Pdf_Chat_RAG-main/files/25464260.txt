@@ -1,0 +1,12 @@
+25464260
+OBJECTIVE	Recent data indicate that hypertension is not well controlled in many populations throughout the world .
+OBJECTIVE	The factors that influence individual response to anti-hypertensive treatment need to be clarified .
+OBJECTIVE	Pulse wave velocity ( PWV ) , as a marker of arterial stiffness , has been demonstrated to have important relationships with BP progression ; however , little information is available on the role of PWV in blood pressure ( BP ) control .
+OBJECTIVE	We aimed to assess BP control during the run-in treatment period in the China Stroke Primary Prevention Trial ( CSPPT ) .
+RESULTS	These analyses included a total of 3056 treated hypertensive subjects ( age : 59.67.5 years , male/female 1339/1717 ) with PWV measured at baseline .
+RESULTS	The average BP at enrollment was 166/95mmHg , and declined to 141/85mmHg after short-term antihypertensive treatment ( a median follow-up of 20days ) .
+RESULTS	There was an inverse relationship between PWV level and BP reduction during the treatment , most notably for systolic BP ( with estimated coefficients of -9.01 ( P < 0.001 ) for the top quartile , as compared to the bottom quartile ) .
+RESULTS	The association did not differ significantly by gender or types of antihypertensive drugs .
+RESULTS	Factors related to smaller BP decline were low baseline BP , high baseline PWV , high body mass index , high creatinine , use of fewer types of antihypertensive drug , high heart rate ( only for SBP ) , high homocysteine and low age ( only for DBP ) .
+CONCLUSIONS	PWV appears to be an independent determinant of individual response to anti-hypertensive treatment .
+

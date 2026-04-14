@@ -1,0 +1,17 @@
+25122422
+BACKGROUND	Fluorescence in situ hybridization ( FISH ) is currently the standard for diagnosing anaplastic lymphoma kinase ( ALK ) - rearranged ( ALK + ) lung cancers for ALK inhibitor therapies .
+BACKGROUND	ALK immunohistochemistry ( IHC ) may serve as a screening and alternative diagnostic method .
+BACKGROUND	The Canadian ALK ( CALK ) study was initiated to implement a multicenter optimization and standardization of laboratory developed ALK IHC and FISH tests across 14 hospitals .
+METHODS	Twenty-eight lung adenocarcinomas with known ALK status were used as blinded study samples .
+METHODS	Thirteen laboratories performed IHC using locally developed staining protocols for 5A4 , ALK1 , or D5F3 antibodies ; results were assessed by H-score .
+METHODS	Twelve centers conducted FISH using protocols based on Vysis ' ALK break-apart FISH kit .
+METHODS	Initial IHC results were used to optimize local IHC protocols , followed by a repeat IHC study to assess the results of standardization .
+METHODS	Three laboratories conducted a prospective parallel IHC and FISH analysis on 411 consecutive clinical samples using post-validation optimized assays .
+RESULTS	Among study samples , FISH demonstrated 22 consensus ALK + and six ALK wild type tumors .
+RESULTS	Preoptimization IHC scores from 12 centers with 5A4 and the percent abnormal cells by FISH from 12 centers showed intraclass correlation coefficients of 0.83 and 0.68 , respectively .
+RESULTS	IHC optimization improved the intraclass correlation coefficients to 0.94 .
+RESULTS	Factors affecting FISH scoring and outliers were identified .
+RESULTS	Post-optimization concurrent IHC/FISH testing in 373 informative cases revealed 100 % sensitivity and specificity for IHC versus FISH .
+CONCLUSIONS	Multicenter standardization study may accelerate the implementation of ALK testing protocols across a country/region .
+CONCLUSIONS	Our data support the use of an appropriately validated IHC assay to screen for ALK + lung cancers .
+

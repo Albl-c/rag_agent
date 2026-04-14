@@ -1,0 +1,14 @@
+26042485
+OBJECTIVE	Budesonide formoterol ( BF ) Spiromax is a breath-actuated dry-powder inhaler designed to deliver similar combinations of budesonide and formoterol as Symbicort Turbohaler .
+OBJECTIVE	We performed two studies to demonstrate pharmacokinetic ( PK ) equivalence of BF Spiromax with BF Turbohaler .
+METHODS	Two single-center , open-label , randomized , 5-period crossover studies were performed .
+METHODS	The first study compared BF Spiromax 160/4 .5 g with BF Turbohaler 200/6 g , while the second study compared BF Spiromax 320/9 g with BF Turbohaler 400/12 g. All treatments were administered with and without charcoal .
+METHODS	PK parameters were calculated by measuring plasma drug concentrations from blood samples taken pre-dose and up to 24 hours post-dose .
+RESULTS	In each study , 90 healthy volunteers were randomized .
+RESULTS	Bioequivalence of BF Spiromax with BF Turbohaler was demonstrated for budesonide and formoterol ( AUC0-t and Cmax ( 90 % confidence intervals of the geometric mean between-device ratios for both parameters were within the predefined range of 0.80-1 .25 in both studies ) ) .
+RESULTS	Equivalence was observed without use of charcoal ( overall absorption post-inhalation ) and with charcoal ( pulmonary absorption ) .
+RESULTS	There were no major differences between treatments in tmax for either budesonide or formoterol .
+RESULTS	All study treatments were well tolerated ( one treatment-emergent adverse event ( TEAE ) in the medium-dose study and four TEAEs in the high-dose study ) .
+CONCLUSIONS	These studies indicate that BF Spiromax ( charcoal block ) is bioequivalent to BF Turbohaler with respect to the PK parameters assessed .
+CONCLUSIONS	Single doses of BF Spiromax were well tolerated ; the overall safety profile of BF Spiromax and BF Turbohaler was similar .
+

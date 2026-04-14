@@ -1,0 +1,13 @@
+25668645
+BACKGROUND	Adolescents living in South Africa are at high risk for HIV and other sexually transmitted diseases ( STDs ) .
+BACKGROUND	The present study sought to identify correlates of curable STD incidence among a cohort of adolescents in Eastern Cape Province , South Africa .
+METHODS	Data were collected in conjunction with an HIV/STD prevention intervention randomized controlled trial .
+METHODS	At 54 months postintervention , curable STD incidence ( gonorrhea , chlamydial infection , and trichomoniasis ) was assayed and self-report measures of potential correlates of STD incidence were collected .
+RESULTS	Participants were adolescents reporting at least 1 sexual partner in the past 3 months ( n = 659 ) .
+RESULTS	As expected , univariate analyses revealed that girls were more likely than boys to have an STD .
+RESULTS	In addition , intimate partner violence , unprotected sex , and having older partners were associated with incident STD .
+RESULTS	In Poisson multiple regression analyses , sex ( risk ratio [ RR ] , 4.00 ; 95 % confidence interval [ CI ] , 2.51-6 .39 ) , intimate partner violence ( RR , 1.23 ; 95 % CI , 1.12-1 .35 ) , unprotected sex ( RR , 1.42 ; 95 % CI , 1.09-2 .01 ) , and multiple partners ( RR , 1.70 ; 95 % CI , 1.11-2 .61 ) , but not partner 's age ( RR , 1.00 ; 95 % CI , 0.94-1 .07 ) were associated with incident STD , adjusting for 42-month STD prevalence .
+RESULTS	Binge drinking , forced sex , and age were unrelated to STD incidence in both analyses .
+RESULTS	Interactions between sex and the hypothesized correlates were nonsignificant , suggesting that sex did not modify these relationships .
+CONCLUSIONS	Interventions to reduce HIV/STD incidence among adolescents in South Africa should address the risk associated with sex , unprotected sex , intimate partner violence , and multiple partnerships .
+

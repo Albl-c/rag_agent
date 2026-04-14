@@ -1,0 +1,14 @@
+25554995
+BACKGROUND	Depression commonly co-occurs with alcohol use disorders but predictors of depression treatment outcome in patients with both conditions are not well established .
+METHODS	Outpatients with alcohol dependence and major depression ( n = 138 ) were prescribed naltrexone and randomized to citalopram or placebo for 12 weeks , followed by a 12-week naturalistic outcome phase .
+METHODS	General linear mixed models examined predictors of Montgomery Asberg Depression Rating Scale ( MADRS ) score over 24 weeks .
+METHODS	Predictors included whether depression was independent or substance-induced , and demographic , alcohol use , and personality variables ( Temperament and Character Inventory subscales ) .
+RESULTS	Most improvement in drinking and depression occurred between baseline and week 3 .
+RESULTS	During follow-up , patients with substance-induced depression reduced their drinking more and they had better depression outcomes than those with independent depression .
+RESULTS	However , greater reduction in drinking was associated with better depression outcomes for both independent and substance-induced groups , while antidepressant therapy had no effect for either group .
+RESULTS	Baseline demographic and alcohol use variables did not predict depression outcomes .
+RESULTS	Among personality variables , high self-directedness was a strong predictor of better depression outcomes .
+CONCLUSIONS	Subjects were not abstinent at baseline .
+CONCLUSIONS	The influence of naltrexone on depression outcomes could not be tested .
+CONCLUSIONS	Alcohol dependent patients with substance-induced depression have better short term depression outcomes than those with independent depression , but this is largely because they reduce their drinking more during treatment .
+

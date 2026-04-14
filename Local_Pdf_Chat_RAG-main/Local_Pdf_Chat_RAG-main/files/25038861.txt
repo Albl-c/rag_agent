@@ -1,0 +1,17 @@
+25038861
+OBJECTIVE	To investigate whether DTI allows assessment of renal impairment and pathology in patients with chronic glomerulonephritis .
+METHODS	Seventy-five patients and 20 healthy volunteers were enrolled in this study .
+METHODS	Renal function and kidney biopsies were evaluated .
+METHODS	For DTI , a respiratory-triggered coronal EPI sequence was performed ( TR , 1400 ms ; TE , 76 ms ; diffusion direction , 6 ; NEX , 4 ; b values , 0 and 600 s/mm2 ; slices thickness , 6 mm , with no intersection gap ) .
+METHODS	Renal ADC and FA values were calculated and compared between the groups .
+METHODS	Correlations between ADC/FA and histopathology were evaluated .
+RESULTS	ADC values decreased with increased stages .
+RESULTS	ADC differences in renal parenchyma at different disease stages were found , with the exception of the control group compared with stage 1 patients ; similar results were obtained for FA .
+RESULTS	ADC values in the cortex and medulla in stage 1-3 patients were both statistically different , similar to the FA values .
+RESULTS	A significant negative correlation was found between the percentage of glomerulosclerosis and FA in the renal cortex ( r = -0.74 ) , similar to the degree of tubulointerstitial fibrosis with FA in the medulla ( r = -0.76 ) .
+CONCLUSIONS	ADC and FA values are correlated with the degree of renal impairment , the percentage of glomerulosclerosis , and area of interstitial fibrosis .
+CONCLUSIONS	DTI can be used to assess renal function impairment in patients with chronic glomerulonephritis .
+CONCLUSIONS	ADC and FA values were correlated with tubulointerstitial fibrosis and glomerulosclerosis .
+CONCLUSIONS	Identification of renal impairment is helpful for timely treatment .
+CONCLUSIONS	DTI can be used for non-invasive assessment of renal pathology .
+

@@ -1,0 +1,12 @@
+24716775
+BACKGROUND	Little is known about the reliability of different methods of survey administration in low back pain trials .
+BACKGROUND	This analysis was designed to determine the reliability of responses to self-administered paper surveys compared to computer assisted telephone interviews ( CATI ) for the primary outcomes of pain intensity and back-related function , and secondary outcomes of patient satisfaction , SF-36 , and global improvement among participants enrolled in a study of yoga for chronic low back pain .
+RESULTS	Pain intensity , back-related function , and both physical and mental health components of the SF-36 showed excellent reliability at all three time points ; ICC scores ranged from 0.82 to 0.98 .
+RESULTS	Pain medication use showed good reliability ; kappa statistics ranged from 0.68 to 0.78 .
+RESULTS	Patient satisfaction had moderate to excellent reliability ; ICC scores ranged from 0.40 to 0.86 .
+RESULTS	Global improvement showed poor reliability at 6weeks ( ICC = 0.24 ) and 12weeks ( ICC = 0.10 ) .
+CONCLUSIONS	CATI shows excellent reliability for primary outcomes and at least some secondary outcomes when compared to self-administered paper surveys in a low back pain yoga trial .
+CONCLUSIONS	Having two reliable options for data collection may be helpful to increase response rates for core outcomes in back pain trials .
+BACKGROUND	ClinicalTrials.gov : NCT01761617 .
+BACKGROUND	Date of trial registration : December 4 , 2012 .
+

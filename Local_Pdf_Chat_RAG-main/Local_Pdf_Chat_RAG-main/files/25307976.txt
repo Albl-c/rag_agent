@@ -1,0 +1,12 @@
+25307976
+BACKGROUND	Excessive systemic inflammatory response remains as a major problem underlying severe burns .
+BACKGROUND	This study aimed to assess the effect of low-dose glucocorticoid treatment in downregulating systemic inflammation in severely burned patients .
+METHODS	A prospective study from 2001 to 2014 at our hospital was conducted to compare the patients who received low-dose glucocorticoid during the acute phase with those who did not .
+METHODS	Patients with burns 70 % or greater of their total body surface area were included , and their plasma levels of inflammatory cytokines and clinical outcomes were compared .
+RESULTS	A total of 69 patients were included in this study , with 31 patients receiving glucocorticoid treatment and the others not .
+RESULTS	Patient demographics including age , burn size , and incidence of inhalation injury were similar in both groups .
+RESULTS	The incidence of pulmonary infection and stress ulcer ( and/or hemorrhage ) was 24.2 % and 3.0 % in the treatment group , respectively , significantly lower than 47.8 % and 19.6 % of the control group ( P < .05 ) .
+RESULTS	Length of hospital stay was almost 13 days shorter in the treatment group ( P < .05 ) , whereas there was no significant difference in the overall mortality , duration of mechanical ventilation , and incidence of sepsis between the 2 groups .
+RESULTS	The enzyme-linked immunosorbent assay results confirmed that the plasma levels of C-reactive protein , tumor necrosis factor - , interleukin-6 , and interleukin-8 were significantly lower in the treatment group ( P < .05 ) .
+CONCLUSIONS	Low dose of glucocorticoid treatment during the acute phase could reduce the levels of proinflammatory cytokines in severely burned patients and subsequently decrease the incidence of pulmonary infection and stress ulcer , as well as the length of hospital stay .
+

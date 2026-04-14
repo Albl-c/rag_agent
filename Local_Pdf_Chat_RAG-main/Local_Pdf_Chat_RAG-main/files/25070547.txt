@@ -1,0 +1,15 @@
+25070547
+OBJECTIVE	To determine if increasing the hormone dose or eliminating the hormone-free interval improves key pharmacokinetic ( PK ) alterations caused by obesity during oral contraceptive ( OC ) use .
+METHODS	Obese [ body mass index ( BMI ) 30 kg/m ( 2 ) ] , ovulatory , otherwise healthy , women received an OC containing 20 mcg ethinyl estradiol ( EE ) / 100 mcg levonorgestrel ( LNG ) dosed cyclically ( 21 days active pills with 7-day placebo week ) for two cycles and then were randomized for two additional cycles to the following : continuous cycling ( CC , a dose neutral arm using the same OC with no hormone-free interval ) or increased dose ( ID , a dose escalation arm using an OC containing 30 mcg EE/150 mcg LNG cyclically ) .
+METHODS	During Cycles 2 , 3 and 4 , outpatient visits were performed to assess maximum serum concentration ( Cmax ) , area under the curve ( AUC0 - ) and time to steady state as well as pharmacodynamics .
+METHODS	These key PK parameters were calculated and compared within groups between baseline and treatment cycles .
+RESULTS	A total of 31 women enrolled and completed the study ( CC group , n = 16 ; ID group , n = 15 ) .
+RESULTS	Demographics were similar between groups [ mean BMI : CC , 38 kg/m ( 2 ) ( S.D. 5.1 ) ; ID , 41 kg/m ( 2 ) ( S.D. 7.6 ) ] .
+RESULTS	At baseline , the key LNG PK parameters were no different between groups ; average time to reach steady state was 12 days in both groups ; Cmax were CC : 3.821.28 ng/mL and ID : 3.130.87 ng/mL ; and AUC0 - were CC : 267115 h ng/mL and ID : 19975 h ng/mL .
+RESULTS	Following randomization , the CC group maintained steady-state serum levels whereas the ID group had a significantly higher Cmax ( p < .001 ) but again required 12 days to achieve steady state .
+RESULTS	However , AUC was not significantly different between CC ( 412255 h ng/mL ) and ID ( 283130 h ng/mL ) .
+RESULTS	Forty-five percent ( 14/31 ) of the study population had evidence of an active follicle-like structure prior to randomization and afterwards this decreased to 9 % ( 3/31 ) .
+CONCLUSIONS	Both increasing the OC dose and continuous dosing appear to counteract the impact of obesity on key OC PK parameters .
+CONCLUSIONS	Obesity adversely affects the pharmacokinetics of very low dose OC pills .
+CONCLUSIONS	Although the impact of these changes on OC efficacy is still under debate , PK parameters can be normalized in obese users by continuous dosing or increasing to a low-dose pill .
+

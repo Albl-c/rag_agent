@@ -1,0 +1,12 @@
+24655054
+OBJECTIVE	To identify growth-related collagen and bone parameters in small-for-gestational-age ( SGA ) and appropriate-for-gestational-age ( AGA ) preterm infants during the first six months post-term .
+OBJECTIVE	In SGA preterm infants , increased growth and decreased bone acquisition , which we demonstrated previously , may be reflected by these markers .
+METHODS	Observational study within a randomized controlled trial .
+METHODS	Thirty-three SGA ( weight , length or both at birth < -2 SDS ) and 98 AGA preterm infants ( gestational age [ median ( IQR ) ] : 311 ( 16 ) vs 303 ( 20 ) weeks ; 727 % vs 429 % boys ) .
+METHODS	Weight ( g ) , length ( cm ) , procollagen type I N-terminal peptide ( PINP ; g/l ) , urinary helical peptide ( UHP ; g/mmol creatinine ) and alkaline phosphatase ( ALP ; U/l ) expressed as standard deviation scores ( SDS ) at term age , three and six months post-term .
+RESULTS	Weight and length gain during the first six months post-term and PINP SDS at term age , three months and six months post-term were higher in SGA compared with AGA infants .
+RESULTS	UHP SDS and ALP SDS were similar in SGA and AGA infants .
+RESULTS	PINP SDS and UHP SDS at term age and PINP SDS at three months were associated with subsequent weight and length gain until six months post-term .
+CONCLUSIONS	Increased growth in SGA compared with AGA preterm infants is reflected by increased collagen type I synthesis during the first six months post-term , suggesting that PINP and UHP correspond with growth in preterm infants .
+CONCLUSIONS	An explanation for decreased bone acquisition of SGA preterm infants may be that increased collagen type I synthesis is not directly followed by increased bone mineralization .
+

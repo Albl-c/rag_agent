@@ -1,0 +1,7 @@
+24684973
+OBJECTIVE	The phase 3 TRANSFORMS and FREEDOMS studies established the efficacy of fingolimod in reducing multiple sclerosis ( MS ) relapses and magnetic resonance imaging lesions compared with intramuscular ( IM ) interferon ( IFN ) -1 a and placebo over 12 and 24 months , respectively .
+METHODS	To investigate the efficacy of fingolimod at the approved 0.5 mg dose in patients early in the MS disease course , post hoc subgroup analyses of TRANSFORMS ( n = 272 ) and FREEDOMS ( n = 217 ) data were conducted in patients who experienced their first MS symptom < 3 years before randomization .
+RESULTS	Fingolimod 0.5 mg reduced annualized relapse rate by 73.4 % ( P = 0.0002 ) versus IFN-1a IM and by 67.4 % ( P < 0.0001 ) versus placebo in patients with < 3 years since first symptom ; respective reductions were 45.4 % and 51.4 % in subgroups of patients with 3 years since first symptom .
+RESULTS	For patients with < 3 years since their first symptom , significantly fewer new/newly enlarged T2 lesions were observed with fingolimod versus IFN-1a IM ( mean number , 1.94 vs. 2.95 ; P = 0.036 ) or placebo ( 4.1 vs. 10.7 ; P < 0.001 ) ; the mean number of gadolinium-enhancing T1 lesions was significantly reduced versus placebo ( 0.3 vs. 1.1 ; P < 0.001 ) .
+CONCLUSIONS	Fingolimod 0.5 mg is highly effective in reducing relapses and MRI activity in patients early in the MS disease course .
+

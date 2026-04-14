@@ -1,0 +1,14 @@
+24315572
+BACKGROUND	Former sleep studies among non-treatment seeking chronic cocaine users had captured polysomnographic changes for as long as three weeks of abstinence .
+METHODS	20 cocaine dependent participants , randomized to placebo in an ongoing clinical trial , received 12 days of inpatient substance abuse treatment followed by 6 weeks of outpatient cognitive behavioral therapy .
+METHODS	Polysomnographic recording was performed on consecutive nights during the 1st and 2nd inpatient and 3rd and 6th outpatient weeks .
+METHODS	Number of days abstinent was determined from thrice weekly urine toxicology and self-report .
+METHODS	Polysomnographic sleep was compared between study week 1 and 2 , using paired t-tests .
+METHODS	Trajectory of total sleep time ( TST ) was modeled both as a linear and a quadratic function of days abstinent .
+RESULTS	Despite reporting an improvement in overall sleep quality , polysomnographic sleep worsened from week 1 to 2 .
+RESULTS	Among all participants , TST and stage 2 sleep time decreased , while REM sleep latency increased .
+RESULTS	Among participants who began the study with a positive urine test , there was also a decrease in REM and a trend for decreased slow wave sleep .
+RESULTS	TST compared to number of days abstinent ( up to 54 days ) was best fit with a quadratic model ( p = 0.002 ) , suggesting the possibility of an improvement in total sleep time with extended abstinence .
+CONCLUSIONS	This is the first polysomnographic characterization of sleep in a large sample of cocaine users in treatment .
+CONCLUSIONS	Present findings confirm earlier results of poor and deteriorating sleep early in abstinence , and raise the possibility of improvement after an extended abstinence .
+

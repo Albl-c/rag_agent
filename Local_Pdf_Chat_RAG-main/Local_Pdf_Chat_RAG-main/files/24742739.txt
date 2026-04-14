@@ -1,0 +1,16 @@
+24742739
+BACKGROUND	Disease progression in patients with HER2-positive breast cancer receiving trastuzumab might be associated with activation of the PI3K/Akt/mTOR intracellular signalling pathway .
+BACKGROUND	We aimed to assess whether the addition of the mTOR inhibitor everolimus to trastuzumab might restore sensitivity to trastuzumab .
+METHODS	In this randomised , double-blind , placebo-controlled , phase 3 trial , we recruited women with HER2-positive , trastuzumab-resistant , advanced breast carcinoma who had previously received taxane therapy .
+METHODS	Eligible patients were randomly assigned ( 1:1 ) using a central patient screening and randomisation system to daily everolimus ( 5 mg/day ) plus weekly trastuzumab ( 2 mg/kg ) and vinorelbine ( 25 mg/m ( 2 ) ) or to placebo plus trastuzumab plus vinorelbine , in 3-week cycles , stratified by previous lapatinib use .
+METHODS	The primary endpoint was progression-free survival ( PFS ) by local assessment in the intention-to-treat population .
+METHODS	We report the final analysis for PFS ; overall survival follow-up is still in progress .
+METHODS	This trial is registered with ClinicalTrials.gov , number NCT01007942 .
+RESULTS	Between Oct 26 , 2009 , and May 23 , 2012 , 569 patients were randomly assigned to everolimus ( n = 284 ) or placebo ( n = 285 ) .
+RESULTS	Median follow-up at the time of analysis was 20.2 months ( IQR 15.0-27 .1 ) .
+RESULTS	Median PFS was 7.00 months ( 95 % CI 6.74-8 .18 ) with everolimus and 5.78 months ( 5.49-6 .90 ) with placebo ( hazard ratio 0.78 [ 95 % CI 0.65-0 .95 ] ; p = 0.0067 ) .
+RESULTS	The most common grade 3-4 adverse events were neutropenia ( 204 [ 73 % ] of 280 patients in the everolimus group vs 175 [ 62 % ] of 282 patients in the placebo group ) , leucopenia ( 106 [ 38 % ] vs 82 [ 29 % ] ) , anaemia ( 53 [ 19 % ] vs 17 [ 6 % ] ) , febrile neutropenia ( 44 [ 16 % ] vs ten [ 4 % ] ) , stomatitis ( 37 [ 13 % ] vs four [ 1 % ] ) , and fatigue ( 34 [ 12 % ] vs 11 [ 4 % ] ) .
+RESULTS	Serious adverse events were reported in 117 ( 42 % ) patients in the everolimus group and 55 ( 20 % ) in the placebo group ; two on-treatment deaths due to adverse events occurred in each group .
+CONCLUSIONS	The addition of everolimus to trastuzumab plus vinorelbine significantly prolongs PFS in patients with trastuzumab-resistant and taxane-pretreated , HER2-positive , advanced breast cancer .
+CONCLUSIONS	The clinical benefit should be considered in the context of the adverse event profile in this population .
+

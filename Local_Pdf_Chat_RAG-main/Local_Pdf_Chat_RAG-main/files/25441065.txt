@@ -1,0 +1,17 @@
+25441065
+BACKGROUND	Minimally invasive surgical procedures ( MIS ) may offer several advantages over conventional full sternotomy ( FS ) aortic valve replacement ( AVR ) .
+BACKGROUND	A novel class of aortic valve prostheses has been developed for rapid-deployment AVR ( RDAVR ) .
+BACKGROUND	We report a randomized , multicenter trial comparing the outcomes for MIS-RDAVR with those of conventional FS-AVR .
+METHODS	A total of 100 patients with aortic stenosis were enrolled in a prospective , multicenter , randomized comparison trial ( CADENCE-MIS ) .
+METHODS	Exclusion criteria included ejection fraction below 25 % , AVR requiring concomitant procedures , and recent myocardial infarction or stroke .
+METHODS	Patients were randomized to undergo MIS-RDAVR through an upper hemisternotomy ( n = 51 ) or AVR by FS with a conventional stented bioprosthesis ( n = 49 ) .
+METHODS	Three patients were excluded before the procedure , and 3 more patients who were randomized to undergo RDAVR were excluded because of their anatomy .
+METHODS	Procedural , early clinical outcomes , and functional outcomes were assessed for the remaining 94 patients .
+METHODS	Hemodynamic performance was assessed by an echocardiography core laboratory .
+RESULTS	Implanted valve sizes were similar between groups ( 22.9 2.1 vs 23.0 2.1 mm , p = 0.9 ) .
+RESULTS	MIS-RDAVR was associated with significantly reduced aortic cross-clamp times compared with FS-AVR ( 41.3 20.3 vs 54.0 20.3 minutes , p < 0.001 ) , although cardiopulmonary bypass times were similar ( 68.8 29.0 vs 74.4 28.4 minutes , p = 0.21 ) .
+RESULTS	Early clinical outcomes were similar between the two groups , including quality of life measures .
+RESULTS	The RDAVR patients had a significantly lower mean transvalvular gradient ( 8.5 vs 10.3 mm Hg , p = 0.044 ) and a lower prevalence of patient-prosthesis mismatch ( 0 % vs 15.0 % , p = 0.013 ) 3 months postoperatively compared with the FS-AVR patients .
+CONCLUSIONS	RDAVR by the MIS approach is associated with significantly reduced myocardial ischemic time and better valvular hemodynamic function than FS-AVR with a conventional stented bioprosthesis .
+CONCLUSIONS	Rapid deployment valves may facilitate the performance of MIS-AVR .
+

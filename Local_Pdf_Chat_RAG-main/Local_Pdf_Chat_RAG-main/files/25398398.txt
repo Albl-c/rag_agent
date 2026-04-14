@@ -1,0 +1,12 @@
+25398398
+OBJECTIVE	This prospective randomized study reports the effect of hyaluronan-enriched embryo transfer media on the outcome of in vitro fertilization and embryo transfer ( IVF-ET ) treatments .
+METHODS	A total of 581 IVF-ET cycles were included in this study .
+METHODS	In the Hyaluronan ( HA ) group ( n = 290 ) , embryos were transferred from hyaluronan-enriched transfer medium .
+METHODS	In Control group ( n = 291 ) , a conventional embryo transfer medium was used .
+RESULTS	There was no significant difference in clinical pregnancy rate ( 42.4 vs. 39.2 % ) , implantation rate ( 23.3 vs. 23.2 % ) , and delivery rate ( 31.0 vs. 29.2 % ) between the HA group and the Control group .
+RESULTS	The number of newborns was also similar in the two groups ( 111 vs. 110 ) .
+RESULTS	However , birth weight was significantly higher in the HA group than in the Control group ( 3,018 598 g vs. 2,724 698 g , P = 0.001 ) .
+RESULTS	Clinical pregnancy , implantation and delivery rates did not differ significantly between the HA and the Control group when cycles with advanced maternal age , previous IVF failures , low oocyte number or poor embryo quality were compared .
+CONCLUSIONS	Our results suggest that hyaluronan enrichment of the embryo transfer media does not seem to have any beneficial effect on IVF outcome .
+CONCLUSIONS	However , further study is needed to clarify the role of hyaluronan in the implantation process and on the birth weight .
+

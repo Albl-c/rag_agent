@@ -1,0 +1,13 @@
+24229754
+OBJECTIVE	Evaluate the 8-week efficacy and safety of desvenlafaxine at the recommended dose of 50 mg/d in perimenopausal and postmenopausal women with major depressive disorder ( MDD ) based on the Diagnostic and Statistical Manual of Mental Disorders , Fourth Edition , Text Revision .
+METHODS	This phase 4 , multicenter , parallel-group , randomized , double-blind , placebo-controlled study was conducted from June 30 , 2010 , to June 8 , 2011 .
+METHODS	Patients received placebo or desvenlafaxine 50 mg/d ( 1:1 ratio ; n = 217 in each group ) .
+METHODS	The primary outcome measure was the change at week 8 in the 17-item Hamilton Depression Rating Scale ( HDRS17 ) total score .
+METHODS	Secondary outcome measures included change in the Sheehan Disability Scale ( SDS ) , the Clinical Global Impressions-Improvement scale ( CGI-I ) , the Montgomery-Asberg Depression Rating Scale ( MADRS ) , and the Visual Analog Scale-Pain Intensity ( VAS-PI ) .
+RESULTS	At end point , compared to placebo , desvenlafaxine was associated with a significantly greater decrease in HDRS17 total scores ( last-observation-carried-forward analysis ; adjusted mean change from baseline -9.9 vs -8.1 , respectively ; P = .004 ) and significant improvements on the CGI-I ( P < .001 ) , MADRS ( P = .002 ) , SDS ( P = .038 ) , and VAS-PI ( P < .001 ) .
+RESULTS	Improvements on the SDS and VAS-PI reached significance by week 2 .
+RESULTS	Desvenlafaxine was generally safe and well tolerated .
+CONCLUSIONS	Short-term treatment with desvenlafaxine 50 mg/d was effective for the treatment of MDD in perimenopausal and postmenopausal women , with significant benefits on pain and functional outcomes evident as early as week 2 .
+CONCLUSIONS	The safety and tolerability of desvenlafaxine were consistent with data in other populations .
+BACKGROUND	ClinicalTrials.gov identifier : NCT01121484 .
+

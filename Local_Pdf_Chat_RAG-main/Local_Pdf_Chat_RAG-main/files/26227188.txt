@@ -1,0 +1,15 @@
+26227188
+BACKGROUND	The RITA-3 ( Third Randomised Intervention Treatment of Angina ) trial compared outcomes of a routine early invasive strategy ( coronary arteriography and myocardial revascularization , as clinically indicated ) to those of a selective invasive strategy ( coronary arteriography for recurrent ischemia only ) in patients with non-ST-segment elevation acute coronary syndrome ( NSTEACS ) .
+BACKGROUND	At a median of 5 years ' follow-up , the routine invasive strategy was associated with a 24 % reduction in the odds of all-cause mortality .
+OBJECTIVE	This study reports 10-year follow-up outcomes of the randomized cohort to determine the impact of a routine invasive strategy on longer-term mortality .
+METHODS	We randomized 1,810 patients with NSTEACS to receive routine invasive or selective invasive strategies .
+METHODS	All randomized patients had annual follow-up visits up to 5 years , and mortality was documented thereafter using data from the Office of National Statistics .
+RESULTS	Over 10 years , there were no differences in mortality between the 2 groups ( all-cause deaths in 225 [ 25.1 % ] vs. 232 patients [ 25.4 % ] : p = 0.94 ; and cardiovascular deaths in 135 [ 15.1 % ] vs. 147 patients [ 16.1 % ] : p = 0.65 in the routine invasive and selective invasive groups , respectively ) .
+RESULTS	Multivariate analysis identified several independent predictors of 10-year mortality : age , previous myocardial infarction , heart failure , smoking status , diabetes , heart rate , and ST-segment depression .
+RESULTS	A modified post-discharge Global Registry of Acute Coronary Events ( GRACE ) score was used to calculate an individual risk score for each patient and to form low-risk , medium-risk , and high-risk groups .
+RESULTS	Risk of death within 10 years varied markedly from 14.4 % in the low-risk group to 56.2 % in the high-risk group .
+RESULTS	This mortality trend did not depend on the assigned treatment strategy .
+CONCLUSIONS	The advantage of reduced mortality of routine early invasive strategy seen at 5 years was attenuated during later follow-up , with no evidence of a difference in outcome at 10 years .
+CONCLUSIONS	Further trials of contemporary intervention strategies in patients with NSTEACS are warranted .
+CONCLUSIONS	( Third Randomised Intervention Treatment of Angina trial [ RITA-3 ] ; ISRCTN07752711 ) .
+

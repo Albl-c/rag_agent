@@ -1,0 +1,14 @@
+25329446
+BACKGROUND	Many bacterial pathogens causing respiratory infections in children are common residents of the respiratory tract .
+BACKGROUND	Insight into bacterial colonization patterns and microbiota stability at a young age might elucidate healthy or susceptible conditions for development of respiratory disease .
+OBJECTIVE	To study bacterial succession of the respiratory microbiota in the first 2 years of life and its relation to respiratory health characteristics .
+METHODS	Upper respiratory microbiota profiles of 60 healthy children at the ages of 1.5 , 6 , 12 , and 24 months were characterized by 16S-based pyrosequencing .
+METHODS	We determined consecutive microbiota profiles by machine-learning algorithms and validated the findings cross-sectionally in an additional cohort of 140 children per age group .
+RESULTS	Overall , we identified eight distinct microbiota profiles in the upper respiratory tract of healthy infants .
+RESULTS	Profiles could already be identified at 1.5 months of age and were associated with microbiota stability and change over the first 2 years of life .
+RESULTS	More stable patterns were marked by early presence and high abundance of Moraxella and Corynebacterium/Dolosigranulum and were positively associated with breastfeeding in the first period of life and with lower rates of parental-reported respiratory infections in the consecutive periods .
+RESULTS	Less stable profiles were marked by high abundance of Haemophilus or Streptococcus .
+CONCLUSIONS	These findings provide novel insights into microbial succession in the respiratory tract in infancy and link early-life profiles to microbiota stability and respiratory health characteristics .
+CONCLUSIONS	New prospective studies should elucidate potential implications of our findings for early diagnosis and prevention of respiratory infections .
+CONCLUSIONS	Clinical trial registered with www.clinicaltrials.gov ( NCT00189020 ) .
+

@@ -1,0 +1,13 @@
+24295530
+OBJECTIVE	To determine the efficacy of a custom-made wheelchair simulation in training children to use a powered wheelchair ( PWC ) .
+METHODS	Randomized controlled trial employing the 4C/ID-model of learning .
+METHODS	Twenty-eight typically developing children ( 13M , 15F ; mean age 6 years , SD 6 months ) were assessed on their operation of a PWC using a functional evaluation rating scale .
+METHODS	Participants were randomly assigned to intervention ( 8 30-minute training sessions using a joystick operated wheelchair simulation ) or control conditions ( no task ) , and were reassessed on their PWC use after the intervention phase .
+METHODS	Additional data from the simulation on completion times , errors , and total scores were recorded for the intervention group .
+RESULTS	Analysis of variance showed a main effect of time , with planned comparisons revealing a statistically significant change in PWC use for the intervention ( p = .022 ) but not the control condition .
+RESULTS	Although the intervention group showed greater improvement than the controls , this did not reach statistical significance .
+RESULTS	Multiple regression analyses showed that gender was predictive of pretest ( p = .005 ) functional ability .
+CONCLUSIONS	A simulated wheelchair task appears to be effective in helping children learn to operate a PWC .
+CONCLUSIONS	Greater attention should be given to female learners who underperformed when compared with their male counterparts .
+CONCLUSIONS	This low-cost intervention could be easily used at home to reduce PWC training times in children with motor disorders .
+

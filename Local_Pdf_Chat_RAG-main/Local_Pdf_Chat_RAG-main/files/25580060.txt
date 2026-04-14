@@ -1,0 +1,12 @@
+25580060
+BACKGROUND	Noncystic fibrosis bronchiectasis ( NCFB ) is characterized by airway expansion and recurrent acute exacerbations .
+BACKGROUND	Macrolide has been shown to exhibit anti-inflammatory effects in some chronic airway diseases .
+OBJECTIVE	To assess the efficacy of roxithromycin on airway inflammation and remodeling in patients with NCFB under steady state .
+METHODS	The study involved an open-label design in 52 eligible Chinese patients with NCFB , who were assigned to control ( receiving no treatment ) and roxithromycin ( receiving 150mg/day for 6 months ) groups .
+METHODS	At baseline and 6 months , the inflammatory markers such as interleukin - ( IL - ) 8 , neutrophil elastase ( NE ) , matrix metalloproteinase - ( MMP ) 9 , hyaluronidase ( HA ) , and type IV collagen in sputum were measured , along with the detection of dilated bronchus by throat computed tomography scan , and assessed the exacerbation .
+RESULTS	Forty-three patients completed the study .
+RESULTS	The neutrophil in the sputum was decreased in roxithromycin group compared with control ( P < 0.05 ) .
+RESULTS	IL-8 , NE , MMP-9 , HA , and type IV collagen in sputum were also decreased in roxithromycin group compared with the control group ( all P < 0.01 ) .
+RESULTS	Airway thickness of dilated bronchus and exacerbation were reduced in roxithromycin group compared with the control ( all P < 0.05 ) .
+CONCLUSIONS	Roxithromycin can reduce airway inflammation and airway thickness of dilated bronchus in patients with NCFB .
+

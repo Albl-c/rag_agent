@@ -1,0 +1,12 @@
+24762371
+OBJECTIVE	Quality of life ( QOL ) can be considered as a quality indicator of health care systems and nurses can play an important role to improve QOL in patients with congestive heart failure ( CHF ) .
+OBJECTIVE	The aim of this study was to determine the effects of education provided by nurses on the QOL in patients with CHF in home-visit care compared to usual care .
+METHODS	In a single-blind randomized controlled trial conducted from September 2011 to June 2012 , 110 patients with CHF were randomly assigned into two groups .
+METHODS	While patients in group I were received usual education at the time of hospital discharge , patients in Group II , in addition to usual education , were received special education regards to their illness by nurses who visited patients in their homes .
+METHODS	The 36-item short-form ( SF-36 ) questionnaire was used to evaluate the patient 's QOL at the time of discharge and also six months after hospital discharge .
+RESULTS	At the time of hospital discharge , mean score of all 8 sub-score of SF-36 questionnaire was 63.47.8 in patients of group II and 61.16.4 in patients of group I , respectively ( P > 0.05 ) .
+RESULTS	QOL was decreased in group I and increased in group II compared to the time of hospital discharge .
+RESULTS	After six months , mean score of QOL was higher in group II than in group I.
+CONCLUSIONS	QOL of patients with CHF were decreased after hospital discharge .
+CONCLUSIONS	Education provided by nurses in home-visit care could improve the QOL in patients with CHF , based on the findings of this study .
+

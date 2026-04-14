@@ -1,0 +1,19 @@
+25071901
+OBJECTIVE	The use of proton pump inhibitors or misoprostol is known to prevent the gastrointestinal complications of nonsteroidal anti-inflammatory drugs ( NSAIDs ) .
+OBJECTIVE	Rebamipide is known to increase the mucosal generation of prostaglandins and to eliminate free oxygen radicals , thus enhancing the protective function of the gastric mucosa .
+OBJECTIVE	However , it is unknown whether rebamipide plays a role in preventing NSAID-induced gastropathy .
+OBJECTIVE	The aim of this study was to determine the effectiveness of rebamipide compared to misoprostol in preventing NSAID-induced gastrointestinal complications in patients requiring continuous NSAID treatment .
+METHODS	We studied 479 patients who required continuous NSAID treatment .
+METHODS	The patients were randomly assigned to groups that received 100 mg of rebamipide three times per day or 200 g of misoprostol three times per day for 12 weeks .
+METHODS	The primary endpoint of the analysis was the occurrence rate of gastric ulcers , as determined by endoscopy after 12 weeks of therapy .
+RESULTS	Of the 479 patients in the study , 242 received rebamipide , and 237 received misoprostol .
+RESULTS	Ultimately , 44 patients ( 18.6 % ) withdrew from the misoprostol group and 25 patients ( 10.3 % ) withdrew from the rebamipide group .
+RESULTS	There was a significant difference in withdrawal rate between the two groups ( p = 0.0103 ) .
+RESULTS	The per protocol analysis set was not valid because of the dropout rate of the misoprostol group ; thus , the intention to treat ( ITT ) analysis set is the main set for the efficacy analysis in this study .
+RESULTS	After 12 weeks , the occurrence rate of gastric ulcers was similar in the rebamipide and misoprostol groups ( 20.3 % vs 21.9 % , p = 0.6497 ) according to ITT analysis .
+RESULTS	In addition , the therapeutic failure rate was similar in the rebamipide and misoprostol groups ( 13.6 % vs 13.1 % , p = 0.8580 ) .
+RESULTS	The total severity score of the gastrointestinal symptoms was significantly lower in the rebamipide group than in the misoprostol group ( p = 0.0002 ) .
+RESULTS	The amount of antacid used was significantly lower in the rebamipide group than in the misoprostol group ( p = 0.0258 ) .
+CONCLUSIONS	Rebamipide can prevent gastric ulcers when used with NSAIDs and can decrease the gastrointestinal symptoms associated with NSAID administration .
+CONCLUSIONS	When the possibility of poor compliance and the potential adverse effects of misoprostol are considered , rebamipide appears to be a clinically effective and safe alternative .
+

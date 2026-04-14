@@ -1,0 +1,9 @@
+25456093
+OBJECTIVE	The aim of this study is to assess the prevalence of non-opioid drug use among opioid-addicted , buprenorphine injecting individuals in Georgia , during and after a 12-week course of buprenorphine-naloxone ( Suboxone ) or methadone .
+METHODS	Randomized controlled trial with daily observed Suboxone or methadone and weekly counseling , urine tests and timeline followback ( TLFB ) in weeks 0-12 and 20 , and the Addiction Severity Index ( ASI ) at weeks 0 , 4 , 8 , 12 , 20 .
+RESULTS	Of the 80 patients ( 40/group , 4 women ) , 68 ( 85 % ) completed the 12-weeks of study treatment and 66 ( 82.5 % ) completed the 20-week follow-up .
+RESULTS	At baseline , injecting more than one drug in the last 30 days was reported by 68.4 % of patients in the methadone and 72.5 % in the Suboxone groups .
+RESULTS	Drug use was markedly reduced in both treatment conditions but there were significant differences in the prevalence of specific drugs with more opioid ( 1.5 vs. 0.2 % ; p = 0.03 ) , less amphetamine ( 0.2 vs. 2.8 % ; p < 0.001 ) and less marijuana ( 1.7 vs. 10.2 % ; p < 0.001 ) positive urine tests in the methadone vs. Suboxone groups .
+RESULTS	At the 20-week follow-up , TLFB results on the 34 that continued methadone or the 3 on Suboxone showed less opioid ( 5.6 vs. 27.6 % ; p < 0.001 ) , illicit buprenorphine ( 2.7 vs. 13.8 % ; p = 0.005 ) , benzodiazepine ( 13.5 vs. 34.5 % ; p < 0.001 ) , and marijuana ( 2.8 vs. 20.7 % ; p < 0.001 ) use than the 29 who did not continue opioid substitution therapy .
+CONCLUSIONS	Despite small but significant differences in opioid and other drug use , both treatments were highly effective in reducing opioid and non-opioid drug use .
+

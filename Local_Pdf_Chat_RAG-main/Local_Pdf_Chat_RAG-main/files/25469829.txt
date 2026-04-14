@@ -1,0 +1,20 @@
+25469829
+OBJECTIVE	Adherence to insulin therapy can be threatened by pain and needle fear .
+OBJECTIVE	This cross-over randomized non-inferiority trial evaluated a new Pic Insupen 33G4mm needle vs. a 32G4mm needle in terms of metabolic control , safety and acceptability in patients with diabetes treated with insulin .
+METHODS	We used a centralized , permuted block randomization , stratified by center and maximum insulin dose per single injection .
+METHODS	Subjects used the two needles in two 3 week treatment periods .
+METHODS	The primary endpoint was the absolute percentage variation of the blood fructosamine between the two treatments ( % | Fru | ) .
+METHODS	Additional endpoints were : glycemic variability , total insulin doses , body weight , severe hypoglycemic episodes , leakage at injection sites and pain measured by visual analogue scale .
+METHODS	Equivalent glycemic control was defined a priori as % | Fru | ( including 95 % CI ) within 20 % .
+RESULTS	Of 87 subjects randomized , 77 completed the study ( median age 53.1 [ IR 42.3-61 .2 ] , median BMI 24.3 Kg/m ( 2 ) [ IR 21.3-28 .5 ] , median duration of insulin therapy [ in months ] 141.4 ( IR 56.3-256 .9 ) , median baseline HbA1c 7.9 % [ IR 7.2-8 .8 ] ) .
+RESULTS	The % | Fru | was 7.93 % ( 95 % CI 6.23-9 .63 ) , meeting the non-inferiority criterion .
+RESULTS	The fasting blood glucose standard deviation was 46.2 ( mean 154.6 ) with the 33G needle and 42.8 ( mean 157.3 ) with the 32G needle ( p = 0.42 ) .
+RESULTS	Insulin daily dose and patients ' weight did not show any statistically significant variation .
+RESULTS	We observed 95 episodes of symptomatic hypoglycemia with the 33G needle and 96 with the 32G needle .
+RESULTS	One episode of severe hypoglycemia was documented in the latter group .
+RESULTS	As for insulin leakage we observed 37.55 episodes per 100 patient-days with the 33G needle and 32.21 episodes per 100 patient-days with the 32G needle ( p = 0.31 ) .
+RESULTS	Patients reported less pain with the 33G4mm needle ( p = 0.05 ) .
+CONCLUSIONS	Study sample was mainly composed of adults with type 1 diabetes and study was not blinded .
+CONCLUSIONS	The 33G needle is not inferior to the 32G needle in terms of efficacy and safety , with reduced pain and no difference in insulin leakage .
+BACKGROUND	NCT01745549 .
+

@@ -1,0 +1,13 @@
+25056602
+BACKGROUND	The optimal model of total dose and fraction size for patients with locally recurrent nasopharyngeal carcinoma treated with intensity-modulated radiotherapy ( IMRT ) remains unclear .
+BACKGROUND	The authors designed a randomized phase 2 clinical trial to investigate the efficacy of 2 different models , with the objective of determining an optimal model .
+METHODS	Between January 2003 and December 2007 , a total of 117 patients with locally recurrent nonmetastatic nasopharyngeal carcinoma were randomized to 2 different models of total dose and fraction size : group A ( 59 patients ) received 60 gray in 27 fractions and group B ( 58 patients ) received 68 gray in 34 fractions .
+METHODS	Both groups received 5 daily fractions per week .
+METHODS	All patients received IMRT alone .
+RESULTS	The median follow-up was 25.0 months .
+RESULTS	The 5-year overall survival in group A was higher than that in group B ( 44.2 % vs 30.3 % ; P = .06 ) , and the local failure-free survival in group A was slightly lower than that in group B ( 63.7 % vs 71.0 % ; P = .41 ) .
+RESULTS	Severe late complications were the main cause of death .
+RESULTS	The incidences of mucosal necrosis and massive hemorrhage in patients in group B were significantly higher than those among patients in group A at 50.8 % versus 28.8 % ( P = .02 ) and 31.0 % versus 18.6 % ( P = .12 ) , respectively .
+RESULTS	Tumor volume ( P < .01 ) and model of total dose and fraction size ( P = .03 ) were found to be significant factors for mucosal necrosis and massive hemorrhage .
+CONCLUSIONS	Appropriately decreasing the total dose and increasing the fraction size can achieve local control similar to that achieved with a higher dose after IMRT ; furthermore , it can improve overall survival by significantly reducing the incidence of severe late complications including mucosal necrosis and massive hemorrhage .
+

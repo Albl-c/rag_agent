@@ -1,0 +1,18 @@
+24901823
+BACKGROUND	Endoscopic placement of a iodine-125 radioactive stent is useful to treat obstructive jaundice with unresectable periampullary tumors .
+BACKGROUND	This study aimed to retrospectively evaluate the obstructive component of biliary radioactive stents and discuss the different obstructive mechanism with common plastic stents .
+METHODS	Twenty consecutive patients with malignant obstruction underwent insertion of stents into the common bile duct , including 10 radioactive stents and 10 polyethylene stents .
+METHODS	The radioactive stents were withdrawn after 3 months or earlier if clinical signs suggested stent clogging .
+METHODS	Polyethylene stents were withdrawn after physical signs suggested stent clogging .
+METHODS	Bacteriologic analyses included identification of aerobic and anaerobic bacteria .
+METHODS	Stent surfaces were observed by scanning electron microscopy .
+METHODS	Stent deposition was identified by Fourier-transformed infrared spectroscopy and pyrolysis derivatization/gas chromatography/mass spectrometry .
+RESULTS	Radioactive stent group and polyethylene stent group stents were placed for 86 days ( interquartile range 62 , 114 ) and 146 days ( interquartile range 105 , 181 ) respectively .
+RESULTS	The placement duration of the two types of stents was statistically significant .
+RESULTS	A variety of microorganisms were cultured from the stent deposits .
+RESULTS	Scanning electron microscope images showed a thicker necrotic layer on the external surface of polyethylene stent than the radioactive stent group .
+RESULTS	The proportions of obstructive components in each stent were different , but none of them were statistically significant .
+RESULTS	Necrotic tumor tissue was found in the radioactive stent group .
+CONCLUSIONS	Similar clogging events occurred in both radioactive stents and polyethylene stents .
+CONCLUSIONS	The median duration time of the radioactive stent was shorter , probably because of the smaller inner diameter , and the radioactive seeds exerted no beneficial effect in inhibiting microorganisms .
+

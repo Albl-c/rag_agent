@@ -1,0 +1,12 @@
+25041312
+OBJECTIVE	This study aimed to evaluate the internal consistency reliability and construct validity of the Fitzpatrick Skin Type Scale during radiation therapy in a cohort of women receiving treatment for breast cancer .
+METHODS	The assessment of the scale was performed as a nested study within a randomised controlled trial of two creams used for radiation therapy skin care for breast cancer patients .
+METHODS	The sample consisted of 244 female patients undergoing radiation therapy for breast cancer .
+METHODS	Participants completed a modified version of the Fitzpatrick Skin Type Scale .
+RESULTS	Internal consistency as measured by Cronbach 's alpha was 0.505 , 0.829 and 0.339 for the Genetic Disposition , Sun Exposure and Tanning Habits subscales respectively .
+RESULTS	Only the Sun Exposure subscale surpassed the 0.70 cut-off , indicating good internal consistency .
+RESULTS	Maximum likelihood factor analysis with promax rotation method confirmed the a priori factor structure for the Sun Exposure subscale as well as providing evidence of construct validity for this subscale .
+RESULTS	Analysis for the other two subscales highlighted issues with internal reliability and construct validity suggesting that not all items on each subscale truly measure the intended trait .
+CONCLUSIONS	The study findings support reliability and validity of the Sun Exposure subscale of the Fitzpatrick Skin Type Scale in a convenience sample of women receiving radiation therapy for cancer .
+CONCLUSIONS	Despite limitations with two of the three subscales , this tool continues to be used in clinical practice .
+

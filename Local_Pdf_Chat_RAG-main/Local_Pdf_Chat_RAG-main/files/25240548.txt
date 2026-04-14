@@ -1,0 +1,12 @@
+25240548
+OBJECTIVE	This study aimed to determine whether remote ischemic conditioning ( RIC ) initiated prior to primary percutaneous coronary intervention ( PPCI ) could reduce myocardial infarct ( MI ) size in patients presenting with ST-segment elevation myocardial infarction .
+BACKGROUND	RIC , using transient limb ischemia and reperfusion , can protect the heart against acute ischemia-reperfusion injury .
+BACKGROUND	Whether RIC can reduce MI size , assessed by cardiac magnetic resonance ( CMR ) , is unknown .
+METHODS	We randomly assigned 197 ST-segment elevation myocardial infarction patients with TIMI ( Thrombolysis In Myocardial Infarction ) flow grade 0 to receive RIC ( four 5-min cycles of upper arm cuff inflation/deflation ) or control ( uninflated cuff placed on upper arm for 40 min ) protocols prior to PPCI .
+METHODS	The primary study endpoint was MI size , measured by CMR in 83 subjects on days 3 to 6 after admission .
+RESULTS	RIC reduced MI size by 27 % , when compared with the MI size of control subjects ( 18.0 10 % [ n = 40 ] vs. 24.5 12.0 % [ n = 43 ] ; p = 0.009 ) .
+RESULTS	At 24 h , high-sensitivity troponin T was lower with RIC ( 2,296 263 ng/l [ n = 89 ] vs. 2,736 325 ng/l [ n = 84 ] ; p = 0.037 ) .
+RESULTS	RIC also reduced the extent of myocardial edema measured by T2-mapping CMR ( 28.5 9.0 % vs. 35.1 10.0 % ; p = 0.003 ) and lowered mean T2 values ( 68.7 5.8 ms vs. 73.1 6.1 ms ; p = 0.001 ) , precluding the use of CMR edema imaging to correctly estimate the area at risk .
+RESULTS	Using CMR-independent coronary angiography jeopardy scores to estimate the area at risk , RIC , when compared with the control protocol , was found to significantly improve the myocardial salvage index ( 0.42 0.29 vs. 0.28 0.29 ; p = 0.03 ) .
+CONCLUSIONS	This randomized study demonstrated that in ST-segment elevation myocardial infarction patients treated by PPCI , RIC , initiated prior to PPCI , reduced MI size , increased myocardial salvage , and reduced myocardial edema .
+

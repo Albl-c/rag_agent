@@ -1,0 +1,18 @@
+25541333
+OBJECTIVE	Chronic pain and progressive loss of physical function with AS may adversely affect health-related quality of life ( HRQoL ) .
+OBJECTIVE	The objective of this study was to assess the 5-year data regarding spinal mobility , physical function and HRQoL in patients with AS who participated in the Adalimumab Trial Evaluating Long-term Efficacy and Safety for AS ( ATLAS ) study .
+METHODS	Patients received blinded adalimumab 40 mg or placebo every other week for 24 weeks , then open-label adalimumab for up to 5 years .
+METHODS	Spinal mobility was evaluated using linear BASMI ( BASMIlin ) .
+METHODS	BASDAI , total back pain , CRP , BASFI , Short Form-36 and AS quality of life ( ASQoL ) were also assessed .
+METHODS	Correlations between BASMIlin and clinical , functional and ASQoL outcomes after 12 weeks and after 5years of adalimumab exposure were evaluated using Spearman 's rank correlation .
+METHODS	Associations were further analysed using multivariate regression .
+RESULTS	Three hundred and eleven patients received 1 dose of adalimumab ; 125 of the 208 patients originally randomized to adalimumab received treatment for 5 years .
+RESULTS	Improvements in BASMIlin were sustained through 5 years , with a mean change of -0.6 from baseline in the population who completed 5 years of treatment with adalimumab .
+RESULTS	Improvements in disease activity , physical function and ASQoL were also sustained through 5 years .
+RESULTS	BASMIlin was significantly correlated with all evaluated clinical outcomes ( P < 0.001 ) .
+RESULTS	The highest correlation was with BASFI at 12 weeks ( r = 0.52 ) and at 5 years ( r = 0.65 ) .
+RESULTS	Multivariate regression analysis confirmed this association ( P < 0.001 ) .
+CONCLUSIONS	Treatment with adalimumab for up to 5 years demonstrated sustained benefits in spinal mobility , disease activity , physical function and HRQoL in patients with active AS .
+CONCLUSIONS	Spinal mobility was significantly associated with short - and long-term physical function in these patients .
+BACKGROUND	Clinicaltrials.gov ; https://clinicaltrials.gov/NCT00085644 .
+

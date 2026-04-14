@@ -1,0 +1,16 @@
+24370820
+OBJECTIVE	We hypothesized that , after axillary block , positioning the patient in a lateral position with the injected side down and simultaneously in a 20 Trendelenburg position will increase the success rate and quality of the block .
+METHODS	Fifty patients with chronic renal failure ( ASA 2-3 ) scheduled for arteriovenous fistula surgery were included in this study .
+METHODS	In all patients , 30-40 ml of 0.25 % levobupivacaine were injected into the axillary sheath .
+METHODS	The block was performed as three injections ( multiple injection technique ) with the arm in 90 abduction and 90 flexion in the supine position .
+METHODS	Patients were randomly allocated to two groups .
+METHODS	Group I ( n = 25 ) patients were kept in the supine position after the block .
+METHODS	Group II ( n = 25 ) patients were positioned laterally after the block with the injected arm down and in a 20 Trendelenburg position .
+METHODS	Sensory and motor block were evaluated at 2 , 4 , 6 , 8 , 10 , 15 , 20 , and 25 min after the administration of the block .
+METHODS	Thus , the patients in group II were evaluated in a lateral position during the first 30 min .
+METHODS	Throughout the surgery and the recovery period , sensory and motor block were evaluated at 30-min intervals .
+RESULTS	There were no significant intergroup differences in the effects on radial , ulnar , median , and musculoskeletal nerve blockade .
+RESULTS	Thirty minutes after the injection , the patients in group II had higher levels of sensory axillary nerve blockade .
+RESULTS	Subscapular and thoracodorsal nerve motor block were not detected in group I , while 84 % of the patients in group II experienced blockade of both of these nerves ( p < 0.01 ) .
+CONCLUSIONS	We conclude that , for patients undergoing an axillary block , positioning the patient laterally with the injected side down and in a 20 Trendelenburg position increases the success rate and quality of the block .
+

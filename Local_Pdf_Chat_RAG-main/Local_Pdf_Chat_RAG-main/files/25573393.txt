@@ -1,0 +1,17 @@
+25573393
+BACKGROUND	Current methods of the transtibial pull-out meniscal root repair significantly displace under cyclic loading in porcine models but have not been evaluated in human models .
+BACKGROUND	One potential explanation for the displacement is that a single transtibial tunnel may not fully restore the attachment of the entire posterior medial meniscal root .
+OBJECTIVE	The purpose of this study was to biomechanically evaluate the transtibial pull-out technique in a human cadaveric model using either 1 or 2 transtibial bone tunnels .
+OBJECTIVE	The hypothesis was that a transtibial pull-out technique using 2 transtibial bone tunnels would confer superior biomechanical properties in comparison to an iteration using 1 transtibial bone tunnel .
+METHODS	Controlled laboratory study .
+METHODS	Ten matched pairs of male human cadaveric knees ( average age , 52.7 years ) were randomly assigned ( 1 each of the pair ) to 2 groups consisting of a transtibial pull-out technique using either 1 or 2 transtibial bone tunnels .
+METHODS	The knees were cyclically loaded for 1000 cycles from 10 to 30 N at 0.5 Hz , representing the loads experienced during a typical meniscal root repair postoperative rehabilitation program , and then pulled to failure at a rate of 0.5 mm/s .
+RESULTS	Differences between 1 - and 2-tunnel repair groups were neither statistically nor clinically significant with respect to displacement or ultimate failure load .
+RESULTS	On average , the 1 - and 2-tunnel repair groups resulted in 3.32 mm and 3.23 mm of displacement , respectively , after 1000 testing cycles .
+RESULTS	At 1 , 100 , 500 , and 1000 testing cycles , displacement was not significantly different between groups ( P > .799 ) .
+RESULTS	The 2-tunnel repair technique resulted in a 10.2 % higher ultimate failure load ( 135 N vs. 123 N ) ; however , this was not significant ( P = .333 ) .
+CONCLUSIONS	Similar biomechanical properties were seen between transtibial pull-out repairs using either 1 or 2 transtibial bone tunnels in a human cadaveric model .
+CONCLUSIONS	Both repair groups exceeded the 3-mm threshold for nonanatomic displacement .
+CONCLUSIONS	This study indicates that a newly proposed iteration of the transtibial pull-out repair technique using a second transtibial tunnel , which theoretically restores more of the posterior medial meniscal root , was almost identical to the current clinical standard involving a single transtibial tunnel .
+CONCLUSIONS	As the importance of repairing meniscal root tears is increasingly recognized , further studies on new iterations of both techniques are warranted to minimize the risk of displacement caused by early motion in the initial postoperative rehabilitation period .
+

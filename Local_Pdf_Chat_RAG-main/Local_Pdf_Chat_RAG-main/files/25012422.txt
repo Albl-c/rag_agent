@@ -1,0 +1,14 @@
+25012422
+OBJECTIVE	Because increased dopamine neurotransmission occurs with most antidepressants , and because antipsychotics cause behavioural supersensitivity to dopamine , short-term low-dose antipsychotic treatment was tested on depressed patients with an expectation of clinical improvement in the supersensitive phase following drug withdrawal .
+METHODS	This was a randomized , double-blind , placebo-controlled study of 48 patients who met criteria for DSM-IV ( ) Major Depressive Disorder , were in a Major Depressive Episode , and had a Hamilton Depression Rating Scale ( HAMD ) rating of 14 .
+METHODS	Half the participants received 0.25 mg oral haloperidol each day for 7 days , after which they received placebo daily for 4 weeks .
+METHODS	The other half received placebo throughout the trial .
+RESULTS	One week after stopping the medication , the HAMD ratings of the drug-treated patients fell by 9.96 points , as compared to a reduction of 8.73 points in the placebo-treated patients , when comparing visits 1 and 4 .
+RESULTS	There was no such difference when comparing visits 2 and 4 .
+RESULTS	The differences were not significant , but indicated a trend .
+RESULTS	One week after the medication was stopped , the Clinical Global Index fell 1.640.18 units for the medication-treated patients , compared to 1.120.26 units for the placebo group ( P = 0.05 ) .
+RESULTS	The regimen was well tolerated .
+CONCLUSIONS	Seven days of an ultra-low dose of 0.25 mg haloperidol , followed by withdrawal of haloperidol , resulted in clinical depression improvement greater than placebo and significantly decreased psychomotor retardation , consistent with haloperidol-induced behavioural supersensitivity to dopamine .
+CONCLUSIONS	The sample was small .
+CONCLUSIONS	More patients are needed in a future study .
+

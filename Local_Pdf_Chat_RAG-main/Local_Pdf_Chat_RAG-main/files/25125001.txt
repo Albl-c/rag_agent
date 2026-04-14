@@ -1,0 +1,14 @@
+25125001
+OBJECTIVE	To assess daily functioning and geriatric conditions of older subjects suffering from heart failure ( HF ) as compared to the general population .
+RESULTS	The data were collected as part of the nationwide PolSenior project ( 2007-2011 ) .
+RESULTS	Of 4979 individuals ( age range 65-104 years ) , data on self-reported HF hospitalization were available for 4795 subjects ( 96 % ) .
+RESULTS	Geriatric assessment ( GA ) included functional status ( ADL , Activities of Daily Living and IADL , Instrumental ADL scales ) , cognitive function , mood disorders , sensory organ impairment , falls and comorbidity .
+RESULTS	Mean age SD of the study population was 73.8 6.5 years ; 62 % were female .
+RESULTS	The proportion of subjects with HF hospitalizations increased from 8 % in subjects aged 65-69 years up to 13 % in the age group of 85-89 years , and decreased in nonagenarians ( 11 % ) .
+RESULTS	Subjects with the HF hospitalization were older , used more drugs , and were characterized by a higher prevalence of comorbid conditions , mood disorders , hearing impairment and functional limitations .
+RESULTS	In logistic regression , HF hospitalization increased the age-sex adjusted risk of disability by 40 % , both in ADL and IADL .
+RESULTS	After adjustment to other clinical and geriatric conditions , HF hospitalization remained an independent predictor of disability in both ADL ( OR = 1.36 , 95 % CI : 1.00-1 .84 ) and IADL ( OR = 1.40 , 95 % CI : 1.01-1 .93 ) .
+CONCLUSIONS	Older people who reported HF admissions had a higher number of comorbidities and geriatric conditions : mood disorders , hearing impairment and functional limitations .
+CONCLUSIONS	Besides , in our study , HF hospitalization independently and significantly increased the risk of limitations in IADL and ADL .
+CONCLUSIONS	Therefore , further studies are needed to evaluate the benefits of GA in patients with HF .
+

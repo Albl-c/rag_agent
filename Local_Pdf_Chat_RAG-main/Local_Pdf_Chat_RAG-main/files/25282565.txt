@@ -1,0 +1,16 @@
+25282565
+BACKGROUND	Epidemiologic and preclinical data , and a small randomized trial in Boston , suggest that vitamin D supplementation may improve winter-related atopic dermatitis ( AD ) .
+OBJECTIVE	To determine the effect of vitamin D supplementation on winter-related AD .
+METHODS	We performed a randomized , double-blind , placebo-controlled trial of Mongolian children with winter-related AD ( clinicaltrials.gov identifier : NCT00879424 ) .
+METHODS	Baseline eligibility included age 2 to 17 years , AD score 10 to 72 using the Eczema Area and Severity Index ( EASI ) , and winter-related AD ( eg , history of AD worsening during the fall-to-winter transition ) .
+METHODS	Subjects were enrolled in Ulaanbaatar during winter and randomly assigned to oral cholecalciferol ( 1000 IU/day ) versus placebo for 1 month .
+METHODS	All children and parents received emollient and patient education about AD and basic skin care .
+METHODS	The main outcomes were changes in EASI score and in Investigator 's Global Assessment .
+RESULTS	The 107 enrolled children had a mean age of 9 years ( SD 5 ) , and 59 % were male .
+RESULTS	Their median age of AD onset was 3 months ( interquartile range 2 months to 1 year ) and mean EASI score at baseline 21 ( SD 9 ) .
+RESULTS	One-month follow-up data were available for 104 ( 97 % ) children .
+RESULTS	Compared with placebo , vitamin D supplementation for 1 month produced a clinically and statistically significant improvement in EASI score ( adjusted mean change : -6.5 vs -3.3 , respectively ; P = .04 ) .
+RESULTS	Moreover , change in Investigator 's Global Assessment favored vitamin D over placebo ( P = .03 ) .
+RESULTS	There were no adverse effects in either group .
+CONCLUSIONS	Vitamin D supplementation improved winter-related AD among Mongolian children , a population likely to have vitamin D deficiency in winter .
+

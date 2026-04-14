@@ -1,0 +1,16 @@
+25584931
+BACKGROUND	The abuse potential of prescription opioids is well established .
+BACKGROUND	This study compared positive , subjective drug effects of single , equal doses of biphasic immediate release ( IR ) / extended release ( ER ) hydrocodone bitartrate ( HB ) / acetaminophen ( acetyl-p-aminophenol [ APAP ] ) 7.5 / 325 mg tablets versus IR HB/APAP 7.5 / 325-mg tablets and placebo .
+METHODS	Healthy adult recreational users of prescription opioids entered this randomized , double-blind , double-dummy , active - and placebo-controlled , seven-way crossover study .
+METHODS	Participants received single , total doses of IR/ER HB/APAP 22.5 / 975 mg ( intact ; three active tablets ) and 45/1950 mg ( intact and crushed [ encapsulated ] ; six active tablets ) , IR HB/APAP 22.5 / 975 mg ( intact ; three active tablets ) and 45/1950 mg ( intact and crushed [ encapsulated ] ; six active tablets ) , and placebo .
+METHODS	Peak subjective effects ( E ( max ) ) ; time to peak effects ( TE ( max ) ) ; and area under the drug-effect curves for drug liking , high , and good drug effects were measured using visual analog scales .
+METHODS	Median values with 95 % confidence interval ( CI ) were compared using analysis of variance .
+RESULTS	Among completers ( n = 52 ) , IR/ER HB/APAP produced delayed and lower peak effects compared to equal doses of IR HB/APAP .
+RESULTS	Comparing intact tablets , the drug liking E ( max ) ( median [ 95 % CI ] ) was significantly lower for IR/ER HB/APAP 45/1950 mg ( 78.0 [ 73.0 , 81.0 ] ) than an equal dose of IR HB/APAP ( 89.5 [ 85.0 , 93.0 ] ; difference , -8.5 [ -12.0 , -6.0 ] ; P < 0.001 ) .
+RESULTS	Similar results were observed for intact IR/ER HB/APAP and IR HB/APAP 22.5 / 975 mg .
+RESULTS	Crushing IR/ER HB/APAP 45/1950 mg delayed these effects compared with an equal dose of crushed IR HB/APAP and intact IR/ER HB/APAP .
+CONCLUSIONS	IR/ER HB/APAP resulted in lower subjective positive drug effects than an equal dose of IR HB/APAP .
+CONCLUSIONS	Crushing IR/ER HB/APAP also delayed the onset of subjective effects compared with intact IR/ER HB/APAP .
+CONCLUSIONS	These findings suggest that biphasic IR/ER HB/APAP has lower abuse potential than IR HB/APAP in single equal doses .
+BACKGROUND	This Phase I clinical trial conducted in the USA was not registered .
+

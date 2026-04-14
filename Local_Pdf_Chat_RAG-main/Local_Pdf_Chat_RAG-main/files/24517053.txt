@@ -1,0 +1,16 @@
+24517053
+OBJECTIVE	To evaluate the clinical efficacy of a series of Tongfeng Granule ( TG ) in treating gouty arthritis patients in different stages .
+METHODS	Ninety primary gout patients were randomly assigned to two groups , the TCM treatment group ( 60 cases ) and the Western medicine control group ( 30 cases ) .
+METHODS	Huzhang Tongfeng Granule in combination of external application of Jinhuang Ointment were given to those in the TCM treatment group in the acute phase , and Yinlian Tongfeng Granule in the remission phase .
+METHODS	Diclofenac Sodium Sustained Release Capsule in combination of external application of Jinhuang Ointment were given to those in the Western medicine control group in the acute phase , and Benzbromarone in the remission phase .
+METHODS	All were treated for three months .
+METHODS	The severity integral of symptoms , effective time , effective rate in the acute phase , the recurrence rate , blood uric acid ( BUA ) , urine uric acid ( UUA ) , serum creatinine ( SCr ) , blood urea nitrogen ( BUN ) , triglyceride ( TG ) , total cholesterol ( TC ) , fasting plasma glucose ( FPG ) , and the incidence of adverse reactions were observed in the two groups during the course of treatment .
+RESULTS	The severity integral of symptoms was lowered in the two groups when compared with a former time point ( P < 0.05 ) .
+RESULTS	There was no statistical difference in markedly effective rate or the effective rate in the acute phase between the two groups ( P > 0.05 ) .
+RESULTS	There was statistical difference in the difference of BUA or UUA between before and after treatment in the two groups ( P < 0.05 ) .
+RESULTS	There was statistical difference in TG and SCr in the TCM group between after treatment and before treatment ( P < 0.05 ) .
+RESULTS	There was statistical difference in TG and SCr in the two groups between after treatment and before treatment ( P < 0.05 ) .
+RESULTS	The recurrence rate was 3.3 % in the TCM treatment group ( 2/60 ) , lower than that of the Western medicine control group ( 20 % , 6/30 , P < 0.05 ) .
+CONCLUSIONS	A series of Tongfeng Granule could promote the excretion of UUA , reduce the BUA level in the intermission phase , and play a favorable role in the prevention of relapse .
+CONCLUSIONS	Huzhang Tongfeng Granule could significantly improve inflammatory symptoms and signs of gouty arthritis patients in the acute phase .
+

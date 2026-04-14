@@ -1,0 +1,14 @@
+24317208
+OBJECTIVE	The aim of present study was to find a better procedure to prevent synkinesis in facial nerve palsy .
+METHODS	A randomized clinical trial .
+METHODS	Clinical rehabilitation faculty and general rehabilitation centers .
+METHODS	Twenty - nine patients with facial nerve palsy were selected via electrodiagnosis tests .
+METHODS	The experimental group ( n = 16 ) was treated with biofeedback electromyography , whereas the control group ( n = 13 ) received common physiotherapy .
+METHODS	All patients received 1-year treatment .
+METHODS	Evaluation of facial grading scale before and after treatment and severity of synkinesia .
+RESULTS	At the end of treatment , there was a rise in facial grading system in both groups compared with baseline ( p < 0.05 , paired t test ) .
+RESULTS	There were significant differences in the facial grading system between 2 groups at the end of the study , but the experimental group showed better result than the other one .
+RESULTS	The number of patients with synkinesis and the severity of their synkinesis in the experimental group were lesser than those of the control group .
+CONCLUSIONS	Biofeedback therapy is more efficient than common physiotherapy .
+CONCLUSIONS	By using this approach , controlling and reducing synkinesis is more feasible .
+

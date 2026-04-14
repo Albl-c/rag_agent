@@ -1,0 +1,12 @@
+25400471
+OBJECTIVE	To compare efficacy , patient compliance , acceptability , satisfaction , safety , and adenoma detection rate of sodium phosphate tablets ( NaP , CLICOLON ( TM ) ) to a standard 4 L polyethylene glycol ( PEG ) solution for bowel cleansing for adults undergoing colonoscopy .
+METHODS	In this multicenter , randomized , prospective , investigator-blind study , the relatively young ( 19-60 years ) healthy outpatients without comorbidity were randomly assigned to one of two arms .
+METHODS	All colonoscopy were scheduled in the morning .
+METHODS	The NaP group was asked to take 4 tablets , 5 times the evening before and 4 tablets , 3 times early on the morning of the colonoscopy .
+METHODS	The PEG group was asked to ingest 2 L of solution the evening before and 2 L early in the morning of the procedure .
+METHODS	Adequacy of bowel preparation was scored using the Boston bowel preparation scale .
+RESULTS	No significant differences were observed between the NaP group ( n = 158 ) and PEG group ( n = 162 ) in bowel cleansing quality ( adequate preparation 93.0 % vs 92.6 % , P = 0.877 ) , patient compliance ( P = 0.228 ) , overall adverse events ( 63.3 % vs 69.1 % , P = 0.269 ) , or adenoma detection rate ( 34.8 % vs 35.2 % , P = 0.944 ) .
+RESULTS	Patient acceptability , satisfaction , and patient rating of taste were higher in the NaP group than in the PEG group ( P < 0.001 ) .
+CONCLUSIONS	NaP tablets , compared with PEG solution , produced equivalent colon cleansing , did not cause more side effects , and had better patient acceptability and satisfaction in the relatively young ( age < 60 years ) healthy individuals without comorbidity .
+CONCLUSIONS	An oral tablet formulation could make bowel preparation less burdensome , resulting in greater patient participation in screening programs .
+

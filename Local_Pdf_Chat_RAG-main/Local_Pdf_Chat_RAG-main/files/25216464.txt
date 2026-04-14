@@ -1,0 +1,15 @@
+25216464
+BACKGROUND	Despite empirical evidence demonstrating the effectiveness of collaborative stepped care program ( SCP ) in Western countries , such programs have not been evaluated in the east , which has a different services system structure and cultural nuances in seeking help for mental illness .
+BACKGROUND	Furthermore , only a few studies have used SCP for depression and anxiety prevention .
+BACKGROUND	We conducted a trial to test its effectiveness in preventing major depressive disorder and generalized anxiety disorder among primary care patients with subthreshold depression and/or anxiety in Hong Kong .
+METHODS	Subthreshold depression and/or anxiety patients were randomized into the SCP group ( n = 121 ) or care as usual ( CAU ) group ( n = 119 ) .
+METHODS	The SCP included watchful waiting , telephone counseling , problem solving therapy , and family doctor treatment within one year .
+METHODS	The primary outcome was the onset of major depressive disorder or generalized anxiety disorder in 15 months .
+METHODS	The secondary outcomes were depressive and anxiety symptoms , quality of life and time absent from work due to any illness .
+RESULTS	Survival analysis showed no differences between the SCP and CAU groups ( the cumulative probability of onset at 15 month was 23.1 % in the SCP group and 20.5 % in the CAU group ; Hazard Ratio = 1.62 ; 95 % Confidence Interval : 0.82-3 .18 ; p = 0.16 ) .
+RESULTS	No significant differences were found in secondary outcomes .
+CONCLUSIONS	Sample size might not have been large enough .
+CONCLUSIONS	SCP did not show beneficial effect on depression/anxiety prevention compared with CAU in Hong Kong primary care .
+CONCLUSIONS	As a large majority of patients improved overtime without any intervention , we are not able to exclude the possibility that the intervention might be effective .
+CONCLUSIONS	Future studies would need to have a larger sample size and conduct on patients with more severe symptoms or perform a second screening .
+

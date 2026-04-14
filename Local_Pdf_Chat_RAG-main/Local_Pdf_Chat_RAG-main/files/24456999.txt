@@ -1,0 +1,16 @@
+24456999
+BACKGROUND	A cardiac arrest can lead to hypoxic-ischaemic brain injury which can result in cognitive and emotional impairments and may negatively affect daily functioning , participation in society and quality of life .
+BACKGROUND	Furthermore , the impact on the family of the patient can be high .
+BACKGROUND	We designed an intervention called ` Stand still , and move on ' , which is a concise , individualised , semi-structured intervention for survivors of cardiac arrest and their caregivers , consisting of between one and six face-to-face consultations provided by a trained nurse .
+BACKGROUND	The intervention is directed at early detection of cognitive and emotional problems , provision of information , promotion of self-management and referral to specialised care if necessary .
+BACKGROUND	The effectiveness of the intervention is being examined in a randomised controlled trial [ ISRCTN74835019 ] .
+BACKGROUND	Alongside this trial we performed a process evaluation which aims to investigate the feasibility of the intervention by assessing : 1 ) the attendance and dose delivered ; 2 ) performance according to protocol ; and 3 ) the opinion of patients , caregivers and nurses on the intervention .
+METHODS	Participants of this process evaluation were 97 patients allocated to the intervention group of the RCT , their 91 caregivers , and six nurses who conducted the intervention .
+METHODS	Measurement instruments used were evaluation forms for patients and caregivers , registration and evaluation forms for nurses , and semi-structured interviews with nurses .
+RESULTS	Seventy-nine of the patients ( 81 % ) allocated to the intervention group and 65 caregivers ( 71 % ) participated in the intervention .
+RESULTS	The mean ( SD ) number of consultations per patient was 1.8 ( 1.0 ) , and most consultations were conducted at the patients ' home .
+RESULTS	The intervention was performed largely according to protocol , except that the intervention usually started later than intended , consultations were longer than expected , and the topic of self-management was not regularly addressed .
+RESULTS	Patients marked the quality of the intervention with a mean score of 7.5 and the performance of the nurse with an 8.0 out of ten .
+RESULTS	Overall , the intervention was positively evaluated by patients , caregivers and nurses .
+CONCLUSIONS	The intervention ` Stand still , and move on ' is a promising intervention which was performed largely according to protocol and seems feasible for implementation after some adaptations , if it is found to be effective .
+

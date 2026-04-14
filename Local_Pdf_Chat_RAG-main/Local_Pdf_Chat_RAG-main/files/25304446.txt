@@ -1,0 +1,16 @@
+25304446
+BACKGROUND	Alzheimer 's disease is characterised by a loss of cognitive function and behavioural problems as set out in the term `` Behavioural and Psychological Symptoms of Dementia '' .
+BACKGROUND	These behavioural symptoms have heavy consequences for the patients and their families .
+BACKGROUND	A greater understanding of behavioural symptoms risk factors would allow better detection of those patients , a better understanding of crisis situations and better management of these patients .
+BACKGROUND	Some retrospective studies or simple observations suggested that personality could play a role in the occurrence of behavioural symptoms .
+BACKGROUND	Finally , performance in social cognition like facial recognition and perspective taking could be linked to certain personality traits and the subsequent risks of behavioural symptoms .
+BACKGROUND	We propose to clarify this through a prospective , multicentre , multidisciplinary study .
+BACKGROUND	Main Objective : - To assess the effect of personality and life events on the risk of developing behavioural symptoms .
+BACKGROUND	Secondary Objectives : - To evaluate , at the time of inclusion , the connection between personality and performance in social cognition tests ; - To evaluate the correlation between performance in social cognition at inclusion and the risks of occurrence of behavioural symptoms ; - To evaluate the correlation between regional cerebral atrophy , using brain Magnetic Resonance Imaging at baseline , and the risk of behavioural symptoms .
+METHODS	Study type and Population : Prospective multicentre cohort study with 252 patients with Alzheimer 's disease at prodromal or mild dementia stage .
+METHODS	The inclusion period will be of 18 months and the patients will be followed during 18 months .
+METHODS	The initial evaluation will include : a clinical and neuropsychological examination , collection of behavioural symptoms data ( Neuropsychiatric-Inventory scale ) and their risk factors , a personality study using both a dimensional ( personality traits ) and categorical approach , an inventory of life events , social cognition tests and an Magnetic Resonance Imaging .
+METHODS	Patients will be followed every 6 months ( clinical examination and collection of behavioural symptoms data and risk factors ) during 18 months .
+CONCLUSIONS	This study aims at better identifying the patients with Alzheimer 's disease at high risk of developing behavioural symptoms , to anticipate , detect and quickly treat these disorders and so , prevent serious consequences for the patient and his caregivers .
+BACKGROUND	ClincalTrials.gov : NCT01297140 .
+

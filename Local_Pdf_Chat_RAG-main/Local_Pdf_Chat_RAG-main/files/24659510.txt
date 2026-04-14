@@ -1,0 +1,18 @@
+24659510
+BACKGROUND	Screening to prevent sudden cardiac death remains a contentious topic in sport and exercise medicine .
+BACKGROUND	The aim of this study was to assess whether the use of a standardised criteria tool improves the accuracy of ECG interpretation by physicians screening athletes .
+METHODS	Design : Randomised control trial .
+METHODS	Study Population : General practitioners with an interest in sports medicine , sports physicians , sports medicine registrars and cardiologists from Australia and New Zealand were eligible to participate .
+METHODS	Outcome Measures : Accuracy , sensitivity , specificity and false-positive rates of screening ECG interpretation of athletes .
+METHODS	Intervention : A two-page standardised ECG criteria tool was provided to intervention participants .
+METHODS	Control participants undertook ` usual ' interpretation .
+RESULTS	62 physicians , with a mean duration of practice of 16years , were randomised to intervention and control .
+RESULTS	10 baseline and 30 postrandomisation athlete ECGs were interpreted by the participants .
+RESULTS	Intervention participants were more likely to be correct : OR 1.72 ( 95 % CI 1.31 to 2.27 , p < 0.001 ) .
+RESULTS	Correct ECG interpretation was higher in the intervention group , 88.4 % ( 95 % CI 85.7 % to 91.2 % ) , than in the control group , 82.2 % ( 95 % CI 78.8 % to 85.5 % ; p = 0.005 ) .
+RESULTS	Sensitivity was 95 % in the intervention group and 92 % in the control group ( p = 0.4 ) , with specificity of 86 % and 78 % , respectively ( p = 0.006 ) .
+RESULTS	There were 36 % fewer false positives in the intervention group ( p = 0.006 ) .
+CONCLUSIONS	ECG interpretation in athletes can be improved by using a standardised ECG criteria tool .
+CONCLUSIONS	Use of the tool results in lower false-positive rates ; this may have implications for screening recommendations .
+BACKGROUND	ACTRN12612000641897 .
+

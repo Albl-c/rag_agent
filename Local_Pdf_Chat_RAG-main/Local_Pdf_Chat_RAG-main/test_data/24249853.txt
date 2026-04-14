@@ -1,0 +1,9 @@
+24249853
+OBJECTIVE	To determine whether a college of pharmacy curriculum creates a sense of self-efficacy among students with respect to providing medication therapy management ( MTM ) services .
+METHODS	An electronic survey instrument was sent to all pharmacy students to elicit information on their perceived confidence in providing MTM services , and the results were reviewed .
+RESULTS	Of the 1,160 students targeted , 464 ( 40 % ) completed the survey instrument .
+RESULTS	Responses indicated that overall self-efficacy increased with each successive year of the curriculum that students completed .
+RESULTS	Fourth-year students completing an advanced pharmacy practice experience ( APPE ) in medication therapy management ( MTM ) had significantly higher self-efficacy than did other fourth-year students , whose self-efficacy was similar to that of third-year students .
+RESULTS	conclusion : In this study population , students ' self-efficacy increased with each successive year in pharmacy school , with those who completed an APPE in MTM exhibiting the highest level of self-efficacy .
+RESULTS	These students may be more likely to pursue MTM opportunities in future careers .
+

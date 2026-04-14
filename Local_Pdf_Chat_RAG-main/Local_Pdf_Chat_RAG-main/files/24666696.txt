@@ -1,0 +1,12 @@
+24666696
+BACKGROUND	Inhalation of capsaicin , the extract of hot chili peppers , induces coughing in both animals and human subjects through activation of transient receptor potential vanilloid 1 ( TRPV1 ) on airway sensory nerves .
+BACKGROUND	Therefore the TRPV1 receptor is an attractive target for the development of antitussive agents .
+OBJECTIVE	We sought to assess the antitussive effect of TRPV1 antagonism in patients with refractory chronic cough .
+METHODS	Twenty-one subjects with refractory chronic cough ( > 8 weeks ) attending a specialist clinic were recruited to a randomized , double-blind , placebo-controlled crossover trial assessing a TRPV1 antagonist ( SB-705498 ) .
+METHODS	Cough reflex sensitivity to capsaicin ( concentration of capsaicin inducing at least 5 coughs ) and 24-hour cough frequency were coprimary end points assessed after a single dose of SB-705498 ( 600 mg ) and matched placebo .
+METHODS	Cough severity and urge to cough were reported on visual analog scales , and cough-specific quality of life data were also collected .
+RESULTS	Treatment with SB-705498 produced a significant improvement in cough reflex sensitivity to capsaicin at 2 hours and a borderline significant improvement at 24 hours compared with placebo ( adjusted mean difference of +1.3 doubling doses at 2 hours [ 95 % CI , +0.3 to +2.2 ; P = .0049 ] and +0.7 doubling doses at 24 hours [ 95 % CI , +0.0 to +1.5 ; P = .0259 ] ) .
+RESULTS	However , 24-hour objective cough frequency was not improved compared with placebo .
+RESULTS	Patient-reported cough severity , urge to cough , and cough-specific quality of life similarly suggested no effect of SB-705498 .
+CONCLUSIONS	This study raises important questions about both the role of TRVP1-mediated mechanisms in patients with refractory chronic cough and also the predictive value of capsaicin challenge testing in the assessment of novel antitussive agents .
+

@@ -1,0 +1,23 @@
+25230595
+BACKGROUND	Most patients with extensive stage small-cell lung cancer ( ES-SCLC ) who undergo chemotherapy , and prophylactic cranial irradiation , have persistent intrathoracic disease .
+BACKGROUND	We assessed thoracic radiotherapy for treatment of this patient group .
+METHODS	We did this phase 3 randomised controlled trial at 42 hospitals : 16 in Netherlands , 22 in the UK , three in Norway , and one in Belgium .
+METHODS	We enrolled patients with WHO performance score 0-2 and confirmed ES-SCLC who responded to chemotherapy .
+METHODS	They were randomly assigned ( 1:1 ) to receive either thoracic radiotherapy ( 30 Gy in ten fractions ) or no thoracic radiotherapy .
+METHODS	All underwent prophylactic cranial irradiation .
+METHODS	The primary endpoint was overall survival at 1 year in the intention-to-treat population .
+METHODS	Secondary endpoints included progression-free survival .
+METHODS	This study is registered with the Nederlands Trial Register , number NTR1527 .
+RESULTS	We randomly assigned 498 patients between Feb 18 , 2009 , and Dec 21 , 2012 .
+RESULTS	Three withdrew informed consent , leaving 247 patients in the thoracic radiotherapy group and 248 in the control group .
+RESULTS	Mean interval between diagnosis and randomisation was 17 weeks .
+RESULTS	Median follow-up was 24 months .
+RESULTS	Overall survival at 1 year was not significantly different between groups : 33 % ( 95 % CI 27-39 ) for the thoracic radiotherapy group versus 28 % ( 95 % CI 22-34 ) for the control group ( hazard ratio [ HR ] 0.84 , 95 % CI 0.69-1 .01 ; p = 0.066 ) .
+RESULTS	However , in a secondary analysis , 2-year overall survival was 13 % ( 95 % CI 9-19 ) versus 3 % ( 95 % CI 2-8 ; p = 0.004 ) .
+RESULTS	Progression was less likely in the thoracic radiotherapy group than in the control group ( HR 0.73 , 95 % CI 0.61-0 .87 ; p = 0.001 ) .
+RESULTS	At 6 months , progression-free survival was 24 % ( 95 % CI 19-30 ) versus 7 % ( 95 % CI 4-11 ; p = 0.001 ) .
+RESULTS	We recorded no severe toxic effects .
+RESULTS	The most common grade 3 or higher toxic effects were fatigue ( 11 vs 9 ) and dyspnoea ( three vs four ) .
+CONCLUSIONS	Thoracic radiotherapy in addition to prophylactic cranial irradiation should be considered for all patients with ES-SCLC who respond to chemotherapy .
+BACKGROUND	Dutch Cancer Society ( CKTO ) , Dutch Lung Cancer Research Group , Cancer Research UK , Manchester Academic Health Science Centre Trials Coordination Unit , and the UK National Cancer Research Network .
+

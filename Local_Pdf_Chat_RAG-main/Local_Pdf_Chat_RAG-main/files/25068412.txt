@@ -1,0 +1,11 @@
+25068412
+OBJECTIVE	Appropriate pain management may positively affect outcome following hip fractures .
+OBJECTIVE	Positioning patients for spinal anesthesia ( SA ) can be extremely painful .
+OBJECTIVE	Peripheral nerve blockades are gaining popularity in this setting .
+OBJECTIVE	This prospective , randomized study compares the efficacy of fascia iliaca compartment block ( FICB ) to intravenous ( IV ) fentanyl for positioning hip fracture patients for SA .
+METHODS	Forty-one patients scheduled for hip fracture surgery were randomized to receive a bolus dose of IV fentanyl ( IVFE ) 1.5 g/kg ( IVFE group ) or an FICB using 40 mL ropivacaine 0.5 % ( FICB group ) 5 or 20 minutes before positioning for SA , respectively .
+METHODS	Numeric rating pain scale scores before and following the analgesic intervention , time needed and quality of patient position for SA performance , postoperative analgesia in terms of time to first IV morphine dose demand and morphine consumption during the first 24 hours , and patient satisfaction were documented .
+RESULTS	Compared with the IVFE group , the FICB group showed significantly lower numeric rating pain scale scores in all instances following the analgesic intervention ( P < 0.001 ) , shorter spinal performance time ( P = 0.001 ) , and better quality of position ( P = 0.001 ) .
+RESULTS	Postoperative morphine consumption was lower ( P = 0.026 ) , the time to first dose demand was longer ( P = 0.001 ) , and patient satisfaction rates were higher ( P < 0.001 ) in the FICB group .
+CONCLUSIONS	Performing an FICB before positioning for SA provides superior pain management compared with IVFE administration , facilitates spinal performance , and yields satisfactory postoperative analgesia and wide patient acceptance , hence improving overall quality and efficiency of care .
+

@@ -1,0 +1,10 @@
+25436350
+OBJECTIVE	The aim of this study was to comparatively examine the convenience of use of the QUEST and GerdQ questionnaires as self-administered diagnostic instruments .
+METHODS	This was a two-way crossover study conducted from December 2011 to April 2012 .
+METHODS	The subjects were 70 third-year nursing students of Yokohama Soei University in Yokohama , Japan .
+METHODS	They were randomly assigned to fill in either of the study questionnaires first , and then the other on a later .
+RESULTS	A significant difference was observed in the questionnaire completion time between the QUEST and GerdQ questionnaires ( 125.5 vs. 44 seconds , P < 0.0001 ) and also in the number of subjects asking questions while completing the questionnaires ( 26 vs. 1 subject , respectively : P < 0.0001 ) .
+RESULTS	To detect GERD based on a QUEST score of 4 , ROC analysis revealed an area under the curve for the GerdQ score of 0.616 .
+RESULTS	The optimal cutoff value of the GerdQ score was 6 , and the sensitivity and specificity calculated using this cutoff value were 0.842 and 0.312 , respectively .
+CONCLUSIONS	This study revealed that Japanese subjects may find it easier to complete the GerdQ than the QUEST questionnaire .
+

@@ -1,0 +1,16 @@
+25118091
+BACKGROUND	Case conferences for people with dementia and challenging behaviors ( e.g. , apathy ) are recommended as useful tools that enable staff in nursing homes to understand the behavior of people with this type of disease .
+BACKGROUND	Understanding peoples ' behaviors is the basis for the initiation of targeted interventions to improve the quality of care for people with dementia .
+BACKGROUND	Furthermore , case conferences demonstrate positive effects on burnout , dementia-specific burden , and vocational action competence of the staff .
+BACKGROUND	The two likely approaches for conducting case conferences include the following : A ) using a structured assessment instrument , which guides the staff in understanding the residents ' behaviors and B ) using a narrative approach in which the staff must identify the reasons for the residents ' behaviors in an unstructured manner .
+BACKGROUND	Case conferences are a complex intervention , and evaluating their multiple effects is challenging .
+BACKGROUND	The aim of this study protocol was to describe a likely solution for evaluating this type of complex intervention using a special cluster randomized trial .
+METHODS	In this stepped-wedged cluster randomized trial , the two interventions will be sequentially implemented every three months in a group of 12 nursing homes ( clusters ) with a minimum of 360 residents over 19months ( 7months of intervention for each cluster and follow-up ) .
+METHODS	The primary outcome is the reduction of challenging behavior ( measured with the neuropsychiatric inventory-nursing home version [ NPI-NH ] ) .
+METHODS	Secondary outcomes are residents ' quality of life , prescription of psychotropic medications , staff burnout , dementia-related stress , and vocational action competence .
+METHODS	The effectiveness of the study will be accompanied by a process evaluation .
+METHODS	The primary data will be analyzed using a Bayesian mixed effect model ; the secondary data will be analyzed using descriptive statistics and mixed effects models .
+CONCLUSIONS	The implementation and effect measurement of complex interventions such as case conferences within a cluster randomized trial are challenging ( e.g. , complex and intensive training , delayed treatment effect ) .
+CONCLUSIONS	In this study protocol , the methodological advantages and disadvantages of using the stepped wedge design to answer the research questions are discussed .
+BACKGROUND	http://www.controlled-trials.com/ISRCTN20203855; registered 10 July 2013 .
+

@@ -1,0 +1,29 @@
+24377213
+OBJECTIVE	To compare the difference of the efficacy on knee osteoarthritis ( KOA ) between the combined therapy of acupuncture and moxibustion and western medication , and explore the better therapeutic method for KOA .
+METHODS	One hundred and sixty patients were divided into a combined therapy group and a western medication group , 80 cases in each one according to the visit sequence , with the random number table adopted .
+METHODS	In the combined therapy group , the main points were selected from the local painful sites , combined with the acupoints based on the syndrome differentiation and distal acupoints on the affected meridians .
+METHODS	The lifting , thrusting or rotating technique was used and the reinforcing or reducing manipulation was applied according to the syndrome differentiation .
+METHODS	`` Duanci '' or `` Shuci '' needling technique was used specially at the extra points and Ashi points .
+METHODS	The needling sensation relied on the patients ' tolerance .
+METHODS	After acupuncture , the heat-sensitive moxibustion with pure moxa stick was applied over the local painful sites around knee joint and Shenshu ( BL 23 ) to detect the heat-sensitized points .
+METHODS	Acupuncture and moxibustion were given once every day .
+METHODS	The treatment of 5 days made 1 session .
+METHODS	There were 2 days at the interval between two sessions .
+METHODS	In the western medication group , glucosamine sulfate capsules were prescribed for oral administration , 2 capsules each time , three times a day .
+METHODS	Additionally , the joint cavity injection was combined .
+METHODS	On the first day , sodium hyaluronate 25 mg and triamcinolone acetonide acetate 50 mg were injected .
+METHODS	Afterwards , on the 8th , 15th , 22nd and 29th days , sodium hyaluronate injection 25 mg was used only .
+METHODS	The treatment was for 5 weeks totally in the two groups .
+METHODS	The efficacy was analyzed statistically in 5 weeks .
+METHODS	The follow-up visit was conducted in 3 months and 6 months after 5 weeks treatment , respectively .
+METHODS	The Western Ontario and Mcmaster Universities Osteoarthritis Index ( WOMAC ) and visual analogue scale ( VAS ) were adopted to assess the recovery of joint function .
+RESULTS	The efficacy in 5 weeks of treatment was different significantly between the two groups ( P < 0.05 ) .
+RESULTS	The efficacy in the western medication group was better than that in the combined therapy group .
+RESULTS	The difference in the safety assessment was remarkable ( P < 0.01 ) .
+RESULTS	The result in the combined therapy group was superior remarkably to the western medication group .
+RESULTS	In 3-month follow-up visit after treatment , the knee joint function was not different obviously between the two groups ( P > 0.05 ) .
+RESULTS	In 6-month followup visit after treatment , the knee joint function was different obviously between the two groups ( P < 0.01 ) .
+RESULTS	The result in the combined therapy group was better remarkably than that in the western medication group .
+CONCLUSIONS	The combined therapy of acupuncture and moxibustion achieves the safe and effective therapeutic effect with less adverse reactions in the treatment of KOA .
+CONCLUSIONS	The immediate effect in the combined therapy group is not so obvious as compared with the western medication , but the long-term efficacy is remarkably superior to western medication .
+

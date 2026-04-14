@@ -1,0 +1,20 @@
+24606601
+BACKGROUND	The possibility of living well with a long-term condition has been identified as centrally relevant to the needs of people living with dementia .
+BACKGROUND	Growing numbers of people with early-stage dementia are contributing accounts that emphasise the benefits of actively engaging in managing the condition .
+BACKGROUND	Self-management interventions share the common objectives of educating about the condition , optimising well-being , enhancing control over the situation and enabling people to take more responsibility for managing the condition .
+BACKGROUND	Benefits of such an approach can include improved knowledge , self-efficacy , health status , and better performance of self-management behaviours .
+BACKGROUND	However , there is only preliminary evidence that people with early-stage dementia can benefit from such interventions .
+METHODS	This feasibility study involves the development of a self-management group intervention for people with early-stage Alzheimer 's disease , vascular dementia or mixed Alzheimer 's and vascular dementia .
+METHODS	This study is a single-site pilot randomised-controlled trial .
+METHODS	Forty-two people with early stage dementia , each with a caregiver ( family member/friend ) , will be randomised to either the self-management group intervention or to treatment as usual.The self-management group intervention will involve eight weekly sessions , each lasting 90 minutes , held at a memory clinic in North Wales .
+METHODS	All participants will be re-assessed three and six months post-randomisation .
+METHODS	This study is intended to supply an early evaluation of the self-management intervention so that a full scale trial may be powered from the best available evidence .
+METHODS	It will assess the feasibility of the intervention , the study design and the recruitment strategies .
+METHODS	It will estimate the parameters and confidence intervals for the research questions of interest .
+METHODS	The primary outcome of interest is the self-efficacy score of the person with dementia at three months post-randomisation .
+METHODS	Secondary outcomes for the person with dementia are self-efficacy at six months post-randomisation and cognitive ability , mood and well-being at three and six months post-randomisation .
+METHODS	Secondary outcomes for caregivers are their distress and stress at three and six months post-randomisation .
+METHODS	The cost-effectiveness of the intervention will also be examined .
+CONCLUSIONS	This study will provide preliminary information about the feasibility , efficacy and cost-effectiveness of a self-management group intervention for people in the early stages of dementia .
+BACKGROUND	Current Controlled Trials , ISRCTN02023181 .
+

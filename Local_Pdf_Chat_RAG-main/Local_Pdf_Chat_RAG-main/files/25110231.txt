@@ -1,0 +1,12 @@
+25110231
+BACKGROUND	Functional magnetic resonance imaging ( fMRI ) studies involving alcohol challenge are important for identifying neural correlates of alcohol 's psychopharmacological effects .
+BACKGROUND	However , evaluating acute alcohol effects on blood oxygen level-dependent ( BOLD ) signal change is complicated by alcohol-related increases in cerebral blood flow ( CBF ) .
+OBJECTIVE	The present study aimed to further characterize acute alcohol effects on CBF using intravenous alcohol administration to maximize control over brain alcohol exposure .
+METHODS	Twenty heavy-drinking young adults ( M = 19.95 years old , SD = 0.76 ) completed alcohol and placebo imaging sessions in a within-subject , counter-balanced , placebo-controlled design .
+METHODS	Arterial spin labeling ( ASL ) provided estimates of perfusion change at two target blood alcohol concentrations ( 40 and 80 mg % ) relative to baseline and relative to a saline control infusion .
+RESULTS	Voxel-wise analyses showed widespread and dose-dependent effects of alcohol on CBF increase .
+RESULTS	Region-of-interest analyses confirmed these findings , also indicating regional variation in the magnitude of perfusion change .
+RESULTS	Additional findings indicated that lower self-reported sensitivity to alcohol corresponded with reduced perfusion change during alcohol administration .
+CONCLUSIONS	This study provides further evidence for widespread effects of acute alcohol on cerebral perfusion , also demonstrating regional , dose-dependent , and inter-individual variation .
+CONCLUSIONS	Further research is needed to evaluate implications of these effects for the design and interpretation of pharmacological fMRI studies involving alcohol challenge .
+

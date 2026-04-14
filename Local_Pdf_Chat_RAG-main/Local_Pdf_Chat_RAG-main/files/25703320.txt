@@ -1,0 +1,12 @@
+25703320
+OBJECTIVE	To evaluate the long-term effects of an illicit drug use prevention program for adolescents that integrates life skills into the theory of planned behavior .
+METHODS	We conducted a cluster-randomized trial in which 24 participating schools were randomized to either an intervention group ( 12 schools , n = 1,176 students ) or a control group ( 12schools , n = 915 students ) .
+METHODS	Participants were grade 7 students .
+METHODS	The intervention comprised a main intervention of 10 sessions and two booster interventions .
+METHODS	Booster 1 ( four sessions ) and booster 2 ( two sessions ) were performed at 6months and 12months , respectively , after completion of the main intervention .
+METHODS	Assessments were made at baseline , after the main intervention , and after each booster session using specific questionnaires for measuring participants ' attitudes , subjective norms , perceived behavioral control , and life skills .
+RESULTS	Retention rates were 71.9 % ( 845/1 ,176 ) in the intervention group and 90.7 % ( 830/915 ) in the control group after the 12-month follow-up .
+RESULTS	A significantly lower proportion of intervention group participants reported illicit drug use after the first and second booster sessions compared with control group participants ( .1 % vs. 1.7 % and .2 % vs. 1.7 % , respectively ; both p < .05 ) .
+RESULTS	Attitudes , subjective norms , perceived behavioral control , life skills , and behavioral intention scores of theintervention group were significantly higher than those of control group after the first and second booster sessions ( all p < .001 ) , suggesting that intervention group students tended to avoid drug use .
+CONCLUSIONS	A drug use prevention program integrating life skills into the theory of planned behavior may be effective for reducing illicit drug use and improving planned behavior-related constructs in adolescents .
+

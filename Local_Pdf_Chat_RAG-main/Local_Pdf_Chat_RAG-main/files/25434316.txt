@@ -1,0 +1,18 @@
+25434316
+OBJECTIVE	Inadequate bowel cleaning leads to a suboptimal colonoscopic examination .
+OBJECTIVE	Gum chewing has been reported to have a favorable effect on postoperative bowel functions .
+OBJECTIVE	We conducted this study to establish if gum chewing added to high-dose senna before colonoscopy promotes bowel cleaning .
+METHODS	In this randomized controlled study , consecutive outpatients scheduled for elective colonoscopy were randomized into two groups .
+METHODS	Group 1 patients ( n = 65 ) used senna solution 150 mL ( 300 mg senna ) the night before colonoscopy .
+METHODS	The patients also used sennoside tablet 80 mg daily for 3 days before the colonoscopy .
+METHODS	Patients in group 2 ( n = 64 ) were additionally advised to chew sugarless gum half an hour three-times daily after meals for these 3 days .
+METHODS	The overall quality of colonoscopy cleaning was evaluated using the Aronchick scale by a single endoscopist who was blinded to the intervention .
+METHODS	Difficulty of procedure , patients ' tolerance , and adverse events were also evaluated .
+RESULTS	A total 129 patients were enrolled in the study .
+RESULTS	Superior cleaning was found in gum chewing group when compared with other group particularly in the cecum and ascending colon .
+RESULTS	Cecal intubation time was significantly shorter in the gum-chewing group ( 8.6 5.1 and 7.1 2.8 min , P = 0.03 ) .
+RESULTS	Adverse events were more common in group 1 compared to the gum-chewing group .
+CONCLUSIONS	Gum chewing enhances colonoscopy bowel preparation quality .
+CONCLUSIONS	Moreover , it is a physiologically sound , safe , and an inexpensive part of the colonoscopy bowel preparation .
+CONCLUSIONS	Gum chewing could be advised in addition to high-dose senna containing bowel preparation .
+

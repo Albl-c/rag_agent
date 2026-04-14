@@ -1,0 +1,28 @@
+25422589
+BACKGROUND	Menopause is the stage when the menstrual period permanently stops , and is a part of every woman 's life .
+BACKGROUND	It usually occurs between the ages of 40 and 60 years , and is associated with hormonal , physical , and psychological changes .
+BACKGROUND	Estrogen and progesterone levels play the biggest part in menopause .
+BACKGROUND	In this stage , the ovaries make less estrogen and progesterone .
+BACKGROUND	When the body produces less of these hormones , the parts of the body that depend on estrogen to keep them healthy will react and this often causes discomfort for women .
+BACKGROUND	This study tested the impact of a complementary health approach to quality of life in menopausal women .
+METHODS	A community-based interventional study was conducted in selected areas in Kattankulathur Block , Kanchipuram District , Tamil Nadu , India .
+METHODS	A simple random sampling technique was used to select menopausal women for the study .
+METHODS	Of 260 menopausal women identified , 130 were allocated to a study group and 130 to a control group .
+METHODS	The study group underwent yoga training for 1.5 hours per day on 5 consecutive days .
+METHODS	After the 5-day intensive yoga training program , the menopausal women practiced yoga daily at home for 35-40 minutes a day .
+METHODS	Along with daily yoga practice , they underwent group yoga practice for 2 days a week under the supervision of one of the investigators until 18 weeks .
+METHODS	The yoga training program consisted of Yogasanas , Pranayama ( breathing exercises ) , and meditation .
+METHODS	The standardized World Health Organization QoL BREF scale was used to assess the women 's quality of life .
+METHODS	We distributed an instruction manual on steps of selected yoga practice for the women 's self-reference at home after the 5 days of continuous yoga practice .
+METHODS	A yoga practice diary was used to confirm regular performance of yoga .
+METHODS	The women in the control group did not participate in the yoga program ; however , on completion of the study , these women received intensive yoga training for 5 days .
+RESULTS	There was an extremely high statistically significant difference ( P = 0.001 ) between the study group and the control group with regard to the physical , psychological , social , and environmental domains of quality of life after 6 , 12 , and 18 weeks of yoga therapy .
+RESULTS	The mean gain score was high in all the domains of quality of life in the study group at weeks 6 , 12 , and 18 .
+RESULTS	The overall mean gain score in the study group was 31.58 versus 1.61 in the control group .
+RESULTS	The overall mean gain score difference was 29.97 in all domains of quality of life between the study group and the control group .
+RESULTS	In the study group , the physical , psychological , social , and environmental domains of quality of life were greatly improved by practicing yoga for 18 weeks .
+RESULTS	No adverse events were reported by the women after yoga practice .
+CONCLUSIONS	Quality of life in menopausal women was greatly improved after 18 weeks of yoga practice .
+CONCLUSIONS	Women who regularly practice yoga find that they are able to enjoy menopause and experience the freedom , liberation , and energy that it brings .
+CONCLUSIONS	We conclude that yoga is an effective complementary health approach for improving quality of life in menopausal women .
+

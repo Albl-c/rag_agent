@@ -1,0 +1,24 @@
+25540891
+BACKGROUND	Ebola virus and Marburg virus cause serious disease outbreaks with high case fatality rates .
+BACKGROUND	We aimed to assess the safety and immunogenicity of two investigational DNA vaccines , one ( EBO vaccine ) encoding Ebola virus Zaire and Sudan glycoproteins and one ( MAR ) encoding Marburg virus glycoprotein .
+METHODS	RV 247 was a phase 1b , double-blinded , randomised , placebo-controlled clinical trial in Kampala , Uganda to examine the safety and immunogenicity of the EBO and MAR vaccines given individually and concomitantly .
+METHODS	Healthy adult volunteers aged 18-50 years were randomly assigned ( 5:1 ) to receive three injections of vaccine or placebo at weeks 0 , 4 , and 8 , with vaccine allocations divided equally between three active vaccine groups : EBO vaccine only , MAR vaccine only , and both vaccines .
+METHODS	The primary study objective was to investigate the safety and tolerability of the vaccines , as assessed by local and systemic reactogenicity and adverse events .
+METHODS	We also assessed immunogenicity on the basis of antibody responses ( ELISA ) and T-cell responses ( ELISpot and intracellular cytokine staining assays ) 4 weeks after the third injection .
+METHODS	Participants and investigators were masked to group assignment .
+METHODS	Analysis was based on the intention-to-treat principle .
+METHODS	This trial is registered at ClinicalTrials.gov , number NCT00997607 .
+RESULTS	108 participants were enrolled into the study between Nov 2 , 2009 , and April 15 , 2010 .
+RESULTS	All 108 participants received at least one study injection ( including 100 who completed the injection schedule ) and were included in safety and tolerability analyses ; 107 for whom data were available were included in the immunogenicity analyses .
+RESULTS	Study injections were well tolerated , with no significant differences in local or systemic reactions between groups .
+RESULTS	The vaccines elicited antibody and T-cell responses specific to the glycoproteins received and we detected no differences between the separate and concomitant use of the two vaccines .
+RESULTS	17 of 30 ( 57 % , 95 % CI 37-75 ) participants in the EBO vaccine group had an antibody response to the Ebola Zaire glycoprotein , as did 14 of 30 ( 47 % , 28-66 ) in the group that received both vaccines .
+RESULTS	15 of 30 ( 50 % , 31-69 ) participants in the EBO vaccine group had an antibody response to the Ebola Sudan glycoprotein , as did 15 of 30 ( 50 % , 31-69 ) in the group that received both vaccines .
+RESULTS	Nine of 29 ( 31 % , 15-51 ) participants in the MAR vaccine groups had an antibody response to the Marburg glycoprotein , as did seven of 30 ( 23 % , 10-42 ) in the group that received both vaccines .
+RESULTS	19 of 30 ( 63 % , 44-80 ) participants in the EBO vaccine group had a T-cell response to the Ebola Zaire glycoprotein , as did 10 of 30 ( 33 % , 17-53 ) in the group that received both vaccines .
+RESULTS	13 of 30 ( 43 % , 25-63 ) participants in the EBO vaccine group had a T-cell response to the Ebola Sudan glycoprotein , as did 10 of 30 ( 33 % , 17-53 ) in the group that received both vaccines .
+RESULTS	15 of 29 ( 52 % , 33-71 ) participants in the MAR vaccine group had a T-cell response to the Marburg glycoprotein , as did 13 of 30 ( 43 % , 25-63 ) in the group that received both vaccines .
+CONCLUSIONS	This study is the first Ebola or Marburg vaccine trial done in Africa , and the results show that , given separately or together , both vaccines were well tolerated and elicited antigen-specific humoral and cellular immune responses .
+CONCLUSIONS	These findings have contributed to the accelerated development of more potent Ebola virus vaccines that encode the same wild-type glycoprotein antigens as the EBO vaccine , which are being assessed during the 2014 Ebola virus disease outbreak in west Africa .
+BACKGROUND	US Department of Defense Infectious Disease Clinical Research Program and US National Institutes of Health Intramural Research Program .
+

@@ -1,0 +1,18 @@
+24853314
+BACKGROUND	Rectus sheath block can provide analgesia following umbilical hernia repair .
+BACKGROUND	However , conflicting reports on its analgesic effectiveness exist .
+BACKGROUND	No study has investigated plasma local anesthetic concentration following ultrasound-guided rectus sheath block ( USGRSB ) in children .
+OBJECTIVE	Compare the effectiveness and bupivacaine absorption following USGRSB or wound infiltration ( WI ) for umbilical hernia repair in children .
+METHODS	A randomized blinded study comparing WI with USGRSB in 40 children undergoing umbilical hernia repair was performed .
+METHODS	Group WI ( n = 20 ) received wound infiltration 1 mgkg ( -1 ) 0.25 % bupivacaine .
+METHODS	Group RS ( n = 20 ) received USGRSB 0.5 mgkg ( -1 ) 0.25 % bupivacaine per side in the posterior rectus sheath compartment .
+METHODS	Pain scores and rescue analgesia were recorded .
+METHODS	Blood samples were drawn at 0 , 10 , 20 , 30 , 45 , and 60 min .
+RESULTS	Patients in the WI group had a twofold increased risk of requiring morphine ( hazard ratio 2.06 , 95 % CI 1.01 , 4.20 , P = 0.05 ) .
+RESULTS	When required , median time to first morphine dose was longer in the USGRSB group ( 65.5 min vs. 47.5 min , P = 0.049 ) .
+RESULTS	Peak plasma bupivacaine concentration was higher following USGRSB than WI ( median : 631.9 ngml ( -1 ) IQR : 553.9-784 .1 vs. 389.7 ngml ( -1 ) IQR : 250.5-502 .7 , P = 0.002 ) .
+RESULTS	Tmax was longer in the USGRSB group ( median 45 min IQR : 30-60 vs. 20 min IQR : 20-45 , P = 0.006 ) .
+CONCLUSIONS	USGRSB provides more effective analgesia than WI for umbilical hernia repair .
+CONCLUSIONS	USGRSB with 1 mgkg ( -1 ) 0.25 % bupivacaine is associated with safe plasma bupivacaine concentration that peaks higher and later than WI .
+CONCLUSIONS	Caution against using larger volumes of higher concentration local anesthetic for USGRSB is advised .
+

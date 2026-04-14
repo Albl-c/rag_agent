@@ -1,0 +1,14 @@
+25260762
+BACKGROUND	Recruitment is a challenge in developing population-representative pregnancy and birth cohorts .
+METHODS	We developed a collaborative recruitment infrastructure ( CRI ) to recruit pregnant women for 4 pregnancy cohorts using : faxes from obstetrical offices , in-clinic recruiters , university and funder-driven free-media events , paid-media , and attendance at relevant tradeshows .
+METHODS	Recruitment rates and demographic differences were compared between recruitment methods .
+RESULTS	We received 5008 referrals over 40 months .
+RESULTS	Compared to fax , free-media referrals were 13 times more likely to be recruited ( OR 13.0 , 95 % CI 4.2 , 40.4 : p < 0.001 ) and paid-media referrals were 4 times more likely to be recruited ( OR 4.6 , 95 % CI 2.1 , 10.3 : p < 0.001 ) .
+RESULTS	Among paid-media advertisements , free-to-read print ( e.g. Metro ) was the most effective ( OR 3.3 , 95 % CI 2.3 , 4.5 : p < 0.05 ) .
+RESULTS	Several demographic differences were identified between recruitment methods and against a reference population .
+RESULTS	Between recruitment methods , media recruits had a similar proportion families with incomes $ 40,000 ( paid-media : 94.4 % ; free-media : 93.3 % ) compared to fax recruits ( 95.7 % ) , while in-clinic recruits were less likely to have family incomes $ 40,000 ( 88.8 % , p < 0.05 ) .
+RESULTS	Maternal recruits from fax and in-clinic were more likely to attend university ( Fax : 92.6 % , in-clinic 89.8 % ) versus the reference population ( 52.0 % ; p < 0.05 for both ) and both were less likely to smoke ( Fax : 6.8 % , in-clinic 4.2 % ) versus reference ( 18.6 % ; p < 0.05 for both ) .
+RESULTS	However , while fax referrals were more likely to be Caucasian ( 85.9 % versus reference 77.5 % ; p < 0.05 ) , in-clinic referrals were not significantly different ( 78.2 % ; P > 0.05 ) .
+CONCLUSIONS	Recruitment methods result in different recruitment rates and participant demographics .
+CONCLUSIONS	A variety of methods are required to recruit a generalizable sample .
+

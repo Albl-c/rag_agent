@@ -1,0 +1,10 @@
+25301035
+OBJECTIVE	Impaired arterial function has been implicated in diabetes-related atherosclerosis , but its determinants in high-risk adults have not been well characterised .
+OBJECTIVE	We investigated factors associated with impaired arterial function in adults with type 2 diabetes .
+METHODS	Flow-mediated dilatation ( a marker of endothelial function ) and dilator response to glyceryl trinitrate ( to assess smooth muscle function ) of the brachial artery were assessed at baseline in 193 patients with type 2 diabetes from the Fenofibrate Intervention and Event Lowering in Diabetes ( FIELD ) study .
+METHODS	Traditional risk factors were assessed and a multivariable model was constructed to identify factors independently associated with impaired arterial function .
+RESULTS	Median age was 64 years ( interquartile range , 58-69 ; 61 % male ) and duration of diabetes was 4 years ( interquartile range , 2-9 ) .
+RESULTS	Flow-mediated dilatation ( 3.06 0.25 % , mean SEM ) was severely impaired but not significantly associated with other risk factors .
+RESULTS	Dilator responses to glyceryl trinitrate ( 10.56 0.52 % ) were significantly and independently impaired in past and present cigarette smokers ( P = 0.005 ) and in subjects with increased urinary albumin/creatinine ratio ( P = 0.01 ) .
+CONCLUSIONS	In adults with type 2 diabetes and known or suspected atherosclerosis , arterial smooth muscle-dependent dilatation was shown to be significantly impaired in cigarette smokers and those with elevated urinary albumin levels .
+

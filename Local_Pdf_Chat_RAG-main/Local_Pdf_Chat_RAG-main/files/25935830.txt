@@ -1,0 +1,19 @@
+25935830
+BACKGROUND	Cardiovascular disease and cancer are leading causes of mortality for people with a history of alcohol or other substance use disorders .
+BACKGROUND	These chronic diseases share the same four primary behavioural risk factors i.e. excessive alcohol use , smoking , low intake of fruit and vegetables and physical inactivity .
+BACKGROUND	In addition to addressing problematic alcohol use , there is the potential for substance abuse treatment services to also address these other behaviours .
+BACKGROUND	Healthy Recovery is an 8-session group-based intervention that targets these multiple behavioural health risk factors and was developed specifically for people attending substance abuse treatment .
+BACKGROUND	This protocol describes a Cancer Institute NSW funded study that assesses the effectiveness of delivering Healthy Recovery for people who are attending residential alcohol and other substance abuse treatment .
+METHODS	The study uses a stepped wedge randomised controlled design , where randomisation occurs at the service level .
+METHODS	Participants will be recruited from residential rehabilitation programs provided by The Australian Salvation Army .
+METHODS	All participants who ( 1 ) currently smoke tobacco and ( 2 ) are expected to be in the residential program for the duration of the 5-week intervention will be asked to participate in the study .
+METHODS	Those participants residing at the facilities assigned to the treatment condition will complete Healthy Recovery .
+METHODS	The intervention is manual guided and will be delivered over a 5-week period , with participants attending 8 group sessions .
+METHODS	All participants will continue to complete The Salvation Army residential program , a predominantly 12-step based , modified therapeutic community .
+METHODS	Participants in the control condition will complete treatment as usual .
+METHODS	Research staff blind to treatment allocation will complete the primary and secondary outcome assessments at baseline and then at weeks 8 , 20 and 32 weeks post intervention .
+CONCLUSIONS	This study will provide comprehensive data on the effect of delivering a healthy lifestyle intervention ( i.e. Healthy Recovery ) within a residential substance abuse setting .
+CONCLUSIONS	If shown to be effective , this intervention can be disseminated within other residential substance abuse programs .
+BACKGROUND	Australian and New Zealand Clinical Trials Register ( ANZCTR ) : ACTRN12615000165583 .
+BACKGROUND	Registered 19 ( th ) February 2015 .
+

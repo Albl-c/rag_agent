@@ -1,0 +1,17 @@
+24449733
+OBJECTIVE	Transesophageal echocardiography has become a standard tool for evaluating left ventricular function during cardiac surgery .
+OBJECTIVE	However , the image quality varies widely between patients and examinations .
+OBJECTIVE	The aim of this study was to investigate the influence of the image quality on 5 commonly used 2-dimensional methods .
+METHODS	Transesophageal real-time 3-dimensional echocardiography ( 3DE ) served as a reference .
+METHODS	Left ventricular function was evaluated in 63 patients with sufficient real-time 3DE image quality .
+METHODS	The image quality was rated using the ratio of the visualized border divided by the total endocardial border .
+METHODS	These ratings were used to generate groups of poor ( 0 % -40 % ) , fair ( 41 % -70 % ) , and good ( 71 % -100 % ) image quality .
+METHODS	The ejection fraction ( EF ) , end-diastolic volume , and end-systolic volume were analyzed by the Simpson method of disks ( biplane and monoplane ) , eyeball method , Teichholz method , and speckle-tracking method .
+METHODS	Furthermore , the fractional area change was determined .
+METHODS	Each correlation with real-time 3DE was evaluated .
+RESULTS	Correlations of the EF and volumes , respectively , as determined by long-axis view methods increased with improving image quality : the Simpson biplane method was found to be the most accurate method , with good image quality for the EF ( r = 0.946 ) and volumes ( end-diastolic volume , r = 0.962 ; end-systolic volume , r = 0.989 ) .
+RESULTS	Correlations of the EF and fractional area change by short-axis view methods decreased with improving image quality , with the Teichholz EF found to be most accurate with poor ( r = 0.928 ) in contrast to good ( r = 0.699 ) image quality .
+CONCLUSIONS	With good image quality , the Simpson biplane method is the most accurate 2-dimensional method for assessing the left ventricular EF .
+CONCLUSIONS	Short-axis view methods , especially the Teichholz method yield better correlations with poor image quality .
+CONCLUSIONS	The eyeball method was unaffected by image quality .
+

@@ -1,0 +1,11 @@
+25095886
+BACKGROUND	The quality of evidence for invasive revascularization in intermittent claudication is low or very low .
+BACKGROUND	This prospective , randomized , controlled study tested the hypothesis that an invasive treatment strategy versus continued noninvasive treatment improves health-related quality of life after 1 year in unselected patients with intermittent claudication .
+RESULTS	After clinical and duplex ultrasound assessment , unselected patients with intermittent claudication requesting treatment for claudication were randomly assigned to invasive ( n = 79 ) or noninvasive ( n = 79 ) treatment groups .
+RESULTS	Primary end point was health-related quality of life after 1 year , assessed with Medical Outcomes Study Short Form 36 version 1 and Vascular Quality of Life Questionnaire , and secondary end points included walking distances on a graded treadmill .
+RESULTS	The Medical Outcomes Study Short Form 36 version 1 physical component summary ( P < 0.001 ) and 2 Medical Outcomes Study Short Form 36 version 1 physical subscales improved significantly more in the invasive versus the noninvasive treatment group .
+RESULTS	Overall , Vascular Quality of Life Questionnaire score ( P < 0.01 ) and 3 of 5 domain scores improved significantly more in the invasive versus the noninvasive treatment group .
+RESULTS	Intermittent claudication distance improved significantly in the invasive ( +124 m ) versus the noninvasive ( +50 m ) group ( P = 0.003 ) , whereas the change in maximum walking distance was not significantly different between groups .
+CONCLUSIONS	An invasive treatment strategy improves health-related quality of life and intermittent claudication distance after 1 year in patients with stable lifestyle-limiting claudication receiving current medical management .
+CONCLUSIONS	Long-term follow-up data and health-economic assessments are warranted to further establish the role for revascularization in intermittent claudication .
+

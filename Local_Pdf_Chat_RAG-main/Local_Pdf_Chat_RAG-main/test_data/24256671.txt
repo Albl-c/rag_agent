@@ -1,0 +1,16 @@
+24256671
+BACKGROUND	Platelet transfusion is increasingly used in patients with traumatic intracranial hemorrhage ( ICH ) on aspirin therapy to minimize the progression of ICH .
+BACKGROUND	We hypothesized ( null ) that platelet transfusion in this cohort of patients does not improve platelet function .
+METHODS	We performed a prospective interventional trail on patients with traumatic ICH on daily high-dose ( 325 mg ) aspirin therapy .
+METHODS	All patients received one pack of apheresis platelets .
+METHODS	Blood samples were collected before and 1 hour after platelet transfusion .
+METHODS	Platelet function was assessed using Verify Now Platelet Function Assay , and a cutoff of greater than 550 aspirin reaction units was used to define functioning platelets ( FP ) .
+RESULTS	Twenty-eight patients were enrolled in the study .
+RESULTS	On presentation , 79 % ( 22 of 28 ) of the patients had nonfunctioning platelets ( NFPs ) , and transfusion of platelets did not improve platelet function as 81 % ( 18 of 22 ) still had NFP .
+RESULTS	Of the 22 patients , 4 converted from NFP to FP after transfusion .
+RESULTS	There was no difference in the progression of ICH ( 37.5 % vs. 30 % , p = 0.7 ) or neurosurgical intervention ( 12.5 % vs. 15 % , p = 0.86 ) between patients with FP and NFP after platelet transfusion .
+CONCLUSIONS	Administration of one pack of apheresis platelet did not improve platelet function .
+CONCLUSIONS	In our study , progression of ICH and the need for neurosurgical intervention were independent of platelet function .
+CONCLUSIONS	Further randomized clinical trials are required to assess both the dose dependence effect and role of platelet transfusion in patients on antiplatelet therapy with traumatic ICH .
+METHODS	Therapeutic study , level III .
+

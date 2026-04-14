@@ -1,0 +1,15 @@
+25226476
+OBJECTIVE	Antenatal magnesium sulfate given to pregnant women at imminent risk of very preterm delivery reduces the risk of cerebral palsy in early childhood , although its effects into school age have not been reported from randomized trials .
+OBJECTIVE	To determine the association between exposure to antenatal magnesium sulfate and neurological , cognitive , academic , and behavioral outcomes at school age .
+METHODS	The ACTOMgSO4 was a randomized clinical trial conducted in 16 centers in Australia and New Zealand , comparing magnesium sulfate with placebo given to pregnant women ( n = 535 magnesium ; n = 527 placebo ) for whom imminent birth was planned or expected before 30 weeks ' gestation .
+METHODS	Children who survived from the 14 centers who participated in the school-age follow-up ( n = 443 magnesium ; n = 424 placebo ) were invited for an assessment at 6 to 11 years of age between 2005 and 2011 .
+METHODS	Mortality , cerebral palsy , motor function , IQ , basic academic skills , attention and executive function , behavior , growth , and functional outcomes .
+METHODS	Main analyses were imputed for missing data .
+RESULTS	Of the 1255 fetuses known to be alive at randomization , the mortality rate to school age was 14 % ( 88/629 ) in the magnesium sulfate group and 18 % ( 110/626 ) in the placebo group ( risk ratio [ RR ] , 0.80 ; 95 % CI , 0.62-1 .03 , P = .08 ) .
+RESULTS	Of 867 survivors available for follow-up , outcomes at school age ( corrected age 6-11 years ) were determined for 669 ( 77 % ) .
+RESULTS	Comparing the magnesium sulfate and placebo groups revealed no statistically significant difference in proportions with cerebral palsy ( 23/295 [ 8 % ] and 21/314 [ 7 % ] , respectively ; odds ratio [ OR ] , 1.26 ; 95 % CI , 0.84-1 .91 ; P = .27 ) or abnormal motor function ( 80/297 [ 27 % ] and 80/300 [ 27 % ] , respectively ; OR , 1.16 ; 95 % CI , 0.88-1 .52 ; P = .28 ) .
+RESULTS	There was also little difference between groups on any of the cognitive , behavioral , growth , or functional outcomes .
+CONCLUSIONS	Magnesium sulfate given to pregnant women at imminent risk of birth before 30 weeks ' gestation was not associated with neurological , cognitive , behavioral , growth , or functional outcomes in their children at school age , although a mortality advantage can not be excluded .
+CONCLUSIONS	The lack of long-term benefit requires confirmation in additional studies .
+BACKGROUND	anzctr.org.au Identifier : ACTRN12606000252516 .
+

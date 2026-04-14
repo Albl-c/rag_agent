@@ -1,0 +1,18 @@
+24556530
+BACKGROUND	The `` m '' in mHealth is often thought of as the ability to receive health information and monitor behaviors on the go .
+BACKGROUND	Little is known about how people actually use mobile vs. traditional access methods and if access method affects engagement and health outcomes .
+METHODS	This study examines the 3-month outcomes of two mobile weight loss interventions ( Pounds Off Digitally ( POD ) and mobile POD ( mPOD ) ) where participants were required to own a mobile device for study entry and received weight loss information via podcast .
+METHODS	Only participants in both studies who were randomized to receive the same theory-based podcast ( TBP ) were used in this analysis .
+METHODS	In POD , 41 participants were randomized to the TBP condition ( 37 to a control not included in this analyses ) .
+METHODS	In mPOD , 49 participants were randomized to the TBP ( n = 49 ) and 47 to the TBP + mobile group ( a self-monitoring app and Twitter app for social support ) .
+METHODS	The goal of this study is to examine how participants accessed study components and to examine how type of device impacts engagement and weight loss .
+RESULTS	Examining data from both studies in aggregate , despite a mobile delivery method , 58 % of participants reported using a non-mobile device to access the majority of the podcasts ( desktop computers ) , 76 % accessed the podcasts mostly at their home or work , and 62 % were mainly non-mobile ( e.g. , sitting at work ) when listening .
+RESULTS	Examining objective download data for mPOD , 49 % of downloads ( 2889/5944 ) originated from non-mobile delivery methods vs. mobile platforms ( 3055/5944 ) .
+RESULTS	At 3 months , 55 % of Twitter posts originated from the website ( n = 665 posts ) vs. a mobile app ( n = 540 ; 45 % ) .
+RESULTS	There was no difference in the number of podcasts participants reported listening to by device .
+RESULTS	There were more Twitter posts by mobile app users ( 5111 ) than Twitter website users ( 236 , p < 0.05 ) .
+RESULTS	There was a trend ( p = 0.055 ) in greater weight loss among mobile users for podcasts ( -3.50.5 % ) as compared to non-mobile users ( -2.50.5 % ) .
+RESULTS	Weight loss was significantly greater in Twitter mobile app users ( -5.60.9 % ) than website users ( -2.20.5 % , p < 0.01 ) .
+CONCLUSIONS	Type of device used for podcast listening did not affect engagement but there was a trend toward greater weight loss among mobile users .
+CONCLUSIONS	Method of Twitter posting was associated with engagement and weight loss with mobile app users posting more to Twitter and losing more weight .
+

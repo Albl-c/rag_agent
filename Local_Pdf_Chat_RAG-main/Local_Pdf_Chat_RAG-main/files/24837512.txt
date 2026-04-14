@@ -1,0 +1,17 @@
+24837512
+OBJECTIVE	Aerosol immunization may be a useful tool to reach and sustain the elimination of measles , rubella , and congenital rubella syndrome .
+OBJECTIVE	We compared booster seroresponses to aerosolized or injected MMR vaccines containing different strains of measles ( Attenuvax or Edmonston-Zagreb ) and mumps ( Jeryl-Lynn or Leningrad-Zagreb ) .
+OBJECTIVE	To assess the safety and immunogenicity of two MMR : Vaccines administered by aerosol .
+METHODS	A randomized and controlled clinical trial was conducted to evaluate the safety and booster responses to the MMR SII ( Serum Institute of India ) and MMR II ( Merck Sharp & Dhome ) vaccines , both of which were administered by aerosol ( ae ) or injection ( inj ) to Mexican children aged 6-7 years in elementary schools .
+METHODS	The seroresponses were evaluated by PRN ( measles ) and ELISA ( rubella and mumps ) .
+METHODS	Adverse events were followed-up for 28 days after the immunization .
+RESULTS	Two hundred and fifty-three of 260 children completed the one-month follow-up .
+RESULTS	All participants reached protective seropositivity for measles and rubella after immunization , and 98.3 to 100 % reached protective seropositivity for mumps ( p = 0.552 ) .
+RESULTS	The proportions of the seroresponses ( a 2-fold rise from the baseline antibody titers ) to measles were 38.3 % for MMR SII ( ae ) , 31.3 % for MMR II ( ae ) , 37.5 % for MMR SII ( inj ) , and 44.6 % for MMR II ( inj ) ( p = 0.483 ) .
+RESULTS	The seroresponses for rubella were 26.7 % for MMR SII ( ae ) , 31.3 % for MMR II ( ae ) , 46.9 % for MMR SII ( inj ) , and 40.0 % for MMR II ( inj ) ( p = 0.086 ) .
+RESULTS	The seroresponse to mumps were 31.7 % for MMR SII ( ae ) , 25.0 % for MMR II ( ae ) , 48.4 % for MMR SII ( inj ) , and 53.9 % for MMR II ( inj ) ( p = 0.002 ) .
+RESULTS	The difference in the seroresponse of a 4-fold rise from the baseline antibody titers was not statistically significant .
+RESULTS	Only mild adverse events were noted .
+CONCLUSIONS	Aerosolized vaccines were as safe and as immunogenic as injected vaccines .
+BACKGROUND	CMN 2010-005 ( National Regulatory Authority ) .
+

@@ -1,0 +1,13 @@
+24325778
+BACKGROUND	The importance of functional properties of high-density lipoproteins ( HDL ) for atheroprotection is increasingly recognized .
+BACKGROUND	We determined the impact of lipid-lowering therapy on 3 key HDL functionalities in Type 2 diabetes mellitus ( T2DM ) .
+METHODS	A placebo-controlled , randomized cross-over study ( three 8-week treatment periods with simvastatin ( 40 mg daily ) , bezafibrate ( 400 mg daily ) , alone and in combination ) was carried out in 14 men with T2DM .
+METHODS	Cholesterol efflux was determined using human THP-1 monocyte-derived macrophages , HDL antioxidative capacity was measured as inhibition of low-density lipoprotein oxidation in vitro , and HDL anti-inflammatory capacity was assessed as suppression of thrombin-induced monocyte chemotactic protein 1 expression in human umbilical vein endothelial cells .
+METHODS	Pre -- HDL was assayed using crossed immunoelectrophoresis .
+RESULTS	While cholesterol efflux increased in response to simvastatin , bezafibrate and combination treatment ( +12 to +23 % ; anova , P = 0.001 ) , HDL antioxidative capacity ( P = 0.23 ) and HDL anti-inflammatory capacity ( P = 0.15 ) did not change significantly .
+RESULTS	Averaged changes in cellular cholesterol efflux during active treatment were correlated positively with changes in HDL cholesterol , apoA-I and pre -- HDL ( P < 0.05 to P < 0.001 ) .
+RESULTS	There were no inter-relationships between changes in the three HDL functionalities during treatment ( P > 0.10 ) .
+RESULTS	Changes in HDL antioxidative capacity and anti-inflammatory capacity were also unrelated to changes in HDL cholesterol and apoA-I , while changes in HDL antioxidative capacity were related inversely to pre -- HDL ( P < 0.05 ) .
+CONCLUSIONS	Simvastatin and bezafibrate increase cholesterol efflux , parallel to HDL cholesterol and apoA-I responses .
+CONCLUSIONS	The antioxidative and anti-inflammatory properties of HDL are not to an important extent affected by these therapeutic interventions .
+

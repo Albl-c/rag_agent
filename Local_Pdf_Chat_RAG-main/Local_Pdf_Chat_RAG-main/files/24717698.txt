@@ -1,0 +1,8 @@
+24717698
+OBJECTIVE	The purpose of this study was to evaluate the safety and efficacy of three different intravenous ( IV ) doses of palonosetron compared with placebo for the prevention of postoperative nausea and vomiting ( PONV ) in children undergoing dental rehabilitation under general anesthesia ( DRGA ) in the first 24 hours after discharge .
+METHODS	A total of 286 children who were classified with an American Society of Anesthesiologists physical status of I and II , between three and 13 years old ( mean = 6.13 years old ) , and undergoing DRGA were enrolled in this study .
+METHODS	The children were randomized to receive one of the three doses of palonosetron ( 0.0025 mg , 0.0050 mg , or 0.0075 mg ) or placebo immediately before induction of anesthesia .
+RESULTS	Compared with placebo , the incidence of PONV was significantly lower in the palonosetron groups ( P < .05 ) .
+RESULTS	However , there were no statistically significant differences among the palonosetron groups regarding the number of children with PONV during all time periods after anesthesia ( P < .05 ) .
+CONCLUSIONS	A single 0.0025 mg intravenous dose of palonosetron is recommended for further evaluation , as it appears to be an effective dose for prevention of postoperative nausea and vomiting in children undergoing dental rehabilitation under general anesthesia .
+

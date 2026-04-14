@@ -1,0 +1,13 @@
+25286782
+OBJECTIVE	Administration of many drugs including magnesium sulfate ( MS ) has considerable influences on pregnancy outcomes .
+OBJECTIVE	The present study investigates the effects of MS administration on reaching the active phase of labor in women with premature rupture of membrane ( PROM ) and subsequent fetal complications .
+METHODS	A double blind , randomized , placebo-controlled trial was performed among primipara women referred to the PROM center in Tehran , Iran between March 2010 and August 2012 .
+METHODS	Patients were equally allocated into two groups ; the intervention group who received MS ( n = 46 ) and the control ( placebo ) group ( n = 46 ) .
+METHODS	Both groups received a corticosteroid , 1g oral azithromycin ( oral ) and 2 g ampicillin ( IV ) every 6 hours for 48 hours , followed by amoxicillin ( 500 mg orally 3 times daily ) for an additional 5 days .
+METHODS	None of the research staff were aware of the treatment allocation of patients in order for blinding purposes .
+RESULTS	Administration of MS in intervention group increases this period 2.7 times compared to the control group .
+RESULTS	In women whose gestational age was < 30 weeks , MS administration increased the active phase of labor up to 77 % .
+RESULTS	Administration of magnesium sulfate reduced the risk of respiratory distress syndrome significantly ( p = 0 .002 ) , without producing any adverse pregnancy outcomes .
+CONCLUSIONS	Magnesium sulfate increases delay in reaching the active phase of labor in mothers with PROM , without producing adverse birth outcomes .
+CONCLUSIONS	( Registration ID in IRCT ; IRCT2012091810876N1 ) .
+

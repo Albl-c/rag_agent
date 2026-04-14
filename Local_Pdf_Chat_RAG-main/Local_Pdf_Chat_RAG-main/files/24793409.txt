@@ -1,0 +1,11 @@
+24793409
+OBJECTIVE	In primary care the diagnosis of CHF and ECF accumulation is no triviality .
+OBJECTIVE	We aimed to predict plasma BNP , CHF and ECF accumulation with segmental impedance spectroscopy while using and extending the electrodes of the conventional electrocardiography .
+METHODS	Three combined multiple electrodes were added to the 15 lead ECG for segmental impedance spectroscopy and for measuring the maximal rate of segmental fluid volume change with heart action at the thorax and the legs .
+METHODS	The obtained signals were analyzed by partial correlation analyses in comparison with plasma BNP , CHF classes , ejection fraction by echocardiography and cardiac index by double gas re-breathing .
+METHODS	119 subjects ( 34 healthy volunteers , 50 patients with CHF , NYHA classes II to IV and 35 patients without CHF ) were investigated .
+RESULTS	The maximal rate of volume change with heart action at the thorax and at the legs , as well as the ECF/ICF ratio at the legs contribute equally and independently to the prediction of BNP and heart failure in an unknown test sample of 49 patients ( multiple r = 0.88 , p < 0.001 ) .
+RESULTS	The ROC-curve for the predicted plasma BNP > 400 pg/ml gave an AUC = 0.93 .
+RESULTS	The absence or the presence of heart failure could be predicted correctly by a binomial logistic regression in 92.9 and 87.5 % of cases , respectively .
+CONCLUSIONS	The methodology , which is based on inverse coupling of BNP release and of maximal blood acceleration and on sensitive detection of ECF overload , could enable the diagnosis of CHF with useful sensitivity and specificity while writing a routine-ECG .
+

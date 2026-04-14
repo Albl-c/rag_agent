@@ -1,0 +1,9 @@
+24755132
+OBJECTIVE	To compare the pharmacokinetic profiles and to evaluate the bioequivalence of two commercial amoxicillin suspension formulations ( 500 mg/5 mL AMOXIL , reference formulation and AMOXI-PED , test formulation ) in healthy Brazilian volunteers .
+METHODS	Under fasting condition , 25 volunteers ( 13 males and 12 females ) were included in this randomized , open-label , two-period crossover ( 1-week washout interval ) bioequivalence study .
+METHODS	Blood samples were collected at pre-dose ( 0 hour ) and 0.5 , 1 , 1.33 , 1.66 , 2 , 2.5 , 3 , 4 , 6 , 8 , and 12 hours after drug ingestion .
+METHODS	Pharmacokinetic parameters ( Cmax , tmax , t1/2 , AUC0-tlast , and AUC0 - ) were calculated from plasma concentrations for both formulations in each subject .
+RESULTS	Arithmetic mean values of the pharmacokinetic parameters were : Cmax = 12.004 ( 2.824 ) gmL-1 ; tmax = 1.118 ( 0.396 ) h ; t1/2 = 1.226 ( 0.179 ) h ; AUC0-tlast = 29.297 ( 6.007 ) ghmL-1 ; and AUC0 - = 29.299 ( 6.007 ) ghmL-1 for reference formulation and Cmax = 11.456 ( 2.825 ) gmL-1 ; tmax = 1.331 ( 0.509 ) h ; t1/2 = 1.141 ( 0.133 ) h ; AUC0-tlast = 28.672 ( 5.778 ) ghmL-1 ; and AUC0 - = 28.693 ( 5.796 ) ghmL-1 for test formulation .
+RESULTS	The confidence intervals ( 90 % CI ) for reference and test formulations were , respectively , 90.74 - 100.46 % for Cmax and 93.62 - 103.61 % for AUC0-t .
+CONCLUSIONS	Based on the results , both formulations of amoxicillin evaluated in this study were considered bioequivalent according to FDA and ANVISA/Brazil criteria .
+

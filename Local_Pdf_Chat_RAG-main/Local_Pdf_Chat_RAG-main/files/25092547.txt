@@ -1,0 +1,15 @@
+25092547
+OBJECTIVE	Neurocysticercosis ( NCC ) is a major cause of seizures and epilepsy in endemic countries .
+OBJECTIVE	Antiparasitic treatment of brain cysts leads to seizures due to the host 's inflammatory reaction , requiring concomitant steroids .
+OBJECTIVE	We hypothesized that increased steroid dosing will reduce treatment-associated seizures .
+METHODS	Open-label randomized trial comparing 6 mg/day dexamethasone for 10 days ( conventional ) with 8 mg/day for 28 days followed by a 2-week taper ( enhanced ) in patients with NCC receiving albendazole .
+METHODS	Follow-up included active seizure surveillance and brain imaging .
+METHODS	Study outcomes were seizure days and patients with seizures , both measured in days 11-42 .
+METHODS	Additional analyses compared days 1-10 , 11-21 , 22-32 , 33-42 , 43-60 , and 61-180 .
+RESULTS	Thirty-two individuals were randomized into each study arm ; two did not complete follow-up .
+RESULTS	From days 11 to 42 , 59 partial and 6 generalized seizure days occurred in 20 individuals , nonsignificantly fewer in the enhanced arm ( 12 vs. 49 , p = 0.114 ) .
+RESULTS	The numbers of patients with seizures in this period showed similar nonsignificant differences .
+RESULTS	In the enhanced steroid arm there were significantly fewer days and individuals with seizures during antiparasitic treatment ( days 1-10 : 4 vs. 17 , p = 0.004 , and 1 vs. 10 , p = 0.003 , number needed to treat [ NNT ] 4.6 , relative risk [ RR ] 0.1013 , 95 % confidence interval [ CI ] 0.01-0 .74 ) and early after dexamethasone cessation ( days 11-21 : 6 vs. 27 , p = 0.014 , and 4 vs. 12 , p = 0.021 , NNT 4.0 , RR 0.33 , 95 % CI 0.12-0 .92 ) but not after day 21 .
+RESULTS	There were no significant differences in antiparasitic efficacy or relevant adverse events .
+CONCLUSIONS	Increased dexamethasone dosing results in fewer seizures for the first 21 days during and early after antiparasitic treatment for viable parenchymal NCC but not during the first 11-42 days , which was the primary predetermined time of analysis .
+

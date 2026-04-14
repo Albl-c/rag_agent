@@ -1,0 +1,18 @@
+24299521
+OBJECTIVE	To determine if cats anaesthetised with alfaxalone have different recoveries to cats anaesthetised with a combination of ketamine and diazepam .
+METHODS	Anaesthesia for ovariohysterectomy was induced in cats with either alfaxalone ( n = 23 ) or a combination of ketamine and diazepam ( n = 22 ) .
+METHODS	All cats were premedicated with combinations of acepromazine and morphine .
+METHODS	Recoveries were scored using a categorical grading scheme applied to 18 parameters over 60 minutes following extubation .
+METHODS	The parameters scored covered movement , sensitivity to touch , sound and light , body position , sneezing and vocalisation .
+METHODS	One person scored all recoveries and they were blinded to the induction drug used .
+METHODS	Scores were compared between drugs at different times using the Kruskal-Wallis rank sum test .
+RESULTS	Recovery scores were not normally distributed .
+RESULTS	Analysis of the data using the Kruskal-Wallis rank sum test revealed that cats induced with alfaxalone showed an increase in recovery scores at 5 minutes for pawing at the head ( p = 0.001 ) .
+RESULTS	No parameters differed significantly at 10 and 20 minutes .
+RESULTS	For cats anaesthetised with ketamine and diazepam there was an increase at 30 minutes in pacing , jerky sudden movements , unsettledness and increased sensitivity to touch at the surgical site and on the head ( p0 .01 ) .
+RESULTS	At 60 minutes cats anaesthetised with ketamine and diazepam still showed an increase in unsettledness compared to those cats anaesthetised with alfaxalone ( p = 0.005 ) .
+CONCLUSIONS	The results suggest that recoveries of cats following alfaxalone induction are significantly different to recoveries after induction with ketamine and diazepam .
+CONCLUSIONS	Overall , cats induced with ketamine and diazepam had more active and unsettled recoveries than alfaxalone over the 60-minute period observed .
+CONCLUSIONS	Cats recovering from alfaxalone anaesthesia have more settled recoveries than cats recovering from ketamine and diazepam anaesthesia .
+CONCLUSIONS	If a quiet settled recovery is desired following a surgical procedure , alfaxalone is likely to be a better choice than ketamine and diazepam .
+

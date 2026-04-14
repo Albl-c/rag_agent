@@ -1,0 +1,18 @@
+24886638
+BACKGROUND	Osteoarthritis ( OA ) is a common problem in older women that is associated with pain and disabilities .
+BACKGROUND	Although yoga is recommended as an exercise intervention to manage arthritis , there is limited evidence documenting its effectiveness , with little known about its long term benefits .
+BACKGROUND	This study 's aims were to assess the feasibility and potential efficacy of a Hatha yoga exercise program in managing OA-related symptoms in older women with knee OA .
+METHODS	Eligible participants ( N = 36 ; mean age 72 years ) were randomly assigned to 8-week yoga program involving group and home-based sessions or wait-list control .
+METHODS	The yoga intervention program was developed by a group of yoga experts ( N = 5 ) .
+METHODS	The primary outcome was the Western Ontario and McMaster Universities Osteoarthritis Index ( WOMAC ) total score that measures knee OA pain , stiffness , and function at 8 weeks .
+METHODS	The secondary outcomes , physical function of the lower extremities , body mass index ( BMI ) , quality of sleep ( QOS ) , and quality of life ( QOL ) , were measured using weight , height , the short physical performance battery ( SPPB ) , the Pittsburgh Sleep Quality Index ( PSQI ) , the Cantril Self-Anchoring Ladder , and the SF12v2 Health Survey .
+METHODS	Data were collected at baseline , 4 weeks and 8 weeks , and 20 weeks .
+RESULTS	The recruitment target was met , with study retention at 95 % .
+RESULTS	Based on ANCOVAs , participants in the treatment group exhibited significantly greater improvement in WOMAC pain ( adjusted means [ SE ] ) ( 8.3 [ .67 ] , 5.8 [ .67 ] ; p = .01 ) , stiffness ( 4.7 [ .28 ] , 3.4 [ .28 ] ; p = .002 ) and SPPB ( repeated chair stands ) ( 2.0 [ .23 ] , 2.8 [ .23 ] ; p = .03 ) at 8 weeks .
+RESULTS	Significant treatment and time effects were seen in WOMAC pain ( 7.0 [ .46 ] , 5.4 [ .54 ] ; p = .03 ) , function ( 24.5 [ 1.8 ] , 19.9 [ 1.6 ] ; p = .01 ) and total scores ( 35.4 [ 2.3 ] , 28.6 [ 2.1 ] ; p = .01 ) from 4 to 20 weeks .
+RESULTS	Sleep disturbance was improved but the PSQI total score declined significantly at 20 weeks .
+RESULTS	Changes in BMI and QOL were not significant .
+RESULTS	No yoga related adverse events were observed .
+CONCLUSIONS	A weekly yoga program with home practice is feasible , acceptable , and safe for older women with knee OA , and shows therapeutic benefits .
+BACKGROUND	ClinicalTrials.gov : NCT01832155 .
+

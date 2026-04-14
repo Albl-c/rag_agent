@@ -1,0 +1,12 @@
+24798104
+BACKGROUND	Sympathectomy is currently used as the fourth step of the modified World Health Organization ( WHO ) analgesic ladder .
+BACKGROUND	Sympathectomy can be performed early , before the second step on the ladder .
+OBJECTIVE	We hypothesized that early sympathectomy would reduce pain and opioid consumption and improve quality of life .
+METHODS	One hundred nine patients , with inoperable abdominal or pelvic cancer , reporting visceral pain of 40-70 on a visual analogue scale and taking nonopioid analgesics were allocated randomly into two groups : either blocks were performed before Step 2 of the WHO ladder , then analgesics were managed according to the ladder ( Group I ) or analgesics were given according to the WHO ladder , and blocks were performed as the fourth step after failure of strong opioids to control pain ( Group II ) .
+METHODS	Visual analogue scale scores , responder analysis , daily opioid consumption , related side effects , and quality of life were assessed .
+RESULTS	Responders were significantly higher in Group I ( P < 0.0001 ) , and partial responders and nonresponders significantly increased in Group II ( P < 0.0001 and 0.006 , respectively ) .
+RESULTS	Opioid consumption significantly decreased in Group I ( P < 0.0001 during first 12 months and 0.007 at the last assessment time ) , with concomitant significant reduction in related side effects .
+RESULTS	The number of patients who had a good analgesic response on tramadol significantly increased in Group I during the first five months ( P < 0.05 ) .
+RESULTS	European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-Core 30 global quality-of-life subscale scores revealed significant improvement until the fifth month in Group I ( P < 0.05 ) .
+CONCLUSIONS	Sympathectomy before Step 2 on the WHO analgesic ladder seems to lead to better pain control , less opioid consumption , and better quality of life in cancer patients .
+

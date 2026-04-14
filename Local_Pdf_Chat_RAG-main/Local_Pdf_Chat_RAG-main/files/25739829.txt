@@ -1,0 +1,11 @@
+25739829
+OBJECTIVE	The RITUXVAS trial reported similar remission induction rates and safety between rituximab and cyclophosphamide based regimens for antineutrophil cytoplasm antibody ( ANCA ) - associated vasculitis at 12months ; however , immunosuppression maintenance requirements and longer-term outcomes after rituximab in ANCA-associated renal vasculitis are unknown .
+METHODS	Forty-four patients with newly diagnosed ANCA-associated vasculitis and renal involvement were randomised , 3:1 , to glucocorticoids plus either rituximab ( 375mg/m ( 2 ) / week4 ) with two intravenous cyclophosphamide pulses ( n = 33 , rituximab group ) , or intravenous cyclophosphamide for 3-6months followed by azathioprine ( n = 11 , control group ) .
+RESULTS	The primary end point at 24months was a composite of death , end-stage renal disease and relapse , which occurred in 14/33 in the rituximab group ( 42 % ) and 4/11 in the control group ( 36 % ) ( p = 1.00 ) .
+RESULTS	After remission induction treatment all patients in the rituximab group achieved complete B cell depletion and during subsequent follow-up , 23/33 ( 70 % ) had B cell return .
+RESULTS	Relapses occurred in seven in the rituximab group ( 21 % ) and two in the control group ( 18 % ) ( p = 1.00 ) .
+RESULTS	All relapses in the rituximab group occurred after B cell return .
+CONCLUSIONS	At 24months , rates of the composite outcome of death , end-stage renal disease and relapse did not differ between groups .
+CONCLUSIONS	In the rituximab group , B cell return was associated with relapse .
+BACKGROUND	ISRCTN28528813 .
+

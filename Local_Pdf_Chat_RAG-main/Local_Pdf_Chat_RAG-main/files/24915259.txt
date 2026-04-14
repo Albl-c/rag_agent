@@ -1,0 +1,17 @@
+24915259
+OBJECTIVE	The disease process leading to clinical type 1 diabetes often starts during the first years of life .
+OBJECTIVE	Early exposure to complex dietary proteins may increase the risk of - cell autoimmunity in children at genetic risk for type 1 diabetes .
+OBJECTIVE	Extensively hydrolyzed formulas do not contain intact proteins .
+OBJECTIVE	To test the hypothesis that weaning to an extensively hydrolyzed formula decreases the cumulative incidence of diabetes-associated autoantibodies in young children .
+METHODS	A double-blind randomized clinical trial of 2159 infants with HLA-conferred disease susceptibility and a first-degree relative with type 1 diabetes recruited from May 2002 to January 2007 in 78 study centers in 15 countries ; 1078 were randomized to be weaned to the extensively hydrolyzed casein formula and 1081 were randomized to be weaned to a conventional cows ' milk-based formula .
+METHODS	The participants were observed to April 16 , 2013 .
+METHODS	The participants received either a casein hydrolysate or a conventional cows ' milk formula supplemented with 20 % of the casein hydrolysate .
+RESULTS	AND MEASURES : Primary outcome was positivity for at least 2 diabetes-associated autoantibodies out of 4 analyzed .
+RESULTS	Autoantibodies to insulin , glutamic acid decarboxylase , and the insulinoma-associated-2 ( IA-2 ) molecule were analyzed using radiobinding assays and islet cell antibodies with immunofluorescence during a median observation period of 7.0 years ( mean , 6.3 years ) .
+RESULTS	The absolute risk of positivity for 2 or more islet autoantibodies was 13.4 % among those randomized to the casein hydrolysate formula ( n = 139 ) vs 11.4 % among those randomized to the conventional formula ( n = 117 ) .
+RESULTS	The unadjusted hazard ratio for positivity for 2 or more autoantibodies among those randomized to be weaned to the casein hydrolysate was 1.21 ( 95 % CI , 0.94-1 .54 ) , compared with those randomized to the conventional formula , while the hazard ratio adjusted for HLA risk , duration of breastfeeding , vitamin D use , study formula duration and consumption , and region was 1.23 ( 95 % CI , 0.96-1 .58 ) .
+RESULTS	There were no clinically significant differences in the rate of reported adverse events between the 2 groups .
+CONCLUSIONS	Among infants at risk for type 1 diabetes , the use of a hydrolyzed formula , when compared with a conventional formula , did not reduce the incidence of diabetes-associated autoantibodies after 7 years .
+CONCLUSIONS	These findings do not support a benefit from hydrolyzed formula .
+CONCLUSIONS	TRIAL REGISTRATION clinicaltrials.gov Identifier : NCT00179777 .
+

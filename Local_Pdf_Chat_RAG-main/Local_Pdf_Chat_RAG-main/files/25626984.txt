@@ -1,0 +1,20 @@
+25626984
+OBJECTIVE	Sleep and ongoing cycling of sleep states are required for neurosensory processing , learning , and brain plasticity .
+OBJECTIVE	Many aspects of neonatal intensive care environments such as handling for routine and invasive procedures , bright lighting , and noise can create stress , disrupt behavior , and interfere with sleep in prematurely born infants .
+OBJECTIVE	The study empirically investigated whether a 30-minute observation of infant sleep states and behavior could differentiate an intervention to promote sleep in premature infants with feeding difficulties relative to conventional care ( standard positioning , standard crib mattress [ SP ] ) .
+OBJECTIVE	We included an intervention to determine the ability of the method to discriminate treatments and generate a benchmark for future improvements .
+OBJECTIVE	The intervention , a conformational positioner ( CP ) , is contoured around the infant to provide customized containment and boundaries .
+OBJECTIVE	To more fully verify the 30-minute observational sleep results , standard polysomnography was conducted simultaneously and sleep outcomes for the 2 modalities were compared .
+METHODS	In a randomized crossover clinical trial , 25 infants , 31.5 0.6 weeks ' gestational age and 38.4 0.6 weeks at the study , with gastrointestinal conditions or general feeding difficulties used each intervention during an overnight neonatal intensive care unit sleep study .
+METHODS	Infant sleep states and behaviors were observed during two 30-minute periods -- that is , on the positioner and mattress -- using the naturalistic observation of newborn behavior .
+METHODS	Two certified developmental care nurses assessed sleep state , self-regulatory , and stress behaviors during 2-minute intervals and summed over 30 minutes .
+METHODS	Sleep characteristics from standard polysomnography were measured at the time of behavior observations .
+RESULTS	Infants on CP spent significantly less time in alert , active awake , or crying states by observation compared with SP .
+RESULTS	Surgical subjects spent more time awake , active awake , or crying and displayed a higher number of behavior state changes than the nonsurgical infants .
+RESULTS	The percentage of time in observed deep sleep and quiet sleep was correlated with both percentage sleep efficiency ( r = 0.78 ) and fewer state shifts per hour ( r = -0.65 ) from electroencephalogram ( EEG ) .
+RESULTS	Sleep efficiency by EEG was greater on CP versus SP .
+CONCLUSIONS	The CP enabled sleep compared with the standard mattress ( SP ) over 30-minute observation periods .
+CONCLUSIONS	Sleep status from behavioral observation was verified by standard EEG-based sleep techniques .
+CONCLUSIONS	Behavioral observation of sleep states may be a useful strategy for measuring the effectiveness of strategies to facilitate sleep in premature infants .
+CONCLUSIONS	Surgical subjects may benefit from additional interventions to promote sleep .
+

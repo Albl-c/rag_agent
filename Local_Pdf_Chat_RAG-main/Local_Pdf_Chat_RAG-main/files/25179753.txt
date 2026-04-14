@@ -1,0 +1,19 @@
+25179753
+OBJECTIVE	Medical treatment settings such as emergency departments ( EDs ) present important opportunities to address problematic substance use .
+OBJECTIVE	Currently , EDs do not typically intervene beyond acute medical stabilization .
+OBJECTIVE	To contrast the effects of a brief intervention with telephone boosters ( BI-B ) with those of screening , assessment , and referral to treatment ( SAR ) and minimal screening only ( MSO ) among drug-using ED patients .
+METHODS	Between October 2010 and February 2012 , 1285 adult ED patients from 6 US academic hospitals , who scored 3 or greater on the 10-item Drug Abuse Screening Test ( indicating moderate to severe problems related to drug use ) and who were currently using drugs , were randomized to MSO ( n = 431 ) , SAR ( n = 427 ) , or BI-B ( n = 427 ) .
+METHODS	Follow-up assessments were conducted at 3 , 6 , and 12 months by blinded interviewers .
+METHODS	Following screening , MSO participants received only an informational pamphlet .
+METHODS	The SAR participants received assessment plus referral to addiction treatment if indicated , and the BI-B participants received assessment and referral as in SAR , plus a manual-guided counseling session based on motivational interviewing principles and up to 2 `` booster '' sessions by telephone during the month following the ED visit .
+METHODS	Outcomes evaluated at follow-up visits included self-reported days using the patient-defined primary problem drug , days using any drug , days of heavy drinking , and drug use based on analysis of hair samples .
+METHODS	The primary outcome was self-reported days of use of the patient-defined primary problem drug during the 30-day period preceding the 3-month follow-up .
+RESULTS	Follow-up rates were 89 % , 86 % , and 81 % at 3 , 6 , and 12 months , respectively .
+RESULTS	For the primary outcome , estimated differences in number of days of use ( 95 % CI ) were as follows : MSO vs BI-B , 0.72 ( -0.80 to 2.24 ) , P ( adjusted ) = .57 ; SAR vs BI-B , 0.70 ( -0.83 to 2.23 ) , P ( adjusted ) = .57 ; SAR vs MSO , -0.02 ( -1.53 to 1.50 ) , P ( adjusted ) = .98 .
+RESULTS	There were no significant differences between groups in self-reported days using the primary drug , days using any drug , or heavy drinking days at 3 , 6 , or 12 months .
+RESULTS	At the 3-month follow-up , participants in the SAR group had a higher rate of hair samples positive for their primary drug of abuse ( 265 of 280 [ 95 % ] ) than did participants in the MSO group ( 253 of 287 [ 88 % ] ) or the BI-B group ( 244 of 275 [ 89 % ] ) .
+RESULTS	Hair analysis differences between groups at other time points were not significant .
+CONCLUSIONS	In this sample of drug users seeking emergency medical treatment , a relatively robust brief intervention did not improve substance use outcomes .
+CONCLUSIONS	More work is needed to determine how drug use disorders may be addressed effectively in the ED .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01207791 .
+

@@ -1,0 +1,15 @@
+25346376
+OBJECTIVE	The effect of the Pillar implant on mild sleep-disordered breathing ( SDB ) has been assessed in various studies .
+OBJECTIVE	However , most of these were conducted among a non-Asian population at a single institution .
+OBJECTIVE	Therefore , the aim of this study was to prospectively evaluate the efficacy of the Pillar implant in Asian patients with simple snoring and mild obstructive sleep apnea ( OSA ) at multiple centers .
+METHODS	Multicenter prospective clinical trials .
+METHODS	This study included consecutive subjects with simple snoring or mild OSA .
+METHODS	We examined subjective symptoms ( snoring intensity , frequency , witnessed apnea , and daytime sleepiness ) and objective snoring and respiratory parameters ( snoring duration [ proportion of sleep while snoring louder than 50 dB ] , snoring loudness , apnea-hypopnea index , respiratory disturbance index , minimum arterial oxygen saturation , and oxygen desaturation index4 % ) at 3 to 6 months after surgery .
+METHODS	Adverse events were also investigated .
+RESULTS	Twenty-nine subjects with mild SDB completed the study .
+RESULTS	Whole group analysis found significant improvements in various subjective symptoms , but not in the objective snoring and respiratory parameters .
+RESULTS	A subgroup analysis of subjects with mild OSA ( n = 11 ) found significant alleviation in various subjective symptoms , apnea-hypopnea index , respiratory disturbance index , and oxygen desaturation index4 % .
+RESULTS	No major complication related to surgery was observed , and most minor adverse effects were resolved without morbidity .
+CONCLUSIONS	In selected Korean patients , the Pillar implant significantly improved not only subjective symptoms of mild SDB but also respiratory disturbances in mild OSA .
+METHODS	2b .
+

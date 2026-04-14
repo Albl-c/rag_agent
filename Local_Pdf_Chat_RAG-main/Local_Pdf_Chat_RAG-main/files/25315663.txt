@@ -1,0 +1,16 @@
+25315663
+OBJECTIVE	To compare the efficacy and safety of intravitreal aflibercept injection ( IAI ) with macular grid laser photocoagulation for the treatment of macular edema after branch retinal vein occlusion ( BRVO ) .
+METHODS	The VIBRANT study was a double-masked , active-controlled , randomized , phase III trial .
+METHODS	Treatment-nave eyes with macular edema after BRVO were included in the study if the occlusion occurred within 12 months and best-corrected visual acuity ( BCVA ) was between 73 and 24 Early Treatment Diabetic Retinopathy Study ( ETDRS ) letters ( 20/40-20 / 320 Snellen equivalent ) .
+METHODS	Eyes ( 1 eye per patient ) received either IAI 2 mg every 4 weeks ( n = 91 ) from baseline to week 20 or grid laser ( n = 92 ) at baseline with a single grid laser rescue treatment , if needed , from weeks 12 through 20 .
+METHODS	The primary outcome measure was the proportion of eyes that gained 15 ETDRS letters from baseline BCVA at week 24 .
+METHODS	Secondary end points included mean change from baseline BCVA and central retinal thickness ( CRT ) at week 24 .
+RESULTS	The proportion of eyes that gained 15 ETDRS letters from baseline at week 24 was 52.7 % in the IAI group compared with 26.7 % in the laser group ( P = 0.0003 ) .
+RESULTS	The mean improvement from baseline BCVA at week 24 was 17.0 ETDRS letters in the IAI group and 6.9 ETDRS letters in the laser group ( P < 0.0001 ) .
+RESULTS	The mean reduction in CRT from baseline at week 24 was 280.5 m in the IAI group and 128.0 m in the laser group ( P < 0.0001 ) .
+RESULTS	Traumatic cataract in an IAI patient was the only ocular serious adverse event ( SAE ) that occurred .
+RESULTS	There were no cases of intraocular inflammation or endophthalmitis .
+RESULTS	The incidence of nonocular SAEs was 8.8 % in the IAI group and 9.8 % in the laser group .
+RESULTS	One Anti-Platelet Trialists ' Collaboration-defined event of nonfatal stroke ( 1.1 % ) and 1 death ( 1.1 % ) due to pneumonia occurred during the 24 weeks of the study , both in patients in the laser group .
+CONCLUSIONS	Monthly IAI provided significantly greater visual benefit and reduction in CRT at 24 weeks than grid laser photocoagulation in eyes with macular edema after BRVO .
+

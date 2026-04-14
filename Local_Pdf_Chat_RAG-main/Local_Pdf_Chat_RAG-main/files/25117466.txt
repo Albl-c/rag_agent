@@ -1,0 +1,12 @@
+25117466
+OBJECTIVE	Very low density lipoprotein triglyceride ( VLDL-TG ) and free fatty acids ( FFA ) constitute a substantial proportion of human energy supply both at rest and during exercise .
+OBJECTIVE	Exercise acutely decreases VLDL-TG concentration , and VLDL-TG clearance is increased after an exercise bout .
+OBJECTIVE	However , the effects of long-term training are not clear .
+METHODS	The aim was to investigate long-term effects of training by direct assessments of VLDL-TG and palmitate kinetics and oxidation in healthy lean men ( n = 9 ) at rest , before and after a 10-week training program , compared with a non-training control group ( n = 9 ) .
+METHODS	VLDL-TG kinetics were assessed by a primed constant infusion of [ 1-14C ] VLDL-TG , and VLDL-TG oxidation by specific activity ( 14CO2 ) in expired air .
+METHODS	The metabolic study days were placed 60-72h after the last exercise bout .
+RESULTS	Palmitate kinetics and oxidation were assessed by a 2h constant infusion of [ 9,10 - ( 3 ) H ] palmitate .
+RESULTS	In the training group ( n = 9 ) , maximal oxygen uptake increased significantly by 20 % ( P < 0.05 ) , and the insulin sensitivity ( assessed by the hyperinsulinemic-euglycemic clamp ) improved significantly ( P < 0.05 ) .
+RESULTS	Despite these metabolic improvements , no changes were observed in VLDL-TG secretion , clearance , or oxidation or in palmitate kinetics .
+CONCLUSIONS	We conclude that 10 weeks of exercise training did not induce changes in VLDL-TG and palmitate kinetics in healthy lean men .
+

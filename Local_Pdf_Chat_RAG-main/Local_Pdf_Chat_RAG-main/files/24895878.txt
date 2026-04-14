@@ -1,0 +1,15 @@
+24895878
+OBJECTIVE	To use baseline computed tomographic ( CT ) angiography to analyze imaging and clinical end points in an Interventional Management of Stroke III cohort to identify patients who would benefit from endovascular stroke therapy .
+METHODS	The primary clinical end point was 90-day dichotomized modified Rankin Scale ( mRS ) score .
+METHODS	Secondary end points were 90-day mRS score distribution and 24-hour recanalization .
+METHODS	Prespecified subgroup was baseline proximal occlusions ( internal carotid , M1 , or basilar arteries ) .
+METHODS	Exploratory analyses were subsets with any occlusion and specific sites of occlusion ( two-sided = .01 ) .
+RESULTS	Of 656 subjects , 306 ( 47 % ) underwent baseline CT angiography or magnetic resonance angiography .
+RESULTS	Of 306 , 282 ( 92 % ) had arterial occlusions .
+RESULTS	At baseline CT angiography , proximal occlusions ( n = 220 ) demonstrated no difference in primary outcome ( 41.3 % [ 62 of 150 ] endovascular vs 38 % [ 27 of 70 ] intravenous [ IV ] tissue-plasminogen activator [ tPA ] ; relative risk , 1.07 [ 99 % confidence interval : 0.67 , 1.70 ] ; P = .70 ) ; however , 24-hour recanalization rate was higher for endovascular treatment ( n = 167 ; 84.3 % [ 97 of 115 ] endovascular vs 56 % [ 29 of 52 ] IV tPA ; P < .001 ) .
+RESULTS	Exploratory subgroup analysis for any occlusion at baseline CT angiography did not demonstrate significant differences between endovascular and IV tPA arms for primary outcome ( 44.7 % [ 85 of 190 ] vs 38 % [ 35 of 92 ] , P = .29 ) , although ordinal shift analysis of full mRS distribution demonstrated a trend toward more favorable outcome ( P = .011 ) .
+RESULTS	Carotid T - or L-type occlusion ( terminal internal carotid artery [ ICA ] with M1 middle cerebral artery and/or A1 anterior cerebral artery involvement ) or tandem ( extracranial or intracranial ) ICA and M1 occlusion subgroup also showed a trend favoring endovascular treatment over IV tPA alone for primary outcome ( 26 % [ 12 of 46 ] vs 4 % [ one of 23 ] , P = .047 ) .
+CONCLUSIONS	Significant differences were identified between treatment arms for 24-hour recanalization in proximal occlusions ; carotid T - or L-type and tandem ICA and M1 occlusions showed greater recanalization and a trend toward better outcome with endovascular treatment .
+CONCLUSIONS	Vascular imaging should be mandated in future endovascular trials to identify such occlusions .
+CONCLUSIONS	Online supplemental material is available for this article .
+

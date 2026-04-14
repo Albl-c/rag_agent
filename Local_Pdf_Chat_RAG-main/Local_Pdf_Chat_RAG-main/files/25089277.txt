@@ -1,0 +1,10 @@
+25089277
+OBJECTIVE	This study investigates the changes in hemorheologic parameters resulting from exercise followed by a standard meal .
+METHODS	In twelve moderately active men a period of exercise on a bicycle ergometer for 30 min at 60 % VO2max was followed by a test meal or by 30 min rest .
+METHODS	Venous blood was sampled for further analysis at baseline , after exercise , and after the meal/rest period .
+RESULTS	The elongation index ( EI ) was reduced and a marked rise in plasma viscosity was observed after exercise .
+RESULTS	A significant decrease in half time of total aggregation ( T 1/2 ) and a rise in aggregation index ( AI ) after exercise were observed ; however , after the postexercise period these changes were reversed .
+CONCLUSIONS	The present study demonstrates that physical exercise causes several changes in blood rheology parameters , such as an increase of blood viscosity , a decrease in EI and an increase in AI , and a fall in the T 1/2 values .
+CONCLUSIONS	The meal eaten in the postexercise period caused a further reduction in EI values indicating higher red cell rigidity , but not in plasma viscosity or aggregations indices .
+CONCLUSIONS	Such alterations in hemorheologic parameters should not impair the function of the cardiovascular system in fit and healthy people but it could constitute a serious risk under various pathophysiological conditions .
+

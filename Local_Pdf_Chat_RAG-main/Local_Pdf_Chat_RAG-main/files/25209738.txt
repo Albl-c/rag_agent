@@ -1,0 +1,19 @@
+25209738
+BACKGROUND	Duchenne muscular dystrophy is caused by dystrophin deficiency and muscle deterioration and preferentially affects boys .
+BACKGROUND	Antisense-oligonucleotide-induced exon skipping allows synthesis of partially functional dystrophin .
+BACKGROUND	We investigated the efficacy and safety of drisapersen , a 2 ' - O-methyl-phosphorothioate antisense oligonucleotide , given for 48 weeks .
+METHODS	In this exploratory , double-blind , placebo-controlled study we recruited male patients ( 5 years of age ; time to rise from floor 7 s ) with Duchenne muscular dystrophy from 13 specialist centres in nine countries between Sept 1 , 2010 , and Sept 12 , 2012 .
+METHODS	By use of a computer-generated randomisation sequence , we randomly allocated patients ( 2:2:1:1 ; block size of six ; no stratification ) to drisapersen 6 mg/kg or placebo , each given subcutaneously and either continuously ( once weekly ) or intermittently ( nine doses over 10 weeks ) .
+METHODS	The primary endpoint was change in 6-min walk distance ( 6MWD ) at week 25 in patients in the intention-to-treat population for whom data were available .
+METHODS	Safety assessments included renal , hepatic , and haematological monitoring and recording of adverse events .
+METHODS	This trial is registered with ClinicalTrials.gov , number NCT01153932 .
+RESULTS	We recruited 53 patients : 18 were given continuous drisapersen , 17 were given intermittent drisapersen , and 18 were given placebo ( continuous and intermittent groups combined ) .
+RESULTS	At week 25 , mean 6MWD had increased by 315 m ( SE 98 ) from baseline for continuous drisapersen , with a mean difference in change from baseline of 3509 m ( 95 % CI 759 to 6260 ; p = 0014 ) versus placebo .
+RESULTS	We recorded no difference in 6MWD changes from baseline between intermittent drisapersen ( mean change -01 [ SE 103 ] ) and placebo ( mean difference 351 m [ -2434 to 3135 ] ) at week 25 .
+RESULTS	The most common adverse events in drisapersen-treated patients were injection-site reactions ( 14 patients given continuous drisapersen , 15 patients given intermittent drisapersen , and six given placebo ) and renal events ( 13 for continuous drisapersen , 12 for intermittent drisapersen , and seven for placebo ) , most of which were subclinical proteinuria .
+RESULTS	None of the serious adverse events reported ( one for continuous , two for intermittent , and two for placebo ) resulted in withdrawal from the study .
+CONCLUSIONS	Continuous drisapersen resulted in some benefit in 6MWD versus placebo at week 25 .
+CONCLUSIONS	The safety findings are similar to those from previous studies .
+CONCLUSIONS	Ambulation improvements in this young population with early-stage Duchenne muscular dystrophy are encouraging but need to be confirmed in larger studies .
+BACKGROUND	GlaxoSmithKline , Prosensa Therapeutics BV ( a subsidiary of Prosensa Holding NV ) .
+

@@ -1,0 +1,12 @@
+24408122
+OBJECTIVE	The Avosentan on Time to Doubling of Serum Creatinine , End Stage Renal Disease or Death ( ASCEND ) trial tested the renoprotective effect of the endothelin receptor antagonist avosentan in patients with diabetes and nephropathy , but the study was terminated due to an excess of congestive heart failure ( CHF ) events in the avosentan arms , likely due to fluid retention .
+OBJECTIVE	The aim of this study was to identify risk markers of CHF after treatment with avosentan .
+METHODS	In a post hoc analysis of the ASCEND trial ( N = 1392 participants ) , we assessed which baseline characteristics predicted CHF risk during avosentan treatment .
+METHODS	Furthermore , postrandomization changes between baseline and the first available measurement of body weight and hemoglobin were examined as potential clinical indicators of fluid retention for their relationship with CHF development .
+RESULTS	Relative to placebo , avosentan increased CHF risk ( hazard ratio , 2.76 ; 95 % confidence interval , 1.68 to 4.54 ) .
+RESULTS	The avosentan-related CHF risk was higher with lower baseline cholesterol levels ( P interaction = 0.003 ) and concomitant statin use ( P interaction = 0.06 ) , whereas it was lower with a lower estimated GFR ( P interaction = 0.04 ) .
+RESULTS	Patients allocated to avosentan had a median body weight increase of 0.6 kg ( interquartile range , 0.0 to 2.0 kg ) and a median hemoglobin decrease of 1.4 g/dl ( interquartile range , -2.1 to -0.7 g/dl ) at the first postrandomization measurement .
+RESULTS	The body weight increase induced by avosentan was associated with CHF development ( P interaction = 0.04 ) , whereas hemoglobin decrease was not ( P interaction = 0.64 ) .
+RESULTS	The increase in body weight was particularly pronounced in patients with a cardiovascular disease history and in patients using statins .
+CONCLUSIONS	In avosentan-treated patients , body weight increase , but not hemoglobin decrease , was associated with CHF development , indicating that close body weight monitoring could provide an early signal of CHF development in future trials with endothelin receptor antagonists .
+

@@ -1,0 +1,14 @@
+26001320
+OBJECTIVE	ECAR ( Endovasculaire ou Chirurgie dans les Anvrysmes aorto-iliaques Rompus ) is a prospective multicentre randomized controlled trial including consecutive patients with ruptured aorto-iliac aneurysms ( rAIA ) eligible for treatment by either endovascular ( EVAR ) or open surgical repair ( OSR ) .
+OBJECTIVE	Inclusion criteria were hemodynamic stability and computed tomography scan demonstrating aorto-iliac rupture .
+METHODS	Randomization was done by week , synchronously in all centers .
+METHODS	The primary end point was 30 day mortality .
+METHODS	Secondary end points were post-operative morbidity , length of stay in the intensive care unit ( ICU ) , amount of blood transfused ( units ) and 6 month mortality .
+RESULTS	From January 2008 to January 2013 , 107 patients ( 97 men , 10 women ; median age 74.4 years ) were enrolled in 14 centers : 56 ( 52.3 % ) in the EVAR group and 51 ( 47.7 % ) in the OSR group .
+RESULTS	The groups were similar in terms of age , sex , consciousness , systolic blood pressure , Hardman index , IGSII score , type of rupture , use of endoclamping balloon , and levels of troponin , creatinine , and hemoglobin .
+RESULTS	Delay to treatment was higher in the EVAR group ( 2.9 vs. 1.3 hours ; p < .005 ) .
+RESULTS	Mortality at 30 days and 1 year were not different between the groups ( 18 % in the EVAR group vs. 24 % in the OSR group at 30 days , and 30 % vs. 35 % , respectively , at 1 year ) .
+RESULTS	Total respiratory support time was lower in the EVAR group than in the OSR group ( 59.3 hours vs. 180.3 hours ; p = .007 ) , as were pulmonary complications ( 15.4 % vs. 41.5 % , respectively ; p = .050 ) , total blood transfusion ( 6.8 vs. 10.9 , respectively ; p = .020 ) , and duration of ICU stay ( 7 days vs. 11.9 days , respectively ; p = .010 ) .
+CONCLUSIONS	In this study , EVAR was found to be equal to OSR in terms of 30 day and 1 year mortality .
+CONCLUSIONS	However , EVAR was associated with less severe complications and less consumption of hospital resources than OSR .
+

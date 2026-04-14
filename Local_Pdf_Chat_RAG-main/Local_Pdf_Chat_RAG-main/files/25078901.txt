@@ -1,0 +1,11 @@
+25078901
+OBJECTIVE	We evaluated the effect of the MD-Logic system on overnight glycemic control at patients ' homes .
+METHODS	Twenty-four patients ( aged 12-43 years ; average A1c 7.5 0.8 % , 58.1 8.4 mmol/mol ) were randomly assigned to participate in two overnight crossover periods , each including 6 weeks of consecutive nights : one under closed loop and the second under sensor-augmented pump ( SAP ) therapy at patients ' homes in real-life conditions .
+METHODS	The primary end point was time spent with sensor glucose levels below 70 mg/dL ( 3.9 mmol/L ) overnight .
+RESULTS	Closed-loop nights significantly reduced time spent in hypoglycemia ( P = 0.02 ) and increased the percentage of time spent in the target range of 70-140 mg/dL ( P = 0.003 ) compared with nights when the SAP therapy was used .
+RESULTS	The time spent in substantial hyperglycemia above 240 mg/dL was reduced by a median of 52.2 % ( interquartile range [ IQR ] 4.8 , 72.9 % ; P = 0.001 ) under closed-loop control compared with SAP therapy .
+RESULTS	Overnight total insulin doses were lower in the closed-loop nights compared with the SAP nights ( P = 0.04 ) .
+RESULTS	The average daytime glucose levels after closed-loop operation were reduced by a median of 10.0 mg/dL ( IQR -2.7 , 19.2 ; P = 0.017 ) while lower total insulin doses were used ( P = 0.038 ) .
+RESULTS	No severe adverse events occurred during closed-loop control ; there was a single event of severe hypoglycemia during a control night .
+CONCLUSIONS	The long-term home use of automated overnight insulin delivery by the MD-Logic system was found to be a feasible , safe , and an effective tool to reduce nocturnal hypoglycemia and improve overnight glycemic control in subjects with type 1 diabetes .
+

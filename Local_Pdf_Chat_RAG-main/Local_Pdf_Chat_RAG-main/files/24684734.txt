@@ -1,0 +1,14 @@
+24684734
+OBJECTIVE	To study the efficacy of transdermal clonidine in the treatment of severe refractory hyperemesis gravidarum ( HG ) , the most severe illness of pregnancy .
+METHODS	The study had a randomised , double - blind , placebo-controlled , cross-over design ( RCT ) .
+METHODS	Single tertiary referral hospital after admission of patients .
+METHODS	Twelve women of gestational age 6-12 weeks and a major grade of HG clinical severity who were unresponsive to standard antiemetic treatment .
+METHODS	The patients were randomly treated with and without the active drug ( 5 mg patch ) for two consecutive periods of 5 days .
+METHODS	The patients were allocated to a random list to receive first placebo and then active drug or the other way round .
+METHODS	Other antiemetic drugs were administered on a scheduled or as-needed basis .
+METHODS	All patients received intravenous hydration and thiamine supplementation .
+METHODS	Pregnancy Unique Quantification of Emesis ( PUQE ) and visual analog scale ( VAS ) clinical scores , positive morning urine ketonuria , number of doses of standard antiemetic drugs required , and number of days off intravenous therapy were compared in the two periods .
+RESULTS	Transdermal clonidine led to a significantly greater improvement compared with placebo of the primary ( PUQE score P = 0.026 CI 0.43-3 .24 ; VAS score P = 0.010 CI 2.17-12 .83 ) and secondary outcome measures .
+RESULTS	A reduction of blood pressure was reported for systolic 6 mmHg P = 0.01 and diastolic 3 mmHg P = 0.055 .
+CONCLUSIONS	This preliminary RCT demonstrates the efficacy of transdermal clonidine in the treatment of severe HG , leading to a significant reduction of symptoms and reducing the need for other supportive measures and medications .
+

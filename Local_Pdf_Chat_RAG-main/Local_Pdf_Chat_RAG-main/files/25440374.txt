@@ -1,0 +1,10 @@
+25440374
+OBJECTIVE	The purpose of the study was to evaluate the clinical effects of the Shenzhu Tiaopi granule ( SZTP ) combined with a lifestyle intervention in patients with impaired glucose tolerance ( IGT ) , who also had a spleen deficiency and damp overabundance syndrome ( SDDOS ) .
+METHODS	After a one-month washout period , a total of 514 patients were randomly assigned to the control ( lifestyle intervention ) and experimental ( SZTP plus lifestyle intervention ) groups , with 257 patients in each group .
+METHODS	Patients in the control group received the lifestyle intervention ( diet and exercise ) for 12 months , while the patients in the experimental group were treated with SZTP plus the lifestyle intervention for 12 months .
+METHODS	The Traditional Chinese Medicinal ( TCM ) symptom scores were observed in each group before and after treatment ; the conversion rates from IGT to diabetes mellitus ( DM ) were also measured .
+RESULTS	Following 12 months of treatment , the conversion rate from IGT to DM in the experimental group was significantly lower than in the control group ( 8.52 % vs. 15.28 % , P < 0.05 ) .
+RESULTS	A significantly higher number of patients with IGT reverted to normal blood glucose levels in the experimental group than in the control group ( 42.15 % vs. 32.87 % , P < 0.05 ) .
+RESULTS	In addition , after following the treatment for 12 months , the TCM symptoms of patients in the experimental group were markedly alleviated , as compared to the control group ( P < 0.01 ) .
+CONCLUSIONS	The combination of SZTP and lifestyle intervention showed a reduction in the conversion from IGT to DM , and an increase in the conversion from IGT to normal blood glucose levels .
+

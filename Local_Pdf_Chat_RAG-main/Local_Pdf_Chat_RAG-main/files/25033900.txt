@@ -1,0 +1,13 @@
+25033900
+OBJECTIVE	To evaluate the changes in corneal sensation ( CS ) following two different port sizes vitrectomy in diabetic and non-diabetic patients .
+METHODS	Patients prepared for pars plana vitrectomy were randomly assigned to four groups : diabetics to either 20G or 23G and non-diabetics to either 20G or 23G vitrectomy systems .
+METHODS	CS was measured using the Cochet-Bonnet aesthesiometer at baseline preoperatively , and at 1 day , 1 week , and 1 month postoperative .
+RESULTS	A total of 40 eyes of 40 patients were included in this study ; 20 patients ( 20 eyes ) in each of the 20-G and 23-G groups .
+RESULTS	The mean age was 55.5110 years and male/female ratio was 2:3 .
+RESULTS	There were no significant difference between CS at baseline , and at 1 day , 1 week , and 1 month between both the 20-G and 23-G groups .
+RESULTS	There were significant drops in CSs at 1 day and 1 week for both groups ( 20G and 23G ) with incomplete recovery for the 20-G group and complete recovery for the 23-G group .
+RESULTS	Comparing the two diabetic subgroups ( 20G and 23G ) and two non-diabetic subgroups ( 20G and 23G ) , there were no significant differences in CS between subgroups .
+RESULTS	Diabetics ' eyes had lower CSs throughout the study period in the 20-G and 23-G groups , which was significant at day1 and week 1 postoperatively .
+CONCLUSIONS	The vitrectomy procedure showed reduction in CS in the postoperative period with minimal nonsignificant difference between 20G and 23G systems .
+CONCLUSIONS	However , diabetics ' eyes showed compromised CS preoperatively and a further significant reduction for 1 month postoperatively compared with non-diabetics .
+

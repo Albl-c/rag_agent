@@ -1,0 +1,17 @@
+24405854
+BACKGROUND	In trials of behavioural interventions , the individuals who deliver the intervention are in a position of key influence on the success of the trial .
+BACKGROUND	Their fidelity to the intervention is crucial .
+BACKGROUND	Yet little is understood about the experiences of this group of trial personnel .
+BACKGROUND	This study aimed to investigate the views and experiences of educators who delivered a structured education intervention to people with type 2 diabetes , which incorporated training in self-monitoring of either blood glucose ( SMBG ) or urine glucose ( SMUG ) as part of a randomized controlled trial ( RCT ) .
+METHODS	Educators ' views were explored through focus groups before and after training ( N = 18 ) and approximately 1 year into the trial ( N = 14 ) , and semi-structured telephone interviews at approximately 2 years ( N = 7 ) .
+METHODS	Analysis was based on the constant comparative method .
+RESULTS	Educators held preferences regarding the intervention variants ; thus , they were not in individual equipoise .
+RESULTS	Training raised awareness of preferences and their potential to impact on delivery .
+RESULTS	Educators were confident in their unbiased delivery , but acknowledged the challenges involved .
+RESULTS	Concealing their preferences was helped by a sense of professionalism , the patient-centred nature of the intervention , and concessions in the trial protocol ( enabling participants to swap monitoring methods if needed ) .
+RESULTS	Commitment to unbiased delivery was explained through a desire for evidence-based knowledge in the contentious area of SMBG .
+CONCLUSIONS	The findings provide insight into a previously unexplored group of trial personnel -- intervention deliverers in trials of behavioural interventions -- which will be useful to those designing and running similar trials .
+CONCLUSIONS	Rather than individual equipoise , it is intervention deliverers ' awareness of personal preferences and their potential impact on the trial outcome that facilitates unbiased delivery .
+CONCLUSIONS	Further , awareness of community equipoise , the need for evidence , and relevance to the individual enhance commitment to the RCT .
+BACKGROUND	ISRCTN95696668 .
+

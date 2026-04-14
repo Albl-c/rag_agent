@@ -1,0 +1,14 @@
+25728587
+BACKGROUND	As treatment goals in Crohn 's disease ( CD ) evolve , targets now include clinical remission ( CR ) , mucosal healing ( MH ) and biological remission [ C-reactive protein normalisation ( CRPnorm ) ] .
+OBJECTIVE	To evaluate the association of baseline factors and treatment with the achievement of different composite remission parameters at week 26 .
+METHODS	This post hoc analysis of the SONIC trial evaluated different composite remission measures at week 26 in a subgroup of patients with Crohn 's disease activity index ( CDAI ) scores , CRP , and endoscopic data available at baseline and week 26 ( N = 188 ) .
+METHODS	Assessed composite remission measures were : CR ( CDAI < 150 ) and MH ( absence of any mucosal ulcerations ) , previously referred to as ` deep remission ; ' and alternative composite endpoints : CR+CRP norm ( CRP < 0.8 mg/dL ) ; CRPnorm + MH ; and CR+CRP norm + MH .
+RESULTS	Among analysed patients , 136/188 ( 72.3 % ) achieved CR and 90/188 ( 47.9 % ) achieved MH at week 26 .
+RESULTS	All composite outcomes were significantly greater ( Bonferroni significance level , P0 .016 ) with combination therapy ( i.e. infliximab and azathioprine ; 52.3-63 .6 % ) vs. azathioprine monotherapy ( 12.9-29 .0 % ; p 0.005 for all comparisons ) .
+RESULTS	Composite remission rates including MH were significantly greater with combination therapy ( 52.3-56 .9 % ) vs. infliximab ( 25.6-32 .3 % ; P0 .015 for all comparisons except CRPnorm + MH , P = 0.017 ) and vs. azathioprine monotherapy ( 12.9-20 .4 % ; P0 .002 for all comparisons ) .
+RESULTS	Median serum trough infliximab concentrations among patients who achieved MH or CR+MH were greater when compared with those among patients who did not achieve MH ( P = 0.018 ) or CR+MH ( P = 0.053 ) .
+RESULTS	Among the subgroup of patients with early Crohn 's disease , MH alone or in combination with composite remission criteria significantly improved clinical outcomes of patients who received combination therapy .
+CONCLUSIONS	Combination therapy was more effective in achieving various composite remission measures vs. azathioprine or infliximab monotherapy .
+CONCLUSIONS	These data illustrate that ` deep remission ' is achievable with combination therapy in a high percentage of patients with early Crohn 's disease .
+CONCLUSIONS	ClinicalTrials.gov number : NCT00094458 .
+

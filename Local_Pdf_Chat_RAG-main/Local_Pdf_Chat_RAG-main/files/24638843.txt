@@ -1,0 +1,18 @@
+24638843
+OBJECTIVE	Critically ill patients are at risk of venous thrombosis , and therefore guidelines recommend daily thromboprophylaxis .
+OBJECTIVE	Deep vein thrombosis ( DVT ) commonly occurs in the lower extremities but can occur in other sites including the head and neck , trunk , and upper extremities .
+OBJECTIVE	The risk of nonleg deep venous thromboses ( NLDVTs ) , predisposing factors , and the association between NLDVTs and pulmonary embolism ( PE ) or death are unclear .
+OBJECTIVE	To describe the frequency , anatomical location , risk factors , management , and consequences of NLDVTs in a large cohort of medical-surgical critically ill adults .
+METHODS	A nested prospective cohort study in the setting of secondary and tertiary care intensive care units ( ICUs ) .
+METHODS	The study population comprised 3746 patients , who were expected to remain in the ICU for at least 3 days and were enrolled in a randomized clinical trial of dalteparin vs standard heparin for thromboprophylaxis .
+METHODS	The proportion of patients who had NLDVTs , the mean number per patient , and the anatomical location .
+METHODS	We characterized NLDVTs as prevalent or incident ( identified within 72 hours of ICU admission or thereafter ) and whether they were catheter related or not .
+METHODS	We used multivariable regression models to evaluate risk factors for NLDVT and to examine subsequent anticoagulant therapy , associated PE , and death .
+METHODS	RESULTS Of 3746 trial patients , 84 ( 2.2 % ) developed 1 or more non-leg vein thromboses ( superficial or deep , proximal or distal ) .
+METHODS	Thromboses were more commonly incident ( n = 75 [ 2.0 % ] ) than prevalent ( n = 9 [ 0.2 % ] ) ( P < .001 ) and more often deep ( n = 67 [ 1.8 % ] ) than superficial ( n = 31 [ 0.8 % ] ) ( P < .001 ) .
+METHODS	Cancer was the only independent predictor of incident NLDVT ( hazard ratio [ HR ] , 2.22 ; 95 % CI , 1.06-4 .65 ) .
+METHODS	After adjusting for Acute Physiology and Chronic Health Evaluation ( APACHE ) II scores , personal or family history of venous thromboembolism , body mass index , vasopressor use , type of thromboprophylaxis , and presence of leg DVT , NLDVTs were associated with an increased risk of PE ( HR , 11.83 ; 95 % CI , 4.80-29 .18 ) .
+METHODS	Nonleg DVTs were not associated with ICU mortality ( HR , 1.09 ; 95 % CI , 0.62-1 .92 ) in a model adjusting for age , APACHE II , vasopressor use , mechanical ventilation , renal replacement therapy , and platelet count below 50 10 ( 9 ) / L. CONCLUSIONS AND RELEVANCE Despite universal heparin thromboprophylaxis , nonleg thromboses are found in 2.2 % of medical-surgical critically ill patients , primarily in deep veins and proximal veins .
+METHODS	Patients who have a malignant condition may have a significantly higher risk of developing NLDVT , and patients with NLDVT , compared with those without , appeared to be at higher risk of PE but not higher risk of death .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00182143 .
+

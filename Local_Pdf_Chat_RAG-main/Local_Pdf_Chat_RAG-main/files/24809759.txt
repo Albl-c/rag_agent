@@ -1,0 +1,12 @@
+24809759
+OBJECTIVE	To compare asthma control assessment using the Asthma APGAR system , a tool developed by primary care clinicians , in a multicenter primary care sample with the Asthma Control Test ( ACT ) / Childhood Asthma Control Test ( CACT ) , a tool developed by asthma specialists .
+METHODS	This is a substudy of a multicenter , randomized , controlled pragmatic trial that tests the effectiveness of the Asthma APGAR system in primary care practices .
+METHODS	As part of the study , enrolled patients completed both the ACT/CACT and the Asthma APGAR system between March 1 , 2011 , and December 31 , 2011 .
+METHODS	Kappa and McNemar statistics were used to compare the results of questionnaires .
+RESULTS	Of the 468 patients in our sample , 306 ( 65 % ) were classified as not controlled by the ACT/CACT or the Asthma APGAR system .
+RESULTS	The overall agreement was 84.4 % , with a kappa value of .68 ( substantial agreement ) and a McNemar test P value of .35 ( suggesting no significant difference in the direction of disagreement ) .
+RESULTS	Of those with poor control as defined by the Asthma APGAR system , 23.8 % ( 73 ) had no controller medications and 76.5 % ( 234 ) were seldom or sometimes able to avoid identified triggers for their asthma .
+RESULTS	Of those who stated that they had been prescribed controller medications , 116 of 332 ( 35 % ) stated that they did not use the controller medication on a daily basis .
+CONCLUSIONS	The Asthma APGAR system and the ACT/CACT similarly assess asthma control in a multicenter primary care-based sample .
+CONCLUSIONS	The Asthma APGAR system identified an `` actionable item '' in more than 75 % ( 234 ) of the individuals with poor asthma control , thus linking an assessment of poor asthma control with a management strategy .
+

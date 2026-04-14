@@ -1,0 +1,19 @@
+25278093
+BACKGROUND	Residual proteinuria during renin-angiotensin-aldosterone system ( RAAS ) blockade is a major renal and cardiovascular risk factor in chronic kidney disease .
+BACKGROUND	Dietary sodium restriction potentiates the antiproteinuric effect of RAAS blockade , but residual proteinuria remains in many patients .
+BACKGROUND	Previous studies linked high fibroblast growth factor 23 ( FGF-23 ) levels with volume overload ; others linked higher serum phosphate levels with impaired RAAS-blockade efficacy .
+BACKGROUND	We hypothesized that FGF-23 reduces the capacity of dietary sodium restriction to potentiate RAAS blockade , impairing the antiproteinuric effect .
+METHODS	Post hoc analysis of cohort data from a randomized crossover trial with two 6-week study periods comparing proteinuria after a regular-sodium diet with proteinuria after a low-sodium diet , both during background angiotensin-converting enzyme inhibition .
+METHODS	47 nondiabetic patients with CKD with residual proteinuria ( median protein excretion , 1.9 [ IQR , 0.8-3 .1 ] g/d ; mean age , 5013 [ SD ] years ; creatinine clearance , 69 [ IQR , 50-110 ] mL/min ) .
+METHODS	Plasma carboxy-terminal FGF-23 levels .
+RESULTS	Difference in residual proteinuria at the end of the regular-sodium versus low-sodium study period .
+RESULTS	Residual proteinuria during the low-sodium diet period adjusted for proteinuria during the regular-sodium diet period .
+RESULTS	Higher baseline FGF-23 level was associated with reduced antiproteinuric response to dietary sodium restriction ( standardized = -0.46 ; P = 0.001 ; model R ( 2 ) = 0.71 ) .
+RESULTS	For every 100-RU/mL increase in FGF-23 level , the antiproteinuric response to dietary sodium restriction was reduced by 10.6 % .
+RESULTS	Higher baseline FGF-23 level was a determinant of more residual proteinuria during the low-sodium diet ( standardized = 0.27 ; P = 0.003 ) in linear regression analysis adjusted for baseline proteinuria ( model R ( 2 ) = 0.71 ) .
+RESULTS	There was no interaction with creatinine clearance ( P interaction = 0.5 ) .
+RESULTS	Baseline FGF-23 level did not predict changes in systolic or diastolic blood pressure upon intensified antiproteinuric treatment .
+CONCLUSIONS	Observational study , limited sample size .
+CONCLUSIONS	FGF-23 levels are associated independently with impaired antiproteinuric response to sodium restriction in addition to RAAS blockade .
+CONCLUSIONS	Future studies should address whether FGF-23-lowering strategies may further optimize proteinuria reduction by RAAS blockade combined with dietary sodium restriction .
+

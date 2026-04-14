@@ -1,0 +1,13 @@
+25223462
+BACKGROUND	The EACH study assessed the efficacy of oxaliplatin , 5-fluorouracil , and leucovorin ( the FOLFOX4 regimen ) compared with doxorubicin alone in terms of overall survival ( OS ) , progression-free survival ( PFS ) , and safety in patients with advanced hepatocellular carcinoma ( HCC ) .
+BACKGROUND	We present the results of this study in Chinese patients .
+METHODS	In a multicenter , open-label , randomized , phase III study ( NCT00471965 ) , 371 patients ( 279 patients from the People 's Republic of China ) were randomized 1:1 to receive either FOLFOX4 or doxorubicin until disease progression , intolerable toxicity , death , or surgical resection .
+RESULTS	Baseline characteristics of the Chinese patients enrolled in the study were similar for the 2 treatment groups and in comparison with the whole EACH cohort .
+RESULTS	Median OS at the prespecified time point of treatment was 5.7 months with FOLFOX4 and 4.3 months with doxorubicin ( hazard ratio [ HR ] : 0.74 ; 95 % confidence interval [ CI ] :0.55 -0.98 ; p = .03 ) .
+RESULTS	At the end of the follow-up period , median OS was 5.9 months with FOLFOX4 and 4.3 months with doxorubicin ( HR : 0.75 ; 95 % CI :0.58 -0.98 ; p = .03 ) .
+RESULTS	Median PFS was 2.4 months and 1.7 months in the FOLFOX4 and doxorubicin groups , respectively ( HR : 0.55 ; 95 % CI :0.45 -0.78 ; p = .0002 ) .
+RESULTS	The response rate ( RR ) and disease control rate ( DCR ) were significantly higher in the FOLFOX4 group than in the doxorubicin group ( RR : 8.6 % vs. 1.4 % , p = .006 ; DCR : 47.1 % vs. 26.6 % , p = .0004 ) .
+RESULTS	Hematological toxicity was more frequently reported in the FOLFOX4 group .
+CONCLUSIONS	For Chinese HCC patients enrolled in the EACH study , FOLFOX4 significantly improved the RR and DCR and prolonged survival compared with doxorubicin .
+CONCLUSIONS	Systemic chemotherapy with oxaliplatin-based regimens may play an important role in the treatment of Chinese patients with advanced HCC .
+

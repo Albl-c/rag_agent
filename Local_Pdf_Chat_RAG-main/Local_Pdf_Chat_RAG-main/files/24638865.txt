@@ -1,0 +1,14 @@
+24638865
+BACKGROUND	Melanocytic nevi ( MN ) are the most important simulants of melanoma .
+BACKGROUND	Although acquired nevi are usually clinically stable , they may show abnormal clinical behavior .
+BACKGROUND	This study assessed the histological changes and prognosis of acquired MN with changing clinical behavior in Egyptian patients .
+METHODS	The study included 236 patients that were classified into two groups ; Group A included nevi with abnormal clinical presentation and Group B included clinically typical nevi .
+RESULTS	Each group included 118 patients with a predominance of female patients .
+RESULTS	Abnormal clinical presentation in Group A included altered pigmentation ( 35.6 % ) , rapid enlargement ( 30.5 % ) , keratotic changes ( 16.9 % ) , inflammation ( 7.6 % ) , ulceration ( 5.1 % ) , and hemorrhage ( 4.2 % ) .
+RESULTS	Typical histological features were significantly higher ( p = 0.008 ) in Group B ( 99.2 % ) compared with Group A ( 87.3 % ) .
+RESULTS	Atypical histological features were significantly higher ( p = 0.002 ) in Group A , with higher numbers of ulcerative and altered pigmented nevi .
+RESULTS	Malignant changes showed no significant difference ( p = 0.47 ) between the two groups .
+RESULTS	No relapse was recorded after excision of any lesion .
+CONCLUSIONS	Among Egyptians , changing clinical behavior of MN may show histological atypia but low risk of malignant transformation .
+CONCLUSIONS	Early excision and follow-up of ulcerative and altered pigmented nevi are recommended .
+

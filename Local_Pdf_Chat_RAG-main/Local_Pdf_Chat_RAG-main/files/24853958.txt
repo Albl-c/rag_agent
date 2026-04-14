@@ -1,0 +1,13 @@
+24853958
+BACKGROUND	The aim of this prospective comparative study was to compare outcomes and complications of humeral diaphyseal fracture non-unions managed with humerus interlocking nail ( HIL ) and locking compression plate ( LCP ) .
+METHODS	40 patients with non-union of humeral diaphyseal fractures were included in this study and were randomly allocated in two groups ; group A had 20 cases treated with HIL and group B had 20 cases treated with LCP .
+METHODS	Clinico-radiological assessments were done for each case up to 2-year follow-up period .
+METHODS	Primary outcome measures ( time to fracture union , union rate ) and secondary outcome measures ( functional outcome and complication such as infection , malunion , delayed union , implant failure , joint stiffness and iatrogenic radial nerve palsy ) were compared between both the groups .
+METHODS	Disabilities of the arm , shoulder and hand ( DASH ) scoring and Steward and Hundley 's scoring system were used to assess functional outcome of the fracture fixation .
+RESULTS	There was no significant difference ( p = 0.12 ) in terms of mean fracture union time between group A ( 15.8 4.2 weeks ) and group B ( 17.2 3.8 weeks ) .
+RESULTS	Group A had 95 % union rate and group B had 100 % union rate ( p = 0.14 ) .
+RESULTS	At the 2-year follow-up visit , there was no significant difference found between both the groups regarding range of motion of shoulder and elbow joint .
+RESULTS	There was no significant difference found in final functional outcomes between both the groups on comparing DASH score ( p = 0.14 ) and Steward and Hundley 's score ( p = 0.08 ) .
+RESULTS	In terms of complications , there was insignificant difference found between both the groups .
+CONCLUSIONS	This study concludes that both the implants can be used in non-union of humeral shaft fractures with good functional outcomes and acceptable rate of complications .
+

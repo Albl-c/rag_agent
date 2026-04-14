@@ -1,0 +1,14 @@
+24615211
+OBJECTIVE	To investigate whether the neural representations underlying alternating two acupoint combinations ( ACs ) are the same or not .
+METHODS	In this functional magnetic resonance imaging study , two sets of analgesia ACs were utilized , including Waiguan ( TE5 ) and Qiuxu ( GB40 ) for Group A , and Neiguan ( PC6 ) and Taichong ( LR3 ) for Group B , which are the most commonly adopted in clinical treatment .
+METHODS	Each group had 20 healthy subjects .
+METHODS	An experimental design was proposed , which consisted of a pre-needling resting phase , a needling phase and a post-needling resting phase .
+METHODS	This paradigm optimally mimics the clinical protocol as well as focuses on both the stimulation and the resting periods .
+METHODS	The results were subjected to general linear model analysis , conjunction analysis and the functional connectivity analysis .
+RESULTS	The rostral anterior cingulated cortex was engaged in the initiative period of the acupuncture effect in both groups , and it was chosen as the seed region for the functional connectivity analysis for the following resting period .
+RESULTS	The results showed that several shared brain regions were involved in both groups , in particular the insula , amygdala and hypothalamus .
+RESULTS	Moreover , significant differences were located at the posterior cingulated cortex as revealed by a two sample - test ( P < 0.05 , corrected ) .
+RESULTS	Other regions showed no significant differences .
+RESULTS	This finding was further supported by the spatial correlation analysis that the two groups were significantly correlated ( r = 0.51 , P < 0.01 ) .
+CONCLUSIONS	This preliminary research helps us understand the neurophysiological mechanisms of acupuncture when following clinical guidelines on ACs , as well as provides an important opportunity to develop better treatment strategies for reducing , or even preventing pain .
+

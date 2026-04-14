@@ -1,0 +1,16 @@
+24240611
+OBJECTIVE	A strategy using mechanical chest compressions might improve the poor outcome in out-of-hospital cardiac arrest , but such a strategy has not been tested in large clinical trials .
+OBJECTIVE	To determine whether administering mechanical chest compressions with defibrillation during ongoing compressions ( mechanical CPR ) , compared with manual cardiopulmonary resuscitation ( manual CPR ) , according to guidelines , would improve 4-hour survival .
+METHODS	Multicenter randomized clinical trial of 2589 patients with out-of-hospital cardiac arrest conducted between January 2008 and February 2013 in 4 Swedish , 1 British , and 1 Dutch ambulance services and their referring hospitals .
+METHODS	Duration of follow-up was 6 months .
+METHODS	Patients were randomized to receive either mechanical chest compressions ( LUCAS Chest Compression System , Physio-Control/Jolife AB ) combined with defibrillation during ongoing compressions ( n = 1300 ) or to manual CPR according to guidelines ( n = 1289 ) .
+METHODS	Four-hour survival , with secondary end points of survival up to 6 months with good neurological outcome using the Cerebral Performance Category ( CPC ) score .
+METHODS	A CPC score of 1 or 2 was classified as a good outcome .
+RESULTS	Four-hour survival was achieved in 307 patients ( 23.6 % ) with mechanical CPR and 305 ( 23.7 % ) with manual CPR ( risk difference , -0.05 % ; 95 % CI , -3.3 % to 3.2 % ; P > .99 ) .
+RESULTS	Survival with a CPC score of 1 or 2 occurred in 98 ( 7.5 % ) vs 82 ( 6.4 % ) ( risk difference , 1.18 % ; 95 % CI , -0.78 % to 3.1 % ) at intensive care unit discharge , in 108 ( 8.3 % ) vs 100 ( 7.8 % ) ( risk difference , 0.55 % ; 95 % CI , -1.5 % to 2.6 % ) at hospital discharge , in 105 ( 8.1 % ) vs 94 ( 7.3 % ) ( risk difference , 0.78 % ; 95 % CI , -1.3 % to 2.8 % ) at 1 month , and in 110 ( 8.5 % ) vs 98 ( 7.6 % ) ( risk difference , 0.86 % ; 95 % CI , -1.2 % to 3.0 % ) at 6 months with mechanical CPR and manual CPR , respectively .
+RESULTS	Among patients surviving at 6 months , 99 % in the mechanical CPR group and 94 % in the manual CPR group had CPC scores of 1 or 2 .
+CONCLUSIONS	Among adults with out-of-hospital cardiac arrest , there was no significant difference in 4-hour survival between patients treated with the mechanical CPR algorithm or those treated with guideline-adherent manual CPR .
+CONCLUSIONS	The vast majority of survivors in both groups had good neurological outcomes by 6 months .
+CONCLUSIONS	In clinical practice , mechanical CPR using the presented algorithm did not result in improved effectiveness compared with manual CPR .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00609778 .
+

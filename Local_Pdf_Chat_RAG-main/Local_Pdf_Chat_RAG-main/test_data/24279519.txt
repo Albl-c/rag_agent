@@ -1,0 +1,18 @@
+24279519
+BACKGROUND	Atopic dermatitis is a chronic inflammatory skin disease with a high prevalence rate and a large socioeconomic cost .
+BACKGROUND	There are many treatments for atopic dermatitis , such as antihistamine , tacrolimus and corticosteroids .
+BACKGROUND	However , due to concern about the adverse effects , many patients seek alternative treatments .
+BACKGROUND	In this context , natural products are gaining interest .
+BACKGROUND	KM110329 is a functional food consisting of four herbs that are beneficial to skin health .
+BACKGROUND	The purpose of this study is to assess the efficacy and safety of KM110329 for atopic dermatitis .
+METHODS	This study is a randomised , double-blind , placebo-controlled and multicentre trial of KM110329 .
+METHODS	For this study , we will recruit 66 atopic dermatitis patients of both sexes , with ages ranging from 18 to 65 , from three university hospitals .
+METHODS	The participants will receive either KM110329 or a placebo twice a day for 8 weeks .
+METHODS	The primary end point will be a change in the scoring atopic dermatitis ( SCORAD ) index .
+METHODS	The secondary end points will include changes to the dermatology life quality index ( DLQI ) and transepidermal water loss ( TEWL ) , among others .
+METHODS	The outcomes will be measured at every visit .
+METHODS	The study will be continued for 8 weeks and will include five visits with each subject ( at screening and at 0 , 1 , 4 and 8 weeks ) .
+CONCLUSIONS	This trial will provide research methodologies for evaluate clinical efficacy and safety of KM110329 in adult patients with atopic dermatitis .
+CONCLUSIONS	In addition , we will evaluate the changes in the general skin health status and quality of life .
+BACKGROUND	ClinicalTrials.gov NCT01692093 .
+

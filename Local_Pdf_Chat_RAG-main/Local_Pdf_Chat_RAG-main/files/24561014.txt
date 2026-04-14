@@ -1,0 +1,11 @@
+24561014
+OBJECTIVE	Regulatory Foxp3-expressing T cells ( Tregs ) , IL-10-producing B cells ( Bregs ) , and IDO-expressing dendritic cells ( DCregs ) downregulate inflammatory processes and induce peripheral tolerance , while Th17A and Th22 cell subpopulations are of proinflammatory nature .
+OBJECTIVE	The aims of the study were to characterize and to enumerate peripheral Tregs , Bregs , and DCregs and Th17A and Th22 cell subpopulations in kidney transplant recipients ( KTRs ) under belatacept or cyclosporine treatment .
+METHODS	Forty-one KRT patients ( 30 under belatacept treatment and 11 under cyclosporine treatment ) and 26 healthy donors ( HDs ) were included in the study .
+METHODS	CD19 ( + ) - expressing peripheral B lymphocytes were purified by positive selection .
+METHODS	IL-10-producing B cells , CD4 ( + ) / CD25 ( high ) Foxp3 ( + ) , and CD8 ( + ) / CD28 ( - ) Foxp3 ( + ) Tregs , CCR6 ( + ) / CD123 ( + ) / IDO ( + ) DCs , as well as Th17A and Th22 cell subpopulations were quantitated by flow cytometry .
+RESULTS	Of the IL-10-producing Bregs , CD19 ( + ) / CD24 ( high ) / CD38 ( high ) / CD5 ( + ) , CD19 ( + ) / CD24 ( high ) / CD38 ( high ) / CD10 ( + ) , CD19 ( + ) / CD24 ( high ) / CD38 ( high ) / CD20 ( + ) , and CD19 ( + ) / CD24 ( high ) / CD38 ( high ) / CD27 ( - ) had significant higher frequency in patients under belatacept treatment when compared with those under cyclosporine .
+RESULTS	Only CD19 ( + ) / CD24 ( high ) / CD38 ( high ) / CD27 ( + ) and CD19 ( + ) / CD24 ( high ) / CD38 ( high ) / CXCR7 ( + ) cells had significant higher frequency in patients under cycloporine treatment when compared to those under belatacept .
+RESULTS	The percentages of IDO-expressing pDC , CD4 ( + ) / CD25 ( high ) Foxp3 ( + ) , and CD8 ( + ) / CD28 ( - ) Foxp3 ( + ) were significantly higher in the belatacept group when compared the cyclosporine one , while Th17A and Th22 cells had significant higher frequency in the latter group .
+CONCLUSIONS	Belatacept seems to maintain and enhance , at least systemically , a tolerant profile to renal allograft in transplant recipients by means of higher circulatory frequencies of regulatory B , T and pDC subpopulations .
+

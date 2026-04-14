@@ -1,0 +1,11 @@
+24957977
+OBJECTIVE	Accumulating evidence indicates that plastic changes can be maladaptive in nature , resulting in movement and neurological disorders .
+OBJECTIVE	The aim of this study was to further the understanding of these neurophysiological changes in sensorimotor integration ( SMI ) using somatosensory evoked potentials ( SEPs ) and concurrent performance changes following a repetitive typing task .
+METHODS	SEPs were recorded following median nerve stimulation at the wrist and performed pre and post intervention .
+METHODS	24 participants were randomly assigned to either an intervention group which performed a 20min repetitive typing task or a control group which participated in a 20min period of mental recitation .
+RESULTS	The P22-N24 amplitude increased by 59.6 % , compared to only 0.96 % increase following the control .
+RESULTS	The P22-N30 SEP peak amplitude increased on average 13.4 % following the motor training , compared to only 0.92 % following the control .
+RESULTS	Significant improvement in reaction time when comparing performance of the motor task for the intervention group was observed .
+CONCLUSIONS	The N24 increase supports the involvement of cerebellar connections and the N30 increase provides further support for changes in SMI following motor learning .
+CONCLUSIONS	Combining motor training tasks with electrophysiological techniques gives insight into the mechanisms of disordered SMI and whether the changes are adaptive or maladaptive .
+

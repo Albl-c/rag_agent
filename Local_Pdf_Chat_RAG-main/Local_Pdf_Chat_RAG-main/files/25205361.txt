@@ -1,0 +1,18 @@
+25205361
+BACKGROUND	Neurofibromatosis type 1 ( NF1 ) is an autosomal dominant disorder with an estimated prevalence of about 1/3000 , independent of ethnicity , race , or gender .
+BACKGROUND	Attention Deficit Hyperactivity like Disorder ( ADHD ) - like characteristics are often reported in patients with NF1 .
+BACKGROUND	We hypothesised that learning disabilities in NF1 children were related to ADHD symptoms .
+BACKGROUND	Treatment with methylphenidate ( MPD ) has improved learning disabilities in ADHD by acting on neurotransmitters .
+BACKGROUND	Our objective was to evaluate its efficacy on ADHD-like symptoms in neurofibromatosis type 1 children ( 7-12 years ) .
+METHODS	This was a randomised , double blind , placebo controlled , and crossover trial comparing 0.5 to 0.8 mg/kg/d of MPD as it is indicated for ADHD to placebo in NF1 children with ADHD-like symptoms .
+METHODS	Children aged 7 to 12years were eligible when their IQ was between 80 and 120 .
+METHODS	The total follow-up was 9weeks including 4weeks for each period and 1week wash out .
+METHODS	Fifty subjects ( 25 for each period ) were required for testing the primary study hypothesis .
+METHODS	The main outcome was an improvement in scores on the simplified Conners ' Parent Rating Scale .
+RESULTS	Thirty-nine patients were included between April 2004 and December 2010 .
+RESULTS	Twenty participants received MPD and 19 placebo during the first period .
+RESULTS	They all completed the trial .
+RESULTS	MPD decreased the simplified Conners by 3.9 points ( 1.1 , p = 0.0003 ) .
+CONCLUSIONS	This is the first randomised controlled trial showing the short-term benefit of MPD on simplified Conners scores in NF1 children .
+BACKGROUND	ClinicalTrials.gov NCT00169611 .
+

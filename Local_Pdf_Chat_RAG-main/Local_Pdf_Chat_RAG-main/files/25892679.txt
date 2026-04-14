@@ -1,0 +1,21 @@
+25892679
+BACKGROUND	Early mobilisation after stroke is thought to contribute to the effects of stroke-unit care ; however , the intervention is poorly defined and not underpinned by strong evidence .
+BACKGROUND	We aimed to compare the effectiveness of frequent , higher dose , very early mobilisation with usual care after stroke .
+METHODS	We did this parallel-group , single-blind , randomised controlled trial at 56 acute stroke units in five countries .
+METHODS	Patients ( aged 18 years ) with ischaemic or haemorrhagic stroke , first or recurrent , who met physiological criteria were randomly assigned ( 1:1 ) , via a web-based computer generated block randomisation procedure ( block size of six ) , to receive usual stroke-unit care alone or very early mobilisation in addition to usual care .
+METHODS	Treatment with recombinant tissue plasminogen activator was allowed .
+METHODS	Randomisation was stratified by study site and stroke severity .
+METHODS	Patients , outcome assessors , and investigators involved in trial and data management were masked to treatment allocation .
+METHODS	The primary outcome was a favourable outcome 3 months after stroke , defined as a modified Rankin Scale score of 0-2 .
+METHODS	We did analysis on an intention-to-treat basis .
+METHODS	The trial is registered with the Australian New Zealand Clinical Trials Registry , number ACTRN12606000185561 .
+RESULTS	Between July 18 , 2006 , and Oct 16 , 2014 , we randomly assigned 2104 patients to receive either very early mobilisation ( n = 1054 ) or usual care ( n = 1050 ) ; 2083 ( 99 % ) patients were included in the 3 month follow-up assessment .
+RESULTS	965 ( 92 % ) patients were mobilised within 24 h in the very early mobilisation group compared with 623 ( 59 % ) patients in the usual care group .
+RESULTS	Fewer patients in the very early mobilisation group had a favourable outcome than those in the usual care group ( n = 480 [ 46 % ] vs n = 525 [ 50 % ] ; adjusted odds ratio [ OR ] 073 , 95 % CI 059-090 ; p = 0004 ) .
+RESULTS	88 ( 8 % ) patients died in the very early mobilisation group compared with 72 ( 7 % ) patients in the usual care group ( OR 134 , 95 % CI 093-193 , p = 0113 ) .
+RESULTS	201 ( 19 % ) patients in the very early mobilisation group and 208 ( 20 % ) of those in the usual care group had a non-fatal serious adverse event , with no reduction in immobility-related complications with very early mobilisation .
+CONCLUSIONS	First mobilisation took place within 24 h for most patients in this trial .
+CONCLUSIONS	The higher dose , very early mobilisation protocol was associated with a reduction in the odds of a favourable outcome at 3 months .
+CONCLUSIONS	Early mobilisation after stroke is recommended in many clinical practice guidelines worldwide , and our findings should affect clinical practice by refining present guidelines ; however , clinical recommendations should be informed by future analyses of dose-response associations .
+BACKGROUND	National Health and Medical Research Council , Singapore Health , Chest Heart and Stroke Scotland , Northern Ireland Chest Heart and Stroke , UK Stroke Association , National Institute of Health Research .
+

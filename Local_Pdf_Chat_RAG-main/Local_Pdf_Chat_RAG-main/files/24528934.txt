@@ -1,0 +1,15 @@
+24528934
+OBJECTIVE	To test a combination of dexamethasone intravitreal implant with macular grid laser for macular edema in patients with branch retinal vein occlusion ( BRVO ) .
+METHODS	Prospective interventional , randomized , multicenter study .
+METHODS	Patients with macular edema secondary to BRVO underwent an Ozurdex intravitreal implant at baseline .
+METHODS	After 1 month , patients were randomly assigned to 2 study groups .
+METHODS	Patients in Group 1 were followed up monthly and retreated with Ozurdex implant whenever there was a recurrence of macular edema or a decrease in best-corrected visual acuity ( BCVA ) .
+METHODS	In Group 2 patients macular grid laser was performed between weeks 6 and 8 .
+METHODS	After that , patients were followed up and retreated as for Group 1 .
+RESULTS	In Group 1 at 4 months , mean BCVA was 0.49 0.35 logMAR and central retinal thickness ( CRT ) was 391 172 m ; both improved significantly at 6 months , to 0.32 0.29 logMAR and 322 160 m , respectively .
+RESULTS	In Group 2 , CRT was reduced significantly to 291 76 m at 4 months , and BCVA improved to 0.25 0.20 logMAR .
+RESULTS	At the final visit , BCVA was 0.18 0.14 logMAR and mean CRT was 271 44 m.
+RESULTS	The number of Ozurdex implants at 4 months was 12 of 25 ( 48 % ) in Group 1 patients vs 3 of 25 ( 12 % ) in Group 2 patients ( P = .012 ) .
+RESULTS	At 6 months 3 of 25 patients ( 12 % ) in Group 1 vs 0 of 25 ( 0 % ) in Group 2 ( P = .23 ) were retreated .
+CONCLUSIONS	The combination of Ozurdex implant and macular grid laser is synergistic in increasing BCVA and lengthening the time between injections .
+

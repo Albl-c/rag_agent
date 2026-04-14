@@ -1,0 +1,20 @@
+25004917
+OBJECTIVE	To investigate whether an early rehabilitation intervention initiated during acute admission for exacerbations of chronic respiratory disease reduces the risk of readmission over 12 months and ameliorates the negative effects of the episode on physical performance and health status .
+METHODS	Prospective , randomised controlled trial .
+METHODS	An acute cardiorespiratory unit in a teaching hospital and an acute medical unit in an affiliated teaching district general hospital , United Kingdom .
+METHODS	389 patients aged between 45 and 93 who within 48 hours of admission to hospital with an exacerbation of chronic respiratory disease were randomised to an early rehabilitation intervention ( n = 196 ) or to usual care ( n = 193 ) .
+METHODS	The primary outcome was readmission rate at 12 months .
+METHODS	Secondary outcomes included number of hospital days , mortality , physical performance , and health status .
+METHODS	The primary analysis was by intention to treat , with prespecified per protocol analysis as a secondary outcome .
+METHODS	Participants in the early rehabilitation group received a six week intervention , started within 48 hours of admission .
+METHODS	The intervention comprised prescribed , progressive aerobic , resistance , and neuromuscular electrical stimulation training .
+METHODS	Patients also received a self management and education package .
+RESULTS	Of the 389 participants , 320 ( 82 % ) had a primary diagnosis of chronic obstructive pulmonary disease .
+RESULTS	233 ( 60 % ) were readmitted at least once in the following year ( 62 % in the intervention group and 58 % in the control group ) .
+RESULTS	No significant difference between groups was found ( hazard ratio 1.1 , 95 % confidence interval 0.86 to 1.43 , P = 0.4 ) .
+RESULTS	An increase in mortality was seen in the intervention group at one year ( odds ratio 1.74 , 95 % confidence interval 1.05 to 2.88 , P = 0.03 ) .
+RESULTS	Significant recovery in physical performance and health status was seen after discharge in both groups , with no significant difference between groups at one year .
+CONCLUSIONS	Early rehabilitation during hospital admission for chronic respiratory disease did not reduce the risk of subsequent readmission or enhance recovery of physical function following the event over 12 months .
+CONCLUSIONS	Mortality at 12 months was higher in the intervention group .
+CONCLUSIONS	The results suggest that beyond current standard physiotherapy practice , progressive exercise rehabilitation should not be started during the early stages of the acute illness.Trial registration Current Controlled Trials ISRCTN05557928 .
+

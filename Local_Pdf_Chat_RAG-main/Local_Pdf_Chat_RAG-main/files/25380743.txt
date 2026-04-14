@@ -1,0 +1,18 @@
+25380743
+BACKGROUND	Potential benefits of single-port laparoscopic surgery may include improved cosmetic results , less postoperative pain , surgical trauma and faster recovery .
+BACKGROUND	Results of randomized prospective studies with a focus on single-port rectal surgery have not yet been presented .
+BACKGROUND	The aim of the present study was to compare single-port and conventional laparoscopic surgery for rectal cancer in terms of short-term outcomes including postoperative pain and trauma-induced changes in certain bioactive substances .
+METHODS	Patients with non-metastasized rectal cancer were prospectively randomized to single-port ( n = 20 ) or conventional laparoscopic rectal surgery ( n = 20 ) .
+METHODS	Postoperative pain was assessed at rest , at coughing and during mobilization , with a numeric pain ranking score and was recorded at 6 h after the operation and subsequently every morning daily for 4 days .
+METHODS	Levels of C-reactive protein ( CRP ) , interleukin-6 ( IL-6 ) and tissue inhibitor of metalloproteinases-1 ( TIMP-1 ) were determined .
+METHODS	Blood samples were collected preoperatively ( baseline ) , and 6 , 24 , 48 , 72 and 96 h after skin incision .
+RESULTS	Pain scores were significantly reduced in the single-port group on postoperative days 2 , 3 and 4 during coughing and mobilization .
+RESULTS	In addition , the patients in the single-port group suffered significantly less pain at rest at 6 h after surgery and on postoperative days 1 , 3 and 4 .
+RESULTS	The levels of the three markers increased significantly after surgery .
+RESULTS	The increase was similar between groups for plasma IL-6 and TIMP-1 at all time points , while the CRP levels were significantly lower in the single-port group at 6 ( p < 0.001 ) and 24 h ( p < 0.05 ) after skin incision .
+RESULTS	Abdominal incisions lengths were significantly shorter in the single-port group ( p = 0.001 ) .
+RESULTS	There was no significant difference between groups in operating time and blood loss , morbidity or mortality rate .
+RESULTS	The short-term oncological outcome in the two groups was similar .
+CONCLUSIONS	Single-port rectal surgery may reduce postoperative pain .
+CONCLUSIONS	Although CRP levels were lower at some time points , results of the present randomized , pilot study suggest that the trauma-induced inflammatory response of single-port operations may be similar to the trauma-induced inflammatory response of conventional laparoscopic surgery .
+

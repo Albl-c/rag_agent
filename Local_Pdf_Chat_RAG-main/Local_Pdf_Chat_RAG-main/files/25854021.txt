@@ -1,0 +1,16 @@
+25854021
+OBJECTIVE	To observe the effect of electroacupuncture ( EA ) combined with ultraviolet therapy on herpes zoster at the acute stage and the impacts on serum interleukin 2 ( IL-2 ) , interleukin 6 ( IL-6 ) and interleukin 10 ( IL-10 ) in the patients .
+METHODS	Thirty-four patients of herpes zoster were randomized into a medicine group and a combined therapy group , 17 cases in each one .
+METHODS	In the medicine group , the intravenous drops with acyclovir injection , muscular injection with cobamamide and the topical with acyclovir ointment were applied .
+METHODS	Additionally , TDP was radiated locally .
+METHODS	In the combined therapy group , on the basis of the treatment as the medicine group , EA and ultraviolet therapy were supplemented .
+METHODS	The duration of treatment was 10 days in the two groups .
+METHODS	Before and after treatment , blister relief , incrustation time and the visible analogue scale ( VAS ) were recorded in the two groups .
+METHODS	The clinical efficacy was assessed in the two groups and the levels of serum IL-2 , IL-6 and IL-10 were determined in the two groups .
+RESULTS	In the combined therapy group , the time of blister relief and incrustation was earlier apparently than that in the medicine group ( both P < 0.05 ) .
+RESULTS	VAS score after treatment were reduced as compared with that before treatment in the two groups ( both P < 0.01 ) , and the reducing amplitude in the combined therapy group was larger than that in the medicine group ( P < 0.01 ) .
+RESULTS	The total effective rate was 94.1 % ( 16/17 ) in the combined therapy group , higher than 76.4 % ( 13/17 ) in the medicine group ( P < 0.05 ) .
+RESULTS	After treatment , IL-2 levels were increased as compared with those before treatment in the two groups ( both P < 0.05 ) , the levels of IL-6 and IL-10 were reduced obviously as compared with those before treatment in the two groups ( all P < 0.01 ) .
+RESULTS	After treatment , the levels of IL-6 , IL-10 were reduced much more apparently in the combined therapy group as compared with those in the medicine group ( both P < 0.05 ) .
+CONCLUSIONS	EA combined with ultraviolet irradiation more rapidly and effectively relief the symptoms of herpes zoster , significantly relief pain , shorten the duration of sickness , improve the body immunity and reduce nerve injury .
+

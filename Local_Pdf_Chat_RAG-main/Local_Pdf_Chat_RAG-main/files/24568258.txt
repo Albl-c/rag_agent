@@ -1,0 +1,16 @@
+24568258
+METHODS	Randomized clinical trial .
+OBJECTIVE	To compare the effects of functional stabilization training ( FST ) versus standard training on knee pain and function , lower-limb and trunk kinematics , trunk muscle endurance , and eccentric hip and knee muscle strength in women with patellofemoral pain .
+BACKGROUND	A combination of hip - and knee-strengthening exercise may be more beneficial than quadriceps strengthening alone to improve pain and function in individuals with patellofemoral pain .
+BACKGROUND	However , there is limited evidence of the effectiveness of these exercise programs on the biomechanics of the lower extremity .
+METHODS	Thirty-one women were randomized to either the FST group or standard-training group .
+METHODS	Patients attended a baseline assessment session , followed by an 8-week intervention , and were reassessed at the end of the intervention and at 3 months after the intervention .
+METHODS	Assessment measures were a 10-cm visual analog scale for pain , the Lower Extremity Functional Scale , and the single-leg triple-hop test .
+METHODS	A global rating of change scale was used to measure perceived improvement .
+METHODS	Kinematics were assessed during the single-leg squat .
+METHODS	Outcome measures also included trunk endurance and eccentric hip and knee muscle strength assessment .
+RESULTS	The patients in the FST group had less pain at the 3-month follow-up and greater global improvement and physical function at the end of the intervention compared to those in the standard-training group .
+RESULTS	Lesser ipsilateral trunk inclination , pelvis contralateral depression , hip adduction , and knee abduction , along with greater pelvis anteversion and hip flexion movement excursions during the single-leg squat , were only observed in the FST group after the intervention .
+RESULTS	Only those in the FST group had greater eccentric hip abductor and knee flexor strength , as well as greater endurance of the anterior , posterior , and lateral trunk muscles , after training .
+CONCLUSIONS	An intervention program consisting of hip muscle strengthening and lower-limb and trunk movement control exercises was more beneficial in improving pain , physical function , kinematics , and muscle strength compared to a program of quadriceps-strengthening exercises alone .
+

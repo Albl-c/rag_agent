@@ -1,0 +1,16 @@
+25650503
+OBJECTIVE	This randomized , double-blind 8 week study compared the efficacy and tolerability of fixed-dose treatment with vortioxetine ( 10mg/day ) and venlafaxine extended release ( XR ) ( 150mg/day ) in major depressive disorder ( MDD ) patients .
+METHODS	Patients aged 18-65 years with a primary diagnosis of recurrent MDD , a Montgomery-sberg Depression Rating Scale ( MADRS ) total score 26 and a Clinical Global Impression-Severity ( CGI-S ) score 4 were randomized ( 1:1 ) to treatment with either vortioxetine or venlafaxine XR .
+METHODS	The primary endpoint was change from baseline to Week 8 in MADRS total score ( analysis of covariance [ ANCOVA ] , full-analysis set [ FAS ] , last observation carried forward [ LOCF ] ) , using a non-inferiority margin of +2.5 points .
+METHODS	Pre-specified secondary endpoints included MADRS response and remission rates , anxiety symptoms ( HAM-A ) , CGI , overall functioning ( SDS ) , and health-related quality of life ( Q-LES-Q ) .
+BACKGROUND	This study ( SOLUTION ) has the www.ClinicalTrials.gov identifier : NCT01571453 .
+RESULTS	On the primary efficacy endpoint at Week 8 , non-inferiority was established with a difference of -1.2 MADRS points in favor of vortioxetine ( 95 % CI : -3.0 to 0.6 ) .
+RESULTS	The MADRS total score decreased ( improved ) from 32.34.6 at baseline to 13.69.6 ( vortioxetine : n = 209 ) and from 32.34.5 to 14.810.4 ( venlafaxine XR : n = 215 ) ( FAS , LOCF ) .
+RESULTS	At Week 8 , the HAM-A and SDS total scores , CGI and Q-LES-Q scores , and response and remission rates demonstrated similar improvement for vortioxetine and venlafaxine XR , with remission rates ( MADRS 10 ) of 43.1 % ( vortioxetine ) versus 41.4 % ( venlafaxine XR ) ( LOCF ) .
+RESULTS	Fewer vortioxetine than venlafaxine XR patients withdrew for any reason ( 18.0 % versus 27.4 % ) or for adverse events ( 6.6 % versus 13.7 % ) .
+RESULTS	The most frequent adverse events ( 5 % ) for both treatments were nausea , dizziness , headache , and dry mouth .
+RESULTS	In addition , accidental overdose , decreased appetite , constipation and insomnia were reported by ( 5 % ) of patients treated with venlafaxine XR .
+CONCLUSIONS	The inclusion and exclusion criteria may limit the generalizability of the study .
+CONCLUSIONS	Since patients with a history of lack of response to venlafaxine XR were excluded from this study , there is a selection bias in favor of venlafaxine XR .
+CONCLUSIONS	Vortioxetine was at least as efficacious as venlafaxine XR and was safe and better tolerated than venlafaxine XR .
+

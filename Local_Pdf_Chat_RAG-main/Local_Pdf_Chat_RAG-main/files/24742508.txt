@@ -1,0 +1,17 @@
+24742508
+OBJECTIVE	To investigate the influence of normal saline nasal irrigation with different temperature on allergic rhinitis ( AR ) and to confirm the appropriate temperature of nasal irrigation .
+METHODS	Sixty patients with AR were randomly divided into 3 groups ( according to random number table ) and received 15 C , 25 C or 40 C normal saline nasal irrigation respectively , and 20 healthy controls received no treatment .
+METHODS	Visual analogue scale ( VAS ) was used to assess the symptoms among the control group and the various intervention groups and the enzyme linked immunosorbent assay ( ELISA ) was applied to detect the contents of histamine , leukotriene C4 ( LTC4 ) , house dust mite D1 specific IGE ( sIGE ) and eosinophil cationic protein ( ECP ) among the control group and the various intervention groups .
+METHODS	GraphPad Prism 5 software was used to analyze the data .
+RESULTS	There was no statistical difference between 15 C normal saline nasal irrigation group and 25 C normal saline nasal irrigation group .
+RESULTS	Pre-intervention and post intervention whether is VAS scores of rhinorrhea , sneezing , nasal obstruction and nasal pruritis or in contents of histamine , LTC4 , sIgE and ECP showed no difference ( all P > 0.05 ) .
+RESULTS	However , the symptoms of ( sneezing VAS score : 3.765 0.291 ; nasal obstruction VAS score : 3.529 0.365 ) .
+RESULTS	The difference was significant ( t = 4.678 , P < 0.001 ; t = 3.901 , P < 0.01 ) .
+RESULTS	The contents of histamine [ ( 21.78 0.62 ) ng/ml ] and LTC4 ( 17.43 0.67 ng/ml ) were also decreased after intervention of 40 C normal saline nasal irrigation [ histamine content : ( 18.82 0.52 ) ng/ml ; LTC4 content : ( 13.14 0.59 ) ng/ml ] .
+RESULTS	The difference was significant ( t = 3.632 , P < 0.01 ; t = 4.79 , P < 0.001 ) .
+RESULTS	Nonetheless , there were no statistical differences in VAS scores of rhinorrhea ( t = 2.02 , P = 0.051 ) and nasal pruritis ( t = 1.984 , P = 0.056 ) and in contents of sIgE ( t = 1.891 , P = 0.066 ) and ECP ( t = 2.021 , P = 0.05 ) .
+RESULTS	There were statistical differences between the 40 C group and the 25 C group normal saline nasal irrigation group in symptoms of sneezing ( t = 2.060 , P = 0.048 ) and nasal obstruction ( t = 2.1053 , P = 0.048 ) .
+RESULTS	and inflammatory factors of histamine ( t = 2.078 , P = 0.045 ) and LTC4 ( t = 2.149 , P = 0.038 ) .
+RESULTS	In symptoms of rhinorrhea and nasal pruritis and local production of sIgE and ECP , there was no statistical difference ( all P > 0.05 ) .
+CONCLUSIONS	40 C normal saline nasal irrigation can improve the symptoms of sneezing and nasal obstruction and can alleviate the local levels of inflammatory factors like histamine and LTC4 in AR patients , and is the appropriate irrigation temperature .
+

@@ -1,0 +1,11 @@
+24955450
+OBJECTIVE	This study was designed to demonstrate the safety and efficacy of esomeprazole combined with flupentixol/melitracen for the treatment of gastroesophageal reflux disease ( GERD ) patients with emotional disorders .
+OBJECTIVE	METHODS Two hundred eighty-nine GERD patients with emotional disorders were divided randomly into two groups : group 1 received esomeprazole only ( monotherapy ) and group 2 received esomeprazole and flupentixol/melitracen ( combination therapy ) .
+OBJECTIVE	The patients ' GERD questionnaire ( GerdQ ) and hospital anxiety and depression ( HAD ) scores were obtained before and after treatment .
+OBJECTIVE	Changes in the scores , rates of symptom remission , and adverse effects were compared between the two groups .
+RESULTS	After 2 weeks of treatment , the average decrease in GerdQ score in the combination group ( 4.04 2.34 ) was significantly greater than that in the monotherapy group ( 3.34 2.74 ; P < 0.05 ) .
+RESULTS	Significant differences between the two groups were also found for changes in HAD anxiety scores ( 5.45 2.41 vs 3.34 2.43 , P < 0.05 ) , depression scores ( 5.47 2.47 vs 3.00 3.28 , P < 0.05 ) , and anxiety-depression scores ( 5.20 2.71 vs 3.60 2.56 , P < 0.05 ) .
+RESULTS	The remission of symptoms ( eructation , abdominal pain , anorexia , and other accompanying symptoms ) in the combination group was significantly better than that in the monotherapy group , and no significant difference in the incidence of adverse events was observed between the two groups .
+CONCLUSIONS	The combination therapy has better efficacy than the monotherapy in improving the symptoms of gastroesophageal reflux in patients with emotional disorders .
+CONCLUSIONS	In addition , this combination treatment is safe , with a low incidence of adverse events .
+

@@ -1,0 +1,10 @@
+24675241
+OBJECTIVE	The objectives of this prospective study were to compare the advantages of single-port laparoscopic cholecystectomy ( SPLC ) versus the classical four-port laparoscopic cholecystectomy ( CLC ) and to discuss these advantages in the light of current literature .
+METHODS	Forty eligible patients were randomized to receive SPLC ( Group A , N. = 20 ) and CLC ( Group B , N. = 20 ) , and investigated with regard to age , sex , BMI ( body mass index ) , ASA ( American Society of Anesthesiologists ) score , type of surgery , operative time , per-operative complication , indication for conversion to open surgery , indication for additional trocar placement in SPLC technique , post-operative pain score , additional narcotic analgesic requirement , nausea and vomiting , post-operative complication and length of hospital stay .
+METHODS	Visual analogue scale ( VAS ) was used for pain scoring in all cases .
+RESULTS	No significant difference was found among patients in Group A and Group B in terms of age , sex , weight/BMI , ASA score , VAS scores , additional analgesic requirement and length of hospital stay ( P > 0.05 ) .
+RESULTS	On the other hand , mean operative time in Group A was significantly ( P < 0.005 ) greater than that in Group B. Mean operative time in Group A was observed to be reduced after the first 10 operations .
+RESULTS	Conversion to open surgery was not required in any of the patients ; however , additional trocar placement was required in two patients in Group A due to body habitus and adhesions , and operations were completed laparoscopically .
+CONCLUSIONS	We conclude that SPLC is equally effective as CLC .
+CONCLUSIONS	Patient comfort is increased and pain is decreased as the surgeon gets experienced with the technique .
+

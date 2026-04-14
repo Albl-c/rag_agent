@@ -1,0 +1,10 @@
+25533727
+BACKGROUND	Observational evidence from behavioral weight control trials and community studies suggests that greater frequency of weighing oneself , or tracking weight , is associated with better weight outcomes .
+BACKGROUND	Conversely , it has also been suggested that frequent weight tracking may have a negative impact on mental health and outcomes during weight loss , but there are minimal experimental data that address this concern in the context of an active weight loss program .
+BACKGROUND	To achieve the long-term goal of strengthening behavioral weight loss programs , the purpose of this randomized controlled trial ( the Tracking Study ) is to test variations on frequency of self-weighing during a behavioral weight loss program , and to examine psychosocial and mental health correlates of weight tracking and weight loss outcomes .
+BACKGROUND	This paper describes the study design , intervention features , recruitment , and baseline characteristics of participants enrolled in the Tracking Study .
+METHODS	Three hundred thirty-nine overweight and obese adults were recruited and randomized to one of three variations on weight tracking frequency during a 12-month weight loss program with a 12-month follow-up : daily weight tracking , weekly weight tracking , or no weight tracking .
+METHODS	The primary outcome is weight in kilograms at 24 months .
+METHODS	The weight loss program integrates each weight tracking instruction with standard behavioral weight loss techniques ( goal setting , self-monitoring , stimulus control , dietary and physical activity enhancements , lifestyle modifications ) ; participants in weight tracking conditions were provided with wireless Internet technology ( wi-fi-enabled digital scales and touchscreen personal devices ) to facilitate weight tracking during the study .
+CONCLUSIONS	This study was successful in recruiting adult male and female participants and is positioned to enhance the standard of care with regard to weight tracking recommendations .
+

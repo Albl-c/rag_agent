@@ -1,0 +1,12 @@
+24501162
+BACKGROUND	The metabolic syndrome is the most important risk factor for cardiovascular disease .
+BACKGROUND	The heat shock proteins ( HSPs ) are highly conserved families of proteins expressed by a number of cell types following exposure to stressful environmental conditions include several known risk factors for cardiovascular disease .
+BACKGROUND	Recent studies have shown the potential of constituents of saffron in the treatment of atherosclerosis .
+BACKGROUND	We aimed on investigating the effect of saffron on antibody titers to HSP in patients with metabolic syndrome .
+METHODS	This was a randomized , placebo-controlled clinical trial .
+METHODS	One-hundred and five subjects with metabolic syndrome were randomly allocated to one of the three groups : the case group received 100 mg/day saffron , the placebo control group received a capsule of placebo and a non-placebo control group received no capsule , for 12 weeks .
+RESULTS	Antibodies against heat shock proteins 27 , 60 , 65 and 70 were determined in all patients before ( week 0 ) and after ( week 6 and 12 ) intervention .
+RESULTS	At 12 weeks , saffron produced a significantly decrease in AntiHSP27 , 70 levels .
+RESULTS	Saffron can decrease AntiHSP27 , 70 levels in patients with metabolic syndrome .
+CONCLUSIONS	The results of this study indicate the efficacy of saffron in the improvement of some markers of autoimmunity HSPs in patients with metabolic syndrome .
+

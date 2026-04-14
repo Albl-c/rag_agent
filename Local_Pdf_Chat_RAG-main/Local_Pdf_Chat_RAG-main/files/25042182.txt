@@ -1,0 +1,10 @@
+25042182
+BACKGROUND	Dystrophinopathy is a rare , severe muscle disorder , and nonsense mutations are found in 13 % of cases .
+BACKGROUND	Ataluren was developed to enable ribosomal readthrough of premature stop codons in nonsense mutation ( nm ) genetic disorders .
+METHODS	Randomized , double-blind , placebo-controlled study ; males 5 years with nm-dystrophinopathy received study drug orally 3 times daily , ataluren 10 , 10 , 20 mg/kg ( N = 57 ) ; ataluren 20 , 20 , 40 mg/kg ( N = 60 ) ; or placebo ( N = 57 ) for 48 weeks .
+METHODS	The primary endpoint was change in 6-Minute Walk Distance ( 6MWD ) at Week 48 .
+RESULTS	Ataluren was generally well tolerated .
+RESULTS	The primary endpoint favored ataluren 10 , 10 , 20 mg/kg versus placebo ; the week 48 6MWD = 31.3 meters , post hoc P = 0.056 .
+RESULTS	Secondary endpoints ( timed function tests ) showed meaningful differences between ataluren 10 , 10 , 20 mg/kg , and placebo .
+CONCLUSIONS	As the first investigational new drug targeting the underlying cause of nm-dystrophinopathy , ataluren offers promise as a treatment for this orphan genetic disorder with high unmet medical need .
+

@@ -1,0 +1,15 @@
+25835622
+OBJECTIVE	The clinical benefits and risks of dose escalation ( DE ) for stage III non-small-cell lung cancer ( NSCLC ) remain uncertain despite the results from Radiation Therapy Oncology Group ( RTOG ) protocol 0617 .
+OBJECTIVE	There is significant heterogeneity of practice , with many clinicians prescribing intermediate dose levels between the 0617 study arms of 60 and 74 Gy .
+OBJECTIVE	This study investigated whether this strategy is associated with any survival benefits/risks by analyzing a large multi-institutional database .
+METHODS	An individual patient database of stage III NSCLC patients treated with radical intent concurrent chemoradiation therapy was created ( 13 institutions , n = 1274 patients ) .
+METHODS	Patients were divided into 2 groups based on tumor Biological Effective Dose at 10 Gy ( BED 10 ) : those receiving standard dose ( SD ; n = 552 ) , consisting of 72Gy BED 10 76.8 Gy ( eg 60-64 Gy/30 -32 fractions [ fr ] ) , and those receiving intermediate dose ( ID ; n = 497 ) , consisting of 76.8 Gy < BED 10 < 100.8 Gy ( eg > 64 Gy/32 fr and < 74 Gy/37 fr ) , with lower-dose patients ( n = 225 ) excluded from consideration .
+METHODS	Patients were then matched using propensity scores , leading to 2 matched groups of 196 patients .
+METHODS	Outcomes were compared using various statistics including interquartile range ( IQR ) , Kaplan-Meier curves , and adjusted Cox regression analysis .
+RESULTS	Matched groups were found to be balanced except for N stage ( more N3 disease in SD ) , median treatment year ( SD in 2003 ; ID in 2007 ) , platinum and taxane chemotherapy ( SD in 28 % ; ID in 39 % ) , and median follow-up ( SD were 89 months ; ID were 40 months ) .
+RESULTS	Median dose fractionation was 60 Gy/30 fr in SD ( BED 10 IQR : 72.0-75 .5 Gy ) and 66 Gy/33 fr ( BED 10 IQR : 78.6-79 .2 Gy ) in ID .
+RESULTS	Survival curves for SD and ID matched cohorts were statistically similar ( P = .27 ) ; however , a nonstatistically significant trend toward better survival for ID was observed after 15 months ( median survival SD : 19.3 months ; ID : 21.0 months ) .
+RESULTS	There was an increase in grades III to V lung toxicity associated with ID ( 13.0 % vs 4.9 % , respectively ) .
+CONCLUSIONS	No significant overall survival benefits were found with intermediate DE ; however , more grade III or greater lung toxicity was observed .
+CONCLUSIONS	The separation of survival curves after 15 months of follow-up suggests that a small overall survival improvement associated with intermediate DE can not be excluded .
+

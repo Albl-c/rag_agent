@@ -1,0 +1,15 @@
+25136048
+BACKGROUND	The World Health Organization recommends vitamin A supplementation ( VAS ) at routine vaccination contacts after 6 months of age based on the assumption that it reduces mortality by 24 % .
+BACKGROUND	The policy has never been evaluated in randomized controlled trials for its effect on overall mortality .
+BACKGROUND	We conducted a randomized double-blind trial to evaluate the effect of VAS with vaccines .
+METHODS	We randomized children aged 6 to 23 months 1:1 to VAS ( 100000 IU if aged 6-11 months , 200000 IU if aged 12-23 months ) or placebo at vaccination contacts in Guinea-Bissau .
+METHODS	Mortality rates were compared in Cox proportional-hazards models overall , and by gender and vaccine .
+RESULTS	Between August 2007 and November 2010 , 7587 children were enrolled .
+RESULTS	Within 6 months of follow-up 80 nonaccident deaths occurred ( VAS : 38 ; placebo : 42 ) .
+RESULTS	The mortality rate ratio ( MRR ) comparing VAS versus placebo recipients was 0.91 ( 95 % confidence interval 0.59-1 .41 ) and differed significantly between boys ( MRR 1.92 [ 0.98-3 .75 ] ) and girls ( MRR 0.45 [ 0.24-0 .87 ] ) ( P = .003 for interaction between VAS and gender ) .
+RESULTS	At enrollment , 42 % ( 3161/7587 ) received live measles vaccine , 29 % ( 2154/7587 ) received inactivated diphtheria-tetanus-pertussis-containing vaccines , and 21 % ( 1610/7587 ) received both live and inactivated vaccines .
+RESULTS	The effect of VAS did not differ by vaccine group .
+CONCLUSIONS	This is the first randomized controlled trial to assess the effect of the policy on overall mortality .
+CONCLUSIONS	VAS had no overall effect , but the effect differed significantly by gender .
+CONCLUSIONS	More trials to ensure an optimal evidence-based vitamin A policy are warranted .
+

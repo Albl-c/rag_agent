@@ -1,0 +1,14 @@
+24687833
+OBJECTIVE	To evaluate panitumumab plus modified fluorouracil , leucovorin , and oxaliplatin ( mFOLFOX6 ) or bevacizumab plus mFOLFOX6 in patients with previously untreated wild-type ( WT ) KRAS exon 2 ( codons 12 and 13 ) metastatic colorectal cancer ( mCRC ) .
+OBJECTIVE	A prespecified secondary objective was to assess treatment effects in an extended RAS analysis that included exons 2 , 3 , and 4 of KRAS and NRAS .
+METHODS	Patients with WT KRAS exon 2 tumors were randomly assigned at a one-to-one ratio to panitumumab plus mFOLFOX6 or bevacizumab plus mFOLFOX6 .
+METHODS	The primary end point was progression-free survival ( PFS ) ; secondary end points included overall survival ( OS ) and safety .
+RESULTS	Of 285 randomly assigned patients , 278 received treatment .
+RESULTS	In the WT KRAS exon 2 intent-to-treat group , PFS was similar between arms ( hazard ratio [ HR ] , 0.87 ; 95 % CI , 0.65 to 1.17 ; P = .353 ) .
+RESULTS	Median OS was 34.2 and 24.3 months in the panitumumab and bevacizumab arms , respectively ( HR , 0.62 ; 95 % CI , 0.44 to 0.89 ; P = .009 ) .
+RESULTS	In the WT RAS subgroup ( WT exons 2 , 3 , and 4 of KRAS and NRAS ) , PFS favored the panitumumab arm ( HR , 0.65 ; 95 % CI , 0.44 to 0.96 ; P = .029 ) .
+RESULTS	Median OS was 41.3 and 28.9 months ( HR , 0.63 ; 95 % CI , 0.39 to 1.02 ; P = .058 ) in the panitumumab and bevacizumab arms , respectively .
+RESULTS	Treatment discontinuation rates because of adverse events were similar between arms .
+CONCLUSIONS	PFS was similar and OS was improved with panitumumab relative to bevacizumab when combined with mFOLFOX6 in patients with WT KRAS exon 2 tumors .
+CONCLUSIONS	Patients with WT RAS tumors seemed to experience more clinical benefit with anti-epidermal growth factor receptor therapy .
+

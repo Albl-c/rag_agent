@@ -1,0 +1,20 @@
+24225379
+OBJECTIVE	Nonarteriitic anterior ischemic optic neuropathy ( NAION ) is a leading cause of sudden loss of vision , which particularly affects individuals older than 50 years .
+OBJECTIVE	Up to now there is no treatment that is effective at reversing or limiting the course of this disease .
+OBJECTIVE	To study the short - and long-term effects of fluocortolone ( FC ) on the visual outcome of patients with acute NAION compared to standard treatment with pentoxifylline ( PFX ) .
+METHODS	A prospective , quasirandomized intervention trial was conducted involving 60 patients with acute-onset NAION .
+METHODS	Patients in the comparison ( PFX ) group ( n = 30 ) received PFX intravenously and per os for 7 days and then per os for a further 6 months , which is a standard treatment .
+METHODS	Patients in the intervention ( PFX + FC ) group ( n = 30 ) received the standard treatment plus 1 mg/kg FC for 5 days , with a subsequent stepwise dose reduction over time .
+METHODS	As a primary outcome measure , the best corrected visual acuity ( BCVA ) was determined at the initial baseline consultation ( i.e. , before treatment ) , and at 3 days and 6 months after therapy onset .
+METHODS	Visual field ( VF ) was analyzed using standard automated perimetry at the initial baseline examination and at 6 month after therapy onset .
+METHODS	Changes in BCVA and visual field in the PFX and PFX + FC groups were compared and analyzed statistically .
+RESULTS	Treatment with FC resulted in a significant improvement in BCVA .
+RESULTS	Patients receiving FC in acute NAION were more likely to experience improvement and less likely to have worsened visual acuity ( mean BCVA scores : at baseline , 0.22 ; after 3 days and 6 months of treatment , 0.33 and 0.43 , respectively ) than PFX patients ( mean BCVA scores : at baseline , 0.33 ; after 3 days and 6 months of treatment , 0.33 and 0.28 , respectively ; p < 0.002 and 0.001 ) .
+RESULTS	The beneficial effect was even more marked 6 months after therapy onset .
+RESULTS	Remarkably , patients with a baseline BCVA score of > = 0.05 profited significantly by FC treatment ( p < 0.006 and 0.001 ) , whereas those with a baseline BCVA score of < 0.05 did not ( p < 0.4 ) .
+RESULTS	PFX did not improve BCVA .
+RESULTS	However , VF did not show any significant improvement due to FC therapy .
+CONCLUSIONS	This is the first prospective randomized intervention trial that demonstrates the distinctive beneficial effects of FC in terms of the visual outcome of patients with NAION compared to standard treatment with only PFX .
+CONCLUSIONS	FC significantly improves both short - and long-term visual acuity in patients with moderate BCVA impairment due to recent onset of NAION , while VF did not show any significant improvement ; however , PFX did neither enhance BCVA nor VF .
+CONCLUSIONS	Administration of FC should be seriously considered for the treatment of NAION whenever there are no contraindications .
+

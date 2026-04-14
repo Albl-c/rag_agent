@@ -1,0 +1,14 @@
+24671361
+OBJECTIVE	Clinical decision support has the potential to improve prevention of venous thromboembolism ( VTE ) .
+OBJECTIVE	The purpose of this prospective study was to analyze the effect of electronic reminders on thromboprophylaxis rates in wards to which patients were admitted and transferred .
+OBJECTIVE	The latter was of particular interest since patient handoffs are considered to be critical safety issues .
+METHODS	The trial involved two study periods in the six departments of a university hospital , three of which were randomly assigned to the intervention group displaying reminders during the second period .
+METHODS	At 6h after admission or transfer , the algorithm checked for prophylaxis orders within 0-30h of the patient 's arrival , increasing the specificity of the displayed reminders .
+RESULTS	The significant impact of the reminders could be seen by prophylaxis orders placed 6-24h after admission ( increasing from 8.6 % ( 223/2579 ) to 12 % ( 307/2555 ) ; p < 0.0001 ) and transfer ( increasing from 2.4 % ( 39/1616 ) to 3.7 % ( 63/1682 ) ; p = 0.034 ) .
+RESULTS	In admission wards , the rate of thromboprophylaxis increased from 62.4 % to 67.7 % ( p < 0.0001 ) , and in transfer wards it increased from 80.2 % to 84.3 % ( p = 0.0022 ) .
+RESULTS	Overall , the rate of prophylaxis significantly increased in the intervention group from 69.2 % to 74.3 % ( p < 0.0001 ) .
+RESULTS	No significant changes were observed in the control group .
+RESULTS	Postponing prophylaxis checks to 6h after admissions and transfers reduced the number of reminders by 62 % and thereby minimized the risk of alert fatigue .
+CONCLUSIONS	The reminders improved awareness of VTE prevention in both admission and transfer wards .
+CONCLUSIONS	This approach may contribute to better quality of care and safer patient handoffs .
+

@@ -1,0 +1,15 @@
+25878306
+BACKGROUND	Radiostereometric analysis provides highly precise measurements of component micromotion relative to the bone that is otherwise undetectable by routine radiographs .
+BACKGROUND	This study compared , at a minimum of five years following surgery , the micromotion of tantalum and titanium acetabular cups and femoral head penetration in highly cross-linked polyethylene liners and conventional ( ultra-high molecular weight polyethylene ) liners in active patients who had undergone total hip replacement .
+METHODS	This institutional review board-approved prospective , randomized , blinded study involved forty-six patients .
+METHODS	Patients were randomized into one of four cohorts according to both acetabular cup and polyethylene liner .
+METHODS	Patients received either a cementless cup with a titanium mesh surface or a tantalum trabecular surface and either a highly cross-linked polyethylene liner or an ultra-high molecular weight polyethylene liner .
+METHODS	Radiostereometric analysis examinations and Short Form-36 Physical Component Summary , Western Ontario and McMaster Universities Osteoarthritis Index ( WOMAC ) , University of California Los Angeles ( UCLA ) activity , and Harris hip scores were obtained preoperatively , postoperatively , at six months , and annually thereafter .
+RESULTS	All patients had significant improvement ( p < 0.05 ) in Short Form-36 Physical Component Summary , WOMAC , UCLA activity , and Harris hip scores postoperatively .
+RESULTS	On radiostereometric analysis examination , highly cross-linked polyethylene liners showed significantly less median femoral head penetration at five years ( p < 0.05 ) .
+RESULTS	Steady-state wear rates from one year to five years were 0.04 mm per year for ultra-high molecular weight polyethylene liners and 0.004 mm per year for highly cross-linked polyethylene liners .
+RESULTS	At the five-year follow-up , the median migration ( and standard error ) was 0.05 0.20 mm proximally for titanium cups and 0.21 0.05 mm for tantalum cups .
+CONCLUSIONS	In this young population who had undergone total hip replacement , radiostereometric analysis showed significantly less femoral head penetration in the highly cross-linked polyethylene liners compared with that in the conventional ultra-high molecular weight polyethylene liners .
+CONCLUSIONS	Penetration rates were one order of magnitude less in highly cross-linked polyethylene liners compared with ultra-high molecular weight polyethylene liners .
+CONCLUSIONS	There was no significant difference in proximal migration between the tantalum and titanium acetabular cups through the five-year follow-up ( p > 0.19 ) .
+

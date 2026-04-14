@@ -1,0 +1,10 @@
+25319951
+OBJECTIVE	The beneficial effect of rosuvastatin against percutaneous coronary intervention ( PCI ) related procedural myocardial injury has been determined mostly in patients with acute coronary syndromes ( ACS ) .
+OBJECTIVE	However , the detailed therapeutic mechanism has not been well studied .
+METHODS	Patients with ACS receiving PCI ( n = 159 ) were randomized to control group ( placebo treatment ) or to rosuvastatin group ( 20 mg 12 h before PCI , and a further 20 mg 2 h preprocedure dose ) .
+METHODS	Levels of INF - , TNF - , IL-6 , miR-155 / SHIP-1 , and CD4 ( + ) FoxP3 ( + ) Treg in peripheral blood were detected before PCI and 24 h after PCI .
+METHODS	Clinical data of these patients were also collected in this prospective study .
+RESULTS	Compared with placebo , rosuvastatin treatment significantly reduced the incidence of periprocedural myocardial infarction ( PMI ) and levels of cardiac troponin I ( cTnI ) associated with decreased relative expression of serum miR-155 , levels of inflammatory cytokines ( INF - , TNF - , and IL-6 ) , increased SHIP-1 expression and CD4 ( + ) FoxP3 ( + ) Treg percentage values ( P < 0.05 ) .
+RESULTS	In addition , patients with rosuvastatin pretreatment also reduced incidence of 30 days major adverse cardiac events ( MACE ) compared to the patients with placebo treatment ( 16 patients vs. 28 patients , P = 0.038 ) .
+CONCLUSIONS	Our study suggests that high loading dose rosuvastatin pretreatment may reduce the incidence of cardiovascular events and levels of inflammatory markers in patients with ACS receiving PCI , which may be explained at least in part , by mechanism involving suppression of miR-155 / SHIP-1 signaling pathway .
+

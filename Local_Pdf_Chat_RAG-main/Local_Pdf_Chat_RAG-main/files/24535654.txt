@@ -1,0 +1,13 @@
+24535654
+BACKGROUND	To our knowledge , only a few double-blind randomized controlled trials with antipsychotic drugs have been conducted to examine the treatment of methamphetamine-induced psychosis ( MAP ) .
+OBJECTIVE	The aims of this study are to compare the antipsychotic and adverse events of quetiapine , an atypical antipsychotic drug , to haloperidol , a standard treatment for primary psychotic disorder , in individuals with MAP .
+METHODS	Eighty individuals with MAP were randomly assigned into two groups , i.e. treatment with quetiapine ( n = 36 ) and haloperidol ( n = 44 ) .
+METHODS	Sixty-eight patients ( 85 % ) completed the study protocol , i.e. treatment with quetiapine at least 100 mg per day or haloperidol at least 2 mg per day orally once a day for 4 weeks .
+METHODS	The doses were increased every 5 days until no psychotic symptom was observed from the Positive and Negative Syndrome Scale ( PANSS ) .
+METHODS	Data were analysed by survival analysis with Cox 's proportional regression analysis , general estimating equations and log-rank tests .
+RESULTS	Thirty-two ( 89 % ) subjects from the quetiapine group and 37 subjects ( 84 % ) from the haloperidol group met the remission criteria at the end of the study .
+RESULTS	Baseline PANSS total scores of quetiapine and haloperidol groups were 82.4 16.6 and 90.0 18.4 , respectively ( mean SD ; p = 0.06 ) .
+RESULTS	The change-from-baseline scores were -47.8 for the quetiapine group and -53.2 for the haloperidol group .
+RESULTS	There were no significant differences between the antipsychotic effects ( coefficient value = -2.6 , p = 0.32 , 95 % CI = -7.6 , 2.5 ) and the adverse effects of quetiapine and haloperidol .
+CONCLUSIONS	Quetiapine may be used as an antipsychotic treatment for MAP with comparable therapeutic effects and adverse events to treatment with classical antipsychotic drugs .
+

@@ -1,0 +1,17 @@
+25863562
+BACKGROUND	Vitamin D has immunomodulatory effects that might aid clearance of mycobacterial infection .
+BACKGROUND	We aimed to assess whether vitamin D supplementation would reduce time to sputum culture conversion in patients with active tuberculosis .
+METHODS	We did this randomised , double-blind , placebo-controlled , superiority trial at 13 sites in India .
+METHODS	Treatment-naive patients who were sputum-smear positive , HIV negative , and had pulmonary tuberculosis were randomly assigned ( 1:1 ) , with centrally labelled , serially numbered bottles , to receive standard active tuberculosis treatment with either supplemental high-dose oral vitamin D3 ( four doses of 25 mg at weeks 0 , 2 , 4 , and 6 ) or placebo .
+METHODS	Neither the patients nor the clinical and laboratory investigators and personnel were aware of treatment assignment .
+METHODS	The primary efficacy outcome was time to sputum culture conversion .
+METHODS	Analysis was by modified intention to treat .
+METHODS	This trial is registered with ClinicalTrials.gov , number NCT00366470 .
+RESULTS	Between Jan 20 , 2010 , and Aug 23 , 2011 , we randomly assigned 247 participants to the vitamin D group ( n = 121 ) or the placebo group ( n = 126 ) , of whom 211 participants ( n = 101 and n = 110 , respectively ) were included in the primary efficacy analysis .
+RESULTS	Median time to culture conversion in the vitamin D group was 430 days ( 95 % CI 333-528 ) versus 420 days ( 339-501 ) in the placebo group ( log-rank p = 095 ) .
+RESULTS	Three ( 2 % ) patients died in the vitamin D group and one ( 1 % ) patient died in the placebo group ; no death was considered attributable to the study intervention .
+RESULTS	No patients had hypercalcaemia .
+CONCLUSIONS	Our findings show that vitamin D supplementation did not reduce time to sputum culture conversion .
+CONCLUSIONS	Further studies should investigate the role of vitamin D in prevention or reactivation of tuberculosis infection .
+BACKGROUND	Dalhousie University and Infectious Diseases Training and Research Centre .
+

@@ -1,0 +1,12 @@
+24434439
+OBJECTIVE	To investigate the effects of intensive atorvastatin therapy on programmed cell death 4 ( PDCD4 ) expression by CD4 + T lymphocytes in patients with unstable angina who received percutaneous coronary intervention ( PCI ) .
+METHODS	Patients with unstable angina were randomized to pretreatment with either an intensive dose ( 80 mg/day , n = 33 ) or a conventional dose ( 20 mg/day , n = 33 ) of atorvastatin .
+METHODS	Circulating CD4 + T cells were subsequently obtained prior to PCI , and also 18-24 h after PCI , using a magnetic cell sorting system .
+METHODS	Fluorescence-based quantitative real-time PCR was then used to measure levels of PDCD4 mRNA in the isolated CD4 + T lymphocytes , and Western blot analysis was used to detect levels of PDCD4 .
+METHODS	Serum levels of interleukin ( IL ) -10 and TNF - were quantified using enzyme-linked immunosorbent assays .
+RESULTS	Of the 66 patients with unstable angina that were examined , levels of PDCD4 mRNA and protein were found to dramatically decrease in patients who received an intensive dose of atorvastatin following PCI ( p < 0.05 ) .
+RESULTS	In contrast , serum levels of TNF - significantly increased following PCI in both the intensive dose group and the conventional dose group , with the latter being higher than the former ( p < 0.05 ) .
+RESULTS	Serum IL-10 levels also markedly increased following PCI for the two groups .
+RESULTS	However , higher values were associated with the intensive dose group ( p < 0.05 ) .
+CONCLUSIONS	Intensive atorvastatin treatment reduced the post-PCI myocardial inflammatory response in patients with unstable angina , possibly by inhibiting PDCD4 expression in CD4 + T lymphocytes .
+

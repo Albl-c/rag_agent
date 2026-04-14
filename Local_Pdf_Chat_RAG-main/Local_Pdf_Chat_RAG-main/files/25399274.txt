@@ -1,0 +1,13 @@
+25399274
+OBJECTIVE	While effective in preventing stroke in patients with atrial fibrillation ( AF ) , warfarin is limited by a narrow therapeutic profile , a need for lifelong coagulation monitoring , and multiple drug and diet interactions .
+OBJECTIVE	To determine whether a local strategy of mechanical left atrial appendage ( LAA ) closure was noninferior to warfarin .
+METHODS	PROTECT AF was a multicenter , randomized ( 2:1 ) , unblinded , Bayesian-designed study conducted at 59 hospitals of 707 patients with nonvalvular AF and at least 1 additional stroke risk factor ( CHADS2 score 1 ) .
+METHODS	Enrollment occurred between February 2005 and June 2008 and included 4-year follow-up through October 2012 .
+METHODS	Noninferiority required a posterior probability greater than 97.5 % and superiority a probability of 95 % or greater ; the noninferiority margin was a rate ratio of 2.0 comparing event rates between treatment groups .
+METHODS	Left atrial appendage closure with the device ( n = 463 ) or warfarin ( n = 244 ; target international normalized ratio , 2-3 ) .
+METHODS	A composite efficacy end point including stroke , systemic embolism , and cardiovascular/unexplained death , analyzed by intention-to-treat .
+RESULTS	At a mean ( SD ) follow-up of 3.8 ( 1.7 ) years ( 2621 patient-years ) , there were 39 events among 463 patients ( 8.4 % ) in the device group for a primary event rate of 2.3 events per 100 patient-years , compared with 34 events among 244 patients ( 13.9 % ) for a primary event rate of 3.8 events per 100 patient-years with warfarin ( rate ratio , 0.60 ; 95 % credible interval , 0.41-1 .05 ) , meeting prespecified criteria for both noninferiority ( posterior probability , > 99.9 % ) and superiority ( posterior probability , 96.0 % ) .
+RESULTS	Patients in the device group demonstrated lower rates of both cardiovascular mortality ( 1.0 events per 100 patient-years for the device group [ 17/463 patients , 3.7 % ] vs 2.4 events per 100 patient-years with warfarin [ 22/244 patients , 9.0 % ] ; hazard ratio [ HR ] , 0.40 ; 95 % CI , 0.21-0 .75 ; P = .005 ) and all-cause mortality ( 3.2 events per 100 patient-years for the device group [ 57/466 patients , 12.3 % ] vs 4.8 events per 100 patient-years with warfarin [ 44/244 patients , 18.0 % ] ; HR , 0.66 ; 95 % CI , 0.45-0 .98 ; P = .04 ) .
+CONCLUSIONS	After 3.8 years of follow-up among patients with nonvalvular AF at elevated risk for stroke , percutaneous LAA closure met criteria for both noninferiority and superiority , compared with warfarin , for preventing the combined outcome of stroke , systemic embolism , and cardiovascular death , as well as superiority for cardiovascular and all-cause mortality .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00129545 .
+

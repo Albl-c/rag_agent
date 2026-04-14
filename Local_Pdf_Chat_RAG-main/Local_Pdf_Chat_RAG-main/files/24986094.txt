@@ -1,0 +1,13 @@
+24986094
+OBJECTIVE	Glycopyrronium ( NVA237 ) , a once-daily long-acting muscarinic antagonist , has recently been approved for the treatment of patients with chronic obstructive pulmonary disease ( COPD ) .
+OBJECTIVE	This study evaluated the effect of glycopyrronium on the QT interval and other cardiac parameters in healthy subjects .
+METHODS	This randomized , partially blinded , single-dose , placebo - and positive - ( moxifloxacin ) controlled , three-way cross-over study investigated the effect of a single inhaled supra-therapeutic dose ( 8-fold clinical dose in COPD patients ) of 400 g glycopyrronium on the Fridericia-corrected QT interval ( QTcF ; primary objective ) , Bazettcorrected QT interval ( QTcB ) , heart rate , blood pressure , pharmacokinetics ( PK ) , safety , and tolerability .
+RESULTS	A total of 73 healthy male ( n = 35 ) and female ( n = 38 ) subjects , aged between 18 and 45 years , were randomized .
+RESULTS	Glycopyrronium did not cause significant QTcF prolongation compared to placebo .
+RESULTS	The largest time-matched mean difference to placebo was 2.97 ms at 5 minutes , with the upper limit of the two-sided 90 % confidence interval ( CI ) being 4.80 ms , excluding a relevant QT effect as defined by the ICH E14 guideline .
+RESULTS	Glycopyrronium had a slight bradycardic effect with a mean change of -2.88 ( 90 % CI : -3.78 , -1.99 ) beats per minutes ( bpm ) and a maximum of -5.87 ( 90 % CI : -7.82 , -3.92 ) bpm at 5 hours post-inhalation .
+RESULTS	No clinically relevant effects were seen on QTcB , other electrocardiogram ( ECG ) intervals , or blood pressure .
+RESULTS	Maximum plasma concentration ( Cmax ) of glycopyrronium was achieved shortly after inhalation ( median tmax = 7 minutes ) .
+RESULTS	All the treatments were well tolerated with no serious adverse events .
+CONCLUSIONS	A supra-therapeutic dose of glycopyrronium had a favorable cardiovascular safety profile with no clinically relevant effect on QT interval .
+

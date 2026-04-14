@@ -1,0 +1,16 @@
+25571933
+BACKGROUND	Anaesthetists may fail to recognize and manage certain rare intraoperative events .
+BACKGROUND	Simulation has been shown to be an effective educational adjunct to typical operating room-based education to train for these events .
+BACKGROUND	It is yet unclear , however , why simulation has any benefit .
+BACKGROUND	We hypothesize that learners who are allowed to manage a scenario independently and allowed to fail , thus causing simulated morbidity , will consequently perform better when re-exposed to a similar scenario .
+METHODS	Using a randomized , controlled , observer-blinded design , 24 first-year residents were exposed to an oxygen pipeline contamination scenario , either where patient harm occurred ( independent group , n = 12 ) or where a simulated attending anaesthetist intervened to prevent harm ( supervised group , n = 12 ) .
+METHODS	Residents were brought back 6 months later and exposed to a different scenario ( pipeline contamination ) with the same end point .
+METHODS	Participants ' proper treatment , time to diagnosis , and non-technical skills ( measured using the Anaesthetists ' Non-Technical Skills Checklist , ANTS ) were measured .
+RESULTS	No participants provided proper treatment in the initial exposure .
+RESULTS	In the repeat encounter 6 months later , 67 % in the independent group vs 17 % in the supervised group resumed adequate oxygen delivery ( P = 0.013 ) .
+RESULTS	The independent group also had better ANTS scores [ median ( interquartile range ) : 42.3 ( 31.5-53 .1 ) vs 31.3 ( 21.6-41 ) , P = 0.015 ] .
+RESULTS	There was no difference in time to treatment if proper management was provided [ 602 ( 490-820 ) vs 610 ( 420-800 ) s , P = 0.79 ] .
+CONCLUSIONS	Allowing residents to practise independently in the simulation laboratory , and subsequently , allowing them to fail , can be an important part of simulation-based learning .
+CONCLUSIONS	This is not feasible in real clinical practice but appears to have improved resident performance in this study .
+CONCLUSIONS	The purposeful use of independent practice and its potentially negative outcomes thus sets simulation-based learning apart from traditional operating room learning .
+

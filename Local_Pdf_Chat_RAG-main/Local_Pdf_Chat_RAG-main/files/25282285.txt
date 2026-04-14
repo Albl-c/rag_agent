@@ -1,0 +1,24 @@
+25282285
+BACKGROUND	The main challenge in CT screening for lung cancer is the high prevalence of pulmonary nodules and the relatively low incidence of lung cancer .
+BACKGROUND	Management protocols use thresholds for nodule size and growth rate to determine which nodules require additional diagnostic procedures , but these should be based on individuals ' probabilities of developing lung cancer .
+BACKGROUND	In this prespecified analysis , using data from the NELSON CT screening trial , we aimed to quantify how nodule diameter , volume , and volume doubling time affect the probability of developing lung cancer within 2 years of a CT scan , and to propose and evaluate thresholds for management protocols .
+METHODS	Eligible participants in the NELSON trial were those aged 50-75 years , who have smoked 15 cigarettes or more per day for more than 25 years , or ten cigarettes or more for more than 30 years and were still smoking , or had stopped smoking less than 10 years ago .
+METHODS	Participants were randomly assigned to low-dose CT screening at increasing intervals , or no screening .
+METHODS	We included all participants assigned to the screening group who had attended at least one round of screening , and whose results were available from the national cancer registry database .
+METHODS	We calculated lung cancer probabilities , stratified by nodule diameter , volume , and volume doubling time and did logistic regression analysis using diameter , volume , volume doubling time , and multinodularity as potential predictor variables .
+METHODS	We assessed management strategies based on nodule threshold characteristics for specificity and sensitivity , and compared them to the American College of Chest Physicians ( ACCP ) guidelines .
+METHODS	The NELSON trial is registered at www.trialregister.nl , number ISRCTN63545820 .
+RESULTS	Volume , volume doubling time , and volumetry-based diameter of 9681 non-calcified nodules detected by CT screening in 7155 participants in the screening group of NELSON were used to quantify lung cancer probability .
+RESULTS	Lung cancer probability was low in participants with a nodule volume of 100 mm ( 3 ) or smaller ( 06 % [ 95 % CI 04-08 ] ) or maximum transverse diameter smaller than 5 mm ( 04 % [ 02-07 ] ) , and not significantly different from participants without nodules ( 04 % [ 03-06 ] , p = 017 and p = 100 , respectively ) .
+RESULTS	Lung cancer probability was intermediate ( requiring follow-up CT ) if nodules had a volume of 100-300 mm ( 3 ) ( 24 % [ 95 % CI 17-35 ] ) or a diameter 5-10 mm ( 13 % [ 10-18 ] ) .
+RESULTS	Volume doubling time further stratified the probabilities : 08 % ( 95 % CI 04-17 ) for volume doubling times 600 days or more , 40 % ( 18-83 ) for volume doubling times 400-600 days , and 99 % ( 69-141 ) for volume doubling times of 400 days or fewer .
+RESULTS	Lung cancer probability was high for participants with nodule volumes 300 mm ( 3 ) or bigger ( 169 % [ 95 % CI 141-200 ] ) or diameters 10 mm or bigger ( 152 % [ 127-181 ] ) .
+RESULTS	The simulated ACCP management protocol yielded a sensitivity and specificity of 909 % ( 95 % CI 812-961 ) , and 872 % ( 864-879 ) , respectively .
+RESULTS	A diameter-based protocol with volumetry-based nodule diameter yielded a higher sensitivity ( 924 % [ 95 % CI 831-971 ] ) , and a higher specificity ( 900 % [ 893-907 ) .
+RESULTS	A volume-based protocol ( with thresholds based on lung cancer probability ) yielded the same sensitivity as the ACCP protocol ( 909 % [ 95 % CI 812-961 ] ) , and a higher specificity ( 949 % [ 944-954 ] ) .
+CONCLUSIONS	Small nodules ( those with a volume < 100 mm ( 3 ) or diameter < 5 mm ) are not predictive for lung cancer .
+CONCLUSIONS	Immediate diagnostic evaluation is necessary for large nodules ( 300 mm ( 3 ) or 10 mm ) .
+CONCLUSIONS	Volume doubling time assessment is advocated only for intermediate-sized nodules ( with a volume ranging between 100-300 mm ( 3 ) or diameter of 5-10 mm ) .
+CONCLUSIONS	Nodule management protocols based on these thresholds performed better than the simulated ACCP nodule protocol .
+BACKGROUND	Zorgonderzoek Nederland Medische Wetenschappen and Koningin Wilhelmina Fonds .
+

@@ -1,0 +1,13 @@
+24468068
+BACKGROUND	Asymmetric movements with both hands contributed to the improvement of spatially coupled motion .
+BACKGROUND	Thus , the aim of this study was to investigate the effects of an asymmetric training program using virtual reality reflection equipment on upper limb function in stroke patients .
+METHODS	Twenty-four stroke patients were randomly allocated to an experimental group ( n = 12 ) or a control group ( n = 12 ) .
+METHODS	Both groups participated in conventional physical therapy for 230 min/d , 5 d/wk , for 4 weeks .
+METHODS	The experimental group also participated in an asymmetric training program using virtual reality reflection equipment , and the control group participated in a symmetric training program .
+METHODS	Both asymmetric and symmetric programs were conducted for 30 min/d , 5 d/wk , for 4 weeks .
+METHODS	To compare upper limb function before and after intervention , the Fugl-Meyer Assessment ( FMA ) , the Box and Block Test ( BBT ) , grip strength , range of motion ( ROM ) , and spasticity were assessed .
+RESULTS	Both groups showed significant increases in upper limb function , excepting spasticity , after intervention ( P < .05 , 1-way repeated-measures analysis of variance [ ANOVA ] ) .
+RESULTS	A significant group-time interaction was demonstrated only for shoulder/elbow/wrist items of FMA , BBT , grip strength , and ROM of wrist flexion , extension , and ulnar deviation ( P < .05 , 2-way repeated-measures ANOVA ) .
+CONCLUSIONS	This study confirms that the asymmetric training program using virtual reality reflection equipment is an effective intervention method for improving upper limb function in stroke patients .
+CONCLUSIONS	We consider that an additional study based on a program using virtual reflection , which is more functional than performing simple tasks , and consisting of tasks relevant to the activities of daily living be conducted .
+

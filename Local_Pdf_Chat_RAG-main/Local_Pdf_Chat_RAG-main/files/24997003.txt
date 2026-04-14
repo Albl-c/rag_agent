@@ -1,0 +1,11 @@
+24997003
+BACKGROUND	The evaluation of intestinal trophism , mainly the mucosal layer , is an important issue in various conditions associated with injury , atrophy , recovery , and healing of the gut .
+BACKGROUND	The aim of the present study was to evaluate the kinetics of the proliferation and apoptosis of enterocytes by immunohistochemistry and to assess the complexity of intestinal mucosa by fractal dimension ( FD ) analysis in Solea solea fed different experimental diets .
+RESULTS	Histomorphological evaluation of all intestinal segments did not show signs of degeneration or inflammation .
+RESULTS	Cell proliferation index and FD were significantly reduced with a diet high in mussel meal ( MM ; p = 0.0034 and p = 0.01063 , respectively ) , while apoptotic index did not show any significant difference for the same comparison ( p = 0.3859 ) .
+RESULTS	Linear regression analysis between apoptotic index ( independent variable ) and FD ( dependent variable ) showed a statistically significant inverse relationship ( p = 0.002528 ) .
+RESULTS	Linear regression analysis between cell proliferation index ( independent variable ) and FD ( dependent variable ) did not show any significant correlation ( p = 0.131582 ) .
+CONCLUSIONS	The results demonstrated that diets containing increasing levels of mussel meal in substitution of fishmeal did not incite a hyperplastic response of the intestinal mucosa .
+CONCLUSIONS	The mussel meal , which is derived from molluscs , could mimic the characteristics of the sole 's natural prey , being readily digestible , even without increasing the absorptive surface of intestinal mucosa .
+CONCLUSIONS	Interestingly , from this study emerged that FD could be used as a numeric indicator complementary to in situ quantification methods to measure intestinal trophism , in conjunction with functional parameters .
+

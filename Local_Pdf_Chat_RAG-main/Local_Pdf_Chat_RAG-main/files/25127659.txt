@@ -1,0 +1,15 @@
+25127659
+BACKGROUND	This study compared palonosetron and ondansetron as rescue medications for postoperative nausea and vomiting ( PONV ) in patients who received prophylactic ondansetron .
+BACKGROUND	Although guidelines recommend use of an agent from a different class when prophylaxis has failed , palonosetron has unique properties relative to other serotonin 5-HT3 receptor antagonists .
+BACKGROUND	Prior trials assessing its use for rescue have had conflicting results .
+BACKGROUND	Although palonosetron has compared favorably with ondansetron for PONV prevention , the drugs have not been compared in the rescue setting of failure of 5-HT3 receptor antagonist prophylaxis .
+METHODS	This was a randomized , open-label , multicenter trial comparing the efficacy and safety of intravenous palonosetron 0.075 mg and intravenous ondansetron 4mg in patients experiencing PONV following laparoscopic abdominal or gynecological surgery despite prophylactic ondansetron .
+RESULTS	Of 239 patients screened , 220 were enrolled and 98 were treated for PONV : 48 and 50 in the palonosetron and ondansetron arms , respectively .
+RESULTS	Complete control during 72hours after study drug administration was achieved in 25.0 % of palonosetron recipients and 18.0 % of ondansetron recipients ( 95 % confidence interval [ CI ] , -9.2 , 23.3 ; p = 0.40 ) .
+RESULTS	Corresponding incidences of vomiting were 29.2 % for palonosetron and 48.0 % for ondansetron ( 95 % CI , -0.06 , 37.7 ; p = 0.057 ) , and 62.5 % and 56.0 % required additional rescue treatment , respectively ( 95 % CI , -25.9 , 12.9 ; p = 0.52 ) .
+RESULTS	Other than a similar incidence of procedural pain in the 2 groups , the most common treatment-emergent adverse events , which were generally mild , were headache ( 14.6 % vs 12.0 % ) , constipation ( 8.3 % vs 10.0 % ) , and dizziness ( 6.3 % vs 8.0 % ) , for the palonosetron and ondansetron groups , respectively .
+CONCLUSIONS	Palonosetron and ondansetron did not show differences in the primary efficacy endpoint of CC during the 72hours after study drug administration .
+CONCLUSIONS	There was a trend toward less emesis in the 0-72h time period favoring palonosetron .
+CONCLUSIONS	While larger studies are needed to fully assess any clinical benefits of palonosetron to rescue patients who have failed ondansetron prophylaxis for PONV , the benefit , if any , would be limited based on this study .
+BACKGROUND	ClinicalTrials.gov , NCT00967499 ( Registered August 27 , 2009 ) .
+

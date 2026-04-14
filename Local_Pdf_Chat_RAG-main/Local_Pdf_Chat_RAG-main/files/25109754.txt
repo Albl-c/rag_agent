@@ -1,0 +1,12 @@
+25109754
+OBJECTIVE	The study objective was to determine the impact of diabetes on radial artery and saphenous vein graft occlusion and clinical outcomes more than 5 years after coronary artery bypass surgery in the multicenter Radial Artery Patency Study ( NCT00187356 ) .
+METHODS	A total of 529 patients aged less than 80 years with triple-vessel disease undergoing coronary bypass surgery participated in this study .
+METHODS	Angiographic follow-up occurred more than 5 years after surgery with annual clinical follow-up .
+METHODS	The primary objective was to compare the proportion of complete graft occlusion between radial artery and saphenous vein grafts among diabetic and nondiabetic persons .
+METHODS	Additional objectives included determining predictors of complete graft occlusion and comparison of major adverse cardiac events defined by cardiac death , late myocardial infarction , and reintervention .
+RESULTS	There were 148 of 529 patients ( 27.8 % ) with diabetes ; 269 patients ( 83/269 [ 30.9 % ] diabetic ) underwent late angiography at mean of 7.71.5 years after surgery .
+RESULTS	In diabetic patients , the proportion of complete graft occlusion was significantly lower in the radial grafts ( 4/83 [ 4.8 % ] ) than in the saphenous grafts ( 21/83 [ 25.3 % ] ) ( P = .0004 ) , and this was similar in nondiabetic patients ( P = .19 ) .
+RESULTS	Multivariate modeling showed that the use of the radial artery and high-grade target vessel stenosis were protective against late graft occlusion , whereas female gender , smoking history , and elevated creatinine were associated with an increased risk ; interaction between diabetic status and conduit type also was significant ( P = .02 ) .
+RESULTS	Major adverse cardiac events were higher in diabetic patients ( 23/148 [ 15.5 % ] vs 35/381 [ 9.2 % ] , P = .04 ) .
+CONCLUSIONS	The use of the radial artery should be strongly considered in diabetic patients undergoing coronary bypass surgery , especially with high-grade target vessel stenosis .
+

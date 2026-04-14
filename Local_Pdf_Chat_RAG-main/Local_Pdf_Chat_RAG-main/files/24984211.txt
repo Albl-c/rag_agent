@@ -1,0 +1,14 @@
+24984211
+BACKGROUND	Despite national guidelines recommending bone mineral density screening with dual-energy x-ray absorptiometry ( DXA ) in women aged 65 years and older , many women do not receive initial screening .
+OBJECTIVE	To determine the effectiveness of health system and patient-level interventions designed to increase appropriate DXA testing and osteoporosis treatment through ( 1 ) an invitation to self-refer for DXA ( self-referral ) ; ( 2 ) self-referral plus patient educational materials ; and ( 3 ) usual care ( UC , physician referral ) .
+METHODS	Parallel , group-randomized , controlled trials performed at Kaiser Permanente Northwest ( KPNW ) and Kaiser Permanente Georgia ( KPG ) .
+METHODS	Women aged 65 years and older without a DXA in past 5 years .
+METHODS	DXA completion rates 90 days after intervention mailing and osteoporosis medication receipt 180 days after initial intervention mailing .
+RESULTS	From > 12,000 eligible women , those randomized to self-referral were significantly more likely to receive a DXA than UC ( 13.0 % -24.1 % self-referral vs. 4.9 % -5.9 % UC , P < 0.05 ) .
+RESULTS	DXA rates did not significantly increase with patient educational materials .
+RESULTS	Osteoporosis was detected in a greater proportion of self-referral women compared with UC ( P < 0.001 ) .
+RESULTS	The number needed to receive an invitation to result in a DXA in KPNW and KPG regions was approximately 5 and 12 , respectively .
+RESULTS	New osteoporosis prescription rates were low ( 0.8 % -3.4 % ) but significantly greater among self-referral versus UC in KPNW .
+CONCLUSIONS	DXA rates significantly improved with a mailed invitation to schedule a scan without physician referral .
+CONCLUSIONS	Providing women the opportunity to self-refer may be an effective , low-cost strategy to increase access for recommended osteoporosis screening .
+

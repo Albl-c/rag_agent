@@ -1,0 +1,16 @@
+25692840
+BACKGROUND	The IMProved Reduction of Outcomes : Vytorin Efficacy International Trial ( IMPROVE-IT ) is evaluating the potential benefit for reduction in major cardiovascular ( CV ) events from the addition of ezetimibe versus placebo to 40 mg/d of simvastatin therapy in patients who present with acute coronary syndromes and have low-density lipoprotein cholesterol ( LDL-C ) 125 mg/dl .
+METHODS	Randomized double blind clinical trial in patients with acute coronary syndrome and low cholesterol level .
+METHODS	The simvastatin monotherapy arms LDL-C target was < 70 mg/dl , the comparison arm was simvastatin + ezetimibe .
+METHODS	Ezetimibe was assumed to further lower LDL-C by 15 mg/dl and produce an estimated ~ 8 % to 9 % treatment effect .
+METHODS	The primary composite end point was CV death , nonfatal myocardial infarction ( MI ) , nonfatal stroke , rehospitalization for unstable angina ( UA ) , and coronary revascularization ( 30 days postrandomization ) .
+METHODS	The targeted number of events was 5,250 .
+RESULTS	18,144 patients were enroled with either ST segment elevation MI ( STEMI , n = 5,192 ) or UA/non-ST segment elevation MI ( UA/NSTEMI , n = 12,952 ) from October 2005 to July 2010 .
+RESULTS	Primary endpoint occured in 2742 patients ( 34.7 % ) treated with simvastatin in monotherapy and in 2572 patients ( 32.7 % ) ( p = 0.016 ) treated with combination .
+RESULTS	Compared to patients with coronary heart disease given the drug simvastatin plus a placebo , those given both simvastatin and the non-statin drug , ezetimibe , had a 6.4 % lower combined risk of subsequent heart attack , stroke , cardiovascular death , rehospitalization for unstable angina and procedures to restore blood flow to the heart .
+RESULTS	Heart attacks alone were reduced by 13 % , and non-fatal stroke by 20 % .
+RESULTS	Deaths from cardiovascular disease were statistically the same in both groups .
+RESULTS	Patients were followed an average of approximately six years , and some as long as 8.5 years .
+RESULTS	Approximately 2 patients out of every 100 patients treated for 7 years avoided a heart attack or stroke [ Number Needed to Treat ( NNT ) = 50/7 years ] .
+CONCLUSIONS	The study has shown a claer benefit from combination treatment with simvastatin and ezetimibe in patients with acute coronary syndrome and low LDL-C .
+

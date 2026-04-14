@@ -1,0 +1,13 @@
+24284498
+BACKGROUND	Dietary sodium influences intermediate physiological traits in healthy adults independent of changes in blood pressure .
+BACKGROUND	The purpose of this study was to test the hypothesis that dietary sodium affects cardiac autonomic modulation during mental stress .
+METHODS	In a prospective , randomized cross-over design separated by 1 month between diets , 70 normotensive healthy young adults ( F/M : 44/26 , aged 18-38 years ) consumed a 5-day low ( 10 mmol/day ) , normal ( 150 mmol ) , and high ( 400 mmol ) sodium diet followed by heart rate variability ( HRV ) recordings at rest and during 5-min computerized mental arithmetic .
+METHODS	Women were studied in the low hormone phase of the menstrual cycle following each diet .
+RESULTS	Diet did not affect resting blood pressure , but heart rate ( HR ) ( mean SE ) was 66 1 , 64 1 , and 63 1 bpm in low , normal , and high sodium conditions , respectively ( analysis of variance P = 0.02 ) .
+RESULTS	For HRV , there was a main effect of sodium on resting SD of normalized RR intervals ( SDNN ) , square root of the mean squared difference of successive normalized RR intervals ( RMSSD ) , high frequency , low-frequency normalized units ( LFnu ) , and high-frequency normalized units ( HFnu ) ( P < 0.01 for all ) .
+RESULTS	The response to low sodium was most marked and consistent with sympathetic activation and reduced vagal activity , with increased LFnu and decreased SDNN , RMSSD , and HFnu compared to both normal and high sodium conditions ( P 0.05 for all ) .
+RESULTS	Dietary sodium-by-mental stress interactions were significant for mean NN , RMSSD , high-frequency power , LFnu , and low frequency/high frequency ratio ( P < 0.05 for all ) .
+RESULTS	The interactions signify that sodium restriction evoked an increase in resting sympathetic activity and reduced vagal activity to the extent that mental stress caused modest additional disruptions in autonomic balance .
+RESULTS	Conversely , normal and high sodium evoked a reduction in resting sympathetic activity and incremental increase in resting vagal activity , which were disrupted to a greater extent during mental stress compared to low sodium .
+CONCLUSIONS	We conclude that autonomic control of HRV at rest and during mental stress is altered by dietary sodium in healthy normotensive young adult men and women .
+

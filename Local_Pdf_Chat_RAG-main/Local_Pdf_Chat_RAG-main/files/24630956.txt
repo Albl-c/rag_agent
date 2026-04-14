@@ -1,0 +1,18 @@
+24630956
+OBJECTIVE	The purpose of this randomized controlled study was to compare knee stability , kneeling pain , harvest site pain , sensitivity loss , and subjective clinical outcome after primary anterior cruciate ligament ( ACL ) reconstruction with either bone-patellar tendon-bone ( BPTB ) or quadriceps tendon-bone ( QTB ) autografts in a noninferiority study design .
+METHODS	From 2005 to 2009 , a total of 51 patients were included in the present study .
+METHODS	Inclusion criteria were isolated ACL injuries in adults .
+METHODS	Twenty-five patients were randomized to BPTB grafts and 26 to QTB grafts .
+METHODS	An independent examiner performed follow-up evaluations 1 and 2 years postoperatively .
+METHODS	Anteroposterior knee laxity was measured with a KT-1000 arthrometer ( MEDmetric , San Diego , CA ) .
+METHODS	Anterior knee pain was assessed clinically and by knee-walking ability .
+METHODS	Knee Injury and Osteoarthritis Outcome Score ( KOOS ) and subjective International Knee Documentation Committee ( IKDC ) score were used for patient-evaluated outcome .
+RESULTS	Anterior knee laxity was equal between the 2 groups with KT-1000 values of 1.1 1.4 mm and 0.8 1.7 mm standard deviation ( SD ) at follow-up in QTB and BPTB groups , respectively ( P = .65 ) , whereas positive pivot shift test results were seen less frequently ( 14 % compared with 38 % , respectively ; P = .03 ) .
+RESULTS	Anterior kneeling pain , evaluated by the knee walking ability test , was significantly less in the QTB group , with only 7 % of patients grading knee walking as difficult or impossible compared with 34 % in the BPTB group .
+RESULTS	At 1 and 2 years ' follow-up , there was no difference between the 2 groups in subjective patient-evaluated outcome .
+RESULTS	The IKDC score was 75 13 patients and 76 16 SD at 1-year follow-up in QTB and BPTB groups , respectively ( P = .78 ) .
+RESULTS	At 2 years , 12 patients were lost to follow-up , resulting in 18 in the BPTB group and 21 in the QTB group .
+CONCLUSIONS	The use of the QTB graft results in less kneeling pain , graft site pain , and sensitivity loss than seen with BPTB grafts ; however , similar anterior knee stability and subjective outcomes are seen .
+CONCLUSIONS	The results of this study show that QTB is a viable option for ACL reconstruction .
+METHODS	Level II , randomized controlled clinical trial .
+

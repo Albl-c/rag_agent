@@ -1,0 +1,14 @@
+25461822
+OBJECTIVE	To compare response to upper-limb treatment using robotics plus motor learning ( ML ) versus functional electrical stimulation ( FES ) plus ML versus ML alone , according to a measure of complex functional everyday tasks for chronic , severely impaired stroke survivors .
+METHODS	Single-blind , randomized trial .
+METHODS	Medical center .
+METHODS	Enrolled subjects ( N = 39 ) were > 1 year postsingle stroke ( attrition rate = 10 % ; 35 completed the study ) .
+METHODS	All groups received treatment 5d/wk for 5h/d ( 60 sessions ) , with unique treatment as follows : ML alone ( n = 11 ) ( 5h/d partial - and whole-task practice of complex functional tasks ) , robotics plus ML ( n = 12 ) ( 3.5 h/d of ML and 1.5 h/d of shoulder/elbow robotics ) , and FES plus ML ( n = 12 ) ( 3.5 h/d of ML and 1.5 h/d of FES wrist/hand coordination training ) .
+METHODS	Primary measure : Arm Motor Ability Test ( AMAT ) , with 13 complex functional tasks ; secondary measure : upper-limb Fugl-Meyer coordination scale ( FM ) .
+RESULTS	There was no significant difference found in treatment response across groups ( AMAT : P. 584 ; FM coordination : P. 590 ) .
+RESULTS	All 3 treatment groups demonstrated clinically and statistically significant improvement in response to treatment ( AMAT and FM coordination : P. 009 ) .
+RESULTS	A group treatment paradigm of 1:3 ( therapist/patient ) ratio proved feasible for provision of the intensive treatment .
+RESULTS	No adverse effects .
+CONCLUSIONS	Severely impaired stroke survivors with persistent ( > 1y ) upper-extremity dysfunction can make clinically and statistically significant gains in coordination and functional task performance in response to robotics plus ML , FES plus ML , and ML alone in an intensive and long-duration intervention ; no group differences were found .
+CONCLUSIONS	Additional studies are warranted to determine the effectiveness of these methods in the clinical setting .
+

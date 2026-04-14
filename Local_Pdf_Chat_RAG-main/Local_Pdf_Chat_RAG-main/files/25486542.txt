@@ -1,0 +1,14 @@
+25486542
+OBJECTIVE	To compare outcomes of illuminated microcatheter-assisted circumferential trabeculotomy vs combined mitomycin C-augmented trabeculotomy-trabeculectomy for primary congenital glaucoma .
+METHODS	Prospective , randomized trial .
+METHODS	Of the 30 patients ( 60 eyes ) analyzed with bilateral primary congenital glaucoma aged 2 years , 1 eye of each patient was randomized to : illuminated microcatheter-assisted trabeculotomy ( Group I ) or combined trabeculotomy with trabeculectomy augmented with mitomycin C ( Group II ) .
+METHODS	Primary outcome measure was intraocular pressure ( IOP ) reduction .
+METHODS	Categorization into absolute success ( IOP 15mm Hg without medication ) and qualified success ( IOP 15mm Hg with medication ) was done .
+METHODS	Secondary outcomes included change in corneal diameter and clarity , optic disc status , refraction , need for anti-glaucoma therapy , and occurrence of complications .
+RESULTS	Mean age of patients was 6.63 5.74 months .
+RESULTS	IOP fell by 49.3 % ( 22.25 10.88 to 11.56 3.33 mm Hg ) in Group I and 46.6 % in Group II ( 21.73 8.89 to 11.60 3.03 mm Hg ) ( P < .001 in both ) .
+RESULTS	At 1 year , absolute success was achieved in 86.7 % ( 26/30 ) and 90.0 % ( 27/30 ) in Groups I and II , respectively ( P > .99 ) and qualified success in 93.3 % ( 28/30 ) in both groups ( P = 1 ) .
+RESULTS	There was significant improvement in corneal clarity ( P < .001 ) and cup-to-disc ratio ( P .01 ) in both groups at 1 year .
+RESULTS	Though incidence of hyphema was significantly more in Group I ( P = .0001 ) , no vision-threatening complications occurred in either group .
+CONCLUSIONS	Illuminated microcatheter-assisted circumferential trabeculotomy achieved comparable surgical outcomes to mitomycin C-augmented combined trabeculotomy-trabeculectomy and may be recommended as the initial surgical procedure for primary congenital glaucoma .
+

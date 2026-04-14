@@ -1,0 +1,13 @@
+25252721
+BACKGROUND	The 2010 American Heart Association guidelines suggested an increase in cardiopulmonary resuscitation compression depth with a target > 50 mm and no upper limit .
+BACKGROUND	This target is based on limited evidence , and we sought to determine the optimal compression depth range .
+RESULTS	We studied emergency medical services-treated out-of-hospital cardiac arrest patients from the Resuscitation Outcomes Consortium Prehospital Resuscitation Impedance Valve and Early Versus Delayed Analysis clinical trial and the Epistry-Cardiac Arrest database .
+RESULTS	We calculated adjusted odds ratios for survival to hospital discharge , 1-day survival , and any return of circulation .
+RESULTS	We included 9136 adult patients from 9 US and Canadian cities with a mean age of 67.5 years , mean compression depth of 41.9 mm , and a return of circulation of 31.3 % , 1-day survival of 22.8 % , and survival to hospital discharge of 7.3 % .
+RESULTS	For survival to discharge , the adjusted odds ratios were 1.04 ( 95 % CI , 1.00-1 .08 ) for each 5-mm increment in compression depth , 1.45 ( 95 % CI , 1.20-1 .76 ) for cases within 2005 depth range ( > 38 mm ) , and 1.05 ( 95 % CI , 1.03-1 .08 ) for percentage of minutes in depth range ( 10 % change ) .
+RESULTS	Covariate-adjusted spline curves revealed that the maximum survival is at a depth of 45.6 mm ( 15-mm interval with highest survival between 40.3 and 55.3 mm ) with no differences between men and women .
+CONCLUSIONS	This large study of out-of-hospital cardiac arrest patients demonstrated that increased cardiopulmonary resuscitation compression depth is strongly associated with better survival .
+CONCLUSIONS	Our adjusted analyses , however , found that maximum survival was in the depth interval of 40.3 to 55.3 mm ( peak , 45.6 mm ) , suggesting that the 2010 American Heart Association cardiopulmonary resuscitation guideline target may be too high .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00394706 .
+

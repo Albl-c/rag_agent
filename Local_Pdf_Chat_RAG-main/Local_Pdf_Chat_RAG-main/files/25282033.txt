@@ -1,0 +1,14 @@
+25282033
+OBJECTIVE	The OPTION ( Optimal Anti-Tachycardia Therapy in Implantable Cardioverter-Defibrillator Patients Without Pacing Indications ) trial sought to compare long-term rates of inappropriate shocks , mortality , and morbidity between dual-chamber and single-chamber settings in implantable cardioverter-defibrillators ( ICDs ) patients .
+BACKGROUND	The use of dual-chamber ICDs potentially allows better discrimination of supraventricular arrhythmias and thereby reduces inappropriate shocks .
+BACKGROUND	However , it may lead to detrimental ventricular pacing .
+METHODS	This prospective multicenter , single-blinded trial enrolled 462 patients with de novo primary or secondary prevention indications for ICD placement and with left ventricular ejection fractions 40 % despite optimal tolerated pharmacotherapy .
+METHODS	All patients received atrial leads and dual-chamber defibrillators that were randomized to be programmed either with dual-chamber or single-chamber settings .
+METHODS	In the dual-chamber setting arm , the PARAD + algorithm , which differentiates supraventricular from ventricular arrhythmias , and SafeR mode , to minimize ventricular pacing , were activated .
+METHODS	In the single-chamber setting arm , the acceleration , stability , and long cycle search discrimination criteria were activated , and pacing was set to VVI 40 beats/min .
+METHODS	Ventricular tachycardia detection was required at rates between 170 and 200 beats/min , and ventricular fibrillation detection was activated above 200 beats/min .
+RESULTS	During a follow-up period of 27 months , the time to the first inappropriate shock was significantly longer in the dual-chamber setting arm ( p = 0.012 , log-rank test ) , and 4.3 % of patients in the dual-chamber setting group compared with 10.3 % in the single-chamber setting group experienced inappropriate shocks ( p = 0.015 ) .
+RESULTS	Rates of all-cause death or cardiovascular hospitalization were 20 % for the dual-chamber setting group and 22.4 % for the single-chamber setting group and satisfied the pre-defined margin for equivalence ( p < 0.001 ) .
+CONCLUSIONS	Therapy with dual-chamber settings for ICD discrimination combined with algorithms for minimizing ventricular pacing was associated with reduced risk for inappropriate shock compared with single-chamber settings , without increases in mortality and morbidity .
+CONCLUSIONS	( Optimal Anti-Tachycardia Therapy in Implantable Cardioverter-Defibrillator [ ICD ] Patients Without Pacing Indications [ OPTION ] ; NCT00729703 ) .
+

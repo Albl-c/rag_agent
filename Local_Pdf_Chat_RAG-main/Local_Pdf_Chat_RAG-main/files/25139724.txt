@@ -1,0 +1,13 @@
+25139724
+OBJECTIVE	To determine if intrauterine administration of 5 cc of 2 % lidocaine in addition to paracervical block reduces pain during laminaria insertion , when compared with paracervical block and saline placebo .
+METHODS	This was a randomized , double blind placebo-controlled trial .
+METHODS	Women presenting for abortion by dilation and evacuation ( D&E ) at 14-24 weeks gestational age were randomized to receive an intrauterine instillation of either 5 mL of 2 % lidocaine or 5 mL of normal saline , in addition to standard paracervical block with 20 cc of 0.25 % bupivacaine .
+METHODS	Our primary outcome was self-reported pain scores on a 100mm Visual Analogue Scale ( VAS ) immediately following laminaria insertion .
+METHODS	Secondary outcome was self-reported VAS pain score indicating the maximum level of pain experienced during the 24-48-h interval between laminaria insertion and D&E procedure .
+RESULTS	Seventy-two women were enrolled , and data for 67 women were analyzed , only two of whom were more than 21 weeks on gestation .
+RESULTS	The range of pain scores at both time points was large ( 1-90 mm at laminaria insertion ; 0-100mm in laminaria-D & E interval ) .
+RESULTS	Mean pain scores were not different between treatment groups at laminaria insertion , ( 33 vs. 32 , p = .8 ) or in the laminaria - D&E interval ( 43 vs. 44 , p = .9 ) .
+CONCLUSIONS	Intrauterine administration of 5 cc of 2 % lidocaine in addition to paracervical block did not reduce pain with laminaria insertion when compared to paracervical block with saline placebo .
+CONCLUSIONS	Intrauterine lidocaine combined with paracervical block does not improve pain control at laminaria insertion when compared with paracervical block and saline placebo .
+CONCLUSIONS	Wide variation in pain scores and persistent pain after laminaria insertion suggests patient would benefit from more effective methods of pain control at laminaria insertion and during the post-laminaria interval .
+

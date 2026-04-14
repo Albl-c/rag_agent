@@ -1,0 +1,14 @@
+25090414
+BACKGROUND	We aimed to determine the effects of treatment with intravenous immunoglobulin on bacterial infections in patients with hypogammaglobulinemia ( HGG ) after lung transplantation .
+METHODS	We performed a randomized , double-blind , placebo-controlled two-period crossover trial of immune globulin intravenous ( IVIG ) , 10 % Purified ( Gamunex , Bayer , Elkhart , IN ) monthly in eleven adults who had undergone lung transplantation more than three months previously .
+METHODS	We randomized study participants to three doses of IVIG ( or 0.1 % albumin solution ( placebo ) ) given four weeks apart followed by a twelve week washout and then three doses of placebo ( or IVIG ) .
+METHODS	The primary outcome was the number of bacterial infections within each treatment period .
+RESULTS	IVIG had no effect on the number of bacterial infections during the treatment period ( 3 during IVIG and 1 during placebo ; odds ratio 3.5 , 95 % confidence interval 0.4 to 27.6 , p = 0.24 ) .
+RESULTS	There were no effects on other infections , use of antibiotics , or lung function .
+RESULTS	IVIG significantly increased trough IgG levels at all time points ( least square means , 765.3 mg/dl during IVIG and 486.3 mg/dl during placebo , p < 0.001 ) .
+RESULTS	Four serious adverse events ( resulting in hospitalization ) occurred during the treatment periods ( 3 during active treatment and 1 during the placebo period , p = 0.37 ) .
+RESULTS	Chills , flushing , and nausea occurred during one infusion of IVIG .
+CONCLUSIONS	Treatment with IVIG did not reduce the short-term risk of bacterial infection in patients with HGG after lung transplantation .
+CONCLUSIONS	The clinical efficacy of immunoglobulin supplementation in HGG related to lung transplantation over the long term or with recurrent infections is unknown .
+BACKGROUND	Clinicaltrials.gov NCT00115778 .
+

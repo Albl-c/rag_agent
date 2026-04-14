@@ -1,0 +1,16 @@
+24816691
+BACKGROUND	Minimally invasive surgeries of the soft palate have emerged as a less-invasive treatment for habitual snoring .
+BACKGROUND	To date , there is only limited information available comparing the effects of snoring sound between different minimally invasive surgeries in the treatment of habitual snoring .
+OBJECTIVE	To compare the efficacy of palatal implant and radiofrequency surgery , in the reduction of snoring through subjective evaluation of snoring and objective snoring sound analysis .
+METHODS	Thirty patients with habitual snoring due to palatal obstruction ( apnea-hypopnea index 15 , body max index 30 ) were prospectively enrolled and randomized to undergo a single session of palatal implant or temperature-controlled radiofrequency surgery of the soft palate under local anesthesia .
+METHODS	Snoring was primarily evaluated by the patient with a 10 cm visual analogue scale ( VAS ) at baseline and at a 3-month follow-up visit and the change in VAS was the primary outcome .
+METHODS	Moreover , life qualities , measured by snore outcomes survey , and full-night snoring sounds , analyzed by a sound analytic program ( Snore Map ) , were also investigated at the same time .
+RESULTS	Twenty-eight patients completed the study ; 14 received palatal implant surgery and 14 underwent radiofrequency surgery .
+RESULTS	The VAS and snore outcomes survey scores were significantly improved in both groups .
+RESULTS	However , the good response ( postoperative VAS 3 or postoperative VAS 5 plus snore outcomes survey score 60 ) rate of the palatal implant group was significantly higher than that of the radiofrequency group ( 79 % vs. 29 % , P = 0.021 ) .
+RESULTS	The maximal loudness of low-frequency ( 40-300 Hz ) snores was reduced significantly in the palatal implant group .
+RESULTS	In addition , the snoring index was significantly reduced in the radiofrequency group .
+CONCLUSIONS	Both palatal implants and a single-stage radiofrequency surgery improve subjective snoring outcomes , but palatal implants have a greater effect on most measures of subjective and objective snoring .
+CONCLUSIONS	Multi-stage radiofrequency surgery was not tested .
+BACKGROUND	ClinicalTrials.gov NCT01955083 .
+

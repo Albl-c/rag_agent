@@ -1,0 +1,13 @@
+25016216
+BACKGROUND	Depression during pregnancy has been demonstrated to be predictive of low birthweight , prematurity , and postpartum depression .
+BACKGROUND	These adverse outcomes potentially have lasting effects on maternal and child well-being .
+BACKGROUND	Socio-economically disadvantaged women are twice as likely as middle-class women to meet diagnostic criteria for antenatal major depression ( MDD ) , but have proven difficult to engage and retain in treatment .
+BACKGROUND	Collaborative care treatment models for depression have not been evaluated for racially/ethnically diverse , pregnant women on Medicaid receiving care in a public health system .
+BACKGROUND	This paper describes the design , methodology , culturally relevant enhancements , and implementation of a randomized controlled trial of depression care management compared to public health Maternity Support Services ( MSS ) .
+METHODS	Pregnant , public health patients , > 18 years with a likely diagnosis of MDD or dysthymia , measured respectively by the Patient Health Questionnaire-9 ( PHQ-9 ) or the Mini-International Neuropsychiatric Interview ( MINI ) , were randomized to the intervention or to public health MSS .
+METHODS	The primary outcome was reduction in depression severity from baseline during pregnancy to 18-months post-baseline ( one-year postpartum ) .
+RESULTS	168 women with likely MDD ( 96.4 % ) and/or dysthymia ( 24.4 % ) were randomized .
+RESULTS	Average age was 27.6 years and gestational age was 22.4 weeks ; 58.3 % racial/ethnic minority ; 71.4 % unmarried ; 22 % no high school degree/GED ; 65.3 % unemployed ; 42.1 % making < $ 10,000 annually ; 80.4 % having recurrent depression ; 64.6 % PTSD , and 72 % unplanned pregnancy .
+CONCLUSIONS	A collaborative care team , including a psychiatrist , psychologist , project manager , and 3 social workers , met weekly , collaborated with the patients ' obstetrics providers , and monitored depression severity using an electronic tracking system .
+CONCLUSIONS	Potential sustainability of the intervention within a public health system requires further study .
+

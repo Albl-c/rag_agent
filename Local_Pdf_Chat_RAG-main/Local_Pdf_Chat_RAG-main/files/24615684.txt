@@ -1,0 +1,14 @@
+24615684
+BACKGROUND	Previous reports suggest that adherence to patching is a major issue in amblyopia treatment .
+BACKGROUND	We tested with an unmasked randomised controlled clinical trial whether an intense educational/motivational intervention improves adherence when a high-dose regime is prescribed .
+METHODS	62 children with newly diagnosed amblyopia were randomly allocated into two treatment arms with and without educational/motivational intervention material .
+METHODS	Both were prescribed patching 10 h/day , 6 days/week for a fixed period of 12 weeks .
+METHODS	The intervention arm received an educational/motivational intervention before patching which included information booklets , video , a cartoon story book , sticker charts and a dedicated session with a researcher .
+METHODS	The control arm received the usual clinical information .
+METHODS	The primary outcome measure was adherence measured using electronic occlusion dose monitors where a success/failure binary outcome was used to account for participants who dropped out of the study defined as patching > 4 h/day .
+METHODS	Visual outcome , expressed as percentage visual deficit , was measured as secondary outcome .
+RESULTS	The intervention increased adherence success rate from 45.2 % in the control group to 80.6 % in the intervention group ( p = 0.0027 ) .
+RESULTS	However , visual outcome was not significantly better in the intervention group ( p = 0.190 ) .
+CONCLUSIONS	Our study shows that an intense educational/motivational intervention can improve adherence to patching to high prescribed doses although no significant improvement in visual outcome was observed .
+CONCLUSIONS	TRIALS REGISTRATION NUMBER : ISRCTN05346737 ( International Standard Randomised Controlled Trial Number Register ) .
+

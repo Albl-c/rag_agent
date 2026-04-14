@@ -1,0 +1,12 @@
+24875810
+BACKGROUND	The aim of this study was to evaluate the efficacy of buttressed stapling using a stapler with an attached polyglycolic acid sheet in reducing the rate of air leak associated with pulmonary lobectomy .
+BACKGROUND	Materials and
+METHODS	A prospective , randomized , phase III study was conducted to confirm the superiority of a buttressed stapler in a test treatment group to a conventional nonbuttressed stapler in a current international standard of care group among patients undergoing pulmonary lobectomy .
+METHODS	The primary end point was the frequency of intraoperative air leaks .
+RESULTS	Although no fatal postoperative bleeding occurred in the present study , this trial closed early with 100 patients because the manufacturer recalled the buttressed stapler based on reports of 13 serious injuries and 3 fatalities following pulmonary resection in routine clinical practice .
+RESULTS	A total of 76 patients treated with a stapler ( 35 in the non-B group and 41 in the B group ) were included as subjects in the analysis .
+RESULTS	No statistical differences were observed between the groups in the frequency of intraoperative air leaks ( 22 [ 63 % ] vs. 26 [ 63 % ] ) or the postoperative duration of air leaks ( mean : 3.5 vs. 2.9 days ) .
+RESULTS	The frequency of air leak from stapler holes was significantly lower in the B group than in the non-B group ( 2 % [ 1/41 ] vs. 20 % [ 7/35 ] ; p = 0.016 ) .
+CONCLUSIONS	The efficacy of buttressed stapling in reducing the rate of air leak in patients undergoing pulmonary lobectomy could not be clearly demonstrated .
+CONCLUSIONS	However , air leak from stapler holes can be prevented with buttressed stapling .
+

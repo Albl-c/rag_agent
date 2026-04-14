@@ -1,0 +1,13 @@
+24423909
+OBJECTIVE	To explore the effects of nutritional liquid supplement designed for diabetes mellitus on postprandial glucose state and pregnancy outcomes in patients with gestational diabetes mellitus ( GDM ) .
+METHODS	A total of 69 cases of pregnant GDM women at Department of Obstetrics & Gynecology , First Affiliated Hospital , Chongqing Medical University from October 2011 to January 2012 were randomized into the intervention and control groups .
+METHODS	But only 31 cases in intervention group finished the study versus 29 cases in control group .
+METHODS	The inter-group differences were analyzed for general clinical profiles before intervention , 2-hour postprandial blood glucose levels and pregnancy outcomes , etc. .
+METHODS	The General Linear Model Repeated Measures process was used to analyze the variance of 2-hour postprandial blood glucose data .
+METHODS	And the Mauchy 's test of sphericity was employed to determine the correlation .
+RESULTS	( 1 ) No significant difference in general clinical profiles before intervention between intervention and control groups ( P > 0.05 ) .
+RESULTS	( 2 ) The mean values of 2-hour postprandial blood glucose were as follows : intervention group ( mmol/L ) : 6.2 0.7 ( 1w ) , 5.9 0.5 ( 2w ) , 5.7 0.5 ( 3w ) , 5.8 0.6 ( 4w ) , 5.7 0.5 ( 5w ) , 5.7 0.4 ( 6w ) , 5.9 0.3 ( 7w ) , 6.0 0.4 ( 8w ) , 6.0 0.5 ( 9w ) ; control group : 6.7 0.3 ( 1w ) , 6.2 0.4 ( 2w ) , 6.2 0.5 ( 3w ) , 6.2 0.4 ( 4w ) , 6.1 0.4 ( 5w ) , 6.0 0.3 ( 6w ) , 5.8 0.4 ( 7w ) , 6.1 0.4 ( 8w ) , 6.1 0.4 ( 9w ) .
+RESULTS	The results of Mauchy 's test of sphericity indicated that the blood glucose level of the intervention group was significantly lower than that of the control group ( P < 0.01 ) .
+RESULTS	( 3 ) The incidence of premature rupture of membranes and polyhydramnios , rate of neonatal pneumonia , weight of newborn and pregnancy women and level of glycosylated hemoglobin in intervention group were significantly lower than those in control group ( P < 0.05 ) .
+CONCLUSIONS	Compared with common diet , after using nutritional supplement , the postprandial blood glucose level is significantly reduced and the pregnancy outcomes also improved in GDM patients .
+

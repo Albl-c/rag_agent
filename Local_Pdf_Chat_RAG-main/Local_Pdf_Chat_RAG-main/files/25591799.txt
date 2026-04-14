@@ -1,0 +1,16 @@
+25591799
+BACKGROUND	Tivozanib hydrochloride ( tivozanib ) is a potent and selective tyrosine kinase inhibitor of all 3 vascular endothelial growth factor receptors with antitumor activity additive to 5-fluorouracil in preclinical models .
+BACKGROUND	This study was conducted to determine maximum tolerated dose ( MTD ) , dose-limiting toxicities ( DLTs ) , pharmacokinetics ( PKs ) , and antitumor activity of escalating doses of tivozanib with a modified ( m ) FOLFOX-6 ( leucovorin , 5-fluorouracil [ 5-FU ] , and 85 mg/kg ( 2 ) oxaliplatin ) regimen in patients with advanced gastrointestinal tumors .
+METHODS	Tivozanib was administered orally once daily for 21 days in 28-day cycles , with mFOLFOX-6 administered every 14 days .
+METHODS	Patients were allowed to continue tivozanib after discontinuation of mFOLFOX-6 .
+RESULTS	Thirty patients were assigned to tivozanib 0.5 mg ( n = 9 ) , 1.0 mg ( n = 3 ) , or 1.5 mg ( n = 18 ) with mFOLFOX-6 .
+RESULTS	Patients received a median of 5.2 ( range , 0.03-26 .9 ) months of tivozanib .
+RESULTS	DLTs were observed in 2 patients : Grade 3/4 transaminase level increases with tivozanib 0.5 mg , and Grade 3 dizziness with tivozanib 1.5 mg .
+RESULTS	Other Grade 3/4 adverse events included hypertension ( n = 8 ) , fatigue ( n = 8 ) , and neutropenia ( n = 6 ) .
+RESULTS	MTD for tivozanib with mFOLFOX-6 was confirmed as 1.5 mg .
+RESULTS	No PK interactions between tivozanib and mFOLFOX-6 were observed .
+RESULTS	One patient had an ongoing clinical complete response , 10 had a partial response , and 11 obtained prolonged stable disease .
+CONCLUSIONS	Tivozanib and mFOLFOX-6 is feasible and appears to be safe .
+CONCLUSIONS	The recommended dose for tivozanib with mFOLFOX-6 is 1.5 mg/d .
+CONCLUSIONS	Observed clinical activity merits further exploration in gastrointestinal tumors .
+

@@ -1,0 +1,13 @@
+24876261
+OBJECTIVE	The Interventional Management of Stroke ( IMS ) III study tested the effect of intravenous tissue-type plasminogen activator ( tPA ) alone when compared with intravenous tPA followed by endovascular therapy and collected cost data to assess the economic implications of the 2 therapies .
+OBJECTIVE	This report describes the factors affecting the costs of the initial hospitalization for acute stroke subjects from the United States .
+METHODS	Prospective cost analysis of the US subjects was treated with intravenous tPA alone or with intravenous tPA followed by endovascular therapy in the IMS III trial .
+METHODS	Results were compared with expected Medicare payments .
+RESULTS	The adjusted cost of a stroke admission in the study was $ 35 130 for subjects treated with endovascular therapy after intravenous tPA treatment and $ 25 630 for subjects treated with intravenous tPA alone ( P < 0.0001 ) .
+RESULTS	Significant factors related to costs included treatment group , baseline National Institutes of Health Stroke Scale , time from stroke onset to intravenous tPA , age , stroke location , and comorbid diabetes mellitus .
+RESULTS	The mean cost for subjects who had routine use of general anesthesia as part of endovascular therapy was $ 46 444 when compared with $ 30 350 for those who did not have general anesthesia .
+RESULTS	The costs of embolectomy for IMS III subjects and patients from the National Inpatient Sample cohort exceeded the Medicare diagnosis-related group payment in 75 % of patients .
+CONCLUSIONS	Minimizing the time to start of intravenous tPA and decreasing the use of routine general anesthesia may improve the cost-effectiveness of medical and endovascular therapy for acute stroke .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00359424 .
+

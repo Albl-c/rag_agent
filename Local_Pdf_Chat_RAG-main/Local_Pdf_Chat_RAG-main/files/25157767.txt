@@ -1,0 +1,19 @@
+25157767
+BACKGROUND	We hypothesized that the combination of bevacizumab , carboplatin , and pemetrexed will be an effective first-line regimen in fit , elderly patients with nonsquamous non-small-cell lung cancer .
+METHODS	Treatment-nave , stage IIIB/IV nonsquamous non-small-cell lung cancer patients more than 70 years old with good performance status ( Eastern Cooperative Oncology Group performance status 0-1 ) and adequate organ function were eligible .
+METHODS	Carboplatin area under the curve 6 , pemetrexed 500 mg/m , and bevacizumab 15 mg/kg were administered on day 1 of each 21-day cycle ( up to six cycles ) followed by maintenance pemetrexed and bevacizumab .
+METHODS	The primary end point of 6-month progression-free survival rate of at least 70 % was assessed using a one-stage binomial design .
+METHODS	Quality of life ( QOL ) questionnaires were administered .
+METHODS	Polymorphisms in genes encoding relevant proteins ( drug targets , transport , and metabolism proteins ) were correlated with treatment outcome .
+RESULTS	Fifty-seven eligible patients were enrolled .
+RESULTS	Median age was 74.5 years .
+RESULTS	Median treatment cycles received was 6 .
+RESULTS	The most common grade 3 or higher non-hematologic adverse events were fatigue ( 26 % ) and hypertension ( 11 % ) ; 16 % had grade 4 neutropenia and 6.5 % had grade 4 thrombocytopenia .
+RESULTS	Three patients experienced grade 3/4 hemorrhagic events ( one pulmonary , two gastrointestinal ) .
+RESULTS	Primary end point of PFS6 was 60 % ( 95 % confidence interval [ CI ] : 45.9-73 % ) .
+RESULTS	Median PFS was 7.0 months ( 95 % CI : 5.9-10 .1 ) , median overall survival was 13.7 months ( 95 % CI : 9.4-16 .8 ) .
+RESULTS	Polymorphic KDR and VEGFA variants correlated with survival and toxicity , respectively .
+RESULTS	There was no significant change in overall QOL scores over time .
+CONCLUSIONS	This regimen is feasible and did not decrease the QOL in this study population .
+CONCLUSIONS	However , it did not meet the primary efficacy end point .
+

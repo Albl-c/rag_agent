@@ -1,0 +1,14 @@
+25037462
+OBJECTIVE	This randomized , controlled , single-blinded multicenter study evaluated the efficacy of latest-generation fibrin sealant containing synthetic aprotinin as fibrinolysis inhibitor as supportive treatment for hemostasis after elective partial hepatectomy .
+METHODS	Adult subjects undergoing resection of at least one liver segment were assigned to treatment with fibrin sealant or manual compression with a surgical gauze swab if persistent oozing necessitated additional hemostatic measures after primary control of arterial and venous bleeding .
+METHODS	The primary outcome measure was the proportion of subjects with intraoperative hemostasis at 4 min after start of randomized treatment application .
+METHODS	Secondary efficacy outcome measures included intraoperative hemostasis at 6 , 8 , and 10 min , intra - and postoperative rebleedings , transfusion requirements , and drainage volume .
+RESULTS	Seventy subjects were randomized .
+RESULTS	Hemostasis at 4 min was achieved in 29/35 ( 82.9 % ) fibrin sealant subjects compared with 13/35 ( 37.1 % ) control subjects ( p < 0.001 ) .
+RESULTS	Significantly more fibrin sealant subjects achieved hemostasis at 6 ( p < 0.001 ) , 8 ( p = 0.028 ) , and 10 min ( p = 0.017 ) .
+RESULTS	The number of rebleedings was low in both study arms .
+RESULTS	Transfusion requirements and 48-h drainage volumes were similar between the study arms .
+RESULTS	No adverse events related to study treatment were reported .
+CONCLUSIONS	Fibrin sealant was shown to be safe and superior to manual compression in the control of parenchymal bleeding after hepatic resection .
+CONCLUSIONS	The use of synthetic aprotinin as fibrinolysis inhibitor further improves the safety margin of fibrin sealant by eliminating the risk of transmission of bovine spongiform encephalopathy and other bovine pathogens .
+

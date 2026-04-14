@@ -1,0 +1,14 @@
+24824050
+BACKGROUND	Pregnancy and the postpartum period present important intervention opportunities .
+BACKGROUND	Counseling can leverage the motivation women have during this time to change behaviors that may negatively affect their health and the heath of their infants .
+METHODS	Pregnant women attending an antenatal clinic in South Africa were randomly allocated to treatment ( n = 733 ) and control arms ( n = 747 ) .
+METHODS	Treatment arm participants received enhanced HIV pre - and post-test counseling , legal support and access to support groups at baseline , which occurred at the first antenatal visit , and then six and ten weeks postpartum .
+METHODS	Control arm participants received standard HIV testing and counseling ( HTC ) and two postpartum attention control sessions .
+METHODS	Outcomes were incidence of sexually transmitted infection ( STI ) by 14 weeks postpartum and past 30-day inconsistent condom use at 14 weeks and 9 months postpartum .
+RESULTS	There were no intervention effects on incident STIs for either HIV-negative ( adjusted risk ratio ( aRR ) 1.01 , 95 % CI 0.71-1 .44 ) or HIV-positive participants ( aRR 0.86 , 95 % CI 0.61-1 .23 ) .
+RESULTS	The intervention was associated with a 28 % decrease in risk of past 30-day inconsistent condom use at nine-months among HIV-negative women ( aRR 0.72,95 % CI 0.59-0 .88 ) , but did not affect inconsistent condom use among HIV-positive women ( aRR1 .08 ; 95 % CI 0.67-1 .75 ) .
+CONCLUSIONS	An enhanced counseling intervention during pregnancy and the postpartum period can lead to reductions in inconsistent condom use among HIV-negative women .
+CONCLUSIONS	Results underscore the importance of the counseling that accompanies HIV HTC .
+CONCLUSIONS	More work is needed to understand how to promote and sustain risk reduction among HIV-positive women .
+BACKGROUND	ClinicalTrials.gov NCT01683461 .
+

@@ -1,0 +1,17 @@
+25592987
+BACKGROUND	Coadministration of a bacterial adjuvant with oral immunotherapy ( OIT ) has been suggested as a potential treatment for food allergy .
+OBJECTIVE	To evaluate a combined therapy comprising a probiotic together with peanut OIT .
+METHODS	We performed a double-blind , placebo-controlled randomized trial of the probiotic Lactobacillus rhamnosus CGMCC 1.3724 and peanut OIT ( probiotic and peanut oral immunotherapy [ PPOIT ] ) in children ( 1-10 years ) with peanut allergy .
+METHODS	The primary outcome was induction of sustained unresponsiveness 2 to 5 weeks after discontinuation of treatment ( referred to as possible sustained unresponsiveness ) .
+METHODS	Secondary outcomes were desensitization , peanut skin prick test , and specific IgE and specific IgG4 measurements .
+RESULTS	Sixty-two children were randomized and stratified by age ( 5 and > 5 years ) and peanut skin test wheal size ( 10 and > 10 mm ) ; 56 reached the trial 's end .
+RESULTS	Baseline demographics were similar across groups .
+RESULTS	Possible sustained unresponsiveness was achieved in 82.1 % receiving PPOIT and 3.6 % receiving placebo ( P < .001 ) .
+RESULTS	Nine children need to be treated for 7 to achieve sustained unresponsiveness ( number needed to treat , 1.27 ; 95 % CI , 1.06-1 .59 ) .
+RESULTS	Of the subjects , 89.7 % receiving PPOIT and 7.1 % receiving placebo were desensitized ( P < .001 ) .
+RESULTS	PPOIT was associated with reduced peanut skin prick test responses and peanut-specific IgE levels and increased peanut-specific IgG4 levels ( all P < .001 ) .
+RESULTS	PPOIT-treated participants reported a greater number of adverse events , mostly with maintenance home dosing .
+CONCLUSIONS	This is the first randomized placebo-controlled trial evaluating the novel coadministration of a probiotic and peanut OIT and assessing sustained unresponsiveness in children with peanut allergy .
+CONCLUSIONS	PPOIT was effective in inducing possible sustained unresponsiveness and immune changes that suggest modulation of the peanut-specific immune response .
+CONCLUSIONS	Further work is required to confirm sustained unresponsiveness after a longer period of secondary peanut elimination and to clarify the relative contributions of probiotics versus OIT .
+

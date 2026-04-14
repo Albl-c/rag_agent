@@ -1,0 +1,14 @@
+24702710
+BACKGROUND	Patient-reported outcomes ( PROs ) are particularly relevant in influenza vaccine trials in the elderly where reduction in symptom severity could prevent illness-related functional impairment .
+OBJECTIVE	To evaluate PROs in people aged 65 years receiving two different vaccines .
+METHODS	This was a phase III , randomised , observer-blind study ( NCT00753272 ) of the AS03-adjuvanted inactivated trivalent split-virion influenza vaccine ( AS03-TIV ) versus non-adjuvanted vaccine ( TIV ) .
+METHODS	Using the FluiiQ questionnaire , symptom ( systemic , respiratory , total ) and life impact ( activities , emotions , relationships ) scores were computed as exploratory endpoints , with minimal important difference ( MID ) in influenza severity between vaccines considered post-hoc as > 7 % .
+METHODS	Vaccine efficacy of AS03-TIV relative to TIV in severe influenza ( hospitalisation , complication , most severe one-third of episodes based on the area under the curve for systemic symptom score ) was calculated post-hoc .
+METHODS	The main analyses ( descriptive ) were conducted in the according-to-protocol cohort ( n = 280 AS03-TIV , n = 315 TIV ) for influenza confirmed by culture or reverse transcriptase polymerase chain reaction .
+RESULTS	Mean systemic symptom , total symptom and impact on activities scores were lower with AS03-TIV versus TIV .
+RESULTS	Mean respiratory symptom , impact on emotions and impact on relationships scores were similar .
+RESULTS	Influenza tended to be less severe with AS03-TIV , but the MID was reached only for impact on activities ( mean 9.0 % ) .
+RESULTS	Relative vaccine efficacy in severe influenza was 29.38 % ( 95 % CI : 7.60-46 .02 ) .
+CONCLUSIONS	AS03-TIV had advantages over TIV in impact on systemic symptoms and activities as measured by the FluiiQ in elderly people .
+CONCLUSIONS	Higher efficacy of AS03-TIV relative to TIV was shown for prevention of severe illness .
+

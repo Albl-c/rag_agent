@@ -1,0 +1,13 @@
+24418164
+BACKGROUND	Several studies have shown that unnecessary right ventricular pacing has detrimental effects .
+OBJECTIVE	To evaluate whether minimization of ventricular pacing as compared with standard dual-chamber pacing ( DDD ) improves clinical outcomes in patients referred for pacemaker or implantable cardioverter-defibrillator ( ICD ) replacement .
+METHODS	In an international single-blind , multicenter , randomized controlled trial , we compared DDD with managed ventricular pacing ( MVP ) , a pacing mode developed to minimize ventricular pacing by promoting intrinsic atrioventricular conduction .
+METHODS	We included patients referred for device replacement with > 40 % ventricular pacing , no cardiac resynchronization therapy upgrade indication , no permanent atrial fibrillation ( AF ) , and no permanent complete atrioventricular block .
+METHODS	Follow-up was for 2 years .
+METHODS	The primary end point was cardiovascular hospitalization .
+METHODS	The intention-to-treat analysis was performed by using Kaplan-Meier method and the log-rank test .
+RESULTS	We randomized 605 patients ( 556 referred for pacemaker and 49 referred for ICD replacement ; mean age 75 11 years ; 365 [ 60 % ] men , at 7.7 3.3 years from first device implantation ) to MVP ( n = 299 ) or DDD ( n = 306 ) .
+RESULTS	We found no significant differences in the primary end point cardiovascular hospitalization ( MVP : 16.3 % vs DDD : 14.5 % ; P = .72 ) and the secondary end point persistent AF ( MVP : 15.4 % vs DDD : 11.2 % ; P = .08 ) , permanent AF ( MVP : 4.1 % vs DDD : 3.1 % ; P = .44 ) , and composite of death and cardiovascular hospitalization ( MVP : 23.9 % vs DDD : 20.2 % ; P = .48 ) .
+RESULTS	MVP reduced right ventricular pacing ( median 5 % vs 86 % ; Wilcoxon , P < .0001 ) as compared with DDD .
+CONCLUSIONS	In patients referred for pacemaker and ICD replacement with clinically well-tolerated long-term exposure to > 40 % ventricular pacing in the ventricle , a strategy to minimize ventricular pacing is not superior to standard DDD in reducing incidence of cardiovascular hospitalizations .
+

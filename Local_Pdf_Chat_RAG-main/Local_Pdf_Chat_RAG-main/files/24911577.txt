@@ -1,0 +1,15 @@
+24911577
+OBJECTIVE	A 5-h phase advance model of insomnia was used to evaluate the efficacy of lorediplon , a new non-benzodiazepine hypnotic .
+METHODS	Thirty-five male , healthy subjects were included in a five-way randomized cross-over study .
+METHODS	During each of the periods , sleep was recorded , and residual effects were measured .
+METHODS	All subjects received lorediplon 1 , 5 , and 10 mg , placebo , and zolpidem 10 mg ( i.e. , active control ) .
+RESULTS	Polysomnographic evaluation revealed that lorediplon ( 5 and 10 mg ) significantly decreased wake after sleep onset ( WASO ) and increased total sleep time .
+RESULTS	Analysis by quarters of the night showed a progressive increasing effectiveness of lorediplon 10 mg across the first three quarters .
+RESULTS	Lorediplon increased non-rapid eye movement slow wave sleep and stage N2 sleep in the second and third quarters .
+RESULTS	The magnitude of these effects was dose related , with minimal effects seen with 1 mg .
+RESULTS	No residual effects were observed 13 h post dose .
+CONCLUSIONS	Lorediplon demonstrated a dose-dependent improvement in sleep , whereas zolpidem showed a more sustained WASO effect .
+CONCLUSIONS	No next-day hangover effects were observed .
+CONCLUSIONS	These sleep effects are also consistent with the pharmacokinetic profile of lorediplon .
+CONCLUSIONS	These results warrant clinical trials in patients with insomnia .
+

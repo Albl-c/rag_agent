@@ -1,0 +1,10 @@
+25194409
+BACKGROUND	The aim of this study was to assess the effects of pioglitazone on blood glucose control and inflammatory biomarkers in diabetic patients receiving insulin after kidney transplantation .
+METHODS	In a randomized placebo-controlled trial , 62 diabetic kidney transplant patients were followed for 4 months after randomly assigned to placebo and pioglitazone ( 30 mg/d ) groups .
+METHODS	All of the patients continued their insulin therapy irrespective of the group that they were assigned to , in order to evaluate the effects of addition of pioglitazone on blood glucose and inflammation biomarkers including serum C-reactive protein , high-sensitivity C-reactive protein , and interleukin-18 levels , as well as erythrocyte sedimentation rate .
+RESULTS	At baseline , there were no significant differences in laboratory studies between the two groups .
+RESULTS	After 4 months of intervention , along with significant improvement in hemoglobin A1c in the pioglitazone group , daily insulin requirements also decreased and lipid profile improved significantly .
+RESULTS	In addition , erythrocyte sedimentation rate , C-reactive protein , and high-sensitivity C-reactive protein values were significantly lower in the pioglitazone group ( P = .03 , P < .001 , and P = .01 ) .
+RESULTS	Interleukin-18 levels were not significantly different at the end of the study between the two groups , but it had a decreasing trend in the pioglitazone group ( P = .002 ) .
+CONCLUSIONS	Pioglitazone complementing insulin in diabetic kidney transplant patients not only improved glycemic control , evidenced by hemoglobin A1c , and reduced daily insulin requirement , but also decreased inflammatory markers which may have an impact on overall cardiovascular events and mortalities beyond glycemic control .
+

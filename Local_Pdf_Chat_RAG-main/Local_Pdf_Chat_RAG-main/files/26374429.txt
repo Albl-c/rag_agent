@@ -1,0 +1,14 @@
+26374429
+BACKGROUND	National Surgical Adjuvant Breast and Bowel Project R-04 was designed to determine whether the oral fluoropyrimidine capecitabine could be substituted for continuous infusion 5-FU in the curative setting of stage II/III rectal cancer during neoadjuvant radiation therapy and whether the addition of oxaliplatin could further enhance the activity of fluoropyrimidine-sensitized radiation .
+METHODS	Patients with clinical stage II or III rectal cancer undergoing preoperative radiation were randomly assigned to one of four chemotherapy regimens in a 2x2 design : CVI 5-FU or oral capecitabine with or without oxaliplatin .
+METHODS	The primary endpoint was local-regional tumor control .
+METHODS	Time-to-event endpoint distributions were estimated using the Kaplan-Meier method .
+METHODS	Hazard ratios were estimated from Cox proportional hazard models .
+METHODS	All statistical tests were two-sided .
+RESULTS	Among 1608 randomized patients there were no statistically significant differences between regimens using 5-FU vs capecitabine in three-year local-regional tumor event rates ( 11.2 % vs 11.8 % ) , 5-year DFS ( 66.4 % vs 67.7 % ) , or 5-year OS ( 79.9 % vs 80.8 % ) ; or for oxaliplatin vs no oxaliplatin for the three endpoints of local-regional events , DFS , and OS ( 11.2 % vs 12.1 % , 69.2 % vs 64.2 % , and 81.3 % vs 79.0 % ) .
+RESULTS	The addition of oxaliplatin was associated with statistically significantly more overall and grade 3-4 diarrhea ( P < .0001 ) .
+RESULTS	Three-year rates of local-regional recurrence among patients who underwent R0 resection ranged from 3.1 to 5.1 % depending on the study arm .
+CONCLUSIONS	Continuous infusion 5-FU produced outcomes for local-regional control , DFS , and OS similar to those obtained with oral capecitabine combined with radiation .
+CONCLUSIONS	This study establishes capecitabine as a standard of care in the pre-operative rectal setting .
+CONCLUSIONS	Oxaliplatin did not improve the local-regional failure rate , DFS , or OS for any patient risk group but did add considerable toxicity .
+

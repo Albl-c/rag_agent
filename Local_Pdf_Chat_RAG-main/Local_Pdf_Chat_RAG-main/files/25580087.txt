@@ -1,0 +1,22 @@
+25580087
+BACKGROUND	Tissue hypoperfusion occurs frequently during surgery and may contribute to postoperative organ dysfunction .
+BACKGROUND	There is a need for perioperative treatment protocols aiming at improving tissue oxygenation ( StO2 ) .
+BACKGROUND	We hypothesised that intra-operative optimisation of StO2 improves tissue perfusion and thus reduces postoperative complications .
+BACKGROUND	Furthermore , we evaluated the feasibility of the optimisation algorithm used .
+METHODS	We randomized 50 high-risk patients , all > 65 years with ASA physical status III , who underwent major abdominal surgery under standardized balanced general anesthesia combined with epidural analgesia .
+METHODS	Throughout surgery StO2 was monitored at the thenar eminence using near-infrared spectroscopy .
+METHODS	All patients were treated according to a standard care algorithm .
+METHODS	In addition , patients in the intervention group were treated with dobutamine if necessary to keep or raise StO280 % .
+METHODS	Data were recorded continuously and complications were recorded during hospital stay with a maximum of 28 days .
+RESULTS	The number of complications was not significantly different between groups ( 11 vs 20 ; p = 0.23 ) .
+RESULTS	Eleven patients in the intervention group had no complication , versus 7 in the control group .
+RESULTS	There was no significant difference between groups in length of stay in ICU or in hospital .
+RESULTS	Only ten patients in the intervention group received dobutamine .
+RESULTS	Administration of dobutamine resulted in a moderate 6 [ -3 to 10 ] % increase of StO2 .
+RESULTS	The overall protocol adherence was 94 % .
+CONCLUSIONS	No statistically significant difference in outcome was realized through intraoperative optimization of StO2 values in this pilot study .
+CONCLUSIONS	The protocol used may be considered feasible for clinical practice .
+CONCLUSIONS	Further research is obligatory to define both the optimal StO2 threshold and intervention to treat tissue hypoperfusion .
+BACKGROUND	ClinicalTrials.gov identifier : NCT01342900 .
+BACKGROUND	Registered 21 April 2011 .
+

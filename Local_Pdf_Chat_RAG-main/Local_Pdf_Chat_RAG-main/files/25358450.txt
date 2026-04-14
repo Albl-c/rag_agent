@@ -1,0 +1,17 @@
+25358450
+OBJECTIVE	Tesamorelin is a synthetic analogue of growth hormone-releasing factor ( GRF ) , which increases basal and pulsatile growth hormone ( GH ) secretion and subsequently increases insulin-like growth factor ( IGF ) -1 .
+OBJECTIVE	Limited information is available about the pharmacokinetics of this compound .
+OBJECTIVE	Consequently , the aim of this study was to characterize the population pharmacokinetics of tesamorelin in HIV-infected patients and healthy subjects .
+METHODS	A total of 38 HIV-infected patients and healthy subjects receiving subcutaneous tesamorelin doses of 1 or 2mg administered daily during 14 consecutive days were included in the analysis .
+METHODS	An open one-compartment model with first - and zero-order absorption and first-order elimination was developed to best describe the data using NONMEM ( ) VII .
+METHODS	The effect of different covariates on tesamorelin pharmacokinetics was investigated .
+METHODS	Model evaluation was performed using predictive checks and non-parametric bootstrap .
+RESULTS	Plasma clearance and its interindividual variability [ % coefficient of variation ( CV ) ] was estimated to be 1,060 L/h ( 33.6 % ) .
+RESULTS	Volume of distribution was calculated to be 200L ( 17.7 % ) .
+RESULTS	Age , body size measures , race and health status were not related to tesamorelin pharmacokinetic parameters within the range of covariates studied .
+RESULTS	The fraction of tesamorelin absorbed by a first-order process is 13.1 % higher on day 14 compared with day 1 .
+RESULTS	Predictive checks and non-parametric bootstrap demonstrated that the model is appropriate in describing the time course of tesamorelin plasma concentrations in both HIV-infected patients and healthy subjects .
+CONCLUSIONS	An open one-compartment model with first and zero order absorption processes and linear elimination is suitable to characterize the pharmacokinetics of tesamorelin .
+CONCLUSIONS	The fraction of tesamorelin absorbed by a first-order process evolves with time .
+CONCLUSIONS	No clinically relevant covariates were identified as predictors of tesamorelin pharmacokinetics .
+

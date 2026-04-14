@@ -1,0 +1,15 @@
+25098777
+OBJECTIVE	To assess the adequacy of different amounts of local anesthetics ( LA ) in infraclavicular blockade ( ICB ) under ultrasonographic ( US ) guidance and neurostimulation and compare them to the conventional doses under neurostimulation ( NS ) .
+METHODS	In this study 100 patients scheduled for upper limb surgery and suitable for ICB were randomly allocated to 1 of 5 groups : group NS ( NS alone group 0.5 ml/kg LA ) , group FD ( full-dose US group 0.5 ml/kg LA ) , group 30 ( 30 % reduced dose LA 0.35 ml/kg ) , group 50 ( 0.25 ml/kg LA ) and group 70 ( 0.15 ml/kg LA ) .
+METHODS	The ICB was performed under US in conjunction with NS in all groups except group NS in which neurostimulation was used alone .
+METHODS	When necessary local anesthetic supplementation to the operation site was administered during surgery and propofol infusion for sedation ensued .
+METHODS	Evaluation of sensory and motor block was performed for each terminal nerve ( i.e. radial , ulnar , median and musculocutaneous nerves ) .
+METHODS	Block quality ( assessing the need for rescue LA and propofol sedation ) and duration of the block were documented .
+RESULTS	None of the patients in the FD and 30 groups required any supplementation or sedation , whereas LA supplementation rates were 5 % in group 50 and 10 % in groups 70 and NS .
+RESULTS	The propofol sedation rates were 20 % in group NS , 25 % in group 50 and 40 % in group 70 .
+RESULTS	Sensory block was significantly better in groups FD , 30 and NS at 30 min .
+RESULTS	A complete block was achieved more rapidly in all nerve territories in the full-dose group ( p = 0.0001 ) .
+RESULTS	Block duration was longest in group FD and was significantly longer in group 30 than in the other two groups ( p = 0.0001 ) .
+CONCLUSIONS	The results show that US guidance is more effective in maintenance of successful ICB than neurostimulation guidance alone and a reduction of LA doses even to 70 % of conventionally used doses seems possible with US guidance .
+CONCLUSIONS	This article is published in English .
+

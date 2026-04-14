@@ -1,0 +1,15 @@
+25248910
+OBJECTIVE	Efforts to reduce disparities in recurrent stroke among Black and Latino stroke survivors have met with limited success .
+OBJECTIVE	We aimed to determine the effect of peer education on secondary stroke prevention among predominantly minority stroke survivors .
+METHODS	Between 2009 and 2012 , we enrolled 600 stroke or transient ischemic attack survivors from diverse , low-income communities in New York City into a 2-arm randomized clinical trial that compared a 6 week ( 1 session/week ) , peer-led , community-based , stroke prevention self-management group workshop ( N = 301 ) to a wait-list control group ( N = 299 ) .
+METHODS	The primary outcome was the proportion with a composite of controlled blood pressure ( < 140/90 mm Hg ) , low-density lipoprotein cholesterol < 100 mg/dL , and use of antithrombotic medications at 6 months .
+METHODS	Secondary outcomes included control of the individual stroke risk factors .
+METHODS	All analyses were by intent-to-treat .
+RESULTS	There was no difference in the proportion of intervention and control group participants achieving the composite outcome ( 34 % versus 34 % ; P = 0.98 ) .
+RESULTS	The proportion with controlled blood pressure at 6 months was greater in the intervention group than in the control group ( 76 % versus 67 % ; P = 0.02 ) .
+RESULTS	This corresponded to a greater change in systolic blood pressure in the intervention versus control group ( -3.63 SD , 19.81 mm Hg versus +0.34 SD , 23.76 mm Hg ; P = 0.04 ) .
+RESULTS	There were no group differences in the control of cholesterol or use of antithrombotics .
+CONCLUSIONS	A low-cost peer education self-management workshop modestly improved blood pressure , but not low-density lipoprotein cholesterol or antithrombotic use , among stroke and transient ischemic attack survivors from vulnerable , predominantly minority urban communities .
+BACKGROUND	http://www.clinicaltrials.gov/show/NCT0102727 .
+BACKGROUND	Unique identifier : NCT01027273 .
+

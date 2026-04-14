@@ -1,0 +1,29 @@
+25736340
+BACKGROUND	The prevalence of chronic diseases such as type 2 diabetes and chronic low back pain is rising .
+BACKGROUND	Patient empowerment is a key strategy in the management of chronic diseases .
+BACKGROUND	Patient empowerment can be fostered by Web-based interactive health communication applications ( IHCAs ) that combine health information with decision support , social support , and/or behavioral change support .
+BACKGROUND	Tailoring the content and tone of IHCAs to the needs of individual patients might improve their effectiveness .
+OBJECTIVE	The main objective was to test the effectiveness of a Web-based , tailored , fully automated IHCA for patients with type 2 diabetes or chronic low back pain against a standard website with identical content without tailoring ( control condition ) on patients ' knowledge and empowerment .
+METHODS	We performed a blinded randomized trial with a parallel design .
+METHODS	In the intervention group , the content was delivered in dialogue form , tailored to relevant patient characteristics .
+METHODS	In the control group , the sections of the text were presented in a content tree without any tailoring .
+METHODS	Participants were recruited online and offline and were blinded to their group assignments .
+METHODS	Measurements were taken at baseline ( t0 ) , directly after the first visit ( t1 ) , and at 3-month follow-up ( t2 ) .
+METHODS	The primary hypothesis was that the tailored IHCA would have larger effects on knowledge and patient empowerment ( primary outcomes ) than the control website .
+METHODS	The secondary outcomes were decisional conflict and preparation for decision making .
+METHODS	All measurements were conducted by online self-report questionnaires .
+METHODS	Intention-to-treat ( ITT ) and available cases ( AC ) analyses were performed for all outcomes .
+RESULTS	A total of 561 users agreed to participate in the study .
+RESULTS	Of these , 179 ( 31.9 % ) had type 2 diabetes and 382 ( 68.1 % ) had chronic low back pain .
+RESULTS	Usage was significantly higher in the tailored system ( mean 51.2 minutes ) than in the control system ( mean 37.6 minutes ; P < .001 ) .
+RESULTS	Three months after system use , 52.4 % of the sample was retained .
+RESULTS	There was no significant intervention effect in the ITT analysis .
+RESULTS	In the AC analysis , participants using the tailored system displayed significantly more knowledge at t1 ( P = .02 ) and more emotional well-being ( subscale of empowerment ) at t2 ( P = .009 ) .
+RESULTS	The estimated mean difference between the groups was 3.9 ( 95 % CI 0.5-7 .3 ) points for knowledge and 25.4 ( 95 % CI 6.3-44 .5 ) points for emotional well-being on a 0-100 points scale .
+CONCLUSIONS	The primary analysis did not support the study hypothesis .
+CONCLUSIONS	However , content tailoring and interactivity may increase knowledge and reduce health-related negative effects in persons who use IHCAs .
+CONCLUSIONS	There were no main effects of the intervention on other dimensions of patient empowerment or decision-related outcomes .
+CONCLUSIONS	This might be due to our tailored IHCA being , at its core , an educational intervention offering health information in a personalized , empathic fashion that merely additionally provides decision support .
+CONCLUSIONS	Tailoring and interactivity may not make a difference with regard to these outcomes .
+BACKGROUND	International Clinical Trials Registry : DRKS00003322 ; http://apps.who.int/trialsearch/Trial2.aspx?TrialID=DRKS00003322 ( Archived by WebCite at http://www.webcitation.org/6WPO0lJwE ) .
+

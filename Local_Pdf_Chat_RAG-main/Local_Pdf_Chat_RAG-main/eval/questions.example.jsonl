@@ -1,0 +1,3 @@
+{"id":"q1","question":"What was the objective of study 24491642?","gold_sources":["24491642.txt"],"expected_keywords":["objective","diabetic macular edema","ranibizumab"]}
+{"id":"q2","question":"Which groups had similar adverse event profiles in study 26156651?","gold_sources":["26156651.txt"],"expected_keywords":["afatinib","erlotinib","57%"]}
+{"id":"q3","question":"What conclusion was reported in 25053749?","gold_sources":["25053749.txt"],"expected_keywords":["tolerability profiles","comparable"]}

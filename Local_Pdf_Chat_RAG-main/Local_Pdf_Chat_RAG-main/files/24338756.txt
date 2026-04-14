@@ -1,0 +1,9 @@
+24338756
+BACKGROUND	Although colonoscopy is the standard procedure in the diagnosis of colorectal neoplasia , a significant number of clinical relevant lesions may be missed even by experienced endoscopists using current technology .
+BACKGROUND	A transparent cap mounted at the tip of a colonoscope may be an easy way to extend the visual field during colonoscopy and may improve the detection rate of mucosal lesions .
+METHODS	The significance of cap assisted ( CAC ) vs. conventional colonoscopy ( CC ) on polyp detection rate was evaluated in a prospective randomized controlled trial in 504 patients .
+RESULTS	CC and CAC detected polyps in 39.3 % and 31.8 , not significantly different .
+RESULTS	There was also no significant difference between CAC and CC according to age , sex , indication for colonoscopy , diverticulosis , sedation , bowel cleansing , withdrawal time , time/number of attempts to intubate the cecal walve , number , localization , size or histology of polyps , .
+RESULTS	However , the time to reach the cecal floor and the overall time of colonoscopy were significantly lower for CAC ( 1 minute ) .
+CONCLUSIONS	CAC was without clinical impact on polyp detection rate or performance of colonoscopy .
+

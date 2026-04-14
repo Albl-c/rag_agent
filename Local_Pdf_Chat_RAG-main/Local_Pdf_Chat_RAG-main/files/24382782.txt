@@ -1,0 +1,15 @@
+24382782
+BACKGROUND	Recombinant interleukin-2 ( rIL-2 ) induces cellular cytotoxicity against leukemia blasts .
+BACKGROUND	Patients with acute myeloid leukemia ( AML ) in first complete remission ( CR ) may harbor minimal residual disease that is susceptible to rIL-2-activated effector cells .
+METHODS	In the Cancer and Leukemia Group B ( CALGB ) 19808 study , patients with AML in first CR were randomly assigned after all planned chemotherapy to receive a 90-day course of subcutaneously administered rIL-2 or no further therapy .
+METHODS	The primary objective was to compare disease-free survival ( DFS ) between the 2 treatment arms .
+METHODS	A total of 534 patients achieved a CR , 214 of whom were randomized .
+METHODS	Six courses of low-dose daily rIL-2 were given for the expansion of cytotoxic effector cells , each followed by 3-day high-dose boluses given to trigger cytotoxicity against minimal residual disease .
+RESULTS	On the protocol-specified intention-to-treat analysis , the hazards ratio for DFS was 0.75 ( 95 % confidence interval , 0.52-1 .09 ; P = .13 ) ; the 5-year DFS rate was 42 % in the observation arm and 53 % in the rIL-2 treatment arm .
+RESULTS	The hazards ratio for overall survival ( OS ) was 0.88 ( 95 % confidence interval , 0.54-1 .23 ; P = .34 ) ; the 5-year OS rate was 58 % for the observation arm and 63 % for the rIL-2 treatment arm .
+RESULTS	Twenty-five of the 107 patients randomized to treatment with rIL-2 either refused or were unable to initiate therapy and 30 patients did not complete their assigned therapy .
+RESULTS	However , significant toxicities were not commonly observed .
+RESULTS	The trial design did not anticipate the difficulties patients would encounter with protocol compliance .
+CONCLUSIONS	The efficacy of immunotherapy with rIL-2 administered after intensive postremission treatment was not assessed as planned because of unexpected refusals by patients and/or their physicians to comply with protocol-directed therapy .
+CONCLUSIONS	Neither DFS nor OS was found to be significantly improved .
+

@@ -1,0 +1,10 @@
+25745751
+OBJECTIVE	To investigate whether cabergoline ( Cb2 ) , a dopamine agonist , reduces ovarian hyperstimulation syndrome ( OHSS ) in high-risk women undergoing assisted reproductive technology ( ART ) , and to analyze whether cabergoline affects the outcome of ART .
+METHODS	Forty infertile women at risk of developing OHSS were enrolled in the trial .
+METHODS	The inclusion criteria were as follows : infertile women undergoing IVF with serum estradiol concentration > 4,000 pg/mL or with > 20 follicles > 12 mm on the day of human chorionic gonadotropin ( hCG ) administration , and 18-40 years of age .
+METHODS	They were randomized into 2 groups : the Cb2 group ( n = 20 ) received 0.5 mg oral Cb2 per day for 8 consecutive days beginning on the day of hCG , and the control group ( n = 20 ) received no medication .
+RESULTS	Ascites was significantly lower ( p = 0.008 ) in the Cb2 group as compared with the control group .
+RESULTS	The incidence of moderate OHSS was also significantly lower ( p = 0.04 ) in the Cb2 as compared to the control group .
+RESULTS	There was no evidence of statistically significant differences regarding the parameters of ART outcome .
+CONCLUSIONS	Our data supports the use of Cb2 in the management of high-risk women undergoing ART and , consequently , achieving lowered risk of OHSS , with no deleterious impact on ART outcomes .
+

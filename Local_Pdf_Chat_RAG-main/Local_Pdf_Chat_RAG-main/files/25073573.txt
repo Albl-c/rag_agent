@@ -1,0 +1,14 @@
+25073573
+OBJECTIVE	To evaluate peripheral nerve safety and clinical efficacy of tanezumab in patients with painful osteoarthritis .
+METHODS	Patients received intravenous tanezumab 5mg , tanezumab 10mg , or placebo every 8 weeks for 24 weeks .
+METHODS	Neurological safety was evaluated via a composite score ( nerve conduction attributes and heart rate variability with deep breathing ; 5NC + HRdb ) , intraepidermal nerve fiber ( IENF ) density , and clinical assessments .
+METHODS	Efficacy and general safety were also evaluated .
+RESULTS	The study was stopped prematurely by an FDA partial clinical hold ( joint safety issues in other studies ) .
+RESULTS	Differences in change from baseline to Week 24 in 5NC + HRdb were not significant .
+RESULTS	Tanezumab 5mg vs placebo exceeded the prespecified clinically important difference using last observation carried forward imputation , but not with observed data or when patients with evidence of neuropathy at baseline were excluded .
+RESULTS	No significant differences were found in individual nerve conduction measures .
+RESULTS	No treatment exceeded the prespecified clinically important decrease in IENF .
+RESULTS	Tanezumab resulted in significant improvement in pain , physical function , and Patient 's Global Assessment .
+RESULTS	Safety was similar to previous tanezumab clinical trials .
+CONCLUSIONS	Tanezumab has a modulating effect on pain , does not appear to increase neurological safety signals , and offers a potentially promising , novel approach in treatment of pain .
+

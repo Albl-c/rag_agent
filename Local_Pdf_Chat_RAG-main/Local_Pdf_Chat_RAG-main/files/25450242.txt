@@ -1,0 +1,14 @@
+25450242
+OBJECTIVE	To compare the features of capsulotomy obtained during femtosecond laser-assisted cataract surgery with those of continuous curvilinear capsulorhexis ( CCC ) obtained using a standard manual technique .
+METHODS	Ophthalmology Clinic , Department of Medicine and Science of Ageing , University G. D'Annunzio Chieti-Pescara , Chieti , Italy .
+METHODS	Prospective randomized clinical study .
+METHODS	Candidates for cataract extraction were randomized into 1 of 3 groups as follows : Lensx femtosecond laser-assisted cataract surgery capsulotomy ( laser group 1 ) , Lensar femtosecond laser-assisted cataract surgery capsulotomy ( laser group 2 ) , and manual CCC ( manual group ) .
+RESULTS	Each group comprised 30 eyes ( 30 patients ) .
+RESULTS	The capsulotomies in laser group 1 and laser group 2 showed significantly better circularity than the manual CCCs at 7 days ( P < .001 ) .
+RESULTS	There was a significant correlation between the intended versus achieved capsulotomy size in the 2 laser groups .
+RESULTS	Both laser groups had better intraocular lens ( IOL ) centration than the manual group at all timepoints ( P < .001 ) .
+RESULTS	Between-group differences in uncorrected and corrected distance visual acuities were not statistically significant .
+RESULTS	The residual spherical equivalent and mean absolute error were statistically significantly smaller in the 2 laser groups than in the manual group ( P = .038 ) and increased significantly over time in all the groups ( P < .001 ) .
+CONCLUSIONS	Femtosecond laser capsulotomies showed better circularity with more predictable size than manual CCCs .
+CONCLUSIONS	In addition , IOL centration was better immediately after surgery and over time with better refractive results in the 2 laser groups .
+

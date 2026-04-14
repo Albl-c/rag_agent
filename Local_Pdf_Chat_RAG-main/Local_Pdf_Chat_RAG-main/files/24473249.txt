@@ -1,0 +1,9 @@
+24473249
+OBJECTIVE	The purpose of this randomized controlled study was to examine and compare the immediate and retention effects of speed-dependent treadmill training ( SDTT ) and rhythmic auditory-cued ( RAC ) overground walking on gait function and fall risk in individuals with Parkinson 's disease ( PD ) .
+METHODS	Twenty participants ( mean age 66.1 yrs ) with idiopathic PD were randomized into either SDTT ( n = 10 ) or RAC ( n = 10 ) progressive , interval-based locomotor training protocols .
+METHODS	Immediate and retention training effects on gait function and fall risk were measured by comfortable and fast gait speed ( CGS , FGS ) , 6-Minute Walk Test ( 6MWT ) , and Functional Gait Assessment ( FGA ) .
+RESULTS	Immediate within-group training effects revealed significant gains in CGS , 6MWT , and FGA for the RAC group , and in FGS , 6-MinuteWalk Test , and FGA for the SDTT group .
+RESULTS	Retention effects were found at 3-month follow-up for all gait measures in the RAC group , and for FGS and FGA in the SDTT group .
+RESULTS	No statistically significant differences in immediate or retention training effects on gait measures were found between groups .
+CONCLUSIONS	Externally-cued locomotor training with progressive and interval-based speed challenges , either with RAC overground or on a treadmill , produced significant improvements in walking speed , endurance , and dynamic balance during walking .
+

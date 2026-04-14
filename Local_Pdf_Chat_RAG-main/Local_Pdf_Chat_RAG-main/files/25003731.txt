@@ -1,0 +1,15 @@
+25003731
+BACKGROUND	Correct use of intranasal corticosteroid ( INCS ) and compliance with treatment is very important for the treatment of allergic rhinitis ( AR ) .
+BACKGROUND	An animated cartoon-aided teaching method for INCS administration was created to decrease the workload of health care professionals .
+BACKGROUND	The aim of this study was to compare the performance of children with AR in using INCS between a group who were instructed using animated cartoon-aided teaching and those receiving only an oral presentation without demonstration .
+METHODS	The study was a prospective randomized controlled trial in children aged 5-16 years with moderate to severe intermittent or persistent AR who had never used INCS .
+METHODS	The patients were randomly divided into 2 groups ; 1 ) those receiving teaching about how to use INCS by an oral presentation without demonstration and 2 ) by animated cartoon-aided teaching .
+METHODS	The performance of the children was recorded after the initial training using a five-point checklist .
+METHODS	If they were unable to use the INCS correctly after the first teaching session , the same instructions were repeated and a second assessment was performed .
+RESULTS	A total of 80 patients , 40 each group , underwent randomization .
+RESULTS	The rate of achieving competency for the patients after the first instruction using the animated cartoon-aided teaching group was significantly higher than that for the oral presentation group ( 57.5 % VS 27.5 % ; P = 0.007 ) .
+RESULTS	The cumulative success rate for the second assessment of the animated cartoon-aided group was also significantly higher than for those receiving only an oral presentation ( 95 % VS 60 % , P = 0.004 ) .
+CONCLUSIONS	With regard to mastering the correct method for INCS usage , instruction using animated cartoon-aided teaching is better than oral presentation without demonstration .
+CONCLUSIONS	However , the best method for teaching patients how to use INCS is a combination of oral explanation and demonstration by cartoon-aided teaching .
+CONCLUSIONS	The teaching should be repeated periodically to remind patients of the correct method for INCS usage .
+

@@ -1,0 +1,12 @@
+24675386
+OBJECTIVE	Following from previous research in which post-encoding suggestions of threat led to the development of a memory bias ( in the presumed absence of an attentional bias ; Senn & Radomsky , 2012 ) , we sought to examine whether the development of a similar threat-relevant memory bias could be fostered via a purely informational pathway .
+METHODS	A vignette about a classroom interaction was read aloud to ( n = 96 ) undergraduate participants who then completed a post-encoding recall test .
+METHODS	Participants were told that the experimenter forgot to read the last sentence of the vignette , and were then randomly assigned either to the Threat condition , in which the additional statement indicated that a character in the vignette had a highly contagious flu , or to the No-Threat condition , in which the additional statement indicated that a character in the vignette had been accepted to graduate school .
+METHODS	A second recall test was then administered .
+RESULTS	Participants in the Threat condition ( but not those in the No-Threat condition ) demonstrated aproportionate memory bias in favor of threatening information .
+RESULTS	This bias was not evident at the initial recall test .
+CONCLUSIONS	Time spent engaging in active recall was not assessed .
+CONCLUSIONS	Also , although the study was designed to minimize demand characteristics , it is possible that these played a role .
+CONCLUSIONS	An explicit memory bias for threat can be created through informational means alone , even when no threat was present at encoding .
+CONCLUSIONS	Results are discussed in terms of pathways to fear and of cognitive approaches to understanding and treating anxiety disorders .
+

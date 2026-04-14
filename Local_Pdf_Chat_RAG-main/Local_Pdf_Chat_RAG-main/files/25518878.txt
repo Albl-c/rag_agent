@@ -1,0 +1,16 @@
+25518878
+BACKGROUND	Persons with a mental health diagnosis have high rates of tobacco use and face numerous barriers to cessation including high levels of nicotine dependence , low rates of tobacco treatment referrals from mental health providers , and limited availability of tobacco treatment targeted to their needs .
+BACKGROUND	This manuscript describes the rationale and methods of a clinical trial with the following aims : 1 ) Compare the reach and efficacy of a proactive telephone-based tobacco cessation program for Veterans Health Administration ( VHA ) mental health clinic patients to VHA usual care and 2 ) Model longitudinal associations between baseline patient characteristics and long-term abstinence .
+METHODS	We will use the electronic medical record to identify patients across four VHA healthcare facilities who have a clinical reminder code indicating current tobacco use in the past six months and who have had a mental health clinic visit in the past 12 months .
+METHODS	We will send each patient an introductory letter and baseline survey .
+METHODS	Survey respondents ( N = 3840 ) will be randomized in a 1:1 fashion to intervention or control .
+METHODS	Control participants will receive VHA usual care .
+METHODS	Intervention participants will receive proactive motivational telephone outreach to offer tobacco treatment .
+METHODS	Intervention participants interested in treatment will receive eight weeks of nicotine replacement therapy plus eight sessions of specialized telephone counseling over two months , followed by monthly maintenance counseling for four months .
+METHODS	We will conduct telephone surveys with participants at six and 12 months to assess study outcomes .
+METHODS	We will collect a mailed saliva sample from patients reporting 7-day abstinence on the telephone surveys .
+METHODS	The primary outcome will be cotinine-validated abstinence at 12-month follow-up .
+CONCLUSIONS	Mental health patients are a high-risk smoking population with significant barriers to cessation .
+CONCLUSIONS	This study will evaluate the efficacy of a program that proactively reaches out to smokers with a mental health treatment history to engage them into telephone cessation counseling targeted to the needs of mental health patients .
+BACKGROUND	Clinicaltrials.gov : NCT01737281 ( registered November 5 , 2012 ) .
+

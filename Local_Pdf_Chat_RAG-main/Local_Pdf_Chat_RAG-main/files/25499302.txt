@@ -1,0 +1,14 @@
+25499302
+OBJECTIVE	The aim of this analysis was to assess the 7-year long-term safety and effectiveness of a randomized comparison of percutaneous coronary intervention ( PCI ) with sirolimus-eluting stents ( SES ) versus minimally invasive direct coronary artery bypass ( MIDCAB ) surgery for the treatment of isolated proximal left anterior descending lesions .
+BACKGROUND	Long-term follow-up data comparing PCI by SES and MIDCAB surgery for isolated proximal left anterior descending lesions are sparse .
+METHODS	Patients were randomized either to PCI with SES ( n = 65 ) or MIDCAB ( n = 65 ) .
+METHODS	Follow-up data were obtained after 7 years with respect to the primary composite endpoint of death , myocardial infarction , and target vessel revascularization .
+METHODS	Angina was assessed by the Canadian Cardiovascular Society classification and quality of life with Short Form 36 and MacNew quality of life questionnaires .
+RESULTS	Follow-up was conducted in 129 patients at a median time of 7.3 years ( interquartile range : 5.7 , 8.3 ) .
+RESULTS	There were no significant differences in the incidence of the primary composite endpoint between groups ( 22 % PCI vs. 12 % MIDCAB ; p = 0.17 ) or the endpoints death ( 14 % vs. 17 % ; p = 0.81 ) and myocardial infarction ( 6 % vs. 9 % , p = 0.74 ) .
+RESULTS	However , the target vessel revascularization rate was higher in the PCI group ( 20 % vs. 1.5 % ; p < 0.001 ) .
+RESULTS	Clinical symptoms and quality of life improved significantly from baseline with both interventions and were similar in magnitude between groups .
+CONCLUSIONS	At 7-year follow-up , PCI by SES and MIDCAB in isolated proximal left anterior descending lesions yielded similar long-term outcomes regarding the primary composite clinical endpoint and quality of life .
+CONCLUSIONS	Target vessel revascularization was more frequent in the PCI group .
+CONCLUSIONS	( MIDCAB Versus DES in Proximal LAD Lesions ; NCT00299429 ) .
+

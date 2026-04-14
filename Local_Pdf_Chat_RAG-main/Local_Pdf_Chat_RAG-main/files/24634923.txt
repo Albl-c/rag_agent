@@ -1,0 +1,14 @@
+24634923
+OBJECTIVE	In some randomized controlled trials laparoscopic cholecystectomy ( LC ) for acute cholecystitis was associated with a shorter hospital stay when compared with open cholecystectomy ( OC ) .
+OBJECTIVE	These studies were not double blinded and without intention to treat purpose .
+METHODS	The present study project was a prospective , randomized investigation .
+METHODS	The study was performed in the Department of General , Emergency and Transplant Surgery St Orsola-Malpighi University Hospital ( Bologna , Italy ) .
+METHODS	Subjects were divided in two groups : in the first group the patient was submitted to LC while in the second group was submitted to OC .
+RESULTS	Of 164 consecutive patients , 20 were excluded from the study .
+RESULTS	The two groups were similar in demographic and clinical characteristics .
+RESULTS	Seven ( 9.7 % ) patients in the LC group required conversion to OC .
+RESULTS	There were no deaths or bile duct lesions in either group , and the postoperative complication rate was similar ( p = n.s. ) .
+RESULTS	The mean postoperative hospital stay was also comparable .
+CONCLUSIONS	Even though LC for acute and gangrenous cholecystitis is technically demanding , in experienced hands it is safe and effective .
+CONCLUSIONS	It does not increase the mortality and the morbidity rate with a low conversion rate and no difference in hospital stay .
+

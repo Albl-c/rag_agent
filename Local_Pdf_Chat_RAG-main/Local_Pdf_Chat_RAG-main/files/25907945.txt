@@ -1,0 +1,9 @@
+25907945
+OBJECTIVE	To study the effect of perioperative immunomodulatory therapy on postoperative recurrence of rectal cancer .
+METHODS	This prospective study was conducted among 238 rectal/anal cancer patients undergoing intersphincteric resection at our center between January , 2010 and January , 2011 , among whom 150 were eligible to be included and completed the study .
+METHODS	The 150 patients were randomized in a double-blinded fashion into 3 equal groups to receive immunomodulatory therapy with 8 mg/kg celecoxib ( group A ) , 0.4 mg/kg Sou-Medrol ( group B ) , or placebo ( group C ) , given daily from 5 days before surgery to 5 days after surgery , and the postoperative cancer recurrence were compared .
+RESULTS	At 3 days after the operation , the 3 groups showed significantly different C-reactive protein ( CRP ) levels , which decreased obviously in all the 3 groups compared with those at 1 day following the operation ( P = 0.022 ) , especially in group B.
+RESULTS	The levels of interleukin-6 ( IL-6 ) at 3 days after the operation also differed significantly between the 3 groups but were lower in all the 3 groups than those at 1 day after the operation ( P = 0.046 ) , and this reduction was the most obvious in group A. COX-2 expression differed significantly between the 3 groups ( P = 0.017 ) , among which group A showed the most obvious suppression of COX-2 expression .
+RESULTS	During the follow-up for a mean of 45 months , no significant difference in the recurrence rate was found between the 3 groups ( P = 0.549 ) .
+CONCLUSIONS	With a lower efficacy than Sou-Medrol in decreasing postoperative inflammation , celecoxib produces a better effect in inhibiting COX-2 expression , but it does not lower postoperative recurrence rate of rectal cancer .
+

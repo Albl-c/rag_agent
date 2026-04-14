@@ -1,0 +1,15 @@
+24447332
+BACKGROUND	After 9/11/2001 , most FDNY workers had persistent lung function decline but some exposed workers recovered .
+BACKGROUND	We hypothesized that the protease/anti-protease balance in serum soon after exposure predicts subsequent recovery .
+METHODS	We performed a nested case-control study measuring biomarkers in serum drawn before 3/2002 and subsequent forced expiratory volume at one second ( FEV1 ) on repeat spirometry before 3/2008 .
+METHODS	Serum was assayed for matrix metalloproteinases ( MMP-1 ,2,3,7,8,9,12 and 13 ) and tissue inhibitors of metalloproteinases ( TIMP-1 ,2,3,4 ) .
+METHODS	The representative sub-cohort defined analyte distribution and a concentration above 75th percentile defined elevated biomarker expression .
+METHODS	An FEV1 one standard deviation above the mean defined resistance to airway injury .
+METHODS	Logistic regression was adjusted for pre-9 / 11 FEV1 , BMI , age and exposure intensity modeled the association between elevated biomarker expression and above average FEV1 .
+RESULTS	FEV1 in cases and controls declined 10 % of after 9/11/2001 .
+RESULTS	Cases subsequently returned to 99 % of their pre-exposure FEV1 while decline persisted in controls .
+RESULTS	Elevated TIMP-1 and MMP-2 increased the odds of resistance by 5.4 and 4.2 fold while elevated MMP-1 decreased it by 0.27 fold .
+CONCLUSIONS	Resistant cases displayed healing , returning to 99 % of pre-exposure values .
+CONCLUSIONS	High TIMP-1 and MMP-2 predict healing .
+CONCLUSIONS	MMP/TIMP balance reflects independent pathways to airway injury and repair after WTC exposure .
+

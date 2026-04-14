@@ -1,0 +1,14 @@
+25416724
+OBJECTIVE	Visceral adipose tissue ( VAT ) is associated with an increased risk of metabolic syndrome ( MetS ) .
+OBJECTIVE	Recent studies have suggested that VAT negatively affects bone .
+OBJECTIVE	However , MetS has also been associated with higher estradiol ( E2 ) levels , which is bone protective .
+OBJECTIVE	We therefore investigated the impact of VAT and E2 levels on bone density , structural parameters , and strength estimates .
+METHODS	A cross-sectional study was conducted in 72 obese men with MetS to investigate the impact of VAT and E2 levels on bone .
+METHODS	Bone parameters were assessed by dual-energy X-ray absorptiometry ( DXA ) , quantitative computed tomography ( QCT ) , and high-resolution peripheral QCT ( HRpQCT ) at lumbar spine , proximal femur , radius , and tibia .
+METHODS	VAT volume was measured by magnetic resonance imaging ( MRI ) and sexual hormones were measured in blood samples .
+RESULTS	Men with high VAT had a lower bone density at the hip ( P < 0.05 ) , lower cortical thickness , and higher buckling ratio at femoral neck ( FN ) ( P = 0.008 and P = 0.02 ) , compared with men with low VAT , despite a similar body weight and BMI .
+RESULTS	Generally , E2 levels were low ( median 43pmol/l ) , and men with E2 levels below median had reduced bone density at lumbar spine ( P = 0.04 ) , and impaired structural parameters at radius and tibia , compared with men with E2 levels above median .
+RESULTS	At the hip , VAT volume and E2 levels affected bone density independently and additively , and 50 % of men with high VAT and low E2 levels had osteopenia with significantly lower T-score at FN ( P = 0.004 ) .
+CONCLUSIONS	High VAT and low E2 negatively affect bone in obese men with MetS .
+CONCLUSIONS	VAT and E2 affect bone density at the hip independently and additively , revealing an unexpected high prevalence of osteopenia in middle-aged men with MetS .
+

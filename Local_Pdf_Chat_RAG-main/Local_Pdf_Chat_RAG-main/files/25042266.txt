@@ -1,0 +1,18 @@
+25042266
+OBJECTIVE	Limited data exist on radial access in carotid artery stenting .
+OBJECTIVE	This multicentre prospective randomised study was performed to compare the outcome and complication rates of transradial and transfemoral carotid artery stenting .
+RESULTS	The clinical and angiographic data of 260 consecutive patients with high risk for carotid endarterectomy , treated between 2010 and 2012 by carotid stenting with cerebral protection , were evaluated .
+RESULTS	Patients were randomised to transradial ( n = 130 ) or transfemoral ( n = 130 ) groups and several parameters were evaluated .
+RESULTS	Primary combined endpoint : major adverse cardiac and cerebral events , rate of access-site complications .
+RESULTS	Secondary endpoints : angiographic outcome of the procedure , fluoroscopy time and X-ray dose , procedural time , crossover rate to another puncture site and hospitalisation in days .
+RESULTS	Procedural success was achieved in all 260 patients ( 100 % ) , the crossover rate was 10 % in the TR and 1.5 % in the TF group ( p < 0.05 ) .
+RESULTS	A major access-site complication was encountered in one patient ( 0.9 % ) in the TR group and in one patient ( 0.8 % ) in the TF group ( p = ns ) .
+RESULTS	The incidence of major adverse cardiac and cerebral events was 0.9 % in the TR and 0.8 % in the TF group ( p = ns ) .
+RESULTS	Procedure time ( 1,620 [ 1,230-2 ,100 ] vs. 1,500 [ 1,080-2 ,100 ] sec , p = ns ) and fluoroscopy time ( 540 [ 411-735 ] vs. 501 [ 378-702 ] sec , p = ns ) were not significantly different , but the radiation dose was significantly higher in the TR group ( 195 [ 129-274 ] vs. 148 [ 102-237 ] Gy * cm2 , p < 0.05 ) by per-protocol analysis .
+RESULTS	Hospitalisation days were significantly lower in the TR group ( 1.170.40 vs. 1.250.45 , p < 0.05 ) .
+RESULTS	By intention-to-treat analysis there was a significantly higher radiation dose in the TR group ( 195 [ 130-288 ] vs. 150 [ 104-241 ] , p < 0.05 ) , but no difference in major events ( 0.9 vs. 0.8 , p = ns ) and length of hospitalisation in days ( 1.42.6 vs. 1.250.45 , p = ns ) .
+CONCLUSIONS	The transradial approach for carotid artery stenting is safe and efficacious ; however , the crossover rate is higher with transradial access .
+CONCLUSIONS	There are no differences in the total procedure duration and fluoroscopy time between the two approaches but the radiation dose is significantly higher in the radial group , and the hospitalisation is shorter with the use of transradial access by per-protocol analysis .
+CONCLUSIONS	By evaluating the patient data according to intention-to-treat analysis we found no difference in major adverse events and hospitalisation .
+CONCLUSIONS	In both groups , vascular complications rarely occurred .
+

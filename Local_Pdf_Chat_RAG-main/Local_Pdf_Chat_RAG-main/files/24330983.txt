@@ -1,0 +1,13 @@
+24330983
+OBJECTIVE	To compare the effect of different types and concentrations of sweet solutions on neonatal pain during heel lance procedure .
+METHODS	Totally 560 full term neonates ( male 295 , female 265 ) were randomized into 7 groups : placebo group ( plain water ) , 10 % glucose , 25 % glucose , 50 % glucose , 12 % sucrose , 24 % sucrose and 30 % sucrose groups.In each group , 2 ml corresponding oral solutions were administered through a syringe by dripping into the neonate 's mouth 2 minute before heel lance .
+METHODS	The procedure process was recorded by videos , from which to collect heart rate , oxygen saturation and pain score 1 min before puncture , 3 , 5 and 10 min after puncture .
+RESULTS	The average heart rate increase 3 , 5 and 10 min after procedure in the 25 % and 50 % glucose groups , 12 % and 24 % and 30 % sucrose groups was significantly lower than those in the placebo group ( P < 0.01 or 0.05 ) .
+RESULTS	The average heart rate increase 3 min after procedure in the sucrose group was lower than that in the glucose group ( P < 0.01 ) .
+RESULTS	Neonates who received 30 % sucrose has a significantly lower average heart rate increase than those who received 12 % and 24 % sucrose 3 min after heel lance ( both P < 0.05 ) .
+RESULTS	The average oxygen saturation decrease 3 , 5 , 10 min after procedure was significantly lower than those in the placebo group ( P < 0.01 ) .
+RESULTS	The average oxygen saturation decrease 3 min after procedure in the sucrose groups was significantly lower than that in the glucose groups ( P < 0.01 ) .
+RESULTS	The average pain score 3 , 5 , 10 min after procedure was significantly lower than those in the placebo group ( P < 0.01 ) .
+RESULTS	The average pain score 3 min after procedure in the sucrose groups was significantly lower than that in the glucose groups ( P < 0.01 ) .
+CONCLUSIONS	Oral administration of sweet solutions is an effective way to relieve neonatal pain on procedure , and sucrose has a better pain relief action than glucose , moreover , 30 % sucrose provides better effect in control of heart rate increase 3 min after heel lance , but the best concentration of sucrose for pain relief needs further study .
+

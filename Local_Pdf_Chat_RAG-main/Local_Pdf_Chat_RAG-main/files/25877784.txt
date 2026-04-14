@@ -1,0 +1,10 @@
+25877784
+BACKGROUND	The purpose of this study was to determine the efficacy of a clinician referral and exercise program in improving exercise levels and quality of life for men with prostate cancer .
+METHODS	This was a multicenter cluster randomized controlled trial in Melbourne , Australia comprising 15 clinicians : 8 clinicians were randomized to refer eligible participants ( n = 54 ) to a 12-week exercise program comprising 2 supervised gym sessions and 1 home-based session per week , and 7 clinicians were randomized to follow usual care ( n = 93 ) .
+METHODS	The primary outcome was self-reported physical activity ; the secondary outcomes were quality of life , anxiety , and symptoms of depression .
+RESULTS	A significant intervention effect was observed for vigorous-intensity exercise ( effect size : Cohen 's d , 0.46 ; 95 % confidence interval [ CI ] , 0.09-0 .82 ; P = .010 ) but not for combined moderate and vigorous exercise levels ( effect size : d , 0.08 ; 95 % CI , -0.28 to 0.45 ; P = .48 ) .
+RESULTS	Significant intervention effects were also observed for meeting exercise guidelines ( 150 min/wk ; odds ratio , 3.9 ; 95 % CI , 1.9-7 .8 ; P = .002 ) ; positive intervention effects were observed in the intervention group for cognitive functioning ( effect size : d , 0.34 ; 95 % CI , -0.02 to 0.70 ; P = .06 ) and depression symptoms ( effect size : d , -0.35 ; 95 % CI , -0.71 to 0.02 ; P = .06 ) .
+RESULTS	Eighty percent of participants reported that the clinician 's referral influenced their decision to participate in the exercise program .
+CONCLUSIONS	The clinician referral and 12-week exercise program significantly improved vigorous exercise levels and had a positive impact on mental health outcomes for men living with prostate cancer .
+CONCLUSIONS	Further research is needed to determine the sustainability of the exercise program and its generalizability to other cancer populations .
+

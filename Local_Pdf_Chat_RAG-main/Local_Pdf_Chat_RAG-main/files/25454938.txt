@@ -1,0 +1,11 @@
+25454938
+OBJECTIVE	To assess the effect of automated adjustment of the inspired oxygen fraction ( FiO2 ) on arterial oxygen saturation ( SpO2 ) and cerebral tissue oxygen saturation ( SctO2 ) in very low birth weight infants with frequent fluctuations in oxygenation .
+METHODS	Fifteen infants ( median gestational age , 25 weeks [ range , 23-28 weeks ] ; median age , 34 days [ range , 19-74 days ] ) were assigned in random sequence to 24 hours of automated adjustment of FiO2 or manual adjustment of FiO2 .
+METHODS	Primary outcome measurements were time within the SpO2 target range and the area under the curve above and below a defined SctO2 range .
+RESULTS	Percentage of time within the SpO2 target range increased during automated FiO2 control ( 76.3 % 9.2 % vs 69.1 % 8.2 % for manual ; P < .01 ) .
+RESULTS	Prolonged episodes with SpO2 < 88 % of > 60 seconds duration ( median , 115 episodes [ range , 67-240 ] vs 54 episodes [ range , 7-184 ] ; P < .01 ) and of > 180 seconds duration ( median , 13 episodes [ range , 6-39 ] vs 2 episodes [ range , 0-5 ] ; P < .01 ) decreased significantly during the automated period .
+RESULTS	Percentage of time with SpO2 > 96 % decreased during automated control ( 6.6 % 4.4 % vs 10.4 % 3.3 % ; P < .02 ) .
+RESULTS	There was no significant difference in FiO2 exposure .
+RESULTS	The area ( deviation time ) below and above the defined SctO2 threshold did not differ between the 2 periods ( median , 59.7 % * seconds [ range , 17.2 % -208.3 % ] for manual vs 49.0 % * seconds [ range , 4.3 % -193.7 % ] for automated ; P = .36 ) .
+CONCLUSIONS	Automated FiO2 control in preterm infants with frequent SpO2 fluctuations significantly increased the time within the SpO2 target range and reduced the incidence of prolonged hypoxemic events compared with manual FiO2 adjustment , but did not significantly affect cerebral tissue oxygenation .
+

@@ -1,0 +1,17 @@
+25219423
+OBJECTIVE	The STRIDE study assessed whether a lifestyle intervention , tailored for individuals with serious mental illnesses , reduced weight and diabetes risk .
+OBJECTIVE	The authors hypothesized that the STRIDE intervention would be more effective than usual care in reducing weight and improving glucose metabolism .
+METHODS	The study design was a multisite , parallel two-arm randomized controlled trial in community settings and an integrated health plan .
+METHODS	Participants who met inclusion criteria were 18 years old , were taking antipsychotic agents for 30 days , and had a body mass index 27 .
+METHODS	Exclusions were significant cognitive impairment , pregnancy/breastfeeding , recent psychiatric hospitalization , bariatric surgery , cancer , heart attack , or stroke .
+METHODS	The intervention emphasized moderate caloric reduction , the DASH ( Dietary Approaches to Stop Hypertension ) diet , and physical activity .
+METHODS	Blinded staff collected data at baseline , 6 months , and 12 months .
+RESULTS	Participants ( men , N = 56 ; women , N = 144 ; mean age = 47.2 years [ SD = 10.6 ] ) were randomly assigned to usual care ( N = 96 ) or a 6-month weekly group intervention plus six monthly maintenance sessions ( N = 104 ) .
+RESULTS	A total of 181 participants ( 90.5 % ) completed 6-month assessments , and 170 ( 85 % ) completed 12-month assessments , without differential attrition .
+RESULTS	Participants attended 14.5 of 24 sessions over 6 months .
+RESULTS	Intent-to-treat analyses revealed that intervention participants lost 4.4 kg more than control participants from baseline to 6 months ( 95 % CI = -6.96 kg to -1.78 kg ) and 2.6 kg more than control participants from baseline to 12 months ( 95 % CI = -5.14 kg to -0.07 kg ) .
+RESULTS	At 12 months , fasting glucose levels in the control group had increased from 106.0 mg/dL to 109.5 mg/dL and decreased in the intervention group from 106.3 mg/dL to 100.4 mg/dL .
+RESULTS	No serious adverse events were study-related ; medical hospitalizations were reduced in the intervention group ( 6.7 % ) compared with the control group ( 18.8 % ) .
+CONCLUSIONS	Individuals taking antipsychotic medications can lose weight and improve fasting glucose levels .
+CONCLUSIONS	Increasing reach of the intervention is an important future step .
+

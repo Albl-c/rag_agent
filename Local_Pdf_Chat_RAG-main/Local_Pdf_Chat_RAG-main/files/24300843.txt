@@ -1,0 +1,12 @@
+24300843
+OBJECTIVE	The objectives of the study were to evaluate the image quality and diagnostic performance of sinogram-affirmed iterative reconstruction ( SAFIRE ) for detecting hepatic metastasis and to estimate the potential radiation dose reduction at abdominal computed tomography ( CT ) .
+METHODS	Fifty-nine consecutive patients ( mean age , 59.2 years ; range , 42-81 years ) who had hepatic metastasis and who underwent dual-source abdominal CT were enrolled in this study .
+METHODS	The image noise of the liver was compared between full-dose filtered back projection images ( FD-FBP ) and simulated half-dose images , which used only single-source projection data , and reconstructed with different strengths of SAFIRE ( HD-SAFIRE ( 1-5 ) ) by 1-way analysis of variance with Bonferroni correction .
+METHODS	The diagnostic performance for hepatic metastasis was compared by logistic regression with the weighted least squares method and noninferiority test between the FD-FBP images and the half-dose sinogram-affirmed iterative reconstruction ( HD-SAFIRE ) images .
+RESULTS	As the SAFIRE strength increased , image noise decreased ( P < 0.001 ) .
+RESULTS	The images of HD-SAFIRE ( 2 ) showed similar image noise for liver parenchyma ( 13.4 Hounsfield unit [ HU ] ) , signal-to-noise ratio for liver parenchyma ( 9.2 ) , and lesion-to-liver contrast-to-noise ratio ( 4.5 ) , compared with the FD-FBP images ( 12.6 HU , P = 0.668 ; 9.6 , P > 0.999 ; and 4.5 , P > 0.999 , respectively ) .
+RESULTS	The diagnostic accuracy for hepatic metastasis with the HD-SAFIRE ( 2 ) images ( 87.5 % ) was not different from that of the FD-FBP images ( 87.5 % , P > 0.999 ) .
+RESULTS	The diagnostic performance of the HD-SAFIRE ( 2 ) images was also noninferior to that of the FD-FBP images ( 95 % confidence interval lower limit difference [ -9.16 % ] excluding the -10 % clinical noninferiority limit ) .
+RESULTS	The mean ( SD ) volume CT dose index of FD-FBP was 11.26 ( 2.66 ) mGy , and the mean ( SD ) radiation dose equivalent associated with HD-SAFIRE was estimated to be 5.63 ( 1.33 ) mGy .
+CONCLUSIONS	By applying SAFIRE2 , the radiation dose could be reduced by up to 50 % compared with the standard-of-care abdominal CT protocol without increasing image noise and without deteriorating diagnostic performance for the detection of hepatic metastasis .
+

@@ -1,0 +1,13 @@
+24241327
+OBJECTIVE	A large number of unrepaired inguinal hernias is expected in sub-Saharan Africa where late presentation often results in incarceration , strangulation , or giant scrotal hernias .
+OBJECTIVE	However , no representative population-based data are available to quantify the prevalence of hernias .
+OBJECTIVE	We present data on groin masses in Sierra Leone to estimate prevalence , barriers to care , and associated disability .
+METHODS	A cluster randomized , cross-sectional household survey of 75 clusters of 25 households with 2 respondents each was designed to calculate the prevalence of and disability caused by groin hernias in Sierra Leone using a verbal head-to-toe examination .
+METHODS	Barriers to hernia repairs were assessed by asking participants the main reason for delay in surgical care .
+RESULTS	Information was obtained from 3,645 respondents in 1,843 households , of which 1,669 ( 46 % ) were male and included in the study .
+RESULTS	In total , 117 males or 7.01 % ( 95 % CI 5.64-8 .38 ) reported a soft or reducible swelling likely representing a hernia with four men having two masses .
+RESULTS	Of the 93.2 % who indicated the need for health care , only 22.2 % underwent a procedure , citing limited funds ( 59.0 % ) as the major barrier to care .
+RESULTS	On disability assessment , 20.2 % were not able to work secondary to the groin swelling .
+CONCLUSIONS	The results indicate groin masses represent a major burden for the male population in Sierra Leone .
+CONCLUSIONS	Improving access to surgical care for adult patients with hernias and early intervention for children will be vital to address the burden of disease and prevent complications or limitations of daily activity .
+

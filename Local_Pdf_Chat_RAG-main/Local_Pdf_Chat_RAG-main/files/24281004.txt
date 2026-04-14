@@ -1,0 +1,10 @@
+24281004
+BACKGROUND	This randomised phase II trial compared dose-escalated weekly paclitaxel ( wPTX ) vs standard-dose wPTX for patients with previously treated advanced gastric cancer ( AGC ) .
+METHODS	Ninety patients were randomised to a standard dose of wPTX ( 80mgm ( -2 ) ) or an escalated dose of wPTX ( 80-120mgm ( -2 ) ) to assess the superiority of overall survival ( OS ) with a one-sided alpha error of 0.3 and a power of 0.8 .
+RESULTS	The median OS showed a trend towards longer survival in the dose-escalated arm ( 11.8 vs 9.6 months ; hazard ratio ( HR ) , 0.75 ; one-sided P = 0.12 ) , although it was statistically not significant .
+RESULTS	The median progression-free survival ( PFS ) was significantly longer in the dose-escalated arm ( 4.3 vs 2.5 months , HR , 0.55 ; P = 0.017 ) .
+RESULTS	Objective response rate was 30.3 % with dose escalation and 17.1 % with standard dose ( P = 0.2 ) .
+RESULTS	The frequency of all grades of neutropenia was significantly higher with dose escalation ( 88.7 % vs 60.0 % , P = 0.002 ) ; however , no significant difference was observed in the proportion of patients experiencing grade 3 or more ( 40.9 % vs 31.1 % , P = 0.34 ) .
+CONCLUSIONS	Dose-escalated wPTX in patients with pretreated AGC met our predefined threshold of primary end point , OS ( P < 0.3 ) ; however , it did not show a significantly longer OS .
+CONCLUSIONS	Progression-free survival was significantly better with dose escalation .
+

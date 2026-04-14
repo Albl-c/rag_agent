@@ -1,0 +1,14 @@
+24567266
+BACKGROUND	Whilst surgery will face an imminent workforce shortage , an increasing majority of students decide against a surgical career .
+BACKGROUND	This study evaluated the current career expectations of medical students and tested a hands-on virtual reality ( VR ) intervention as a tool to increase their interest in surgery .
+METHODS	Randomly selected medical students of the University of Basel received a short questionnaire to rank their interest in five different postgraduate working environments prior to a lecture .
+METHODS	After the lecture they participated in a hands-on VR demonstration .
+METHODS	Thereafter an online questionnaire regarding workplace expectations , surgery and VR was sent to the students .
+RESULTS	The online questionnaire response rate was 87 % ( 225/258 ) .
+RESULTS	Before using the VR intervention , a nonsurgical career was preferred by the majority of students , followed by a surgical career , cross-disciplinary specialties , research and , finally , nonclinical work .
+RESULTS	Surgery ( n = 99 , 44 % ) and emergency medicine ( n = 111 , 49 % ) were rated as incompatible with a good work-life balance .
+RESULTS	Further drawbacks to surgery were apprehension of competitive mentality , unclear career perspectives and longer working hours .
+RESULTS	The VR intervention had limited impact on re-ranking the five working sectors and slightly increased the students ' interest in surgery .
+CONCLUSIONS	Students ' work environment expectations , their declining interest in a surgical career and the increasing need for surgeons represent challenges for surgical societies to address , in order to improve the attractiveness of surgery amongst students .
+CONCLUSIONS	VR sessions may be integrated as part of the actions required to improve students ' interest in a surgical career and should be further evaluated within controlled study designs .
+

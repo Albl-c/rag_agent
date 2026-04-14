@@ -1,0 +1,12 @@
+25925415
+BACKGROUND	Moderate , regular alcohol consumption is generally associated with a lower risk of cardiovascular events but data in patients with chronic heart failure are scarce .
+BACKGROUND	We evaluated the relations between wine consumption , health status , circulating biomarkers , and clinical outcomes in a large Italian population of patients with chronic heart failure enrolled in a multicenter clinical trial .
+RESULTS	A brief questionnaire on dietary habits was administered at baseline to 6973 patients enrolled in the Gruppo Italiano per lo Studio della Sopravvivenza nell ` Insufficienza Cardiaca-Heart Failure ( GISSI-HF ) trial .
+RESULTS	The relations between wine consumption , fatal and nonfatal clinical end points , quality of life , symptoms of depression , and circulating biomarkers of cardiac function and inflammation ( in subsets of patients ) were evaluated with simple and multivariable-adjusted statistical models .
+RESULTS	Almost 56 % of the patients reported drinking at least 1 glass of wine per day .
+RESULTS	After adjustment , clinical outcomes were not significantly different in the predefined 4 groups of wine consumption .
+RESULTS	However , patients with more frequent wine consumption had a significantly better perception of health status ( Kansas City Cardiomyopathy Questionnaire score , adjusted P < 0.0001 ) , less frequent symptoms of depression ( Geriatric Depression Scale , adjusted P = 0.01 ) , and lower plasma levels of biomarkers of vascular inflammation ( osteoprotegerin and C-terminal proendothelin-1 , adjusted P < 0.0001 , and pentraxin-3 , P = 0.01 ) after adjusting for possible confounders .
+CONCLUSIONS	We show for the first time in a large cohort of patients with chronic heart failure that moderate wine consumption is associated with a better perceived and objective health status , lower prevalence of depression , and less vascular inflammation , but does not translate into more favorable clinical 4-year outcomes .
+BACKGROUND	URL : http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT0033633 .
+

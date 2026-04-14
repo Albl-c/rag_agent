@@ -1,0 +1,15 @@
+24627290
+OBJECTIVE	Gemigliptin is a novel dipeptidyl peptidase-4 ( DPP-4 ) inhibitor used in the treatment of type 2 diabetes mellitus .
+OBJECTIVE	This study evaluated possible pharmacodynamic and pharmacokinetic interactions between gemigliptin and metformin and investigated their tolerability .
+METHODS	A randomized , open-label , multiple-dose , three-treatment , three-period , three-sequence crossover study was conducted in healthy male subjects .
+METHODS	Twenty-seven subjects received gemigliptin ( 50mg once daily ) , metformin ( 1,000 mg twice a day ) , or both drugs for 7days per dosing period .
+METHODS	Blood samples were drawn over 24h on the seventh day of each period for pharmacokinetic and pharmacodynamic evaluations , including plasma DPP-4 activity and total/active glucagon-like peptide-1 ( GLP-1 ) levels .
+METHODS	Meal tolerance tests were conducted for pharmacodynamic assessment on the eighth day .
+METHODS	Safety and tolerability were evaluated using adverse events , vital signs , ECGs , and clinical laboratory tests .
+RESULTS	Coadministration of gemigliptin and metformin had no significant effect on the pharmacokinetics of gemigliptin or metformin .
+RESULTS	The inhibition of DPP-4 by gemigliptin was not affected by coadministration with metformin .
+RESULTS	Co-therapy of gemigliptin and metformin showed additional effects by increasing plasma active GLP-1 concentrations and lowering serum glucose levels .
+RESULTS	The plasma glucagon level was lower in co-therapy than with metformin monotherapy .
+RESULTS	The coadministration of gemigliptin and metformin was well-tolerated without serious adverse events .
+CONCLUSIONS	Coadministration of gemigliptin and metformin showed beneficial anti-diabetic effects without pharmacokinetic drug-drug interactions .
+

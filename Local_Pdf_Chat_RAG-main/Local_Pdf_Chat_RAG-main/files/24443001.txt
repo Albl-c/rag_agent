@@ -1,0 +1,11 @@
+24443001
+OBJECTIVE	Since clinical non-response to 21000mg rituximab has previously been found to be associated with incomplete B cell depletion , we determined , in a randomised controlled proof of concept study , whether patients with initial incomplete B cell depletion would benefit from an additional infusion of rituximab at week 4 .
+METHODS	Patients with active rheumatoid arthritis despite methotrexate received a first infusion of rituximab 1000mg and were tested for persistent B cells using highly sensitive flow cytometry on day 15 .
+METHODS	All received a second infusion of 1g ( according to license ) , but patients with persistent B cells were subsequently randomised double-blind to receive , 2weeks later , either a third infusion of 1000mg rituximab or placebo .
+METHODS	Clinical response was determined by European League Against Rheumatism ( EULAR ) and American College of Rheumatology ( ACR ) criteria .
+RESULTS	Baseline characteristics were balanced between groups .
+RESULTS	Treatment with 31000mg rituximab resulted in significantly greater depletion ( lower B cell and plasmablast numbers between 8 and 28weeks ) paralleled by significantly better EULAR and ACR20 response rates at 40weeks ( p = 0.035 and p = 0.027 , respectively ) and 52weeks ( p = 0.021 and p = 0.043 , respectively ) compared with 21000mg .
+RESULTS	Immunoglobulin titres remained stable in both arms , and adverse event rates were balanced .
+CONCLUSIONS	In rituximab-treated patients with incomplete B cell depletion ( predictive of poor response ) , an extra 1000mg infusion of rituximab at 4weeks produced both better depletion and clinical responses than placebo with no worsening of safety .
+CONCLUSIONS	Degree of depletion is an important , but modifiable , determinant of response .
+

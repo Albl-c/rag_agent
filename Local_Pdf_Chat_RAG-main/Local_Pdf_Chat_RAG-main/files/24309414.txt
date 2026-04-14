@@ -1,0 +1,10 @@
+24309414
+BACKGROUND	Supportive supervision is a form of supervision that promotes quality at all levels of health system by strengthening relationships within the system through prompt identification and resolution of problems among others .
+BACKGROUND	It is an effective intervention in improving health worker performance in low resource settings .
+BACKGROUND	Malaria is responsible for majority of outpatient consultations in Nigeria at all levels of care .
+METHODS	This was a facility-based interventional study with pre and post-intervention phases conducted among two groups.The study subjects were selected through a multistage sampling technique and data collection was done using both semistructured interviewer administered questionnaire and supervisory checklist .
+RESULTS	The mean knowledge scores of malaria within the intervention group showed an increase from 10.3 1.4 at preintervention to 11.3 1.5 at post-intervention ( P < 0.0015 ) .
+RESULTS	The proportion of respondents who correctly followed malaria management guidelines increased from 32.73 % at first supervisory visit to 70.91 % by the third supervisory visit ( P < 0.001 ) .
+RESULTS	An analysis of the supervisory checklist showed improvement in performance of healthcare workers with each supportive supervisory visit in most of the variables examined .
+CONCLUSIONS	This study has demonstrated that supportive supervision is a feasible and practicable tool in improving knowledge and practice of malaria case management among PHC workers .
+

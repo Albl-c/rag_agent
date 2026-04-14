@@ -1,0 +1,12 @@
+24367678
+OBJECTIVE	We used data from a randomized trial of HIV-tuberculosis co-infected patients in Mozambique to determine the incidence and predictors of paradoxical tuberculosis-associated immune reconstitution inflammatory syndrome ( IRIS ) occurring within 12 weeks of starting antiretroviral therapy , and to evaluate its association with patient outcome at 48 weeks .
+METHODS	HIV-tuberculosis co-infected and antiretroviral therapy-nave adults with less than 250 CD4/mm3 were randomized to a nevirapine or efavirenz-based antiretroviral therapy initiated 4 to 6 weeks after starting tuberculosis treatment , and were then followed for 48 weeks .
+METHODS	Tuberculosis cases were diagnosed using WHO guidelines , and tuberculosis-IRIS by case definitions of the International Network for the Study of HIV-associated IRIS .
+RESULTS	The 573 HIV-tuberculosis co-infected patients who initiated antiretroviral therapy had a median CD4 count of 92 cells/mm ( 3 ) and HIV-1 RNA of 5.6 log10 copies/mL .
+RESULTS	Mortality at week 48 was 6.1 % ( 35/573 ) .
+RESULTS	Fifty-three ( 9.2 % ) patients presented a tuberculosis-IRIS within 12 weeks of starting antiretroviral therapy .
+RESULTS	Being female and having a low CD4 count , high HIV-1 RNA load , low body mass index and smear-positive pulmonary tuberculosis were independently associated with tuberculosis-IRIS .
+RESULTS	After adjustment for baseline body mass index , CD4 count and hemoglobin , occurrence of tuberculosis-IRIS was independently associated with 48-week mortality ( aOR 2.72 95 % CI 1.14-6 .54 ) .
+RESULTS	Immunological and HIV-1 virological responses and tuberculosis treatment outcomes were not different between patients with and without tuberculosis-IRIS .
+CONCLUSIONS	In this large prospective cohort , tuberculosis-IRIS occurrence within 12 weeks of starting antiretroviral therapy was independently associated with the mortality of HIV-tuberculosis co-infected patients at 48 weeks post antiretroviral therapy initiation .
+

@@ -1,0 +1,17 @@
+25409678
+BACKGROUND	The incidence of acute kidney injury ( AKI ) is estimated at 10 to 20 % in patients admitted to intensive care units ( ICU ) and often requires renal replacement therapy ( RRT ) .
+BACKGROUND	ICU mortality in AKI patients can exceed 50 % .
+BACKGROUND	Venous catheters are the preferred vascular access method for AKI patients requiring RRT , but carry a risk of catheter thrombosis or infection .
+BACKGROUND	Catheter lock solutions are commonly used to prevent such complications .
+BACKGROUND	Heparin and citrate locks are both widely used for tunneled , long-term catheters , but few studies have compared citrate versus heparin for patients with short-term , non-tunneled catheters .
+BACKGROUND	We aim to compare citrate 4 % catheter lock solution versus heparin in terms of event-free survival of the first non-tunneled hemodialysis catheter inserted in ICU patients with AKI requiring RRT .
+BACKGROUND	Secondary objectives are the rate of fibrinolysis , incidence of catheter thrombosis and catheter-related infection per 1,000 catheter days , length of stay in ICU and in-hospital and 28-day mortality .
+METHODS	The VERROU-REA study is a randomized , prospective , multicenter , double-blind , parallel-group , controlled superiority study carried out in the medical , surgical and nephrological ICUs of two large university hospitals in eastern France .
+METHODS	A catheter lock solution composed of trisodium citrate at 4 % will be compared to unfractionated heparin at a concentration of 5,000 IU/mL .
+METHODS	All consecutive adult patients with AKI requiring extracorporeal RRT , and in whom a first non-tunneled catheter is to be inserted by the jugular or femoral approach , will be eligible .
+METHODS	Catheters inserted by the subclavian approach , patients with acute liver failure , thrombopenia or contraindication to systemic anticoagulation will be excluded .
+METHODS	Patients will be followed up daily in accordance with standard practices for RRT until death or discharge .
+CONCLUSIONS	Data is scarce regarding the use of non-tunneled catheters in the ICU setting in patients with AKI .
+CONCLUSIONS	This study will provide an evidence base for recommendations regarding the use of anticoagulant catheter locks for the prevention of dysfunction in non-tunneled hemodialysis catheters in patients with AKI in critical or intensive care .
+BACKGROUND	Registered with Clinicaltrials.gov ( registration number : NCT01962116 ) on 27 August 2013 .
+

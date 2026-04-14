@@ -1,0 +1,13 @@
+24356398
+OBJECTIVE	To evaluate the effect of periodontal treatment on gingival overgrowth in a group of renal transplant patients .
+METHODS	Twenty-five renal transplant recipients receiving immunosuppressive therapy with cyclosporine A ( CsA ) were randomly assigned to 2 groups .
+METHODS	Group 1 ( n = 15 ) included patients who had been specifically referred to a dental clinic to prevent gingival overgrowth and were given full periodontal therapy .
+METHODS	Group 2 ( n = 10 ) was comprised of patients who did not receive any professional periodontal cleaning .
+METHODS	Patients from both groups were examined to determine their periodontal status before and after 3 , 6 and 12 months in terms of their plaque index , gingival index and gingival overgrowth .
+METHODS	During the examination , their overall health was stable .
+RESULTS	For group 1 , the scores were 1.89 ( baseline ) , 0.98 ( 6 months ) and 0.56 ( 12 months ) , and hence there were significant reductions ( p = 0.0001 ) .
+RESULTS	The gingival indices were 1.71 ( baseline ) , 0.76 ( 6 months ) and 0.35 ( 12 months ) , and the reductions were also significant ( p = 0.0001 ) .
+RESULTS	A significant association was observed between poor oral hygiene and the degree of gingival overgrowth .
+RESULTS	The 1-year post-treatment follow-up showed that patients in group 1 did not develop gingival overgrowth due to the use of CsA as group 2 did without prior periodontal therapy .
+CONCLUSIONS	Oral hygiene status was the most important variable related to the development and degree of gingival overgrowth due to the use of CsA .
+

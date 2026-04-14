@@ -1,0 +1,15 @@
+25002832
+BACKGROUND	Shoulder surgery is often performed in the beach-chair position , a position associated with arterial hypotension and subsequent risk of cerebral ischaemia .
+BACKGROUND	It can be performed under general anaesthesia or with an interscalene brachial plexus block , each of which has specific advantages but also specific negative effects on blood pressure control .
+BACKGROUND	It would be worthwhile to combine the advantages of the two , but the effects of the combination on the circulation are not well investigated .
+BACKGROUND	We studied blood pressure , heart rate , and incidence of adverse circulatory events in patients undergoing shoulder surgery in general anaesthesia with or without an interscalene block .
+METHODS	Prospective , randomised , blinded study in outpatients ( age 18 to 80years ) undergoing shoulder arthroscopy .
+METHODS	General anaesthesia was with propofol/opioid , interscalene block with 40ml 1 % mepivacaine .
+METHODS	Hypotension requiring treatment was defined as a mean arterial pressure < 60mmHg or a systolic pressure < 80 % of baseline ; relevant bradycardia was a heart rate < 50bpm with a decrease in blood pressure .
+RESULTS	Forty-two patients had general anaesthesia alone , 41 had general anaesthesia plus interscalene block .
+RESULTS	The average systolic blood pressure under anaesthesia in the beach-chair position was 1147.3 vs. 1168.3 mmHg ( p = 0.09 ; all comparisons General vs. General-Regional ) .
+RESULTS	The incidence of a mean arterial pressure under 60mmHg or a decrease in systolic pressure of more than 20 % from baseline was 64 % vs. 76 % ( p = 0.45 ) .
+RESULTS	The number of patients with a heart rate lower than 50 and a concomitant blood pressure decrease was 8 vs. 5 ( p = 0.30 ) .
+CONCLUSIONS	One can safely combine interscalene block with general anaesthesia for surgery in the beach-chair position in ASA I and II patients .
+BACKGROUND	DRKS00005295 .
+

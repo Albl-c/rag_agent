@@ -1,0 +1,13 @@
+24719046
+OBJECTIVE	Rheumatoid arthritis ( RA ) patients display high levels of oxidative stress .
+OBJECTIVE	Transient exercise-induced increases in oxidative stress are thought to be adaptive in healthy populations .
+OBJECTIVE	This study investigated the effect of exercise on markers of oxidative stress in RA , following acute exercise and a period of exercise training .
+METHODS	Acute exercise study : RA patients ( N = 12 , age : 5611 ) undertook a bout of exercise ( 30-40min , 70 % VO2MAX ) , and blood samples were taken before and after exercise to assess markers of oxidative stress .
+METHODS	Training study : RA patients ( N = 19 , age : 5610 ) were randomised into either a control or exercise group , who undertook 3 exercise sessions per week ( 30-40min @ 70 % VO2MAX ) for 3months .
+METHODS	Plasma markers of oxidative stress ( protein carbonyls ( PC ) , lipid hydroperoxides ( LOOH ) , 3-nitrotyrosine ( 3-NT ) , total antioxidant capacity ( TAC ) and catalase ( CAT ) activity ) , inflammation ( interleukin-8 ( IL-8 ) and C-reactive protein ( CRP ) ) and nitric oxide metabolites ( NOx ) were assessed before and after training .
+RESULTS	Acute exercise study : Protein carbonyls ( PC ) ( +18 % ) and NOx ( +27 % ) were significantly increased following exercise .
+RESULTS	Training study : 3-nitrotyrosine ( 3-NT ) decreased ( 2.181.78 to 1.100.93 M ) in the exercise group only , alongside increases in aerobic fitness ( 24.454.98 to 27.104.51 ml/kg/min ( -1 ) ) and reductions in disease activity score ( DAS : 3.471.17 to 2.880.76 ) .
+RESULTS	PC , LOOH , TAC , IL-8 , CRP and NOx concentrations , and CAT activity were unchanged in both groups .
+CONCLUSIONS	Aerobic exercise training did not increase markers of oxidative stress in RA patients .
+CONCLUSIONS	3-Nitrotyrosine and disease activity were decreased following exercise training .
+

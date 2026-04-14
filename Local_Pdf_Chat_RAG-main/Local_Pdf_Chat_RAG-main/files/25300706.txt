@@ -1,0 +1,22 @@
+25300706
+OBJECTIVE	WARCEF randomized 2,305 patients in sinus rhythm with ejection fraction ( EF ) 35 % to warfarin ( INR 2.0-3 .5 ) or aspirin 325 mg .
+OBJECTIVE	Warfarin reduced the incident ischemic stroke ( IIS ) hazard rate by 48 % over aspirin in a secondary analysis .
+OBJECTIVE	The IIS rate in heart failure ( HF ) is too low to warrant routine anticoagulation but epidemiologic studies show that prior stroke increases the stroke risk in HF .
+OBJECTIVE	In this study , we explore IIS rates in WARCEF patients with and without baseline stroke to look for risk factors for IIS and determine if a subgroup with an IIS rate high enough to give a clinically relevant stroke risk reduction can be identified .
+METHODS	We compared potential stroke risk factors between patients with baseline stroke and those without using the exact conditional score test for Poisson variables .
+METHODS	We looked for risk factors for IIS , by comparing IIS rates between different risk factors .
+METHODS	For EF we tried cut-off points of 10 , 15 and 20 % .
+METHODS	The cut-off point 15 % was used as it was the highest EF that was associated with a significant increase in IIS rate .
+METHODS	IIS and EF strata were balanced as to warfarin/aspirin assignment by the stratified randomized design .
+METHODS	A multiple Poisson regression examined the simultaneous effects of all risk factors on IIS rate .
+METHODS	IIS rates per hundred patient years ( / 100 PY ) were calculated in patient groups with significant risk factors .
+METHODS	Missing values were assigned the modal value .
+RESULTS	Twenty of 248 ( 8.1 % ) patients with baseline stroke and 64 of 2,048 ( 3.1 % ) without had IIS .
+RESULTS	IIS rate in patients with baseline stroke ( 2.37 / 100 PY ) was greater than patients without ( 0.89 / 100 PY ) ( rate ratio 2.68 , p < 0.001 ) .
+RESULTS	Fourteen of 219 ( 6.4 % ) patients with ejection fraction ( EF ) < 15 % and 70 of 2,079 ( 3.4 % ) with EF 15 % had IIS .
+RESULTS	In the multiple regression analysis stroke at baseline ( p < 0.001 ) and EF < 15 % vs. 15 % ( p = 0.005 ) remained significant predictors of IIS .
+RESULTS	IIS rate was 2.04 / 100 PY in patients with EF < 15 % and 0.95 / 100 PY in patients with EF 15 % ( p = 0.009 ) .
+RESULTS	IIS rate in patients with baseline stroke and reduced EF was 5.88 / 100 PY with EF < 15 % decreasing to 2.62 / 100 PY with EF < 30 % .
+CONCLUSIONS	In a WARCEF exploratory analysis , prior stroke and EF < 15 % were risk factors for IIS .
+CONCLUSIONS	Further research is needed to determine if a clinically relevant stroke risk reduction is obtainable with warfarin in HF patients with prior stroke and reduced EF .
+

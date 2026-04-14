@@ -1,0 +1,18 @@
+24337761
+OBJECTIVE	Modafinil has been reported to benefit a subgroup of patients suffering severe fatigue while undergoing chemotherapy .
+OBJECTIVE	Docetaxel is associated with fatigue that may lead to premature therapy withdrawal .
+OBJECTIVE	We investigated whether modafinil could reduce fatigue during docetaxel chemotherapy .
+METHODS	This multicenter , randomized , double-blind , placebo-controlled study evaluated the efficacy of modafinil in patients with metastatic prostate or breast cancer undergoing docetaxel chemotherapy ( every 21 days ; minimum dose 50 mg/m ( 2 ) ) .
+METHODS	At the start of their third or subsequent chemotherapy cycle , patients with significant docetaxel-associated fatigue were randomized to receive concurrent modafinil 200 mg/day or placebo for 15 days ( `` treatment periods '' ( TP ) ) .
+METHODS	Docetaxel was continued for up to four further cycles .
+METHODS	Fatigue was evaluated with the fatigue component of the MD Anderson Symptom Inventory ( MDASI ) .
+METHODS	The primary endpoint was cumulative MDASI area under the curve ( AUC ) during the first 7 days of study medication during TP1 and TP2 .
+RESULTS	Evaluable data were available from 83 patients ( 65 with prostate cancer ) .
+RESULTS	There was no statistically significant difference between the two treatment arms for the primary endpoint ( MSADI AUC3-10 35.9 vs 39.6 ; 95 % confidence interval -8.9 , 1.4 ; P = 0.15 ) .
+RESULTS	Overall toxicity was comparable between treatment groups ; however , the incidence of grade 2 nausea and vomiting was higher in the modafinil arm ( 45.4 vs 25 % ) .
+CONCLUSIONS	Assessing and managing chemotherapy-related fatigue remains a major challenge .
+CONCLUSIONS	There was a lack of difference between the two arms in the planned primary endpoint .
+CONCLUSIONS	However , there was a modest but consistent trend towards improvement of docetaxel-related fatigue in those treated with modafinil .
+CONCLUSIONS	Based on the study findings , modafinil for the treatment of fatigue associated with docetaxel chemotherapy elicits modest improvements .
+CONCLUSIONS	Larger , longer term , randomized , controlled studies are required to clarify the exact role of modafinil in the treatment of docetaxel-related fatigue .
+

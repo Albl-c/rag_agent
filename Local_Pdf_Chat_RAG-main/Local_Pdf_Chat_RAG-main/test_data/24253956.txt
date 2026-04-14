@@ -1,0 +1,10 @@
+24253956
+BACKGROUND	Aim of the study was to compare the chosen position of polyaxial locking screws with the position of monoaxial screws in the humeral head of proximal humeral fractures treated by locked plating .
+METHODS	In a prospective randomized observational study , 124 consecutive patients ( mean age 70.914.8 years ) sustaining a displaced proximal humeral fracture were treated with either monoaxial or polyaxial screw-inserted locking plate fixation .
+METHODS	The chosen positions of locking screws were identified from standardized postoperative radiographs in anteroposterior and outlet-view , with regard to a regional mapping of the humeral head .
+RESULTS	In monoaxial locking technique , a mean of 6 screws purchased the humeral head ( 95 % CI 5.1-6 .2 ) , and in polyaxial locking technique , a mean of 4 screws ( 95 % CI 3.3-4 .5 ) , respectively .
+RESULTS	Screws were placed in the regions superolateral : monoaxial 24.8 % , polyaxial 20.7 % ( p = 0.49 ) ; superomedial : monoaxial 21.9 % , polyaxial 20.0 % ( p = 0.433 ) ; inferolateral : monoaxial 32.5 % , polyaxial 35.0 % ( p = 0.354 ) ; inferomedial : monoaxial 20.8 % , polyaxial 24.2 % ( p = 0.07 ) , superoposterior : monoaxial 45.5 % , polyaxial 30.8 % ( p = 0.57 ) ; superoanterior : monoaxial 4.4 % , polyaxial 8.3 % ( p = 0.33 ) ; inferoposterior : monoaxial 22.5 % , polyaxial 29.8 % ( p = 0.49 ) and inferoanterior : monoaxial 27.5 % , polyaxial : 31.2 % ( p = 0.09 ) .
+CONCLUSIONS	The chosen screws ' position in monoaxial and polyaxial locking plate fixation of displaced proximal humeral fractures do not differ significantly .
+CONCLUSIONS	However , loss of fixation is observed more frequently if the fixation did not include at least one screw within the superoposterior region of the humeral head , suggesting that a screw purchasing the superoposterior region is beneficial in locked plating of proximal humeral fractures .
+METHODS	Treatment Study , Level II .
+

@@ -1,0 +1,18 @@
+25069770
+BACKGROUND	Dirofilaria repens is the causative agent of subcutaneous dirofilariosis of dogs , other animals and humans .
+BACKGROUND	This nematode is transmitted by mosquitoes of Aedes , Anopheles and Culex genera .
+BACKGROUND	In dogs , the parasite may cause subclinical infection or cutaneous signs .
+BACKGROUND	Recently , D. repens has emerged and spread in different geographical areas , with an increase of cases in dogs and humans .
+BACKGROUND	Chemoprevention in dogs in endemic areas is the most reliable approach for controlling this infection .
+BACKGROUND	This paper describes a randomized , blocked and multicentric clinical field study investigating the efficacy of an oral , chewable formulation containing milbemycin oxime/praziquantel ( Milbemax , Novartis Animal Health ) in the chemoprevention of subcutaneous dirofilariosis in dogs .
+METHODS	This study was conducted in endemic areas of Italy .
+METHODS	A total of 249 dogs , at two sites , negative for D. repens , were allocated into two groups ( i.e. Treated - T1 vs Untreated-T2 ) with a ratio of 1:1 , and subjected to clinical visits and blood sampling once monthly until the end of the study .
+METHODS	All blood samples were microscopically and genetically examined .
+METHODS	Animals belonging to T1 group received a minimum target dose of 0.5 mg/kg bodyweight of milbemycin oxime and 5 mg/kg of praziquantel in commercial tablets ( Milbemax ) according body weight once every 4 weeks .
+METHODS	Animals of group T2 were not treated with Milbemax but received , when necessary , specific parasiticide treatments .
+METHODS	The study duration was 336 2 days for each dog .
+RESULTS	A total of 219 dogs completed the study ( i.e. 111 in T1 and 108 in T2 ) , while 30 dogs ( i.e. 13 in T1 , 17 in T2 ) were withdrawn for a variety of reasons unrelated to administration of Milbemax .
+RESULTS	The percentages of animals not showing microfilariae of D. repens were 100 % ( 111 animals ) in T1 and 94.7 % ( 108 animals out of 114 ) in group T2 .
+RESULTS	Milbemax was shown to be safe in treated dogs .
+CONCLUSIONS	The results of this study confirm that the monthly use of Milbemax in dogs is effective and safe for the prevention of subcutaneous dirofilariosis in endemic areas .
+

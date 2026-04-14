@@ -1,0 +1,13 @@
+25281755
+BACKGROUND	The efficacy of TCN-032 , a human monoclonal antibody targeting a conserved epitope on M2e , was explored in experimental human influenza .
+METHODS	Healthy volunteers were inoculated with influenza A/Wisconsin/67 / 2005 ( H3N2 ) and received a single dose of the study drug , TCN-032 , or placebo 24 hours later .
+METHODS	Subjects were monitored for symptoms , viral shedding , and safety , including cytokine measurements .
+METHODS	Oseltamivir was administered 7 days after inoculation .
+RESULTS	Although the primary objective of reducing the proportion of subjects developing any grade 2 influenza symptom or pyrexia , was not achieved , TCN-032-treated subjects showed 35 % reduction ( P = .047 ) in median total symptom area under the curve ( days 1-7 ) and 2.2 log reduction in median viral load area under the curve ( days 2-7 ) by quantitative polymerase chain reaction ( P = .09 ) compared with placebo-treated subjects .
+RESULTS	TCN-032 was safe and well tolerated with no additional safety signals after administration of oseltamivir .
+RESULTS	Serum cytokine levels ( interferon , tumor necrosis factor , and interleukin 8 and 10 ) were similar in both groups .
+RESULTS	Genotypic and phenotypic analyses showed no difference between virus derived from subjects after TCN-032 treatment and parental strain .
+CONCLUSIONS	These data indicate that TCN-032 may provide immediate immunity and therapeutic benefit in influenza A infection , with no apparent emergence of resistant virus .
+CONCLUSIONS	TCN-032 was safe with no evidence of immune exacerbation based on serum cytokine expression .
+CONCLUSIONS	Clinicaltrials.gov registry number.NCT01719874 .
+

@@ -1,0 +1,13 @@
+24628999
+OBJECTIVE	To compare refractive changes after corneal crosslinking with and without mechanical compression of the cornea .
+METHODS	In a prospective , open , randomized case-control study conducted at the Department of Ophthalmology , Ume University Hospital , Sweden , sixty eyes of 43 patients with progressive keratoconus aged 18-28 years planned for corneal crosslinking and corresponding age - and sex-matched control subjects were included .
+METHODS	The patients were randomized to conventional corneal crosslinking ( CXL ; n = 30 ) or corneal crosslinking with mechanical compression using a flat rigid contact lens sutured to the cornea during treatment ( CRXL ; n = 30 ) .
+METHODS	Subjective refraction and ETDRS best spectacle-corrected visual acuity ( BSCVA ) , axial length measurement , keratometry and pachymetry were performed before and 1 and 6 months after treatment .
+RESULTS	The keratoconus patients had poorer BSCVA , higher refractive astigmatism and higher keratometry readings than the control subjects at baseline ( p < 0.01 ) .
+RESULTS	In the CXL group , BSCVA increased from 0.19 0.26 to 0.14 0.18 logMar ( p = 0.03 ) , and the spherical equivalent improved from -1.9 2.8 D to -1.4 2.4 D ( p = 0.03 ) .
+RESULTS	Maximum keratometry readings decreased after CXL from 53.1 4.9 D to 52.6 5.2 D ( p = 0.02 ) , and the axial length decreased in the CXL group , likely due to post-treatment corneal thinning ( p = 0.03 ) .
+RESULTS	In the CRXL group , all the above variables were unaltered ( p > 0.05 ) .
+CONCLUSIONS	At 6 months , the refractive results from CRXL did not surpass those of conventional CXL treatment .
+CONCLUSIONS	Rather , some variables indicated a slightly inferior effect .
+CONCLUSIONS	Possibly , stronger crosslinking would be necessary to stabilize the cornea in the flattened configuration achieved by the rigid contact lens .
+

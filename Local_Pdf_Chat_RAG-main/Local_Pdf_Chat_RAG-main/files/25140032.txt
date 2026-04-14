@@ -1,0 +1,17 @@
+25140032
+BACKGROUND	Regular aerobic exercise in patients with cystic fibrosis ( CF ) improves aerobic conditioning and delays disease progression , resulting in better quality of life .
+BACKGROUND	The purpose of this study was to evaluate the effect of an aerobic exercise program based on verbal and written guidelines on maximum exercise capacity using a cardiopulmonary exercise test , quality of life , and the self-reported aerobic exercise practice of children and adolescents with CF.
+METHODS	This randomized controlled trial followed guidelines for physical exercise in a CF center .
+METHODS	Subjects were assigned to 2 groups : intervention ( group 1 ) , with 17 subjects ; and control ( group 2 ) , also with 17 subjects .
+METHODS	Data were collected from October 2010 to October 2011 , and the study population comprised 7-20-y-old children and adolescents with CF. The intervention consisted of handing out a manual with guidelines for aerobic physical exercises and reinforcing recommendations in telephone calls every 2 weeks .
+RESULTS	Thirty-four subjects were included in the study , 20 of whom were boys ( 58.5 % ) .
+RESULTS	The groups were similar at baseline .
+RESULTS	In group 1 , 6 subjects ( 35.2 % ) reported practicing physical exercises regularly .
+RESULTS	The mean age was 13.4 2.8 y , the mean percent-of-predicted FEV1 was 95.5 17.9 % , and the mean peak oxygen uptake ( VO2 ) relative to body mass was 34.9 9.0 mL/kg/min .
+RESULTS	In group 2 , 4 subjects ( 23.5 % ) reported practicing physical exercises regularly .
+RESULTS	The mean age was 12.7 3.3 y , the mean percent-of-predicted FEV1 was 100.1 21.2 % , and the mean peak VO2 was 33.2 8.2 mL/kg/min .
+RESULTS	In group 1 , there was a significant increase in physical exercise practice as reported by subjects after 3 months of intervention compared with group 2 ( P = .01 ) .
+RESULTS	No statistically significant differences were found for the other variables .
+CONCLUSIONS	Verbal and written guidelines for aerobic exercise , together with supervision over the telephone , had a positive impact on the self-reported regular physical exercise practice of children and adolescents .
+CONCLUSIONS	However , no improvement was found in lung function and maximum exercise capacity or domains of the quality of life questionnaire .
+

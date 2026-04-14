@@ -1,0 +1,18 @@
+25511354
+OBJECTIVE	Prostate cancer is a major public health issue .
+OBJECTIVE	Its incidence is rising , especially in Nigeria .
+OBJECTIVE	Prompt diagnosis is necessary by histology .
+OBJECTIVE	Transperineal and transrectal approaches to prostate biopsy are well-documented .
+OBJECTIVE	Both methods are fraught with complications though , most times minor .
+OBJECTIVE	Studies carried out to compare both methods were carried out mainly on Caucasians , generating conflicting results .
+OBJECTIVE	This study aims to compare the complication rates and tissue yield of these two methods in Nigerian men .
+METHODS	Seventy-five patients completed the study .
+METHODS	Forty-five patients had transperineal prostate biopsy ( TPbx ) , while 30 patients had transrectal prostate biopsy .
+METHODS	Pain perception for all patients was determined by visual analog scale ; whereas the complications were ascertained by a validated purpose designed questionnaire administered on the 7 th and 30 th day post operatively .
+RESULTS	The risk of rectal bleeding was higher for transrectal prostate biopsy compared to transperineal ( Odds ratio : 0.03 ; 95 % confidence interval ( CI ) : 0.001-0 .450 ; P = 0.012 ) .
+RESULTS	TPbx was more painful than transrectal ( P < 0.0001 ; df : 75 ; t : 4.98 ; 95 % CI of difference in mean : -2.98 - [ -1.28 ] ) .
+RESULTS	There was no statistical difference between transperineal and transrectal prostate biopsy in hemospermia , fever , prostatic abscess , urethral bleeding , acute retention and tissue yield .
+CONCLUSIONS	TPbx is more painful than transrectal prostate biopsy though with a significantly reduced risk of rectal bleeding .
+CONCLUSIONS	There appears to be no significant difference with respect to risk of fever , urethral bleeding , hematospermia , prostatic abscess and acute retention .
+CONCLUSIONS	Both routes provided sufficient prostate tissue for histology .
+

@@ -1,0 +1,19 @@
+24405833
+BACKGROUND	Juvenile idiopathic arthritis ( JIA ) is the most common rheumatic disease in children .
+BACKGROUND	Children with JIA are at risk of inflammation of the uvea in the eye ( uveitis ) .
+BACKGROUND	Overall , 20 % to 25 % of paediatric uveitis is associated with JIA .
+BACKGROUND	Major risk factors for development of uveitis in JIA are oligoarticular pattern of arthritis , an age at onset of arthritis of less than seven years of age , and antinuclear antibody positivity .
+BACKGROUND	In the initial stages of mild to moderate inflammation the uveitis is asymptomatic .
+BACKGROUND	This has led to current practice of screening all children with JIA for uveitis .
+BACKGROUND	Approximately 12 % to 38 % of patients with JIA develop uveitis in seven years following onset of arthritis .
+BACKGROUND	In 30 % to 50 % of children with JIA-associated uveitis structural complications are present at diagnosis .
+BACKGROUND	Furthermore about 50 % to 75 % of those with severe uveitis will eventually develop visual impairment secondary to ocular complications such as cataract and glaucoma .
+BACKGROUND	Defining the severity of inflammation and structural complications in uveitis patients is now possible following Standardised Uveitis Nomenclature ( SUN ) guidelines , and modified to incorporate the consensus of end point and outcome criteria into the design of randomised trials .
+BACKGROUND	Despite current screening and therapeutic options ( pre-biologics ) 10 % to 15 % of children with JIA-associated uveitis may develop bilateral visual impairment and certified legally blind .
+BACKGROUND	To date , there remains no controlled trial evidence of benefits of biologic therapy .
+METHODS	This study will randomise 154 patients aged 2 to 18 years with active JIA-associated uveitis ( despite methotrexate ( MTX ) treatment for at least 12 weeks ) .
+METHODS	All participants will be treated for 18 months , with follow up of 3 years from randomisation ( continuing on MTX throughout ) .
+METHODS	All participants will receive a stable dose of MTX and in addition either adalimumab ( 20 mg/0 .8 ml for patients < 30 kg or 40 mg/0 .8 ml for patients weighing 30 kg or more , subcutaneous ( s/c ) injection every 2 weeks based on body weight ) , or placebo ( 0.8 ml as appropriate according to body weight ) s/c injection every 2 weeks .
+CONCLUSIONS	This is the first randomised controlled trial that will assess the clinical effectiveness , safety and cost effectiveness of adalimumab in combination with methotrexate for the treatment of juvenile idiopathic arthritis associated uveitis .
+BACKGROUND	ISRCTN10065623 .
+

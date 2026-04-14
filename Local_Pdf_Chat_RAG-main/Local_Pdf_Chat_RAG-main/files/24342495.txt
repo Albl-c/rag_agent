@@ -1,0 +1,14 @@
+24342495
+BACKGROUND	To test the hypothesis that the administration of antithrombin concentrate improves disseminated intravascular coagulation ( DIC ) , resulting in recovery from DIC and better outcomes in patients with sepsis , we conducted a prospective , randomized controlled multicenter trial at 13 critical care centers in tertiary care hospitals .
+METHODS	We enrolled 60 DIC patients with sepsis and antithrombin levels of 50 to 80 % in this study .
+METHODS	The participating patients were randomly assigned to an antithrombin arm receiving antithrombin at a dose of 30IU/kg per day for three days or a control arm treated with no intervention .
+METHODS	The primary efficacy end point was recovery from DIC on day 3 .
+METHODS	The analysis was conducted with an intention-to-treat approach .
+METHODS	DIC was diagnosed according to the Japanese Association for Acute Medicine ( JAAM ) scoring system .
+METHODS	The systemic inflammatory response syndrome ( SIRS ) score , platelet count and global markers of coagulation and fibrinolysis were measured on day 0 and day 3 .
+RESULTS	Antithrombin treatment resulted in significantly decreased DIC scores and better recovery rates from DIC compared with those observed in the control group on day 3 .
+RESULTS	The incidence of minor bleeding complications did not increase , and no major bleeding related to antithrombin treatment was observed .
+RESULTS	The platelet count significantly increased ; however , antithrombin did not influence the sequential organ failure assessment ( SOFA ) score or markers of coagulation and fibrinolysis on day 3 .
+CONCLUSIONS	Moderate doses of antithrombin improve DIC scores , thereby increasing the recovery rate from DIC without any risk of bleeding in DIC patients with sepsis .
+BACKGROUND	UMIN Clinical Trials Registry ( UMIN-CTR ) UMIN000000882 .
+

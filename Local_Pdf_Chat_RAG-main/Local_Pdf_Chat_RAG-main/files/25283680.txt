@@ -1,0 +1,13 @@
+25283680
+OBJECTIVE	The goal of the present research was the examination of overlap between 2 research traditions on interpersonal personality traits in major depression .
+OBJECTIVE	We hypothesized that Blatt 's ( 2004 ) dimensions of depressive experiences around the dimensions of relatedness ( i.e. , dependency ) and self-definition ( i.e. , self-criticism ) are associated with specific interpersonal problems according to the interpersonal circumplex model ( Leary , 1957 ) .
+OBJECTIVE	In addition , we examined correlations of interpersonal characteristics with depression severity .
+METHODS	Analyses were conducted on 283 patients with major depressive disorder combined from 2 samples .
+METHODS	Of the patients , 151 participated in a randomized controlled trial in the United States , and 132 patients were recruited in an inpatient unit in Germany .
+METHODS	Patients completed measures of symptomatic distress , interpersonal problems , and depressive experiences .
+RESULTS	Dependency was associated with more interpersonal problems related to low dominance and high affiliation , while self-criticism was associated with more interpersonal problems related to low affiliation .
+RESULTS	These associations were independent of depression severity .
+RESULTS	Self-criticism showed high overlap with cognitive symptoms of depression .
+CONCLUSIONS	The findings support the interpersonal nature of Blatt 's dimensions of depressive experiences .
+CONCLUSIONS	Self-criticism is associated with being too distant or cold toward others as well as greater depression severity , but is not related to the dimension of dominance .
+

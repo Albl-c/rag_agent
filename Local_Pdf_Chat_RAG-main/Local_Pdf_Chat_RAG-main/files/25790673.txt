@@ -1,0 +1,16 @@
+25790673
+OBJECTIVE	To observe the intervention effect of nourishing Xin and Shen method ( NXSM ) on the cognitive function of mild cognitive impairment due to subcortical small vessel disease ( MCI-SSVD ) .
+METHODS	All 54 MCI-SSVD patients came from Department of Traditional Chinese Medicine , Affiliated Union Hospital of Fujian Medical University from June 2010 to August 2013 .
+METHODS	They were randomly assigned to the treatment group ( 28 cases ) and the control group ( 26 cases ) .
+METHODS	Another 33 volunteers were recruited as a healthy control group .
+METHODS	On the basis of targeting risk factors of blood vessels , MCI-SSVD patients were treated respectively with NXSM and donepezil hydrochloride , with the therapeutic course of 12 weeks .
+METHODS	Neuropsychological scales [ mini-mental state examination ( MMSE ) and Montreal cognitive assessment ( MoCA ) ] , and Chinese medical dementia syndrome scales were performed in all subjects , and results were compared among groups or intra-group before and after treatment .
+RESULTS	MMSE and MoCA scores of the two treatment groups decreased more , when compared with those of the healthy control group ( P < 0.05 ) .
+RESULTS	In particular , MoCA score was significantly decreased ( P < 0.01 ) .
+RESULTS	MMSE and MoCA scores of the two treatment groups increased more after treatment than before treatment ( P < 0.05 ) .
+RESULTS	But there was no statistical difference in MMSE or MOCA score after treatment between the two groups ( P > 0.05 ) .
+RESULTS	Chinese medical dementia syndrome scales decreased more significantly in the treatment group , when compared with before treatment ( P < 0.01 ) .
+RESULTS	But there was no statistical difference in Chinese medical dementia syndrome scales in the control group between before and after treatment ( P > 0.05 ) .
+RESULTS	Visual spatial and executive function scores or delayed recall scores of the two treatment groups increased more , when compared with the same group before treatment ( P < 0.05 , P < 0.01 ) .
+CONCLUSIONS	NXSM could effectively improve cognitive functions of MCI-SSVD .
+

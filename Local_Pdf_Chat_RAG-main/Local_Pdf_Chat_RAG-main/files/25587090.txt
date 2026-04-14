@@ -1,0 +1,14 @@
+25587090
+BACKGROUND	Despite effective treatments to reduce cardiovascular disease risk , their translation into practice is limited .
+RESULTS	Using a parallel arm cluster-randomized controlled trial in 60 Australian primary healthcare centers , we tested whether a multifaceted quality improvement intervention comprising computerized decision support , audit/feedback tools , and staff training improved ( 1 ) guideline-indicated risk factor measurements and ( 2 ) guideline-indicated medications for those at high cardiovascular disease risk .
+RESULTS	Centers had to use a compatible software system , and eligible patients were regular attendees ( Aboriginal and Torres Strait Islander people aged 35 years and others aged 45 years ) .
+RESULTS	Patient-level analyses were conducted using generalized estimating equations to account for clustering .
+RESULTS	Median follow-up for 38,725 patients ( mean age , 61.0 years ; 42 % men ) was 17.5 months .
+RESULTS	Mean monthly staff support was < 1 hour/site .
+RESULTS	For the coprimary outcomes , the intervention was associated with improved overall risk factor measurements ( 62.8 % versus 53.4 % risk ratio ; 1.25 ; 95 % confidence interval , 1.04-1 .50 ; P = 0.02 ) , but there was no significant differences in recommended prescriptions for the high-risk cohort ( n = 10,308 ; 56.8 % versus 51.2 % ; P = 0.12 ) .
+RESULTS	There were significant treatment escalations ( new prescriptions or increased numbers of medicines ) for antiplatelet ( 17.9 % versus 2.7 % ; P < 0.001 ) , lipid-lowering ( 19.2 % versus 4.8 % ; P < 0.001 ) , and blood pressure-lowering medications ( 23.3 % versus 12.1 % ; P = 0.02 ) .
+CONCLUSIONS	In Australian primary healthcare settings , a computer-guided quality improvement intervention , requiring minimal support , improved cardiovascular disease risk measurement but did not increase prescription rates in the high-risk group .
+CONCLUSIONS	Computerized quality improvement tools offer an important , albeit partial , solution to improving primary healthcare system capacity for cardiovascular disease risk management .
+BACKGROUND	https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=336630 .
+BACKGROUND	Australian New Zealand Clinical Trials Registry No. 12611000478910 .
+

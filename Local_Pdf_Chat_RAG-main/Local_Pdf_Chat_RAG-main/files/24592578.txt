@@ -1,0 +1,13 @@
+24592578
+OBJECTIVE	Our aim was to characterize articulation proficiency and differences between tumor sites before and after chemoradiotherapy for advanced head and neck cancer with the help of acoustic measures .
+OBJECTIVE	Our further goal was to improve objective speech measures and gain insight into muscle functioning before and after treatment .
+METHODS	In 34 patients with laryngeal or hypopharyngeal , nasal or nasopharyngeal , or oral or oropharyngeal cancer , we acoustically analyzed nasality , vowel space , precision , and strength of articulation in 12 speech sounds ( / a / , / i / , / u / , / p / , / s / , / z / , / 1 / , / t / , / tj / , / k / , / x / , / r / ) before treatment and 10 weeks and 1 year after treatment .
+METHODS	Outcomes were compared between assessment points and between tumor sites .
+RESULTS	Nasality in nonlaryngeal sites was significantly reduced by treatment .
+RESULTS	Most affected in articulation were the oral or oropharyngeal cancer sites , followed by the nasal or nasopharyngeal sites .
+RESULTS	One year after treatment , vowel space had not recovered and consonant articulation had weakened .
+RESULTS	Laryngeal sites were less affected in articulation by tumor or treatment .
+CONCLUSIONS	Analyses of articulatory-acoustic features are a useful instrument for assessing articulation and speech quality objectively .
+CONCLUSIONS	Assessment of a number of sounds representing various articulation manners , places , and tongue shapes revealed patterns of speech deterioration after chemoradiotherapy .
+CONCLUSIONS	The results suggest that patients ' speech could benefit from articulation exercises to address changes in muscle coordination and/or sensitivity and to counteract side effects and `` underexercise '' atrophy .
+

@@ -1,0 +1,14 @@
+25748566
+OBJECTIVE	To evaluate the efficacy and safety of nebulized pentoxifylline for reducing the duration of oxygen supplementation in extremely preterm neonates at high risk of bronchopulmonary dysplasia ( BPD ) .
+METHODS	Single-center , randomized , double-blind , placebo-controlled trial was conducted .
+METHODS	Infants of 23 ( 0 ) to 27 ( 6 ) weeks ' gestational age requiring mechanical ventilation or 30 % supplemental oxygen on continuous positive airway pressure at 72-168 hours were randomized to receive 20 mg/kg ( 1 mL/kg ) nebulized pentoxifylline or an equal volume of normal saline placebo every 6 hours for 10 consecutive days via a vibrating mesh nebulizer .
+METHODS	The primary outcome was the duration of oxygen supplementation at 40 weeks ' postmenstrual age .
+METHODS	We used Cox proportional hazards regression modeling to analyze outcomes .
+RESULTS	All infants had adequate data for analysis of the primary outcome .
+RESULTS	Intention-to-treat analysis revealed no differences in duration of oxygen supplementation at 40 weeks ' postmenstrual age between pentoxifylline ( n = 41 ) and placebo ( n = 40 ) groups ( median 2262 vs 2160 hours , adjusted hazard ratio : 1.14 , 95 % CI 0.72-1 .80 , P = .63 ) .
+RESULTS	There was no difference in mortality and further secondary outcomes .
+RESULTS	No adverse effects were noted .
+CONCLUSIONS	Nebulized pentoxifylline is safe but did not reduce the duration of oxygen supplementation in extremely preterm infants at high risk of BPD .
+CONCLUSIONS	Dose-ranging studies and large , well-designed clinical trials are required to determine whether the use of nebulized or systemic pentoxifylline as a prophylactic therapy offers small but relevant benefits for prevention of BPD .
+BACKGROUND	Australian New Zealand Clinical Trials Registry : ACTRN12611000145909 .
+

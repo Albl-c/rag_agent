@@ -1,0 +1,12 @@
+24257456
+BACKGROUND	The Orsiro Hybrid sirolimus-eluting stent is a newly developed third-generation drug-eluting stent , featuring a unique dual-polymer mix .
+BACKGROUND	An active bioabsorbable polymer delivers the anti-proliferative drug , sirolimus , via controlled release , while a passive biocompatible polymeric coating shields the metallic strut from surrounding tissue , preventing interaction .
+BACKGROUND	To date , the Orsiro Hybrid sirolimus-eluting stent has excelled in terms of late lumen loss at 9 months in a first-in-man single-arm trial .
+BACKGROUND	However , the efficacy and safety data for Orsiro Hybrid sirolimus-eluting stents in a broader population of all-comers are limited .
+BACKGROUND	The present study offers an angiographic and clinical comparison of the Orsiro Hybrid sirolimus-eluting stent and the Resolute Integrity zotarolimus-eluting stent in the treatment of patients with coronary artery disease .
+METHODS	The ORIENT trial is a multicenter , randomized , open-label , parallel-arm study designed to demonstrate the non-inferiority of the Orsiro Hybrid sirolimus-eluting stent relative to the Resolute Integrity zotarolimus-eluting stent .
+METHODS	A total of 375 patients with a spectrum of coronary artery disease will undergo prospective , random assignment to a Orsiro Hybrid sirolimus-eluting stent or Resolute Integrity zotarolimus-eluting stent ( 2:1 ratio ) , for a primary endpoint of in-stent late lumen loss at 9 months by quantitative coronary angiography .
+METHODS	Secondary 12-month clinical endpoints are death , target lesion revascularization , target vessel revascularization , myocardial infarction , stent thrombosis and target lesion failure ( a composite of cardiac death , target lesion revascularization and target vessel-related myocardial infarction ) .
+CONCLUSIONS	The ORIENT trial is the first study to date comparing the Orsiro Hybrid sirolimus-eluting stent with the Resolute Integrity zotarolimus-eluting stent for efficacy and safety in a population of all-comers with coronary artery disease .
+BACKGROUND	Clinicaltrials.gov NCT01826552 .
+

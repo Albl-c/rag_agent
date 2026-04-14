@@ -1,0 +1,13 @@
+25308883
+OBJECTIVE	To evaluate the efficacy of manual lymphatic drainage ( MLD ) in improving health-related quality of life ( HRQOL ) , symptomatology , and physical status in patients with chronic venous insufficiency ( CVI ) .
+METHODS	Single-blind randomized controlled trial .
+METHODS	Health community attendant service .
+METHODS	Subjects with CVI ( N = 41 ) were randomly assigned to an experimental group ( n = 20 ; mean age , 54.611.3 y ) or control group ( n = 21 ; mean age , 46.811.1 y ) .
+METHODS	The experimental group completed 10 lower extremity MLD sessions over 4 weeks and 1 educational session .
+METHODS	The control group only attended the educational session .
+METHODS	Outcome measures were taken at baseline ( t0 ) , at the end of 4 weeks ( t1 ) , and after 2 months for follow-up ( t2 ) .
+METHODS	HRQOL was assessed with the Chronic Venous Insufficiency Quality of Life Questionnaire-20 , symptoms ( fatigue , heaviness ) were assessed with a visual analog scale , severity of the disease was assessed with the Venous Clinical Severity Score ( VCSS ) ( total score , score for each item ) , leg volumetry was assessed with perimeters , and plantar/dorsiflexion strength and ankle range of motion ( ROM ) were assessed with dynamometry .
+RESULTS	A significant interaction grouptime effect was found for pain on HRQOL ( F2 ,78 = 3.507 ; P = .035 ; partial 2 = .087 ) , clinical severity ( F2 ,78 = 5.231 ; P = .007 ; partial 2 = .118 ) , especially for venous edema ( assessed with the VCSS ) , fatigue ( F1 .67,65.21 = 4.690 ; P = .012 ; partial 2 = .107 ) , and heaviness ( F1 .57,61.32 = 9.702 ; P = .001 ; partial 2 = .199 ) , with the experimental group improving from t0 to t1 and t0 to t2 in all of these outcomes .
+RESULTS	No effect of MLD treatment could be found for ankle muscle strength , ankle ROM , and leg volume .
+CONCLUSIONS	Short-term MLD treatment ameliorates CVI severity and related edema , symptoms , and pain HRQOL in patients with CVI .
+

@@ -1,0 +1,15 @@
+24952855
+BACKGROUND	In patients with ST-segment elevation myocardial infarction ( STEMI ) who undergo primary percutaneous coronary intervention ( pPCI ) , the use of dual antiplatelet therapy is essential to prevent atherothrombotic complications .
+BACKGROUND	Therefore , patients are treated with acetylsalicylic acid and clopidogrel , prasugrel , or ticagrelor .
+BACKGROUND	Clopidogrel , however , shows a major interindividual variation in antiplatelet effect , which is correlated to an increase in atherothrombotic events in patients with high platelet reactivity .
+BACKGROUND	This interindividual variation is partly a result of CYP2C19 genetic variants .
+BACKGROUND	Ticagrelor and prasugrel reduce atherothrombotic events but increase bleeding rate and drug costs , as compared with clopidogrel .
+BACKGROUND	CYP2C19-based tailoring of antiplatelet therapy might be beneficial to STEMI patients .
+METHODS	POPular Genetics ( NCT01761786 ) is a randomized , open-label , multicenter trial involving 2,700 STEMI patients who undergo pPCI .
+METHODS	Patients are randomized to CYP2C19 genotyping or routine ticagrelor or prasugrel treatment .
+METHODS	In the genotyping group , * 1 / * 1 ( wild-type ) patients receive clopidogrel , and patients carrying 1 or 2 * 2 or * 3 loss-of-function alleles receive ticagrelor or prasugrel .
+METHODS	The primary net clinical benefit end point is the composite of death , ( recurrent ) myocardial infarction , definite stent thrombosis , stroke , and Platelet Inhibition and Patient Outcomes ( PLATO ) major bleeding at 1 year .
+METHODS	Primary safety end point is the composite of ( PLATO ) major and minor bleeding .
+METHODS	Cost-effectiveness and quality of life will be assessed by calculating quality-adjusted life-years , net costs per life-year , and per quality-adjusted life-year gained .
+CONCLUSIONS	The POPular Genetics study is the first large-scale trial comparing CYP2C19 genotype-guided antiplatelet therapy to a nontailored strategy in terms of net clinical benefit , safety , and cost-effectiveness .
+

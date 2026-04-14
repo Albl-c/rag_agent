@@ -1,0 +1,16 @@
+24552184
+BACKGROUND	The effectiveness and durability of endovascular revascularization therapies for chronic critical limb ischemia ( CLI ) are challenged by the extensive burden of infrapopliteal arterial disease and lesion-related characteristics ( e.g. , severe calcification , chronic total occlusions ) , which frequently result in poor clinical outcomes .
+BACKGROUND	While infrapopliteal vessel patency directly affects pain relief and wound healing , sustained patency and extravascular care both contribute to the ultimate `` patient-centric '' outcomes of functional limb preservation , mobility and quality of life ( QoL ) .
+METHODS	IN.PACT DEEP is a 2:1 randomized controlled trial designed to assess the efficacy and safety of infrapopliteal arterial revascularization between the IN.PACT Amphirion paclitaxel drug-eluting balloon ( IA-DEB ) and standard balloon angioplasty ( PTA ) in patients with Rutherford Class 4-5-6 CLI .
+CONCLUSIONS	This multicenter trial has enrolled 358 patients at 13 European centers with independent angiographic core lab adjudication of the primary efficacy endpoint of target lesion late luminal loss ( LLL ) and clinically driven target lesion revascularization ( TLR ) in major amputation-free surviving patients through 12-months .
+CONCLUSIONS	An independent wound core lab will evaluate all ischemic wounds to assess the extent of healing and time to healing at 1 , 6 , and 12 months .
+CONCLUSIONS	A QoL questionnaire including a pain scale will assess changes from baseline scores through 12 months .
+CONCLUSIONS	A Clinical Events Committee and Data Safety Monitoring Board will adjudicate the composite primary safety endpoints of all-cause death , major amputation , and clinically driven TLR at 6 months and other trial endpoints and supervise patient safety throughout the study .
+CONCLUSIONS	All patients will be followed for 5 years .
+CONCLUSIONS	A literature review is presented of the current status of endovascular treatment of CLI with drug-eluting balloon and standard PTA .
+CONCLUSIONS	The rationale and design of the IN.PACT DEEP Trial are discussed .
+CONCLUSIONS	IN.PACT DEEP is a milestone , prospective , randomized , robust , independent core lab-adjudicated CLI trial that will evaluate the role of a new infrapopliteal revascularization technology , the IA-DEB , compared to PTA .
+CONCLUSIONS	It will assess the overall impact on infrapopliteal artery patency , limb salvage , wound healing , pain control , QoL , and patient mobility .
+CONCLUSIONS	The 1-year results of the adjudicated co-primary and secondary endpoints will be available in 2014 .
+BACKGROUND	NCT00941733 .
+

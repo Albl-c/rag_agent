@@ -1,0 +1,11 @@
+25450993
+OBJECTIVE	The aim of this study was to compare the effects of 4 weeks of CT and AT , which training impulse ( total external workload and perceived exertion ) , are similar on power associated at VO2 peak ( pVO2 peak ) and cardiorespiratory responses of patient with CAD .
+METHODS	Eighteen male with CAD ( 62 7 years , 175 2 cm , 84 16 kg , fraction of ejection = 0.49 0.16 ) performed 4 weeks of CT ( n = 9 ) or AT ( n = 9 ) .
+METHODS	pVO2 peak , maximal and first ventilatory threshold values of oxygen uptake ( VO2 peak , VO2-vt ) and heart rate ( HRmax , HR-vt ) were measured before and after training session .
+METHODS	Total training impulse ( exercise rehabilitation and other paramedical actions ) were evaluated and harmonized between AT and CT according to Foster et al. formula ( 1996 ) RESULTS : No significant difference were found in training impulse between AT and CT ( 3650 220 vs 3497 190 U , P = NS ) .
+METHODS	VO2 pic increased after AT ( 16.9 4.4 vs 18.9 4.9 mL O2/min/kg , P < 0.05 ) and remained unchanged after CT ( 17.7 7.8 vs 17.8 7.2 , P = NS ) .
+METHODS	Four weeks of training induced significant increase in pVO2 peak , VO2-vt and FC-vt , expressed in absolute or relative value ( P < 0,05 ) , without any difference between AT and CT modalities ( P = NS ) .
+CONCLUSIONS	Improving pVO2 pic following an exercise training does not necessarily preclude an improvement in coronary VO2 pic .
+CONCLUSIONS	pVO2 peak was not improved with the same cardiorespiratory adaptations between AT and CT. .
+CONCLUSIONS	Thus , there seems important to measure gas exchanges of subject with CAD during the incremental test and identify the respective part of muscular and cardiorespiratory functions in exercise exhaustion .
+

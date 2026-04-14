@@ -1,0 +1,14 @@
+25559798
+OBJECTIVE	Linifanib , a potent , selective inhibitor of vascular endothelial growth factor ( VEGF ) and platelet-derived growth factor ( PDGF ) receptors , has single-agent activity in non-small-cell lung cancer ( NSCLC ) .
+OBJECTIVE	We evaluated linifanib with carboplatin and paclitaxel as first-line therapy of advanced nonsquamous NSCLC .
+METHODS	Patients with stage IIIB/IV nonsquamous NSCLC were randomly assigned to 3-week cycles of carboplatin ( area under the curve 6 ) and paclitaxel ( 200 mg/m ( 2 ) ) with daily placebo ( arm A ) , linifanib 7.5 mg ( arm B ) , or linifanib 12.5 mg ( arm C ) .
+METHODS	The primary end point was progression-free survival ( PFS ) ; secondary efficacy end points included overall survival ( OS ) and objective response rate .
+RESULTS	One hundred thirty-eight patients were randomly assigned ( median age , 61 years ; 57 % men ; 84 % smokers ) .
+RESULTS	Median PFS times were 5.4 months ( 95 % CI , 4.2 to 5.7 months ) in arm A ( n = 47 ) , 8.3 months ( 95 % CI , 4.2 to 10.8 months ) in arm B ( n = 44 ) , and 7.3 months ( 95 % CI , 4.6 to 10.8 months ) in arm C ( n = 47 ) .
+RESULTS	Hazard ratios ( HRs ) for PFS were 0.51 for arm B versus A ( P = .022 ) and 0.64 for arm C versus A ( P = .118 ) .
+RESULTS	Median OS times were 11.3 , 11.4 , and 13.0 months in arms A , B , and C , respectively .
+RESULTS	HRs for OS were 1.08 for arm B versus A ( P = .779 ) and 0.88 for arm C versus A ( P = .650 ) .
+RESULTS	Both linifanib doses were associated with increased toxicity , including a higher incidence of adverse events known to be associated with VEGF/PDGF inhibition .
+RESULTS	Baseline plasma carcinoembryonic antigen/cytokeratin 19 fragments biomarker signature was associated with PFS improvement and a trend toward OS improvement with linifanib 12.5 mg .
+CONCLUSIONS	Addition of linifanib to chemotherapy significantly improved PFS ( arm B ) , with a modest trend for survival benefit ( arm C ) and increased toxicity reflective of known VEGF/PDGF inhibitory effects .
+

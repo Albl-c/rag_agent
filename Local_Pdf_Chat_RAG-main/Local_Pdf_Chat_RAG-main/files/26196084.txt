@@ -1,0 +1,17 @@
+26196084
+OBJECTIVE	To evaluate operative time after adjunctive misoprostol or mifepristone compared with overnight osmotic dilators alone for cervical preparation before dilation and evacuation at 16-23 6/7 weeks of gestation .
+METHODS	This double-blind , three-arm , multicenter , randomized trial compared overnight osmotic dilators alone , dilators plus 400 micrograms buccal misoprostol 3 hours preoperatively , and dilators plus 200 mg oral mifepristone during dilator placement for dilation and evacuation .
+METHODS	Our primary outcome was dilation and evacuation operative time within two cohorts : 16-18 6/7 weeks of gestation ( N = 150 ) and 19-23 6/7 weeks of gestation ( N = 150 ) .
+METHODS	Three hundred women were required for 80 % power to detect a 2-minute difference in operative time .
+METHODS	Secondary outcomes included initial cervical dilation , side effects , physician satisfaction by Likert scale , and complications .
+RESULTS	Between February 2013 and February 2014 we randomized 300 women evenly across treatment arms .
+RESULTS	Group demographics were similar .
+RESULTS	We found no difference in operative time in either gestational cohort ( early cohort [ minutes ] : 5.113.0 dilators alone , 4.993.3 misoprostol , 4.332.0 mifepristone , P = .34 ; late cohort [ minutes ] : 7.503.7 dilators alone , 7.625.4 misoprostol , 6.743.2 mifepristone , P = .53 ) .
+RESULTS	In the early cohort , initial dilation was greater with misoprostol than dilators alone ( 2.4 compared with 2.0 cm , P = .007 ) .
+RESULTS	Patients given misoprostol had significantly more pain , fever , and chills .
+RESULTS	In the late cohort , dilation and evacuation procedures were less difficult after mifepristone ( 4.1 % , 95 % confidence interval [ CI ] 0.0-9 .6 ) than misoprostol ( 18.8 % , 95 % CI 7.7-29 .8 ) or dilators alone ( 18.8 % , 95 % CI 7.7-29 .8 ; P = .04 ) .
+RESULTS	We had inadequate power to infer differences in complications : dilators alone ( 10 % , 95 % CI 4.2-16 .0 ) compared with misoprostol ( 2 % , 95 % CI 0-4 .7 ) compared with mifepristone ( 2 % , 95 % CI 0-4 .8 ) .
+CONCLUSIONS	Despite no difference in operative time , adjunctive mifepristone facilitates later dilation and evacuation compared with osmotic dilators alone and is better tolerated than misoprostol .
+BACKGROUND	ClinicalTrials.gov , www.clinicaltrials.gov , NCT01751087 .
+METHODS	I.
+

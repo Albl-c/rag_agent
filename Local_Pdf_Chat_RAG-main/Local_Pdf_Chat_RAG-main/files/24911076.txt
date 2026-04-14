@@ -1,0 +1,13 @@
+24911076
+BACKGROUND	Recombinant granulocyte colony-stimulating factor ( G-CSF ) is widely used to mobilize haematopoietic stem cells .
+BACKGROUND	We compared the efficacy and safety of a biosimilar G-CSF ( Zarzio ( ) , Sandoz Biopharmaceuticals ) with the originator G-CSF ( Neupogen ( ) , Amgen ) in patients with haematological malignancies .
+METHODS	A total of 108 patients were included in this study , 59 of whom were female ( 49 male ) , with an overall median age of 51 years ( range 19-69 ) .
+METHODS	Patients had multiple myeloma ( n = 46 ) , non-Hodgkin 's lymphoma ( n = 28 ) , Hodgkin 's lymphoma ( n = 26 ) , or other diagnosis ( n = 8 ) .
+METHODS	After administration of mobilizing regimens ( primarily high-dose etoposide , high-dose cyclophosphamide , intermediate-dose Ara-C or ESHAP ) , patients were randomized to a standard daily 10 g/kg dose of biosimilar G-CSF ( n = 54 ) or originator G-CSF ( n = 54 ) .
+RESULTS	Median duration of G-CSF administration was 8 days with both biosimilar G-CSF ( range 4-17 ) and originator G-CSF ( range 4-14 ) .
+RESULTS	Both groups had a median of one apheresis with a median time until first apheresis of 11 days .
+RESULTS	There were no statistically significant differences between groups in the mean SD number of mobilized CD34 + cells/L in peripheral blood or the number of CD34 + cells/kg body weight .
+RESULTS	Five patients ( 9 % ) in the originator G-CSF group and six patients in the biosimilar G-CSF group ( 11 % ) did not mobilize sufficient CD34 + cells .
+RESULTS	The adverse event profile was similar between groups .
+CONCLUSIONS	A biosimilar G-CSF ( Zarzio ( ) ) demonstrated similar efficacy and safety as the reference originator G-CSF ( Neupogen ( ) ) in hematopoietic stem cell mobilization in patients with haematological malignancies .
+

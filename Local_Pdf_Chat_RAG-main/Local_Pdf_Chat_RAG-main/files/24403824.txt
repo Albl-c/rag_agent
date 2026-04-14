@@ -1,0 +1,14 @@
+24403824
+OBJECTIVE	To compare the safety , efficacy , and impact on stent graft positioning between rapid artificial cardiac pacing ( RACP ) , induced hypotension and sodium nitroprusside ( SNP ) induced hypotension during thoracic endovascular aortic repair ( TEVAR ) for Stanford B aortic dissection .
+METHODS	One hundred and sixty-eight patients , who were diagnosed with Stanford B aortic dissection and who underwent selective TEVAR in Guangdong General Hospital and the People 's Hospital of Baoan District , Shenzhen , People 's Republic of China , were enrolled in this study .
+METHODS	Patients were randomly divided into a RACP group ( n = 77 ) and a SNP group ( n = 91 ) .
+METHODS	During localization and deployment of the stent graft , hypotension was induced by RACP or intravenous SNP , according to randomization .
+METHODS	Hemodynamics , landing precision ( deviation from planned placement site ) , duration of procedure , renal function , neurocognitive function , and incidence of endoleaks and paraplegia/hemiplegia were compared .
+METHODS	Except for methods of inducing hypotension , TEVAR was performed according to the same protocol in each group .
+RESULTS	RACP was successfully performed in all patients assigned to the RACP group .
+RESULTS	Compared with the SNP group , blood pressure was significantly lower ( 435 versus 816 mmHg , P = 0.003 ) and the restoration time of blood pressure and the operation duration were significantly shorter ( 72 versus 45187 seconds , P < 0.001 ; 8715 versus 10618 minutes , P < 0.001 , respectively ) in the RACP group .
+RESULTS	Stent graft localization/deployment was more precise in the RACP group ( 21 versus 52 mm , P < 0.001 ) .
+RESULTS	Compared to baseline , there was no significant change after TEVAR in either group in regard to renal function , neurocognitive function , and incidence of endoleaks and paraplegia/hemiplegia .
+CONCLUSIONS	RACP can be safely applied to patients undergoing TEVAR for Stanford B dissection .
+CONCLUSIONS	RACP can shorten the operation duration and facilitate precise graft localization/deployment .
+

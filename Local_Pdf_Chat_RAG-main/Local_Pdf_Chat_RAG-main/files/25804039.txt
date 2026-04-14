@@ -1,0 +1,13 @@
+25804039
+OBJECTIVE	To study a trend in active sacroiliitis ( ASI ) in patients with axial spondyloarthritis ( axSpA ) during different short-term regimens using etoricoxib ( ET ) 90 mg .
+METHODS	Forty patients with axSpA , including 30 with ankylosing spondyloarthritis ) , and ASI ( sacroiliac joint ( SIJ ) osteitis as evidenced by magnetic resonance imaging ) were examined and then randomized to 2 groups : 1 ) 20 patients who took ET 90 mg four days or more a week ; 2 ) 20 patients who received ET 90 mg 3 days or less a week .
+METHODS	Osteitis was measured in 4 quadrants of each SIJ ( 0-3 scores ) .
+METHODS	Its main criterion was considered to be a decrease in total osteitis activity ( TOA ) 12 week later .
+RESULTS	In all the patients ( n = 40 ) , TOA decreased from 6.5 ( 4 ; 9 ) to 2 ( 0 ; 5 ) scores ( p < 0.0001 ) .
+RESULTS	In Group 1 ( n = 20 ) , that reduced from 6.5 ( 4 ; 8.5 ) to 0 ( 0 ; 3 ) scores ( p < 0.0001 ) .
+RESULTS	In Group 2 ( n = 20 ) , that did from 6.5 ( 4 ; 10 ) to 4 ( 1 ; 8 ) scores ( p = 0.49 ) .
+RESULTS	At 12 weeks , in in Groups 1 and 2 , the difference in final TOA achieved no statistical significance ( p = 0.056 ) .
+RESULTS	In these groups , there were 19 ( 95 % ) and 14 ( 70 % ) treatment-responsive patients , respectively .
+CONCLUSIONS	The intake of ET 90 mg for 12-weeks is associated with a reduction in the degree of ASI in patients with axSpA .
+CONCLUSIONS	The use of ET 4 times or more a week is more effective in diminishing osteitis than that of ET 3 days or less .
+

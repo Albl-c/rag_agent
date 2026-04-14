@@ -1,0 +1,12 @@
+24719128
+OBJECTIVE	Prolonged duration of cardiopulmonary bypass aggravates the degree of inflammation and coagulopathy .
+OBJECTIVE	We investigated the influence of 6 % hydroxyethyl starch ( HES ) 130/0 .4 on coagulation and inflammation compared with albumin when used for both cardiopulmonary bypass priming and perioperative fluid therapy in patients undergoing complex valvular heart surgery .
+METHODS	Fifty four patients were randomly allocated into albumin-HES , albumin-nonHES , and HES-HES groups .
+METHODS	The cardiopulmonary bypass circuit was primed with 5 % albumin in the albumin-HES and albumin-nonHES group , and with HES in the HES-HES group .
+METHODS	As perioperative fluid , only plasmalyte was used in the albumin-nonHES group whereas HES was used up to 20 mL/kg in the albumin-HES and albumin-HES group .
+METHODS	Serial assessments of coagulation profiles using the rotational thromboelastometry and inflammatory markers ( tissue necrosis factor - , interleukin-6 , and interleukin-8 ) were performed .
+RESULTS	Patients ' characteristics and the duration of cardiopulmonary bypass ( albumin-HES ; 13734 min , HES-HES ; 13647 min , albumin-nonHES ; 13239 min ) were all similar among the groups .
+RESULTS	Postoperative coagulation profiles demonstrated sporadic increases in clot formation time and coagulation time , without any differences in the actual amount of perioperative bleeding and transfusion requirements among the groups .
+RESULTS	Also , inflammatory markers showed significant activation after cardiopulmonary bypass without any differences among the groups .
+CONCLUSIONS	Even in the presence of prolonged duration of cardiopulmonary bypass , HES seemed to yield similar influence on the ensuing coagulopathy and inflammatory response when used for priming and perioperative fluid therapy following complex valvular heart surgery compared with conventional fluid regimen including albumin and plasmalyte .
+

@@ -1,0 +1,16 @@
+24443820
+BACKGROUND	Internet-based cognitive behavioural therapy ( ICBT ) is a promising approach to the prevention and reduction of depressive symptoms among adolescents .
+BACKGROUND	This study aimed to evaluate the feasibility and efficacy of disseminating a self-directed internet-based mental health intervention ( MoodGYM ) in senior high schools .
+BACKGROUND	It also sought to investigate possible effects of tailored and weekly e-mail reminders on initial uptake and adherence to the intervention .
+METHODS	A baseline survey was conducted in four senior high schools in two Norwegian municipalities ( n = 1337 ) .
+METHODS	52.8 % ( 707/1337 ) of the students consented to further participation in the trial and were randomly allocated to one of three MoodGYM intervention groups ( tailored weekly e-mail reminder ( n = 175 ) , standardized weekly e-mail reminder ( n = 176 ) or no e-mail reminder ( n = 175 ) ) or a waitlist control group ( n = 180 ) .
+METHODS	We tested for effects of the intervention on depression and self-esteem using multivariate analysis of variance , effects of tailored e-mail and self-reported current need of help on initial uptake of the intervention using logistic regression and the effect of weekly e-mails on adherence using ordinal regression .
+RESULTS	There was substantial non-participation from the intervention , with only 8.5 % ( 45/527 ) participants logging on to MoodGYM , and few proceeding beyond the first part of the programme .
+RESULTS	No significant effect on depression or self-esteem was found among the sample as a whole or among participants with elevated depression scores at baseline .
+RESULTS	Having a higher average grade in senior high school predicted initial uptake of the intervention , but tailored e-mail and self-reported current need of help did not .
+RESULTS	Weekly e-mail prompts did not predict adherence .
+RESULTS	The main reasons for non-use reported were lack of time/forgetting about it and doubt about the usefulness of the program .
+CONCLUSIONS	Overall , disseminating a self-directed internet-based intervention to a school population proved difficult despite steps taken to reduce barriers in terms of tailoring feedback and dispatching weekly e-mail reminders .
+CONCLUSIONS	Providing mental health interventions within the school environment is likely to ensure better uptake among senior high school students , but there is a need to effectively communicate that such programmes can be helpful .
+BACKGROUND	The trial was registered retrospectively as ACTRN12612001106820 .
+

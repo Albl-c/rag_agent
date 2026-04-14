@@ -1,0 +1,16 @@
+24502911
+BACKGROUND	Postural control associated with self-paced movement is critical for balance in frail older adults .
+BACKGROUND	The present work aimed to investigate the effects of a 2D virtual reality-based program on postural control associated with rapid arm movement in this population .
+METHODS	Participants in an upright standing position performed rapid arm-raising movements towards a target .
+METHODS	Practice-related changes were assessed by pre - and post-test comparisons of hand kinematics and centre-of-pressure ( CoP ) displacement parameters measured in a training group and a control group .
+METHODS	During these pre - and post-test sessions , patients have to reach towards yellow balls appearing on the screen , form a standardized upright position ( with 15cm between the two malleoli ) .
+METHODS	Training group patients took part in six sessions of virtual game .
+METHODS	In this , patients were asked to reach their arm towards yellow balls appearing on the screen , from an upright position .
+RESULTS	After training , we observed improvements in arm movements and in the initial phase of CoP displacement , especially in the anticipatory postural adjustments .
+RESULTS	Learning curves for these two types of motor improvements showed different rates .
+RESULTS	These were continuous for the control of the arm movement , and discontinuous for the control of the CoP during the anticipatory postural adjustments .
+CONCLUSIONS	These results suggest that some level of motor ( re ) - learning is maintained in frail patients with low functional reserves .
+CONCLUSIONS	They also suggest that re-learning of anticipatory postural control ( i.e. motor prediction ) is less robust than explicit motor learning involved for the arm reaching .
+CONCLUSIONS	This last point should encourage clinicians to extend the training course duration , even if reaching movement improvements seems acquired , in order to automate these anticipatory postural activities .
+CONCLUSIONS	However , other studies should be done to measure the retention of these two types of learning on a longer-term period .
+

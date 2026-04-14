@@ -1,0 +1,17 @@
+24452849
+BACKGROUND	New-onset diabetes after transplantation ( NODAT ) is a common complication after renal transplantation .
+BACKGROUND	There are limited available oral drugs to treat hyperglycaemia in this population owing to reduced renal function , potential interactions with immunosuppressive drugs and adverse effects such as hypoglycaemic events that may increase the cardiovascular risk .
+BACKGROUND	This study was initiated to investigate efficacy and safety of sitagliptin treatment that may represent a novel alternative in renal transplant recipients .
+METHODS	Nineteen long-term stable renal transplant recipients with NODAT were included in a controlled , cross-over study and randomized to first receive either sitagliptin 50-100 mg/day or a sitagliptin-free period of 4 weeks .
+METHODS	Median age ( interquartile range , IQR ) was 67 ( 62-72 ) years ( 12 males/7 females ) , all studied 1 ( 1-3 ) year after transplantation .
+METHODS	The immunosuppressive regimen was a triple calcineurin inhibitor-based therapy .
+METHODS	Oral glucose tolerance test ( OGTT ) with insulin and C-peptide responses and laser Doppler ( LD ) flowmetry assessment of endothelial function were performed at baseline and after each treatment period .
+METHODS	Home measurements of plasma glucose were performed daily during the study .
+RESULTS	The median ( IQR ) first - and second-phase insulin secretion responses increased significantly by 56.3 % ( 45.2-112 .6 % , P = 0.005 ) and 39.3 % ( 26.5-81 .0 % , P = 0.006 ) , respectively , following sitagliptin treatment as compared with no sitagliptin treatment .
+RESULTS	Fasting and 2-h plasma glucose concentrations fell significantly { 0.9 mmol/L [ 0.5-1 .7 mmol/L ( 16.2 mg/dL ) , P = 0.003 ] and 2.9 mmol/L [ 0.5-6 .4 mmol/L ( 52.3 mg/dL ) , P = 0.004 ] , respectively } , as did also home measurements of plasma glucose .
+RESULTS	Endothelial function and plasma markers of cardiovascular risk were unaffected .
+RESULTS	No serious adverse events were observed .
+RESULTS	Two mild and asymptomatic hypoglycaemic episodes were observed in combination with glipizide .
+CONCLUSIONS	Sitagliptin increases insulin secretion and reduces fasting and postprandial plasma glucose in renal transplant recipients with NODAT .
+CONCLUSIONS	The short-term treatment was well tolerated , and sitagliptin seems safe in this population .
+

@@ -1,0 +1,9 @@
+25600720
+OBJECTIVE	To compare the efficacy of celecoxib for treatment of withdrawal headache vs prednisone in patients with medication overuse headache ( MOH ) .
+METHODS	In this prospective , double-blind , parallel-group clinical trial , 97 consecutive subjects with MOH were randomized ( simple randomization using computer-generated numbers ) for treatment with either 400mg/day celecoxib ( for the first 5 days then decreased at a rate of 100mg every 5 days ) or prednisone 75 mg/day orally ( for the first 5 days then tapered off every 5 days ) .
+METHODS	Subjects who met the International Headache Society criteria for MOH were included in the trial .
+METHODS	The change in headache days and intake of rescue medication were considered as primary outcomes while the change in headache severity defined as a secondary outcome .
+RESULTS	Patients treated with celecoxib experienced lower headache intensity during the first 3 weeks after withdrawal ( after 3 weeks , the median of visual analog scale was 3 for patients in celecoxib group vs 4.5 for prednisone group [ P < .001 ] ) .
+RESULTS	However , headache frequency and the need for rescue medication intake were not different between 2 groups .
+CONCLUSIONS	During withdrawal in MOH , in order to reduce headache days or rescue medication intake , using either of celecoxib or prednisone as a bridge is not different .
+

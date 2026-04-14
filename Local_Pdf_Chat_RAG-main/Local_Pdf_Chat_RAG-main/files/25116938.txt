@@ -1,0 +1,14 @@
+25116938
+BACKGROUND	To optimize positive outcomes , the design of new pharmacy services should consider the preferences of consumers with chronic condition ( s ) and their carers .
+OBJECTIVE	( i ) To evaluate the relative importance of community pharmacy service characteristics , from the perspective of consumers with chronic condition ( s ) and carers ; ( ii ) To compare consumer and carer preferences to health professional beliefs about ideal service characteristics for consumers .
+METHODS	A discrete choice experiment was completed by consumers with chronic condition ( s ) and/or carers ( n = 602 ) and health professionals ( n = 297 ) , recruited from four regions in Australia .
+METHODS	Participants were each randomized to one survey version containing four ( from a total 72 ) different choices between two new pharmacy services .
+METHODS	Consumer and carer participants were also given an ` opt out ' alternative of current service .
+METHODS	Each service was described using six attributes related to pharmacy service characteristics : continued medicines supply , continuity and coordinated care , location , medication management , education and information , and cost .
+RESULTS	Consumers and carers placed highest priority on continued medicines supply by a pharmacist for regular and symptom flare up medicines ( 100 priority points ) , a pharmacy located within a ` one-stop ' health center ( 61 points ) and home delivery of medicines ( 52 points ) .
+RESULTS	Although continuedmedicines supply was most important for consumers and carers , pharmacy location was perceivedby health professionals to be the most important characteristic for consumers .
+RESULTS	Participants were less inclined to choose new services if their current pharmacy offered high quality services thatwere person-centered , easy to access and responsive to their needs .
+RESULTS	Younger , more highly educated and employed participants , and those with established condition ( s ) were more likely to choose new services .
+CONCLUSIONS	Person-centered care is a fundamental tenet for pharmacy services .
+CONCLUSIONS	The provision of continued medicines supply ( e.g. through pharmacist prescribing ) , convenient and coordinated care delivered through a one stop health centre , and home delivery of medicines , should be prioritized when planning pharmacy services to best assist consumers to manage chronic conditions .
+

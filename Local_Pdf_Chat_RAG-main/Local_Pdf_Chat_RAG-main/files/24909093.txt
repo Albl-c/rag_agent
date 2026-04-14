@@ -1,0 +1,18 @@
+24909093
+OBJECTIVE	To study the effect of exogenous i.m. glucagon on recovery from controlled insulin-induced hypoglycaemia in patients with type 2 diabetes treated with the novel glucokinase activator AZD1656 , in combination with metformin .
+METHODS	This was a single-centre randomized , open , two-way crossover phase I , automated glucose clamp ( Biostator ( ) ; Life Science Instruments , Elkhart , MD , USA ) study ( NCT00817271 ) in eight patients ( seven men and one woman , mean age 58.6 years , body mass index 28.1 kg/m ( 2 ) ) .
+METHODS	All patients received a stable dose of metformin twice daily , ranging from 1000 to 2250 mg .
+METHODS	A 2-day titration phase commenced with 40 mg AZD1656 twice daily , escalating to 80 mg twice daily if tolerated .
+METHODS	This was followed by a single dose of 80 or 160 mg AZD1656 , administered on days 5 and 8 when metabolic studies were performed .
+METHODS	After an overnight fast on days 5 and 8 , controlled hypoglycaemia was induced using an exogenous i.v. infusion of insulin .
+METHODS	Plasma glucose was lowered in a stepwise fashion over 3 h to attain a target nadir of 2.7 mmol/l .
+METHODS	This was sustained for 30 min , at the end of which the hypoglycaemic clamp was released .
+METHODS	In random sequence , patients either received an i.m. injection of 1 mg glucagon or were allowed to recover from hypoglycaemia by endogenous counter-regulation .
+METHODS	To avoid prolonged hypoglycaemia , a reverse glucose clamp was applied from 4 to 6 h post-dose .
+RESULTS	Three patients received 40 mg AZD1656 twice daily and five patients 80 mg twice daily .
+RESULTS	Mean plasma glucose at 20 min after release of the hypoglycaemic clamp was significantly lower ( 3.1 0.3 mmol/l ) for AZD1656 alone than for AZD1656 + glucagon ( 4.9 0.8 mmol/l ; p < 0.001 between the groups ) .
+RESULTS	Catecholamine and cortisol responses were similar on the AZD1656 + glucagon and AZD alone study days .
+RESULTS	Growth hormone response was 18 % lower for AZD1656 alone ( p = 0.01 ) , consistent with the effect of a pharmacological dose of glucagon on growth hormone secretion .
+RESULTS	No safety or tolerability concerns were observed during treatment with AZ1656 .
+CONCLUSIONS	Exogenous glucagon was effective as a rescue treatment for hypoglycaemia induced during treatment with AZD1656 , given in combination with metformin in patients with type 2 diabetes .
+

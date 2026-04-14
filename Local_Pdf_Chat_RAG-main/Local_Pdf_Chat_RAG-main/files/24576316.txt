@@ -1,0 +1,14 @@
+24576316
+OBJECTIVE	To evaluate the analgesic potential of the centrally acting analgesics tramadol , morphine and the novel analgesic tapentadol in a pre-clinical research model of acute nociceptive pain , the tail-flick model in dogs .
+METHODS	Prospective part-randomized pre-clinical research trial .
+METHODS	Fifteen male Beagle dogs ( HsdCpb : DOBE ) , aged 12-15 months .
+METHODS	On different occasions separated by at least 1 week , dogs received intravenous ( IV ) administrations of tramadol ( 6.81 , 10.0 mg kg ( -1 ) ) , tapentadol ( 2.15 , 4.64 , 6.81 mg kg ( -1 ) ) or morphine ( 0.464 , 0.681 , 1.0 mg kg ( -1 ) ) with subsequent measurement of tail withdrawal latencies from a thermal stimulus ( for each treatment n = 5 ) .
+METHODS	Blood samples were collected immediately after the pharmacodynamic measurements of tramadol to determine pharmacokinetics and the active metabolite O-demethyltramadol ( M1 ) .
+RESULTS	Tapentadol and morphine induced dose-dependent antinociception with ED50-values of 4.3 mg kg ( -1 ) and 0.71 mg kg ( -1 ) , respectively .
+RESULTS	In contrast , tramadol did not induce antinociception at any dose tested .
+RESULTS	Measurements of the serum levels of tramadol and the M1 metabolite revealed only marginal amounts of the M1 metabolite , which explains the absence of the antinociceptive effect of tramadol in this experimental pain model in dogs .
+CONCLUSIONS	Different breeds of dogs might not or only poorly respond to treatment with tramadol due to low metabolism of the drug .
+CONCLUSIONS	Tapentadol and morphine which act directly on - opioid receptors without the need for metabolic activation are demonstrated to induce potent antinociception in the experimental model used and should also provide a reliable pain management in the clinical situation .
+CONCLUSIONS	The non-opioid mechanisms of tramadol do not provide antinociception in this experimental setting .
+CONCLUSIONS	This contrasts to many clinical situations described in the literature , where tramadol appears to provide useful analgesia in dogs for post-operative pain relief and in more chronically pain states .
+

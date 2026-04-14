@@ -1,0 +1,12 @@
+24656636
+BACKGROUND	Elevated concentrations of doxorubicin are found in eccrine sweat glands of the palms and soles .
+BACKGROUND	We therefore evaluated an antiperspirant as preventive treatment for palmar-plantar erythrodysesthesia ( hand-foot syndrome ) in patients with metastatic breast cancer treated with pegylated liposomal doxorubicin .
+METHODS	An antiperspirant containing aluminum chlorohydrate or placebo cream was applied to the left or right hand and foot in a double-blinded manner ( intra-patient randomization ) .
+METHODS	The primary endpoint was the rate of grade 2 or 3 palmar-plantar erythrodysesthesia .
+METHODS	A secondary endpoint was the patient-reported symptom burden ( tingling , numbness , pain , or skin problems ) .
+METHODS	Using McNemar 's matched pairs design , 53 patients were needed to detect a 20 % difference between the treatment and placebo sides with a significance level of 5 % and power of 90 % .
+RESULTS	Grade 2 or 3 PPE occurred in 30 ( 58 % ) of 52 evaluable patients ; in six patients adverse effects occurred on the placebo side but not on the treatment side , whereas one patient developed palmar-plantar erythrodysesthesia on the treatment side only ( P = 0.07 ) .
+RESULTS	Four patients developed grade 2 or 3 palmar-plantar erythrodysesthesia on their foot on the placebo side but not on the treatment side ( P = 0.05 ) .
+RESULTS	In the cohort with grade 2 or 3 palmar-plantar erythrodysesthesia there was a trend towards fewer dermatologic symptomatologies with the active treatment ( P = 0.05 ) , and no difference for other adverse events .
+CONCLUSIONS	Using topical aluminum chlorohydrate as an antiperspirant appears to reduce the incidence of grade 2 or 3 palmar-plantar erythrodysesthesia following pegylated liposomal doxorubicin chemotherapy for metastatic breast cancer .
+

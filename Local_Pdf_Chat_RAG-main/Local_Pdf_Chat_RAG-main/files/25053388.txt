@@ -1,0 +1,12 @@
+25053388
+OBJECTIVE	A phase 1 study was conducted to evaluate the bioavailability and food effect of a new veliparib formulation in subjects with solid tumors .
+METHODS	Subjects ( planned : Stage I , N = 20 ; Stage II , N = 16 ) received four regimens of a single oral dose of veliparib utilizing a group-sequential design .
+METHODS	Subjects were administered single doses of 40 mg veliparib supplied as four 10 mg current formulation , four 10 mg new formulation and one 40 mg new formulation under fasting conditions and under non-fasting conditions .
+METHODS	Serial blood samples were collected for the determination of veliparib pharmacokinetics .
+METHODS	At the end of Stage I , the relative bioavailability between each pair of regimens was assessed by a two one-sided tests procedure from the analyses of the natural logarithms of C ( max ) and AUC .
+METHODS	A 92.7 % confidence interval within the 0.80-1 .25 range between each regimen pair determined bioequivalence .
+RESULTS	Four 10 mg current formulation capsules , four 10 mg new formulation and one 40 mg new formulation were bioequivalent with respect to C ( max ) and AUC under fasting conditions .
+RESULTS	The administration of a high-fat meal did not have a significant effect on AUC and only caused a slight decrease in veliparib C ( max ) ( 17 % ) and a delay of approximately 1 h in T ( max ) .
+CONCLUSIONS	The 40 mg new capsule was bioequivalent to currently used formulation .
+CONCLUSIONS	Food had no effect on the extent of veliparib absorption and only a small ( 17 % ) decrease in peak exposure of veliparib .
+

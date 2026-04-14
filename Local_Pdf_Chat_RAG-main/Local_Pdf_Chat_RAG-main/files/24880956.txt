@@ -1,0 +1,18 @@
+24880956
+BACKGROUND	Surgical site infections ( SSIs ) are responsible for significant morbidity , mortality , and excess use of health care resources .
+BACKGROUND	The preadmission antiseptic shower is accepted as an effective strategy for reducing the risk for SSIs .
+BACKGROUND	The study analyzes the benefit of an innovative electronic patient alert system ( EAS ) for enhancing compliance with a preadmission showering protocol with 4 % chlorhexidine gluconate ( CHG ) .
+METHODS	After providing informed consent , 80 volunteers were randomized to 4 CHG showering groups .
+METHODS	Groups A1 and A2 showered twice .
+METHODS	Group A1 was prompted to shower via EAS .
+METHODS	Groups B1 and B2 showered 3 times .
+METHODS	Group B1 was prompted via EAS .
+METHODS	Subjects in groups A2 and B2 were not prompted ( non-EAS groups ) .
+METHODS	Skin-surface concentrations of CHG ( g/mL ) were analyzed using colorimetric assay at 5 separate anatomic sites .
+METHODS	Study personnel were blinded to the randomization code ; after final volunteer processing , the code was broken and individual groups were analyzed .
+RESULTS	Mean composite CHG skin-surface concentrations were significantly higher ( p < 0.007 ) in EAS groups A1 ( 30.9 8.8 g/mL ) and B1 ( 29.0 8.3 g/mL ) compared with non-EAS groups A2 ( 10.5 3.9 g/mL ) and B2 ( 9.5 3.1 g/mL ) .
+RESULTS	Overall , 66 % and 67 % reductions in CHG skin-surface concentrations were observed in non-EAS groups A2 and B2 compared with EAS study groups .
+RESULTS	Analysis of returned ( unused ) CHG ( mL ) suggests that a wide variation in volume of biocide was used per shower in all groups .
+CONCLUSIONS	The findings suggest that EAS was effective in enhancing patient compliance with a preadmission showering protocol , resulting in a significant ( p < 0.007 ) increase in skin-surface concentrations of CHG compared with non-EAS controls .
+CONCLUSIONS	However , variation in amount of unused 4 % CHG suggests that rigorous standardization is required to maximize the benefits of this patient-centric interventional strategy .
+

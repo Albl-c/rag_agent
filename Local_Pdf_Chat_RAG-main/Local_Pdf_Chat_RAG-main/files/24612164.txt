@@ -1,0 +1,10 @@
+24612164
+OBJECTIVE	To evaluate the effectiveness of the Healthy School and Drugs programme on alcohol , tobacco and marijuana use among Dutch early adolescents .
+METHODS	Randomized clustered trial with two intervention conditions ( i.e. e-learning and integral ) .
+METHODS	General population of 11-15-year-old adolescents in the Netherlands .
+METHODS	A total of 3784 students of 23 Dutch secondary schools .
+METHODS	Structured digital questionnaires were administered pre-intervention and at 32 months follow-up .
+METHODS	The primary outcome measures were new incidences of alcohol ( life-time and 1-month prevalence ) , tobacco ( life-time and 1-month prevalence ) and marijuana use ( life-time prevalence ) .
+RESULTS	Main effect analyses showed no programme effects on incidences of alcohol consumption ( life-time prevalence : e-learning condition : B = 0.102 , P = 0.549 ; integral condition : B = -0.157 , P = 0.351 ; 1-month prevalence : e-learning condition : B = 0.191 , P = 0.288 ; integral condition : B = -0.140 , P = 0.445 ) , tobacco consumption ( life-time prevalence : e-learning condition : B = 0.164 , P = 0.444 ; integral condition : B = 0.160 , P = 0.119 ; 1-month prevalence : e-learning condition : B = 0.088 , P = 0.746 ; integral condition : B = 0.261 , P = 0.093 ) , or marijuana consumption ( life-time prevalence : e-learning condition : B = 0.070 , P = 0.732 ; integral condition : B = 0.186 , P = 0.214 ) .
+CONCLUSIONS	The non-significant impact of the Healthy School and Drugs programme ( a Dutch school-based prevention programme for early adolescents ) on incidences of alcohol , tobacco and marijuana use indicates that the programme is either ineffective or implemented inadequately .
+

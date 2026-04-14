@@ -1,0 +1,13 @@
+25425504
+BACKGROUND	Compared to American Whites , African Americans have a higher prevalence of type 2 diabetes mellitus ( T2DM ) , experiencing poorer metabolic control and greater risks for complications and death .
+BACKGROUND	Patient-level factors , such as diabetes knowledge , self-management skills , empowerment , and perceived control , account for > 90 % of the variance observed in outcomes between these racial groups .
+BACKGROUND	There is strong evidence that self-management interventions that include telephone-delivered diabetes education and skills training are effective at improving metabolic control in diabetes .
+BACKGROUND	Web-based home telemonitoring systems in conjunction with active care management are also effective ways to lower glycosylated hemoglobin A1c values when compared to standard care , and provide feedback to patients ; however , there are no studies in African Americans with poorly controlled T2DM that examine the use of technology-based feedback to tailor or augment diabetes education and skills training .
+BACKGROUND	This study provides a unique opportunity to address this gap in the literature .
+METHODS	We describe an ongoing 4-year randomized clinical trial , which will test the efficacy of a technology-intensified diabetes education and skills training ( TIDES ) intervention in African Americans with poorly controlled T2DM .
+METHODS	Two hundred male and female AfricanAmerican participants , 21 years of age or older and with a glycosylated hemoglobin A1c level 8 % , will be randomized into one of two groups for 12 weeks of telephone interventions : ( 1 ) TIDES intervention group or ( 2 ) a usual-care group .
+METHODS	Participants will be followed for 12 months to ascertain the effect of the interventions on glycemic control .
+METHODS	Our primary hypothesis is that , among African Americans with poorly controlled T2DM , patients randomized to the TIDES intervention will have significantly greater reduction in glycosylated hemoglobin A1c at 12 months of follow-up compared to the usual-care group .
+CONCLUSIONS	Results from this study will add to the current literature examining how best to deliver diabetes education and skills training and provide important insight into effective strategies to improve metabolic control and hence reduce diabetes complications and mortality rates in African Americans with poorly controlled T2DM .
+BACKGROUND	This study was registered with the National Institutes of Health Clinical Trials Registry on 13 March 2014 ( ClinicalTrials.gov identifier # NCT02088658 ) .
+

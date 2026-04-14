@@ -1,0 +1,20 @@
+24853922
+METHODS	Cross-sectional diagnostic accuracy study .
+OBJECTIVE	To investigate the relationship between history and physical examination findings and the outcome of electrodiagnostic testing in patients with sciatica referred to physical therapy .
+BACKGROUND	Electrodiagnostic testing is routinely used to evaluate patients with sciatica .
+BACKGROUND	Recent evidence suggests that the presence of radiculopathy identified with electrodiagnostic testing may predict better functional outcomes in these patients .
+BACKGROUND	While some patient history and physical examination findings have been shown to predict the presence of disc herniation or neurological insult , little is known about their relationship to the results of electrodiagnostic testing .
+METHODS	Electrodiagnostic testing was performed on 38 patients with sciatica who participated in a randomized trial that compared different physical therapy interventions .
+METHODS	The diagnostic gold standard was the presence or absence of radiculopathy , based on the results of the needle electromyographic examination .
+METHODS	Diagnostic sensitivity and specificity values were calculated , along with corresponding likelihood ratios , for select patient history and physical examination variables .
+RESULTS	No significant relationship was found between select patient history and physical examination findings , analyzed individually or in combination , and the outcome of electrodiagnostic testing .
+RESULTS	Diagnostic sensitivity values ranged from 0.03 ( 95 % confidence interval [ CI ] : 0.00 , 0.24 ) to a high of 0.95 ( 95 % CI : 0.72 , 0.99 ) , and specificity values ranged from 0.10 ( 95 % CI : 0.02 , 0.34 ) to a high of 0.95 ( 95 % CI : 0.72 , 0.99 ) .
+RESULTS	Positive likelihood ratios ranged from 0.15 ( 95 % CI : 0.01 , 2.87 ) to a high of 2.33 ( 95 % CI : 0.71 , 7.70 ) , and negative likelihood ratios ranged from 2.00 ( 95 % CI : 0.35 , 11.48 ) to a low of 0.50 ( 95 % CI : 0.03 , 8.10 ) .
+CONCLUSIONS	In this investigation , the relationship between patient history and physical examination findings and the outcome of electrodiagnostic testing among patients with sciatica was not found to be statistically significant or clinically meaningful .
+CONCLUSIONS	However , given the small sample size and corresponding large CIs , these results should be considered with caution , recognizing that some of the history and physical examination variables may prove useful in future research .
+CONCLUSIONS	These findings suggest that electrodiagnostic testing is essential to identify the subgroup of patients with sciatica who have measurable nerve injury consistent with radiculopathy , which may be an important prognostic factor for recovery .
+CONCLUSIONS	Level of Evidence Diagnosis , level 3b - .
+CONCLUSIONS	J Orthop Sports Phys Ther 2014 ; 44 ( 7 ) :508 -517 .
+CONCLUSIONS	Epub 22 May 2014 .
+CONCLUSIONS	doi :10.2519 / jospt .2014.5002 .
+

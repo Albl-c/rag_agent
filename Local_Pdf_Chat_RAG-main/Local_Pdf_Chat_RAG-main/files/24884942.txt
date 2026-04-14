@@ -1,0 +1,12 @@
+24884942
+BACKGROUND	A gene-based estimate of lung cancer risk in smokers has been shown to act as a smoking cessation motivator in hospital recruited subjects .
+BACKGROUND	The objective of this trial is to determine if this motivator is as effective in subjects recruited from an NHS primary care unit .
+METHODS	Subjects will be recruited by mailings using smoking entries on the GP electronic data-base ( total practice population = 32,048 ) to identify smokers who may want to quit .
+METHODS	Smoking cessation clinics based on medical centre premises will run for eight weeks .
+METHODS	Clinics will be randomised to have the gene-based test for estimation of lung cancer risk or to act as controls groups .
+METHODS	The primary endpoint will be smoking cessation at eight weeks and six months .
+METHODS	Secondary outcomes will include ranking of the gene-based test with other smoking cessation motivators .
+CONCLUSIONS	The results will inform as to whether the gene-based test is both effective as motivator and acceptable to subjects recruited from primary care .
+BACKGROUND	Registered with Clinical Trials.gov ,
+BACKGROUND	NCT01176383 .
+

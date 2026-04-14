@@ -1,0 +1,12 @@
+25316259
+BACKGROUND	We evaluated the efficacy and safety of S-1 plus oxaliplatin ( SOX ) as an alternative to cisplatin plus S-1 ( CS ) in first-line chemotherapy for advanced gastric cancer ( AGC ) .
+METHODS	In this randomized , open-label , multicenter phase III study , patients were randomly assigned to receive SOX ( 80-120 mg/day S-1 for 2 weeks with 100 mg/m ( 2 ) oxaliplatin on day 1 , every 3 weeks ) or CS ( S-1 for 3 weeks with 60 mg/m ( 2 ) cisplatin on day 8 , every 5 weeks ) .
+METHODS	The primary end points were noninferiority in progression-free survival ( PFS ) and relative efficacy in overall survival ( OS ) for SOX using adjusted hazard ratios ( HRs ) with stratification factors ; performance status and unresectable or recurrent ( + adjuvant chemotherapy ) disease .
+RESULTS	Overall , 685 patients were randomized from January 2010 to October 2011 .
+RESULTS	In per-protocol population , SOX ( n = 318 ) was noninferior to CS ( n = 324 ) in PFS [ median , 5.5 versus 5.4 months ; HR 1.004 , 95 % confidence interval ( CI ) 0.840-1 .199 ; predefined noninferiority margin 1.30 ] .
+RESULTS	The median OS for SOX and CS were 14.1 and 13.1 months , respectively ( HR 0.958 with 95 % CI 0.803-1 .142 ) .
+RESULTS	In the intention-to-treat population ( SOX , n = 339 ; CS , n = 337 ) , the HRs in PFS and OS were 0.979 ( 95 % CI 0.821-1 .167 ) and 0.934 ( 95 % CI 0.786-1 .108 ) , respectively .
+RESULTS	The most common grade 3 adverse events ( SOX versus CS ) were neutropenia ( 19.5 % versus 41.8 % ) , anemia ( 15.1 % versus 32.5 % ) , hyponatremia ( 4.4 % versus 13.4 % ) , febrile neutropenia ( 0.9 % versus 6.9 % ) , and sensory neuropathy ( 4.7 % versus 0 % ) .
+CONCLUSIONS	SOX is as effective as CS for AGC with favorable safety profile , therefore SOX can replace CS .
+BACKGROUND	JapicCTI-101021 .
+

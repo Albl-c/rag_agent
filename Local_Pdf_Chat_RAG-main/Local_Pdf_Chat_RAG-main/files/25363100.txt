@@ -1,0 +1,18 @@
+25363100
+BACKGROUND	Routine immunization is a key child survival intervention .
+BACKGROUND	Issues related to quality of service delivery pose operational challenges in delivering effective immunization services .
+BACKGROUND	Accumulated evidences suggest that `` supportive supervision '' improves the quality of health care services .
+BACKGROUND	During 2009-10 , Govt .
+BACKGROUND	of Odisha ( GoO ) and UNICEF jointly piloted this strategy in four districts to improve routine immunization .
+BACKGROUND	The present study aims to assess the effect of supportive supervision strategy on improvement of knowledge and practices on routine immunization among service providers .
+METHODS	We adopted a ` post-test only ' study design to compare the knowledge and practices of frontline health workers and their supervisors in four intervention districts with that of two control districts .
+METHODS	Altogether we interviewed 170 supervisors and supervisees ( health workers ) , each , using semi-structured interview schedules .
+METHODS	We also directly observed 25 ice lined refrigerator ( ILR ) points in both groups of districts .
+METHODS	The findings were compared with the baseline information , available only for the intervention districts .
+RESULTS	The health workers in the intervention districts displayed a higher knowledge score in selected items than in the control group .
+RESULTS	No significant difference in knowledge was observed between control and intervention supervisors .
+RESULTS	The management practices at ILR points on key routine immunization components were found to have improved significantly in intervention districts .
+CONCLUSIONS	The observed improvements in the ILR management practices indicate positive influence of supportive supervision .
+CONCLUSIONS	Higher level of domain knowledge among intervention health workers on specific items related to routine immunization could be due to successful transfer of knowledge from supervisors .
+CONCLUSIONS	A ` pre-post ' study design should be undertaken to gain insights into the effectiveness of supportive supervision in improving routine immunization services .
+

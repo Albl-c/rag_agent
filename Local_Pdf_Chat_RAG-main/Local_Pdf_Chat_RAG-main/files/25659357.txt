@@ -1,0 +1,12 @@
+25659357
+OBJECTIVE	To assess the effect of platelet-rich fibrin ( PRF ) on postoperative pain , swelling , trismus , periodontal healing on the distal aspect of the secondmolar , and progress of bone regeneration in mandibular third molar extraction sockets .
+METHODS	Over a 2-year period , 31 patients ( mean age , 26.1 yr ) who required surgical extraction of a single impacted third molar and met the inclusion criteria were recruited .
+METHODS	After surgical extraction of the third molar , only primary closure was performed in the control group , whereas PRF was placed in the socket followed by primary closure in the case group ( 16 patients ) .
+METHODS	The outcome variables were pain , swelling , maximum mouth opening , periodontal pocket depth , and bone formation , with a follow-up period of 3months .
+METHODS	Quantitative data are presented as mean .
+METHODS	Statistical significance was inferred at a P value less than .05 .
+RESULTS	Pain ( P = .017 ) , swelling ( P = .022 ) , and interincisal distance ( P = .040 ) were less in the case group compared with the control group on the first postoperative day .
+RESULTS	Periodontal pocket depth decreased at 3months postoperatively in the case ( P < .001 ) and control ( P = .014 ) groups , and this decrease was statistically significant .
+RESULTS	Bone density scores at 3months postoperatively were higher in the case group than in the control group , but this difference was not statistically important .
+CONCLUSIONS	The application of PRF lessens the severity of immediate postoperative sequelae , decreases preoperative pocket depth , and hastens bone formation .
+

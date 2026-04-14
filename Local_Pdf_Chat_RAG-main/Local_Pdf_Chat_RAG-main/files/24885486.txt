@@ -1,0 +1,19 @@
+24885486
+BACKGROUND	Few cancers pose greater challenges than head and neck ( H&N ) cancer .
+BACKGROUND	Residual effects following treatment include body image changes , pain , fatigue and difficulties with appetite , swallowing and speech .
+BACKGROUND	Depression is a common comorbidity .
+BACKGROUND	There is limited evidence about ways to assist patients to achieve optimal adjustment after completion of treatment .
+BACKGROUND	In this study , we aim to examine the effectiveness and feasibility of a model of survivorship care to improve the quality of life of patients who have completed treatment for H&N cancer .
+METHODS	This is a preliminary study in which 120 patients will be recruited .
+METHODS	A prospective randomised controlled trial of the H&N Cancer Survivor Self-management Care Plan ( HNCP ) involving pre - and post-intervention assessments will be used .
+METHODS	Consecutive patients who have completed a defined treatment protocol for H&N cancer will be recruited from two large cancer services and randomly allocated to one of three study arms : ( 1 ) usual care , ( 2 ) information in the form of a written resource or ( 3 ) the HNCP delivered by an oncology nurse who has participated in manual-based training and skill development in patient self-management support .
+METHODS	The trained nurses will meet patients in a face-to-face interview lasting up to 60 minutes to develop an individualised HNCP , based on principles of chronic disease self-management .
+METHODS	Participants will be assessed at baseline , 3 and 6 months .
+METHODS	The primary outcome measure is quality of life .
+METHODS	The secondary outcome measures include mood , self-efficacy and health-care utilisation .
+METHODS	The feasibility of implementing this intervention in routine clinical care will be assessed through semistructured interviews with participating nurses , managers and administrators .
+METHODS	Interviews with patients who received the HNCP will explore their perceptions of the HNCP , including factors that assisted them in achieving behavioural change .
+CONCLUSIONS	In this study , we aim to improve the quality of life of a patient population with unique needs by means of a tailored self-management care plan developed upon completion of treatment .
+CONCLUSIONS	Delivery of the intervention by trained oncology nurses is likely to be acceptable to patients and , if successful , will be a model of care that can be implemented for diverse patient populations .
+BACKGROUND	ACTRN12613000542796 ( registered on 15 May 2013 ) .
+

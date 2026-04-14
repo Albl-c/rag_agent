@@ -1,0 +1,9 @@
+25006118
+BACKGROUND	Primary care is an ideal setting to treat pediatric obesity .
+BACKGROUND	Effective , low-intensity ( 25 contact hours over 6 months ) interventions that reduce standardized body mass index ( z-BMI ) and can be delivered by primary care providers are needed .
+OBJECTIVE	This pilot randomized controlled trial investigated the effect of 3 low-intensity ( 25 contact hours over 6 months ) pediatric obesity treatments on z-BMI .
+METHODS	Twenty-two families ( children 8.0 1.8 years , z-BMI of 2.34 0.48 ) were randomized into 1 of 3 , 6-month , low-intensity conditions : newsletter ( N ) , newsletter and growth monitoring ( N + GM ) , or newsletter and growth monitoring plus family-based behavioral counseling ( N + GM + BC ) .
+METHODS	Anthropometrics and child eating and leisure-time behaviors were measured .
+RESULTS	Mixed-factor analyses of variance found a significant ( P < .05 ) main effect of time for z-BMI and servings per day of sugar sweetened beverages , with both decreasing over time .
+CONCLUSIONS	Low-intensity obesity treatments can reduce z-BMI and may be more feasible in primary care .
+

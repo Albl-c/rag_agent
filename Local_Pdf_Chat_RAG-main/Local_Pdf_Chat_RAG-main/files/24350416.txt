@@ -1,0 +1,14 @@
+24350416
+BACKGROUND	Postoperative sore throat ( POST ) is a frequent consequence following ETT intubation , which may negatively affect the postoperative course and patient satisfaction .
+BACKGROUND	Benzydamine hydrochloride is a topically-applied non-steroidal anti-inflammatory drug ( NSAID ) .
+BACKGROUND	The authors evaluated the analgesic effect of benzydamine hydrochloride dripping on the ETT cuff on POST .
+METHODS	Eighty-six patients participated in this randomized controlled trial .
+METHODS	They were assigned into either the benzydamine hydrochloride or the control group .
+METHODS	The whole ETT cuff was dripped either with 3 ml ( 4.5 mg ) of benzydamine hydrochloride or nothing five minutes prior to anesthesia induction .
+METHODS	The incidence and severity of POST at 0 , 2 , 4 , 6 , 12 and 24 hours postoperatively were assessed .
+METHODS	The potential adverse effects of benzydamine hydrochloride ( throat numbness throat burning sensation , dry mouth , and thirst ) were also evaluated .
+RESULTS	Twenty-five patients ( 58.14 % ) in each group had POST ( p-value = 1 ) .
+RESULTS	The severity of POST ( calculated from affected patients ) in both groups at different time points was not significantly different .
+RESULTS	Patients in the benzydamine hydrochloride group did not have a higher incidence of adverse effects .
+CONCLUSIONS	We found that dripping benzydamine hydrochloride on the ETT cuff neither reduced the incidence of POST nor increased the incidence of adverse effects in comparison with no intervention .
+

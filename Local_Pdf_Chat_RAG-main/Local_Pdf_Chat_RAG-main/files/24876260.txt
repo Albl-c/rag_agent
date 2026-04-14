@@ -1,0 +1,14 @@
+24876260
+OBJECTIVE	Magnetic resonance perfusion ( MRP ) and computed tomographic perfusion ( CTP ) are being increasingly applied in acute stroke trials and clinical practice , yet the comparability of their perfusion values is not well validated .
+OBJECTIVE	The aim of this study was to validate the comparability of CTP and MRP measures .
+METHODS	A 3-step approach was used .
+METHODS	Step 1 was a derivation step , where we analyzed 45 patients with acute ischemic stroke who had both CTP and MRP performed within 2 hours of each other and within 9 hours of stroke onset .
+METHODS	In this step , we derived the optimal perfusion map with the least difference between MRP and CTP .
+METHODS	In step 2 , the optimal map was validated on whole-brain perfusion data of 15 patients .
+METHODS	Step 3 was to apply the optimal perfusion map to define cross-modality reperfusion from acute CTP to 24-hour MRP in 45 patients and , in turn , to assess how accurately this predicted 3-month clinical outcome .
+RESULTS	Among 8 different perfusion maps included in this study , time to peak of the residual function ( T ( max ) ) was the only one with a nonsignificant difference between CTP and MRP in delineating perfusion defects .
+RESULTS	This was validated on whole-brain perfusion data , showing high concordance of T ( max ) between the 2 modalities ( concordance correlation coefficient of Lin , > 0.91 ) ; the best concordance was at 6 s.
+RESULTS	At T ( max ) > 6 s threshold , MRP and CTP reached substantial agreement in mismatch classification ( > 0.61 ) .
+RESULTS	Cross-modality reperfusion calculated by T ( max ) > 6 s strongly predicted good functional outcome at 3 months ( area under the curve , 0.979 ; P < 0.05 ) .
+CONCLUSIONS	MRP and CTP can be used interchangeably if one uses T ( max ) measurement .
+

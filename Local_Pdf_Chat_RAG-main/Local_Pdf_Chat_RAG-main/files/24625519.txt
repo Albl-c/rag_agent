@@ -1,0 +1,12 @@
+24625519
+OBJECTIVE	The use of peripherally inserted central venous catheters ( PICC lines ) has reduced the mortality and morbidity of premature newborns .
+OBJECTIVE	The usual sites of insertion are the veins in the upper arms but other locations are being used as well .
+METHODS	To examine whether using the axillary vein as a site of insertion of a PICC line affects the frequency of complications .
+METHODS	Our study has a clinical trial design .
+METHODS	A total of 62 neonates that had a PICC line inserted were recruited and randomly divided equally in two groups : in Group A ( mean birth weight , standard deviation ( s.d. ) = 1353 ( 142 ) g ) , the PICC line was inserted through the axillary vein , and in Group B ( birth weight = 1308 ( 112 ) g ) , the PICC line was inserted in other sites further from the axillary vein .
+METHODS	The outcomes measured were the total PICC line-related complications , the reason for removing the catheter , the number of total attempts until successful insertion and the mean duration of stay of the catheter .
+METHODS	The likelihood of having an adverse outcome was assessed with Mantel-Haenszel odds ratio ( OR ) .
+RESULTS	Premature neonates with axillary PICC lines were 12 times less likely to have line-related complications ( inflammation , blockage , edema , infection ) as compared with any other site of insertion ( OR = 95 % , confidence interval ( CI ) = 0.10 ( 0.01 to 0.8 ) ) and they were seven times more likely to have the PICC line removed because they achieved full enteral nutrition as compared with the other causes ( OR 95 % , confidence interval ( CI ) = 10.35 ( 4.88 to 21.96 ) ) .
+RESULTS	There was no statistical difference between the two groups in the number of attempts until successful PICC line insertion ( P = 0.667 ) and the mean duration of stay of the PICC line ( P = 0.97 ) .
+CONCLUSIONS	The use of the axillary vein as a site of insertion of a PICC line was correlated with significantly less complications in premature newborns as opposed to the other sites of insertion .
+

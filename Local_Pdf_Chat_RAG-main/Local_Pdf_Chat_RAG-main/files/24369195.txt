@@ -1,0 +1,11 @@
+24369195
+BACKGROUND	Currently , there is limited data on the prevention of chemotherapy-induced nausea and vomiting ( CINV ) in Indian patients .
+OBJECTIVE	This post hoc study assessed the efficacy and safety of fosaprepitant compared with aprepitant for prevention of CINV in the Indian population .
+OBJECTIVE	A subgroup analysis was performed from data collected in a phase 3 study of intravenous ( IV ) fosaprepitant or oral aprepitant , plus the 5-HT 3 antagonist ondansetron and the corticosteroid dexamethasone , in cisplatin-nave patients with solid malignancies .
+METHODS	Patients scheduled to receive cisplatin ( 70 mg/m 2 ) were administered a single IV dose of fosaprepitant dimeglumine ( 150 mg ) on day 1 or a 3-day dosing regimen of oral aprepitant ( day 1:125 mg , days 2 and 3:80 mg ) with standard doses of ondansetron and dexamethasone .
+METHODS	Patients recorded nausea and/or vomiting episodes and their use of rescue medication and were monitored for adverse events ( AEs ) and tolerability .
+METHODS	Differences in response rates between fosaprepitant and aprepitant were calculated using the Miettinen and Nurminen method .
+RESULTS	In the Indian subpopulation ( n = 372 ) , efficacy was similar for patients in both the fosaprepitant or aprepitant groups ; complete response in the overall , acute , and delayed phases and no vomiting in all phases were approximately 4 percentage points higher in the fosaprepitant group compared with the aprepitant group .
+RESULTS	Fosaprepitant was generally well-tolerated ; common AEs were similar to oral aprepitant .
+CONCLUSIONS	IV fosaprepitant is as safe and effective as oral aprepitant in the Indian subpopulation and offers an alternative to the oral formulation .
+

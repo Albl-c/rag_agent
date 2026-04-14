@@ -1,0 +1,13 @@
+24460223
+OBJECTIVE	Intrusive thoughts and images are common across the adult lifespan , but vary in their consequences .
+OBJECTIVE	Understanding age-related experiences with intrusive thoughts is important for identifying risk and protective factors for intrusive thought problems across the adult lifespan .
+OBJECTIVE	This study characterized age trajectories for six aspects of experiences with intrusive thoughts using Internet data collection .
+METHODS	Participants ( N = 1427 ; ages 18-87 ) were randomly assigned to suppress ( i.e. keep out of mind ) or monitor an intrusive thought for one minute , and then later to monitor the thought for a second minute .
+METHODS	Participants tracked thought recurrences during each thinking period , then reported their positive and negative affects following each thinking period , as well as their effort expended in suppressing the thought and perceived difficulty controlling the intrusive thought .
+METHODS	Multilevel modeling and generalized estimating equations modeled the continuous relationships between age and each dependent variable .
+RESULTS	As expected , older age was associated with less decline in positive affect while engaging with an intrusive thought .
+RESULTS	Interestingly , older age was also associated with a sharper rise and fall of negative affect .
+RESULTS	Suppression effort increased linearly with age ( though perceived difficulty did not ) .
+RESULTS	Finally , no age differences were found in either the frequency or duration of the thought 's recurrence , adding to previous evidence that older adults function similarly to younger adults in their control of intrusive thoughts , despite certain age-related declines in cognitive functioning .
+CONCLUSIONS	These findings suggest a dissociation between age-related changes in emotional versus cognitive characteristics of engaging with intrusive thoughts .
+

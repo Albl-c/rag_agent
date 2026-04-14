@@ -1,0 +1,19 @@
+25058216
+OBJECTIVE	There is limited information about the effect of erythropoietin or a high hemoglobin transfusion threshold after a traumatic brain injury .
+OBJECTIVE	To compare the effects of erythropoietin and 2 hemoglobin transfusion thresholds ( 7 and 10 g/dL ) on neurological recovery after traumatic brain injury .
+METHODS	Randomized clinical trial of 200 patients ( erythropoietin , n = 102 ; placebo , n = 98 ) with closed head injury who were unable to follow commands and were enrolled within 6 hours of injury at neurosurgical intensive care units in 2 US level I trauma centers between May 2006 and August 2012 .
+METHODS	The study used a factorial design to test whether erythropoietin would fail to improve favorable outcomes by 20 % and whether a hemoglobin transfusion threshold of greater than 10 g/dL would increase favorable outcomes without increasing complications .
+METHODS	Erythropoietin or placebo was initially dosed daily for 3 days and then weekly for 2 more weeks ( n = 74 ) and then the 24 - and 48-hour doses were stopped for the remainder of the patients ( n = 126 ) .
+METHODS	There were 99 patients assigned to a hemoglobin transfusion threshold of 7 g/dL and 101 patients assigned to 10 g/dL .
+METHODS	Intravenous erythropoietin ( 500 IU/kg per dose ) or saline .
+METHODS	Transfusion threshold maintained with packed red blood cells .
+METHODS	Glasgow Outcome Scale score dichotomized as favorable ( good recovery and moderate disability ) or unfavorable ( severe disability , vegetative , or dead ) at 6 months postinjury .
+RESULTS	There was no interaction between erythropoietin and hemoglobin transfusion threshold .
+RESULTS	Compared with placebo ( favorable outcome rate : 34/89 [ 38.2 % ; 95 % CI , 28.1 % to 49.1 % ] ) , both erythropoietin groups were futile ( first dosing regimen : 17/35 [ 48.6 % ; 95 % CI , 31.4 % to 66.0 % ] , P = .13 ; second dosing regimen : 17/57 [ 29.8 % ; 95 % CI , 18.4 % to 43.4 % ] , P < .001 ) .
+RESULTS	Favorable outcome rates were 37/87 ( 42.5 % ) for the hemoglobin transfusion threshold of 7 g/dL and 31/94 ( 33.0 % ) for 10 g/dL ( 95 % CI for the difference , -0.06 to 0.25 , P = .28 ) .
+RESULTS	There was a higher incidence of thromboembolic events for the transfusion threshold of 10 g/dL ( 22/101 [ 21.8 % ] vs 8/99 [ 8.1 % ] for the threshold of 7 g/dL , odds ratio , 0.32 [ 95 % CI , 0.12 to 0.79 ] , P = .009 ) .
+CONCLUSIONS	In patients with closed head injury , neither the administration of erythropoietin nor maintaining hemoglobin concentration of greater than 10 g/dL resulted in improved neurological outcome at 6 months .
+CONCLUSIONS	The transfusion threshold of 10 g/dL was associated with a higher incidence of adverse events .
+CONCLUSIONS	These findings do not support either approach in this setting .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00313716 .
+

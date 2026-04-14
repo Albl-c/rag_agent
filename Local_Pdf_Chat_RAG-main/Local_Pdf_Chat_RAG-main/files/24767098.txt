@@ -1,0 +1,13 @@
+24767098
+BACKGROUND	Intrafraction tumour motion in helical tomotherapy was investigated by comparing pre - and mid-fraction CT scans in patients with early non-small cell lung carcinoma ( NSCLC ) to assess the efficacy of a 7-mm margin around gross tumour volumes ( GTVs ) in stereotactic body radiation therapy ( SBRT ) .
+METHODS	Thirty patients with early-stage NSCLC received SBRT in four or five fractions for a total of 141 treatments .
+METHODS	A slow positron emission tomography/CT scan was fused with the simulation CT to determine the GTV .
+METHODS	A planning target volume was created by placing an isotropic margin of 7mm around the GTV .
+METHODS	Data were retrospectively analyzed to assess translational tumour positional changes along the x , y and z axes and vector changes in millimeters from the pretreatment megavoltage ( MV ) - CT to the mid-fraction MV-CT .
+RESULTS	Average movements for all 141 treatment days along the x , y and z axes were 0.52.3 , -0.33.0 and 0.93.0 mm , respectively .
+RESULTS	Average movements for each patient along the x , y and z axes were 0.51.5 , -0.22.0 and 0.91.9 mm , respectively .
+RESULTS	Average vector displacement was 4.32.4 mm for all treatment days and 4.21.7 mm for each patient .
+RESULTS	Of 141 treatments , 137 ( 97.2 % ) fell within 7.0 mm in all axes .
+CONCLUSIONS	The addition of a 7-mm margin to the GTV for patients receiving SBRT for NSCLC using tomotherapy is adequate to account for tumour movement .
+CONCLUSIONS	Mid-fraction CT scans proved to be valuable in assessing intrafraction tumour motion .
+

@@ -1,0 +1,9 @@
+25228130
+BACKGROUND	In this study , we aimed to evaluate the protective effect of tight glucose control during cardiopulmonary bypass on myocardium in adult nondiabetic patients undergoing isolated aortic valve replacement in a prospective and randomized trial .
+METHODS	Sixty-five adult nondiabetic patients undergoing selective isolated aortic valve replacement were enrolled and randomly assigned to an insulin group ( patients received a continuous insulin infusion during surgery ; n = 33 ) or a control group ( patients were not administered insulin unless their blood glucose level exceeded 200 mg/dL ; n = 32 ) .
+METHODS	Cardiac troponin I was assayed preoperatively , and then at 2 , 6 , 12 , 24 , and 48 hours after aortic cross-declamping .
+METHODS	The pre - , intra - , and postoperative relevant data of all selected patients were analyzed .
+RESULTS	Tight glucose control reduced postoperative peak release by 48 % for cardiac troponin I compared with the control group ( 0.48 0.12 vs 0.71 0.17 ng/mL ; P < 0.0001 ) .
+RESULTS	Patients with continuous insulin infusion had lower peak inotropic score during the first postoperative 24 hours and peak level of blood glucose ( 5.8 2.2 vs 8.2 3.1 g/kg/min ; P < 0.0001 ; 131.9 23.8 vs 191.1 38.5 mg/dL ; P < 0.001 , respectively ) , shorter duration of mechanical ventilation and intensive care unit stay and hospital stay compared with the control group ( 11.6 2.9 hours vs 14.8 3.5 hours ; P = 0.0002 ; 28.4 7.2 hours vs 36.5 7.8 hours ; P < 0.0001 ; 9.4 3.3 days vs 11.5 4.2 days ; P = 0.0283 , respectively ) .
+CONCLUSIONS	Tight glucose control during cardiopulmonary bypass might provide myocardial protection in adult nondiabetic patients undergoing isolated aortic valve replacement .
+

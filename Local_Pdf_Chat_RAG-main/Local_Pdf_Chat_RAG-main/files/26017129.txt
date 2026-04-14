@@ -1,0 +1,12 @@
+26017129
+BACKGROUND	The Checklist During Multidisciplinary Visits for Reduction of Mortality in Intensive Care Units ( Checklist - ICU ) trial is a pragmatic , two-arm , cluster-randomised trial involving 118 intensive care units in Brazil , with the primary objective of determining if a multifaceted qualityimprovement intervention with a daily checklist , definition of daily care goals during multidisciplinary daily rounds and clinician prompts can reduce inhospital mortality .
+OBJECTIVE	To describe our trial statistical analysis plan ( SAP ) .
+METHODS	This is an ongoing trial conducted in two phases .
+METHODS	In the preparatory observational phase , we collect three sets of baseline data : ICU characteristics ; patient characteristics , processes of care and outcomes ; and completed safety attitudes questionnaires ( SAQs ) .
+METHODS	In the randomised phase , ICUs are assigned to the experimental or control arms and we collect patient data and repeat the SAQ .
+RESULTS	Our SAP includes the prespecified model for the primary and secondary outcome analyses , which account for the cluster-randomised design and availability of baseline data .
+RESULTS	We also detail the multiple mediation models that we will use to assess our secondary hypothesis ( that the effect of the intervention on inhospital mortality is mediated not only through care processes targeted by the checklist , but also through changes in safety culture ) .
+RESULTS	We describe our approach to sensitivity and subgroup analyses and missing data .
+CONCLUSIONS	We report our SAP before closing our study database and starting analysis .
+CONCLUSIONS	We anticipate that this should prevent analysis bias and enhance the utility of results .
+

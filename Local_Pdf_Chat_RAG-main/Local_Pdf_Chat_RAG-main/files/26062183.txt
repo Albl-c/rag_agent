@@ -1,0 +1,12 @@
+26062183
+OBJECTIVE	To explore the effective therapeutic method for reducing adductor muscle tension in the children of spasmodic cerebral palsy .
+METHODS	One hundred and forty cases of spasmodic cerebral palsy met the inclusive criteria were randomized into an observation group and a control group , 70 cases in each one .
+METHODS	In the control group , the conventional physical therapies ( Bobath therapy and lower extremities therapy ) and scalp acupuncture ( seven-intelligent needles , motor area , sensory area , foot-motor-sensory area and balance area ) were adopted .
+METHODS	In the observation group , on the basis of the treatment as the control group , the three-spasm-needle therapy was applied to Jiejian , Xuehaishang and Houxuehai .
+METHODS	The physical therapies were given once every day , acupuncture was given once every two days , the treatment of 20 days made one session .
+METHODS	There were 15 to 20 days at the interval among the sessions and 3 sessions were required totally .
+METHODS	Separately before and after treatment , the modified Ashworth scale was used to evaluate the adductor muscle tension , and measure the adductor muscle angle , and D and E regions of gross motor function measure ( GMFM-88 ) were adopted for clinical efficacy evaluation .
+RESULTS	After treatment , the scores of the adductor muscle tension were decreased to different extends in the two groups ( both P < 0.01 ) , the adductor muscle angle was increased as compared with that before treatment ( both P < 0.01 ) and the scores of D and F regions in GMFM-88 were all improved ( all P < 0.01 ) .
+RESULTS	The efficacy in the observation group was more significant than that in the control group ( all P < 0.01 ) .
+CONCLUSIONS	The three-spasm-needle therapy effectively reduces adductor muscle tension and improves the range of motion in hip joint , independent walking , running and jumping abilities in the children of spasmodic cerebral palsy .
+

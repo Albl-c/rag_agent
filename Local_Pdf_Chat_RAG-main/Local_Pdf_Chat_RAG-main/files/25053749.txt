@@ -1,0 +1,10 @@
+25053749
+OBJECTIVE	The purpose of this article is to investigate the efficacy and safety of frovatriptan plus dexketoprofen 25 or 37.5 mg ( FroDex25 or FroDex37 .5 , respectively ) compared to that of frovatriptan 2.5 mg ( Frova ) in menstrually related migraine ( MRM ) .
+OBJECTIVE	The aim of this article is to analyze a subgroup of 76 women who treated an MRM attack in this multicenter , randomized , double-blind , parallel-group study .
+METHODS	The primary end-point was the proportion of patients who were pain free ( PF ) at two hours .
+METHODS	Secondary end-points included pain-relief ( PR ) at two hours and 48 hours sustained pain free ( SPF ) .
+RESULTS	PF rates at two hours were 29 % under Frova , 48 % under FroDex25 and 64 % under FroDex37 .5 ( p < 0.05 ) .
+RESULTS	PR at two hours was Frova 52 % , FroDex25 81 % and FroDex37 .5 88 % , while 48 hours SPF was 18 % under Frova , 30 % under FroDex25 and 44 % under FroDex37 .5 .
+CONCLUSIONS	Combining frovatriptan + dexketoprofen produced higher PF rates at two hours compared to Frova while maintaining efficacy at 48 hours .
+CONCLUSIONS	Tolerability profiles were comparable .
+

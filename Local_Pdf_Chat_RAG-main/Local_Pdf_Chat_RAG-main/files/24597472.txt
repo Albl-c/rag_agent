@@ -1,0 +1,15 @@
+24597472
+BACKGROUND	Idrabiotaparinux , a long-acting inhibitor of factor Xa , was shown to be effective in the treatment of patients with venous thromboembolism .
+OBJECTIVE	To assess non-inferiority for the efficacy of idrabiotaparinux versus warfarin in patients with atrial fibrillation ( AF ) at risk of stroke and systemic embolism .
+OBJECTIVE	Bleeding was also assessed .
+METHODS	This randomized , double-blind trial enrolled patients with electrocardiogram-documented AF .
+METHODS	Idrabiotaparinux was administered weekly via subcutaneous injection , and warfarin was administered daily with dose adjustment to maintain the international normalized ratio between 2.0 and 3.0 .
+METHODS	Each idrabiotaparinux injection was 3 mg for the first 7 weeks , followed by 2 mg thereafter , except in patients with a creatinine clearance of 30-50 mL min ( -1 ) or aged 75 years .
+METHODS	The patients received 1.5 mg after the first 7 weeks .
+METHODS	The efficacy outcome was the composite of all fatal or non-fatal strokes and systemic embolism .
+METHODS	The safety outcome was clinically relevant bleeding ( major and clinically relevant non-major bleeding ) .
+RESULTS	The study was terminated prematurely by the sponsor for strategic/commercial , not scientific , reasons , with 39 % of the planned number of patients included and an average duration of treatment of 240 days .
+RESULTS	Of the 1886 idrabiotaparinux recipients , 20 developed stroke or systemic embolism ( 1.5 % per year ) , whereas this occurred in 22 of the 1887 warfarin patients ( 1.6 % per year , hazard ratio 0.98 , 95 % confidence interval 0.49-1 .66 ) .
+RESULTS	The annual incidence of bleeding was 6.1 % in the idrabiotaparinux and 10.0 % in the warfarin group ( hazard ratio 0.61 , 95 % confidence interval 0.46-0 .81 ) .
+CONCLUSIONS	If anything , despite its early termination , the idrabiotaparinux regimen studied suggested a comparable efficacy to dose-adjusted warfarin , with a lower bleeding risk .
+

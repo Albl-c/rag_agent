@@ -1,0 +1,11 @@
+25591992
+OBJECTIVE	We examined the therapeutic effects of avanafil 15 minutes after dosing in men with mild to severe erectile dysfunction .
+METHODS	This randomized , double-blind , placebo controlled , 12-week study ( 4-week run-in and 8-week treatment ) randomized 145 men to placebo , 147 to avanafil 100 mg and 148 to avanafil 200 mg on demand .
+METHODS	The primary efficacy variable was the per subject proportion of sexual attempts during the treatment period in which subjects achieved erection sufficient for vaginal penetration within approximately 15 minutes after dosing as measured by a stopwatch .
+METHODS	The attempt had to enable successful completion of sexual intercourse according to SEP question 3 .
+RESULTS	Significantly greater mean per subject percentages of successful intercourse attempts within approximately 15 minutes after dosing were observed for avanafil 100 mg ( mean 25.9 % , LS mean SE 24.7 % 2.9 % ) and 200 mg ( mean 29.1 % , LS mean 28.2 % 2.9 % ) vs placebo ( mean 14.9 % , LS mean 13.8 % 2.9 % , p = 0.001 and < 0.001 , respectively ) .
+RESULTS	After treatment we noted a statistically significant difference between avanafil and placebo in the average per subject proportion of successful intercourse attempts according to SEP question 3 as early as 10 minutes in the 200 mg group and 12 minutes in the 100 mg group .
+RESULTS	Treatment emergent adverse events included headache , upper respiratory tract infection and nasal congestion , and most such events were mild or moderate in severity .
+CONCLUSIONS	Avanafil was efficacious within approximately 15 minutes of dosing compared to placebo .
+CONCLUSIONS	A statistically significant treatment difference in the percentage of successful sexual attempts was demonstrated as early as 10 minutes after treatment .
+

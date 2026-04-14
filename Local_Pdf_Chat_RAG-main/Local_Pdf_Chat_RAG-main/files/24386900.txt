@@ -1,0 +1,18 @@
+24386900
+BACKGROUND	The ` Older People 's Exercise intervention in Residential and nursing Accommodation ' ( OPERA ) cluster randomised trial evaluated the impact of training for care home staff together with twice-weekly , physiotherapist-led exercise classes on depressive symptoms in care home residents , but found no effect .
+BACKGROUND	We report a process evaluation exploring potential explanations for the lack of effect .
+METHODS	The OPERA trial included over 1,000 residents in 78 care homes in the UK .
+METHODS	We used a mixed methods approach including quantitative data collected from all homes .
+METHODS	In eight case study homes , we carried out repeated periods of observation and interviews with residents , care staff and managers .
+METHODS	At the end of the intervention , we held focus groups with OPERA research staff .
+METHODS	We reported our first findings before the trial outcome was known .
+RESULTS	Homes showed large variations in activity at baseline and throughout the trial .
+RESULTS	Overall attendance rate at the group exercise sessions was low ( 50 % ) .
+RESULTS	We considered two issues that might explain the negative outcome : whether the intervention changed the culture of the homes , and whether the residents engaged with the intervention .
+RESULTS	We found low levels of staff training , few home champions for the intervention and a culture that prioritised protecting residents from harm over encouraging activity .
+RESULTS	The trial team delivered 3,191 exercise groups but only 36 % of participants attended at least 1 group per week and depressed residents attended significantly fewer groups than those who were not depressed .
+RESULTS	Residents were very frail and therefore most groups only included seated exercises .
+CONCLUSIONS	The intervention did not change the culture of the homes and , in the case study homes , activity levels did not change outside the exercise groups .
+CONCLUSIONS	Residents did not engage in the exercise groups at a sufficient level , and this was particularly true for those with depressive symptoms at baseline .
+CONCLUSIONS	The physical and mental frailty of care home residents may make it impossible to deliver a sufficiently intense exercise intervention to impact on depressive symptoms .
+

@@ -1,0 +1,16 @@
+25488963
+OBJECTIVE	This open-label phase III trial evaluated efficacy and tolerability of linifanib versus sorafenib in patients with advanced hepatocellular carcinoma ( HCC ) without prior systemic therapy .
+METHODS	Patients were randomly assigned in a 1:1 ratio to linifanib 17.5 mg once daily or sorafenib 400 mg twice daily .
+METHODS	Patients were stratified by region ( Outside Asia , Japan , and rest of Asia ) , Eastern Cooperative Oncology Group performance score ( ECOG PS ; 0 or 1 ) , vascular invasion or extrahepatic spread ( yes or no ) , and hepatitis B virus ( HBV ) infection ( yes or no ) .
+METHODS	The primary end point of the study was overall survival ( OS ) .
+METHODS	Secondary end points were time to progression ( TTP ) and objective response rate ( ORR ) per RECIST v1 .1 .
+RESULTS	We randomly assigned 1,035 patients ( median age , 60 years ; Asian , 66.6 % ; ECOG PS 0 , 65.2 % ; HBV , 49.1 % ; vascular invasion or extrahepatic spread , 70.1 % ) .
+RESULTS	Median OS was 9.1 months on the linifanib arm ( 95 % CI , 8.1 to 10.2 ) and 9.8 months on the sorafenib arm ( 95 % CI , 8.3 to 11.0 ; hazard ratio [ HR ] , 1.046 ; 95 % CI , 0.896 to 1.221 ) .
+RESULTS	For prespecified stratification subgroups , OS HRs ranged from 0.793 to 1.119 and the 95 % CI contained 1.0 .
+RESULTS	Median TTP was 5.4 months on the linifanib arm ( 95 % CI , 4.2 to 5.6 ) and 4.0 months on the sorafenib arm ( 95 % CI , 2.8 to 4.2 ; HR , 0.759 ; 95 % CI , 0.643 to 0.895 ; P = .001 ) .
+RESULTS	Best response rate was 13.0 % on the linifanib arm versus 6.9 % on the sorafenib arm .
+RESULTS	Grade 3/4 adverse events ( AEs ) ; serious AEs ; and AEs leading to discontinuation , dose interruption , and reduction were more frequent with linifanib ( all P < .001 ) .
+CONCLUSIONS	Linifanib and sorafenib had similar OS in advanced HCC .
+CONCLUSIONS	Predefined superiority and noninferiority OS boundaries were not met for linifanib and the study failed to meet the primary end point .
+CONCLUSIONS	TTP and ORR favored linifanib ; safety results favored sorafenib .
+

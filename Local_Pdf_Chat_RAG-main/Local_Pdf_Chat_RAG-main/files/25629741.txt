@@ -1,0 +1,14 @@
+25629741
+BACKGROUND	Ruxolitinib , a Janus kinase ( JAK ) 1 and 2 inhibitor , was shown to have a clinical benefit in patients with polycythemia vera in a phase 2 study .
+BACKGROUND	We conducted a phase 3 open-label study to evaluate the efficacy and safety of ruxolitinib versus standard therapy in patients with polycythemia vera who had an inadequate response to or had unacceptable side effects from hydroxyurea .
+METHODS	We randomly assigned phlebotomy-dependent patients with splenomegaly , in a 1:1 ratio , to receive ruxolitinib ( 110 patients ) or standard therapy ( 112 patients ) .
+METHODS	The primary end point was both hematocrit control through week 32 and at least a 35 % reduction in spleen volume at week 32 , as assessed by means of imaging .
+RESULTS	The primary end point was achieved in 21 % of the patients in the ruxolitinib group versus 1 % of those in the standard-therapy group ( P < 0.001 ) .
+RESULTS	Hematocrit control was achieved in 60 % of patients receiving ruxolitinib and 20 % of those receiving standard therapy ; 38 % and 1 % of patients in the two groups , respectively , had at least a 35 % reduction in spleen volume .
+RESULTS	A complete hematologic remission was achieved in 24 % of patients in the ruxolitinib group and 9 % of those in the standard-therapy group ( P = 0.003 ) ; 49 % versus 5 % had at least a 50 % reduction in the total symptom score at week 32 .
+RESULTS	In the ruxolitinib group , grade 3 or 4 anemia occurred in 2 % of patients , and grade 3 or 4 thrombocytopenia occurred in 5 % ; the corresponding percentages in the standard-therapy group were 0 % and 4 % .
+RESULTS	Herpes zoster infection was reported in 6 % of patients in the ruxolitinib group and 0 % of those in the standard-therapy group ( grade 1 or 2 in all cases ) .
+RESULTS	Thromboembolic events occurred in one patient receiving ruxolitinib and in six patients receiving standard therapy .
+CONCLUSIONS	In patients who had an inadequate response to or had unacceptable side effects from hydroxyurea , ruxolitinib was superior to standard therapy in controlling the hematocrit , reducing the spleen volume , and improving symptoms associated with polycythemia vera .
+CONCLUSIONS	( Funded by Incyte and others ; RESPONSE ClinicalTrials.gov number , NCT01243944 . )
+

@@ -1,0 +1,14 @@
+25029619
+BACKGROUND	Low-fat and low-carbohydrate weight-loss diets can have a beneficial effect on longitudinal measures of blood pressure and blood lipids .
+BACKGROUND	We aimed to assess longitudinal changes in blood pressure and blood lipids in a population of premenopausal women .
+BACKGROUND	We hypothesized that results may differ by level of adherence to the respective diet protocol and baseline presence of hypertension or hyperlipidemia .
+METHODS	Overweight or obese premenopausal women were randomized to a low-fat ( n = 41 ) or low-carbohydrate ( n = 38 ) diet .
+METHODS	As part of the 52-week Lifestyle Eating and Fitness ( LEAF ) intervention trial , we fit linear mixed models to determine whether a change in outcome differed by treatment arm .
+RESULTS	Within-group trends in blood pressure and blood lipids did not differ ( p > 0.30 ) .
+RESULTS	Across study arms , there was a significant decrease in systolic blood pressure ( SBP , 3mm Hg , p = 0.01 ) over time , but diastolic blood pressure ( DBP ) did not change significantly over the course of the study .
+RESULTS	Blood lipids ( total cholesterol [ TC ] , low-density lipoproteins [ LDL ] , and high-density lipoproteins [ HDL ] ) all exhibited nonlinear trends over time ( p < 0.01 ) ; each decreased initially but returned to levels comparable to baseline by study conclusion ( p > 0.20 ) .
+RESULTS	We observed a decline in SBP among women who were hypertensive at baseline ( p < 0.01 ) , but hypercholesterolemia at baseline did not affect trends in blood lipids ( p > 0.40 ) .
+CONCLUSIONS	Our results support that dietary interventions may be efficacious for lowering blood pressure and blood lipids among overweight or obese premenopausal women .
+CONCLUSIONS	However , a decrease in SBP was the only favorable change that was sustained in this study population .
+CONCLUSIONS	These changes can be maintained over the course of a 1-year intervention , yet changes in blood lipids may be less sustainable .
+

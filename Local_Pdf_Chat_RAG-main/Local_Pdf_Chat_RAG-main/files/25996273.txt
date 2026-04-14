@@ -1,0 +1,19 @@
+25996273
+OBJECTIVE	Optimization of glycemic control is critical to reduce the number of diabetes mellitus-related complications , but long-term success is challenging .
+OBJECTIVE	Although vision loss is among the greatest fears of individuals with diabetes , comprehensive personalized diabetes education and risk assessments are not consistently used in ophthalmologic settings .
+OBJECTIVE	To determine whether the point-of-care measurement of hemoglobin A ( 1c ) ( HbA ( 1c ) ) and personalized diabetes risk assessments performed during retinal ophthalmologic visits improve glycemic control as assessed by HbA ( 1c ) level .
+METHODS	Ophthalmologist office-based randomized , multicenter clinical trial in which investigators from 42 sites were randomly assigned to provide either a study-prescribed augmented diabetes assessment and education or the usual care .
+METHODS	Adults with type 1 or 2 diabetes enrolled into 2 cohorts : those with a more-frequent-than-annual follow-up ( 502 control participants and 488 intervention participants ) and those with an annual follow-up ( 368 control participants and 388 intervention participants ) .
+METHODS	Enrollment was from April 2011 through January 2013 .
+METHODS	Point-of-care measurements of HbA1c , blood pressure , and retinopathy severity ; an individualized estimate of the risk of retinopathy progression derived from the findings from ophthalmologic visits ; structured comparison and review of past and current clinical findings ; and structured education with immediate assessment and feedback regarding participant 's understanding .
+METHODS	These interventions were performed at enrollment and at routine ophthalmic follow-up visits scheduled at least 12 weeks apart .
+METHODS	Mean change in HbA ( 1c ) level from baseline to 1-year follow-up .
+METHODS	Secondary outcomes included body mass index , blood pressure , and responses to diabetes self-management practices and attitudes surveys .
+RESULTS	In the cohort with more-frequent-than-annual follow-ups , the mean ( SD ) change in HbA ( 1c ) level at 1 year was -0.1 % ( 1.5 % ) in the control group and -0.3 % ( 1.4 % ) in the intervention group ( adjusted mean difference , -0.09 % [ 95 % CI , -0.29 % to 0.12 % ] ; P = .35 ) .
+RESULTS	In the cohort with annual follow-ups , the mean ( SD ) change in HbA ( 1c ) level was 0.0 % ( 1.1 % ) in the control group and -0.1 % ( 1.6 % ) in the intervention group ( mean difference , -0.05 % [ 95 % CI , -0.27 % to 0.18 % ] ; P = .63 ) .
+RESULTS	Results were similar for all secondary outcomes .
+CONCLUSIONS	Long-term optimization of glycemic control is not achieved by a majority of individuals with diabetes .
+CONCLUSIONS	The addition of personalized education and risk assessment during retinal ophthalmologic visits did not result in a reduction in HbA ( 1c ) level compared with usual care over 1 year .
+CONCLUSIONS	These data suggest that optimizing glycemic control remains a substantive challenge requiring interventional paradigms other than those examined in our study .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01323348 .
+

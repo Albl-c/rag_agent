@@ -1,0 +1,16 @@
+24604110
+BACKGROUND	Although some clinical reports suggest patient-specific instrumentation in TKA may improve alignment , reduce surgical time , and lower hospital costs , it is unknown whether it improves pain - and function-related outcomes and gait .
+OBJECTIVE	We hypothesized that TKA performed with patient-specific instrumentation would improve patient-reported outcomes measured by validated scoring tools and level gait as ascertained with three-dimensional ( 3-D ) analysis compared with conventional instrumentation 3 months after surgery .
+METHODS	We randomized 40 patients into two groups using either patient-specific instrumentation or conventional instrumentation .
+METHODS	Patients were evaluated preoperatively and 3 months after surgery .
+METHODS	Assessment tools included subjective functional outcome and quality-of-life ( QOL ) scores using validated questionnaires ( New Knee Society Score ( ) [ KSS ] , Knee Injury and Osteoarthritis Outcome Score [ KOOS ] , and SF-12 ) .
+METHODS	In addition , gait analysis was evaluated with a 3-D system during level walking .
+METHODS	The study was powered a priori at 90 % to detect a difference in walking speed of 0.1 m/second , which was considered a clinically important difference , and in a post hoc analysis at 80 % to detect a difference of 10 points in KSS .
+RESULTS	There were improvements from preoperatively to 3 months postoperatively in functional scores , QOL , and knee kinematic and kinetic gait parameters during level walking .
+RESULTS	However , there was no difference between the patient-specific instrumentation and conventional instrumentation groups in KSS , KOOS , SF-12 , or 3-D gait parameters .
+CONCLUSIONS	Our observations suggest that patient-specific instrumentation does not confer a substantial advantage in early functional or gait outcomes after TKA .
+CONCLUSIONS	It is possible that differences may emerge , and this study does not allow one to predict any additional variances in the intermediate followup period from 6 months to 1 year postoperatively .
+CONCLUSIONS	However , the goals of the study were to investigate the recovery period as early pain and functional outcomes are becoming increasingly important to patients and surgeons .
+METHODS	Level I , therapeutic study .
+METHODS	See the Instructions to Authors for a complete description of levels of evidence .
+

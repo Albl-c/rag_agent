@@ -1,0 +1,15 @@
+25876348
+OBJECTIVE	To explore the clinical efficacy and effect mechanism on chronic urticaria treated with moving cupping therapy combined with autohemotherapy with acupaint injection for desensitization at acupoints .
+METHODS	One hundred and four patients of chronic urticaria were randomized into a comprehensive therapy group and a medication group , 52 cases in each one .
+METHODS	In the comprehensive therapy group , the moving cupping therapy along the governor vessel and bladder meridian of foot-taiyang was applied combined with autohemotherapy with acupaint injection for desensitization at acupoints .
+METHODS	The self-venous blood was injected at bilateral Quchi ( LI 11 ) and Zusanli ( ST 36 ) , 1 mL at each acupoint , once every 3 days .
+METHODS	In the medication group , cetirizine tablets , 10 mg were prescribed for oral administration , once every day , and the compound dexamethasone acetate cream was used externally , once to twice a day .
+METHODS	The clinical efficacy : was observed in 30 days of treatment in the two groups .
+METHODS	The changes of serum interleukin 4 ( IL-4 ) and immunoglobulin E ( Ig E ) before and after treatment were observed .
+METHODS	The recurrence rate was compared between the two groups in 3 months after treatment .
+RESULTS	The cured and markedly effective rate was 90.4 % ( 47/52 ) in the comprehensive therapy group , which was higher obviously than 78.8 % ( 41/52 , P < 0.05 ) in the medication group .
+RESULTS	The levels of serum IL-4 and IgE were reduced in the patients of the two groups , indicating the significant difference in comparison before and after treatment ( all P < 0.01 ) and the reducing degree in the comprehensive therapy group was much more significant than that in the medicine group ( both P < 0.01 ) .
+RESULTS	The recurrence rate was 19.1 % ( 9/47 ) in the comprehensive therapy group in the 3-month follow-up after treatment , and apparently lower than 51.2 % ( 21/41 , P < 0.01 ) .
+CONCLUSIONS	The moving cupping therapy combined with autohemotherapy with acupaint injection for desensitization at acupoints achieves the better efficacy on chronic urticaria compared with the routine western medicine treatment and the recurrence rate is low .
+CONCLUSIONS	The effect mechanism is possibly related to the down-regulation of serum IL-4 and IgE in the patients .
+

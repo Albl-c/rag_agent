@@ -1,0 +1,10 @@
+24428097
+OBJECTIVE	To compare the incidence and severity of emergence agitation , recovery profile , and adverse events between desflurane and sevoflurane anesthesia in unpremedicated pediatric ambulatory urologic surgery patients .
+METHODS	The study was conducted among 136 healthy children , aged six months to nine years , and randomized to two groups , sevoflurane and desflurane , during maintenance anesthesia with laryngeal mask airway .
+METHODS	Recovery profile and perioperative adverse events were recorded .
+METHODS	The emergence agitation ( EA ) was assessed using a 4-point scale by an anesthetist nurse in the recovery room who was blinded to the treatment .
+RESULTS	The incidences of EA between sevoflurane/desflurane were not significantly different at 36.8 % / 41.2 % , p = 0.73 , and neither was the median ( IQR ) of severity ( 2 ( 1 , 3 ) / 2 ( 1 , 3 ) , p = 0.4 ) .
+RESULTS	The awakening time in the desflurane group was 6.4 + / - 4.0 minutes , faster than in the sevoflurane group of 10.6 + / - 7.6 minutes ( p < 0.001 ) .
+RESULTS	The number of children having intraoperative respiratory events was significantly higher in the desflurane group ( 17 ) , compared to the sevoflurane group ( 7 ) ( p = 0.043 ) .
+CONCLUSIONS	The occurrence of EA and adverse events between sevoflurane and desflurane were not different , except that the overall of intraoperative respiratory events was higher in desflurane group .
+

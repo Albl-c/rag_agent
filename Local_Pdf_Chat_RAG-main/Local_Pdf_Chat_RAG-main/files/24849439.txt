@@ -1,0 +1,16 @@
+24849439
+OBJECTIVE	To investigate the effects of different anesthesia depth on stress response in elderly patients undergoing elective laparoscopic surgery for colorectal cancer .
+METHODS	A total of 105 ASA I-III patients aged 60-91 years undergoing elective laparoscopic surgery for colorectal cancer with general anesthesia were randomized into 3 groups , namely group A with a target Narcotrend index ( NI ) maintained at D0 level , group B with a NI at D2 level , and group C with a NI at E1 level .
+METHODS	The anesthetics ( profopol and remifentanil ) were adjusted according to Narcotrend monitoring results to maintain the specified anesthesia depth .
+METHODS	The patients ' heart rate ( HR ) and mean artery pressure ( MAP ) were recorded before anesthesia ( T0 ) , before intubation ( T1 ) , immediately after intubation ( T2 ) , at 2 min before pneumoperitoneum ( T3 ) , 2 min after pneumoperitoneum ( T4 ) , at the end of the surgery ( T5 ) and extubation ( T6 ) .
+METHODS	Serum levels of cortisol , adrenocorticotropic hormone ( ACTH ) , endothelin-1 ( ET-1 ) , tumor necrosis factor - ( TNF - ) , interleukin-6 ( IL-6 ) and C-reactive protein ( CRP ) were measured by standard ELISA and radioimmunoassay before anesthesia ( Ta ) , at the end of the surgery ( Tb ) and 1 day after the surgery ( Tc ) .
+RESULTS	HR and MAP in group A increased significantly at T2 , T4 , and T6 compared to those at T0 ( P < 0.05 ) , and were higher than those in group B and group C ( P < 0.05 ) .
+RESULTS	The MAP in all the 3 groups all decreased at T1 and T3 ( P < 0.05 or P < 0.01 ) , and was markedly lower in group C than in groups A and B ( P < 0.05 ) .
+RESULTS	The incidence of hypertension was significantly higher in group A than in groups B and C ( P < 0.05 ) , while the incidence of hypotension was much higher in group C ( P < 0.01 ) .
+RESULTS	There were no obvious differences in serum levels of cortisol , ACTH , CRP , IL-6 , TNF-a , or ET-1 among the groups at Ta ( P > 0.05 ) .
+RESULTS	The serum levels of ACTH in the 3 groups all significantly increased at Tb and Tc ( P < 0.01 ) .
+RESULTS	CRP , IL-6 and TNF-a levels in group A were increased at Tb and Tc ( P < 0.05 or P < 0.01 ) and significantly higher than those in groups B and C ( P < 0.05 or P < 0.01 ) .
+RESULTS	Cortisol in groups A and B increased at Tb and Tc ( P < 0.05 ) to a significantly higher level than that in group C ( P < 0.01 ) .
+RESULTS	ET-1 level in group C at Tb and Tc was lower than those in groups A and B ( P < 0.05 or P < 0.01 ) .
+CONCLUSIONS	Maintaining the anesthesia depth for a NI at the D2 and E1 level can both attenuate the stress response in elderly patients undergoing laparoscopic surgery for colorectal cancer , but the hemodynamic stability can be better at a D2 level .
+

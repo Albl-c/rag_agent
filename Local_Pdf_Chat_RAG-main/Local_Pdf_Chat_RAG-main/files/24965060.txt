@@ -1,0 +1,12 @@
+24965060
+BACKGROUND	The purpose of this multicenter randomly controlled clinical trial was to compare two acellular dermal matrix ( ADM ) materials produced by different processing techniques , freeze-dried ( FDADM ) and solvent-dehydrated ( SDADM ) ADM , in their ability to correct Miller Class I and II recession defects .
+METHODS	Eighty individuals from four study centers , each with a single maxillary anterior Miller Class I or II recession defect were enrolled .
+METHODS	Participants were randomly assigned and treated with coronally advanced flap ( CAF ) + FDADM ( n = 42 ) or CAF + SDADM ( n = 38 ) .
+METHODS	Gingival thickness , recession depth , recession width , probing depth ( PD ) , clinical attachment level , gingival index , plaque index , patient discomfort , and wound healing index were recorded before surgery ( day 0 ) , immediately after surgery ( day 1 ) , and 2 , 4 , 12 , 24 , and 52 weeks postoperatively .
+METHODS	The Student t test , paired t test , and Kruskal-Wallis one-way ANOVA were used to analyze the data .
+RESULTS	When evaluating the clinical parameters after 1 year , both groups showed significant ( P < 0.05 ) improvement for most of the parameters evaluated when compared to baseline ( day 0 ) .
+RESULTS	For example , percentage of root coverage was 77.21 % 29.10 % for CAF + FDADM and 71.01 % 32.87 % for CAF + SDADM .
+RESULTS	Conversely , no significant differences were observed between the two materials for any clinical parameter tested or for patient satisfaction except PD on the mesial side of the defects ( P = 0.03 ) .
+CONCLUSIONS	Both FDADM and SDADM can be used successfully to correct Miller Class I or II recession defects .
+CONCLUSIONS	There were no statistically significant differences between groups for any of the clinical parameters tested .
+

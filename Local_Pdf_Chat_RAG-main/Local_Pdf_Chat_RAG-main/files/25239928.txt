@@ -1,0 +1,8 @@
+25239928
+OBJECTIVE	We evaluated the effects of cognitive speed of processing training ( SOPT ) on the development of additional Instrumental Activities of Daily Living ( IADL ) difficulties and the reduction of depressive symptoms in the Iowa Healthy and Active Minds Study ( IHAMS ) .
+METHODS	Six hundred eighty-one patients were randomized to 4 groups : 10 hr of on-site SOPT , 10 hr of on-site SOPT plus 4 hr of boosters , 10 hr of at-home SOPT , or 10 hr of on-site attention-control ( crossword puzzles ) .
+METHODS	Developing additional difficulties with IADLs and reductions in depressive symptoms 1 year later were evaluated using multiple logistic regression .
+RESULTS	The on-site SOPT with boosters group had reduced odds of developing additional difficulties with IADLs ( adjusted odds ratio [ AOR ] = 0.45 , p = .044 ) compared with attention-controls .
+RESULTS	The on-site SOPT with boosters group also had increased odds of reduced depressive symptom levels ( AOR = 2.93 , p = .003 ) compared with attention-controls .
+CONCLUSIONS	These findings provide evidence that SOPT transfers beyond the cognitive skills trained to meaningful downstream improvements in the lives of middle-aged and older adults .
+

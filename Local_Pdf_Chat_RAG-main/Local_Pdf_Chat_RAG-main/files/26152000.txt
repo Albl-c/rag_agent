@@ -1,0 +1,11 @@
+26152000
+OBJECTIVE	To evaluate time-limited hydrotubation combined with clomiphene citrate as treatment for unexplained infertility .
+METHODS	In this unblinded , randomized controlled trial of patients who had unexplained infertility , 40 patients were treated with time-limited hydrotubation ( saline , 20 ml ; flushed within 20 to 30 seconds ) and clomphene citrate ( total , 70 cycles ) and 40 patients were treated with clomiphene citrate alone ( total , 74 cycles ) .
+METHODS	All women underwent an ovulation induction protocol with clomiphene citrate ( 100 mg/d orally for five days , from day 3 to day 7 of the cycle ) .
+METHODS	Hydrotubation was performed after detection of the dominant follicle .
+RESULTS	There were 15 pregnancies in the 80 patients ( 19 % ) ( total , 144 stimulated cycles ; 10 % pregnancies per cycle ) .
+RESULTS	The frequency of clinical pregnancy per cycle was significantly greater in patients who were treated with hydrotubation and clomiphene citrate ( nine pregnancies per cycle [ 13 % ] ) than those treated with clomiphene citrate alone ( two pregnancies per cycle [ 3 % ] ; odds ratio , 5.3 ; 95 % confidence interval , 1.1 to 25.5 ; p 0.05 ) .
+RESULTS	The frequency of pregnancy per patient ( total , clinical , or chemical ) was similar for the two treatment groups .
+RESULTS	The frequency of live birth or abortion per cycle or patient was similar between the two treatment groups .
+CONCLUSIONS	Time-limited hydrotubation and clomiphene citrate may increase the frequency of clinical pregnancy per cycle in women who have unexplained infertility .
+

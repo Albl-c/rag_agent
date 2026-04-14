@@ -1,0 +1,12 @@
+24527853
+BACKGROUND	There are limited clinical experiments addressing the effects of photodynamic therapy ( PDT ) as an adjunct to conventional scaling and root planing ( SRP ) on clinical and biologic features of periodontitis .
+BACKGROUND	This trial compares the clinical parameters and cytokine profiles in gingival crevicular fluid of patients with moderate-to-severe chronic periodontitis ( CP ) who have been treated using SRP alone or SRP + PDT .
+METHODS	Twenty-two patients with two contralateral teeth affected with moderate-to-severe CP were selected .
+METHODS	After SRP , the participants ' teeth were randomized to receive either no further treatment or a single application of PDT using a 638-nm laser and toluidine blue .
+METHODS	Although the change in probing depth was the primary outcome , bleeding on probing , clinical attachment level , gingival recession , interleukin-1 , tumor necrosis factor ( TNF ) - , and matrix metalloproteinase 8 and 9 were also evaluated at baseline and 3 months postintervention .
+METHODS	An oral rinse assay was also performed to determine the total levels of oral polymorphonuclear cells ( PMNs ) before and 3 months after the treatments .
+RESULTS	Within each group , significant improvements ( P < 0.001 ) were found for all variables in 3-month follow-up compared with baseline .
+RESULTS	Only TNF - was significantly improved in the PDT + SRP versus SRP group .
+RESULTS	Total levels of PMNs were reduced for all patients compared with baseline levels ( P < 0.001 ) .
+CONCLUSIONS	In patients with CP , a single application of PDT ( using a 638-nm laser and toluidine blue ) did not provide any additional benefit to SRP in terms of clinical parameters or inflammatory markers 3 months following the intervention .
+

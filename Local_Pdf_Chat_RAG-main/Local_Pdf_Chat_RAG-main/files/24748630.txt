@@ -1,0 +1,15 @@
+24748630
+OBJECTIVE	Assess golimumab 's long-term efficacy/safety in psoriatic arthritis ( PsA ) .
+METHODS	Adults with active PsA ( 3 swollen and tender joints , active psoriasis ) were randomly assigned to subcutaneous placebo , golimumab 50mg , or golimumab 100mg every 4weeks ( q4wks ) through wk20 .
+METHODS	All patients received golimumab 50mg or 100mg q4wks from wk24 forward .
+METHODS	Methotrexate was allowed and taken by approximately half the patients .
+METHODS	Findings through 5years are reported herein .
+METHODS	Efficacy assessments included 20 % improvement in American College of Rheumatology ( ACR20 ) response , C-reactive-protein-based , 28-joint-count Disease Activity Score ( DAS28-CRP ) response , 75 % improvement in Psoriasis Area and Severity Index ( PASI75 ) scores , and PsA-modified Sharp/van der Heijde scores ( SHSs ) .
+RESULTS	126/405 ( 31 % ) randomised patients discontinued treatment through wk252 .
+RESULTS	Golimumab was effective in maintaining clinical improvement through year-5 ( ACR20 : 62.8-69 .9 % , DAS28-CRP : 75.2-84 .9 % for randomised patients ; PASI75 : 60.8-72 .2 % among randomised patients with 3 % body surface area involvement ) and inhibiting radiographic progression ( mean changes in PsA-modified SHS : 0.1-0 .3 ) among patients with radiographic data .
+RESULTS	While concomitant methotrexate did not affect ACR20/PASI75 , it appeared to reduce radiographic progression .
+RESULTS	No new safety signals were identified .
+RESULTS	Antibodies-to-golimumab occurred in 1.8 % / 10.0 % of patients with/without methotrexate ) .
+CONCLUSIONS	Long-term golimumab safety/efficacy in PsA was demonstrated through 5years .
+BACKGROUND	NCT00265096 .
+

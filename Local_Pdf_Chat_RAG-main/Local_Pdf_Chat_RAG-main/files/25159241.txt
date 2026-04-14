@@ -1,0 +1,20 @@
+25159241
+BACKGROUND	The success of damage-control surgery ( DCS ) for the treatment of trauma has led to its use in other surgical problems such as abdominal sepsis .
+BACKGROUND	Previous studies using direct peritoneal resuscitation ( DPR ) for the treatment of trauma have yielded promising results .
+BACKGROUND	We present the results of the application of this technique to patients experiencing abdominal sepsis .
+METHODS	We enrolled 88 DCS patients during a 5 year-period ( January 2008 to December 2012 ) into a propensity-matched study to evaluate the utility of using DPR in addition to standard resuscitation .
+METHODS	DPR consisted of peritoneal lavage with 2.5 % DELFLEX , and abdominal closure was standardized across both groups .
+METHODS	Patients were matched using Acute Physiology and Chronic Health Evaluation II ( APACHE II ) variables .
+METHODS	Univariate and multivariate analyses were performed .
+RESULTS	There were no differences between the control and experimental groups with regard to age , sex , ethnicity , or APACHE II at 24 hours .
+RESULTS	Indications for damage control included pancreatitis , perforated hollow viscous , bowel obstruction , and ischemic enterocolitis .
+RESULTS	Patients undergoing DPR had both a higher rate of ( 68 % vs. 43 % , p < 0.03 ) and a shorter time to definitive fascial closure ( 5.9 [ 3.2 ] days vs. 7.7 [ 4.1 ] days , p < 0.02 ) .
+RESULTS	DPR patients had a decreased APACHE II and Sequential Organ Failure Assessment ( SOFA ) score compared with the controls at 48 hours .
+RESULTS	In addition , DPR patients had fewer abdominal complications compared with the controls ( RR , 0.57 ; 95 % confidence interval , 0.32-1 .01 ; p = 0.038 ) .
+RESULTS	Ventilator days and intensive care unit length of stay were both significantly reduced in the DPR group .
+RESULTS	The DPR group showed a lower overall mortality at 30 days ( 16 % vs. 27 % , p = 0.15 ) .
+CONCLUSIONS	DPR reduces time to definitive abdominal closure , increases primary fascial closure , and reduces intra-abdominal complications following DCS .
+CONCLUSIONS	DPR may also attenuate progressive physiologic injury as demonstrated by a reduction in 48-hour intensive care unit severity scores .
+CONCLUSIONS	As a result , DPR following DCS may afford better outcomes to patients experiencing shock .
+METHODS	Therapeutic study , level III .
+

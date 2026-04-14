@@ -1,0 +1,17 @@
+24628898
+OBJECTIVE	To study the effects of oromucosal detomidine gel administered sublingually to calves prior to disbudding , and to compare its efficacy with intravenously ( IV ) administered detomidine .
+METHODS	Randomised , prospective clinical study .
+METHODS	Twenty dairy calves aged 12.4 4.4 days ( mean SD ) , weight 50.5 9.0 kg .
+METHODS	Detomidine at 80 g kg ( -1 ) was administered to ten calves sublingually ( GEL ) and at 30 g kg ( -1 ) to ten control calves IV ( V. jugularis ) .
+METHODS	Meloxicam ( 0.5 mg kg ( -1 ) ) and local anaesthetic ( lidocaine 3 mg kg ( -1 ) ) were administered before heat cauterization of horn buds .
+METHODS	Heart rate ( HR ) , body temperature and clinical sedation were monitored over 240 minutes .
+METHODS	Blood was collected from the V. cephalica during the same period for drug concentration analysis .
+METHODS	Pharmacokinetic variables were calculated from the plasma detomidine concentration-time data using non-compartmental methods .
+METHODS	Statistical analyses compared routes of administration by Student 's t-test and linear mixed models as relevant .
+RESULTS	The maximum plasma detomidine concentration after GEL was 2.1 1.2 ng mL ( -1 ) ( mean SD ) and the time of maximum concentration was 66.0 36.9 minutes .
+RESULTS	The bioavailability of detomidine was approximately 34 % with GEL .
+RESULTS	Similar sedation scores were reached in both groups after administration of detomidine , but maximal sedation was reached earlier in the IV group ( 10 minutes ) than in the GEL group ( 40 minutes ) .
+RESULTS	HR was lower after IV than GEL from 5 to 10 minutes after administration .
+RESULTS	All animals were adequately sedated , and we were able to administer local anaesthetic without resistance to all of the calves before disbudding .
+CONCLUSIONS	Oromucosally administered detomidine is an effective sedative agent for calves prior to disbudding .
+

@@ -1,0 +1,13 @@
+24639290
+OBJECTIVE	To investigate the efficacy of bupivacaine-soaked spongostan in cesarean section wound for postoperative anxiety level , satisfaction and early postpartum depression rate .
+METHODS	A total of 121 women , American Society of Anesthesiologists physical status I-II , scheduled to undergo general anesthesia and elective cesarean section were recruited and randomized into a study group ( n = 61 ) or a control group ( n = 60 ) .
+METHODS	In the spongostan group , bupivacaine-soaked spongostan was placed in the cesarean section wound .
+METHODS	The control group did not receive spongostan , but only general postoperative care .
+METHODS	Maternal health was assessed using a visual analog scale for satisfaction , a visual analog scale for anxiety and the Edinburgh Postpartum Depression Scale for postpartum depression .
+METHODS	Also , first breast-feeding time , first mobilization time and opioid consumption were recorded and compared .
+RESULTS	The anxiety level of the spongostan group was lower than that of the control group and the difference was statistically significant at all time intervals ( 1 , 6 , 12 , 18 , 24 , 30 , 36 and 48 h , p < 0.001 , respectively ) .
+RESULTS	Postpartum depression rate again was significantly lower in the spongostan group both on postoperative day 2 and day 9 ( p 0.01 ) .
+RESULTS	All satisfaction scores were significantly higher in the spongostan group than in the control group ( p < 0.001 ) .
+RESULTS	Additionally , first breast-feeding and first mobilization times were significantly shorter and opioid consumption was lower in the spongostan group ( p < 0.001 ) .
+CONCLUSIONS	Placement of bupivacaine-soaked spongostan into the cesarean section wound resulted in decreased postoperative anxiety level and postpartum depression rate and increased satisfaction .
+

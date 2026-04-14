@@ -1,0 +1,17 @@
+25007091
+METHODS	HIV-1 vaccine development has advanced slowly due to viral antigenic diversity , poor immunogenicity and recently , safety concerns associated with human adenovirus serotype-5 vectors .
+METHODS	To tackle HIV-1 variation , we designed a unique T-cell immunogen HIVconsv from functionally conserved regions of the HIV-1 proteome , which were presented to the immune system using a heterologous prime-boost combination of plasmid DNA , a non-replicating simian ( chimpanzee ) adenovirus ChAdV-63 and a non-replicating poxvirus , modified vaccinia virus Ankara .
+METHODS	A block-randomized , single-blind , placebo-controlled phase I trial HIV-CORE 002 administered for the first time candidate HIV-1 - vaccines or placebo to 32 healthy HIV-1 / 2-uninfected adults in Oxford , UK and elicited high frequencies of HIV-1-specific T cells capable of inhibiting HIV-1 replication in vitro .
+METHODS	Here , detail safety and tolerability of these vaccines are reported .
+METHODS	Local and systemic reactogenicity data were collected using structured interviews and study-specific diary cards .
+METHODS	Data on all other adverse events were collected using open questions .
+METHODS	Serum neutralizing antibody titres to ChAdV-63 were determined before and after vaccination .
+RESULTS	Two volunteers withdrew for vaccine-unrelated reasons .
+RESULTS	No vaccine-related serious adverse events or reactions occurred during 190 person-months of follow-up .
+RESULTS	Local and systemic events after vaccination occurred in 27/32 individuals and most were mild ( severity grade 1 ) and predominantly transient ( < 48 hours ) .
+RESULTS	Myalgia and flu-like symptoms were more strongly associated with MVA than ChAdV63 or DNA vectors and more common in vaccine recipients than in placebo .
+RESULTS	There were no intercurrent HIV-1 infections during follow-up .
+RESULTS	2/24 volunteers had low ChAdV-63-neutralizing titres at baseline and 7 increased their titres to over 200 with a median ( range ) of 633 ( 231-1533 ) post-vaccination , which is of no safety concern .
+CONCLUSIONS	These data demonstrate safety and good tolerability of the pSG2.HIVconsv DNA , ChAdV63.HIVconsv and MVA.HIVconsv vaccines and together with their high immunogenicity support their further development towards efficacy studies .
+BACKGROUND	ClinicalTrials.gov NCT01151319 .
+

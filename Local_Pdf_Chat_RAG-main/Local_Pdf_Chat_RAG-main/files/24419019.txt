@@ -1,0 +1,15 @@
+24419019
+BACKGROUND	Mirror therapy ( MT ) and electromyography-triggered neuromuscular stimulation ( ETMS ) are both effective treatments for impaired upper limbs following stroke .
+BACKGROUND	A combination of these two treatments ( ETMS-MT ) may result in greater gain than either treatment alone .
+OBJECTIVE	The feasibility and possible effects of ETMS-MT upon upper extremity function were investigated in stroke patients .
+METHODS	Thirteen post-acute stroke patients were randomly assigned to an immediate ETMS-MT group or a delayed ETMS-MT group and then underwent an 8-week training program .
+METHODS	The immediate ETMS-MT group received ETMS-MT in addition to physical and occupational therapy ( PT+OT ) for 4 weeks .
+METHODS	They then received only PT+OT for the next 4 weeks .
+METHODS	In the delayed ETMS-MT group , interventions were provided in the reverse order .
+METHODS	The main outcome measure was the Fugl-Meyer Assessment ( FMA ) .
+RESULTS	The immediate ETMS-MT group showed significantly greater gain in FMA in the first 4 weeks .
+RESULTS	The delayed ETMS-MT group showed significantly greater gain in active range of motion during the latter 4 weeks .
+RESULTS	No adverse effects were reported following ETMS-MT .
+CONCLUSIONS	ETMS-MT might be as effective as independent MT or ETMS without causing any side effects .
+CONCLUSIONS	Future research should focus upon the direct comparisons between independent and combined interventions .
+

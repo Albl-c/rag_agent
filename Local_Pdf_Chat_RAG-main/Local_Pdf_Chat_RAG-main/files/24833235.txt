@@ -1,0 +1,15 @@
+24833235
+BACKGROUND	Antiarrhythmic drugs ( AADs ) and anticoagulation are mainstays of atrial fibrillation ( AF ) treatment .
+OBJECTIVE	To study the use and outcomes of AAD therapy in anticoagulated patients with AF .
+METHODS	Patients in the Rivaroxaban Once Daily Oral Direct Factor Xa Inhibition Compared with Vitamin K Antagonism for Prevention of Stroke and Embolism Trial in Atrial Fibrillation trial ( N = 14,264 ) were stratified by AAD use at baseline : amiodarone , other AAD , or no AAD .
+METHODS	Multivariable adjustment was performed to compare stroke , bleeding , and death across AAD groups as well as across treatment assignment ( rivaroxaban or warfarin ) .
+RESULTS	Of 14,264 patients randomized , 1681 ( 11.8 % ) were treated with an AAD ( 1144 [ 8 % ] with amiodarone and 537 [ 3.8 % ] with other AADs ) .
+RESULTS	Amiodarone-treated patients were less often female ( 38 % vs 48 % ) , had more persistent AF ( 64 % vs 40 % ) , and more concomitant heart failure ( 71 % vs 41 % ) than were patients receiving other AADs .
+RESULTS	Patients receiving no AAD more closely resembled amiodarone-treated patients .
+RESULTS	Time in therapeutic range was significantly lower in warfarin-treated patients receiving amiodarone than in those receiving no AAD ( 50 % vs 58 % ; P < .0001 ) .
+RESULTS	Compared with no AAD , neither amiodarone ( adjusted hazard ratio [ HR ] 0.98 ; 95 % confidence interval [ CI ] 0.74-1 .31 ; P = .9 ) nor other AADs ( adjusted HR 0.66 ; 95 % CI 0.37-1 .17 ; P = .15 ) were associated with increased mortality .
+RESULTS	Similar results were observed for embolic and bleeding outcomes .
+RESULTS	Treatment effects of rivaroxaban vs warfarin in patients receiving no AAD were consistent with results from the overall trial ( primary end point : adjusted HR 0.82 ; 95 % CI 0.68-0 .98 ; Pinteraction = .06 ; safety end point : adjusted HR 1.12 ; 95 % CI 0.90-1 .24 ; Pinteraction = .33 ) .
+CONCLUSIONS	Treatment with AADs was not associated with increased morbidity or mortality in anticoagulated patients with AF .
+CONCLUSIONS	The effect of amiodarone on outcomes in patients receiving rivaroxaban requires further investigation .
+

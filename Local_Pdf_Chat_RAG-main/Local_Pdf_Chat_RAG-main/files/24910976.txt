@@ -1,0 +1,19 @@
+24910976
+BACKGROUND	Birt-Hogg-Dub syndrome ( BHD ) is a rare autosomal dominant disorder characterised by the occurrence of benign , mostly facial , skin tumours called fibrofolliculomas , multiple lung cysts , spontaneous pneumothorax and an increased renal cancer risk .
+BACKGROUND	Current treatments for fibrofolliculomas have high rates of recurrence and carry a risk of complications .
+BACKGROUND	It would be desirable to have a treatment that could prevent fibrofolliculomas from growing .
+BACKGROUND	Animal models of BHD have previously shown deregulation of mammalian target of rapamycin ( mTOR ) .
+BACKGROUND	Topical use of the mTOR inhibitor rapamycin is an effective treatment for the skin tumours ( angiofibromas ) in tuberous sclerosis complex , which is also characterised by mTOR deregulation .
+BACKGROUND	In this study we aimed to determine if topical rapamycin is also an effective treatment for fibrofolliculomas in BHD. .
+METHODS	We performed a double blinded , randomised , facial left-right controlled trial of topical rapamycin 0.1 % versus placebo in 19 BHD patients .
+METHODS	Trial duration was 6 months .
+METHODS	The primary outcome was cosmetic improvement as measured by doctors and patients .
+METHODS	Changes in fibrofolliculoma number and size were also measured , as was occurrence of side effects .
+RESULTS	No change in cosmetic status of fibrofolliculomas was reported in the majority of cases for the rapamycin treated ( 79 % by doctors , 53 % by patients ) as well as the placebo treated facial sides ( both 74 % ) .
+RESULTS	No significant differences between rapamycin and placebo treated facial halves were observed ( p = 1.000 for doctors opinion , p = 0.344 for patients opinion ) .
+RESULTS	No significant difference in fibrofolliculoma number or change in size of the fibrofolliculomas was seen after 6 months .
+RESULTS	Side effects occurred more often after rapamycin treatment ( 68 % of patients ) than after placebo ( 58 % of patients ; p = 0.625 ) .
+RESULTS	A burning sensation , erythema , itching and dryness were most frequently reported .
+CONCLUSIONS	This study provides no evidence that treatment of fibrofolliculomas with topical rapamycin in BHD results in cosmetic improvement .
+BACKGROUND	ClinicalTrials.gov NCT00928798 .
+

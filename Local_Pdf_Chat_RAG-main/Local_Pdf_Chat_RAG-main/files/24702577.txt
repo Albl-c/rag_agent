@@ -1,0 +1,12 @@
+24702577
+OBJECTIVE	To compare visual outcomes following photorefractive keratectomy ( PRK ) , PRK with mitomycin C ( MMC-PRK ) , and LASEK in moderate and high myopia in military personnel .
+METHODS	This prospective , randomized contralateral eye study included 167 patients 21 years or older with manifest spherical equivalent -5.99 1.40 diopters ( D ) ( range : -3.88 to -9.38 D ) randomized to either MMC-PRK or LASEK treatment in their dominant eye and conventional PRK without MMC in the fellow eye .
+METHODS	All procedures were performed using the LADARVision 4000 Excimer Laser System ( Alcon Surgical Inc. , Ft. Worth , TX ) .
+METHODS	High - and low-contrast visual acuities , manifest refraction , endothelial cell count , and corneal haze were evaluated up to 12 months postoperatively .
+RESULTS	At 12 months postoperatively , visual outcomes were comparable among the treatment groups .
+RESULTS	Corneal haze of any grade was less common in MMC-PRK compared to PRK at 1 month ( 21.4 % vs 31.0 % ; P < .01 ) and 3 months ( 12.8 % vs 35.9 % ; P = .03 ) postoperatively ; it was also less common in MMC-PRK compared to LASEK at 1 month ( 21.4 % vs 55.9 % ; P < .01 ) , 3 months ( 12.8 % vs 42.4 % ; P < .01 ) , and 6 months ( 12.2 % vs 36.4 % ; P = .03 ) postoperatively .
+RESULTS	Haze rate ( grade 0.5 or higher ) was comparable between LASEK and PRK .
+RESULTS	Clinically significant haze ( grade 2 or higher ) developed after PRK ( 4 eyes ) and LASEK ( 2 eyes ) , but not after MMC-PRK .
+CONCLUSIONS	MMC-PRK showed some benefits in minimizing corneal haze formation .
+CONCLUSIONS	One year after surgery , there was no discernible difference in the postoperative refractive outcomes among the three methods .
+

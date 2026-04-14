@@ -1,0 +1,14 @@
+25374230
+BACKGROUND	Increasing evidence suggests that stromal monocarboxylate transporter 4 ( MCT4 ) and carbonic anhydrase IX ( CA IX ) may play key roles in tumor development .
+BACKGROUND	However , their clinical value remains largely unexplored in gastric cancer ( GC ) .
+BACKGROUND	The present study aimed to determine clinicopathological significance and prognostic values of stromal MCT4 and CA IX in GC .
+METHODS	Specimens from 143 GC patients were immunohistochemically stained using polyclonal anti-MCT4 and anti-CA IX antibodies .
+METHODS	Expression was correlated with patient clinicopathologic characteristics and survival data .
+RESULTS	High stromal MCT4 expression was detected in 72 of 143 ( 50.3 % ) GCs and high CA IX in 74 ( 51.7 % ) .
+RESULTS	Both high stromal MCT4 and CA IX were correlated with advanced TNM stage ( p = 0.000 ; p = 0.000 ) .
+RESULTS	High CA IX expression was positively related to depth of invasion ( p = 0.022 ) and positive lymph nodes ( p = 0.002 ) as well .
+RESULTS	Survival analysis indicated high expression of stromal MCT4 to be an independent factor in predicting poor overall survival ( OS ) ( HR and 95 % CI = 1.962 , 1.032-3 .729 , p = 0.040 ) and disease free survival ( DFS ) ( HR and 95 % CI = 2.081 , 1.158-3 .741 , p = 0.014 ) of GC patients .
+RESULTS	However , high CA IX expression exhibited no significant predictive value .
+CONCLUSIONS	These findings suggest that high expression of stromal MCT4 and CA IX proteins is significantly correlated with GC progression .
+CONCLUSIONS	High stromal MCT4 heralds worse outcome of GC patient , suggesting a novel candidate prognostic marker and therapeutic target .
+

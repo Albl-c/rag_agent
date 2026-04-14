@@ -1,0 +1,12 @@
+25123170
+BACKGROUND	Several studies have presented evidence suggesting that dairy consumption has beneficial effects on blood pressure ( BP ) in healthy subjects ; however , only a few studies have examined this possibility in patients with established essential hypertension using ambulatory blood pressure monitoring .
+BACKGROUND	The objective of this study was to investigate how consuming dairy products impacts mean daytime systolic and diastolic BP in men and women with mild to moderate essential hypertension .
+METHODS	Eighty-nine men and women with systolic BP135mm Hg and160mm Hg and diastolic BP110mm Hg were enrolled in this single-blind , randomized , cross-over , controlled study .
+METHODS	Participants had to incorporate three daily servings of dairy products or control products equivalent in macronutrients and sodium during four-week treatment phases .
+METHODS	Twenty-four hour ambulatory BP and endothelial function were assessed at screening and at the end of each dietary phase .
+RESULTS	The consumption of three daily servings of dairy products led to a significant reduction in mean daytime ambulatory systolic BP ( -2 mm Hg ; P = 0.05 ) in men compared with readings after the control phase .
+RESULTS	In women , dairy consumption had no effect on ambulatory systolic BP .
+RESULTS	Moreover , endothelial function was significantly improved by dairy consumption in the whole cohort .
+CONCLUSIONS	These data indicate that the consumption of three daily servings of dairy products have beneficial effects on daytime systolic ambulatory BP compared to a heart-healthy , dairy-free , diet in men with mild to moderate essential hypertension .
+BACKGROUND	This trial is registered at clinicaltrials.gov as NCT01776216 .
+

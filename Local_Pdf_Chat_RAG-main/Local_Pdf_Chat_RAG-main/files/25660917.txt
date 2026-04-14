@@ -1,0 +1,14 @@
+25660917
+BACKGROUND	People who are physically active have at least a 30 % lower risk of death during follow-up compared with those who are inactive .
+BACKGROUND	However , the ideal dose of exercise for improving longevity is uncertain .
+OBJECTIVE	The aim of this study was to investigate the association between jogging and long-term , all-cause mortality by focusing specifically on the effects of pace , quantity , and frequency of jogging .
+METHODS	As part of the Copenhagen City Heart Study , 1,098 healthy joggers and 3,950 healthy nonjoggers have been prospectively followed up since 2001 .
+METHODS	Cox proportional hazards regression analysis was performed with age as the underlying time scale and delayed entry .
+RESULTS	Compared with sedentary nonjoggers , 1 to 2.4 h of jogging per week was associated with the lowest mortality ( multivariable hazard ratio [ HR ] : 0.29 ; 95 % confidence interval [ CI ] : 0.11 to 0.80 ) .
+RESULTS	The optimal frequency of jogging was 2 to 3 times per week ( HR : 0.32 ; 95 % CI : 0.15 to 0.69 ) or 1 time per week ( HR : 0.29 ; 95 % CI : 0.12 to 0.72 ) .
+RESULTS	The optimal pace was slow ( HR : 0.51 ; 95 % CI : 0.24 to 1.10 ) or average ( HR : 0.38 ; 95 % CI : 0.22 to 0.66 ) .
+RESULTS	The joggers were divided into light , moderate , and strenuous joggers .
+RESULTS	The lowest HR for mortality was found in light joggers ( HR : 0.22 ; 95 % CI : 0.10 to 0.47 ) , followed by moderate joggers ( HR : 0.66 ; 95 % CI : 0.32 to 1.38 ) and strenuous joggers ( HR : 1.97 ; 95 % CI : 0.48 to 8.14 ) .
+CONCLUSIONS	The findings suggest a U-shaped association between all-cause mortality and dose of jogging as calibrated by pace , quantity , and frequency of jogging .
+CONCLUSIONS	Light and moderate joggers have lower mortality than sedentary nonjoggers , whereas strenuous joggers have a mortality rate not statistically different from that of the sedentary group .
+

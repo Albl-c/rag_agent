@@ -1,0 +1,13 @@
+25146059
+BACKGROUND	This study explored the effects of acupressure on fatigue of lung cancer patients undergoing chemotherapy .
+METHODS	For this experimental study , 57 subjects were randomly assigned to three groups : acupressure with essential oils ( n = 17 ) , acupressure only ( n = 24 ) , and sham acupressure ( n = 16 ) .
+METHODS	Acupoints were Hegu ( LI4 ) , Zusanli ( ST36 ) , and Sanyingjiao ( SP6 ) .
+METHODS	All subjects received acupressure once every morning for 5 months , with each acupoint pressed for 1 min .
+METHODS	Fatigue , functional status , anxiety , depression , and sleep quality were measured before initial chemotherapy ( T0 ) , on Day 1 of third chemotherapy ( T1 ) , and on Day 1 of sixth chemotherapy ( T2 ) .
+METHODS	Outcome differences between groups were analyzed at T0 , T1 , and T2 by general estimating equations .
+RESULTS	After controlling for baseline outcome values , age , and adherence to acupressure , subjects who received acupressure with essential oils and acupressure had significantly less fatigue in daily living activities and sleep better quality at T1 than subjects who received sham acupressure .
+RESULTS	Subjects who received acupressure with essential oils had significantly better sleep quality at T2 than the sham acupressure group .
+RESULTS	Subjects who received acupressure with or without essential oils had greater odds of better functional status at T1 than the sham group .
+CONCLUSIONS	It is plausible that acupressure with or without essential oils helps lung cancer patients undergoing chemotherapy reduce cancer-related fatigue and increase activity level .
+CONCLUSIONS	Further study is wanted to test this hypothesis .
+

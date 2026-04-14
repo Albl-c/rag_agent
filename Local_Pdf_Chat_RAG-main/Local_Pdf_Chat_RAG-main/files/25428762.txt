@@ -1,0 +1,16 @@
+25428762
+BACKGROUND	In clinical practice , nonsteroidal anti-inflammatory drugs ( NSAIDs ) are commonly discontinued after response to biologic therapy is achieved in patients with axial spondyloarthritis ( axSpA ) , but the impact of NSAID discontinuation has not been assessed in prospective controlled trials .
+BACKGROUND	The aim of the SPARSE study was to evaluate the effects of the anti-tumor necrosis factor agent etanercept on NSAID intake and conventional clinical outcomes in axSpA patients .
+METHODS	In the double-blind , placebo-controlled period , patients with active ( mini Bath Ankylosing Spondylitis Disease Activity Index ( BASDAI ) 4 ) axSpA despite optimal NSAID intake were randomized to receive etanercept 50mg or placebo once weekly for 8weeks .
+METHODS	All patients were advised to taper/discontinue their NSAID intake during the treatment period .
+METHODS	NSAID intake was self-reported by diary and Assessment of SpondyloArthritis International Society ( ASAS ) - NSAID scores calculated based on ASAS recommendations .
+METHODS	The primary endpoint was change from baseline to week 8 in ASAS-NSAID score ( analysis of covariance ) .
+RESULTS	In 90 randomized patients at baseline , mean age ( standard deviation ) was 38.9 ( 11.8 ) years ; disease duration , 5.7 ( 8.1 ) years ; 59/90 ( 66 % ) were human leukocyte antigen-B27 positive ; 51/90 ( 57 % ) had radiographic sacroiliitis ; and 45/90 ( 50 % ) were magnetic resonance imaging sacroiliitis-positive .
+RESULTS	Mean ASAS-NSAID scores were similar between etanercept and placebo groups at baseline ( 98.2 ( 39.0 ) versus 93.0 ( 23.4 ) ) , as were BASDAI ( 6.0 ( 1.7 ) versus 5.9 ( 1.5 ) ) , and Bath Ankylosing Spondylitis Functional Index ( 5.2 ( 2.1 ) versus 5.1 ( 2.2 ) ) .
+RESULTS	Mean changes ( SE ) in ASAS-NSAID score from baseline to week 8 were -63.9 ( 6.1 ) and -36.6 ( 5.9 ) in the etanercept and placebo groups ( between-group difference , -27.3 ; P = 0.002 ) .
+RESULTS	Significantly higher proportions of patients receiving etanercept versus placebo had an ASAS-NSAID score < 10 ( 46 % versus 17 % ; P = 0.008 ) and ASAS-NSAID score of 0 ( 41 % versus 14 % ; P = 0.013 ) at this time point .
+RESULTS	Significantly more patients in the etanercept versus placebo group achieved BASDAI50 ( 39 % versus 18 % ; P = 0.032 ) and ASAS40 ( 44 % versus 21 % ; P = 0.028 ) at week 8 .
+CONCLUSIONS	In patients with axSpA , etanercept was associated with clinically relevant NSAID-sparing effects in addition to significant improvements in conventional clinical outcomes .
+BACKGROUND	ClinicalTrials.gov NCT01298531 .
+BACKGROUND	Registered 16 February 2011 .
+

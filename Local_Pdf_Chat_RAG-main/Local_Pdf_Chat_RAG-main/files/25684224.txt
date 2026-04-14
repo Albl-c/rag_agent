@@ -1,0 +1,16 @@
+25684224
+OBJECTIVE	To compare the effectiveness of controlled-released carbamazepine ( CR-CBZ ) to levetiracetam ( LEV ) and to lamotrigine ( LTG ) in elderly patients with newly diagnosed focal epilepsy .
+METHODS	Randomized , double-blind , parallel-group trial conducted between January 2007 and August 2011 , in 47 ambulatory or hospital sites in Germany , Austria , or Switzerland .
+METHODS	Eligible participants were aged 60 , had new-onset epilepsy , had no acute illness as the cause of their seizures , and had no contraindication to the drugs in the trial .
+METHODS	Patients were randomized 1:1:1 to CR-CBZ , LTG , or LEV .
+METHODS	Doses were up-titrated for 6 weeks and could be maintained or adjusted depending on seizure relapse or tolerability over an additional period of 52 weeks .
+METHODS	Primary outcome was the retention to treatment at week 58 ; secondary measures related to seizure and adverse event frequency .
+RESULTS	Of 361 randomized patients , 359 were included ( CR-CBZ n = 121 , LTG n = 117 , LEV n = 122 ) in the modified intent-to-treat population ( mean age [ range ] 71.4 [ 60-95 ] years ) .
+RESULTS	At week 58 , the retention rate for LEV was significantly higher than for CR-CBZ ( 61.5 % vs. 45.8 % , p = 0.02 ) , and similar to LTG ( 55.6 % ) .
+RESULTS	Seizure freedom rates at weeks 30 and 58 were not different across the groups .
+RESULTS	Twice as many patients receiving CR-CBZ discontinued due to adverse events or death compared to those in the LEV group ( 32.2 % vs. 17.2 % ; odds ratio 2.28 , 95 % confidence interval [ CI ] 1.25-4 .19 , p = 0.007 ) , whereas discontinuation was intermediate for LTG ( 26.3 % ) .
+RESULTS	Median daily doses of completers ( n = 195 ) were CR-CBZ 380.0 mg/day ( 333.0-384 .0 ) , LTG 95 mg/day ( 94.0-97 .0 ) , and LEV 950 mg/day ( 940.0-985 .0 ) .
+CONCLUSIONS	In the initial monotherapy of focal epilepsy in the elderly , 1-year retention to LEV was higher compared to CR-CBZ due to better tolerability .
+CONCLUSIONS	Retention of LTG was intermediate and close to LEV , but did not differ significantly from either comparators .
+CONCLUSIONS	NCT00438451 , www.clinicaltrials.gov .
+

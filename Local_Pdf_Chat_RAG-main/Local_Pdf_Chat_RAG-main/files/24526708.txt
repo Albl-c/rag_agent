@@ -1,0 +1,14 @@
+24526708
+BACKGROUND	Evidence supports peroneal nerve functional electrical stimulation ( FES ) as an effective alternative to ankle-foot orthoses ( AFO ) for treatment of foot drop poststroke , but few randomized controlled comparisons exist .
+OBJECTIVE	To compare changes in gait and quality of life ( QoL ) between FES and an AFO in individuals with foot drop poststroke .
+METHODS	In a multicenter randomized controlled trial ( ClinicalTrials.gov #NCT 01087957 ) with unblinded outcome assessments , 495 Medicare-eligible individuals at least 6 months poststroke wore FES or an AFO for 6 months .
+METHODS	Primary endpoints : 10-Meter Walk Test ( 10MWT ) , a composite of the Mobility , Activities of Daily Living/Instrumental Activities of Daily Living , and Social Participation subscores on the Stroke Impact Scale ( SIS ) , and device-related serious adverse event rate .
+METHODS	Secondary endpoints : 6-Minute Walk Test , GaitRite Functional Ambulation Profile ( FAP ) , Modified Emory Functional Ambulation Profile ( mEFAP ) , Berg Balance Scale ( BBS ) , Timed Up and Go , individual SIS domains , and Stroke-Specific Quality of Life measures .
+METHODS	Multiply imputed intention-to-treat analyses were used with primary endpoints tested for noninferiority and secondary endpoints tested for superiority .
+RESULTS	A total of 399 subjects completed the study .
+RESULTS	FES proved noninferior to the AFO for all primary endpoints .
+RESULTS	Both the FES and AFO groups improved significantly on the 10MWT .
+RESULTS	Within the FES group , significant improvements were found for SIS composite score , total mFEAP score , individual Floor and Obstacle course time scores of the mEFAP , FAP , and BBS , but again , no between-group differences were found .
+CONCLUSIONS	Use of FES is equivalent to the AFO .
+CONCLUSIONS	Further studies should examine whether FES enables better performance in tasks involving functional mobility , activities of daily living , and balance .
+

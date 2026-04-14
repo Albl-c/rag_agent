@@ -1,0 +1,14 @@
+25161823
+BACKGROUND	The day-to-day causes of stress are called daily hassles .
+BACKGROUND	Daily hassles are correlated with ill health .
+BACKGROUND	Biofeedback ( BF ) is one of the tools used for acquiring stress-coping skills .
+BACKGROUND	However , the anatomical correlates of the effects of BF with long training periods remain unclear .
+BACKGROUND	In this study , we aimed to investigate this .
+METHODS	PARTICIPANTS WERE ASSIGNED RANDOMLY TO TWO GROUPS : the intervention group and the control group .
+METHODS	Participants in the intervention group performed a biofeedback training ( BFT ) task ( a combination task for heart rate and cerebral blood flow control ) every day , for about 5 min once a day .
+METHODS	The study outcomes included MRI , psychological tests ( e.g. , Positive and Negative Affect Schedule , Center for Epidemiologic Studies Depression Scale , and Brief Job Stress Questionnaire ) , and a stress marker ( salivary cortisol levels ) before ( day 0 ) and after ( day 28 ) the intervention .
+RESULTS	We observed significant improvements in the psychological test scores and salivary cortisol levels in the intervention group compared to the control group .
+RESULTS	Furthermore , voxel-based morphometric analysis revealed that compared to the control group , the intervention group had significantly increased regional gray matter ( GM ) volume in the right lateral orbitofrontal cortex , which is an anatomical cluster that includes mainly the left hippocampus , and the left subgenual anterior cingulate cortex .
+RESULTS	The GM regions are associated with the stress response , and , in general , these regions seem to be the most sensitive to the detrimental effects of stress .
+CONCLUSIONS	Our findings suggest that our BFT is effective against the GM structures vulnerable to stress .
+

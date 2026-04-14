@@ -1,0 +1,10 @@
+24285491
+OBJECTIVE	To assess whether in early ( rheumatoid ) arthritis ( RA ) patients , metacarpal bone mineral density ( BMD ) loss after 4months predicts radiological progression after 1year of antirheumatic treatment .
+METHODS	Metacarpal BMD was measured 4 monthly during the first year by digital X-ray radiogrammetry ( DXR-BMD ) in patients participating in the IMPROVED study , a clinical trial in 610 patients with recent onset RA ( 2010 criteria ) or undifferentiated arthritis , treated according to a remission ( disease activity score < 1.6 ) steered strategy .
+METHODS	With Sharp/van der Heijde progression 0.5 points after 1year ( yes/no ) as dependent variable , univariate and multivariate logistic regression analyses were performed .
+RESULTS	Of 428 patients with DXR-BMD results and progression scores available , 28 ( 7 % ) had radiological progression after 1year .
+RESULTS	Independent predictors for radiological progression were presence of baseline erosions ( OR ( 95 % CI ) 6.5 ( 1.7 to 25 ) ) and early DXR-BMD loss ( OR ( 95 % CI ) 1.5 ( 1.1 to 2.0 ) ) .
+RESULTS	In 366 ( 86 % ) patients without baseline erosions , early DXR-BMD loss was the only independent predictor of progression ( OR ( 95 % CI ) 2.0 ( 1.4 to 2.9 ) ) .
+CONCLUSIONS	In early RA patients , metacarpal BMD loss after 4months of treatment is an independent predictor of radiological progression after 1year .
+CONCLUSIONS	In patients without baseline erosions , early metacarpal BMD loss is the main predictor of radiological progression .
+

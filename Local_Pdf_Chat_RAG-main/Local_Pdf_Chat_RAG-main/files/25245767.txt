@@ -1,0 +1,13 @@
+25245767
+BACKGROUND	We compared the effects of intravenous lidocaine ( IVL ) with lumbar epidural lidocaine analgesia ( LEA ) on pain and ileus after open colonic surgery .
+METHODS	Between December 2011 and February 2013 , 60 patients were randomly allocated to IVL , LEA , or control group .
+METHODS	The IVL group received intraoperatively lidocaine 2 % intravenously ( 1.5 mg/kg bolus , 2 mg/kg/h infusion ) and normal saline ( NS ) epidurally .
+METHODS	The LEA group received lidocaine epidurally ( 1.5 mg/kg bolus , 2 mg/kg/h infusion ) and NS intravenously .
+METHODS	The control group received NS both intravenously and epidurally , as bolus and infusion .
+METHODS	All NS volumes were calculated as if containing lidocaine 2 % at the aforementioned doses .
+METHODS	We assessed pain intensity at rest/cough at 1 , 2 , 4 , 12 , 24 , and 48 h postoperatively ( numerical rating scale 0-10 ) , 48-h analgesic consumption , and time to first flatus passage .
+RESULTS	Data from 60 patients ( 20 per group ) were analyzed .
+RESULTS	The IVL group had significantly lower pain scores at rest and cough compared to LEA or control group only at 1 , 2 , and 4 h postoperatively ( P < 0.005 for all comparisons ) .
+RESULTS	The 48-h analgesic requirements and time to first flatus passage did not differ significantly between IVL group and LEA or control group ( P > 0.05 ) .
+CONCLUSIONS	Compared with LEA-lidocaine or placebo , intravenous lidocaine offered no clinically significant benefit in terms of analgesia and bowel function .
+

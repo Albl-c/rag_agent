@@ -1,0 +1,10 @@
+25150159
+OBJECTIVE	To characterize the pharmacokinetics ( PK ) and pharmacodynamics ( PD ) of a new insulin glargine comprising 300 units mL ( -1 ) ( Gla-300 ) , compared with insulin glargine 100 units mL ( -1 ) ( Gla-100 ) at steady state in people with type 1 diabetes .
+METHODS	A randomized , double-blind , crossover study ( N = 30 ) was conducted , applying the euglycemic clamp technique over a period of 36 h.
+METHODS	In this multiple-dose to steady-state study , participants received once-daily subcutaneous administrations of either 0.4 ( cohort 1 ) or 0.6 units kg ( -1 ) ( cohort 2 ) Gla-300 for 8 days in one treatment period and 0.4 units kg ( -1 ) Gla-100 for 8 days in the other .
+METHODS	Here we focus on the results of a direct comparison between 0.4 units kg ( -1 ) of each treatment .
+METHODS	PK and PD assessments performed on the last treatment day included serum insulin measurements using a radioimmunoassay and the automated euglycemic glucose clamp technique over 36 h.
+RESULTS	At steady state , insulin concentration ( INS ) and glucose infusion rate ( GIR ) profiles of Gla-300 were more constant and more evenly distributed over 24 h compared with those of Gla-100 and lasted longer , as supported by the later time ( 3 h ) to 50 % of the area under the serum INS and GIR time curves from time zero to 36 h post dosing .
+RESULTS	Tight blood glucose control ( 105 mg dL ( -1 ) ) was maintained for approximately 5 h longer ( median of 30 h ) with Gla-300 compared with Gla-100 .
+CONCLUSIONS	Gla-300 provides more even steady-state PK and PD profiles and a longer duration of action than Gla-100 , extending blood glucose control well beyond 24 h.
+

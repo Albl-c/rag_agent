@@ -1,0 +1,16 @@
+24939928
+BACKGROUND	Reinfarction after primary percutaneous coronary intervention in patients with ST-segment-elevation myocardial infarction has negative consequences .
+BACKGROUND	Little is known about reinfarction after drug-eluting stents and bivalirudin anticoagulation .
+BACKGROUND	We , therefore , sought to determine the incidence , predictors , and implications of reinfarction after primary percutaneous coronary intervention in the contemporary era .
+RESULTS	Outcomes were assessed in 3202 patients undergoing stent implantation for ST-segment-elevation myocardial infarction in the Harmonizing Outcomes with RevascularIZatiON and Stents in Acute Myocardial Infarction ( HORIZONS-AMI ) trial .
+RESULTS	Independent predictors of reinfarction and mortality were identified by Cox proportional hazards modeling .
+RESULTS	The cumulative incidence of reinfarction was 1.8 % at 30 days , 4.0 % at 1 year , and 6.9 % at 3 years .
+RESULTS	Definite stent thrombosis was responsible for 76.3 % of reinfarctions occurring within 30 days and 52.0 % of all reinfarctions within 3 years .
+RESULTS	Independent predictors of reinfarction were current smoking , Killip class 2 , baseline thrombocytosis , multivessel disease , symptom onset-to-balloon time , and total stent length .
+RESULTS	Randomization to bivalirudin versus heparin plus a glycoprotein IIb/IIIa inhibitor and use of drug-eluting versus bare metal stents were not significant predictors of reinfarction .
+RESULTS	Reinfarction was a powerful independent predictor of subsequent cardiac mortality ( hazard ratio [ 95 % confidence interval ] = 7.65 [ 4.47-13 .09 ] ; P < 0.0001 ) and all-cause mortality ( hazard ratio [ 95 % confidence interval ] = 2.88 [ 1.74-4 .78 ] ; P < 0.0001 ) .
+CONCLUSIONS	Despite advances in pharmacotherapy and stents , reinfarction after primary percutaneous coronary intervention is not infrequent , in the contemporary era is most often attributable to stent thrombosis , and is strongly associated with subsequent cardiac and all-cause mortality .
+CONCLUSIONS	Further enhancements in drugs and devices to prevent reinfarction are needed to improve outcomes in high-risk patients with ST-segment-elevation myocardial infarction .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00433966 .
+

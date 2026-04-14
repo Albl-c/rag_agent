@@ -1,0 +1,14 @@
+24968767
+BACKGROUND	Due to the availability of new devices , the use of ventricular assist devices ( VADs ) in children has been increasing ; however , patient selection and optimal timing of device implantation in this population remains uncertain .
+METHODS	A retrospective review of the United Network for Organ Sharing dataset identified 5,200 listings without mechanical circulatory support ( MCS ) for isolated pediatric heart transplant , 1995 to 2012 .
+METHODS	Patients were randomly divided into a derivation and validation cohort .
+METHODS	A multivariable logistic regression model predicting the likelihood of death or need for MCS within 60 days was built using the derivation cohort and tested in the validation cohort .
+METHODS	A simplified score ( PedsMCS score ) was developed and evaluated for accuracy .
+RESULTS	The predictive model consisted of variables present at listing ( age , albumin level , creatinine clearance , serum bilirubin , mechanical ventilation , and inotropic support ) .
+RESULTS	It had good predictive ability ( C statistic 0.7304 ) within the validation cohort .
+RESULTS	The simplified PedsMCS score was also predictive ( C statistic 0.7217 ) and there was a strong correlation between predicted and expected outcomes ( r = 0.91 , p < 0.0001 ) .
+RESULTS	Patients with PedsMCS score 16 or greater had a significantly higher risk of death or MCS within 2 months ( 36.6 % ) than those with low scores ( < 6 ) ( 1.5 % , p < 0.0001 ) .
+RESULTS	A single point increase in PedsMCS score was associated with a 16.7 % increase in the risk of death or MCS with 2 months ( p < 0.0001 ) .
+CONCLUSIONS	We have developed and validated a simplified score to predict the need for MCS based on risk factors present at listing .
+CONCLUSIONS	This will provide more accurate prognostication in children awaiting heart transplant , and may improve patient selection .
+

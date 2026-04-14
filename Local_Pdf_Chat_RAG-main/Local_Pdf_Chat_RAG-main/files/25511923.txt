@@ -1,0 +1,12 @@
+25511923
+BACKGROUND	The IFCT-GFPC 0502 phase III study reported prolongation of progression-free survival with gemcitabine or erlotinib maintenance vs. observation after cisplatin-gemcitabine induction chemotherapy for advanced non-small-cell lung cancer ( NSCLC ) .
+BACKGROUND	This analysis was undertaken to assess the incremental cost-effectiveness ratio ( ICER ) of these strategies for the global population and pre-specified subgroups .
+METHODS	A cost-utility analysis evaluated the ICER of gemcitabine or erlotinib maintenance therapy vs. observation , from randomization until the end of follow-up .
+METHODS	Direct medical costs ( including drugs , hospitalization , follow-up examinations , second-line treatments and palliative care ) were prospectively collected per patient during the trial , until death , from the primary health-insurance provider 's perspective .
+METHODS	Utility data were extracted from literature .
+METHODS	Sensitivity analyses were conducted .
+RESULTS	The ICERs for gemcitabine or erlotinib maintenance therapy were respectively 76,625 and 184,733 euros per quality-adjusted life year ( QALY ) .
+RESULTS	Gemcitabine continuation maintenance therapy had a favourable ICER in patients with PS = 0 ( 52,213 / QALY ) , in responders to induction chemotherapy ( 64,296 / QALY ) , regardless of histology ( adenocarcinoma , 62,292 / QALY , non adenocarcinoma , 83,291 / QALY ) .
+RESULTS	Erlotinib maintenance showed a favourable ICER in patients with PS = 0 ( 94,908 / QALY ) , in patients with adenocarcinoma ( 97,160 / QALY ) and in patient with objective response to induction ( 101,186 / QALY ) , but it is not cost-effective in patients with PS = 1 , in patients with non-adenocarcinoma or with stable disease after induction chemotherapy .
+CONCLUSIONS	Gemcitabine - or erlotinib-maintenance therapy had ICERs that varied as a function of histology , PS and response to first-line chemotherapy .
+

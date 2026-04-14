@@ -1,0 +1,20 @@
+24884779
+BACKGROUND	The increasing prevalence of cardiometabolic disease ( CMD ) in combination with an ageing population is a major public health problem .
+BACKGROUND	Early detection and management of individuals at risk for CMD is required to prevent future health problems with associated costs .
+BACKGROUND	General practice is the optimal health care setting to accomplish this goal .
+BACKGROUND	Prevention programs for identification and treatment of patients with an increased risk for CMD in primary care have been proven feasible .
+BACKGROUND	However , the effectiveness and cost-effectiveness have yet to be demonstrated .
+BACKGROUND	The ` Personalized Prevention Approach for CardioMetabolic Risk ' ( PPA CMR ) is such a prevention program .
+BACKGROUND	The objective of the INTEGRATE study is to investigate the effectiveness and cost-effectiveness of PPA CMR , as well as to establish determinants for participation and compliance .
+METHODS	The INTEGRATE study is designed as a stepped-wedge randomized controlled trial with a waiting list control group .
+METHODS	In approximately 40 general practices , all enlisted patients without CMD aged 45-70 years , are invited to participate in PPA CMR .
+METHODS	After an online risk estimation , patients with a score above risk threshold are invited to the GP for additional measurements , detailed risk profiling and tailored treatment of risk factors through medication and/or lifestyle counseling .
+METHODS	At baseline and after twelve months of follow-up lifestyle , health and work status of all participants are established with online questionnaires .
+METHODS	Additionally after twelve months , we will determine health care utilization , costs of PPA CMR and compliance .
+METHODS	Primary endpoints are the number of newly detected patients with CMD and changes in individual risk factors between the intervention and waiting list control group .
+METHODS	Medical data will be extracted from the GPs ' electronic medical records .
+METHODS	In order to assess factors related to participation , we will send questionnaires to non-participants and assess characteristics of participating practices .
+METHODS	For all participants , additional demographic characteristics will be available through Statistics Netherlands .
+CONCLUSIONS	The INTEGRATE study will provide insight into the effectiveness and cost-effectiveness of PPA CMR as well as determinants for participation and compliance , which represents essential information to guide further large-scale implementation of primary prevention programs for CMD .
+BACKGROUND	NTR4277 , The Netherlands National Trial Register , 26-11-2013 .
+

@@ -1,0 +1,12 @@
+26077235
+OBJECTIVE	To determine long-term outcomes in a clinical trial evaluating the role of taxane type and schedule in operable breast cancer and evaluate the impact of obesity and black race on outcome .
+METHODS	A total of 4,954 eligible women with stage II to III breast cancer treated with four cycles of doxorubicin plus cyclophosphamide were randomly assigned to receive paclitaxel or docetaxel every 3 weeks for four doses or weekly for 12 doses using a 2 2 factorial design .
+METHODS	The primary end point was disease-free survival ( DFS ) .
+METHODS	Results are expressed as hazard ratios ( HRs ) from Cox proportional hazards models .
+METHODS	All P values are two sided .
+RESULTS	When compared with the standard every-3-week paclitaxel arm , after a median follow-up of 12.1 years , DFS significantly improved and overall survival ( OS ) marginally improved only for the weekly paclitaxel ( HR , 0.84 ; P = .011 and HR , 0.87 ; P = .09 , respectively ) and every-3-week docetaxel arms ( HR , 0.79 ; P = .001 and HR , 0.86 ; P = .054 , respectively ) .
+RESULTS	Weekly paclitaxel improved DFS and OS ( HR , 0.69 ; P = .010 and HR , 0.69 ; P = .019 , respectively ) in triple-negative breast cancer .
+RESULTS	For hormone receptor-positive , human epidermal growth factor receptor 2-nonoverexpressing disease , no experimental arm improved OS , and black race and obesity were associated with increased risk of breast cancer recurrence and death .
+CONCLUSIONS	Improved outcomes initially observed for weekly paclitaxel were qualitatively similar but quantitatively less pronounced with longer follow-up , although exploratory analysis suggested substantial benefit in triple-negative disease .
+CONCLUSIONS	Further research is required to understand why obesity and race influence clinical outcome in hormone receptor-positive disease .
+

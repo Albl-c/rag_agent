@@ -1,0 +1,12 @@
+25475461
+BACKGROUND	Transfer patterns , procedure rates , and outcomes of patients with non-ST-segment elevation myocardial infarction ( NSTEMI ) presenting to Canadian community hospitals are not well understood .
+METHODS	We documented all patients admitted to British Columbia ( BC ) hospitals with a primary diagnosis of NSTEMI between 2007 and 2008 .
+METHODS	Patients were divided by admitting hospital type into tertiary care hospitals , nonremote community hospitals , and remote community hospitals .
+METHODS	The aims were to compare transfer rates and time to transfer to a tertiary hospital as well as procedure rates and outcomes at index admission , at 30 days , and at 1 year .
+RESULTS	The mean transfer rates to a tertiary hospital were 72.6 % for nonremote and 57.1 % for remote community hospitals ( P < 0.001 ) .
+RESULTS	Times to and rates of cardiac procedures differed significantly among these 3 hospital types .
+RESULTS	Admission to a nonremote or remote community hospital was associated with similar 1-year mortality compared with admission to a tertiary care hospital ( nonremote hospitals , adjusted odds ratio [ OR ] , 0.87 ; P = 0.26 ; remote hospitals , adjusted OR , 1.19 ; P = 0.33 ) .
+RESULTS	At 1 year , admission to a nonremote community hospital was associated with a lower composite outcome of death or readmission for acute myocardial infarction ( AMI ) ( adjusted OR , 0.80 ; P = 0.04 ) .
+CONCLUSIONS	One-year mortality rates were not different between patients with NSTEMI admitted to BC community and tertiary care hospitals ; however , the rate of readmission for AMI/death was significantly less in patients admitted to nonremote community hospitals .
+CONCLUSIONS	This should prompt the evaluation of key outcomes in NSTEMI in other community hospital settings .
+

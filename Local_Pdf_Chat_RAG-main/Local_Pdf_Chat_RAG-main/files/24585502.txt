@@ -1,0 +1,14 @@
+24585502
+OBJECTIVE	To assess the differences in clinical outcome between complex patients treated with Resolute zotarolimus-eluting stents ( ZES ) versus Xience V everolimus-eluting stents ( EES ) .
+BACKGROUND	Nowadays , many complex patients with coronary disease are treated with percutaneous coronary interventions , using drug-eluting stents ( DES ) .
+METHODS	We analyzed 2-year outcome data of 1,033 complex patients of the TWENTE trial , treated with second-generation Resolute ZES or Xience V EES .
+METHODS	Complex patients had at least one of the following characteristics : renal insufficiency ( creatinine140 mol/l ) ; ejection fraction < 30 % ; acute myocardial infarction ( MI ) within previous 72 hrs ; > 1 lesion/vessel ; > 2 vessels treated ; lesion length > 27 mm ; bifurcation ; saphenous vein graft lesion ; arterial bypass graft lesion ; in-stent restenosis ; unprotected left main lesion ; lesion with thrombus ; or lesion with total occlusion .
+METHODS	Target vessel failure ( TVF ) , the primary composite endpoint of the trial , was defined as cardiac death , target vessel-related MI , or target vessel revascularization .
+RESULTS	Among the 1,033 complex patients , 529 ( 51 % ) were treated with Resolute ZES and 504 ( 49 % ) with Xience V EES .
+RESULTS	Patient - and procedure-related characteristics were similar between DES groups .
+RESULTS	After 2-year follow-up , outcome was also similar between DES groups .
+RESULTS	TVF occurred in 12.1 % of patients treated with Resolute ZES and 12.3 % of patients treated with Xience V EES .
+RESULTS	In addition , DES groups did not differ significantly in cardiac death , MI , or target vessel revascularization-the individual components of TVF .
+CONCLUSIONS	Complex patients treated with Resolute ZES and Xience V EES showed similar safety and efficacy during 2-year follow-up .
+CONCLUSIONS	2014 Wiley Periodicals , Inc. .
+

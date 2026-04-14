@@ -1,0 +1,18 @@
+25749502
+OBJECTIVE	Patients with decompensated cirrhosis have significantly reduced survival without liver transplantation .
+OBJECTIVE	Granulocyte colony-stimulating factor ( G-CSF ) has been shown to increase survival in patients with acute-on-chronic liver failure , and erythropoietin promoted hepatic regeneration in animal studies .
+OBJECTIVE	We performed a double-blind , randomized , placebo-controlled trial to determine whether co-administration of these growth factors improved outcomes for patients with advanced cirrhosis .
+METHODS	In a prospective study , consecutive patients with decompensated cirrhosis seen at the Institute of Liver and Biliary Sciences , New Delhi ( from May 2011 through June 2012 ) were randomly assigned to groups given subcutaneous G-CSF ( 5 g/kg/d ) for 5 days and then every third day ( 12 total doses ) , along with subcutaneous darbopoietin ( 40 mcg/wk ) for 4 weeks ( GDP group , n = 29 ) , or only placebos ( control group , n = 26 ) .
+METHODS	All patients also received standard medical therapy and were followed for 12 months .
+METHODS	Histology was performed on liver biopsies .
+METHODS	The primary end point was survival at 12 months .
+RESULTS	Baseline characteristics of patients were comparable ; alcohol intake was the most common etiology of cirrhosis .
+RESULTS	A higher proportion of patients in the GDP group than controls survived until 12 months ( 68.6 % vs 26.9 % ; P = .003 ) .
+RESULTS	At 12 months , Child-Turcotte Pugh scores were reduced by 48.6 % in the GDP group and 39.1 % in the control group , from baseline ( P = .001 ) ; Model for End Stage Liver Disease scores were reduced by 40.4 % and 33 % , respectively ( P = .03 ) .
+RESULTS	The need for large-volume paracentesis was significantly reduced in GDP group , compared with controls ( P < .05 ) .
+RESULTS	A lower proportion of patients in the GDP group developed septic shock ( 6.9 % ) during follow-up compared with controls ( 38.5 % ; P = .005 ) .
+RESULTS	No major adverse events were observed in either group .
+CONCLUSIONS	In a single-center randomized trial , a significantly larger proportion of patients with decompensated cirrhosis given a combination of G-CSF and darbopoietin survived for 12 months more than patients given only placebo .
+CONCLUSIONS	The combination therapy also reduced liver severity scores and sepsis to a greater extent than placebo .
+CONCLUSIONS	Clinicaltrials.gov ID : NCT01384565 .
+

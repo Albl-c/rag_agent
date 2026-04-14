@@ -1,0 +1,12 @@
+24999963
+BACKGROUND	Elevated symmetric dimethylarginine ( SDMA ) has been shown to predict cardiovascular events and all cause mortality in diverse populations .
+BACKGROUND	The potential role of SDMA as a risk marker in renal transplant recipients ( RTR ) has not been investigated .
+METHODS	We analyzed SDMA in the placebo arm of the Assessment of Lescol in Renal Transplantation study , a randomized controlled trial of fluvastatin in RTR .
+METHODS	Mean follow-up was 5.1 years .
+METHODS	Patients were grouped into quartiles based on SDMA levels at study inclusion .
+METHODS	Relationships between SDMA and traditional risk factors for graft function and all-cause mortality were analyzed in 925 RTR using univariate and multivariate survival analyses .
+RESULTS	In univariate analysis , SDMA was significantly associated with renal graft loss , all-cause death , and major cardiovascular events .
+RESULTS	After adjustment for established risk factors including estimated glomerular filtration rate , an elevated SDMA-level ( 4th quartile , > 1.38 mol/L ) was associated with renal graft loss ; hazard ratio ( HR ) , 5.51 ; 95 % confidence interval ( CI ) , 1.95-15 .57 ; P = 0.001 , compared to the 1st quartile .
+RESULTS	Similarly , SDMA in the 4th quartile was independently associated with all-cause mortality ( HR , 4.56 ; 95 % CI , 2.15-9 .71 ; P < 0.001 ) , and there was a strong borderline significant trend for an association with cardiovascular mortality ( HR , 2.86 ; 95 % CI , 0.99-8 .21 ; P = 0.051 ) .
+CONCLUSIONS	In stable RTR , an elevated SDMA level is independently associated with increased risk of all-cause mortality and renal graft loss .
+

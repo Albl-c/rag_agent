@@ -1,0 +1,15 @@
+25256813
+OBJECTIVE	To assess bacillus Calmette-Gurin maintenance treatment schedule for non-muscle invasive bladder cancer at 2 years , using one-third of the full dose and fewer instillations every 3 months or 6 months .
+METHODS	This was a prospective , randomized , multicenter study .
+METHODS	All patients had an intermediate - or high-risk non-muscle invasive bladder cancer .
+METHODS	They received three weekly instillations of one-third dose bacillus Calmette-Gurin every 6 months ( group I ) and two weekly instillations every 3 months ( group II ) during 3 years .
+METHODS	In the two schedules we assessed efficacy , tolerance , leukocyturia and prostate-specific antigen .
+RESULTS	No significant difference was observed between the two groups for recurrence at 6 , 12 or 18 months .
+RESULTS	At 2 years , tumor recurrence was observed in 10.9 % and muscle invasion in 2.9 % of cases .
+RESULTS	Bacillus Calmette-Gurin tolerance was comparable - the adverse events score was 0.8 in group I and 1 in group II ( P = 0.242 ) .
+RESULTS	No statistical correlation was observed between the adverse events score over 2 years , either for leukocyturia ( P = 0.8891 ) or prostate-specific antigen level ( P = 0.7155 ) .
+RESULTS	Leukocyturia level was not significantly associated with tumor recurrence or progression .
+CONCLUSIONS	One-third dose maintenance bacillus Calmette-Gurin is effective with no impact on tumor recurrence or muscle invasion .
+CONCLUSIONS	Furthermore , there seems to be no difference in tumor response or side-effects between patients receiving two or three maintenance instillations every 3 months or 6 months .
+CONCLUSIONS	In clinical practice , the use of leukocyturia or total prostate-specific antigen levels do not appear to be useful in predicting bacillus Calmette-Gurin toxicity .
+

@@ -1,0 +1,14 @@
+25038532
+OBJECTIVE	Identify predictors of non-compliance with first round screening exams in the Prostate , Lung , Colorectal and Ovarian ( PLCO ) Cancer Screening Trial .
+METHODS	The PLCO was conducted from 1993 to 2011 at 10 US institutions .
+METHODS	A total of 154,897 healthy men and women ages 55-74 years were randomized .
+METHODS	Intervention arm participants were invited to receive gender-appropriate screening exams for prostate , lung , colorectal and ovarian cancer .
+METHODS	Using intervention-arm data ( 73,036 participants ) , non-compliance percentages for 13 covariates were calculated , as were unadjusted and adjusted odds ratios ( ORs ) , and 95 % confidence intervals .
+METHODS	Covariates included demographic factors as well as factors specific to PLCO ( e.g. , method of consent , distance from screening center ) .
+RESULTS	The rate of non-compliance was 11 % overall but varied by screening center .
+RESULTS	Significant associations were observed for most covariates but indicated modest increases or decreases in odds .
+RESULTS	An exception was the use of a two-step consent process ( consented intervention arm participants for exams after randomization ) relative to a one-step process ( consented all participants prior to randomization ) ( OR : 2.2 , 95 % CI : 2.0-2 .5 ) .
+RESULTS	Non-compliance percentages increased with further distance from screening centers , but ORs were not significantly different from 1 .
+CONCLUSIONS	Many factors modestly influenced compliance .
+CONCLUSIONS	Consent process was the strongest predictor of compliance .
+

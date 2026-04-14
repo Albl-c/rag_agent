@@ -1,0 +1,14 @@
+24812287
+OBJECTIVE	Prediction of radiographic progression ( RP ) in early rheumatoid arthritis ( eRA ) would be very useful for optimal choice among available therapies .
+OBJECTIVE	We evaluated a multi-biomarker disease activity ( MBDA ) score , based on 12 serum biomarkers as a baseline predictor for 1-year RP in eRA .
+METHODS	Baseline disease activity score based on erythrocyte sedimentation rate ( DAS28-ESR ) , disease activity score based on C-reactive protein ( DAS28-CRP ) , CRP , MBDA scores and DAS28-ESR at 3months were analysed for 235 patients with eRA from the Swedish Farmacotherapy ( SWEFOT ) clinical trial .
+METHODS	RP was defined as an increase in the Van der Heijde-modified Sharp score by more than five points over 1year .
+METHODS	Associations between baseline disease activity measures , the MBDA score , and 1-year RP were evaluated using univariate and multivariate logistic regression , adjusted for potential confounders .
+RESULTS	Among 235 patients with eRA , 5 had low and 29 moderate MBDA scores at baseline .
+RESULTS	None of the former and only one of the latter group ( 3.4 % ) had RP during 1year , while the proportion of patients with RP among those with high MBDA score was 20.9 % ( p = 0.021 ) .
+RESULTS	Among patients with low/moderate CRP , moderate DAS28-CRP or moderate DAS28-ESR at baseline , progression occurred in 14 % , 15 % , 14 % and 15 % , respectively .
+RESULTS	MBDA score was an independent predictor of RP as a continuous ( OR = 1.05 , 95 % CI 1.02 to 1.08 ) and dichotomised variable ( high versus low/moderate , OR = 3.86 , 95 % CI 1.04 to 14.26 ) .
+CONCLUSIONS	In patients with eRA , the MBDA score at baseline was a strong independent predictor of 1-year RP .
+CONCLUSIONS	These results suggest that when choosing initial treatment in eRA the MBDA test may be clinically useful to identify a subgroup of patients at low risk of RP .
+BACKGROUND	WHO database at the Karolinska Institute : CT20080004 ; and clinicaltrials.gov : NCT00764725 .
+

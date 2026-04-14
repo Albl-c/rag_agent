@@ -1,0 +1,14 @@
+24941010
+OBJECTIVE	The hyperglycemic response to surgery may be a risk factor for cognitive dysfunction .
+OBJECTIVE	We hypothesize that strict maintenance of normoglycemia during cardiac surgery preserves postoperative cognitive function .
+METHODS	As part of a larger randomized , single-blind , interventional efficacy study on the effects of hyperinsulinemic glucose control in cardiac surgery ( NCT00524472 ) , consenting patients were randomly assigned to receive combined administration of insulin and glucose , titrated to preserve normoglycemia ( 3.5-6 .1 mmol L ( -1 ) ; experimental group ) , or standard metabolic care ( blood glucose 3.5-10 mmol L ( -1 ) ; control group ) , during open heart surgery .
+METHODS	The patients ' cognitive function was assessed during three home visits , approximately two weeks before the operation , and two months and seven months after surgery .
+METHODS	The following tests were performed : Rey Auditory Verbal Learning Task ( RAVLT for verbal learning and memory ) , Digit Span Task ( working memory ) , Trail Making A & B ( visuomotor tracking and attention ) , and the Word Pair Task ( implicit memory ) .
+METHODS	Questionnaires measuring specific traits known to affect cognitive performance , such as self-esteem , depression , chronic stress and social support , were also administered .
+METHODS	The primary outcome was to assess the effect of hyperinsulinemic-normoglycemic clamp therapy versus standard therapy on specific cognitive parameters in patients receiving normoglycemic clamp , or standard metabolic care .
+RESULTS	Twenty-six patients completed the study with 14 patients in the normoglycemia and 12 patients in the control group .
+RESULTS	Multiple analysis of covariance ( MANCOVA ) for the RAVLT showed a significant effect for the interaction of group by visit ( F = 4.07 , p = 0.035 ) , and group by visit by recall ( F = 2.21 , p = 0.04 ) .
+RESULTS	The differences occurred at the second and third visit .
+RESULTS	MANCOVA for the digit span task , trail making and word pair association test showed no significant effect .
+CONCLUSIONS	Preserving intraoperative normoglycemia by intravenous insulin and glucose may prevent the impairment of memory function , both short and long-term , after cardiac surgery .
+

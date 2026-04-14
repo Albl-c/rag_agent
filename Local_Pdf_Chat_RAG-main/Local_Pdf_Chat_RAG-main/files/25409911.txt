@@ -1,0 +1,13 @@
+25409911
+BACKGROUND	Psychosocial problems are highly prevalent among Dutch adolescents .
+BACKGROUND	We have conducted a trial to test whether offering chat-based consultations could be of added value within the context of Dutch Youth Health Care .
+BACKGROUND	This trial was ended prematurely because of recruitment issues .
+BACKGROUND	The aim of this study is to learn from this failed trial and to provide more insight into non-participation .
+BACKGROUND	Sources of data were non-participation forms , oral clarification , patient records , telephone interviews with adolescents that declined to participate , and a questionnaire-based process evaluation among nurses .
+RESULTS	Non-participation appears to be a multi-factorial problem .
+RESULTS	Of those 290 adolescents eligible to participate , the majority ( n = 165 , 57 % ) declined to do so .
+RESULTS	Two-third of those ( n = 109 ) also refused usual care , which might be indicative of not wanting help and/or experiencing problems and the validity of the assessment instrument .
+RESULTS	The other one-third ( n = 56 ) did enrol in usual care and indicated other reasons for non-participation , such as a preference for face-to-face consultations , the extensive information that was provided , and not liking the idea of being randomized .
+CONCLUSIONS	This study shows that even if a trial fails , we can learn about the challenges of recruiting adolescents in intervention trials .
+BACKGROUND	NL37668 .068.11 / METC11-3-077 .
+

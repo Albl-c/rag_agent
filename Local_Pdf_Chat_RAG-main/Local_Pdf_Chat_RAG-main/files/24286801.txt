@@ -1,0 +1,17 @@
+24286801
+OBJECTIVE	To analyze the results of the use of intra-articular cultured autologous bone marrow-derived mesenchymal stem cell ( MSC ) injections in conjunction with microfracture and medial opening-wedge high tibial osteotomy ( HTO ) .
+METHODS	Fifty-six knees in 56 patients with unicompartmental osteoarthritic knees and genu varum were randomly allocated to the cell-recipient group ( n = 28 ) or control group ( n = 28 ) .
+METHODS	Patients who had a joint line congruity angle of more than 2 , malalignment of the knee from femoral causes , a fixed flexion deformity , or age older than 55 years were excluded .
+METHODS	All patients underwent HTO and microfracture .
+METHODS	The cell-recipient group received intra-articular injection of cultured MSCs with hyaluronic acid 3 weeks after surgery , whereas the control group only received hyaluronic acid .
+METHODS	The primary outcome measure was the International Knee Documentation Committee ( IKDC ) score at intervals of 6 months , 1 year , and 2 years postoperatively .
+METHODS	Secondary outcome measures were Tegner and Lysholm clinical scores and 1-year postoperative Magnetic Resonance Observation of Cartilage Repair Tissue ( MOCART ) scores .
+RESULTS	The median age of the patients was 51 years , with a mean body mass index of 23.85 .
+RESULTS	Both treatment arms achieved improvements in Tegner , Lysholm , and IKDC scores .
+RESULTS	After adjustment for age , baseline scores , and time of evaluation , the cell-recipient group showed significantly better scores .
+RESULTS	The effect of treatment showed an added improvement of 7.65 ( 95 % confidence interval [ CI ] , 3.04 to 12.26 ; P = .001 ) for IKDC scores , 7.61 ( 95 % CI , 1.44 to 13.79 ; P = .016 ) for Lysholm scores , and 0.64 ( 95 % CI , 0.10 to 1.19 ; P = .021 ) for Tegner scores .
+RESULTS	Magnetic resonance imaging scans performed 1 year after surgical intervention showed significantly better MOCART scores for the cell-recipient group .
+RESULTS	The age-adjusted mean difference in MOCART score was 19.6 ( 95 % CI , 10.5 to 28.6 ; P < .001 ) .
+CONCLUSIONS	Intra-articular injection of cultured MSCs is effective in improving both short-term clinical and MOCART outcomes in patients undergoing HTO and microfracture for varus knees with cartilage defects .
+METHODS	Level II , randomized controlled trial .
+

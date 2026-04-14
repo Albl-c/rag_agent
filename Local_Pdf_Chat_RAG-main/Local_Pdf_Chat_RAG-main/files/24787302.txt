@@ -1,0 +1,22 @@
+24787302
+BACKGROUND	The traditional treatment after closed reduction of distal radius ( DR ) and distal both bone ( DBB ) forearm fractures has been application of a long-arm cast ( LAC ) or a short-arm cast ( SAC ) .
+BACKGROUND	Splinting is another option that avoids the potential complications associated with casting .
+BACKGROUND	The purpose of this study is to evaluate the maintenance of reduction of DR or DBB fractures placed in a double-sugar-tong splint ( DSTS ) compared with a LAC in a pediatric population .
+METHODS	This is an IRB-approved , prospective , randomized trial .
+METHODS	Patients aged 4 to 12 years with DR or DBB fractures treated at a single institution between 2010 and 2012 were enrolled .
+METHODS	After reduction , fractures were placed into either a LAC or a DSTS .
+METHODS	Radiographs were reviewed at initial injury , postreduction , and at set intervals for angulation , displacement , and apposition , as well as cast index and 3-point index .
+METHODS	The DSTS was overwrapped into a cast after week 1 .
+METHODS	The immobilization device was changed to a SAC at week 4 or 6 .
+METHODS	Total duration of immobilization was 6 to 8 weeks .
+RESULTS	Seventy-one patients were enrolled with 37 in the LAC and 34 in the DSTS .
+RESULTS	Average age was 8.73 years ( range , 4 to 12 ) with 43 being males .
+RESULTS	There were 28 isolated DR and 43 DBB fractures .
+RESULTS	There were no week-to-week differences between the 2 groups in regards to sagittal alignment , coronal alignment , apposition , or displacement .
+RESULTS	Sagittal alignment at immediate postreduction and week 2 showed that the DSTS was slightly better ( average 2.0 vs. 5.0 degrees , respectively , P = 0.04 ) .
+RESULTS	For the entire treatment period there was an increased risk of loss of reduction of 10 degrees in the LAC group versus the DSTS group ( 7 patients vs. 2 patients , respectively , P = 0.0001 ) , and of meeting the criteria for remanipulation ( 10 patients vs. 5 patients , respectively , P = 0.01 ) .
+RESULTS	At cast removal , there was no difference between groups .
+CONCLUSIONS	Although there were significant differences between the 2 groups with regards to risk of reduction loss , the DSTS and LAC were comparable in maintenance of reduction at the time of cast removal .
+CONCLUSIONS	Both the DSTS and LAC are appropriate immobilization devices for these pediatric fractures .
+METHODS	Level II-prospective , comparative study .
+

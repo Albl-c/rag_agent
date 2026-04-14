@@ -1,0 +1,13 @@
+24279284
+BACKGROUND	The aim of the present study was to assess the efficacy of structured education in insulin-treated type 2 diabetes mellitus ( T2DM ) patients .
+METHODS	In a 16-week open-label randomized controlled study , 1511 T2DM patients with inadequate responses to two or more oral antidiabetic drugs ( OADs ) for > 3 months ( HbA1c > 7.5 % ) were randomized ( 1:1 ) to either an education group ( structured diabetes education plus insulin therapy ) or a control group ( usual care plus insulin therapy ) .
+METHODS	Both groups discontinued previous OADs ( except biguanides and - glucosidase inhibitors ) and started twice daily injections of 30 % soluble-70 % isophane recombinant insulin .
+METHODS	The primary endpoint was the change in HbA1c from baseline .
+METHODS	Efficacy and safety data were analyzed for within - and between-group differences .
+RESULTS	Of the initial 1511 patients , 1289 completed the study ( 643 in the control group ; 646 in the education group ) .
+RESULTS	At the end of the study , significant reductions in HbA1c versus baseline were evident in both groups , but the reduction was greater in the education group ( 2.16 % vs. 2.08 % ; P < 0.05 ) .
+RESULTS	A higher proportion of patients in the education group achieved target HbA1c levels < 7 % ( 43.81 % vs. 36.86 % ; P < 0.05 ) and 6.5 % ( 28.48 % vs. 22.71 % ; P < 0.05 ) .
+RESULTS	In addition , patients in the education group showed greater increments in scores and improvement in the Morisky Medication Adherence Scale ( P < 0.05 ) .
+RESULTS	The overall incidence of hypoglycemic events was similar in the two groups .
+CONCLUSIONS	Structured education can promote the ability of patients to self-manage and their compliance with medications , thereby achieving better outcomes .
+

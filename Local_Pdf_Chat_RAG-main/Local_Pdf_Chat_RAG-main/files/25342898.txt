@@ -1,0 +1,12 @@
+25342898
+BACKGROUND	Combining bronchodilators with different mechanisms of action may improve efficacy and reduce risk of side effects compared to increasing the dose of a single agent in chronic obstructive pulmonary disease ( COPD ) .
+BACKGROUND	We investigated this by combining two long-acting bronchodilators : once-daily muscarinic antagonist tiotropium and once-daily 2-agonist olodaterol .
+METHODS	Two replicate , double-blind , randomized , 12-week studies ( ANHELTO 1 [ NCT01694771 ] and ANHELTO 2 [ NCT01696058 ] ) evaluated the efficacy and safety of olodaterol 5 g once daily ( via Respimat ( ) ) combined with tiotropium 18 g once daily ( via HandiHaler ( ) ) versus tiotropium 18 g once daily ( via HandiHaler ( ) ) combined with placebo ( via Respimat ( ) ) in patients with moderate to severe COPD .
+METHODS	Primary efficacy end points were area under the curve from 0-3 hours of forced expiratory volume in 1 second ( FEV1 AUC0-3 ) and trough FEV1 after 12 weeks ( for the individual trials ) .
+METHODS	A key secondary end point was health status by St George 's Respiratory Questionnaire ( SGRQ ) total score ( combined data set ) .
+RESULTS	Olodaterol + tiotropium resulted in significant improvements over tiotropium + placebo in FEV1 AUC0-3 ( treatment differences : 0.117 L [ P < 0.001 ] , ANHELTO 1 ; 0.106 L [ P < 0.001 ] , ANHELTO 2 ) and trough FEV1 ( treatment differences : 0.062 L [ P < 0.001 ] , ANHELTO 1 ; 0.040 L [ P = 0.0029 ] , ANHELTO 2 ) ; these were supported by secondary end points .
+RESULTS	These effects translated to improvements in SGRQ total scores ( treatment difference -1.85 ; P < 0.0001 ) .
+RESULTS	The tolerability profile of olodaterol + tiotropium was similar to tiotropium monotherapy .
+CONCLUSIONS	These studies demonstrated that olodaterol ( Respimat ( ) ) and tiotropium ( HandiHaler ( ) ) provided bronchodilatory effects above tiotropium alone in patients with COPD .
+CONCLUSIONS	In general , both treatments were well tolerated .
+

@@ -1,0 +1,10 @@
+25311600
+OBJECTIVE	To investigate associations between timing of adiposity rebound ( AR ; the period in childhood where BMI begins to increase from its nadir ) and adiposity ( BMI , fat mass ) at age 15 years in the Avon Longitudinal Study of Parents and Children ( ALSPAC ) .
+METHODS	The sample consisted of 546 children with AR derived in childhood and BMI and fat mass index ( FMI ; fat mass measured by dual-energy radiograph absorptiometry/height in m ( 2 ) ) measured at 15 years .
+METHODS	Multivariable linear regression models were based on standardized residuals of log BMI and log FMI to allow comparison of regression coefficients across outcomes .
+RESULTS	There were strong dose-response associations between timing of AR and both adiposity outcomes at 15 years independent of confounders .
+RESULTS	BMI was markedly higher in adolescence for those with very early AR ( by 3.5 years ; = 0.70 ; 95 % confidence interval [ CI ] : 0.33-1 .07 ; P .001 ) and was also higher for those with early AR ( between 3.5 and 5 years ; = 0.34 ; 95 % CI : 0.08-0 .59 ; P = .009 ) compared with those with later AR ( > 5 years ) after full adjustment for a range of potential confounders .
+RESULTS	Similar magnitudes of association were found for FMI after full adjustment for confounders ( compared with later AR : very early AR = 0.74 ; 95 % CI : 0.34-1 .15 ; P .001 ; early AR = 0.35 ; 95 % CI : 0.07-0 .63 ; P = .02 ) .
+CONCLUSIONS	Early AR is strongly associated with increased BMI and FMI in adolescence .
+CONCLUSIONS	Preventive interventions should consider targeting modifiable factors in early childhood to delay timing of AR .
+

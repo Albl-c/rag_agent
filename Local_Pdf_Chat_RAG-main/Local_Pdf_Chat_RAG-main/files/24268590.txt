@@ -1,0 +1,25 @@
+24268590
+BACKGROUND	Influenza causes substantial morbidity and mortality worldwide .
+BACKGROUND	Few data exist for the efficacy of neuraminidase inhibitors , which are the only readily available influenza treatment options , especially in low-income settings .
+BACKGROUND	We assessed the efficacy of treatment with the neuraminidase inhibitor oseltamivir to reduce patient illness and viral shedding in people with influenza , in whom treatment was started within 5 days of symptom onset , in an urban setting in Bangladesh .
+METHODS	We undertook a double-blind , randomised , controlled trial between May , 2008 , and December , 2010 .
+METHODS	Patients with a positive rapid influenza test identified by surveillance of households in Kamalapur , Bangladesh were randomly allocated on a 1:1 basis to receive oseltamivir or placebo twice daily for 5 days .
+METHODS	Randomisation lists for individuals enrolled less than 48 h and 48 h or longer since illness onset were generated with permuted blocks of variable length between two and eight .
+METHODS	Participants and study staff were masked to treatment group .
+METHODS	Participants provided nasal wash specimens at enrolment and 2 , 4 , and 7 days later , and were visited daily to record symptoms .
+METHODS	All specimens were tested for influenza with reverse-transcriptase PCR , and if the result was positive , we isolated the virus .
+METHODS	The primary endpoints were duration of clinical illness and viral shedding in patients treated less than and more than 48 h since illness onset and the frequency of oseltamivir resistance during treatment .
+METHODS	Analyses were intention to treat unless otherwise specified .
+METHODS	This trial is registered with ClinicalTrials.gov , number NCT00707941 .
+RESULTS	Overall , 1190 people with a median age of 5 years ( IQR 2-9 ) were enrolled : 794 ( 67 % ) less than 48 h since symptom onset and 396 ( 33 % ) 48 h or longer since symptom onset .
+RESULTS	592 participants were assigned to placebo and 598 to oseltamivir .
+RESULTS	The median duration of symptoms was shorter in the oseltamivir group ( 3 days , IQR 1-5 ) than in the placebo group ( 4 days , 1-6 ; p = 0.01 ) .
+RESULTS	When stratified by timing of treatment initiation , in participants enrolled 48 h or longer since illness onset , the median duration of symptoms was similar in both groups ( oseltamivir 3 days [ IQR 2-5 ] , placebo 3 days [ 1-5 ] ; p = 0.04 ) .
+RESULTS	The median duration of symptoms was reduced by 1 day in the group given oseltamivir who were enrolled less than 48 h since symptom onset compared with those given placebo , but this difference was not significant .
+RESULTS	In those with all swab specimens ( n = 1134 ) , oseltamivir significantly reduced virus isolation on days 2 ( placebo 374 [ 66 % ] vs oseltamivir 321 [ 56 % ] ; difference 15.2 % , 95 % CI 9.5-20 .8 , p = 0.0004 ) , 4 ( 241 [ 43 % ] vs 174 [ 30 % ] ; difference 30.2 % , 95 % CI 24.6-35 .8 , p < 0.0001 ) , and 7 ( 68 [ 12 % ] vs 36 [ 6 % ] ; difference 47.5 % , 95 % CI 44.2-50 .8 , p = 0.0009 ) .
+RESULTS	In participants enrolled 48 h or longer since illness onset , oseltamivir treatment significantly reduced virus isolation on days 2 and 4 , but not day 7 .
+RESULTS	In participants enrolled less than 48 h since illness onset , oseltamivir treatment significantly reduced virus isolation on days 2 , 4 , and 7 .
+RESULTS	The emergency of resistance to oseltamivir during treatment was rare overall ( < 1 % ) and in influenza A H1N1pdm09 viruses ( 3.9 % ) .
+CONCLUSIONS	Oseltamivir treatment resulted in a modest reduction in the duration of symptoms and virus shedding in people with uncomplicated influenza infections , even when treatment was started 48 h or longer after illness onset .
+BACKGROUND	Centers for Disease Control and Prevention ( in agreement with the International Centre for Diarrhoeal Disease Research , Bangladesh ) .
+

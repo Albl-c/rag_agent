@@ -1,0 +1,9 @@
+24441734
+OBJECTIVE	To compare long-term functional and radiological outcome following microfracture technique ( MF ) versus osteochondral autologous transplantation ( OAT ) mosaicplasty for treating focal chondral lesions of the knee .
+METHODS	Twenty-five patients ( mean age 32.3 years , SD 7.7 ) with a full-thickness ( International Cartilage Repair Society grade 3 or 4 ) chondral lesion of the articulating surface of the femur were randomized to either MF ( n = 11 ) or OAT mosaicplasty ( n = 14 ) .
+METHODS	At a median follow-up of 9.8 years ( range 4.9-11 .4 ) , the patients were evaluated using Lysholm score ( n = 25 ) , Knee Injury and Osteoarthritis Outcome Score ( KOOS , n = 25 ) , isokinetic quadriceps measurement and hamstring strength measurement ( n = 22 ) and standing radiographs ( n = 23 ) .
+RESULTS	There were no significant differences in Lysholm score , KOOS , isokinetic muscle strength or radiographic osteoarthritis between MF-treated patients and OAT mosaicplasty-treated patients at follow-up .
+RESULTS	Mean Lysholm score at follow-up was 69.7 [ 95 % confidence interval ( CI ) , 55.1-84 .4 ] for the MF group and 62.6 ( 95 % CI , 52.6-72 .6 ) for the OAT mosaicplasty group .
+CONCLUSIONS	At long-term follow-up , there were no significant differences between patients treated with MF and patients treated with OAT mosaicplasty in patient-reported outcomes , muscle strength or radiological outcome .
+METHODS	Therapeutic study , Level II .
+

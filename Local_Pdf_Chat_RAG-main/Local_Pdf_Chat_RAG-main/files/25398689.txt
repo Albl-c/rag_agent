@@ -1,0 +1,18 @@
+25398689
+BACKGROUND	Long-acting 2-adrenergic agonists ( LABAs ) are recommended in combination with inhaled corticosteroids ( ICSs ) for asthma management .
+BACKGROUND	Abediterol is a novel , selective , potent , once-daily LABA in development for treatment of asthma and chronic obstructive pulmonary disease .
+BACKGROUND	This study aimed to determine abediterol doses with similar peak bronchodilatory effect to salbutamol 400 g , and duration of action compatible with once-daily dosing in patients with persistent , stable asthma .
+METHODS	This was a Phase II , randomized , double-blind , double-dummy , crossover , placebo-controlled , dose-ranging study ( ClinicalTrials.gov NCT01425801 ) in 62 patients with mild-to-moderate asthma who were also receiving an ICS .
+METHODS	Patients received single doses of abediterol 0.313 , 0.625 , 1.25 , or 2.5 g , salbutamol 400 g , or placebo in the morning .
+METHODS	Spirometry was performed up to 36 h post-dose ; safety and tolerability were assessed throughout the study .
+METHODS	The primary endpoint was change from baseline in peak forced expiratory volume in 1 s ( FEV1 ) .
+METHODS	Additional endpoints included trough FEV1 , normalized area under the FEV1 curve ( FEV1 AUC ) up to 24 h post-dose , and peak and trough forced vital capacity ( FVC ) .
+RESULTS	Abediterol produced dose-dependent improvements in peak FEV1 from baseline compared with placebo , from 0.274 ( 95 % CI 0.221 , 0.327 ) to 0.405 L ( 95 % CI 0.353 , 0.458 ) for abediterol 0.313 to 2.5 g , respectively ( p < 0.0001 all doses ) .
+RESULTS	Abediterol 0.625 , 1.25 , and 2.5 g had similar magnitude of peak FEV1 effect to salbutamol .
+RESULTS	Dose-dependent changes from baseline in trough FEV1 versus placebo were 0.219 ( 95 % CI 0.136 , 0.302 ) to 0.400 L ( 95 % CI 0.317 , 0.483 ) for abediterol 0.313 to 2.5 g , respectively ( p < 0.0001 ) .
+RESULTS	All abediterol doses achieved significant improvements versus placebo in FEV1 AUC 0-6 , 0-12 , and 0-24 h , and peak and trough FVC ( p < 0.05 ) .
+RESULTS	Less than 10 % of patients experienced treatment-related adverse events for each dose of abediterol ; most were mild to moderate in intensity and the most common were headache and nasopharyngitis .
+RESULTS	There were no clinically relevant changes in heart rate .
+CONCLUSIONS	Abediterol 0.625-2 .5 g provided dose-dependent , clinically and statistically significant bronchodilation versus placebo in patients with asthma , with a peak effect similar to salbutamol and duration of action compatible with once-daily dosing .
+CONCLUSIONS	All doses of abediterol were well tolerated .
+

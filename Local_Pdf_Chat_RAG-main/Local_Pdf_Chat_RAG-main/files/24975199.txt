@@ -1,0 +1,15 @@
+24975199
+BACKGROUND	Topical photodynamic therapy ( PDT ) for actinic keratoses ( AK ) is hampered by pain during illumination and inferior efficacy in organ-transplant recipients ( OTR ) .
+OBJECTIVE	We assessed ablative fractional laser ( AFL ) - assisted daylight photodynamic therapy ( PDT ) ( AFL-dPDT ) compared with daylight PDT ( dPDT ) , conventional PDT ( cPDT ) and AFL alone ( AFL ) in field treatment of AK in OTR .
+METHODS	In each patient , four areas in the same region were randomized to one treatment with AFL-dPDT , dPDT , cPDT and AFL .
+METHODS	AFL was delivered with a 2940-nm AFL at 23 mJ per pulse , 115 W , two stacks , 50-s pulse-duration , 24 % density .
+METHODS	In dPDT and AFL-dPDT , methyl aminolaevulinate ( MAL ) was applied for 25 h without occlusion during daylight exposure .
+METHODS	For cPDT , MAL was occluded for 3 h followed by red-light ( 630 nm ) irradiation at 37 J cm ( -2 ) .
+METHODS	The primary end-point was complete response ( CR ) 3 months post-treatment .
+RESULTS	Sixteen patients with 542 AK ( grades I-III ) in field-cancerized skin of the scalp , chest and extremities were treated during August and September 2012 .
+RESULTS	After 3 months , CR ( AK I-III ) rates were 74 % after AFL-dPDT , 46 % after dPDT , 50 % after cPDT and 5 % after AFL ( P < 0001 ) .
+RESULTS	CR rates in AFL-dPDT , dPDT and cPDT were also significantly different ( P = 0004 ) .
+RESULTS	Median maximal pain scores differed significantly during AFL-dPDT ( 0 ) , dPDT ( 0 ) , AFL ( 0 ) and cPDT ( 5 ) ( P < 0001 ) .
+RESULTS	Erythema and crusting were more intense following AFL-dPDT than dPDT and cPDT , but only transient hypopigmentation was observed .
+CONCLUSIONS	AFL-dPDT is a novel PDT modality that enhances CR with excellent tolerability compared with dPDT and cPDT in difficult-to-treat AK in OTR .
+

@@ -1,0 +1,15 @@
+24797938
+OBJECTIVE	Remote ischemic preconditioning ( RIPC ) by repeated brief limb ischemia/reperfusion reduces myocardial injury in patients undergoing coronary artery bypass grafting ( CABG ) .
+OBJECTIVE	Activation of signal transducer and activator of transcription 5 ( STAT5 ) in left ventricular ( LV ) myocardium at early reperfusion is associated with such protection .
+OBJECTIVE	Autophagy , i.e. , removal of dysfunctional cellular components through lysosomes , has been proposed as one mechanism of cardioprotection .
+OBJECTIVE	Therefore , we analyzed whether or not the protection by RIPC is associated with activated autophagy .
+METHODS	CABG patients were randomized to undergo RIPC ( 35 min blood pressure cuff inflation/5 min deflation ) or placebo ( cuff deflated ) before skin incision ( n = 10/10 ) .
+METHODS	Transmural myocardial biopsies were taken from the LV before cardioplegia ( baseline ) and at early ( 5-10 min ) reperfusion .
+METHODS	RIPC-induced protection was reflected by decreased serum troponin I concentration area under the curve ( 19417 versus 709129 ng/ml 72 h , p = 0.002 ) .
+METHODS	Western blotting for beclin-1-phosphorylation and protein expression of autophagy-related gene 5-12 ( ATG5-12 ) complex , light chain 3 ( LC3 ) , parkin , and p62 was performed .
+METHODS	STAT3 - , STAT5 - and extracellular signal-regulated protein kinase 1/2 ( ERK1/2 ) - phosphorylation was used as positive control to confirm signal activation by ischemia/reperfusion .
+RESULTS	Signals of all analyzed autophagy proteins did not differ between baseline and early reperfusion and not between RIPC and placebo .
+RESULTS	STAT5-phosphorylation was greater at early reperfusion only with RIPC ( 2.2-fold , p = 0.02 ) .
+RESULTS	STAT3 - and ERK1/2-phosphorylation were greater at early reperfusion with placebo and RIPC ( 2.7-fold versus baseline , p0 .05 ) .
+CONCLUSIONS	Protection through RIPC in patients undergoing CABG surgery does not appear to be associated with enhanced autophagy in LV myocardium at early reperfusion .
+

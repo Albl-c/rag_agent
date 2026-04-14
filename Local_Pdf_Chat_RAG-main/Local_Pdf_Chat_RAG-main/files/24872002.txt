@@ -1,0 +1,16 @@
+24872002
+OBJECTIVE	The aim of this study was to compare the contrast-to-noise ratio ( CNR ) values of infarct and remote myocardium as well as infarct and blood after application of 0.1 mmol/kg gadobutrol and 0.1 mmol/kg gadobenate dimeglumine on late gadolinium enhancement magnetic resonance ( MR ) images .
+METHODS	The study was a prospective randomized controlled clinical study .
+METHODS	After informed consent was obtained , 20 patients ( 12 men , 8 women ; mean age , 67 11 years ) with known chronic myocardial infarction were included for an intraindividual comparison of a single-dose gadobutrol and a single-dose gadobenate dimeglumine .
+METHODS	Two MR imaging examinations were performed within a period of 28 days in a crossover design .
+METHODS	Late gadolinium enhancement imaging was performed 10 minutes after gadolinium administration using a 2-dimensional phase-sensitive inversion recovery gradient echo sequence at 3 T. Infarct size , signal intensities ( SIs ) , signal-to-noise ratio , and CNR were determined on phase-sensitive MR images .
+METHODS	Values for CNR were calculated as CNRinfarct/myocardium = ( SIinfarct - SImyocardium ) / SDnoise and CNRinfarct/blood = ( SIinfarct - SIblood ) / SDnoise .
+METHODS	In addition , the areas of myocardial infarction were determined on single slices .
+METHODS	The entire infarct volumes were calculated by adding the areas with hyperenhancement multiplied by the slice thickness .
+RESULTS	Late gadolinium enhancement was present in all patients .
+RESULTS	Median values of the infarct area , infarct volume , and transmurality for gadobutrol and gadobenate dimeglumine showed good to excellent concordance ( rc = 0.85 , rc = 0.95 , and rc = 0.71 , respectively ) .
+RESULTS	The mean signal-to-noise ratio values for infarct , remote myocardium , and ventricular blood were 18.6 6.5 , 4.1 3.7 , and 14.6 7.5 , respectively , for gadobutrol and 18.8 8.9 , 4.9 4.5 , and 17.8 10.1 , respectively , for gadobenate dimeglumine ( P = 0.93 , P = 0.48 , and P = 0.149 , respectively ) .
+RESULTS	The mean values of CNRinfarct/myocardium and CNRinfarct/blood were 14.5 5.9 and 4.0 4.6 , respectively , for gadobutrol and 13.9 6.1 and 0.9 4.5 , respectively , for gadobenate dimeglumine ( P = 0.69 and P = 0.02 , respectively ) .
+CONCLUSIONS	Both gadobutrol and gadobenate dimeglumine allow for successful late gadolinium enhancement imaging of chronic myocardial infarction after a single-dose application ( 0.1 mmol/kg ) at 3 T. Gadobutrol provides a higher CNR between infarct and blood .
+CONCLUSIONS	The CNRs between infarct and normal myocardium , infarct size , and transmural extent were similar for both contrast agents .
+

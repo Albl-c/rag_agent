@@ -1,0 +1,11 @@
+25065535
+BACKGROUND	Cannabis use is high amongst young people who have recently had their first episode of psychosis , and is associated with worse outcomes .
+BACKGROUND	To date , interventions to reduce cannabis consumption have been largely ineffective , and it has been suggested that longer treatment periods are required .
+METHODS	In a pragmatic single-blind randomized controlled trial 110 participants were randomly allocated to one of three conditions : a brief motivational interviewing and cognitive behavioural therapy ( MI-CBT ) intervention ( up to 12 sessions over 4.5 months ) with standard care from an early intervention service ; a long MI-CBT intervention ( up to 24 sessions over 9 months ) with standard care ; or standard care alone .
+METHODS	The primary outcome was change in cannabis use as measured by Timeline Followback .
+RESULTS	Neither the extended nor the brief interventions conferred benefit over standard care in terms of reductions in frequency or amount of cannabis use .
+RESULTS	Also the interventions did not result in improvements in the assessed clinical outcomes , including symptoms , functioning , hospital admissions or relapse .
+CONCLUSIONS	Integrated MI and CBT for people with cannabis use and recent-onset psychosis does not reduce cannabis use or improve clinical outcomes .
+CONCLUSIONS	These findings are consistent with those in the published literature , and additionally demonstrate that offering a more extended intervention does not confer any advantage .
+CONCLUSIONS	Many participants were not at an action stage for change and for those not ready to reduce or quit cannabis , targeting associated problems rather than the cannabis use per se may be the best current strategy for mental health services to adopt .
+

@@ -1,0 +1,11 @@
+24796381
+BACKGROUND	Heavy drinking among individuals with HIV is associated with major health concerns ( liver disease , medication nonadherence , immune functioning ) , but little is known about cognitive-motivational factors involved in alcohol consumption in this population , particularly reasons for limiting drinking .
+METHODS	Urban HIV primary care patients ( N = 254 ; 78.0 % male ; 94.5 % African American or Hispanic ) in a randomized trial of brief drinking-reduction interventions reported on reasons for limiting drinking , alcohol consumption , and alcohol dependence symptoms prior to intervention .
+RESULTS	Exploratory factor analysis indicated 3 main domains of reasons for limiting drinking : social reasons ( e.g. , responsibility to family ) , lifestyle reasons ( e.g. , religious/moral reasons ) , and impairment concerns ( e.g. , hangovers ) .
+RESULTS	These factors evidenced good internal consistency ( s = 0.76 to 0.86 ) .
+RESULTS	Higher scores on social reasons for limiting drinking were associated with lower typical quantity , maximum quantity , and binge frequency ( ps < 0.01 ) , and higher scores on lifestyle reasons were associated with lower maximum quantity , binge frequency , and intoxication frequency ( ps < 0.01 ) .
+RESULTS	In contrast , higher scores on impairment concerns were associated with more frequent drinking and intoxication , and higher risk of alcohol dependence ( ps < 0.05 ) , likely because dependent drinkers are more familiar with alcohol-induced impairment .
+CONCLUSIONS	The current study is the first to explore reasons for limiting drinking among individuals with HIV and how these reasons relate to alcohol involvement .
+CONCLUSIONS	This study yields a scale that can be used to assess reasons for limiting drinking among HIV-positive drinkers and provides information that can be used to enhance interventions with this population .
+CONCLUSIONS	Discussing social and lifestyle reasons for limiting drinking among less extreme drinkers may support and validate these patients ' efforts to limit engagement in heavy drinking ; discussion of impairment reasons for limiting drinking may be a way to engage dependent drinkers in efforts to decrease their alcohol consumption .
+

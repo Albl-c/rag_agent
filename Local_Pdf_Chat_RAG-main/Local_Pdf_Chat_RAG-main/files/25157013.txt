@@ -1,0 +1,15 @@
+25157013
+OBJECTIVE	Cardiovascular disease ( CVD ) and underlying atherosclerosis begin in childhood and are related to CVD risk factors .
+OBJECTIVE	This study evaluates tools and strategies to enhance adoption of new CVD risk reduction guidelines for children .
+METHODS	Thirty-two practices , recruited and supported by 2 primary care research networks , were cluster randomized to a multifaceted controlled intervention .
+METHODS	Practices were compared with guideline-based individual and composite measures for BMI , blood pressure ( BP ) , and tobacco .
+METHODS	Composite measures were constructed by summing the numerators and denominators of individual measures .
+METHODS	Preintervention and postintervention measures were assessed by medical record review of children ages 3 to 11 years .
+METHODS	Changes in measures ( pre-post and intervention versus control ) were compared .
+RESULTS	The intervention group BP composite improved by 29.5 % , increasing from 49.7 % to 79.2 % , compared with the control group ( 49.5 % to 49.6 % ; P < .001 ) .
+RESULTS	Intervention group BP interpretation improved by 61.1 % ( from 0.2 % to 61.3 % ) , compared with the control group ( 0.4 % to 0.6 % ; P < .001 ) .
+RESULTS	The assessment of tobacco exposure or use for 5 - to 11-year-olds in the intervention group improved by 30.3 % ( from 3.4 % to 49.1 % ) versus the control group ( 0.6 % to 21.4 % ) ( P = .042 ) .
+RESULTS	No significant change was seen in the BMI or tobacco composites measures .
+RESULTS	The overall composite of 9 measures improved by 13.4 % ( from 48.2 % to 69.8 % ) for the intervention group versus the control group ( 47.4 % to 55.2 % ) ( P = .01 ) .
+CONCLUSIONS	Significant improvement was demonstrated in the overall composite measure , the composite measure of BP , and tobacco assessment and advice for children aged 5 to 11 years .
+

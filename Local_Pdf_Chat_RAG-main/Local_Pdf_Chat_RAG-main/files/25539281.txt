@@ -1,0 +1,14 @@
+25539281
+OBJECTIVE	The purpose of this study was to determine parents ' knowledge about pediatric fluoroscopic procedures and potential risk from ionizing radiation before and after being given an informational brochure .
+METHODS	We reviewed responses from 120 randomly selected participants who were parents or guardians of pediatric patients undergoing diagnostic fluoroscopic examinations .
+METHODS	A questionnaire assessed participants ' knowledge of the procedure , radiation exposure , and whether their child had a prior examination before and after receiving an informational brochure .
+METHODS	In a feedback survey , participants rated the brochure .
+METHODS	A repeated measures mixed model was used to evaluate the effect of the brochure on the participants ' knowledge .
+RESULTS	Participant demographics were women ( 79 % ) , English speaking ( 99 % ) , white ( 90 % ) , and education higher than 12th grade ( 76 % ) .
+RESULTS	The median age of patients undergoing the fluoroscopic examination was 4 years .
+RESULTS	Participant knowledge increased ( p < 0.0001 ) between pre - and postbrochure ( least-squares means ) for those without a previous examination from 38.3 to 63.4 ( total test score ) and from 46.3 to 61.8 for those with a prior examination .
+RESULTS	The proportion of correct answers was higher ( p < 0.0001 ) postbrochure compared with pre-brochure in areas of examination name ( 99 % vs 93 % ) , procedure details ( 97 % vs 87 % ) ; use of radiation ( 100 % vs 68 % ) , and radiation dose comparison ( 79 % vs 25 % ) .
+RESULTS	Overall , 99 % ( 119/120 ) rated the brochure `` good '' or `` great '' ( p < 0.0001 ) .
+CONCLUSIONS	An informational brochure given to participants before their child 's fluoroscopic procedure improved their knowledge of the examination and radiation exposure .
+CONCLUSIONS	No participants refused their child 's examination .
+

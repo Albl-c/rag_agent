@@ -1,0 +1,15 @@
+24312382
+BACKGROUND	The reward value of food is partly dependent on learned associations .
+BACKGROUND	It is not yet known whether replacing sugar with non-caloric sweeteners in food is affecting long-term acceptance .
+OBJECTIVE	To determine the effect of replacing sugar with non-caloric sweeteners in a nutrient-empty drink ( soft drink ) versus nutrient-rich drink ( yoghurt drink ) on reward value after repeated exposure .
+METHODS	We used a randomized crossover design whereby forty subjects ( 15 men , 25 women ) with a mean SD age of 21 2 y and BMI of 21.5 1.7 kg/m ( 2 ) consumed a fixed portion of a non-caloric sweetened ( NS ) and sugar sweetened ( SS ) versions of either a soft drink or a yoghurt drink ( counterbalanced ) for breakfast which were distinguishable by means of colored labels .
+METHODS	Each version of a drink was offered 10 times in semi-random order .
+METHODS	Before and after conditioning the reward value of the drinks was assessed using behavioral tasks on wanting , liking , and expected satiety .
+METHODS	In a subgroup ( n = 18 ) fMRI was performed to assess brain reward responses to the drinks .
+RESULTS	Outcomes of both the behavioral tasks and fMRI showed that conditioning did not affect the reward value of the NS and SS versions of the drinks significantly .
+RESULTS	Overall , subjects preferred the yoghurt drinks to the soft drinks and the ss drinks to the NS drinks .
+RESULTS	In addition , they expected the yoghurt drinks to be more satiating , they reduced hunger more , and delayed the first eating episode more .
+RESULTS	Conditioning did not influence these effects .
+CONCLUSIONS	Our study showed that repeated consumption of a non-caloric sweetened beverage , instead of a sugar sweetened version , appears not to result in changes in the reward value .
+CONCLUSIONS	It can not be ruled out that learned associations between sensory attributes and food satiating capacity which developed preceding the conditioning period , during lifetime , affected the reward value of the drinks .
+

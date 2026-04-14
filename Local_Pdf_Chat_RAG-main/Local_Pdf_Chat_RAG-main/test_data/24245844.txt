@@ -1,0 +1,12 @@
+24245844
+OBJECTIVE	To evaluate an intervention based on implementation intention principles designed to increase uptake of colorectal cancer screening , and to examine differential efficacy by socioeconomic deprivation .
+METHODS	In England , adults aged between 60 and 69 years are invited for biennial fecal occult blood testing .
+METHODS	A test kit and an information leaflet are mailed to each individual by the `` Hubs '' that deliver the national screening program .
+METHODS	In the intervention group , three preformulated implementation intentions , based on known barriers to carrying out the test , were added to the information leaflet .
+METHODS	Over a 12-week period , each week was randomly allocated to either the intervention ( n = 12,414 invitations ) or the control condition ( n = 10,768 ) , with uptake recorded at the Hub .
+METHODS	Socioeconomic deprivation of each individual 's area of residence was categorized into tertiles .
+RESULTS	There was no overall difference in uptake between control ( 40.4 % ) and intervention ( 39.7 % ) conditions , odds ratio ( OR ) = 0.97 , 95 % confidence interval ( CI ) [ 0.91 , 1.04 ] .
+RESULTS	There was an interaction with deprivation , OR = 1.11 , 95 % CI [ 1.04 , 1.18 ] , but the positive effect observed in the lowest socioeconomic status ( SES ) tertile was small ( 35.2 % vs. 33.0 % ) , OR = 1.103 , 95 % CI [ 1.01 , 1.21 ] , and offset by a negative effect in the least deprived tertile ( 45.6 % vs. 48.2 % ) , OR = 0.90 , 95 % CI [ 0.82 , 0.99 ] .
+RESULTS	The intervention had no significant effect in the middle tertile ( 38.9 % vs. 40.8 % ) , OR = 0.92 , 95 % CI [ 0.81 , 1.04 ] .
+CONCLUSIONS	Preformulated implementation intentions did not increase overall colorectal cancer screening uptake and failed to make a sufficiently large impact on uptake among lower SES groups to merit their future use in this context .
+

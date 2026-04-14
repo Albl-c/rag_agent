@@ -1,0 +1,15 @@
+24753534
+OBJECTIVE	Although anxiety is common in children with attention-deficit/hyperactivity disorder ( ADHD ) , it is unclear how anxiety influences the lives of these children .
+OBJECTIVE	This study examined the association between anxiety comorbidities and functioning by comparing children with ADHD and no , 1 , or 2 anxiety comorbidities .
+OBJECTIVE	Differential associations were examined by current ADHD presentation ( subtype ) .
+METHODS	Children with diagnostically confirmed ADHD ( N = 392 ; 5-13 years ) were recruited via 21 pediatrician practices across Victoria , Australia .
+METHODS	Anxiety was assessed by using the Anxiety Disorders Interview Schedule for Children-IV .
+METHODS	Functional measures included parent-reported : quality of life ( QoL ; Pediatric Quality of Life Inventory 4.0 ) , behavior and peer problems ( Strengths and Difficulties Questionnaire ) , daily functioning ( Daily Parent Rating of Evening and Morning Behavior ) , and school attendance .
+METHODS	Teacher-reported behavior and peer problems ( Strengths and Difficulties Questionnaire ) were also examined .
+METHODS	Linear and logistic regression controlled for ADHD severity , medication use , comorbidities , and demographic factors .
+RESULTS	Children with 2 anxiety comorbidities ( n = 143 ; 39 % ) had poorer QoL ( effect size : -0.8 ) and more difficulties with behavior ( effect size : 0.4 ) and daily functioning ( effect size : 0.3 ) than children without anxiety ( n = 132 ; 36 % ) .
+RESULTS	Poorer functioning was not observed for children with 1 anxiety comorbidity ( n = 95 ; 26 % ) .
+RESULTS	Two or more anxiety comorbidities were associated with poorer functioning for children with both ADHD-Inattentive and ADHD-Combined presentation .
+CONCLUSIONS	Children with ADHD demonstrate poorer QoL , daily functioning and behavior when 2 anxiety comorbidities are present .
+CONCLUSIONS	Future research should examine whether treating anxiety in children with ADHD improves functional outcomes .
+

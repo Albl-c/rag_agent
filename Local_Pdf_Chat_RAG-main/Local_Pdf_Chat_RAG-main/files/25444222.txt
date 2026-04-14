@@ -1,0 +1,16 @@
+25444222
+BACKGROUND	Up to 25 % of severely injured patients develop trauma-induced coagulopathy .
+BACKGROUND	To study interventions for this vulnerable population for whom consent can not be obtained easily , the Food and Drug Administration issued regulations for emergency research with an exception from informed consent ( ER-EIC ) .
+BACKGROUND	We describe the community consultation and public disclosure ( CC/PD ) process in preparation for an ER-EIC study , namely the Control Of Major Bleeding After Trauma ( COMBAT ) study .
+METHODS	The CC/PD was guided by the four bioethical principles .
+METHODS	We used a multimedia approach , including one-way communications ( newspaper ads , brochures , television , radio , and web ) and two-way communications ( interactive in-person presentations at community meetings , printed and online feedback forms ) to reach the trials catchment area ( Denver County 's population : 643,000 and the Denver larger metro area where commuters reside : 2.9 million ) .
+METHODS	Particular attention was given to special-interests groups ( eg , Jehovah Witnesses , homeless ) and to Spanish-speaking communities ( brochures and presentations in Spanish ) .
+METHODS	Opt-out materials were available during on-site presentations or via the COMBAT study website .
+RESULTS	A total of 227 community organizations were contacted .
+RESULTS	Brochures were distributed to 11 medical clinics and 3 homeless shelters .
+RESULTS	The multimedia campaign had the potential to reach an estimated audience of 1.5 million individuals in large metro Denver area , the majority via one-way communication and 1900 in two-way communications .
+RESULTS	This resource intensive process cost more than $ 84,000 .
+CONCLUSIONS	The CC/PD process is resource-intensive , costly , and complex .
+CONCLUSIONS	Although the multimedia CC/PD reached a large audience , the effectiveness of this process remains elusive .
+CONCLUSIONS	The templates can be helpful to similar ER-EIC studies .
+

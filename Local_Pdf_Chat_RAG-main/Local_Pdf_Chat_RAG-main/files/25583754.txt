@@ -1,0 +1,10 @@
+25583754
+OBJECTIVE	To evaluate the efficacy and safety of combinations of empagliflozin/linagliptin as second-line therapy in subjects with type 2 diabetes inadequately controlled on metformin .
+METHODS	Subjects were randomized to a combination of empagliflozin 25 mg/linagliptin 5 mg ( n = 137 ) , empagliflozin 10 mg/linagliptin 5 mg ( n = 136 ) , empagliflozin 25 mg ( n = 141 ) , empagliflozin 10 mg ( n = 140 ) , or linagliptin 5 mg ( n = 132 ) as add-on to metformin for 52 weeks .
+METHODS	The primary end point was change from baseline in HbA1c at week 24 .
+RESULTS	At week 24 , reductions in HbA1c ( mean baseline 7.90-8 .02 % [ 62.8-64 .1 mmol/mol ] ) with empagliflozin/linagliptin were superior to those with empagliflozin or linagliptin alone as add-on to metformin ; adjusted mean ( SE ) changes from baseline were -1.19 % ( 0.06 ) ( -13.1 mmol/mol [ 0.7 ] ) with empagliflozin 25 mg/linagliptin 5 mg , -1.08 % ( 0.06 ) ( -11.8 mmol/mol [ 0.7 ] ) with empagliflozin 10 mg/linagliptin 5 mg , -0.62 % ( 0.06 ) ( -6.8 mmol/mol [ 0.7 ] ) with empagliflozin 25 mg , -0.66 % ( 0.06 ) ( -7.2 mmol/mol [ 0.7 ] ) with empagliflozin 10 mg , and -0.70 % ( 0.06 ) ( -7.6 mmol/mol [ 0.7 ] ) with linagliptin 5 mg ( P < 0.001 for all comparisons ) .
+RESULTS	In these groups , respectively , 61.8 , 57.8 , 32.6 , 28.0 , and 36.1 % of subjects with baseline HbA1c 7 % ( 53 mmol/mol ) had HbA1c < 7 % ( < 53 mmol/mol ) at week 24 .
+RESULTS	Efficacy was maintained at week 52 .
+RESULTS	The proportion of subjects with adverse events ( AEs ) over 52 weeks was similar across treatment arms ( 68.6-73 .0 % ) , with no hypoglycemic AEs requiring assistance .
+CONCLUSIONS	Combinations of empagliflozin/linagliptin as second-line therapy for 52 weeks significantly reduced HbA1c compared with the individual components and were well tolerated .
+

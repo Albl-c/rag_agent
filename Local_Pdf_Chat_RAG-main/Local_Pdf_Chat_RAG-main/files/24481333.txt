@@ -1,0 +1,15 @@
+24481333
+OBJECTIVE	The ability of polymer-modified coils to promote stable aneurysm occlusion after endovascular treatment is not well-documented .
+OBJECTIVE	Angiographic aneurysm recurrence is widely used as a surrogate for treatment failure , but studies documenting the correlation of angiographic recurrence with clinical failure are limited .
+OBJECTIVE	This trial compares the effectiveness of Matrix ( 2 ) polyglycolic/polylactic acid biopolymer-modified coils with bare metal coils and correlates the angiographic findings with clinical failure ( ie , target aneurysm recurrence ) , a composite end point that includes any incident of posttreatment aneurysm rupture , retreatment , or unexplained death .
+METHODS	This was a multicenter randomized noninferiority trial with blinded end point adjudication .
+METHODS	We enrolled 626 patients , divided between Matrix ( 2 ) and bare metal coil groups .
+METHODS	The primary outcome was target aneurysm recurrence at 12 3 months .
+RESULTS	At 455 days , at least 1 target aneurysm recurrence event had occurred in 14.6 % of patients treated with bare metal coils and 13.3 % of Matrix ( 2 ) ( P = .76 , log-rank test ) patients ; 92.8 % of target aneurysm recurrence events were re-interventions for aneurysms that had not bled after treatment , and 5.8 % of target aneurysm recurrence events resulted from hemorrhage or rehemorrhage , with or without retreatment .
+RESULTS	Symptomatic re-intervention occurred in only 4 ( 0.6 % ) patients .
+RESULTS	At 455 days , 95.8 % of patients with unruptured aneurysms and 90.4 % of those with ruptured aneurysms were independent ( mRS 2 ) .
+RESULTS	Target aneurysm recurrence was associated with incomplete initial angiographic aneurysm obliteration , presentation with rupture , and a larger aneurysmal dome and neck size .
+CONCLUSIONS	Tested Matrix ( 2 ) coils were not inferior to bare metal coils .
+CONCLUSIONS	Endovascular coiling of intracranial aneurysms was safe , and the rate of technical success was high .
+CONCLUSIONS	Target aneurysm recurrence is a promising clinical outcome measure that correlates well with established angiographic measurements .
+

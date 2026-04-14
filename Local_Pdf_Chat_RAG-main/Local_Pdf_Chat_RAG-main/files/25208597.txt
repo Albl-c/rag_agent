@@ -1,0 +1,15 @@
+25208597
+OBJECTIVE	Tadalafil is a potent and selective phosphodiesterase type 5 inhibitor that provides effective treatment for erectile dysfunction ( ED ) .
+OBJECTIVE	The purpose of this study was to explore the effect of a single on-demand dose of tadalafil compared to low-dose continuous administration on regional cerebral blood flow ( rCBF ) , in patients after stroke .
+METHODS	Thirty consecutive male patients ( mean age 58.3 7.9 years ) with ED and a history of stroke were included in the study .
+METHODS	The baseline single-photon emission computed tomography ( SPECT ) study was performed 15 min after iv injection of 740 MBq Tc-99m-HMPAO ( Ceretec ; GE Healthcare Ltd. .
+METHODS	Chalfont St. Giles , UK ) .
+METHODS	Fifteen randomized patients received a single dose of 20 mg tadalafil in the morning , and a second SPECT study was performed 6 h later .
+METHODS	Fifteen other patients received 5 mg of tadalafil each morning for seven consecutive days , and the second SPECT study was performed 6 h after the last dose .
+METHODS	The imaging data were evaluated using SPM software ( Wellcome Department of Cognitive Neurology , University College , London ) .
+RESULTS	Associations between any of the risk factors/comorbidities and the perfusion changes were not detected .
+RESULTS	All patients showed areas of reduced relative rCBF in the affected hemisphere after tadalafil administration compared to baseline ( P < 0.001 ) .
+RESULTS	No significant difference was found between patients on 5 mg tadalafil and 20 mg dose .
+CONCLUSIONS	Tadalafil administration after cerebral stroke may be associated with diminished blood flow to areas adjacent to the stroke .
+CONCLUSIONS	The alterations in perfusion suggest a need for caution in prescribing tadalafil to patients with a history of stroke , especially with continuous administration that may impose constant stress on the cerebral circulation .
+

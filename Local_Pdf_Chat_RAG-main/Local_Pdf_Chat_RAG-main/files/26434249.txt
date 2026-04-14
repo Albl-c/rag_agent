@@ -1,0 +1,15 @@
+26434249
+BACKGROUND	Hypertriglyceridemia is one of the risk factors for cardiovascular disease , and reduction oftriglyceride ( TG ) level is recommended in clinical practice guidelines for the treatment .
+BACKGROUND	Recently , andrographolide , a main active compound of Andrographispaniculata has been shown to possess hypolipidemic effects in animals .
+OBJECTIVE	To investigate the TG-lowering effects of A. paniculata extract ( APE ) in patients with hypertriglyceridemia ( TG 150 mg/dL ) using gemfibrozil treatment as the reference .
+METHODS	A randomized controlled clinical trial was carried out in sixty subjects with hypertriglyceridemia .
+METHODS	They were divided into three groups and treated with low dose of APE ( APE-L , andrographolide 71.64-72 .36 mg/day ) , high dose of APE ( APE-H , andrographolide 119.64-120 .36 mg/day ) , and gemfibrozil 300 mg/day .
+METHODS	The treatments were conducted for 8 weeks .
+METHODS	Guidance on lifestyle modifications was provided .
+RESULTS	The primary endpoint was the mean difference SD ( 95 % CI ) in TG levels ( baseline from the end of treatment ) , which were -3 125.6 ( -59.1 , 58.5 ) , 41.6 86.3 ( 1.2 , 82 ) , and 57.1 94.9 ( 12.7 , 101.6 ) in the APE-L , APE-H , and gemfibrozil groups , respectively .
+RESULTS	APE-H 120 mg/day and gemfibrozil 300 mg/day caused a significant reduction of TG level ( P = 0.0442 and 0.0145 , respectively ) when compared to the baseline .
+RESULTS	There was no notable difference in the safety or tolerability among the treatment groups .
+CONCLUSIONS	In patients with modest hypertriglyceridemia with lifestyle intervention , APE-H reduced the TG level comparable to the effect of gemfibrozil 300 mg/day .
+CONCLUSIONS	APE treatment was as tolerable as gemfibrozil treatment .
+CONCLUSIONS	Hence , Andrographis paniculata might be used as an alternative medicine in treating hypertriglyceridemic patients .
+

@@ -1,0 +1,9 @@
+24742970
+BACKGROUND	This is a report of a clinical trial on the therapeutic efficacy and safety of combined aliskiren and losartan ( an angiotensin II receptor blocker ( ARB ) ) versus aliskiren alone and ARB alone in non-diabetic chronic kidney disease ( CKD ) over a 3-year period .
+METHODS	This was a randomised trial in 155 patients with non-diabetic CKD comparing aliskiren ( 150 mg/day ) ( n = 52 ) versus losartan ( 100 mg/day ) ( n = 52 ) and the third group aliskiren ( 150 mg/day ) combined with losartan ( 100 mg/day ) ( n = 51 ) .
+METHODS	The trial utilised primary renal end points of eGFR < 15 ml/min or end-stage renal failure .
+RESULTS	All three groups had significant reduction of proteinuria ( p < 0.001 for all ) .
+RESULTS	The changes in eGFR , total urinary protein from baseline to each year were not significantly different between the three therapeutic groups .
+CONCLUSIONS	This study in non-diabetic CKD patients showed that combination therapy with aliskiren and ARB was as efficacious as aliskiren alone and ARB alone .
+CONCLUSIONS	There was one patient who developed a non-fatal stroke in the combined aliskiren and ARB group while the other two groups had none .
+

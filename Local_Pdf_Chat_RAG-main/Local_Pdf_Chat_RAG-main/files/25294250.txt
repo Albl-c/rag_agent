@@ -1,0 +1,13 @@
+25294250
+BACKGROUND	Oritavancin is a lipoglycopeptide antibiotic with rapid bactericidal activity against gram-positive bacteria .
+BACKGROUND	Its concentration-dependent activity and long half-life allow for single-dose treatment .
+METHODS	In a randomized , double-blind trial , adults with acute bacterial skin and skin structure infections ( ABSSSIs ) received either a single intravenous 1200-mg dose of oritavancin or 7-10 days of twice-daily vancomycin .
+METHODS	Three efficacy endpoints were tested for noninferiority : ( 1 ) primary composite endpoint at 48-72 hours ( cessation of spreading or reduction in lesion size , absence of fever , and no rescue antibiotic ) ; ( 2 ) investigator-assessed clinical cure 7-14 days after end of treatment ; and ( 3 ) 20 % reduction in lesion area at 48-72 hours .
+RESULTS	A total of 503 and 502 patients comprised the modified intent-to-treat population for oritavancin and vancomycin , respectively .
+RESULTS	All 3 efficacy endpoints met the 10 % noninferiority margin : the primary composite endpoint ( 80.1 % vs 82.9 % ; 95 % confidence interval [ CI ] , -7.5 to 2.0 ) , investigator-assessed clinical cure ( 82.7 % vs 80.5 % ; 95 % CI , -2.6 to 7.0 ) , and proportion of patients attaining 20 % reduction in lesion area ( 85.9 % vs 85.3 % ; 95 % CI , -3.7 to 5.0 ) for oritavancin vs vancomycin , respectively .
+RESULTS	Efficacy outcomes by pathogen , including methicillin-resistant Staphylococcus aureus and the frequency of adverse events , were similar between treatment groups .
+CONCLUSIONS	A single 1200-mg dose of oritavancin was noninferior to 7-10 days of vancomycin in treating ABSSSIs caused by gram-positive pathogens , and was well tolerated .
+CONCLUSIONS	Oritavancin provides a single-dose alternative to multidose therapies for the treatment of ABSSSIs .
+CONCLUSIONS	Clinical Trials Registration .
+CONCLUSIONS	NCT01252732 .
+

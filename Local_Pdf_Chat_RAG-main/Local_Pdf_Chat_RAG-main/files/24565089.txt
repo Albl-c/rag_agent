@@ -1,0 +1,18 @@
+24565089
+OBJECTIVE	Shoulder arthroscopic surgeries evolve with intense postoperative pain .
+OBJECTIVE	Several analgesic techniques have been advocated .
+OBJECTIVE	The aim of this study was to compare suprascapular and axillary nerve blocks in shoulder arthroscopy using the interscalene approach to brachial plexus blockade .
+METHODS	According to the technique used , sixty-eight patients were allocated into two groups : interscalene group ( IG , n = 34 ) and selective group ( SG , n = 34 ) , with neurostimulation approach used for both techniques .
+METHODS	After appropriate motor response , IG received 30 mL of 0.33 % levobupivacaine in 50 % enantiomeric excess with adrenalin 1:200,000 .
+METHODS	After motor response of suprascapular and axillary nerves , SG received 15 mL of the same substance on each nerve .
+METHODS	General anesthesia was then administered .
+METHODS	Variables assessed were time to perform the blocks , analgesia , opioid consumption , motor block , cardiovascular stability , patient satisfaction and acceptability .
+RESULTS	Time for interscalene blockade was significantly shorter than for selective blockade .
+RESULTS	Analgesia was significantly higher in the immediate postoperative period in IG and in the late postoperative period in SG .
+RESULTS	Morphine consumption was significantly higher in the first hour in SG .
+RESULTS	Motor block was significantly lower in SG .
+RESULTS	There was no difference between groups regarding cardiocirculatory stability and patient satisfaction and acceptability .
+RESULTS	Failure occurred in IG ( 1 ) and SG ( 2 ) .
+CONCLUSIONS	Both techniques are safe , effective , and with the same degree of satisfaction and acceptability .
+CONCLUSIONS	The selective blockade of both nerves showed satisfactory analgesia , with the advantage of providing motor block restricted to the shoulder .
+

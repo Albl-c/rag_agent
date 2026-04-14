@@ -1,0 +1,9 @@
+24225740
+OBJECTIVE	To compare the effects of a 3-week supplementation between two different mixtures of antioxidants and placebo on aerobic exercise performance in acute normobaric hypoxia .
+METHODS	Seventeen subjects were randomly assigned in a double-blind fashion to receive a broad-based antioxidants supplement containing beta-carotene , ascorbic acid , d-alpha-tocopherol-succinate , N-acetylcysteine , riboflavin , zinc , and selenium ( antioxidant capsule group [ AO group ] ) , or a combination of alpha-ketoglutaric acid ( - KG ) and 5-hydroxymethylfurfural ( 5-HMF ; CYL concentrate supplementation group [ CS group ] ) , or placebo ( PL group ) .
+METHODS	Before and after supplementation , subjects performed two incremental cycle-exercise tests until exhaustion .
+METHODS	The first test was conducted under normoxic conditions ( LA , FiO2 of 20.9 % , ~ 547 m ) and the second after the 3-week supplementation period under normobaric hypoxic conditions ( AHA , FiO2 of 12.9 % , ~ 4300m ) .
+RESULTS	In CS peak cycling performance ( peak power ) declined from LA to AHA 7.3 % ( 90 % CI : 2.2-12 .4 ) less compared with PL ( p = .04 ) and 6.7 % ( 90 % CI : 3.2-10 .2 ) less compared with AO ( p = .03 ) .
+RESULTS	Better maintenance of aerobic exercise capacity in CS was associated with an attenuated reduction in maximal heart rate in hypoxia .
+CONCLUSIONS	Aerobic exercise performance was less impaired in acute normobaric hypoxia after 3 weeks with supplementation of - KG and 5-HMF compared with a broad-based antioxidants supplement or PL .
+

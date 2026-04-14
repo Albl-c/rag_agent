@@ -1,0 +1,14 @@
+24341963
+OBJECTIVE	Compare the impact of two interventions , a web-based support and a folder support , for young persons who care for people who suffer from mental illness .
+METHODS	This study was a randomized control trial , following the CONSORT statements , which compared the impact of two interventions .
+METHODS	Primary outcome variable was stress , and secondary outcome variables were caring situation , general self-efficacy , well-being , health , and quality of life of young informal carers ( N = 241 ) .
+METHODS	Data were collected in June 2010 to April 2011 , with self-assessment questionnaires , comparing the two interventions and also to detect changes .
+RESULTS	The stress levels were high in both groups at baseline , but decreased in the folder group .
+RESULTS	The folder group had improvement in their caring situation ( also different from the web group ) , general self-efficacy , well-being , and quality of life .
+RESULTS	The web group showed increase in well-being .
+CONCLUSIONS	Young informal carers who take on the responsibility for people close to them ; suffer consequences on their own health .
+CONCLUSIONS	They live in a life-situation characterized by high stress and low well-being .
+CONCLUSIONS	This signals a need for support .
+CONCLUSIONS	The non-significant differences show that each intervention can be effective , and that it depends upon the individual 's preferences .
+CONCLUSIONS	This highlights the importance of adopting person-centered approach , in which young persons can themselves choose support strategy .
+

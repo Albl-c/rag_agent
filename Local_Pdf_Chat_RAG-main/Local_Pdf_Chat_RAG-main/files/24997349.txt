@@ -1,0 +1,11 @@
+24997349
+BACKGROUND	Psychosocial stress is accompanied by an increase in the activity of the hypothalamic-pituitary-adrenocortical ( HPA ) - axis and by an increase in food intake .
+BACKGROUND	At present , no studies have been conducted to examine the impact of a potent laboratory stress test on the chewing frequency .
+METHODS	Thirty-one healthy participants ( 14 females , mean age 27.13 ) were compared after they had fulfilled the protocol of a standardized psychosocial stress test , the Trier Social Stress Test ( TSST ) , and after a resting condition of silent reading in reference to their chewing frequency , chewing efficacy , food intake , and eating preferences .
+METHODS	As part of the design free salivary cortisol levels and heart rate variability were measured repeatedly before and after the TSST and the resting condition .
+RESULTS	After the TSST , the participants exhibited a significantly higher mean chewing frequency than after the resting condition ( F ( 2,60 ) = 3.600 , p = .035 , ( 2 ) = .107 ) .
+RESULTS	The testing condition had no influence on the amount of food intake .
+RESULTS	Following the psychosocial stress , however , the participants reported a significantly less general appetite ( Z = -3.921 , p < .001 ) and less of an appetite for eggs ( Z = -2.023 , p = .043 ) than after their resting condition .
+RESULTS	No correlation was found between the salivary cortisol response and the chewing frequency .
+CONCLUSIONS	The results indicated that psychosocial stress is associated with an increase in chewing frequency , as measured with a sound-based apparatus , and with a decrease in appetite .
+

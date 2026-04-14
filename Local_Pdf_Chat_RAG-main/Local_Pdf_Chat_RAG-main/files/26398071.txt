@@ -1,0 +1,13 @@
+26398071
+BACKGROUND	The standard therapy for women with unexplained infertility is gonadotropin or clomiphene citrate .
+BACKGROUND	Ovarian stimulation with letrozole has been proposed to reduce multiple gestations while maintaining live birth rates .
+METHODS	We enrolled couples with unexplained infertility in a multicenter , randomized trial .
+METHODS	Ovulatory women 18 to 40 years of age with at least one patent fallopian tube were randomly assigned to ovarian stimulation ( up to four cycles ) with gonadotropin ( 301 women ) , clomiphene ( 300 ) , or letrozole ( 299 ) .
+METHODS	The primary outcome was the rate of multiple gestations among women with clinical pregnancies .
+RESULTS	After treatment with gonadotropin , clomiphene , or letrozole , clinical pregnancies occurred in 35.5 % , 28.3 % , and 22.4 % of cycles , and live birth in 32.2 % , 23.3 % , and 18.7 % , respectively ; pregnancy rates with letrozole were significantly lower than the rates with standard therapy ( gonadotropin or clomiphene ) ( P = 0.003 ) or gonadotropin alone ( P < 0.001 ) but not with clomiphene alone ( P = 0.10 ) .
+RESULTS	Among ongoing pregnancies with fetal heart activity , the multiple gestation rate with letrozole ( 9 of 67 pregnancies , 13 % ) did not differ significantly from the rate with gonadotropin or clomiphene ( 42 of 192 , 22 % ; P = 0.15 ) or clomiphene alone ( 8 of 85 , 9 % ; P = 0.44 ) but was lower than the rate with gonadotropin alone ( 34 of 107 , 32 % ; P = 0.006 ) .
+RESULTS	All multiple gestations in the clomiphene and letrozole groups were twins , whereas gonadotropin treatment resulted in 24 twin and 10 triplet gestations .
+RESULTS	There were no significant differences among groups in the frequencies of congenital anomalies or major fetal and neonatal complications .
+CONCLUSIONS	In women with unexplained infertility , ovarian stimulation with letrozole resulted in a significantly lower frequency of multiple gestation but also a lower frequency of live birth , as compared with gonadotropin but not as compared with clomiphene .
+CONCLUSIONS	( Funded by the National Institutes of Health and others ; ClinicalTrials.gov number , NCT01044862 . )
+

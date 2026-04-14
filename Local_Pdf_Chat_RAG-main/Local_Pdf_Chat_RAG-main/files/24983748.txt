@@ -1,0 +1,19 @@
+24983748
+OBJECTIVE	Weight loss reduces risk factors associated with obesity .
+OBJECTIVE	However , long-term metabolic improvement remains a challenge .
+OBJECTIVE	We investigated quantitative gene expression of subcutaneous adipose tissue in obese individuals and its relationship with low calorie diet and long term weight maintenance induced changes in insulin resistance .
+METHODS	Three hundred eleven overweight and obese individuals followed a dietary protocol consisting of an 8-week low calorie diet followed by a 6-month ad libitum weight-maintenance diet .
+METHODS	Individuals were clustered according to insulin resistance trajectories assessed using homeostasis model assessment of insulin resistance ( HOMA-IR ) index .
+METHODS	Adipose tissue mRNA levels of 267 genes selected for regulation according to obesity , metabolic status and response to dieting was assessed using high throughput RT-qPCR .
+METHODS	A combination of discriminant analyses was used to identify genes with regulation according to insulin resistance trajectories .
+METHODS	Partial correlation was used to control for change in body mass index .
+RESULTS	Three different HOMA-IR profile groups were determined .
+RESULTS	HOMA-IR improved during low calorie diet in the 3 groups .
+RESULTS	At the end of the 6-month follow-up , groups A and B had reduced HOMA-IR by 50 % .
+RESULTS	In group C , HOMA-IR had returned to baseline values .
+RESULTS	Genes were differentially expressed in the adipose tissue of individuals according to groups but a single gene , CIDEA , was common to all phases of the dietary intervention .
+RESULTS	Changes in adipose tissue CIDEA mRNA levels paralleled variations in insulin sensitivity independently of change in body mass index .
+RESULTS	Overall , CIDEA was up-regulated in adipose tissue of individuals with successful long term insulin resistance relapse and not in adipose tissue of unsuccessful individuals .
+CONCLUSIONS	The concomitant change in adipose tissue CIDEA mRNA levels and insulin sensitivity suggests a beneficial role of adipose tissue CIDEA in long term glucose homeostasis , independently of weight variation .
+BACKGROUND	ClinicalTrials.gov NCT00390637 .
+

@@ -1,0 +1,15 @@
+24825870
+BACKGROUND	Artemisinin-based combination therapy ( ACT ) has become the standard of care for the treatment of uncomplicated Plasmodium falciparum malaria .
+BACKGROUND	Although several ACT regimens are approved , data guiding optimal choices of ACTs are limited .
+BACKGROUND	We compared short - and long-term outcomes in a cohort of young Ugandan children randomized to 2 leading ACTs .
+METHODS	Overall , 312 children were randomized to artemether-lumefantrine or dihydroartemisinin-piperaquine ( DP ) at the time of the first episode of uncomplicated malaria ( median age , 10.5 months ) .
+METHODS	The same treatment was given for all subsequent episodes of uncomplicated malaria and children were followed until they reached 5 years of age .
+METHODS	The cohort included a subgroup that was human immunodeficiency virus ( HIV ) infected ( n = 44 ) or HIV exposed ( n = 175 ) and prescribed trimethoprim-sulfamethoxazole ( TMP-SMX ) prophylaxis .
+METHODS	Outcomes included time to recurrent malaria following individual treatments and the overall incidences of treatments for malaria , complicated malaria , and hospitalizations .
+RESULTS	Among children not prescribed TMP-SMX prophylaxis , 4443 treatments for malaria were given over 790 person-years following randomization .
+RESULTS	Treatment with DP was associated with a lower hazard of recurrent malaria over the 84 days after treatment ( hazard ratio , 0.66 ; 95 % confidence interval [ CI ] , .61 -.70 ; P < .001 ) .
+RESULTS	Children randomized to DP had a lower incidence of all treatments for malaria ( incidence rate ratio [ IRR ] , 0.85 ; 95 % CI , .75 -.96 ; P = .01 ) , complicated malaria ( IRR , 0.12 ; 95 % CI , .04 -.39 ; P < .001 ) , and hospitalizations ( IRR , 0.31 ; 95 % CI , .13 -.77 ; P = .01 ) .
+RESULTS	Among children prescribed TMP-SMX prophylaxis , there were no significant differences in longitudinal outcomes .
+CONCLUSIONS	Compared to artemether-lumefantrine , the use of DP to treat uncomplicated malaria delayed the time to recurrent malaria and reduced the incidences of treatments for malaria , complicated malaria , and hospitalizations .
+BACKGROUND	NCT00527800 .
+

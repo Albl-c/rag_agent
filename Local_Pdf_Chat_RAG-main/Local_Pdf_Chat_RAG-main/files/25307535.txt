@@ -1,0 +1,10 @@
+25307535
+BACKGROUND	Achievement of target low-density lipoprotein ( LDL ) levels for secondary prevention is endorsed in Canadian guidelines but has been de-emphasized in the 2013 American College of Cardiology/American Heart Association coronary artery disease ( CAD ) guidelines in favor of initiation of statins or triple therapy ( antiplatelet agent , angiotensin converting enzyme inhibitor/angiotensin II receptor blocker , and statins ) .
+BACKGROUND	Our objective was to determine which of these 3 process-of-care metrics achieved within 6 months would be associated with 5-year rates of death , myocardial infarction , or stroke and thus be suitable as an end point for quality improvement studies in patients with CAD .
+METHODS	This was a cohort study that followed 448 participants for 5 years after their involvement in a 6-month secondary prevention trial .
+RESULTS	Over 5 years , 37 patients died , 23 had myocardial infarction , and 20 had stroke .
+RESULTS	Six months after randomization , 125 ( 27.9 % ) had achieved the LDL target ( 2.0 mmol/L ) , 399 ( 89.1 % ) received statins , and 256 ( 57.1 % ) received triple therapy .
+RESULTS	The 5-year composite event rate was significantly lower in patients who achieved the LDL target during the 6-month trial than in those who did not ( 8.8 % vs 17.3 % ; adjusted hazard ratio [ aHR ] , 0.52 ; 95 % confidence interval [ CI ] , 0.27-0 .99 ) , even accounting for statin use ( adjusted P = 0.038 ) .
+RESULTS	Conversely , 5-year event rates were not lower in patients taking statins at 6 months compared with those who were not ( 14.8 % vs 16.3 % ; aHR , 1.23 ; 95 % CI , 0.58-2 .61 ) or in those receiving triple therapy and those who were not ( 14.5 % vs 15.6 % ; aHR , 1.17 ; 95 % CI , 0.71-1 .94 ) .
+CONCLUSIONS	Achievement of LDL targets at 6 months is suitable as a metric for CAD quality-improvement studies ; medication use alone was not independently associated with longer term outcomes .
+

@@ -1,0 +1,14 @@
+24640441
+OBJECTIVE	To evaluate the clinical performance of adhesive restorations of resin composite and resin-modified glass-ionomer cements in primary molars .
+METHODS	This randomized clinical trial included subjects ( 5-9 year-old children ) selected at two university centers ( UFRGS and UNIFRA ) .
+METHODS	The sample consisted of 132 primary molars presenting active cavitated carious lesions ( with radiographic involvement of the inner half of the dentin ) , located on the occlusal and occlusal-proximal surface .
+METHODS	The sample was randomly divided into three groups , according to the restorative material : ( G1 ) universal restorative system ( Adper Single Bond 2 system and Filtek Z350 ) ; ( G2 ) : Resin-modified glass-ionomer cement ( Vitremer ) ; and ( G3 ) : Low shrink restorative system ( Filtek P90 ) .
+METHODS	The restorations were clinically and radiographically followed every 6 months for up to 18 months using the USPHS modified criteria for clinical evaluation .
+METHODS	Survival estimates for restoration longevity were evaluated using the Kaplan-Meier method .
+METHODS	Log-rank test ( P < 0.05 ) was used to compare the differences in the success rate according to the type of the restorative material .
+RESULTS	The type of restorative material used did not influence the longevity of the restorations .
+RESULTS	After clinical follow-up , there was no statistical difference in the rates of success for the three materials used to restore active cavitated carious lesions in primary molars .
+RESULTS	The survival rates for the follow-up were similar regarding the number of restored surfaces and the caries removal technique ( partial or complete ) .
+RESULTS	Mean estimated time of survival was 17.2 months ( 95 % CI : 16.7-17 .7 ) .
+RESULTS	Estimated survival rates of the restorations were 100 % , 98 % , 88 % and 65 % at 1 , 6 , 12 and 18 months of clinical evaluations , respectively .
+

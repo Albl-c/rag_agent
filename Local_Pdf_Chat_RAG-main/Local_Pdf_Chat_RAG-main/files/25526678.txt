@@ -1,0 +1,10 @@
+25526678
+OBJECTIVE	The retrospective comparison of test and reference treatment arms in a randomized prospective clinical trial is potentially useful in economic modeling seeking to assess the cost effectiveness of alternative therapies .
+METHODS	To enhance the credibility of such retrospective comparisons , we propose the application of the following adjustments to significance levels obtained from standard statistical methodology : ( 1 ) a significance test for the lower bound of the 95 % confidence interval for the observed difference , ( 2 ) a conservative Bonferroni method of adjustment for multiple comparisons , ( 3 ) an adjusted p-value calculated using Scheffe 's single-step method , and ( 4 ) Bayesian 95 % credibility intervals with a prior centered at zero .
+RESULTS	These adjustments were applied to data from a randomized double-blind concurrent trial ( SPD489-325 ) that established the efficacy and safety of lisdexamfetamine dimesylate ( LDX ) in children and adolescents with attention-deficit/hyperactivity disorder ( ADHD ) .
+RESULTS	Prospectively planned analyses demonstrated that the reduction in the symptoms of ADHD was significantly greater than placebo in patients treated with either LDX or the reference treatment , osmotic-release oral system methylphenidate ( OROS-MPH ) .
+RESULTS	Retrospective analyses showed that the improvement in the symptoms of ADHD was greater in patients treated with LDX than OROS-MPH .
+RESULTS	We now show that this observation remained significant after the application of the four statistical penalties .
+CONCLUSIONS	By adjusting the significance level , it is possible to compare quantitatively such retrospective results with prospectively defined comparisons .
+CONCLUSIONS	However , the qualitative level of such retrospective evidence should remain secondary to that obtained from prospectively specified comparisons in a randomized clinical trial .
+

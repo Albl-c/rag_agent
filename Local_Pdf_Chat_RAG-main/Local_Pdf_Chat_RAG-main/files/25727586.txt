@@ -1,0 +1,12 @@
+25727586
+BACKGROUND	Some children have residual amblyopia after treatment with atropine eyedrops for amblyopia due to strabismus and/or anisometropia .
+BACKGROUND	We conducted a randomized clinical trial to evaluate the effectiveness of augmenting the effect of atropine by changing the lens over the fellow eye to plano in children with residual amblyopia .
+METHODS	A total of 73 children 3 to < 8 years of age ( mean , 5.8 years ) with stable residual amblyopia ( range , 20/32 to 20/160 , mean 20/63 ( +1 ) ) were enrolled after at least 12 weeks of atropine treatment of the fellow eye .
+METHODS	Participants were randomly assigned to continuing weekend atropine alone or wearing a plano lens over the fellow eye ( while continuing atropine ) .
+METHODS	The primary outcome was assessed at 10 weeks , and participants were followed until improvement ceased .
+RESULTS	At the 10-week primary outcome visit , amblyopic-eye visual acuity had improved an average of 1.1 lines with the plano lens and 0.6 lines with atropine only ( difference adjusted for baseline visual acuity = + 0.5 line ; 95 % CI , -0.1 to +1.2 ) .
+RESULTS	At the primary outcome or later visit when the best-measured visual acuity was observed , the mean amblyopic-eye improvement from baseline was 1.9 lines with the plano lens and 0.8 lines with atropine only .
+CONCLUSIONS	When amblyopic-eye visual acuity stops improving with atropine treatment , there may be a small benefit to augmenting atropine therapy with a plano lens over the fellow eye .
+CONCLUSIONS	However , the effect was not statistically significant , and the large confidence interval raises the possibility of no benefit or a benefit larger than we observed .
+CONCLUSIONS	A larger study would be necessary to get a more precise estimate of the treatment effect .
+

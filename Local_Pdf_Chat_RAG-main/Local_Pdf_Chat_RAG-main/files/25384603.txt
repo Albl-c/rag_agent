@@ -1,0 +1,10 @@
+25384603
+OBJECTIVE	The aim of this study was to investigate the influence of perioperative N-acetylcysteine ( NAC ) administration , a known antioxidant , on the incidence of acute kidney injury ( AKI ) after off-pump coronary bypass surgery ( OPCAB ) in patients with known risk factors of AKI .
+METHODS	One hundred and seventeen patients with 1 of the following risk factors of AKI were randomized into either the control ( n = 57 ) or the NAC ( n = 60 ) group ; ( i ) preoperative serum creatinine > 1.4 mg/dL ; ( ii ) left ventricular ejection fraction < 35 % or congestive heart failure ( iii ) age > 70 years ( iv ) diabetes or ( v ) re-operation .
+METHODS	Patients in the NAC group received 150mg/kg of NAC IV bolus at anaesthetic induction followed by a continuous infusion at 150mg/kg per day for 24h .
+METHODS	AKI was diagnosed based on Acute Kidney Injury Network criteria during 48h postoperatively .
+RESULTS	The incidence of AKI was 32 % ( 19/60 ) and 35 % ( 20/57 ) in the control and the NAC group , respectively ( P = 0.695 ) .
+RESULTS	The serum concentrations of creatinine and cystatin C were similar between the groups throughout the study period .
+RESULTS	Fluid balance including the amount of blood loss and transfusion requirement were similar between the groups except the amount of postoperative urine output , which was higher in the control group compared with the NAC group ( 55281247mL vs. 49821185mL , control vs. NAC , P = 0.017 ) .
+CONCLUSIONS	Perioperative administration of NAC did not prevent the development of postoperative AKI after OPCAB in highly susceptible patients to AKI .
+

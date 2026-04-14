@@ -1,0 +1,12 @@
+25355940
+BACKGROUND	Pediatric respiratory infections caused by antibiotic-nonsusceptible Streptococcus pneumoniae ( ANSP ) continue to present an important challenge , even after introduction of 7-valent pneumococcal conjugate vaccine ( PCV7 ) .
+BACKGROUND	This randomized double-blind trial assessed the potential additional impact of PCV13 over PCV7 on reducing ANSP carriage .
+METHODS	Healthy infants were randomly assigned to receive PCV13 ( n = 932 ) or PCV7 ( n = 934 ) at ages 2 , 4 , 6 , or 12 months .
+METHODS	Eight nasopharyngeal specimens were collected by swabbing between ages 2 and 24 months .
+METHODS	S. pneumoniae isolates were serotyped and tested for antimicrobial susceptibility by the disk-diffusion method and the Etest .
+METHODS	Nasopharyngeal acquisition and prevalence of ANSP during ages 7-24 months were compared between the 2 vaccine groups .
+RESULTS	In general , new acquisition of pneumococci nonsusceptible to penicillin , erythromycin , clindamycin , penicillin plus erythromycin , and multiple drugs ( 3 antibiotics ) was significantly lower in the PCV13 group compared with the PCV7 group ; the main serotypes contributing to this significant decrease were serotype 19F , present in PCV13 and PCV7 , and serotypes 6A and 19A , present in PCV13 only .
+CONCLUSIONS	PCV13 has a significant added benefit over PCV7 in reducing carriage of ANSP .
+CONCLUSIONS	Because carriage determines transmission , these results suggest that PCV13 will provide protection against ANSP disease that exceeds protection provided by PCV7 .
+BACKGROUND	NCT00508742 .
+

@@ -1,0 +1,10 @@
+24837298
+OBJECTIVE	Proxy measures are an alternative source of data for care home residents who are unable to complete the health utility measure , but the agreement levels between residents and care home staff for the EQ-5D have not been investigated previously .
+OBJECTIVE	The objective of the present study was to examine the inter-rater agreement levels for the reporting of EQ-5D by care home residents and staff , adjusting for the impact of clustering .
+METHODS	The data consist of EQ-5D scores for 565 pairs of care home residents and proxies and quality-adjusted life-years ( QALYs ) for 248 pairs .
+METHODS	Cluster-adjusted agreement was compared for the domains , index scores , and QALYs from the EQ-5D .
+METHODS	Factors influencing index score agreement are also described .
+RESULTS	The results show poor to fair agreement at the domain level ( cluster-adjusted Kappa -0.03 to 0.26 ) and moderate agreement at the score level ( cluster-adjusted intra-class correlation coefficient [ ICC ] 0.44-0 .50 ) and for QALYs ( cluster-adjusted ICC 0.59 ) .
+RESULTS	A higher likelihood of depression and lower cognitive impairment were both associated with smaller discrepancy between proxy and self-completed scores .
+CONCLUSIONS	Proxies appear to be an acceptable source of data for index scores and QALYs but may be less reliable if individual domains are considered .
+

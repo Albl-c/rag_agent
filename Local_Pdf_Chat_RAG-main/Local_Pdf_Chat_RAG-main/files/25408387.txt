@@ -1,0 +1,14 @@
+25408387
+OBJECTIVE	The aim of this study was to investigate the significance of the combined use of BMI and AEC in reducing the radiation dose of CT volume scans of the lumbar spine .
+METHODS	A prospective study was performed to continuously collect data from 50 patients ( age range from 19 to 60 years , male versus female 20/30 ) whose BMIs were less than 25 kg/m <formula> ^ { 2 } </formula> ( group A ) and 50 patients ( age range from 21 to 82 years , male versus female 24/26 ) whose BMIs were equal to or more than 25 kg/m <formula> ^ { 2 } </formula> ( group B ) .
+METHODS	The 50 patients in each group were randomly divided into 5 subgroups with each subgroup having lower radiation dose from subgroup 1 to 5 .
+METHODS	All the patients were performed lumbar spiral CT scans ( GE LightSpeed VCT 64-slice scanner ) and the scan parameters were different in different subgroups .
+METHODS	Volume CT dose index ( CTDIvol ) was recorded .
+METHODS	The qualities of the images were graded .
+METHODS	The one-way ANOVA and Kruskal-Wallis test were done .
+RESULTS	Both in group A and B , there were significant differences in CTDIvol among the 5 subgroups ( P < 0.001 ) .
+RESULTS	The quality of the images in the 5 subgroups of group A did n't show statistical difference .
+RESULTS	The standard deviation ( SD ) and signal to noise ratio ( SNR ) values of the L4-5 psoas major muscles in subgroup 5 of group B was statistical different from the other 4 subgroups ( P < 0.01 ) .
+CONCLUSIONS	Use of BMI combined with AEC reduces radiation dosage , without compromising the image quality .
+CONCLUSIONS	For patients in group A and group B , parameters of subgroup 5 and subgroup 4 may respectively be applied for lower dose CT scanning .
+

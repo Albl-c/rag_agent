@@ -1,0 +1,18 @@
+25012765
+BACKGROUND	Cumulative evidence from epidemiological , preclinical and clinical studies suggests estrogens may have psychoprotective effects in schizophrenic patients .
+BACKGROUND	Selective Estrogen Receptor Modulators could have therapeutic benefits in schizophrenia for both sexes without being hazardous to gynecological tissues or having feminizing effects .
+BACKGROUND	Few studies have been conducted regarding the effects of raloxifene on postmenopausal women suffering from schizophrenia .
+BACKGROUND	We conducted this placebo-controlled trial to compare the add-on effect of raloxifene to risperidone versus risperidone with placebo .
+METHODS	This was an 8-week , parallel-group , placebo-controlled trial undertaken at two universities affiliated psychiatric Hospitals in Iran .
+METHODS	Forty-six postmenopausal women with the definite diagnosis of schizophrenia were enrolled in the study .
+METHODS	Patients received risperidone ( 6 mg/day in 3 divided doses ) combined with either placebo ( N = 23 ) or 120 mg/day of raloxifene ( N = 23 ) for 8 weeks .
+METHODS	Patients were assessed by a psychiatrist at baseline and at 2 and 8 weeks after the start of medical therapy .
+METHODS	Efficacy was defined as the change from baseline to endpoint in score on Positive and Negative Syndrome Scale ( PANSS ) .
+RESULTS	For PANSS scores , the main effect comparing two types of intervention was not significant [ F ( 1 , 48 ) = 1.77 , p = 0.18 ] .
+RESULTS	For positive subscale scores , there was marginal significant interaction between intervention type and time [ F ( 2 , 47 ) = 2.93 , p = 0.06 ] and there was substantial main effect for time [ F ( 2 , 47 ) = 24.39 , p = 0.001 ] within both groups showing reduction in positive subscale scores across the three time periods .
+RESULTS	In addition , the main effect comparing two types of intervention was significant [ F ( 1 , 48 ) = 3.78 , p = 0.02 ] .
+RESULTS	On the other hand , for negative subscale scores , the main effect comparing two types of intervention was not significant [ F ( 1 , 48 ) = 1.43 , p = 0.23 ] .
+RESULTS	For general subscale scores , the main effect comparing two types of intervention was not significant [ F ( 1 , 48 ) = 0.03 , p = 0.86 ] .
+CONCLUSIONS	According to our findings , raloxifene as an adjunctive treatment to risperidone was only superior in improvement of positive symptoms and it was not effective in treating negative and general psychopathology symptoms .
+BACKGROUND	The trial was registered at the Iranian registry of clinical trials : IRCT201205131556N42 .
+

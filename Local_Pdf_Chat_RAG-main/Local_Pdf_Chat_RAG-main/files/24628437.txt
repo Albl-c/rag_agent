@@ -1,0 +1,16 @@
+24628437
+OBJECTIVE	Compare the treatment outcome after scaling and root-planing using local anesthesia gel or injected local anesthesia .
+METHODS	Thirty-eight patients with periodontitis and good general health were included in a randomized , single-blind , split-mouth clinical trial .
+METHODS	Probing depths and clinical attachment levels were recorded at baseline and 6weeks after treatment .
+METHODS	Performed treatment procedures were scaling and root planing using two types of local anesthesia for separate treatment appointments .
+METHODS	Anesthetics used were intra-pocket lidocaine and prilocaine gel ( 2.5 % each ) and injected articaine ( 1:100,000 adrenaline ) .
+METHODS	Type of anesthesia for first appointment was randomized and switched for second appointment .
+METHODS	Patients ' pain perception and anesthesia acceptance were recorded on questionnaires .
+RESULTS	No influence of applied type of anesthesia could be detected for change of probing pocket depths and clinical attachment level ( p > 0.05 ) .
+RESULTS	These findings are valid even for deeper pockets .
+RESULTS	Gel-group had significant higher intra-operative pain perception .
+RESULTS	In retrospect 69 % of patients favored gel .
+CONCLUSIONS	Treatment outcome is not compromised by use of anesthesia gel in comparison to injected anesthesia .
+CONCLUSIONS	The same beneficial results for probing pocket depths and clinical attachment gain could be detected .
+CONCLUSIONS	The majority of patients prefer local anesthesia gel despite a slightly greater procedural discomfort .
+

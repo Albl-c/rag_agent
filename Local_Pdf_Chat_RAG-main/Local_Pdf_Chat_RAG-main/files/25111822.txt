@@ -1,0 +1,13 @@
+25111822
+OBJECTIVE	Functional near-infrared spectroscopy ( fNIRS ) is an emerging technique for the in vivo assessment of functional activity of the cerebral cortex as well as in the field of brain-computer interface ( BCI ) research .
+OBJECTIVE	A common challenge for the utilization of fNIRS in these areas is a stable and reliable investigation of the spatio-temporal hemodynamic patterns .
+OBJECTIVE	However , the recorded patterns may be influenced and superimposed by signals generated from physiological processes , resulting in an inaccurate estimation of the cortical activity .
+OBJECTIVE	Up to now only a few studies have investigated these influences , and still less has been attempted to remove/reduce these influences .
+OBJECTIVE	The present study aims to gain insights into the reduction of physiological rhythms in hemodynamic signals ( oxygenated hemoglobin ( oxy-Hb ) , deoxygenated hemoglobin ( deoxy-Hb ) ) .
+METHODS	We introduce the use of three different signal processing approaches ( spatial filtering , a common average reference ( CAR ) method ; independent component analysis ( ICA ) ; and transfer function ( TF ) models ) to reduce the influence of respiratory and blood pressure ( BP ) rhythms on the hemodynamic responses .
+RESULTS	All approaches produce large reductions in BP and respiration influences on the oxy-Hb signals and , therefore , improve the contrast-to-noise ratio ( CNR ) .
+RESULTS	In contrast , for deoxy-Hb signals CAR and ICA did not improve the CNR .
+RESULTS	However , for the TF approach , a CNR-improvement in deoxy-Hb can also be found .
+CONCLUSIONS	The present study investigates the application of different signal processing approaches to reduce the influences of physiological rhythms on the hemodynamic responses .
+CONCLUSIONS	In addition to the identification of the best signal processing method , we also show the importance of noise reduction in fNIRS data .
+

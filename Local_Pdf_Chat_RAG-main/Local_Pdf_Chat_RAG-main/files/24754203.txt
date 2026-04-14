@@ -1,0 +1,13 @@
+24754203
+BACKGROUND	During maneuvering , fighter pilots experience loads of up to 50-70 kg on their necks .
+BACKGROUND	Neck disorders are common and have been linked to impairment in muscle control .
+BACKGROUND	We conducted an intervention study introducing targeted training for 24 wk that reduced neck pain .
+BACKGROUND	The current study reports the results of the secondary objective , which was to increase the understanding of possible mechanisms underlying such neck pain and its intervention-related relief .
+METHODS	In a parallel , single-blinded , randomized controlled study , 55 F-16 pilots were evaluated at baseline and randomized to a control group ( CG ; N = 28 ) or training group ( TG ; N = 27 ) .
+METHODS	Postural control was tested in four different settings : Romberg with open and closed eyes , unilateral stance , and perturbation .
+METHODS	Maximal voluntary contraction and force steadiness was measured for shoulder elevation .
+RESULTS	At follow-up , there was a significant between-group difference in the Romberg test with closed eyes only ( 95 % confidence ellipse area ; CG : 761 + / - 311 mm2 ; TG : 650 + / - 405 mm2 ) .
+RESULTS	Prior to randomization , there were no significant differences in postural control and steadiness between 30 pilots who experienced neck pain within the previous 3 mo and 25 pilots without such pain .
+CONCLUSIONS	Impaired postural control and steadiness may only be quantifiable in individuals experiencing acute neck pain of certain intensity , and there may be a ceiling effect in the ability to improve these parameters .
+CONCLUSIONS	For individuals with highly developed physiological capacity , a battery of tests with more stringent demands should be considered , e.g. , increased number of repetitions , prolonged duration of the tests , or testing with eyes closed .
+

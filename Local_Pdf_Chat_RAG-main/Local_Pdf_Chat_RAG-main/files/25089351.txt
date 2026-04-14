@@ -1,0 +1,14 @@
+25089351
+OBJECTIVE	To determine the influence of omega-3 supplementation on vitreous vascular endothelial growth factor A ( VEGF-A ) levels in patients with exudative age-related macular degeneration ( wet AMD ) receiving intravitreal anti-VEGF treatment .
+METHODS	Prospective , randomized , open-label , single-center , clinical trial , consecutive interventional case series .
+METHODS	The study included 3 cohorts with wet AMD and a control group with epiretinal membrane or macular hole .
+METHODS	Twenty wet AMD patients being treated with anti-VEGF were randomized to daily supplementation of antioxidants , zinc , and carotenoids with omega-3 fatty acids ( docosahexaenoic acid and eicosapentaenoic acid ; group 1 , n = 10 ) or without omega-3 fatty acids ( group 2 , n = 10 ) .
+METHODS	They were compared with an anti-VEGF treatment-nave wet AMD group ( group 3 , n = 10 ) and an epiretinal membrane or macular hole group ( group 4 , n = 10 ) .
+METHODS	Primary outcome was vitreal VEGF-A levels ( at the time of anti-VEGF injection ) .
+METHODS	Secondary outcomes were plasma VEGF-A and central foveal thickness .
+METHODS	Patients with new submacular hemorrhage or any other treatment within 3 months were excluded .
+METHODS	Final analyses included 9 , 6 , 7 , and 8 patients in groups 1 through 4 , respectively .
+RESULTS	Patients receiving omega-3s ( group 1 ) had significantly lower levels of vitreal VEGF-A ( 141.11 61.89 pg/mL ) when compared with group 2 ( 626.09 279.27 pg/mL ; P = .036 ) and group 3 ( 735.48 216.43 pg/mL ; P = .013 ) , but similar levels to group 4 ( 235.81 33.99 pg/mL ; P = .215 ) .
+RESULTS	All groups showed similar values for plasma VEGF-A and central foveal thickness measurements .
+CONCLUSIONS	This study demonstrated that omega-3 supplementation combined with anti-VEGF treatment is associated with decreased vitreal VEGF-A levels in wet AMD patients .
+

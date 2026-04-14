@@ -1,0 +1,13 @@
+25522928
+OBJECTIVE	The purpose of this study was to identify the effects of water-based exercises on the physical functions and quality of life ( QOL ) in community-dwelling elderly people with history of falling .
+METHODS	Participants were randomly assigned to the water-based exercise group ( n = 34 ) or land-based exercise groups ( n = 32 ) .
+METHODS	To identify the effects on physical functions , muscle strength , flexibility , and mobility were measured .
+METHODS	QOL and fear of falling were evaluated using the Short Form 36-item questionnaire and the modified falls efficacy scale ( M-FES ) .
+METHODS	The measurements were performed before and after the 10-week training period .
+RESULTS	Within-group analysis indicated that hip abduction and adduction strength improved significantly in both groups ( p = 0.005 ; p = 0.007 ) .
+RESULTS	However , no statistically significant within-group differences were found in the back scratch test ( p = 0.766 ) and chair sit-and-reach test ( p = 0.870 ) .
+RESULTS	QOL was significantly different in both groups ( health transition : p = 0.014 , physical functioning : p < 0.001 , role physical : p < 0.001 , role emotional : p = 0.002 , bodily pain : p < 0.001 , vitality : p < 0.001 , and mental health : p < 0.001 ) .
+RESULTS	There was a significant difference in the M-FES in both groups ( p = 0.040 ) .
+CONCLUSIONS	These results indicate that water-based exercises are beneficial to improve the QOL , as well as physical activities , of community-dwelling elderly compared with land-based exercise .
+CONCLUSIONS	Water-based exercises would be useful to improve physical and psychological health in the elderly people with history of falling .
+

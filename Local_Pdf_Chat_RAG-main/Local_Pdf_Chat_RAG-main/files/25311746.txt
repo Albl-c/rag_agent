@@ -1,0 +1,14 @@
+25311746
+BACKGROUND	We describe the organization of a prospective , randomized , multicenter trial comparing the effectiveness of open popliteal artery aneurysm repair ( OPAR ) and endovascular popliteal artery aneurysm repair ( EPAR ) of asymptomatic popliteal artery aneurysms ( PAAs ) as an example for how to use the Vascular Quality Initiative ( VQI ) framework .
+BACKGROUND	Given that many centers participate in the VQI , this model can be used to perform multicenters ' prospective trials on very modest budget .
+METHODS	VQI prospectively collects data on many vascular procedures .
+METHODS	These data include many important perioperative , intraoperative , and postoperative details regarding both patients and their procedures .
+METHODS	We describe a study where minimal changes to the collected data by participating centers can provide level-1 evidence regarding a significant clinical question .
+METHODS	Data will be collected using modified VQI forms within the existing VQI data reporting structure .
+METHODS	We plan to enroll 148 patients with asymptomatic PAAs into the open and endovascular surgery cohorts .
+METHODS	Patients from participating VQI centers will be randomized 1:1 to either OPAR or EPAR and will be followed for an average of 2.5 years .
+METHODS	Our primary hypothesis is that major adverse limb event-free survival is lower in the EPAR cohort and that EPAR is associated with more secondary interventions , improved quality of life , and decreased length of stay .
+METHODS	The budget for this trial is fixed at $ 10,000 / year for the course of the study , and the trial is judged to be feasible because of the functionality of the VQI platform .
+CONCLUSIONS	Using the existing VQI infrastructure , Open versus Endovascular Repair of Popliteal Artery Aneurysm will provide level 1 data for PAA treatment on a modest budget .
+CONCLUSIONS	The proposed trial has an adequately powered comparative design that will use objective performance goals to describe limb-related morbidity and procedural reintervention rates .
+

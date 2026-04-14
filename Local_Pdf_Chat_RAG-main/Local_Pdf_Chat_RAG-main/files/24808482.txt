@@ -1,0 +1,15 @@
+24808482
+BACKGROUND	Management of moderate acute malnutrition ( MAM ) is , currently , focused on food supplementation approaches .
+BACKGROUND	However , the sustainability of these strategies remains weak in low - and middle-income countries .
+BACKGROUND	In food-secure settings , an educational/behavioral intervention could be an alternative for improving MAM management .
+OBJECTIVE	This study compared the effectiveness of weekly context-appropriate child-centered counseling ( CCC ) , with an improved corn-soy blend [ corn-soy blend with added micronutrients ( CSB + + ) ] or a locally produced ready-to-use supplementary food ( RUSF ) , in treating MAM through first-line rural health services .
+METHODS	We used a cluster randomized controlled trial design with 3 arms , involving 18 rural health centers ( 6 by arm ) and children aged 6-24 mo with uncomplicated MAM .
+METHODS	In the first arm ( CCC ) , trained health workers provided weekly personalized counseling to caretakers .
+METHODS	In the 2 other arms , children received weekly either 455 g CSB + + or 350 g locally produced soy-based RUSF .
+METHODS	Both food supplements provided 250 kcal/d .
+RESULTS	The recovery rate after 3 mo of treatment was significantly lower with CCC ( 57.8 % ) than with CSB + + ( 74.5 % ) and RUSF ( 74.2 % ) ( P < 0001 ) .
+RESULTS	Mothers ' attendance at health facilities was also substantially lower in the CCC arm ( P < 0001 ) ; this arm had a high defaulter rate ( P < 0.003 ) .
+RESULTS	When the analysis was adjusted for attendance , we did not find a significant difference between the 3 arms , with incidence rate ratios of 1.14 ( 95 % CI : 0.99 , 1.31 ) and 1.13 ( 95 % CI : 0.98 , 1.30 ) for the CSB + + and RUSF arms , respectively , compared with the CCC arm .
+CONCLUSIONS	Whereas supplement-based treatment of MAM was found to be more effective than the provision of CCC , we hypothesize that appropriate and specific nutrition counseling centered on children 's needs , through primary health facilities , might be an alternative strategy for MAM treatment in rural food-secure areas , provided that attendance at counseling sessions by the caregiver is ensured .
+CONCLUSIONS	This trial was registered at clinicaltrials.gov as NCT01115647 .
+

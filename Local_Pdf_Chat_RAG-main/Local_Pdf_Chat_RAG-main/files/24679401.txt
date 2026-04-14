@@ -1,0 +1,13 @@
+24679401
+BACKGROUND	Research suggests that people with bipolar disorder may be highly motivated to attain dominance and may over-estimate their social power ( Johnson and Carver , 2012 ) .
+BACKGROUND	This manic temperament may provide an adaptive advantage in the pursuit of dominance and leadership ( Akiskal and Akiskal , 1992 ) .
+BACKGROUND	It was hypothesized that people at high risk for bipolar disorder , as defined by the Hypomanic Personality Scale ( HPS ) , would fail to assume a submissive role when it was appropriate to do so .
+METHODS	Participants ( 81 undergraduates ) completed an image description task with a confederate .
+METHODS	Participants were randomly assigned to interact with a confederate who assumed one of three nonverbal postures : dominant ( expanded ) , neutral , or submissive ( constricted ) .
+METHODS	Nonverbal dominance behavior was defined as the rate at which participants expanded their body span during the task .
+RESULTS	Consistent with hypotheses , an ANOVA indicated an interaction of Mania risk x Dominance condition on body expansion .
+RESULTS	Whereas participants with low mania risk ( HPS scores ) adapted complementary behavior in response to the confederate , participants with high mania risk demonstrated a consistently dominant ( expanded ) nonverbal posture .
+CONCLUSIONS	A major limitation of this study is the use of an analog measure of mania risk in place of clinical diagnoses .
+CONCLUSIONS	In this experiment , participants at high risk for mania maintained a dominant posture even when submissiveness would have been more appropriate .
+CONCLUSIONS	It is argued that persistent dominance behavior may play an important role in the interpersonal interactions of individuals at risk for bipolar disorder .
+

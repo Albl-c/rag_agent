@@ -1,0 +1,12 @@
+24299323
+BACKGROUND	Pantoprazole magnesium ( pantoprazole-Mg ) may display extended inhibition of the proton pump with the potential for improved clinical efficacy in gastro-oesophageal reflux disease ( GERD ) .
+OBJECTIVE	To compare the efficacy of pantoprazole-Mg and esomeprazole in GERD .
+METHODS	Gastro-oesophageal reflux disease ( Los Angeles grades A-D ) patients were randomised to 4weeks of treatment with pantoprazole-Mg ( n = 290 ) or esomeprazole ( n = 288 ) , both 40mg once daily , in this multicentre ( 14 Brazilian sites in 9 cities ) , double-blind study , with an additional 4weeks ' treatment in nonresponding patients .
+METHODS	Severity of oesophagitis ( at endoscopy ) and GERD-related symptoms ( ReQuest-GI ) were assessed .
+METHODS	The primary end point was the proportion of patients in complete remission ( ReQuest-GI score < 1.73 plus endoscopic healing ) at week 4 .
+RESULTS	Complete remission occurred in 61 % of patients in each treatment group at 4weeks ( primary endpoint ) and in 81 % and 79 % of patients in the pantoprazole-Mg and esomeprazole groups at 8weeks , with no significant differences .
+RESULTS	Mucosal healing rates were high and not significantly different .
+RESULTS	At 8weeks , symptom relief with pantoprazole-Mg was significantly greater than that with esomeprazole ( 91.6 % vs. 86.0 % , P = 0.0370 ) because of continued improvement in symptoms with pantoprazole-Mg from week 4 to week 8 ( P = 0.0206 ) .
+CONCLUSIONS	Pantoprazole-Mg 40mg was at least as effective as esomeprazole 40mg for complete remission and the mucosal healing rate was high .
+CONCLUSIONS	Symptom relief with pantoprazole-Mg continued to improve from 4 to 8weeks and was greater than that with esomeprazole at week 8 , suggesting an extended period of treatment effect ( ClinicalTrials.gov identifier : NCT01132638 ) .
+

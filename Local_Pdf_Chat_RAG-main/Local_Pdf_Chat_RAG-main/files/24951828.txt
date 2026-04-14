@@ -1,0 +1,15 @@
+24951828
+BACKGROUND	Noroviruses are the most important viral causes of gastroenteritis-related morbidity and mortality .
+BACKGROUND	A randomized , double-blind , placebo-controlled study evaluated an adjuvanted bivalent intramuscular norovirus virus-like particle ( VLP ) vaccine .
+METHODS	Forty-eight adults aged 18-49 years received either 2 doses containing genotype GI .1 VLP and a consensus GII .4 VLP or 2 doses of placebo .
+METHODS	Doses ( 5 g , 15 g , 50 g , or 150 g of each VLP ) were administered 4 weeks apart in the first stage .
+METHODS	Subsequently , 54 adults , aged 18-49 ( n = 16 ) , 50-64 ( n = 19 ) , and 65-85 ( n = 19 ) years , received 2 doses of vaccine containing 50 g of each VLP .
+METHODS	Total and class-specific antibody responses , as well as histoblood group antigen ( HBGA ) blocking antibody responses , were measured before and after each dose .
+RESULTS	Local reactions were mainly injection site pain/tenderness , with no reported fever or vaccine-related serious adverse events .
+RESULTS	One dose of vaccine containing 50 g of each VLP increased GI .1 geometric mean titers ( GMTs ) by 118-fold , 83-fold , and 24-fold and increased GII .4 GMTs by 49-fold , 25-fold , and 9-fold in subjects aged 18-49 , 50-64 , and 65-83 years , respectively .
+RESULTS	Serum antibody responses peaked at day 7 after the first dose , with no evidence of boosting following a second dose .
+RESULTS	Most subjects achieved HBGA-blocking antibody titers of 200 .
+CONCLUSIONS	The vaccine was well tolerated and immunogenic .
+CONCLUSIONS	Rapid immune response to a single dose may be particularly useful in military personnel and travelers and in the control of outbreaks .
+CONCLUSIONS	Clinical Trials Registration.NCT01168401 .
+

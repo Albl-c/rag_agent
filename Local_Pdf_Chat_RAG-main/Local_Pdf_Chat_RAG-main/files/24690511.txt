@@ -1,0 +1,16 @@
+24690511
+BACKGROUND	The present article presents the protocol for a randomised controlled trial to test the effectiveness of a group-based self-management support programme for recently diagnosed type 2 diabetes mellitus ( T2DM ) patients ( one to three years post-diagnosis ) and their partners .
+BACKGROUND	The course aims to support T2DM patients and their partners in successfully integrating diabetes care into their daily lives and hereby enhance self-management and diabetes-specific health-related quality of life .
+BACKGROUND	The content of the course is based on the Common-Sense Model of Self-Regulation ( CSM ) .
+BACKGROUND	Furthermore , principles from the Social Cognitive Theory ( SCT ) and social support theories are integrated .
+METHODS	We aim to recruit 160 recently diagnosed T2DM patients and their partners from general practices in six different regions in the Netherlands .
+METHODS	Patients need to be diagnosed with T2DM for one to three years and have to experience some degree of diabetes-related difficulties , as measured with a three-item screener .
+METHODS	Participating patients and their partners are randomly allocated to the intervention or control condition .
+METHODS	Participants in the intervention condition receive three monthly group sessions and a booster session three months later .
+METHODS	Participants in the control condition receive a single information meeting .
+METHODS	Data will be collected at baseline ( T0 ) , directly after the programme ( T1 ) and six months post-programme ( T2 ) , including : self-management , diabetes-specific health-related quality of life , illness perceptions , attitudes , social support and empowerment .
+METHODS	A three-level multilevel model will be used to compare change-scores between the conditions ( intervention/control ) on each outcome .
+CONCLUSIONS	Our study will be the first to determine whether a group-based support programme based on the CSM is effective in enhancing self-management and diabetes-specific health-related quality of life in recently diagnosed T2DM patients .
+CONCLUSIONS	The important role of patients ' partners in effective diabetes care is also acknowledged in the study .
+BACKGROUND	Netherlands National Trial Register ( NTR ) NTR3302 .
+

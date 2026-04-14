@@ -1,0 +1,21 @@
+25253679
+BACKGROUND	Although Muslim diabetic patients may be aware of their religious exemption from fasting , many still fast and adjust their medication regimens accordingly .
+BACKGROUND	Pharmacists have a significant potential to identify and prevent harm from medication misuse in Ramadan .
+OBJECTIVE	This study examines Egyptian pharmacists ' knowledge regarding management of diabetes during Ramadan .
+OBJECTIVE	It also explores pharmacists ' willingness to attend a 1 day workshop on medication regimen adjustment during Ramadan .
+METHODS	Community pharmacies throughout Alexandria , Egypt .
+METHODS	A cross-sectional study using a pretested self-administered survey was conducted among a random sample of community pharmacists .
+METHODS	The survey included three knowledge questions relevant to counseling diabetic patients during Ramadan .
+METHODS	Questions covered the recommended timing and dosing for metformin and insulin as well as the safe blood glucose range required for diabetic patients to safely continue their fast .
+METHODS	Using logistic regression , a model was estimated to predict pharmacists ' willingness to attend a workshop on the adjustment of medication regimens during Ramadan .
+METHODS	Content analysis was used to analyze pharmacists ' answers to the question concerning what they would like the workshop to cover .
+METHODS	Pharmacists ' aggregate scores for all three diabetes management knowledge questions and pharmacists ' willingness to attend a workshop on the adjustment of medication regimens during Ramadan .
+RESULTS	Ninety three percent of the 298 approached pharmacists agreed to participate .
+RESULTS	Forty three pharmacists ( 15.9 % ) did not know the correct answer to any question , 118 ( 43.7 % ) 24 answered one correctly , 86 ( 31.9 % ) answered two correctly and only 23 ( 8.5 % ) answered all 25 three correctly .
+RESULTS	Confidence in therapeutic knowledge regarding medication regimen 26 adjustment during Ramadan was not associated with the pharmacists ' knowledge of diabetes management during Ramadan .
+RESULTS	One hundred seventy five ( 63.6 % ) pharmacists wanted to attend a workshop on adjusting medication regimens during Ramadan .
+RESULTS	This was significantly associated with pharmacists being Muslim ( OR 3.52 , CI 1.70-7 .27 ) and of younger age ( OR 30 = 0.98 , CI 0.96-0 .99978 ) .
+RESULTS	Pharmacists offered specific content and communication process 31 suggestions for the workshop content .
+CONCLUSIONS	This study identifies variability among community pharmacists ' knowledge of diabetes management during Ramadan .
+CONCLUSIONS	It also shows willingness among the majority of pharmacists to learn more about the topic .
+

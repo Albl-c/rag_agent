@@ -1,0 +1,13 @@
+24273046
+BACKGROUND	The GeparQuattro study showed that adding capecitabine or prolonging the duration of anthracycline-taxane-based neoadjuvant chemotherapy from 24 to 36 weeks did not increase pathological complete response ( pCR ) rates .
+BACKGROUND	Trastuzumab-treated patients with HER2-positive disease showed a higher pCR rate than patients with HER2-negative disease treated with chemotherapy alone .
+BACKGROUND	We here present disease-free ( DFS ) and overall survival ( OS ) analyses .
+METHODS	Patients ( n = 1495 ) with cT 3 tumors , or negative hormone-receptor status , or positive hormone-receptor and clinically node-positive disease received four times epirubicin/cyclophosphamide and were thereafter randomly assigned to four times docetaxel ( Taxotere ) , or four times docetaxel/capecitabine over 24 weeks , or four times docetaxel followed by capecitabine over 36 weeks .
+METHODS	Patients with HER2-positive tumors received 1 year of trastuzumab , starting with the first chemotherapy cycle .
+METHODS	Follow-up was available for a median of 5.4 years .
+RESULTS	Outcome was not improved for patients receiving capecitabine ( HR 0.92 ; P = 0.463 for DFS and HR 93 ; P = 0.618 for OS ) as well as for patients receiving 36 weeks of chemotherapy ( HR 0.97 ; P = 0.818 for DFS and HR 0.97 ; P = 0.825 for OS ) .
+RESULTS	Trastuzumab-treated patients with HER2-positive disease showed similar DFS ( P = 0.305 ) but a significantly better adjusted OS ( P = 0.040 ) when compared with patients with HER2-negative disease treated with chemotherapy alone .
+RESULTS	Recorded long-term cardiac toxicity was low .
+CONCLUSIONS	Long-term results , similar to the results of pCR , do not support the use of capecitabine in the neoadjuvant setting in addition to an anthracycline-taxane-based chemotherapy .
+CONCLUSIONS	However , the results support previous data showing a benefit of trastuzumab as predicted by higher pCR rates .
+

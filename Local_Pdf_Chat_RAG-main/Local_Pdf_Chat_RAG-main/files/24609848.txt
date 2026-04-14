@@ -1,0 +1,11 @@
+24609848
+BACKGROUND	Biospecimen collection from diverse populations can advance cancer disparities research , but is currently underrepresented .
+METHODS	We partnered with a community-based clinic serving Cantonese-speaking Chinese Americans to develop and revise an educational seminar on biospecimen collection .
+METHODS	Through a randomized controlled trial ( n = 395 ) , the intervention seminar was compared with a control seminar ( cancer prevention ) on change in willingness to donate biospecimens .
+RESULTS	At baseline , many were willing to donate a biospecimen ( saliva , urine , hair , toenails , blood , unused cancerous tissue ) whether healthy or hypothetically had cancer .
+RESULTS	Also , many would donate because future generations would benefit , and few had concerns about donation .
+RESULTS	In logistic regression analyses , there was an intervention effect for willingness to donate : urine if had cancer [ OR , 2.2 ; 95 % confidence interval ( CI ) , 1.3-3 .7 ] , toenails if healthy ( OR , 2.1 ; 95 % CI , 1.4-3 .2 ) or had cancer ( OR , 2.3 ; 95 % CI , 2.0-2 .7 ) , hair if healthy ( OR , 1.8 ; 95 % CI , 1.3-2 .5 ) or had cancer ( OR , 2.8 ; 95 % CI , 1.9-4 .0 ) , and unused cancerous tissue ( OR , 1.8 ; 95 % CI , 1.2-2 .9 ) .
+RESULTS	There was also an intervention effect for donating because future generations would benefit ( OR , 2.0 ; 95 % CI , 1.4-3 .0 ) , and this attitude was a strong independent predictor for willingness to donate all biospecimens , whether healthy or had cancer ( OR , 2.9-4 .2 ) .
+CONCLUSIONS	Cantonese-speaking Chinese American participants of an educational seminar on biospecimen collection showed greater increases in willingness to donate biospecimens and donating for the benefit of future generations , than participants who attended a control seminar .
+CONCLUSIONS	Donating for the benefit of future generations is a theme that should be incorporated in messages that encourage biospecimen donation for Chinese Americans .
+

@@ -1,0 +1,11 @@
+24303967
+BACKGROUND	In this study we hypothesized that signs of atypical atrial activation would be associated with cardiac resynchronization therapy ( CRT ) response in patients with mildly symptomatic heart failure ( CHF ) , left ventricular dysfunction , and wide QRS complex .
+METHODS	Patients included in the CRT-D arm in MADIT-CRT were studied ( n = 892 ) .
+METHODS	Unfiltered signal-averaged P waves were analyzed to determine orthogonal P-wave morphology ( typical morphologies were predefined as having positive signals in Leads X and Y and a negative or negative-positive signal in Lead Z. All other patterns were classified as atypical ) .
+METHODS	The association between P-wave morphology and data on echocardiographic response at 1 year was analyzed .
+RESULTS	Atypical P-wave morphology was found in 21 % ( n = 186 ) of the patients at baseline .
+RESULTS	Patients with atypical P-wave morphology were more often female ( 31 % vs. 24 % , P = 0.025 ) , had lower BMI ( 28 5 kg/m ( 2 ) vs. 29 5 kg/m ( 2 ) , P = 0.008 ) , had more ischemic CHF ( 60 % vs. 52 % , P = 0.026 ) and had smaller left atrial volumes ( 90 20 mL vs. 94 22 mL , P = 0.034 ) .
+RESULTS	Atypical P-wave morphology at baseline was associated with superior response to CRT at 1 year with a larger reduction in left ventricular end-diastolic volume ( -23 12 % vs. -20 11 % , P = 0.009 ) , left ventricular end-systolic volume ( -36 16 % vs. -31 16 % , P = 0.006 ) , and left atrial volume ( -31 12 % vs. -27 12 % , P = 0.005 ) , with a slightly larger absolute increase in left ventricular ejection fraction ( LVEF ) ( 12 5 % vs. 11 5 % , P = 0.009 ) .
+RESULTS	These associations were found to be independent of traditional predictors .
+CONCLUSIONS	The presence of atypical P-wave morphology recorded is independently associated with a favorable echocardiographic cardiac remodeling response to CRT .
+

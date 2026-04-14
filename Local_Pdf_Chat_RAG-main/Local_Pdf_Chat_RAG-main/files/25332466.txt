@@ -1,0 +1,14 @@
+25332466
+BACKGROUND	The common bean is a staple crop in many African and Latin American countries and is the focus of biofortification initiatives .
+BACKGROUND	Bean iron concentration has been doubled by selective plant breeding , but the additional iron is reported to be of low bioavailability , most likely due to high phytic acid ( PA ) concentrations .
+OBJECTIVE	The present study evaluated the impact of PA on iron bioavailability from iron-biofortified beans .
+METHODS	Iron absorption , based on erythrocyte incorporation of stable iron isotopes , was measured in 22 Rwandese women who consumed multiple , composite bean meals with potatoes or rice in a crossover design .
+METHODS	Iron absorption from meals containing biofortified beans ( 8.8 mg Fe , 1320 mg PA/100 g ) and control beans ( 5.4 mg Fe , 980 mg PA/100 g ) was measured with beans containing either their native PA concentration or with beans that were 50 % dephytinized or > 95 % dephytinized .
+RESULTS	The iron concentration of the cooked composite meals with biofortified beans was 54 % higher than in the same meals with control beans .
+RESULTS	With native PA concentrations , fractional iron absorption from the control bean meals was 9.2 % , 30 % higher than that from the biofortified bean meals ( P < 0.001 ) .
+RESULTS	The quantity of iron absorbed from the biofortified bean meals ( 406 g ) was 19 % higher ( P < 0.05 ) than that from the control bean meals .
+RESULTS	With 50 % and > 95 % dephytinization , the quantity of iron absorbed from the biofortified bean meals increased to 599 and 746 g , respectively , which was 37 % ( P < 0.005 ) and 51 % ( P < 0.0001 ) higher than from the control bean meals .
+CONCLUSIONS	PA strongly decreases iron bioavailability from iron-biofortified beans , and a high PA concentration is an important impediment to the optimal effectiveness of bean iron biofortification .
+CONCLUSIONS	Plant breeders should focus on lowering the PA concentration of high-iron beans .
+CONCLUSIONS	This trial was registered at clinicaltrials.gov as NCT01521273 .
+

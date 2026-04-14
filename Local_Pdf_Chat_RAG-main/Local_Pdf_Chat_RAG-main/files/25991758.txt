@@ -1,0 +1,13 @@
+25991758
+BACKGROUND	After cardiac surgery , patients receive large amounts of fluid in the Intensive Care Unit ( ICU ) .
+BACKGROUND	We plan to conduct a multi-centre randomised controlled trial , of a conservative fluid regime , in patients after cardiac surgery , and have reported results of a feasibility study that evaluated efficacy and safety of the proposed regime .
+METHODS	After ethical approval , a single-centre , prospectively randomised interventional study was undertaken .
+METHODS	Participants were randomised to either usual care , or to a protocolised algorithm , utilising stroke volume variation , to guide fluid administration to patients who were deemed to have inadequate cardiac output and were likely to be volume responsive .
+METHODS	The study protocol lasted from ICU admission to de-sedation or 24 h , whichever occurred first .
+RESULTS	We randomised 144 subjects over 9 months .
+RESULTS	Less bolus fluid and less total overall fluid volume was administered in the intervention group ( median ( IQR ) 1620 ml ( 500-3410 ) and 2525 ml ( 1440-5250 ; P < 0.001 ) , compared with the usual care group ( 2050 ml ( 910-4280 ) and 2980 ml ( 2070-6580 ; P = 0.001 ) , from ICU admission to extubation .
+RESULTS	There was no significant difference in incidence of acute kidney injury or the average amount of fluid administered to the usual care group at the beginning compared with the end of the study .
+CONCLUSIONS	It is both possible and safe to achieve a significant reduction in the amount of fluid administered to patients , allocated to a conservative fluid protocol .
+CONCLUSIONS	These results suggest that a planned multi-centre study is both justified and feasible .
+BACKGROUND	Australia New Zealand Clinical Trials Registry www.anzctr.org.au ( ACTRN12612000754842 ) .
+

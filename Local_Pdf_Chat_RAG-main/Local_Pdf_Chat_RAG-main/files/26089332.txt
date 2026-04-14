@@ -1,0 +1,13 @@
+26089332
+OBJECTIVE	Hypertensive patients with electrocardiographic left ventricular hypertrophy are at increased risk of all-cause and cardiovascular death .
+OBJECTIVE	Lowering blood pressure ( BP ) after stroke reduces the risk of recurrent stroke , but recent data suggest that lower systolic BP ( SBP ) measured 5 years after stroke is associated with increased mortality .
+OBJECTIVE	Whether lower SBP is associated with increased short-term mortality after stroke in hypertensive patients is unclear .
+METHODS	All-cause and cardiovascular mortality were examined in relation to average on-treatment SBP after stroke in 541 hypertensive patients with electrocardiographic left ventricular hypertrophy randomly assigned to losartan - or atenolol-based treatment who had new strokes during follow-up .
+METHODS	Patients with on-treatment SBP < 144 mm Hg ( lowest tertile ) and SBP > 157 ( highest tertile ) were compared with patients with average SBP between 144 and 157 .
+RESULTS	During 2.021.65 years mean follow-up after incident stroke , 170 patients ( 31.4 % ) died , 135 ( 25.0 % ) from cardiovascular causes .
+RESULTS	In multivariate Cox analyses , adjusting for significant univariate predictors of mortality , compared with average SBP between 144 and 157 , an average SBP < 144 was a significant predictor of all-cause ( hazard ratio , 1.81 ; 95 % confidence interval , 1.20-2 .73 ) and cardiovascular mortality ( hazard ratio , 1.60 ; 95 % confidence interval , 1.02-2 .54 ) , whereas patients who had an average SBP > 157 had no significant increased risk of death .
+CONCLUSIONS	Lower achieved SBP ( < 144 mm Hg ) is associated with a significantly increased risk of cardiovascular and all-cause mortality after initial stroke in hypertensive patients during short-term follow-up .
+CONCLUSIONS	Further study is required to determine ideal SBP goals after stroke .
+BACKGROUND	URL : http://clinicaltrials.gov/ .
+BACKGROUND	Unique identifier : NCT00338260 .
+

@@ -1,0 +1,9 @@
+24723432
+OBJECTIVE	Although antidepressant drugs are used as first-line intervention to treat patients with generalized anxiety disorder ( GAD ) , only one-third of patients respond positively to treatment .
+OBJECTIVE	In our study , we investigated whether functional genetic polymorphisms in the dopamine active transporter 1 ( DAT1 ) and dopamine receptor D2 ( DRD2 ) may play a role in antidepressant treatment response in GAD .
+METHODS	We examined 156 patients diagnosed with GAD who received venlafaxine Extended-Release ( XR ) treatment as part of an 18-month relapse-prevention study to determine whether variation in these genes had an effect on treatment response after 6months of open-label treatment .
+METHODS	Genotypes were obtained for rs1076560 ( DRD2 ) , rs1800497 ( DRD2 ) , rs2550948 ( DAT1 ) , and a variable number tandem repeat in the 3 ' untranslated region of the DAT1 gene using standard methods .
+RESULTS	Results show that none of the tested variants were associated with treatment response to venlafaxine XR in GAD .
+RESULTS	Genotype and allele frequencies did not differ statistically significantly between responders and non-responders using either the Hamilton Anxiety or Clinical Global Impressions of Improvement Scale at 6months .
+CONCLUSIONS	Although we detected no association in our sample , future studies using larger samples and more comprehensive gene coverage are needed to evaluate potential effects of dopaminergic variants on antidepressant treatment response in anxiety disorders .
+

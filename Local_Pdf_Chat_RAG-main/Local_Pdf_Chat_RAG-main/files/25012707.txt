@@ -1,0 +1,15 @@
+25012707
+OBJECTIVE	The Micropuncture 21-gauge needle may reduce complications related to vessel trauma from inadvertent venous or posterior arterial wall puncture .
+METHODS	This was a single-center , multiple-user trial .
+METHODS	Four hundred and two patients undergoing possible or definite percutaneous coronary intervention ( PCI ) were randomized 1:1 to an 18-gauge versus a 21-gauge needle .
+METHODS	Patients and personnel pulling the sheaths and performing the follow-up were blinded .
+METHODS	The primary end point was a composite of access bleeding .
+METHODS	Events were tabulated following sheath removal , 24 h after the procedure and at the follow-up ( at 1-2 weeks ) .
+METHODS	End points were blindly adjudicated .
+RESULTS	The event rate overall was 12.4 % and did not differ significantly between groups , although the 21-gauge needle was found to reduce events by more than one third .
+RESULTS	An exploratory subgroup analysis of prespecified variables indicated that : patients who did not undergo PCI or elective procedures , female patients and those with a final sheath size of 6 Fr all had a significant or near-significant reduction of complications with Micropuncture .
+CONCLUSIONS	Although no significant differences between the use of the 18 - and 21-gauge needles were observed , there was a 50-75 % reduction with Micropuncture in several subgroups .
+CONCLUSIONS	The study was terminated prematurely .
+CONCLUSIONS	Access site complications may be reduced by the use of the 21-gauge needle , particularly when the risk of bleeding is not high .
+CONCLUSIONS	Further multicenter data will be required to confirm these hypothesis-generating observations .
+

@@ -1,0 +1,13 @@
+24961091
+OBJECTIVE	To observe the efficacy of combined use of brimonidine and betaxolol in treatment of primary open angle glaucoma ( POAG ) and ocular hypertension .
+METHODS	A total of 54 patients ( 90 eyes ) with POAG and ocular hypertension were randomly divided into three groups ( receiving betaxolol , brimonidine and combined administration of betaxolol and brimonidine respectively ) .
+METHODS	The administration was given twice daily in all groups ( 0.5 % betaxolol , 0.2 % brimonidine and 0.5 % betaxolol combined with 0.2 % brimonidine ) .
+METHODS	The changes in intraocular pressure ( IOP ) were observed before , and 2 , 4 , 6 , and 8 weeks after treatment .
+METHODS	In addition , the adverse reactions were also recorded post-treatment .
+RESULTS	The mean IOPs at all the time points after treatment were significantly reduced compared with pre-treatment levels ( P < 0.05 ) .
+RESULTS	Patients receiving brimonidine had a greater reduction in IOP compared with their counterparts in the betaxolol group but the difference was not statistically significant .
+RESULTS	The IOP decline was significantly higher in the combined therapy group than in the other two groups ( P < 0.01 ) .
+RESULTS	Few cases presented with slight discomfort , such as sensation of foreign bodies , ocular irritation , dizziness , headache , fatigue , and dryness of mouth and nose .
+RESULTS	No severe adverse reactions were noted following administration .
+CONCLUSIONS	Combined use of brimonidine and betaxolol is an efficacious treatment of reducing IOP without severe side effects .
+

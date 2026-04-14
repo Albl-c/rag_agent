@@ -1,0 +1,13 @@
+24760465
+OBJECTIVE	Monopolar electrosurgery is the gold standard for surgical preparation in thoracoscopic spine procedures .
+OBJECTIVE	However , use of ultrasound scissors could decrease blood loss , accelerate the preparation time and improve patient safety , while minimizing operative costs .
+OBJECTIVE	This trial compares both preparation techniques for ventral thoracoscopic spondylodesis .
+METHODS	The study design is an open , prospective , randomized , and double-blinded two-armed clinical trial performed in two centres .
+METHODS	Forty-one patients with vertebral body fractures from T10 to L2 were included .
+METHODS	Primary endpoint : preparation time .
+METHODS	Secondary endpoints : blood loss , organ injuries , duration of hospitalization .
+RESULTS	Primary and secondary endpoints did not differ significantly between groups ( p level 0.05 ) .
+RESULTS	Increased blood loss ( 150 ml or more ) was eliminated with ultrasound scissors ( p = 0.0014 ) .
+CONCLUSIONS	Primary and secondary endpoints did not differ significantly between the two preparation techniques .
+CONCLUSIONS	The use of either ultrasound scissors or electric scalpel offers safe and effective preparation for thoracoscopic spine surgery .
+

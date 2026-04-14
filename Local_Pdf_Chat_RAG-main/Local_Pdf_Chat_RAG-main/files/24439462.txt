@@ -1,0 +1,15 @@
+24439462
+OBJECTIVE	To determine precisely the mean change in refractive power induced by treatment in patients with diabetic macular edema ( DME ) .
+METHODS	Prospective , randomized study .
+METHODS	Fifty eyes of 50 consecutive patients with clinically significant macular edema receiving all 3 types of current state-of-the-art treatment with intravitreal antiedematous substances ( ranibizumab , bevacizumab , or triamcinolone ) .
+METHODS	Patients were followed up at monthly intervals and were treated following a standardized pro re nata regimen according to protocol .
+METHODS	Best-corrected visual acuity ( BCVA ) was determined by certified visual acuity examiners .
+METHODS	The refractive power of the treated eyes was determined using a push-plus technique .
+METHODS	The change in refraction between baseline and the visit when the macula was completely dry or when the central subfield thickness ( CST ) measured by optical coherence tomography had reached the thinnest level was analyzed .
+METHODS	Spherical equivalent refraction ( SER ) and CST .
+RESULTS	Fifty eyes of 50 patients received intravitreal therapy using ranibizumab ( n = 11 ) , bevacizumab ( n = 20 ) , or triamcinolone ( n = 19 ) .
+RESULTS	Mean BCVA was 0.330.23 logarithm of the minimum angle of resolution ( logMAR ) and mean CST was 492130 m.
+RESULTS	The mean SER was 0.412.06 diopters ( D ) at baseline .
+RESULTS	The BCVA at the time of optimal retinal morphologic features was 0.240.2 logMAR , mean CST was 30078 m , and mean change in SER was -0.010.46 D. Changes is BCVA and CST were statistically significant ( P < 0.0001 ) , but the SER change was not ( P = 0.824 ) .
+CONCLUSIONS	Appropriate spectacle correction can be prescribed to patients with DME any time during ongoing therapy using antiedematous substances because resolution of retinal thickening is not associated with an increased risk of a myopic shift .
+

@@ -1,0 +1,15 @@
+25277144
+OBJECTIVE	The objective of this study was to assess the safety , tolerability , pharmacokinetics , and pharmacodynamics of selexipag , an orally available selective prostacyclin receptor agonist , in development for pulmonary arterial hypertension in healthy subjects .
+METHODS	This was a double-blind , placebo-controlled , randomised , multiple-ascending-dose , up-titration study .
+METHODS	Male subjects received increasing oral doses of selexipag ( 400-1 ,800 g ; n = 12 ) or placebo ( n = 4 ) twice daily for 3 days each , using incremental steps of 200 g between each dose level .
+METHODS	Standard safety and tolerability data were collected .
+METHODS	Blood samples were taken to assess the pharmacokinetics of selexipag and its active metabolite ACT-333679 and possible effects on platelet aggregation .
+RESULTS	Dose levels of selexipag up to 1,600 g were well tolerated and this dose was identified as the maximum tolerated dose .
+RESULTS	Plasma exposure to ACT-333679 was approximately 4 times higher than that to selexipag .
+RESULTS	Steady-state conditions for both compounds were reached on day 3 of each dose level , and no accumulation of selexipag or ACT-333679 was observed .
+RESULTS	Based on the area under the curve and the maximum plasma concentration , the pharmacokinetics of selexipag and ACT-333679 were dose proportional .
+RESULTS	At the highest dose level , the geometric mean terminal half-life of selexipag and ACT-333679 was 1.4 and 8.7 h , respectively .
+RESULTS	The observed effects on platelet aggregation were variable without obvious drug - or dose-dependent pattern .
+CONCLUSIONS	Oral administration of increasing doses of selexipag was well tolerated .
+CONCLUSIONS	The present results support the conduct of future clinical trials .
+

@@ -1,0 +1,14 @@
+25185099
+OBJECTIVE	Currently , antiangiogenic strategies in metastatic breast cancer have demonstrated modest improvements in progression-free survival ( PFS ) but not improved quality or duration of survival , warranting evaluation of new agents in a placebo-controlled setting .
+OBJECTIVE	Ramucirumab is a human immunoglobulin G1 antibody that binds vascular endothelial growth factor receptor-2 and blocks ligand-stimulated activation .
+OBJECTIVE	The ROSE/TRIO -012 trial evaluated ramucirumab with docetaxel in unresectable , locally recurrent , or metastatic breast cancer .
+METHODS	In this double-blind , placebo-controlled , randomized , multinational phase III trial , 1,144 patients with human epidermal growth factor receptor 2 ( HER2 ) - negative breast cancer who had not received cytotoxic chemotherapy in the advanced setting were randomly assigned at a two-to-one ratio to receive docetaxel 75 mg/m ( 2 ) plus ramucirumab 10 mg/kg or docetaxel 75 mg/m ( 2 ) plus placebo once every 3 weeks .
+METHODS	Treatment continued until disease progression , unacceptable toxicity , or other withdrawal criteria .
+METHODS	Patients were stratified by previous taxane therapy , visceral metastasis , hormone receptor status , and geographic region .
+METHODS	An independent data monitoring committee oversaw the trial .
+METHODS	The primary end point was investigator-assessed PFS .
+RESULTS	Median PFS in patients treated with ramucirumab plus docetaxel was 9.5 months , compared with 8.2 months in patients who received placebo plus docetaxel ( hazard ratio [ HR ] , 0.88 ; P = .077 ) .
+RESULTS	Median overall survival was 27.3 months in patients who received ramucirumab plus docetaxel , compared with 27.2 months in patients who received placebo plus docetaxel ( HR , 1.01 ; P = .915 ) .
+RESULTS	Toxicities seen at significantly higher rates in patients receiving ramucirumab included fatigue , hypertension , febrile neutropenia , palmar-plantar erythrodysesthesia syndrome , and stomatitis .
+CONCLUSIONS	Addition of ramucirumab to docetaxel in HER2-negative advanced breast cancer did not meaningfully improve important clinical outcomes .
+

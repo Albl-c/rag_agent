@@ -1,0 +1,16 @@
+25880068
+BACKGROUND	Treatment for hypertension with antihypertensive medication has been shown to reduce stroke , cardiovascular events , and mortality in older adults , but there is concern that such treatment may not be appropriate in frailer older adults .
+BACKGROUND	To investigate whether there is an interaction between effect of treatment for hypertension and frailty in older adults , we calculated the frailty index ( FI ) for all available participants from the HYpertension in the Very Elderly Trial ( HYVET ) study , a double-blind , placebo-controlled study of antihypertensives in people with hypertension aged 80 and over , and obtained frailty adjusted estimates of the effect of treatment with antihypertensive medication on risk of stroke , cardiovascular events , and mortality .
+METHODS	Participants in HYVET were randomised 1:1 to active treatment with indapamide sustained release 1.5 mgperindopril 2 to 4mg or to matching placebo .
+METHODS	Data relating to blood pressure , comorbidities , cognitive function , depression , and quality of life were collected at entry into the study and at subsequent follow-up visits .
+METHODS	The FI was calculated at entry , based on 60 potential deficits .
+METHODS	The distribution of FI was similar to that seen in population studies of adults aged 80years and above ( median FI , 0.17 ; IQR , 0.11-0 .24 ) .
+METHODS	Cox regression was used to assess the impact of FI at entry to the study on subsequent risk of stroke , total mortality , and cardiovascular events .
+METHODS	Models were stratified by region of recruitment and adjusted for sex and age at entry .
+METHODS	Extending these models to include a term for a possible interaction between treatment for hypertension and FI provided a formula for the treatment effect as a function of FI .
+METHODS	For all three models , the point estimates of the hazard ratios for the treatment effect decreased as FI increased , although to varying degrees and with varying certainty .
+RESULTS	We found no evidence of an interaction between effect of treatment for hypertension and frailty as measured by the FI .
+RESULTS	Both the frailer and the fitter older adults with hypertension appeared to gain from treatment .
+CONCLUSIONS	Further work to examine whether antihypertensive treatment modifies frailty as measured by the FI should be explored .
+BACKGROUND	ClinicalTrials.gov NCT00122811 ( July 2005 ) .
+

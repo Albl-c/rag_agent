@@ -1,0 +1,16 @@
+24495287
+BACKGROUND	Verbal autopsy ( VA ) has been proposed to determine the cause of death ( COD ) distributions in settings where most deaths occur without medical attention or certification .
+BACKGROUND	We develop performance criteria for VA-based COD systems and apply these to the Registrar General of India 's ongoing , nationally-representative Indian Million Death Study ( MDS ) .
+METHODS	Performance criteria include a low ill-defined proportion of deaths before old age ; reproducibility , including consistency of COD distributions with independent resampling ; differences in COD distribution of hospital , home , urban or rural deaths ; age - , sex - and time-specific plausibility of specific diseases ; stability and repeatability of dual physician coding ; and the ability of the mortality classification system to capture a wide range of conditions .
+RESULTS	The introduction of the MDS in India reduced the proportion of ill-defined deaths before age 70 years from 13 % to 4 % .
+RESULTS	The cause-specific mortality fractions ( CSMFs ) at ages 5 to 69 years for independently resampled deaths and the MDS were very similar across 19 disease categories .
+RESULTS	By contrast , CSMFs at these ages differed between hospital and home deaths and between urban and rural deaths .
+RESULTS	Thus , reliance mostly on urban or hospital data can distort national estimates of CODs .
+RESULTS	Age - , sex - and time-specific patterns for various diseases were plausible .
+RESULTS	Initial physician agreement on COD occurred about two-thirds of the time .
+RESULTS	The MDS COD classification system was able to capture more eligible records than alternative classification systems .
+RESULTS	By these metrics , the Indian MDS performs well for deaths prior to age 70 years .
+RESULTS	The key implication for low - and middle-income countries where medical certification of death remains uncommon is to implement COD surveys that randomly sample all deaths , use simple but high-quality field work with built-in resampling , and use electronic rather than paper systems to expedite field work and coding .
+CONCLUSIONS	Simple criteria can evaluate the performance of VA-based COD systems .
+CONCLUSIONS	Despite the misclassification of VA , the MDS demonstrates that national surveys of CODs using VA are an order of magnitude better than the limited COD data previously available .
+

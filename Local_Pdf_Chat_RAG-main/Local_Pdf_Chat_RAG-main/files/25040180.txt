@@ -1,0 +1,13 @@
+25040180
+BACKGROUND	A topical fixed-dose clindamycin phosphate 12 % and benzoyl peroxide 30 % combination gel ( CLNP/BPO 3 % ) is known to be effective and safe in white people with acne .
+OBJECTIVE	To evaluate the efficacy and safety of CLNP/BPO 30 % topically applied once or twice daily vs. CLNP twice daily in Japanese patients with acne .
+METHODS	Eight hundred patients were randomized to receive CLNP/BPO 30 % once daily , CLNP/BPO 30 % twice daily or CLNP twice daily for 12weeks .
+METHODS	Primary endpoints were absolute change in number of total lesions ( TLs ) from baseline to week 12 to demonstrate the superiority of CLNP/BPO 30 % twice daily and noninferiority of CLNP/BPO 30 % once daily vs. CLNP twice daily .
+METHODS	Secondary endpoints were absolute and percentage changes in TLs , inflammatory lesions ( ILs ) , noninflammatory lesions ( non-ILs ) and Investigator 's Static Global Assessment ( ISGA ) score .
+METHODS	Safety assessments included adverse events ( AEs ) , laboratory tests , vital signs and local skin tolerability .
+RESULTS	Change in TL counts from baseline to week 12 for CLNP/BPO 30 % twice daily was superior to CLNP twice daily ( difference -110 ; P < 001 ) ; CLNP/BPO 30 % once daily was not inferior to CLNP twice daily ( difference -103 ; P < 001 ) .
+RESULTS	Absolute and percentage reductions in TL , IL and non-IL counts and ISGA score were greater for CLNP/BPO 30 % once or twice daily than for CLNP twice daily with significant differences seen from early on .
+RESULTS	Most AEs were mild or moderate .
+RESULTS	The incidence of adverse drug reactions was higher for CLNP/BPO 30 % once ( 240 % ) or twice ( 351 % ) daily than for CLNP twice daily ( 90 % ) .
+CONCLUSIONS	Compared with CLNP twice daily , CLNP/BPO 30 % once daily was more effective and CLNP/BPO 30 % twice daily at least as effective , with an early onset of action and an acceptable safety and tolerability profile in Japanese patients .
+

@@ -1,0 +1,11 @@
+24375969
+OBJECTIVE	The impact of a text messaging-assisted lifestyle weight loss intervention on weight change among overweight adults in Beijing was examined .
+METHODS	It was a 6-month randomized two arm clinical trial .
+METHODS	The control group received a brief advice session after randomization .
+METHODS	The intervention group received three group sessions , five coaching calls , and a daily text message prompting participants to follow predetermined lifestyle goals .
+RESULTS	A total of 123 participants were randomized .
+RESULTS	At 6 months , controls gained 0.24 0.28 kg ( 0.21 % 0.38 % ) ( NS ) while intervention participants lost 1.6 0.28 kg ( 2.31 % 0.38 % ) ( p < 0.0001 ) .
+RESULTS	Intervention participants decreased waist circumference ( WC ) ( -2.69 0.43 cm , p < 0.0001 ) , percent body fat ( % BF ) ( -0.66 % 0.19 % , p = 0.0007 ) , and systolic/diastolic blood pressure ( SBP/DBP ) significantly ( -1.71 1.12 / -3.24 0.87 mmHg ) , while the controls had no change in WC and % BF and increased SBP/DBP by 2.43 1.14 / 1.20 0.88 mmHg ( between groups : p = 0.01 / p = 0.0004 ) .
+CONCLUSIONS	This text message-assisted lifestyle intervention was effective in reducing weight , WC , % BF , and improving BP .
+CONCLUSIONS	Coupled with the scalable feature of the intervention , this finding is intriguing in light of the potential reach of the intervention for countries like China where mobile phone penetration is high and the obesity rate continues to rise .
+

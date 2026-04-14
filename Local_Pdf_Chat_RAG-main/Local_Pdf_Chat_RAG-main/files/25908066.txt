@@ -1,0 +1,13 @@
+25908066
+BACKGROUND	Patients receiving oral anticoagulation ( OAC ) who undergo drug-eluting stent ( DES ) implantation require additional dual antiplatelet therapy with aspirin and clopidogrel .
+BACKGROUND	Such triple therapy confers an elevated bleeding risk , and its optimal duration is not known .
+OBJECTIVE	The goal of this study was to evaluate whether shortening the duration of clopidogrel therapy from 6 months to 6 weeks after DES implantation was associated with a superior net clinical outcome in patients receiving concomitant aspirin and OAC .
+METHODS	In this randomized , open-label trial , we enrolled patients receiving OAC who underwent DES implantation at 3 European centers between September 2008 and December 2013 .
+METHODS	A total of 614 patients receiving concomitant aspirin and OAC were randomized to either 6-week clopidogrel therapy ( n = 307 ) or 6-month clopidogrel therapy ( n = 307 ) .
+METHODS	The primary endpoint was a composite of death , myocardial infarction ( MI ) , definite stent thrombosis , stroke , or Thrombolysis In Myocardial Infarction ( TIMI ) major bleeding at 9 months .
+RESULTS	The primary endpoint occurred in 30 patients ( 9.8 % ) in the 6-week group compared with 27 patients ( 8.8 % ) in the 6-month group ( hazard ratio [ HR ] : 1.14 ; 95 % CI : 0.68 to 1.91 ; p = 0.63 ) .
+RESULTS	There were no significant differences for the secondary combined ischemic endpoint of cardiac death , MI , definite stent thrombosis , and ischemic stroke ( 12 [ 4.0 % ] vs. 13 [ 4.3 % ] ; HR : 0.93 ; 95 % CI : 0.43 to 2.05 ; p = 0.87 ) or the secondary bleeding endpoint of TIMI major bleeding ( 16 [ 5.3 % ] vs. 12 [ 4.0 % ] ; HR : 1.35 ; 95 % CI : 0.64 to 2.84 ; p = 0.44 ) .
+CONCLUSIONS	Six weeks of triple therapy was not superior to 6 months with respect to net clinical outcomes .
+CONCLUSIONS	These results suggest that physicians should weigh the trade-off between ischemic and bleeding risk when choosing the shorter or longer duration of triple therapy .
+CONCLUSIONS	( Triple Therapy in Patients on Oral Anticoagulation After Drug Eluting Stent Implantation [ ISAR-TRIPLE ] ; NCT00776633 ) .
+

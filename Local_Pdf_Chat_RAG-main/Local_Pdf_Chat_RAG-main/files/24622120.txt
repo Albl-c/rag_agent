@@ -1,0 +1,12 @@
+24622120
+OBJECTIVE	This analysis aimed to perform a head-to-head comparison of 3 of the promising biomarkers of cardiovascular ( CV ) outcomes in heart failure ( HF ) - soluble ST2 ( sST2 ) , growth differentiation factor ( GDF ) -15 , and highly-sensitive troponin T ( hsTnT ) - and to evaluate the role of serial measurement of these biomarkers in patients with chronic HF .
+BACKGROUND	sST2 , GDF-15 , and hsTnT are strongly associated with CV outcomes in HF .
+METHODS	This post-hoc analysis used data from a study in which 151 patients with chronic HF due to left ventricular systolic dysfunction were followed up over 10 months .
+METHODS	At each visit , N-terminal pro-B-type natriuretic peptide ( NT-proBNP ) , sST2 , GDF-15 , and hsTnT were measured and any major CV events were recorded .
+RESULTS	Baseline values of all 3 novel biomarkers independently predicted total CV events even after adjusting for clinical and biochemical characteristics , including NT-proBNP , with the best model including all 3 biomarkers ( p < 0.001 ) .
+RESULTS	Adding serial measurement to the base model appeared to improve the model 's predictive ability ( with sST2 showing the most promise ) , but it is not clear whether this addition is a unique contribution .
+RESULTS	However , when time-dependent factors were included , only sST2 serial measurement independently added to the risk model ( odds ratio : 3.64 ; 95 % confidence interval : 1.37 to 9.67 ; p = 0.009 ) and predicted reverse myocardial remodeling ( odds ratio : 1.22 ; 95 % confidence interval : 1.04 to 1.43 ; p = 0.01 ) .
+CONCLUSIONS	In patients with chronic HF , baseline measurement of novel biomarkers added independent prognostic information to clinical variables and NT-proBNP .
+CONCLUSIONS	Only serial measurement of sST2 appeared to add prognostic information to baseline concentrations and predicted change in left ventricular function .
+CONCLUSIONS	( Use of NT-proBNP Testing to Guide Heart Failure Therapy in the Outpatient Setting ( PROTECT ) ] ; NCT00351390 ) .
+

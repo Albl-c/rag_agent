@@ -1,0 +1,11 @@
+24963091
+OBJECTIVE	Beside traditional dysphagia therapy , neuromuscular electrical stimulation ( NMES ) has been proposed to treat patients with dysphagia .
+OBJECTIVE	Considering the complexity of the nerve-muscle interaction during swallowing , the underlying physiology of NMES remains unclear .
+OBJECTIVE	Here , we addressed the question of whether NMES can modify upper esophageal sphincter ( UES ) dynamics .
+METHODS	In a prospective study , 26 healthy volunteers performed water swallows with and without NMES .
+METHODS	The stimulus was applied in a participant - and operator-initiated stimulation above , near , and below the motor threshold .
+METHODS	Swallowing parameters were measured using high-resolution manometry .
+RESULTS	The UES relaxation time was found to be extended by 10 % , indicating a modification in UES dynamics .
+CONCLUSIONS	The chosen NMES paradigm influenced the involuntary swallowing phase by extending relaxation time , providing more time for bolus passage into the esophagus .
+CONCLUSIONS	Future studies will have to evaluate if this effect can be found in patients with dysphagia and whether it is beneficial for treatment .
+

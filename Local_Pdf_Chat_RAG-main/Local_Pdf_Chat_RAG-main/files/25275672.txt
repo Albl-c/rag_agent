@@ -1,0 +1,8 @@
+25275672
+BACKGROUND	Topiramate ( TOP ) and anticonvulsants in general are considered safe and effective drugs for the treatment of alcohol dependence , even though TOP-induced adverse events are quite common , especially for high initial doses or if titration to 300 mg/d is too rapid .
+BACKGROUND	The aim of the present study was to assess the efficacy and tolerability profile of low-dose TOP for relapse prevention .
+METHODS	After detoxification , 52 patients were randomized into 2 groups as follows : 26 patients received 100 mg of TOP ( oral , twice daily ) , titrated over 2 weeks , and 26 patients received placebo ( PLA ) .
+METHODS	Both groups underwent rehabilitation twice a week .
+RESULTS	After 6 weeks of treatment , compared with the PLA group , patients receiving TOP showed the following : ( 1 ) fewer drinking days ( P < 0.05 ) ; ( 2 ) less daily alcohol consumption ( P < 0.05 ) ; ( 3 ) more days of treatment ( P < 0.05 ) ; ( 4 ) reduced levels of craving ( Obsessive-Compulsive Drinking Scale ) and withdrawal symptoms ( Clinical Institute Withdrawal Assessment for Alcohol-Revised ) ; and ( 5 ) improvement of anxiety , depression , and obsessive-compulsive symptom severity ( Symptom Check List 90 Revised ) .
+CONCLUSIONS	Despite the small sample size and the short follow-up period , the present PLA-controlled study demonstrated the potential usefulness of TOP , even when administered at a dosage of 100 mg/d , for the treatment of detoxified alcohol-dependent subjects , confirming results from previous studies testing higher doses of TOP .
+

@@ -1,0 +1,11 @@
+25161024
+BACKGROUND	Recent randomised controlled trials have compared the effects of albumin and hydroxyethyl starch ( HES ) v crystalloids on patient-centred outcomes in critically ill patients .
+BACKGROUND	The Saline v Albumin Fluid Evaluation ( SAFE ) trial reported patient-centred outcomes at 28 days in 6933 patients assigned to fluid resuscitation with either 4 % albumin or 0.9 % saline ; the Crystalloid v Hydroxyethyl Starch Trial ( CHEST ) reported patient-centred outcomes at 28 days in 6644 patients assigned to fluid resuscitation with either 6 % HES ( 130/0 .4 ) or 0.9 % saline .
+BACKGROUND	As the two trials used a common reference fluid ( 0.9 % saline ) and had most trial methods and data collection points harmonised , a comparison of 4 % albumin and 6 % HES ( 130/0 .4 ) on patient-centred outcomes at 28 days in critically ill patients using the individual patient data from the two trials is feasible .
+OBJECTIVE	To prepublish the statistical analysis plan ( SAP ) of an individual patient data comparative analysis of the SAFE and CHEST studies .
+METHODS	The statistical analyses are described in detail with the appropriate statistical analysis specified .
+RESULTS	The planned statistical analyses are described in detail for the SAFE and CHEST individual patient data comparative analysis .
+RESULTS	We outline the proposed statistical analysis for the baseline characteristics , processes of care and the outcomes .
+RESULTS	Subgroups are defined with statistical comparisons between the fluid groups and in each subgroup explained .
+CONCLUSIONS	We have developed a SAP for the SAFE / CHEST individual patient data comparative analysis to increase the internal validity of the study and minimise bias .
+

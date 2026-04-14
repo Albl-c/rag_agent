@@ -1,0 +1,15 @@
+25876346
+OBJECTIVE	To compare the difference in clinical efficacy on children attention deficit hyperactivity disorder ( ADHD ) between the combined therapy of scalp acupuncture and EGG biofeedback and the simple EEG biofeedback therapy so as to search the better therapeutic method for ADHD .
+METHODS	One hundred patients were randomized into an observation group and a control group , 50 cases in each one .
+METHODS	In the control group , the simple EEG biofeedback therapy was adopted .
+METHODS	In the observation group , on the basis of biofeedback therapy , scalp acupuncture was added and applied to Dingzhongxian ( MS 5 ) , Dingpangyixian ( MS 8 ) , Baihui ( GV 20 ) , Sishencong ( EX-HN 1 ) , etc. .
+METHODS	The ten treatments made one session .
+METHODS	After four sessions of treatment , FIQ value in Wechsler intelligence scale , CIH score in Conners children behavior questionnaire , the ratio of 0 wave and p wave in EEG , FRCQ and FAQ in the integrated visual and auditory continuous performance test ( IVA-CPT ) and clinical comprehensive efficacy were observed before and after treatment in the two groups separately .
+RESULTS	Three cases were dropped out in the observation group and 2 cases were out in the control group .
+RESULTS	In the two groups , FIQ , FRCQ and FAQ were all increased after treatment ( P < 0.01 , P < 0.05 ) ; the increases in the observation group were much more significant than those in the control group after treatment ( all P < 0.05 ) .
+RESULTS	In the two groups , CIH score and the ratio of 0 wave and p wave were all reduced after treatment ( P < 0.01 , P < 0.05 ) ; the reduction in the observation group were much more apparent as compared with those in the control group ( both P < 0.05 ) .
+RESULTS	The total effective rate was 91.5 % ( 43/47 ) in the observation group and better than 83.3 % ( 40/48 , P < 0.01 ) in the control group .
+CONCLUSIONS	The combined therapy of scalp acupuncture and EEG biofeedback achieves the superior efficacy on children ADHD as compared with the simple biofeedback therapy .
+CONCLUSIONS	This combined therapy rapidly relieves the essential symptoms of ADHD and improves EEG waveform in children patients .
+CONCLUSIONS	Importantly , this therapy obtains and consolidates the significant efficacy .
+

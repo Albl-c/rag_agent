@@ -1,0 +1,12 @@
+24275909
+OBJECTIVE	The authors compared psychoanalytic psychotherapy and cognitive-behavioral therapy ( CBT ) in the treatment of bulimia nervosa .
+METHODS	A randomized controlled trial was conducted in which 70 patients with bulimia nervosa received either 2 years of weekly psychoanalytic psychotherapy or 20 sessions of CBT over 5 months .
+METHODS	The main outcome measure was the Eating Disorder Examination interview , which was administered blind to treatment condition at baseline , after 5 months , and after 2 years .
+METHODS	The primary outcome analyses were conducted using logistic regression analysis .
+RESULTS	Both treatments resulted in improvement , but a marked difference was observed between CBT and psychoanalytic psychotherapy .
+RESULTS	After 5 months , 42 % of patients in CBT ( N = 36 ) and 6 % of patients in psychoanalytic psychotherapy ( N = 34 ) had stopped binge eating and purging ( odds ratio = 13.40 , 95 % confidence interval [ CI ] = 2.45-73 .42 ; p < 0.01 ) .
+RESULTS	At 2 years , 44 % in the CBT group and 15 % in the psychoanalytic psychotherapy group had stopped binge eating and purging ( odds ratio = 4.34 , 95 % CI = 1.33-14 .21 ; p = 0.02 ) .
+RESULTS	By the end of both treatments , substantial improvements in eating disorder features and general psychopathology were observed , but in general these changes took place more rapidly in CBT .
+CONCLUSIONS	Despite the marked disparity in the number of treatment sessions and the duration of treatment , CBT was more effective in relieving binging and purging than psychoanalytic psychotherapy and was generally faster in alleviating eating disorder features and general psychopathology .
+CONCLUSIONS	The findings indicate the need to develop and test a more structured and symptom-focused version of psychoanalytic psychotherapy for bulimia nervosa .
+

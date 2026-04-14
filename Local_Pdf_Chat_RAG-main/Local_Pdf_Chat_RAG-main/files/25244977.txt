@@ -1,0 +1,15 @@
+25244977
+OBJECTIVE	To determine if a new , single-sample device ( ESwab ; Copan Diagnostics , Inc ) can simplify the traditional multi-sample approach to specimen collection in infectious keratitis .
+METHODS	Prospective , diagnostic test evaluation .
+METHODS	In this institutional study , patients with suspected infectious keratitis meeting traditional criteria for diagnostic corneal specimen collection and culture were randomized to the order of first specimen collection method : ESwab or a sample directly plated for growth on chocolate agar .
+METHODS	This was followed by standard samples for blood agar , Gram stain , Sabouraud agar , thioglycolate broth , and brain heart infusion broth in all cases .
+METHODS	The specimens collected using the 2 approaches were analyzed separately by the laboratory in a masked fashion .
+METHODS	The main outcome measure was positive growth on cultured media .
+RESULTS	Eighty-one eyes from 80 consecutive patients were sampled .
+RESULTS	Culture positivity rate for the multi-sample method and ESwab was 70 % and 69 % , respectively , with a 75 % agreement rate .
+RESULTS	ESwab sensitivity was 84 % ( 95 % confidence interval [ CI ] : 72 % -93 % ) , with a specificity of 67 % ( 95 % CI : 45 % -84 % ) .
+RESULTS	Positive and negative predictive values of the ESwab were 86 % ( 95 % CI : 74 % -94 % ) and 64 % ( 95 % CI : 43 % -82 % ) , respectively .
+RESULTS	There was no difference in positive culture reports with respect to the order of specimen collection technique used .
+CONCLUSIONS	The single-sample ESwab method is a more accessible and less cumbersome approach to corneal culturing for ophthalmologists , particularly those in the community setting who do not have access to the full set of traditional culture materials .
+CONCLUSIONS	Culture results using this single-sample approach were comparable to the multi-sample method .
+

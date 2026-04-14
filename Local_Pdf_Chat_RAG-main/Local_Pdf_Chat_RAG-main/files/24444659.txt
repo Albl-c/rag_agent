@@ -1,0 +1,12 @@
+24444659
+BACKGROUND	Transthoracic echocardiographic ( TTE ) imaging is the mainstay of clinical practice for evaluating right ventricular ( RV ) size and function , but its accuracy in patients with pulmonary hypertension has not been well validated .
+METHODS	Magnetic resonance imaging ( MRI ) and TTE images were retrospectively reviewed in 40 consecutive patients with pulmonary hypertension .
+METHODS	RV and left ventricular volumes and ejection fractions were calculated using MRI .
+METHODS	TTE areas and indices of RV ejection fraction ( RVEF ) were compared .
+RESULTS	The average age was 42 12 years , with a majority of women ( 85 % ) .
+RESULTS	There was a wide range of mean pulmonary arterial pressures ( 27-81 mm Hg ) and RV end-diastolic volumes ( 111-576 mL ) , RVEFs ( 8 % -67 % ) , and left ventricular ejection fractions ( 26 % -72 % ) by MRI .
+RESULTS	There was a strong association between TTE and MRI-derived parameters : RV end-diastolic area ( by TTE imaging ) and RV end-diastolic volume ( by MRI ) , R ( 2 ) = 0.78 ( P < .001 ) ; RV fractional area change by TTE imaging and RVEF by MRI , R ( 2 ) = 0.76 ( P < .001 ) ; and tricuspid annular plane systolic excursion by TTE imaging and RVEF by MRI , R ( 2 ) = 0.64 ( P < .001 ) .
+RESULTS	By receiver operating characteristic curve analysis , an RV fractional area change < 25 % provided excellent discrimination of moderate systolic dysfunction ( RVEF < 35 % ) , with an area under the curve of 0.97 ( P < .001 ) .
+RESULTS	An RV end-diastolic area index of 18cm ( 2 ) / m ( 2 ) provided excellent discrimination for moderate RV enlargement ( area under the curve , 0.89 ; P < .001 ) .
+CONCLUSIONS	Echocardiographic estimates of RV volume ( by RV end-diastolic area ) and function ( by RV fractional area change and tricuspid annular plane systolic excursion ) offer good approximations of RV size and function in patients with pulmonary hypertension and allow the accurate discrimination of normal from abnormal .
+

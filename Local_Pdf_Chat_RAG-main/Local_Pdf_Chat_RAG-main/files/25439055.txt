@@ -1,0 +1,15 @@
+25439055
+BACKGROUND	Severe mental illness ( SMI ) , including schizophrenia , bipolar disorder and severe depression , is responsible for a substantial proportion of disability in the population .
+BACKGROUND	This article describes the aims and design of a research study that takes a novel approach to targeted prevention of SMI .
+BACKGROUND	It is based on the rationale that early developmental antecedents to SMI are likely to be more malleable than fully developed mood or psychotic disorders and that low-risk interventions targeting antecedents may reduce the risk of SMI .
+METHODS	Families Overcoming Risks and Building Opportunities for Well-being ( FORBOW ) is an accelerated cohort study that includes a large proportion of offspring of parents with SMI and embeds intervention trials in a cohort multiple randomized controlled trial ( cmRCT ) design .
+METHODS	Antecedents are conditions of the individual that are distressing but not severely impairing , predict SMI with moderate-to-large effect sizes and precede the onset of SMI by at least several years .
+METHODS	FORBOW focuses on the following antecedents : affective lability , anxiety , psychotic-like experiences , basic symptoms , sleep problems , somatic symptoms , cannabis use and cognitive delay .
+METHODS	Enrolment of offspring over a broad age range ( 0 to 21 years ) will allow researchers to draw conclusions on a longer developmental period from a study of shorter duration .
+METHODS	Annual assessments cover a full range of psychopathology , cognitive abilities , eligibility criteria for interventions and outcomes .
+METHODS	Pre-emptive early interventions ( PEI ) will include skill training for parents of younger children and courses in emotional well-being skills based on cognitive behavioural therapy for older children and youth .
+METHODS	A sample enriched for familial risk of SMI will enhance statistical power for testing the efficacy of PEI .
+CONCLUSIONS	FORBOW offers a platform for efficient and unbiased testing of interventions selected according to best available evidence .
+CONCLUSIONS	Since few differences exist between familial and ` sporadic ' SMI , the same interventions are likely to be effective in the general population .
+CONCLUSIONS	Comparison of short-term efficacy of PEI on antecedents and the long term efficacy for preventing the onset of SMI will provide an experimental test of the etiological role of antecedents in the development of SMI .
+

@@ -1,0 +1,14 @@
+25301463
+BACKGROUND	Little is known about mode of death after acute heart failure ( AHF ) hospitalization .
+BACKGROUND	In the RELAX-AHF ( Efficacy and Safety of Relaxin for the Treatment of Acute Heart Failure ) study , serelaxin , the recombinant form of human relaxin-2 , reduced post-discharge mortality at 180 days in selected patients with AHF .
+OBJECTIVE	The goal of this study was to assess the effect of serelaxin on specific modes of death in patients with AHF .
+METHODS	The RELAX-AHF study randomized 1,161 patients with AHF to 48 h of therapy with intravenous serelaxin or placebo .
+METHODS	Patients were followed for vital status through 180 days .
+METHODS	A blinded clinical events committee reviewed all deaths and adjudicated a cause of death on the basis of pre-specified criteria .
+METHODS	Cox proportional hazard models were used to assess the effect of serelaxin on each mode of death , on the basis of pre-specified groupings of mode of death .
+RESULTS	There were 107 deaths ( 9.3 % ) : 37 ( 35 % ) due to HF , 25 ( 23 % ) due to sudden death , 15 ( 14 % ) due to other cardiovascular ( CV ) causes , 19 ( 18 % ) due to non-CV causes , and 11 ( 10 % ) classified as unknown .
+RESULTS	The treatment effect of serelaxin was most pronounced on other CV deaths ( hazard ratio [ HR ] : 0.29 ; 95 % CI : 0.12 to 0.73 ; p = 0.005 ) and sudden death ( HR : 0.46 ; 95 % CI : 0.20 to 1.07 ; p = 0.065 ) .
+RESULTS	There was no apparent impact of serelaxin treatment on HF deaths or non-CV deaths .
+CONCLUSIONS	In the RELAX-AHF study , the effects of serelaxin on mortality were primarily driven by reduction in mortality from other CV causes and sudden death , without apparent impact on HF deaths .
+CONCLUSIONS	( Efficacy and Safety of Relaxin for the Treatment of Acute Heart Failure [ RELAX-AHF ] ; NCT00520806 ) .
+

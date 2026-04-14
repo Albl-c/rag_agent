@@ -1,0 +1,15 @@
+25867812
+BACKGROUND	Relatively low radioiodine uptake ( RAIU ) represents a common obstacle for radioiodine ( ( 131 ) I ) therapy in patients with multinodular goiter complicated by hyperthyroidism .
+OBJECTIVE	To evaluate whether thiamazole ( MTZ ) pretreatment can increase ( 131 ) I therapeutic efficacy .
+METHODS	Twenty-two patients with multinodular goiter , subclinical hyperthyroidism , and RAIU < 50 % were randomized to receive either a low-iodine diet ( LID ; n = 10 ) or MTZ 30 mg/d ( n = 12 ) for 42 days .
+METHODS	Thyroid function and 24-hour RAIU were measured before and after treatment .
+METHODS	Thyroid volume was evaluated by either magnetic resonance imaging or single photon emission computed tomography .
+RESULTS	Mean 24-hour RAIU increased significantly from 32 10 % to 63 18 % in the MTZ group ( P < .001 ) .
+RESULTS	Consequently , there was a 31 % decrease in the calculated median therapeutic ( 131 ) I activity after MTZ ( P < .05 ) .
+RESULTS	No significant changes in 24-hour RAIU were observed after diet .
+RESULTS	In the MTZ group , median serum TSH levels increased significantly by 9 % and mean serum free T4 and free T3 concentrations decreased by 22 % and 15 % , respectively , whereas no changes in thyroid function were observed in the LID group .
+RESULTS	Thyroid volume did not significantly change in either of the two groups .
+RESULTS	At 12 months after radioiodine treatment , median serum TSH was within the normal range in both groups .
+CONCLUSIONS	MTZ treatment before ( 131 ) I therapy resulted in an average 2-fold increase in thyroid RAIU and enhanced the efficiency of radioiodine therapy assessed at 12 months .
+CONCLUSIONS	MTZ pretreatment is therefore a safe , easily accessible alternative to recombinant human TSH stimulation and a more effective option than LID .
+

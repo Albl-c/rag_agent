@@ -1,0 +1,21 @@
+24392486
+OBJECTIVE	To evaluate the effect of different polymerization sequences employed during application of bis-GMAbased particulate filler composites ( PFC ) or a flowable resin ( FR ) on fiber-reinforced composite ( FRC ) .
+METHODS	Unidirectional , pre-impregnated S2-glass fibers ( Dentapreg ) and multidirectional preimpregnated E-glass fibers ( Dentapreg ) ( length : 40 mm ; thickness : 0.5 mm ) were obtained ( N = 144 , n = 12 per group ) and embedded in translucent silicone material with the adhesion surface exposed .
+METHODS	The resulting specimens were randomly divided into 12 groups for the following application sequences : a ) FRC+PFC ( photopolymerized in one step ) , b ) FRC+FR ( photopolymerized in one step ) , c ) FRC+PFC ( photopolymerized individually ) , d ) FRC+FR ( photopolymerized individually ) , e ) FRC ( photopolymerized ) + intermediate adhesive resin and PFC ( photopolymerized in one step ) , f ) FRC ( photopolymerized ) + intermediate adhesive resin and FR ( photopolymerized in one step ) .
+METHODS	The sequences of unidirectional ( groups a to f ) were repeated for multidirectional ( groups g to l ) FRCs .
+METHODS	PFCs were debonded from the FRC surfaces using the shear bond test in a universal testing machine ( 1 mm/min ) .
+METHODS	On additional specimens from each FRC type , thermogravimetric analysis ( TGA ) was performed to characterize the fiber weight content ( Wf ) ( N = 6 , n = 3 per group ) .
+METHODS	After debonding , all specimens were analyzed using SEM to categorize the failure modes .
+METHODS	The data were statistically analyzed using 3-way ANOVA and Tukey 's tests ( = 0.05 ) .
+RESULTS	Significant effects of the FRC type ( S2 or E-glass ) ( p < 0.01 ) , resin type ( PFC or FR ) ( p < 0.01 ) and polymerization protocol ( p < 0.05 ) were observed on the bond strength ( MPa ) .
+RESULTS	Interaction terms were also significant ( p < 0.05 ) .
+RESULTS	The multidirectional FRC groups ( g to l ) showed significantly lower bond strengths ( 2.3 0.2 to 7.3 0.3 MPa ) than did the unidirectional FRC groups ( a to f ) ( 10.7 0.6 to 24.4 0.8 MPa ) .
+RESULTS	Among the unidirectional FRC groups , the highest values were obtained with protocol f ( 24.4 0.8 ) , followed by protocol e ( 18.6 0.4 ) .
+RESULTS	PFC adhesion to unidirectional FRC was lower when FRC and PFC were polymerized in one step ( protocol a : 11.3 0.5 ) than individual polymerization ( protocol c : 14.1 0.5 ) .
+RESULTS	The opposite situation was true for FR ( protocol b : 17.5 0.4 ; protocol d : 10.7 0.6 ) .
+RESULTS	Groups a to f presented exclusively mixed failures ( a combination of partial cohesive failure in the PFC and adhesive failure between the FRC and PFC ) and groups g to l demonstrated only adhesive failure ( intact FRC no cohesive failure of PFC ) .
+RESULTS	TGA revealed 55 3 wt % fiber content for multidirectional and 60 3 wt % for unidirectional FRCs tested .
+CONCLUSIONS	Multidirectional pre-impregnated E-glass fibers can not be recommended in combination with the PFC and FR materials tested in this study .
+CONCLUSIONS	Application of an intermediate adhesive resin layer increases the adhesion of both PFC and FR to unidirectional FRC .
+CONCLUSIONS	FRC and FR can be polymerized in one step , but FRC and PFC combinations should be polymerized individually .
+

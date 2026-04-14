@@ -1,0 +1,14 @@
+25047046
+BACKGROUND	We report on the design and implementation of a study protocol entitled Acupuncture randomised trial for post anaesthetic recovery and postoperative pain - a pilot study ( ACUARP ) designed to investigate the effectiveness of acupuncture therapy performed in the perioperative period on post anaesthetic recovery and postoperative pain .
+METHODS	The study is designed as a randomised controlled pilot trial with three arms and partial double blinding .
+METHODS	We will compare ( a ) press needle acupuncture , ( b ) no treatment and ( c ) press plaster acupressure in a standardised anaesthetic setting .
+METHODS	Seventy-five patients scheduled for laparoscopic surgery to the uterus or ovaries will be allocated randomly to one of the three trial arms .
+METHODS	The total observation period will begin one day before surgery and end on the second postoperative day .
+METHODS	Twelve press needles and press plasters are to be administered preoperatively at seven acupuncture points .
+METHODS	The primary outcome measure will be time from extubation to ` ready for discharge ' from the post anaesthesia care unit ( in minutes ) .
+METHODS	The ` ready for discharge ' end point will be assessed using three different scores : the Aldrete score , the Post Anaesthetic Discharge Scoring System and an In-House score .
+METHODS	Secondary outcome measures will comprise pre - , intra - and postoperative variables ( which are anxiety , pain , nausea and vomiting , concomitant medication ) .
+CONCLUSIONS	The results of this study will provide information on whether acupuncture may improve patient post anaesthetic recovery .
+CONCLUSIONS	Comparing acupuncture with acupressure will provide insight into potential therapeutic differences between invasive and non-invasive acupuncture techniques .
+BACKGROUND	NCT01816386 ( First received : 28 October 2012 ) .
+

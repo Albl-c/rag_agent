@@ -1,0 +1,12 @@
+24882370
+OBJECTIVE	The main aim was to assess the effects of a spa treatment on the resumption of occupational and non-occupational activities and the abilities of women in breast cancer remission .
+OBJECTIVE	A cost-effectiveness analysis ( CEA ) was also performed .
+METHODS	A multicentre randomised controlled trial was carried out between 2008 and 2010 in the University Hospital of Auvergne and two private hospitals in Clermont-Ferrand , France .
+METHODS	Eligible patients were women in complete breast cancer remission without contraindication for physical activities or cognitive disorders and a body mass index between 18.5 and 40 kg/m ( 2 ) .
+METHODS	The intervention group underwent spa treatment combined with consultation with dietician whereas the control underwent consultations with the dietician only .
+METHODS	Of the 181 patients randomised , 92 and 89 were included in the intervention and the control groups , respectively .
+METHODS	The CEA involved 90 patients , 42 from the intervention group and 48 from the control group .
+RESULTS	The main results showed a higher rate of resumption of occupational activities in the intervention group ( p = 0.0025 ) and a positive effect of the intervention on the women 's ability to perform occupational activities 12 months after the beginning of the study ( p = 0.0014 ) , and on their ability to perform family activities ( p = 0.033 ) .
+RESULTS	The stay in a thermal centre was cost-effective at 12 months .
+CONCLUSIONS	Spa treatment is a cost-effective strategy to improve resumption of occupational and non-occupational activities and the abilities of women in breast cancer remission .
+

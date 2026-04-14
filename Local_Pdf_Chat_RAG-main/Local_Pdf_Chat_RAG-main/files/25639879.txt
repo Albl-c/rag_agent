@@ -1,0 +1,16 @@
+25639879
+BACKGROUND	Indomethacin is a potent analgesic that , similar to other nonsteroidal anti-inflammatory drugs , is associated with serious dose-related adverse events .
+BACKGROUND	There is a need for newer nonsteroidal anti-inflammatory drug products with improved tolerability .
+BACKGROUND	Low-dose submicron indomethacin was developed using SoluMatrix Fine Particle Technology to enable treatment at lower doses than commercially available indomethacin drug products .
+BACKGROUND	This study evaluated the pharmacokinetics and safety of submicron indomethacin 20 and 40 mg compared with indomethacin 50-mg capsules .
+METHODS	This was a phase 1 , randomized , open-label , 4-period , 4-sequence , single-dose crossover study .
+METHODS	Forty healthy volunteers received low-dose submicron indomethacin 20 - or 40-mg capsules , or indomethacin 50-mg capsules under fasting or fed conditions .
+METHODS	Pharmacokinetic parameters and safety were assessed .
+RESULTS	Comparable fasting peak plasma levels ( mean standard deviation ) were demonstrated for submicron indomethacin 40 mg ( 2368.79 631.38 ng/ml ) and indomethacin 50 mg ( 2369.40 969.06 ng/ml ) .
+RESULTS	The overall systemic exposure ( geometric least squares mean ; 95 % CI ) was > 21 % lower for submicron indomethacin 40 mg ( 6007.71 ngh/mL ; 5585.73-6461 .58 ) compared with indomethacin 50 mg ( 7646.23 ngh/ml ; 7110.44-8222 .40 ) under fasting conditions .
+RESULTS	Food delayed the rate but did not affect the extent of indomethacin absorption from submicron indomethacin 40 mg .
+RESULTS	Submicron indomethacin 40 mg administration resulted in earlier time to peak plasma levels ( median 1.67 ; min-max 0.5-3 .5 hours ) under fasting conditions compared with indomethacin 50 mg ( 2.02 ; 0.5-5 .0 hours ) .
+RESULTS	Submicron indomethacin 20 and 40 mg were dose proportional and generally well tolerated .
+CONCLUSIONS	Compared with indomethacin 50 mg , submicron indomethacin 40 mg achieved similar peak plasma concentrations , lower systemic exposure , and a faster time to peak plasma concentration , indicating rapid absorption .
+CONCLUSIONS	The current formulation of low-dose submicron indomethacin has recently demonstrated efficacy in 2 phase 3 studies in patients with acute pain following bunionectomy and represents a new , low-dose treatment option for patients with acute pain .
+

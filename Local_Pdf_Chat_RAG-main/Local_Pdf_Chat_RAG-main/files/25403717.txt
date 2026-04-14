@@ -1,0 +1,14 @@
+25403717
+BACKGROUND	Non-attenders for cervical screening are at increased risk of cervical cancer .
+BACKGROUND	Studies offering self-sampling for high-risk Human Papillomavirus ( HrHPV ) testing have shown greater uptake than sending another invitation for cytology .
+OBJECTIVE	To explore whether uptake would increase in a less diverse , more stable population than the previous English study , which demonstrated a lower response rate than other studies .
+OBJECTIVE	The primary objective was whether non-attenders were more likely to respond to a postal invitation , including kit , to collect a self-sample compared with a further invitation for cytology screening .
+OBJECTIVE	The secondary objective was whether women with an abnormal result would attend for follow-up .
+METHODS	6000 non-attenders for screening in this pragmatic , randomized ( 1:1 ) controlled trial in Newcastle-upon-Tyne were sent an HPV self-sample kit ( intervention ) or a further invitation for cytology screening ( comparator ) .
+RESULTS	411 ( 13 % ) responded to the intervention , returning a self-sample ( 247 ( 8 % ) ) or attending for cytology ( 164 ( 5 % ) ) , compared with 183 ( 6 % ) attending for cytology , relative risk 2.25 ( 95 % CI 1.90-2 .65 ) ( comparator arm ) .
+RESULTS	Of those testing hrHPV positive ( 32 ( 13 % ) ) , 19 ( 59 % ) subsequently attended cytology screening .
+RESULTS	Of those in the intervention group who attended for cytology screening without returning an hrHPV self-sample ( n = 164 ) , 5 % ( n = 8 ) were referred for colposcopy-all attended .
+RESULTS	In the comparator group eight of the nine referred for colposcopy attended .
+CONCLUSIONS	Persistent non-responders to invitations for cervical screening are significantly more likely to respond to a postal invitation to return a self-collected sample for HPV testing than a further invitation for cytology screening .
+CONCLUSIONS	However , just over half followed up on this positive HPV result .
+

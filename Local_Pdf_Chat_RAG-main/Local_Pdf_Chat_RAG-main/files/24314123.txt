@@ -1,0 +1,17 @@
+24314123
+BACKGROUND	Medications for respiratory disorders including asthma and chronic obstructive pulmonary disease ( COPD ) are typically delivered to the lung by means of a handheld inhaler .
+BACKGROUND	Patient preference for and ability to use the inhaler may influence their adherence to maintenance therapy , and adherence may affect treatment outcomes .
+BACKGROUND	In this study , patient experience of using a dry powder inhaler ( DPI ) , the ELLIPTA DPI , in clinical trials of a new maintenance therapy for asthma and COPD was investigated .
+BACKGROUND	The ELLIPTA DPI has been designed to contain two separate blister strips from which inhalation powder can be delivered , and to be simple to use with a large , easy-to-read dose counter .
+METHODS	Semi-structured , in-depth , qualitative interviews were carried out 2-4 weeks after patients had completed one of six phase IIIa clinical trials using the ELLIPTA DPI .
+METHODS	Interview participants were asked about their satisfaction with various attributes of the inhaler and their preference for the ELLIPTA DPI relative to currently-prescribed inhalers , and responses were explored using an inductive content analysis approach .
+METHODS	Participants also rated the performance of the inhaler on several criteria , using a subjective 1-10 scale .
+RESULTS	Participants with asthma ( n = 33 ) and COPD ( n = 42 ) reported high levels of satisfaction with the ELLIPTA DPI .
+RESULTS	It was frequently described as straightforward to operate and easy to use by interview participants .
+RESULTS	Ergonomic design , mouthpiece fit , and dose counter visibility and ease of interpretation emerged as frequently cited drivers of preference for the ELLIPTA DPI compared with their current prescribed inhaler .
+RESULTS	Of participants with asthma , 71 % preferred the ELLIPTA DPI to DISKUS and 60 % to metered dose inhalers .
+RESULTS	Of participants with COPD , 86 % preferred the ELLIPTA DPI to DISKUS , 95 % to HandiHaler , and 85 % to metered dose inhalers .
+RESULTS	Overall average performance scores were > 9 ( out of 10 ) in participants with asthma and COPD .
+CONCLUSIONS	The ELLIPTA DPI was associated with high patient satisfaction and was preferred to other inhalers by interview participants with asthma and COPD .
+CONCLUSIONS	The development of an inhaler that is regarded as easy and intuitive to use may have positive implications for adherence to therapy in asthma and COPD .
+

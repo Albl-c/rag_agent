@@ -1,0 +1,14 @@
+24393747
+BACKGROUND	Canagliflozin , a sodium glucose co-transporter 2 inhibitor , lowers plasma glucose in individuals with hyperglycemia by inhibiting renal glucose reabsorption and increasing glucosuria .
+BACKGROUND	Urinary tract infections ( UTIs ) were characterized in patients with type 2 diabetes mellitus enrolled in Phase III studies of canagliflozin .
+METHODS	Analyses were performed in 2 pooled datasets : Population 1 ( N = 2313 ; mean exposure [ weeks ] : canagliflozin , 24.3 ; placebo , 23.8 ) including patients from 4 placebo-controlled studies ; Population 2 ( N = 9439 ; mean exposure [ weeks ] : canagliflozin , 68.1 ; control , 64.4 ) including patients from 8 placebo - and active-controlled studies ( including patients with renal impairment or high risk of cardiovascular disease , and older patients ) .
+METHODS	Individual studies in special patient populations and 2 active-controlled studies were analyzed separately .
+METHODS	Patients with a prior history of UTIs were not excluded from these studies .
+METHODS	Urinary tract infection frequency and characteristics were systematically collected , with additional information for each event collected using supplemental electronic case report forms .
+RESULTS	In Populations 1 and 2 , canagliflozin 100 and 300 mg were associated with small increases in the incidence of UTIs compared with control , with no dose-dependence .
+RESULTS	Urinary tract infections with canagliflozin were similar to those with control in severity , and upper UTIs were infrequent across groups .
+RESULTS	No increase in serious events or those leading to discontinuation were seen with canagliflozin versus control .
+RESULTS	Time to the first occurrence of symptomatic UTIs tended to be earlier with canagliflozin than placebo in Population 1 , and similar with canagliflozin and control in Population 2 ; median duration of events was similar across groups in both populations .
+RESULTS	The proportion of patients with recurrent events was low across groups .
+CONCLUSIONS	Canagliflozin was associated with a small increase in incidence of UTIs in patients with type 2 diabetes mellitus , with no increase in serious or upper UTIs .
+

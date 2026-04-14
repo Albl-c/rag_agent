@@ -1,0 +1,17 @@
+24899242
+BACKGROUND	Osteoarthritis is a leading cause of disability in developed nations .
+BACKGROUND	In Australia it afflicts 16.5 % of the adult population .
+BACKGROUND	Total joint arthroplasty is considered the treatment of choice for end stage osteoarthritis .
+BACKGROUND	The number of total joint arthroplasties undertaken in Australia has doubled over the last decade ( more than 80,000 procedures in 2011 ) .
+BACKGROUND	The incidence of pre-operative psychological distress in this group of patients is reported between 30 % and 60 % and pre-operative psychological distress is associated with poorer pain and functional outcomes after surgery .
+BACKGROUND	This study will use a mindfulness-based psychological intervention to enhance outcomes in people undergoing total joint arthroplasty and , in addition , will test hypotheses about coping with chronic illness in an aged population .
+BACKGROUND	This study is the first of its kind and will provide a greater understanding of the role of a mental health enhancement program on the physical recovery of total joint arthroplasty patients .
+METHODS	One hundred and fifty people with end-stage arthritis on the waiting list for total hip or knee arthroplasty will be recruited and randomly allocated to one of two groups using computer-generated block randomisation .
+METHODS	A randomised controlled trial adhering to CONSORT guidelines will evaluate the efficacy of a mindfulness training program ( weekly group-based classes in mindfulness practice , 2 hours , for 8weeks plus a 7-hour Saturday session in Week 6 ) prior to total joint arthroplasty , compared to a `` standard care '' group who will undergo routine total joint arthroplasty .
+METHODS	Primary outcomes will be evaluated by a blinded examiner at baseline , 3 and 12months post-surgery , using a validated self-reported pain and physical function scale .
+METHODS	Secondary outcomes will include i ) a range of validated measures of psychological wellbeing and ii ) health economic analysis .
+METHODS	All analyses will be conducted on an intention to treat basis using linear regression models .
+METHODS	Health economic modelling will be applied to estimate the potential cost-effectiveness of mindfulness training and total joint arthroplasty .
+BACKGROUND	Australian New Zealand Clinical Trials Registry ( ANZCTRN12611001184965 ) .
+BACKGROUND	Date of registration ; 15th November 2011 .
+

@@ -1,0 +1,14 @@
+25011946
+OBJECTIVE	Mealtime insulin is commonly added to manage hyperglycemia in type 2 diabetes when basal insulin is insufficient .
+OBJECTIVE	However , this complex regimen is associated with weight gain and hypoglycemia .
+OBJECTIVE	This study compared the efficacy and safety of exenatide twice daily or mealtime insulin lispro in patients inadequately controlled by insulin glargine and metformin despite up-titration .
+METHODS	In this 30-week , open-label , multicenter , randomized , noninferiority trial with 12 weeks prior insulin optimization , 627 patients with insufficient postoptimization glycated hemoglobin A1c ( HbA1c ) were randomized to exenatide ( 10-20 g/day ) or thrice-daily mealtime lispro titrated to premeal glucose of 5.6-6 .0 mmol/L , both added to insulin glargine ( mean 61 units/day at randomization ) and metformin ( mean 2,000 mg/day ) .
+RESULTS	Randomization HbA1c and fasting glucose ( FG ) were 8.3 % ( 67 mmol/mol ) and 7.1 mmol/L for exenatide and 8.2 % ( 66 mmol/mol ) and 7.1 mmol/L for lispro .
+RESULTS	At 30 weeks postrandomization , mean HbA1c changes were noninferior for exenatide compared with lispro ( -1.13 and -1.10 % , respectively ) ; treatment differences were -0.04 ( 95 % CI -0.18 , 0.11 ) in per-protocol ( n = 510 ) and -0.03 ( 95 % CI -0.16 , 0.11 ) in intent-to-treat ( n = 627 ) populations .
+RESULTS	FG was lower with exenatide than lispro ( 6.5 vs. 7.2 mmol/L ; P = 0.002 ) .
+RESULTS	Weight decreased with exenatide and increased with lispro ( -2.5 vs. +2.1 kg ; P < 0.001 ) .
+RESULTS	More patients reported treatment satisfaction and better quality of life with exenatide than lispro , although a larger proportion of patients with exenatide experienced treatment-emergent adverse events .
+RESULTS	Exenatide resulted in fewer nonnocturnal hypoglycemic episodes but more gastrointestinal adverse events than lispro .
+CONCLUSIONS	Adding exenatide to titrated glargine with metformin resulted in similar glycemic control as adding lispro and was well tolerated .
+CONCLUSIONS	These findings support exenatide as a noninsulin addition for patients failing basal insulin .
+

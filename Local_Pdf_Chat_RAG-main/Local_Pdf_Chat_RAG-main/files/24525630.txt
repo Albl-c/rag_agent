@@ -1,0 +1,11 @@
+24525630
+BACKGROUND	The authors investigated the efficacy of bilateral suprazygomatic maxillary nerve block ( SMB ) for postoperative pain relief in infants undergoing cleft palate repair .
+METHODS	In this prospective , double-blind , single-site , randomized , and parallel-arm controlled trial , 60 children were assigned to undergo bilateral SMB with general anesthesia with either 0.15 ml/kg of 0.2 % ropivacaine ( Ropi group ) or 0.15 ml/kg of isotonic saline ( Saline group ) on each side .
+METHODS	The primary endpoint was total postoperative morphine consumption at 48 h. Pain scores and respiratory - and SMB-related complications were noted .
+RESULTS	The overall dose of intravenous morphine after 48 h ( mean [ 95 % CI ] ) was lower in the Ropi group compared with that in the Saline group ( 104.3 [ 68.9 to 139.6 ] vs. 205.2 [ 130.7 to 279.7 ] g/kg ; P = 0.033 ) .
+RESULTS	Continuous morphine infusion was less frequent in the Ropi group compared with that in the Saline group ( 1 patient [ 3.6 % ] vs. 9 patients [ 31 % ] ; P = 0.006 ) .
+RESULTS	Three patients in the Saline group had an episode of oxygen desaturation requiring oxygen therapy .
+RESULTS	There were no technical failures or immediate complications of the SMB .
+RESULTS	Intraoperative hemodynamic parameters , doses of sufentanil , pain scores , and postoperative hydroxyzine requirements were not different between the two groups .
+CONCLUSIONS	Bilateral SMB is an easy regional anesthesia technique that reduces total morphine consumption at 48 h after cleft palate repair in children and the use of continuous infusion of morphine and may decrease postoperative respiratory complications .
+

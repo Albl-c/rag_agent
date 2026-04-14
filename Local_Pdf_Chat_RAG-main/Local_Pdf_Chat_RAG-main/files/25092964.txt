@@ -1,0 +1,18 @@
+25092964
+BACKGROUND	Migraine is a painful neurological disorder that affects over 10 % of the general population .
+BACKGROUND	Frovatriptan and rizatriptan are antimigraine agents belonging to the triptan class .
+BACKGROUND	Although previous studies have independently compared the efficacy of these agents , contemporaneous data examining both pharmacokinetic ( PK ) properties and efficacy in parallel have not previously been available .
+METHODS	In this single-center double-blind study , 18 subjects ( ten female ) were treated for a single migraine attack with frovatriptan 2.5 mg or rizatriptan 10 mg .
+METHODS	Plasma concentrations were measured predose and at 2 , 4 , 6 , 12 , 24 , 48 , and 72 hours after drug administration .
+METHODS	The primary end point of this study was to evaluate the association between PK parameters and efficacy measures and recurrence rate .
+METHODS	Secondary end points were pain-free and pain-relief episodes at 2 and 4 hours , recurrent episodes within 48 hours , and cumulative hazard of recurrence within 72 hours .
+RESULTS	At baseline , approximately 17 % of patients had mild migraine , while 83 % had moderate-severe migraine .
+RESULTS	Although the time to maximum concentration was similar for both drugs ( 2.7 versus 2.3 hours ) , the terminal half-life for frovatriptan was longer than rizatriptan ( 29.3 versus 3.2 hours , P < 0.0001 ) .
+RESULTS	The proportion of patients who were pain-free at 4 hours without rescue medication was higher in the frovatriptan-treated group , ( 38.9 versus 5.6 % , P = 0.045 ) .
+RESULTS	The cumulative hazard of recurrence over 72 h was reduced by frovatriptan compared to rizatriptan-treated patients ( log-rank test , P = 0.04 ) .
+RESULTS	Pain-free and pain-relief episodes for the study period were positively correlated with the concentration : maximum concentration ( Cmax ) ratio for frovatriptan ( r = 0.52 , P = 0.028 ) , but not rizatriptan .
+RESULTS	Recurrence rate was negatively correlated with the concentration : Cmax ratio for both frovatriptan ( r = -0.96 , P = 0.0024 ) and rizatriptan ( r = -0.98 , P = 0.0004 ) .
+RESULTS	Fewer adverse events were observed for frovatriptan compared to rizatriptan ( one versus eight , P = 0.021 ) .
+CONCLUSIONS	This pilot study indicates that a similar extent of initial pain relief is afforded by both triptans in migraine treatment .
+CONCLUSIONS	The longer duration of action of frovatriptan parallels and correlates with its PK profile .
+

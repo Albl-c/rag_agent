@@ -1,0 +1,11 @@
+25537443
+BACKGROUND	Microprocessor knees have improved the gait and functional abilities of persons with transfemoral amputation .
+BACKGROUND	The Genium prosthetic knee offers an advanced sensor and control system designed to decrease impairment by : allowing greater stance phase flexion , easing transitions between gait phases , and compensating for changes in terrain .
+BACKGROUND	The aim of this study was to determine differences between the knee flexion angle of persons using the Genium knee , the C-Leg knee , and non-amputee controls ; and to evaluate the impact the prostheses on gait and level of impairment of the user .
+METHODS	This study used a randomized experimental crossover of persons with transfemoral amputation using the Genium and C-Leg microprocessor knees ( n = 25 ) , with an observational sample of non-amputee controls ( n = 5 ) .
+METHODS	Gait analysis by 3D motion tracking of subjects ambulating at different speeds on level ground and on 5 and 10 ramps was completed .
+RESULTS	Use of the Genium resulted in a significant increase in peak knee flexion for swing ( 5 , p < 0.01 , d = 0.34 ) and stance ( 2 , p < 0.01 , d = 0.19 ) phases relative to C-Leg use .
+RESULTS	There was a high degree of variability between subjects , and significant differences still remain between the Genium group and the control group 's knee flexion angles for most speeds and slopes .
+CONCLUSIONS	The Genium knee generally increases flexion in swing and stance , potentially decreasing the level of impairment for persons with transfemoral amputation .
+CONCLUSIONS	This study demonstrates functional differences between the C-Leg and Genium knees to help prosthetists determine if the Genium will provide functional benefits to individual patients .
+

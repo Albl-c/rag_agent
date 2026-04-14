@@ -1,0 +1,19 @@
+24573743
+BACKGROUND	Colorectal cancer ( CRC ) is the fourth leading cause of cancer-related deaths worldwide .
+BACKGROUND	The combination of oxaliplatin-based treatments ( oxaliplatin plus infusional 5-fluorouracil and leucovorin [ FOLFOX ] or oxaliplatin plus capecitabine [ CapeOX ] ) and bevacizumab is a standard chemotherapy regimen for metastatic CRC ( mCRC ) .
+BACKGROUND	However , several clinical studies that tested S-1 plus oxaliplatin ( SOX ) indicate that SOX is also a treatment option for mCRC .
+BACKGROUND	TSU-68 is an oral compound that inhibits vascular endothelial growth factor receptor and platelet-derived growth factor receptor .
+BACKGROUND	The recommended dose of TSU-68 + SOX was previously determined in a phase I study of mCRC patients .
+BACKGROUND	The goal of this trial was to evaluate the efficacy of TSU-68 in combination with SOX .
+METHODS	This open-label multicenter randomized phase II trial was performed in Korea .
+METHODS	Treatment-naive mCRC patients with a performance status of 0 or 1 were randomized in a 1:1 ratio to receive either TSU-68 + SOX or SOX alone .
+METHODS	The primary endpoint was progression-free survival ( PFS ) .
+RESULTS	A total of 105 patients ( TSU-68 + SOX , 52 patients ; SOX alone , 53 patients ) were randomized .
+RESULTS	The median PFS was 7.0 months in the TSU-68 + SOX group ( hazard ratio [ HR ] , 1.057 ) and 7.2 months in the SOX group ( p = 0.8401 ) .
+RESULTS	The most frequent grade 3 and 4 adverse events were thrombocytopenia ( 9.6 % [ TSU-68 + SOX ] vs. 26.4 % [ SOX ] ) , neutropenia ( 13.5 % [ TSU-68 + SOX ] vs. 15.1 % [ SOX ] ) , and anemia ( 3.8 % [ TSU-68 + SOX ] vs. 13.2 % [ SOX ] ) .
+RESULTS	We observed a difference between the 2 groups for all grades of anemia ( 15.4 % [ TSU-68 + SOX ] vs. 32.1 % [ SOX ] ) , diarrhea ( 30.8 % [ TSU-68 + SOX ] vs. 47.2 % [ SOX ] ) , vomiting ( 50.0 % [ TSU-68 + SOX ] vs. 26.4 % [ SOX ] ) , and chromaturia ( 23.1 % [ TSU-68 + SOX ] vs. 0.0 % [ SOX ] ) .
+RESULTS	Analysis using a Cox proportional hazard model showed that baseline interleukin 6 ( IL-6 ) levels were associated with a survival benefit of TSU-68 ( p = 0.012 ) .
+CONCLUSIONS	TSU-68 + SOX had a favorable safety profile .
+CONCLUSIONS	However , TSU-68 did not have a synergistic effect on the efficacy of SOX .
+CONCLUSIONS	The baseline serum IL-6 level could be a prognostic factor for TSU-68 efficacy .
+

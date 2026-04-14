@@ -1,0 +1,13 @@
+24608069
+BACKGROUND	Raltegravir is an HIV-1 integrase inhibitor approved for use in adults , children and infants 4 weeks of age .
+BACKGROUND	As alternatives to the original film-coated tablet , a chewable ethylcellulose ( EC ) tablet and oral granules for suspension ( GFS ) have been developed for use in children .
+BACKGROUND	The purpose of this study was to evaluate these formulations in adults prior to use in paediatric studies .
+METHODS	This open-label , 4-period , randomized , crossover study investigated the safety , tolerability and pharmacokinetics of raltegravir paediatric formulations and the effect of a high-fat meal on EC tablet pharmacokinetics in healthy adults .
+METHODS	In a balanced , crossover design ( with a 4-day washout between treatments ) , 12 subjects received one 400 mg film-coated tablet ( fasted ) , four 100 mg EC tablets ( fasted ) , one 400 mg GFS dose ( fasted ) and four 100 mg EC tablets ( after a high-fat meal ) .
+RESULTS	AUC0 - and Cmax were 2.6-fold and 4.6-fold higher for GFS and 1.8-fold and 3.2-fold higher for EC versus film-coated tablets .
+RESULTS	The geometric mean C12h values for the GFS formulation ( 162 nM ) and the EC tablet ( 134 nM ) were similar to that of the film-coated tablet ( 149 nM ) .
+RESULTS	Administration with a high-fat meal increased C12h , decreased Cmax and delayed Tmax for the EC tablet , but did not affect AUC0 - .
+RESULTS	There were no serious adverse events ( AEs ) and no discontinuations due to drug-related clinical or laboratory AEs .
+CONCLUSIONS	Both paediatric formulations demonstrate moderately higher AUC0 - and Cmax , and similar C12h compared with the film-coated tablet .
+CONCLUSIONS	These data support the use of raltegravir GFS and EC formulations in paediatric studies .
+

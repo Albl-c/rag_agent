@@ -1,0 +1,17 @@
+26180474
+BACKGROUND	To assess the short-term efficacy and safety of corneal collagen cross-linking ( CXL ) in preventing the progression of keratoconus ( KCN ) .
+METHODS	This randomized controlled clinical trial enrolled 26 patients diagnosed with bilateral progressive KCN and were eligible for CXL .
+METHODS	In each patient , one eye was randomly selected for treatment , and the contralateral eye served as the control .
+METHODS	The patients underwent CXL with riboflavin drops and ultraviolet radiation in the treated eye .
+METHODS	One year follow-up data are presented .
+METHODS	Postoperatively , patients were assessed for progression of KCN , visual changes , and other findings .
+METHODS	The main outcome measures were maximum simulated keratometry ( K-max ) , best spectacle-corrected visual acuity ( BSCVA ) , and average simulated keratometry .
+METHODS	P < 0.05 was considered as statistically significant .
+RESULTS	In the treated eyes , the mean K-max values decreased by 0.22 D at 1-year postoperatively and increased by 0.41 D in the control group .
+RESULTS	This difference was statistically significant ( P < 0.001 ) .
+RESULTS	BSCVA improved slightly ( a decrease of 0.13 LogMAR ) and decreased slightly in the control group ( a 0.01 LogMAR increase ) .
+RESULTS	The difference between groups was statistically significant ( P = 0.014 ) .
+RESULTS	There was no decrease in visual acuity attributable to complications of CXL in the treated eyes .
+RESULTS	At 1-year , the keratometry in 3 ( 12 % ) treated eyes increased by more than 0.50 D and were considered cases of failed treatment .
+CONCLUSIONS	Preliminary and 1-year results indicate CXL can halt the progression of KCN in most cases without causing serious complications .
+

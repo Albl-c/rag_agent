@@ -1,0 +1,12 @@
+24304555
+OBJECTIVE	This randomized controlled study tested the effectiveness of individualized activities , led by certified nursing assistants ( CNAs ) , to increase positive and reduce negative affect and behavior among nursing home residents with dementia .
+METHODS	Nursing home residents with mild to advanced dementia ( N = 180 ) were randomly assigned to usual care ( UC , n = 93 ) or 1 of 2 experimental conditions .
+METHODS	Residents in the attention control group ( AC , N = 43 ) participated in standardized one-to-one activities with their CNAs .
+METHODS	Individualized Positive Psychosocial Intervention ( IPPI ) participants ( n = 44 ) received a CNA-led activity matched to their interests and ability .
+METHODS	Outcomes were residents ' positive and negative affect and verbal and nonverbal behavior .
+RESULTS	The IPPI and AC groups experienced similar benefits-more pleasure , alertness , engagement , positive touch , and positive verbal behavior-compared with UC .
+RESULTS	The AC group displayed more anger , uncooperativeness , and very negative verbal behavior than UC or IPPI .
+CONCLUSIONS	This study demonstrates the value of individualized activities for nursing home residents with dementia .
+CONCLUSIONS	In a stringent test , residents were happier and less angry during a customized intervention compared with a standardized intervention .
+CONCLUSIONS	Even brief individualized CNA-led activities bring pleasure to nursing home residents and constitute an effective strategy to enhance positive affect and engagement in persons with dementia .
+

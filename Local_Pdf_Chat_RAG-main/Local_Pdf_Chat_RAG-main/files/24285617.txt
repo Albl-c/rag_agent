@@ -1,0 +1,14 @@
+24285617
+OBJECTIVE	To test the hypothesis that daily acute intermittent hypoxia ( dAIH ) and dAIH combined with overground walking improve walking speed and endurance in persons with chronic incomplete spinal cord injury ( iSCI ) .
+METHODS	Nineteen subjects completed the randomized , double-blind , placebo-controlled , crossover study .
+METHODS	Participants received 15 , 90-second hypoxic exposures ( dAIH , fraction of inspired oxygen [ Fio2 ] = 0.09 ) or daily normoxia ( dSHAM , Fio2 = 0.21 ) at 60-second normoxic intervals on 5 consecutive days ; dAIH was given alone or combined with 30 minutes of overground walking 1 hour later .
+METHODS	Walking speed and endurance were quantified using 10-Meter and 6-Minute Walk Tests .
+METHODS	The trial is registered at ClinicalTrials.gov ( NCT01272349 ) .
+RESULTS	dAIH improved walking speed and endurance .
+RESULTS	Ten-Meter Walk time improved with dAIH vs dSHAM after 1 day ( mean difference [ MD ] 3.8 seconds , 95 % confidence interval [ CI ] 1.1-6 .5 seconds , p = 0.006 ) and 2 weeks ( MD 3.8 seconds , 95 % CI 0.9-6 .7 seconds , p = 0.010 ) .
+RESULTS	Six-Minute Walk distance increased with combined dAIH + walking vs dSHAM + walking after 5 days ( MD 94.4 m , 95 % CI 17.5-171 .3 m , p = 0.017 ) and 1-week follow-up ( MD 97.0 m , 95 % CI 20.1-173 .9 m , p = 0.014 ) .
+RESULTS	dAIH + walking increased walking distance more than dAIH after 1 day ( MD 67.7 m , 95 % CI 1.3-134 .1 m , p = 0.046 ) , 5 days ( MD 107.0 m , 95 % CI 40.6-173 .4 m , p = 0.002 ) , and 1-week follow-up ( MD 136.0 m , 95 % CI 65.3-206 .6 m , p < 0.001 ) .
+CONCLUSIONS	dAIH walking improved walking speed and distance in persons with chronic iSCI .
+CONCLUSIONS	The impact of dAIH is enhanced by combination with walking , demonstrating that combinatorial therapies may promote greater functional benefits in persons with iSCI .
+METHODS	This study provides Class I evidence that transient hypoxia ( through measured breathing treatments ) , along with overground walking training , improves walking speed and endurance after iSCI .
+

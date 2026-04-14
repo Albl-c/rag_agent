@@ -1,0 +1,16 @@
+24428092
+BACKGROUND	New topical treatments studied in adults have been published to be potentially effective in the treatment of hypertrophic scar and keloids .
+BACKGROUND	There is still no study in Thai children .
+OBJECTIVE	To study the efficacy of 10 % onion extract in silicone derivative gel for the prevention of hypertrophic scar and keloid in median sternotomy wound from open heart surgery in pediatric patients .
+METHODS	Thirty-nine pediatric patients who had median sternotomy were recruited in this prospective randomized , double-blinded , placebo-controlled split-scar experimental study .
+METHODS	The wound in each patient was divided into upper and lower parts , and the treatment with , either onion extract gel or placebo was randomly applied by block randomization onto each part of the wound twice daily after the seventh day postoperatively for six months .
+METHODS	The incidence of scars , serial photographs of the wound , Vancouver Scar Scale ( VSS ) , and adverse effect were assessed at each visit .
+RESULTS	Thirty patients with the mean age of 4.3 years completed the 6-month study period .
+RESULTS	Six patients ( 20 % ) in onion extract gel group had no scar compared to one patient ( 3.3 % ) in placebo group ( p = 0.04 ) .
+RESULTS	Of the 27 patients with hypertrophic scar nine were from onion extract gel group and 18 from the placebo group ( p = 0.02 ) .
+RESULTS	Keloid was not statistically significant diferent in both groups ( p = 0.29 ) .
+RESULTS	VSS was not statistically significant different in all visits .
+RESULTS	One case had a pustule on the part of the onion extract in silicone derivative application at the sixth month .
+CONCLUSIONS	Onion extract in silicone derivative gel can significantly decreased the incidence of hypertrophic scar from median sternotomy wound in pediatric patients .
+CONCLUSIONS	Keloid did not show statistically significant differences in both groups .
+

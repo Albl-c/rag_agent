@@ -1,0 +1,12 @@
+24830824
+OBJECTIVE	To evaluate the onset and duration of improvement in best-corrected visual acuity ( BCVA ) in eyes treated with dexamethasone intravitreal implant 0.7 mg ( DEX implant ) for macular edema after branch or central retinal vein occlusion .
+METHODS	Post hoc analysis of data from 2 previously reported multicenter , 6-month , randomized sham-controlled clinical trials .
+METHODS	Patients received a single DEX implant ( n = 427 ) or sham procedure ( n = 426 ) in the study eye .
+METHODS	The primary endpoint was the percentage of eyes with 15-letter improvement in BCVA from baseline at postimplant Day 7 .
+RESULTS	The baseline mean BCVA was 20/80 .
+RESULTS	At Day 7 , 10.3 % of DEX implant-treated eyes versus 4.0 % of sham-treated eyes ( P < 0.001 ) had 15-letter improvement in the BCVA , and 27.2 % of DEX implant-treated eyes versus 10.6 % of sham-treated eyes had 10-letter improvement ( P < 0.001 ) .
+RESULTS	The mean improvement at Day 7 was 5.3 letters ( branch retinal vein occlusion , 5.1 ; and central retinal vein occlusion , 5.8 ) with DEX implant and 1.6 letters ( branch retinal vein occlusion , 2.3 ; and central retinal vein occlusion , 0.1 ) with sham ( P < 0.001 ) .
+RESULTS	The mean time from initial observation of 15-letter BCVA gain to the last observation of 15-letter BCVA gain was 70 days .
+CONCLUSIONS	Dexamethasone intravitreal implant treatment led to improvement in BCVA compared with sham procedure as early as postimplant Day 7 .
+CONCLUSIONS	The duration of 3-line improvement was typically 2 to 3 months .
+

@@ -1,0 +1,16 @@
+25072616
+BACKGROUND	Protease inhibitor-based antiretroviral therapy ( ART ) has been associated with preterm birth in some studies .
+BACKGROUND	We examined risk factors for preterm birth among women randomized to lopinavir/ritonavir ( LPV/r ) - or efavirenz ( EFV ) - based ART .
+METHODS	This was a planned secondary analysis of the PROMOTE-Pregnant Women and Infants Study , an open-label , randomized controlled trial comparing the risk of placental malaria among HIV-infected , ART-naive pregnant Ugandan women assigned to initiate LPV/r - or EFV-based ART at 12-28 weeks gestation .
+METHODS	Gestational age was determined based on last menstrual period and ultrasound biometry .
+METHODS	All women received bednets and trimethoprim-sulfamethoxazole .
+METHODS	Stillbirths , spontaneous abortions , and multiple gestations were excluded from the primary analysis .
+METHODS	Potential risk factors for preterm birth ( < 37 weeks gestation ) were evaluated by univariate and multivariate logistic regression .
+RESULTS	Three hundred fifty-six women were included in this analysis .
+RESULTS	At enrollment , median gestational age was 21 weeks and median CD4 cell count was 368 cells per cubic millimeter .
+RESULTS	14.7 % of deliveries in the EFV arm and 16.2 % in the LPV/r arm were preterm .
+RESULTS	Preterm birth was associated with gestational weight gain below 0.1 kg/week versus 0.1 kg/week or more [ odds ratio ( OR ) = 2.49 ; 95 % confidence interval ( CI ) : 1.38 to 4.47 ; P = 0.003 ] .
+RESULTS	Neither ART regimen of LPV/r versus EFV ( OR = 1.12 ; 95 % CI : 0.63 to 2.00 ; P = 0.69 ) nor placental malaria ( OR = 0.74 ; 95 % CI : 0.38 to 1.44 ; P = 0.37 ) was associated with preterm birth .
+CONCLUSIONS	LPV/r was not associated with an increased risk of preterm birth compared with EFV .
+CONCLUSIONS	However , interventions are needed to address modifiable risk factors for preterm birth , such as nutritional status ( ClinicalTrials.gov , NCT00993031 ) .
+

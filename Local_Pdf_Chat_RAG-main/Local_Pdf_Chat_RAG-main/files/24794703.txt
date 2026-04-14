@@ -1,0 +1,16 @@
+24794703
+BACKGROUND	Insulin analogues have been developed to reduce the risk of hypoglycaemia in patients with diabetes who require insulin-based treatment , but their effect on this endpoint in patients with type 1 diabetes complicated by recurrent severe hypoglycaemia is unknown .
+BACKGROUND	We compared the occurrence of severe hypoglycaemic episodes in such patients during treatment with insulin analogues or human insulin .
+METHODS	In this investigator-initiated , prospective , randomised , open-label , blinded-endpoint crossover trial at seven medical centres in Denmark , we recruited patients ( aged 18 years ) with type 1 diabetes ( diagnosed for > 5 years ) who had reported two or more episodes of severe hypoglycaemia in the preceding year .
+METHODS	Patients were randomly assigned ( 1:1 ) using computer-generated site-specific randomisation lists in blocks of four to treatment with basal-bolus therapy with either analogue insulin ( detemir and aspart ) or human insulin ( human neutral protamine Hagedorn and human regular ) in a balanced crossover design .
+METHODS	A 1-year plus 1-year treatment period was specified , consisting of two 3-month run-in periods , each followed by a 9-month maintenance period .
+METHODS	The primary endpoint was the number of validated episodes of severe hypoglycaemia ( defined by need for treatment assistance from others ) reported during the maintenance periods , analysed by intention to treat .
+METHODS	The study is registered with ClinicalTrials.gov , number NCT00346996 .
+RESULTS	Between May 9 , 2007 , and Oct 30 , 2009 , 159 patients were randomly assigned .
+RESULTS	18 patients discontinued during the first run-in period , leaving 141 patients in the intention-to-treat population .
+RESULTS	136 severe hypoglycaemic episodes were reported during treatment with human insulin and 105 episodes were reported during treatment with insulin analogues , resulting in an absolute rate reduction of 0.51 episodes ( 95 % CI 0.19-0 .84 ) per patient-year with insulin analogues .
+RESULTS	This result corresponds to a relative rate reduction of 29 % ( 95 % CI 11-48 ; p = 0.010 ) .
+CONCLUSIONS	Treatment with insulin detemir and aspart in patients with type 1 diabetes and recurrent severe hypoglycaemia resulted in a clinically significant reduced rate of severe hypoglycaemia compared with human insulin .
+CONCLUSIONS	Patients with the greatest chance of benefitting from improved insulin therapy should be offered treatment with insulin analogues and be included in future trials of new insulins .
+BACKGROUND	Novo Nordisk A/S .
+

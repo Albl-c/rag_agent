@@ -1,0 +1,16 @@
+24835757
+OBJECTIVE	To determine longitudinal changes in angle configuration in the eyes of primary angle-closure suspects ( PACS ) treated by laser peripheral iridotomy ( LPI ) and in untreated fellow eyes .
+METHODS	Longitudinal cohort study .
+METHODS	Primary angle-closure suspects aged 50 to 70 years were enrolled in a randomized , controlled clinical trial .
+METHODS	Each participant was treated by LPI in 1 randomly selected eye , with the fellow eye serving as a control .
+METHODS	Angle width was assessed in a masked fashion using gonioscopy and anterior segment optical coherence tomography ( AS-OCT ) before and at 2 weeks , 6 months , and 18 months after LPI .
+METHODS	Angle width in degrees was calculated from Shaffer grades assessed under static gonioscopy .
+METHODS	Angle configuration was also evaluated using angle opening distance ( AOD250 , AOD500 , AOD750 ) , trabecular-iris space area ( TISA500 , TISA750 ) , and angle recess area ( ARA ) measured in AS-OCT images .
+RESULTS	No significant difference was found in baseline measures of angle configuration between treated and untreated eyes .
+RESULTS	At 2 weeks after LPI , the drainage angle on gonioscopy widened from a mean of 13.5 at baseline to a mean of 25.7 in treated eyes , which was also confirmed by significant increases in all AS-OCT angle width measures ( P < 0.001 for all variables ) .
+RESULTS	Between 2 weeks and 18 months after LPI , a significant decrease in angle width was observed over time in treated eyes ( P < 0.001 for all variables ) , although the change over the first 5.5 months was not statistically significant for angle width measured under gonioscopy ( P = 0.18 ) , AOD250 ( P = 0.167 ) and ARA ( P = 0.83 ) .
+RESULTS	In untreated eyes , angle width consistently decreased across all follow-up visits after LPI , with a more rapid longitudinal decrease compared with treated eyes ( P values for all variables 0.003 ) .
+RESULTS	The annual rate of change in angle width was equivalent to 1.2 / year ( 95 % confidence interval [ CI ] , 0.8-1 .6 ) in treated eyes and 1.6 / year ( 95 % CI , 1.3-2 .0 ) in untreated eyes ( P < 0.001 ) .
+CONCLUSIONS	Angle width of treated eyes increased markedly after LPI , remained stable for 6 months , and then decreased significantly by 18 months after LPI .
+CONCLUSIONS	Untreated eyes experienced a more consistent and rapid decrease in angle width over the same time period .
+

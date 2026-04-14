@@ -1,0 +1,19 @@
+24443804
+BACKGROUND	While many of the commonly used conservative treatments for knee osteoarthritis ( OA ) have been recognized to be effective , there is still insufficient evidence available .
+BACKGROUND	Among the pharmacological treatments for knee OA , oral non-steroidal anti-inflammatory drugs ( NSAIDs ) act rapidly and are recommended for the management of OA .
+BACKGROUND	However , frequent and serious adverse effects of NSAIDs have been recognized .
+BACKGROUND	Intra-articular injections of hyaluronic acid ( IA-HA ) for the treatment of knee OA have been shown to reduce pain and improve joint function .
+BACKGROUND	However , there has been no qualified direct comparison study of the efficacy and safety between IA-HA and NSAIDs for patients with knee OA .
+BACKGROUND	The aim of this study was to clarify the efficacy and safety of early-phase IA-HA in comparison to those of NSAIDs for patients with knee OA .
+METHODS	This multicenter , randomized , open-label , parallel-group , non-inferiority comparison study with an oral NSAID involved a total of 200 patients with knee OA .
+METHODS	An independent , computer-generated randomization sequence was used to randomly assign patients in a 1:1 ratio to NSAIDs three times per day for five weeks ( n = 100 ) or IA-HA once a week for five weeks ( n = 100 ) .
+METHODS	The primary endpoint was the percentage change in the patient-oriented outcome measure for knee OA , the Japanese Knee Osteoarthritis Measure ( JKOM ) score .
+METHODS	All patients were questioned regarding any adverse events during treatment .
+METHODS	The full analysis set ( FAS ) was used for analysis .
+METHODS	The margin of non-inferiority was 10 % .
+RESULTS	The analyses of primary endpoint included 98 patients in the IA-HA group and 86 patients in the NSAID group .
+RESULTS	The difference in the percentage changes of the JKOM score between the two intervention arms ( IA-HA ; -34.7 % ( P < 0.001 ) , NSAID ; -32.2 % ( P < 0.001 ) ) was -2.5 % ( 95 % confidence interval ( CI ) : -14.0 to 9.1 ) , indicating IA-HA was not inferior to NSAID .
+RESULTS	The frequency of both withdrawal and adverse events in the IA-HA group were significantly lower than those in the NSAID group ( P = 0.026 and 0.004 , respectively ) .
+CONCLUSIONS	The early efficacy of IA-HA is suggested to be not inferior to that of NSAIDs , and that the safety of the early phase of IA-HA is superior to that of NSAIDs for patients with knee OA .
+BACKGROUND	UMIN Clinical Trials Registry ( UMIN-CTR ) , UMIN000001026 .
+

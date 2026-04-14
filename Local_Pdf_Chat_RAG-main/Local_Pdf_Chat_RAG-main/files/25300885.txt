@@ -1,0 +1,9 @@
+25300885
+OBJECTIVE	Most problematic alcohol users never seek professional help to reduce their use , and Web-based interventions might fulfill users ' unmet needs for professional support .
+METHODS	This randomized controlled trial compared two open Web-based interventions , one extended self-help program and one brief screening and feedback intervention , with an assessment-only control group .
+METHODS	Participants were 633 Internet help seekers with at least hazardous alcohol use ( Alcohol Use Disorders Identification Test , AUDIT 6 for women and 8 for men ) .
+RESULTS	All groups reduced their alcohol use at 3-month follow-up ( p < 0.001 ) , remaining stable at the 6 - and 12-month follow-ups ( n.s. ) according to AUDIT-C and AUDIT scores ( intention-to-treat , ITT , analysis ) .
+RESULTS	Per protocol ( PP ) analysis , including only participants who accessed the interventions and also reported accessing additional outside interventions during the trial , showed that about 75 % of extended self-help participants moved from probable dependence , harmful or hazardous use to lower alcohol use levels at 3 - and 6 - and 12-month follow-ups , compared to about 40-60 % of brief intervention users and controls who accessed extra help ( p < 0.05 ) .
+CONCLUSIONS	ITT analysis suggested parity over time for all interventions , including assessment only , in reducing problematic alcohol use .
+CONCLUSIONS	In contrast , PP analysis suggested that cognitive-behavioral extended self-help in combination with other interventions was more effective in changing alcohol use than brief intervention or assessment only .
+

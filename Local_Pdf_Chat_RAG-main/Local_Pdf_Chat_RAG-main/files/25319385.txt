@@ -1,0 +1,14 @@
+25319385
+OBJECTIVE	Presepsin is a soluble fragment of the cluster-of-differentiation marker protein 14 ( CD14 ) involved in pathogen recognition by innate immunity .
+OBJECTIVE	We evaluated the relation between its circulating concentration , host response , appropriateness of antibiotic therapy , and mortality in patients with severe sepsis .
+METHODS	Plasma presepsin was measured 1 , 2 , and 7 days after enrollment of 997 patients with severe sepsis or septic shock in the multicenter Albumin Italian Outcome Sepsis ( ALBIOS ) trial .
+METHODS	They were randomized to albumin or crystalloids .
+METHODS	We tested with univariate and adjusted models the association of single measurements of presepsin or changes over time with clinical events , organ dysfunctions , appropriateness of antibiotic therapy , and ICU or 90-day mortality .
+RESULTS	Presepsin concentration at baseline ( 946 [ 492-1 ,887 ] ng/L ) increased with the SOFA score , the number of prevalent organ dysfunctions or failures , and the incidence of new failures of the respiratory , coagulation , liver , and kidney systems .
+RESULTS	The concentration decreased in ICU over 7 days in patients with negative blood cultures , and in those with positive blood cultures and appropriate antibiotic therapy ; it increased with inappropriate antibiotic therapy ( p = 0.0009 ) .
+RESULTS	Baseline presepsin was independently associated with , and correctly reclassified , the risk of ICU and 90-day mortality .
+RESULTS	Increasing concentrations of presepsin from day 1 to day 2 predicted higher ICU and 90-day mortality ( adjusted p < 0.0001 and 0.01 , respectively ) .
+RESULTS	Albumin had no effect on presepsin concentration .
+CONCLUSIONS	Presepsin is an early predictor of host response and mortality in septic patients .
+CONCLUSIONS	Changes in concentrations over time seem to reflect the appropriateness of antibiotic therapy .
+

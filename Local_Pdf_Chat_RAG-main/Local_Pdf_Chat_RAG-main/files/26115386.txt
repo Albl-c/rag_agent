@@ -1,0 +1,12 @@
+26115386
+OBJECTIVE	To evaluate the effect of structured physical activity on sleep-wake behaviors in sedentary community-dwelling elderly adults with mobility limitations .
+METHODS	Multicenter , randomized trial of moderate-intensity physical activity versus health education , with sleep-wake behaviors prespecified as a tertiary outcome over a planned intervention period ranging from 24 to 30 months .
+METHODS	Lifestyle Interventions and Independence for Elders Study .
+METHODS	Community-dwelling persons aged 70 to 89 who were initially sedentary and had a Short Physical Performance Battery score less than 10 ( N = 1,635 ) .
+METHODS	Sleep-wake behaviors were evaluated using the Insomnia Severity Index ( ISI ) ( 8 defined insomnia ) , Epworth Sleepiness Scale ( ESS ) ( 10 defined daytime drowsiness ) , and Pittsburgh Sleep Quality Index ( PSQI ) ( > 5 defined poor sleep quality ) administered at baseline and 6 , 18 , and 30 months .
+RESULTS	The randomized groups were similar in terms of baseline demographic variables , including mean age ( 79 ) and sex ( 67 % female ) .
+RESULTS	Structured physical activity resulted in a significantly lower likelihood of having poor sleep quality ( adjusted odds ratios ( aOR ) for PSQI > 5 = 0.80 , 95 % confidence interval ( CI ) = 0.68-0 .94 ) , including fewer new cases ( aOR for PSQI > 5 = 0.70 , 95 % CI = 0.54-0 .89 ) , than health education but not in resolution of prevalent cases ( aOR for PSQI 5 = 1.13 , 95 % CI = 0.90-1 .43 ) .
+RESULTS	No significant intervention effects were observed for the ISI or ESS .
+CONCLUSIONS	Structured physical activity resulted in a lower likelihood of developing poor sleep quality ( PSQI > 5 ) over the intervention period than health education but had no effect on prevalent cases of poor sleep quality or on sleep-wake behaviors evaluated using the ISI or ESS .
+CONCLUSIONS	These results suggest that the benefit of physical activity in this sample was preventive and limited to sleep-wake behaviors evaluated using the PSQI .
+

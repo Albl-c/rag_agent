@@ -1,0 +1,10 @@
+25102193
+BACKGROUND	Serial wide-field fluorescein angiography was performed on eyes with preproliferative ( ischemic ) central retinal vein occlusion to evaluate retinal perfusion .
+METHODS	Serial wide-field fluorescein angiography was performed on 12 preproliferative central retinal vein occlusion eyes in the 3-year Rubeosis Anti-VEGF ( RAVE ) trial using the Staurenghi lens ( Ocular Staurenghi 230SLO Retina Lens ) with a scanning laser ophthalmoscope ( Heidelberg HRA Spectralis ) .
+METHODS	`` Disk area '' was defined anatomically for each eye .
+RESULTS	Mean total field of gradable retina was 290 disk areas ( range , 178-452 ) .
+RESULTS	All eyes demonstrated extensive areas of retinal nonperfusion ; at baseline , mean area of retinal perfusion was 106 disk areas ( range , 37-129 ) , correlating with a mean of 46.5 % perfused retinal area ( range , 19.1-56 .4 % ) .
+RESULTS	The area of retinal nonperfusion increased in all eyes with a mean loss of approximately 8.1 % of perfused retinal area per year ( range , 4.3-12 .4 % ) , which corresponded to a mean 15-disk areas ( range , 12-35 ) of retina evolving from perfused to nonperfused annually .
+RESULTS	The extent of baseline and final nonperfusion was not significantly different between eyes that developed neovascularization and eyes that did not .
+CONCLUSIONS	In this population of severe central retinal vein occlusion eyes , profound retinal nonperfusion was observed with wide-field fluorescein angiography at baseline and the extent of nonperfusion progressed while undergoing anti-vascular endothelial growth factor therapy .
+

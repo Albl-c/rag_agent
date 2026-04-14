@@ -1,0 +1,19 @@
+24239210
+BACKGROUND	Neoadjuvant chemotherapy with trastuzumab for patients with HER2-positive breast cancer can produce a pathological complete response in the breast in 30-65 % of patients .
+BACKGROUND	We investigated the effect of the timing of trastuzumab administration with anthracycline and taxane neoadjuvant chemotherapy .
+METHODS	This randomised trial was done at 36 centres in the USA and Puerto Rico .
+METHODS	Women with operable HER2-positive invasive breast cancer were randomly assigned ( 1:1 ) with a biased coin minimisation algorithm , stratified for age , tumour size , and hormone receptor status .
+METHODS	Neither patients nor investigators ( except for a cardiac safety review panel ) were masked to treatment assignment .
+METHODS	Patients randomly assigned to sequential treatment received fluorouracil 500 mg/m ( 2 ) , epirubicin 75 mg/m ( 2 ) , and cyclophosphamide 500 mg/m ( 2 ) ( FEC-75 ) on day 1 of a 21-day cycle for four cycles followed by paclitaxel 80 mg/m ( 2 ) and trastuzumab 2 mg/kg ( after a 4 mg/kg loading dose ) once per week for 12 weeks , while those randomly assigned to the concurrent treatment group received paclitaxel and trastuzumab once per week for 12 weeks followed by four cycles of FEC-75 ( on day 1 of each 21-day cycle ) and once-weekly trastuzumab , in the same doses as the sequential group .
+METHODS	Surgery , including evaluation of the axilla , was done within 6 weeks of completion of neoadjuvant treatment .
+METHODS	The primary outcome was the percentage of patients who had a pathological complete response in the intention-to-treat population .
+METHODS	The study is registered with ClinicalTrials.gov , number NCT00513292 .
+RESULTS	From Sept 15 , 2007 , to Dec 15 , 2011 , 282 women were enrolled ( 140 in the sequential group , 142 in the concurrent group ) .
+RESULTS	Two patients in the sequential group withdrew consent before starting treatment .
+RESULTS	78 of 138 ( 565 % , 95 % CI 478-649 ) patients who received sequential treatment had a pathological complete response in the breast versus 77 of 142 ( 542 % , 95 % CI 457-626 ) who received concurrent treatment ( difference 23 % , 95 % CI -93 to 139 ) .
+RESULTS	No treatment-related deaths occurred .
+RESULTS	The most common severe toxic effects were neutropenia ( 35 [ 253 % ] of 138 patients in the sequential group vs 45 [ 317 % ] of 142 patients in the concurrent group ) and fatigue ( six [ 43 % ] vs 12 [ 85 % ] ) .
+RESULTS	Left ventricular ejection fraction dropped below the institutional lower limit of normal at week 12 in one ( 08 % ) of 130 patients who received sequential treatment and four ( 29 % ) of 137 patients who received concurrent treatment ; by week 24 , it had dropped below this limit in nine ( 71 % ) of 126 patients and in six ( 46 % ) of 130 patients , respectively .
+CONCLUSIONS	Concurrent administration of trastuzumab with anthracyclines offers no additional benefit and is not warranted .
+BACKGROUND	US National Cancer Institute .
+

@@ -1,0 +1,19 @@
+24814814
+OBJECTIVE	To compare isoflurane and propofol for maintenance of anesthesia and quality of recovery in client-owned dogs with intracranial disease undergoing magnetic resonance imaging ( MRI ) .
+METHODS	Prospective , randomized , clinical trial .
+METHODS	Twenty-five client-owned dogs with intracranial pathology , 13 females and 12 males , ages 11months to 13years , weighing between 3.0 and 48.0 kg .
+METHODS	Each dog was randomly assigned to receive propofol or isoflurane for maintenance of anesthesia .
+METHODS	All dogs were not premedicated , were administered propofol intravenously to effect for induction , intubated and mechanically ventilated to maintain an end-tidal carbon dioxide tension 30-35mmHg ( 4.0-4 .7 kPa ) .
+METHODS	Temperature and cardiac output were measured pre - and post-MRI .
+METHODS	Scores for mentation , neurological status , ease of maintenance , and recovery were obtained pre - and post-anesthesia .
+METHODS	Pulse oximetry , end-tidal gases , arterial blood pressure , heart rate ( HR ) and requirements for dopamine administration to maintain mean arterial pressure ( MAP ) > 60mmHg were recorded throughout anesthesia .
+RESULTS	End-tidal isoflurane concentration was 0.730.35 % and propofol infusion rate was 292119gkg ( -1 ) minute ( -1 ) .
+RESULTS	Cardiac index was higher , while HR was lower , with propofol than isoflurane in dogs younger than 5years , but not in older dogs .
+RESULTS	Dogs maintained with isoflurane were 14.7 times more likely to require dopamine than propofol dogs .
+RESULTS	Mentation and maintenance scores and temperature were not different .
+RESULTS	MAP and diastolic arterial pressure were higher in the propofol group .
+RESULTS	Recovery scores were better with propofol , although times to extubation were similar .
+RESULTS	Change in neurological score from pre - to post-anesthesia was not different between treatments .
+CONCLUSIONS	Dogs maintained with propofol during MRI had higher arterial pressures , decreased requirements for dopamine , and better recovery scores , compared to dogs maintained with isoflurane .
+CONCLUSIONS	Propofol anesthesia offered cardiovascular and recovery advantages over isoflurane during MRI in dogs with intracranial disease in this study .
+

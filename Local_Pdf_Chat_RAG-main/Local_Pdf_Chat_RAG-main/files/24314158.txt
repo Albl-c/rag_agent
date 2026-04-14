@@ -1,0 +1,15 @@
+24314158
+OBJECTIVE	To compare the induction of remission and cost-effectiveness of enteral nutrition ( EN ) and infliximab ( IFX ) in moderate-to-severe active Crohn 's disease ( CD ) .
+METHODS	Moderate-to-severe active CD patients were divided into IFX group and EN group .
+METHODS	Remission rate , time to remission and treatment cost were compared between the two groups .
+METHODS	Clinical remission was defined as Crohn 's disease activity index ( CDAI ) < 150 .
+METHODS	The quality of life was evaluated by inflammatory bowel disease questionnaire of quality of life ( IBDQ ) .
+RESULTS	A total of 100 patients were analyzed , including 48 patients in IFX group and 52 patients in EN group .
+RESULTS	IFX group had higher remission rate [ 87.5 % ( 42/48 ) vs 67.3 % ( 35/52 ) , P = 0.017 ] and shorter time to remission [ ( 11.00 8.35 ) days vs ( 33.94 14.60 ) days , P < 0.001 ] than EN group .
+RESULTS	Treatment costs before remission were similar in two groups ( P = 0.351 ) .
+RESULTS	The increase of IBDQ scores before and after treatment in IFX group was much higher than that of EN group ( 42.74 27.50 vs 7.57 22.77 , P < 0.001 ) .
+RESULTS	Similarly , patients in EN group had greater increase of body mass index ( BMI ) than that of IFX group [ ( 1.32 0.29 ) kg/m ( 2 ) vs ( 0.51 0.07 ) kg/m ( 2 ) , P < 0.001 ] .
+RESULTS	For patients with CDAI < 280 , remission rate was not significantly different [ 85.7 % ( 24/28 ) vs 81.8 % ( 18/22 ) , P = 0.718 ] between the two groups , while treatment cost in EN group was less than that of IFX group [ ( 16.1 5.9 ) 10 ( 3 ) RMB vs ( 22.9 11.9 ) 10 ( 3 ) RMB , P = 0.021 ] .
+CONCLUSIONS	For patients with severe CD ( CDAI 280 ) , IFX has higher remission rate , shorter time to remission and comparable treatment cost than EN .
+CONCLUSIONS	But for patients with CDAI < 280 , EN group has comparable remission rate to IFX group with lower cost .
+

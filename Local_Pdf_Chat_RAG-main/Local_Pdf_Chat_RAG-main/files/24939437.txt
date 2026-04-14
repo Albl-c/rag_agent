@@ -1,0 +1,15 @@
+24939437
+BACKGROUND	Down syndrome ( DS ) is the most common human chromosomal abnormality .
+BACKGROUND	It is characterized by mental retardation and several metabolic disturbances , including elevated oxidative stress , which may be causally linked .
+BACKGROUND	Treatment with dietary antioxidants has been suggested as a potential method to alleviate the oxidative damage and retardation of DS patients , but prior supplementation work has been equivocal .
+OBJECTIVE	To evaluate the effects of supplementation with antioxidants - tocopherol and - lipoic acid ( ALA ) on oxidative stress biomarkers in DS children .
+METHODS	Ninety-three DS children aged 7-15 years from both sexes were randomly allocated to three groups : - tocopherol ( 400 IU/day ) , ALA ( 100mg/day ) and placebo .
+METHODS	The intervention period was 4 months .
+METHODS	A healthy control group consisted 26 non-DS siblings .
+METHODS	Serum thiobarbituric acid reactive substances ( TBARS ) and urinary 8-hydroxy-2 ' - deoxyguanosine ( 8OHdG ) were used as biomarkers of oxidative stress .
+RESULTS	DS children had greater levels of baseline oxidative stress than their siblings .
+RESULTS	Moreover , males had greater levels of 8OHdG than females ( P < 0.001 ) but there was no significant association between age and biomarkers of oxidative stress .
+RESULTS	Serum levels of TBARS did not change significantly over time , or relative to placebo .
+RESULTS	Although urinary 8OHdG concentrations decreased significantly in both - tocopherol and ALA , groups compared with the baseline levels ( P < 0.001 ) , mean final levels of urinary 8OHdG concentrations differed significantly only between - tocopherol and placebo groups ( P < 0.01 ) .
+CONCLUSIONS	- Tocopherol supplementation of the diets of DS children may attenuate oxidative stress at the DNA level .
+

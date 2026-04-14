@@ -1,0 +1,16 @@
+24856939
+OBJECTIVE	In children with cerebral palsy , does a 6-month physical activity stimulation program improve physical activity , mobility capacity , fitness , fatigue and attitude towards sports more than usual paediatric physiotherapy ?
+METHODS	Multicentre randomised controlled trial with concealed allocation , blinded assessments and intention-to-treat analysis .
+METHODS	Forty-nine walking children ( 28 males ) aged 7-13 years with spastic cerebral palsy and severity of the disability classified as Gross Motor Function Classification System level I-III .
+METHODS	The intervention group followed a 6-month physical activity stimulation program involving counselling through motivational interviewing , home-based physiotherapy , and 4 months of fitness training .
+METHODS	The control group continued their usual paediatric physiotherapy .
+METHODS	Primary outcomes were walking activity ( assessed objectively with an activity monitor ) and parent-reported physical activity ( Activity QUESTIONnaire for Adults and Adolescents ) .
+METHODS	Secondary outcomes were : mobility capacity , consisting of Gross Motor Function Measure-66 ( GMFM-66 ) , walking capacity and functional strength , fitness ( aerobic and anaerobic capacity , muscle strength ) , self-reported fatigue , and attitude towards sport ( child and parent ) .
+METHODS	Assessments were performed at baseline , 4 months , 6 months and 12 months .
+RESULTS	There were no significant intervention effects for physical activity or secondary outcomes at any assessment time .
+RESULTS	Positive trends were found for parent-reported time at moderate-to-vigorous intensity ( between-group change ratio = 2.2 , 95 % CI 1.1 to 4.4 ) and GMFM-66 ( mean between-group difference = 2.8 points , 95 % CI 0.2 to 5.4 ) at 6 months , but not at 12 months .
+RESULTS	There was a trend for a small , but clinically irrelevant , improvement in the children 's attitudes towards the disadvantages of sports at 6 months , and towards the advantages of sports at 12 months .
+CONCLUSIONS	This physical activity stimulation program , that combined fitness training , counselling and home-based therapy , was not effective in children with cerebral palsy .
+CONCLUSIONS	Further research should examine the potential of each component of the intervention for improving physical activity in this population .
+BACKGROUND	NTR2099 .
+

@@ -1,0 +1,13 @@
+25654961
+OBJECTIVE	To evaluate and compare the efficacy of platelet-rich fibrin ( PRF ) with enamel matrix derivative ( EMD ; Emdogain ) in the treatment of periodontal intrabony defects in patients with chronic periodontitis , six months after surgery .
+METHODS	Forty-four ( 44 ) intrabony defects in 30 patients ( 15 males ) were randomly allocated into two treatment groups : EMD ( n = 22 ) and PRF ( n = 22 ) .
+METHODS	Measurement of the defects was done using clinical and cone beam computed tomography at baseline and 6 months .
+METHODS	Clinical and radiographic parameters such as probing depth , clinical attachment level , intrabony defect depth and defect angle , were recorded at baseline and 6 months post-operatively .
+METHODS	Within group change was evaluated using the Wilcoxon signed rank test .
+METHODS	Intergroup comparisons were made using the Mann-Whitney U test .
+RESULTS	Postsurgical measurements revealed that there was an equal reduction in probing depth and a greater but statistically non-significant attachment gain for the Emdogain group when compared to the platelet-rich fibrin group .
+RESULTS	The Emdogain group presented with significantly greater percentage defect resolution ( 43.07 % 12.21 ) than did the platelet-rich fibrin group ( 32.41 % 14.61 ) .
+RESULTS	Post-operatively the changes in defect width and defect angle were significant in both groups , but upon intergroup comparison they were found to be statistically non-significantly different .
+CONCLUSIONS	Both Emdogain and platelet-rich fibrin were effective in the regeneration of intrabony defects .
+CONCLUSIONS	Emdogain was significantly superior in terms of percentage defect resolution .
+

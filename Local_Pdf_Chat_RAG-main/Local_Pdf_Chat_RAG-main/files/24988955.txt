@@ -1,0 +1,10 @@
+24988955
+OBJECTIVE	To study the efficacy of the domestic recombinant interleukin-2 ( IL-2 ) in the complex treatment of encephalitis .
+METHODS	Forty patients , aged from 6 months to 17 years , were treated with the drug .
+METHODS	A comparison group involved 35 patients who did not receive the drug .
+RESULTS	Recombinant IL-2 reduced ( p < 0.05 ) the aggravation of symptoms to 5.41.3 days , neurological deficit ( 1.60.2 EDSS scores at discharge from the hospital ) , frequency of exacerbations ( from 22.9 to 5 % ) and frequency of cases with the development of multiple sclerosis during 3 years ( from 17.1 to 2.5 % ) .
+RESULTS	Parameters of the drug efficacy were correlated with positive changes in immunological parameters after 3-4 days of treatment .
+RESULTS	The study of multimodal evoked potentials demonstrated the positive effect of the drug on the central afferent conduction times .
+RESULTS	The follow-up MRI examination showed the decrease in the frequency of focal changes .
+CONCLUSIONS	Recombinant IL-2 is recommended for treatment of children with encephalitis .
+

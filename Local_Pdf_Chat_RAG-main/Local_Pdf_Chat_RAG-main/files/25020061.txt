@@ -1,0 +1,14 @@
+25020061
+OBJECTIVE	Fasting is characterised by profound changes in energy metabolism including progressive loss of body proteins .
+OBJECTIVE	The underlying mechanisms are however unknown and we therefore determined the effects of a 72-hour-fast on human skeletal muscle protein metabolism and activation of mammalian target of rapamycin ( mTOR ) , a key regulator of cell growth .
+METHODS	Eight healthy male volunteers were studied twice : in the postabsorptive state and following 72 hours of fasting .
+METHODS	Regional muscle amino acid kinetics was measured in the forearm using amino acid tracers .
+METHODS	Signaling to protein synthesis and breakdown were assessed in skeletal muscle biopsies obtained during non-insulin and insulin stimulated conditions on both examination days .
+RESULTS	Fasting significantly increased forearm net phenylalanine release and tended to decrease phenylalanine rate of disappearance .
+RESULTS	mTOR phosphorylation was decreased by 50 % following fasting , together with reduced downstream phosphorylation of 4EBP1 , ULK1 and rpS6 .
+RESULTS	In addition , the insulin stimulated increase in mTOR and rpS6 phosphorylation was significantly reduced after fasting indicating insulin resistance in this part of the signaling pathway .
+RESULTS	Autophagy initiation is in part regulated by mTOR through ULK1 and fasting increased expression of the autophagic marker LC3B-II by 30 % .
+RESULTS	p62 is degraded during autophagy but was increased by 10 % during fasting making interpretation of autophagic flux problematic .
+RESULTS	MAFbx and MURF1 ubiquitin ligases remained unaltered after fasting indicating no change in protesomal protein degradation .
+CONCLUSIONS	Our results show that during fasting increased net phenylalanine release in skeletal muscle is associated to reduced mTOR activation and concomitant decreased downstream signaling to cell growth .
+

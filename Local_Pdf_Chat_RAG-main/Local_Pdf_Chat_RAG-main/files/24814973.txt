@@ -1,0 +1,14 @@
+24814973
+OBJECTIVE	High-frequency oscillation combined with tracheal gas insufflation ( HFO-TGI ) improves oxygenation in patients with acute respiratory distress syndrome ( ARDS ) .
+OBJECTIVE	There are limited physiologic data regarding the effects of HFO-TGI on hemodynamics and pulmonary edema during ARDS .
+OBJECTIVE	The aim of this study was to investigate the effect of HFO-TGI on extravascular lung water ( EVLW ) .
+METHODS	We conducted a prospective , randomized , crossover study .
+METHODS	Consecutive eligible patients with ARDS received sessions of conventional mechanical ventilation with recruitment maneuvers ( RMs ) , followed by HFO-TGI with RMs , or vice versa .
+METHODS	Each ventilatory technique was administered for 8 hours .
+METHODS	The order of administration was randomly assigned .
+METHODS	Arterial/central venous blood gas analysis and measurement of hemodynamic parameters and EVLW were performed at baseline and after each 8-hour period using the single-indicator thermodilution technique .
+RESULTS	Twelve patients received 32 sessions .
+RESULTS	Pao2/fraction of inspired oxygen and respiratory system compliance were higher ( P < .001 for both ) , whereas extravascular lung water index to predicted body weight and oxygenation index were lower ( P = .021 and .029 , respectively ) in HFO-TGI compared with conventional mechanical ventilation .
+RESULTS	There was a significant correlation between Pao2/fraction of inspired oxygen improvement and extravascular lung water index drop during HFO-TGI ( Rs = -0.452 , P = .009 ) .
+CONCLUSIONS	High-frequency oscillation combined with tracheal gas insufflation improves gas exchange and lung mechanics in ARDS and potentially attenuates EVLW accumulation .
+

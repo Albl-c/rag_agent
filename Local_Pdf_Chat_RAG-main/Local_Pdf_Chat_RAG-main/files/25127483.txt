@@ -1,0 +1,18 @@
+25127483
+BACKGROUND	Long-term effects of behavioural weight loss interventions on diabetes complications are unknown .
+BACKGROUND	In a secondary analysis of the Look AHEAD ( Action for Health in Diabetes ) multicentre randomised clinical trial , we assessed whether an intensive lifestyle intervention ( ILI ) affects the development of nephropathy in people with type 2 diabetes .
+METHODS	Overweight or obese people aged 45-76 years with type 2 diabetes were randomly assigned ( 1:1 ) to ILI or to a diabetes support and education ( DSE ) group by a central web-based data management system , stratified by clinical centre and blocked with random block sizes .
+METHODS	The ILI was designed to achieve and maintain weight loss through reduced caloric consumption and increased physical activity .
+METHODS	The interventions were terminated early because of absence of effect on the primary outcome of cardiovascular disease events in the main Look AHEAD trial .
+METHODS	Albuminuria and estimated glomerular filtration rate were prespecified as two of many other outcomes and were assessed from baseline until the interventions ended .
+METHODS	They were combined post hoc to define the main outcome for this report , very-high-risk chronic kidney disease ( CKD ) , based on the 2013 Kidney Disease Improving Global Outcomes ( KDIGO ) classification .
+METHODS	Outcomes assessors and laboratory staff were masked to treatment , but participants and interventionists were not masked .
+METHODS	Time-to-event data were analysed by intention to treat by the Kaplan-Meier method and proportional hazards models .
+METHODS	The Look AHEAD trial is registered with ClinicalTrials.gov , NCT00017953 .
+RESULTS	Of the 5145 participants randomly assigned in the Look AHEAD trial ( 2570 to ILI and 2575 to DSE ) , analyses for very-high-risk CKD were done in 2423 ( 94 % ) of patients in the ILI group and 2408 ( 94 % ) of those in the DSE group .
+RESULTS	After a median of 80 years ( IQR 79-99 ) of follow-up , the incidence of very-high-risk CKD was lower in the ILI group than in the DSE group , with incidence rates of 091 cases per 100 person-years in the DSE group and 063 per 100 person-years in the ILI group ( difference 027 cases per 100 person-years , hazard ratio 069 , 95 % CI 055-087 ; p = 00016 ) .
+RESULTS	This effect was partly attributable to reductions in bodyweight , HbA1c , and systolic blood pressure .
+RESULTS	There were no safety concerns regarding kidney-related adverse events .
+CONCLUSIONS	Weight loss should be considered as an adjunct to medical treatments to prevent or delay progression of CKD in overweight or obese people with type 2 diabetes .
+BACKGROUND	National Institute of Diabetes and Digestive and Kidney Diseases .
+

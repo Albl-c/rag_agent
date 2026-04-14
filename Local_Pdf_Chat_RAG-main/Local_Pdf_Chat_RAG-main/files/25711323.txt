@@ -1,0 +1,12 @@
+25711323
+OBJECTIVE	The Strategic Timing of AntiRetroviral Treatment ( START ) trial has recruited antiretroviral-nave individuals with high CD4 cell counts from all regions of the world .
+OBJECTIVE	We describe the distribution of cardiovascular disease ( CVD ) risk factors , overall and by geographical region , at study baseline .
+METHODS	The distribution of CVD risk factors was assessed and compared by geographical region among START participants who had a baseline electrocardiogram ( n = 4019 ; North America , 11 % ; Europe/Australia/Israel , 36 % ; South America , 26 % ; Asia , 4 % ; Africa , 23 % ; median age 36 years ; 26 % female ) .
+RESULTS	About 58.3 % ( n = 2344 ) of the participants had at least one CVD risk factor and 18.9 % ( n = 761 ) had two or more .
+RESULTS	The most common CVD risk factors were current smoking ( 32 % ) , hypertension ( 19.3 % ) and obesity ( 16.5 % ) .
+RESULTS	There were significant differences in the prevalence of CVD risk factors among geographical regions .
+RESULTS	The prevalence of at least one risk factor across regions was as follows : North America , 70.0 % ; Europe/Australia/Israel , 65.1 % ; South America , 49.4 % ; Asia , 37.0 % ; Africa , 55.8 % ( P-value < 0.001 ) .
+RESULTS	Significant regional differences were also observed when risk factors were used as part of the Framingham and Data Collection on Adverse events of Anti-HIV Drugs ( D : A :D ) risk scores or used to define a favourable risk profile .
+CONCLUSIONS	CVD risk factors are common among START participants , and their distribution varies by geographical region .
+CONCLUSIONS	Better understanding of how and why CVD risk factors develop in people with HIV infection and their geographical distributions could shed light on appropriate strategies for CVD prevention and may inform the interpretation of the results of START , as CVD is expected to be a major fraction of the primary endpoints observed .
+

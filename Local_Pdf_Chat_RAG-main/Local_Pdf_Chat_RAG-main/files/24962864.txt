@@ -1,0 +1,16 @@
+24962864
+BACKGROUND	Patients undergoing sleeve gastrectomy experience a significant amount of postoperative gastrointestinal ( GI ) symptoms .
+BACKGROUND	The purpose of our study was to assess the efficacy of omentopexy during laparoscopic sleeve gastrectomy ( LSG ) in reducing postoperative food intolerance and GI symptoms .
+METHODS	Morbidly obese patients undergoing LSG were randomly assigned to have LSG with or without omentopexy from May 2012 to June 2013 .
+METHODS	A total of 60 patients were recruited with 30 patients in each group .
+METHODS	Patients and the symptom scorer were blinded as to the assigned surgery .
+METHODS	All procedures were performed by one of two surgeons utilizing the same surgical technique .
+METHODS	Patients were administered standardized surveys , including the Rhodes Index survey , gastroesophageal reflux disease ( GERD ) impact survey , and Eating Assessment Tool ( EAT ) survey at various time points postoperatively to assess nausea , vomiting , retching , frequency of GI symptoms , and level of distress .
+RESULTS	There was no significant difference in patient age , percent decrease in BMI at any time point , or length of hospitalization between the two groups ( P > 0.05 ) .
+RESULTS	Furthermore , there was no significant difference in Rhodes Index scores , GERD impact scores , or EAT scores at any time point ( P > 0.05 ) .
+RESULTS	Patients in the LSG with omentopexy group required significantly more ondansetron perioperatively ( 16.1 12.9 mg vs. 10.3 10.2 mg , respectively ; P = 0.04 ) ; however , there was no difference in metoclopramide requirement ( P = 0.22 ) .
+RESULTS	Surgical morbidity was not significantly different between the two groups ( P > 0.05 ) .
+RESULTS	Finally , there was no significant difference in number of postoperative clinic visits , office telephone encounters , total postoperative readmissions , or postoperative readmissions associated with GI symptoms ( P > 0.05 ) .
+CONCLUSIONS	Omentopexy did not significantly decrease postoperative food intolerance or GI symptoms in morbidly obese patients undergoing LSG .
+CONCLUSIONS	Other methods of mitigating postoperative intolerance to oral intake and GI symptoms should be investigated .
+

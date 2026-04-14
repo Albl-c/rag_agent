@@ -1,0 +1,9 @@
+24875781
+BACKGROUND	Although the rate of bleeding among patients with atrial fibrillation ( AF ) taking novel oral anticoagulants in randomized controlled trials is described , the rate of bleeding with `` real-world '' use is uncertain .
+METHODS	We conducted a retrospective electronic medical record interrogation and subsequent chart review among patients within Intermountain Healthcare between October 2010 and November 2012 .
+METHODS	Patients were included if they had a diagnosis of AF and were receiving either dabigatran or rivaroxaban .
+METHODS	Rates of major bleeding were calculated .
+RESULTS	Among 2579 patients , 13 ( 0.5 % ) experienced major bleeding ( 95 % confidence interval [ CI ] 0.23-0 .77 ) , 5 ( 0.19 % ) experienced intracranial hemorrhage ( 95 % CI 0.02-0 .36 ) , and 2 ( 0.08 % ) experienced fatal bleeding .
+RESULTS	Of the 13 patients experiencing a major bleed , 8 ( 61.5 % ) would have been excluded from the Randomized Evaluation of Long-Term Anticoagulation Therapy ( RE-LY ) and Rivaroxaban Once Daily Oral Direct Factor Xa Inhibition Compared with Vitamin K Antagonism for prevention of Stroke and Embolism Trial in Atrial Fibrillation ( ROCKET AF ) clinical trials .
+CONCLUSIONS	We observed a rate of major bleeding similar to that reported in randomized clinical trials among patients with AF prescribed dabigatran or rivaroxaban .
+

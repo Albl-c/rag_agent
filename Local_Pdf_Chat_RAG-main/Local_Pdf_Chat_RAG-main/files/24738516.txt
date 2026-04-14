@@ -1,0 +1,14 @@
+24738516
+BACKGROUND	Andropause and aging are associated with neuroendocrine dysfunctions .
+BACKGROUND	Growth hormone and testosterone play a significant role in several processes affecting adaptation and thereby also everyday functioning .
+BACKGROUND	The aim of this research project was to evaluate the effects of recombinant human growth hormone and testosterone enanthate injections on body mass and body composition , aerobic and anaerobic fitness and lipid profile in middle-aged men .
+METHODS	The research group was comprised of 14 men aged 45 - 60 years .
+METHODS	Two series of laboratory analyses were performed .
+METHODS	Independent tests were carried out at baseline and after 12 weeks of the experiment .
+METHODS	The data were analyzed using Statistica 9.1 software .
+RESULTS	A two-way repeated measures ANOVA revealed a statistically significant effect of the intervention programme on fat-free mass ( ( 2 ) = 0.34 ) , total body fat ( ( 2 ) = 0.79 ) , total cholesterol ( ( 2 ) = 0.30 ) , high-density lipoprotein cholesterol ( ( 2 ) = 0.31 ) , low-density lipoprotein cholesterol ( ( 2 ) = 0.42 ) , triglyceride ( ( 2 ) = 0.28 ) , testosterone ( ( 2 ) = 0.52 ) , insulin-like growth factor 1 ( ( 2 ) = 0.47 ) and growth hormone ( ( 2 ) = 0.63 ) .
+RESULTS	Furthermore , ANOVA revealed a statistically significant effect of the rhGH and T treatment on maximal oxygen uptake ( ( 2 ) = 0.63 ) , anaerobic threshold ( ( 2 ) = 0.61 ) and maximal work rate ( ( 2 ) = 0.53 ) .
+CONCLUSIONS	It should be emphasized that the lipid profile was affected not only by rhGH + T replacement therapy , but also by the prescribed physical activity programme .
+CONCLUSIONS	The strength and endurance fitness programme alone did not cause significant changes in body mass and composition , nor the anaerobic and aerobic capacity .
+CONCLUSIONS	On the other hand , the rhGH = T treatment stimulated these changes significantly .
+

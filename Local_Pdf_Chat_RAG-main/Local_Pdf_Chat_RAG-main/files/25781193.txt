@@ -1,0 +1,15 @@
+25781193
+BACKGROUND	Eczema is one of the most common chronic inflammatory skin diseases , affecting about 20 % of children .
+BACKGROUND	The pathogenic mechanisms of eczema are still not fully understood , and current treatment of moderate-severe eczema is often difficult .
+BACKGROUND	Recently , it has been suggested that Vitamin D plays a key role in this disease , even if mechanisms are only partially known .
+OBJECTIVE	The purpose of our study was to assess the 25-Hydroxyvitamin D serum levels in a pediatric population suffering from chronic eczema ( IgE-mediated and non-IgE-mediated ) , and to correlate these phenotypes with the SCORAD severity and selected clinical and biological parameters .
+OBJECTIVE	Moreover , we aimed to evaluate whether a supplementation of Vitamin D3 could affect the same clinical and laboratory parameters .
+METHODS	89 children with chronic eczema were enrolled in the study .
+METHODS	Severity of eczema was assessed with the SCORAD index .
+METHODS	Past and present history was taken , and patients were divided into two groups according to the state of sensitization .
+METHODS	According to a randomization schedule , the enrolled children were assigned to the following groups : supplementation group , which received a daily oral Vitamin D3 supplementation ( 2000 IUs ) for 3 months ; control group which received no supplementation .
+RESULTS	Vitamin D concentrations in patients with moderate and severe eczema were not statistically different from Vitamin D concentration detected in the serum of patients with mild eczema .
+RESULTS	Furthermore , we did not find any correlation between Vitamin D levels , total IgEs and SCORAD index , both in the Sensitized and in the Not-Sensitized group .
+RESULTS	The Vitamin D3 supplementation did not influence the SCORAD severity or the total IgEs concentration .
+CONCLUSIONS	To our knowledge , our study is the first one that shows no correlation between serum levels of Vitamin D , eczema severity and IgE sensitization in a pediatric population suffering from chronic eczema .
+

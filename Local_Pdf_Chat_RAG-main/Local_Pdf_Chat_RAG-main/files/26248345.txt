@@ -1,0 +1,11 @@
+26248345
+OBJECTIVE	To evaluate intraocular lens ( IOL ) axial movements and refractive changes during a 6-month follow-up period after femtosecond laser-assisted cataract surgery and conventional cataract surgery , investigate the influence of capsulorhexis features on postoperative IOL axial changes , and assess the prediction error for both techniques .
+METHODS	Eighty eyes of 80 candidates for cataract extraction were randomized into two groups : femtosecond laser ( 40 eyes ) and manual ( 40 eyes ) .
+RESULTS	The overall anterior chamber depth variation was significantly lower in the femtosecond laser group compared to the manual group during follow-up ( P < .001 ) .
+RESULTS	At 30 and 180 days postoperatively , the mean spherical equivalent showed a hyperopic shift ( 0.090.28 diopters [ D ] ) in the femtosecond laser group and a myopic shift in the manual group ( -0.250.18 D ) .
+RESULTS	Median absolute error was not significantly different between the two groups with standard formulas ranging between 0.29 and 0.64 ( Hoffer Q ) in the femtosecond laser group and between 0.24 ( SRK-T ) and 0.55 D ( Hoffer Q ) in the manual group .
+RESULTS	There was a significant lower deviation from intended versus achieved capsulotomy/capsulorhexis area in the femtosecond laser group ( P < .001 ) compared to the manual group .
+RESULTS	The femtosecond laser group showed better IOL centration compared to the manual group at all time periods ( P < .001 ) .
+CONCLUSIONS	Femtosecond laser-assisted cataract surgery was related to a lower overall variability of anterior chamber depth compared to conventional cataract surgery with more stable postoperative refraction .
+CONCLUSIONS	The two techniques did not show significant differences of prediction error .
+

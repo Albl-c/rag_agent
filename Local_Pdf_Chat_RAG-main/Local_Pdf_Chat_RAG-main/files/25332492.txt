@@ -1,0 +1,13 @@
+25332492
+OBJECTIVE	To determine whether an evidence-based pediatric outpatient intervention for parents who smoke persisted after initial implementation .
+METHODS	A cluster randomized controlled trial of 20 pediatric practices in 16 states that received either Clinical and Community Effort Against Secondhand Smoke Exposure ( CEASE ) intervention or usual care .
+METHODS	The intervention provided practices with training to provide evidence-based assistance to parents who smoke .
+METHODS	The primary outcome , assessed by the 12-month follow-up telephone survey with parents , was provision of meaningful tobacco control assistance , defined as discussing various strategies to quit smoking , discussing smoking cessation medication , or recommending the use of the state quitline after initial enrollment visit .
+METHODS	We also assessed parental quit rates at 12 months , determined by self-report and biochemical verification .
+RESULTS	Practices ' rates of providing any meaningful tobacco control assistance ( 55 % vs 19 % ) , discussing various strategies to quit smoking ( 25 % vs 10 % ) , discussing cessation medication ( 41 % vs 11 % ) , and recommending the use of the quitline ( 37 % vs 9 % ) were all significantly higher in the intervention than in the control groups , respectively ( P < .0001 for each ) , during the 12-month postintervention implementation .
+RESULTS	Receiving any assistance was associated with a cotinine-confirmed quitting adjusted odds ratio of 1.89 ( 95 % confidence interval : 1.13-3 .19 ) .
+RESULTS	After controlling for demographic and behavioral factors , the adjusted odds ratio for cotinine-confirmed quitting in intervention versus control practices was 1.07 ( 95 % confidence interval : 0.64-1 .78 ) .
+CONCLUSIONS	Intervention practices had higher rates of delivering tobacco control assistance than usual care practices over the 1-year follow-up period .
+CONCLUSIONS	Parents who received any assistance were more likely to quit smoking ; however , parents ' likelihood of quitting smoking was not statistically different between the intervention and control groups .
+CONCLUSIONS	Maximizing parental quit rates will require more complete systems-level integration and adjunctive cessation strategies .
+

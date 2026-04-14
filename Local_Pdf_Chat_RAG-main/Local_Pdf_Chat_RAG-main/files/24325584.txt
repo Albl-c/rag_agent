@@ -1,0 +1,9 @@
+24325584
+OBJECTIVE	A recently discovered myokine , irisin , may have an important role in energy metabolism .
+OBJECTIVE	This study aimed to evaluate the relationship between this hormone and the lipid profile of patients with metabolic syndrome ( MetS ) following a hypocaloric diet .
+METHODS	Ninety-three Caucasian adults ( 52 men/41 women ) diagnosed with MetS followed an 8-week-long energy-restricted programme ( -30 % of the energy requirements ) .
+METHODS	Anthropometric measurements , biochemical markers and plasma irisin levels were analysed before and after the nutritional intervention .
+RESULTS	Global plasma irisin levels were significantly reduced at the end of the study ( -72.0 100.9 ng/ml , P < 0.001 ) accompanying the weight loss ( -6.9 % ) .
+RESULTS	The depletion of irisin significantly correlated with changes in some atherogenic-related variables : total cholesterol ( B = 0.106 , P = 0.018 ) , total cholesterol/high-density lipoprotein cholesterol ratio ( B = 0.002 , P = 0.036 ) , low-density lipoprotein cholesterol ( B = 0.085 , P = 0.037 ) and apolipoprotein B ( B = 0.052 , P = 0.002 ) , independently of changes in body weight .
+CONCLUSIONS	An association between the reduction in plasma irisin levels and the depletion of important lipid metabolism biomarkers was observed in patients with MetS undergoing an energy-restricted programme .
+

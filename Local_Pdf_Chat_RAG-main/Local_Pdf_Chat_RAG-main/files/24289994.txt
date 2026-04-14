@@ -1,0 +1,14 @@
+24289994
+OBJECTIVE	To identify a group of deliveries to mothers with indicators of subfertility ( SUBFERTILITY ) .
+METHODS	Longitudinal cohort study .
+METHODS	Hospital .
+METHODS	A total of 334,152 deliveries to Massachusetts mothers in a Massachusetts hospital between July 1 , 2004 , and December 31 , 2008 .
+METHODS	None .
+METHODS	Subfertility was defined by an indication on a current or past birth certificate or hospital utilization data of infertility or assisted reproductive technology ( ART ) cycle before index delivery and no indication of ART use with index delivery .
+RESULTS	Initially , 12,367 deliveries met the inclusion criteria for SUBFERTILITY ( 8,019 from birth certificates , 2,777 from hospital data , 1,571 from prior ART treatment ) .
+RESULTS	Removing deliveries from more than one data source resulted in 10,764 unique deliveries .
+RESULTS	Removing deliveries resulting from ART treatments left 6,238 deliveries in the SUBFERTILITY category .
+RESULTS	Demographic analysis indicated that deliveries in SUBFERTILITY were more similar to those in the ART population than to those in the fertile population .
+CONCLUSIONS	We have demonstrated the feasibility of using existing population-based linked public health data sets to identify SUBFERTILITY deliveries , and we have used ART data to distinguish ART and SUBFERTILITY births .
+CONCLUSIONS	The SUBFERTILITY category can serve as a comparison group of subfertile patients for studies of ART delivery and longitudinal health outcomes .
+

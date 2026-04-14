@@ -1,0 +1,17 @@
+25527255
+BACKGROUND	Diabetes self-management often involves the interpretation and application of oral , written , or quantitative information .
+BACKGROUND	Numerous diabetes patients in China have limited health literacy , which likely leads to poorer clinical outcomes .
+BACKGROUND	This study is designed to examine the efficacy and cost-effectiveness of addressing health literacy to improve self-management skills and glycemic control in Chinese diabetes patients .
+METHODS	This is a cluster randomized controlled trial ( RCT ) conducted in 20 community healthcare sites in Shanghai , China .
+METHODS	Overall , 800 diabetes patients will be randomized into intervention and control arms and will have a baseline hemoglobin A1c ( HbA1c ) assay and undergo a baseline survey which includes measures of health literacy and diabetes numeracy using revised Chinese versions of the Health Literacy Management Scale and Diabetes Numeracy Test Scale .
+METHODS	During the 1-year period of intervention , while the control group will receive usual care , the intervention group will be supplemented with a comprehensive health literacy strategy which includes i ) training healthcare providers in effective health communication skills that address issues related to low literacy , and ii ) use of an interactive Diabetes Education Toolkit to improve patient understanding and behaviors .
+METHODS	Assessments will be conducted at both patient and healthcare provider levels , and will take place upon admission and after 3 , 6 , 12 , and 24 months of intervention .
+METHODS	The primary outcome will be the improvement in HbA1c between Intervention group and Control group patients .
+METHODS	Secondary outcomes at the patient level will include improvement in i ) clinical outcomes ( blood pressure , fasting lipids , body mass index , weight , smoking status ) , ii ) patient reported self-management behaviors , and iii ) patient-reported self-efficacy .
+METHODS	Outcomes at the provider level will include : i ) provider satisfaction and ii ) intensity and type of care provided .
+METHODS	The effects of the intervention will be examined in multivariable general linear models .
+METHODS	Both cost-effectiveness and cost-utility analyses will be performed .
+CONCLUSIONS	The main strengths of this study are its large sample size and RCT design , involvement of both patients and healthcare providers , and the long term follow-up ( 24-months ) .
+CONCLUSIONS	This project will help to demonstrate the value of addressing health literacy and health communication to improve self-management and clinical outcomes among Chinese diabetes patients .
+BACKGROUND	ISRCTN76130594 , Registration date : Sept 22 , 2014 .
+

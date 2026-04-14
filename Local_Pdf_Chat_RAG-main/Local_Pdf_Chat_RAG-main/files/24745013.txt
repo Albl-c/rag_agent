@@ -1,0 +1,14 @@
+24745013
+BACKGROUND	This study is a comparative evaluation of the TVT , TOT , and our own modification of TOT ( mTOT ) in the treatment of female stress urinary incontinence from a single center experience .
+METHODS	The study was conducted on 527 patients with SUI diagnosed on the basis of urodynamic studies .
+METHODS	They were divided into three groups -- TVT : n = 142 , ( TOT ) : n = 129 , and mTOT : n = 256 .
+METHODS	All of the patients underwent evaluation at 1 , 3 , and 6 months after surgery .
+METHODS	Results were statistically analysed and compared .
+RESULTS	Objective and subjective effectiveness after the surgery were not significantly different in the study groups and ranged from 90.1 % to 96.4 % .
+RESULTS	Mean surgery time was 32.3 , 28.2 , and 26.4 in the TVT , TOT , and mTOT , respectively .
+RESULTS	Mean hospitalization time was 2.51 days .
+RESULTS	Mean catheter maintenance time was significantly higher in the TVT than in other groups .
+RESULTS	In the TVT group total incidence of complications was 13.4 % , and it was significantly higher than that in TOT and mTOT ( 9.3 % and 8.6 % , resp . )
+CONCLUSIONS	TVT , TOT , and mTOT are highly effective and safe methods in the treatment of SUI .
+CONCLUSIONS	There are no differences in the efficacy between the methods with a little higher percentage of complications in the TVT group .
+

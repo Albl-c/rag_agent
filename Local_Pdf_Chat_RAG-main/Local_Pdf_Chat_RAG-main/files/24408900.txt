@@ -1,0 +1,15 @@
+24408900
+BACKGROUND	Simplified informed consent forms have been successful in improving patient satisfaction and decreasing patient anxiety .
+BACKGROUND	However , unsolved problems remain about whether these documents improve comprehension and satisfaction of patients with standard literacy skills .
+OBJECTIVE	s To investigate whether a detailed consent form explaining the key elements of informed consent , in comparison to a standard consent form , would increase the comprehension and satisfaction of adult cancer patients .
+METHODS	Patients who were eligible for the National Surgical Adjuvant Study of Breast Cancer ( protocol 01 ( N-SAS/BC -01 ) ) were randomly selected to receive one of the following four versions : detailed document with graphics , detailed document without graphics , standard document with graphics , and standard document without graphics .
+METHODS	The forms were written in plain language from the patients ' point of view .
+METHODS	A total of 85 patients were administered questionnaires via interview to assess levels of comprehension , satisfaction , and anxiety .
+RESULTS	Patients demonstrated a strong understanding of information regarding treatment and research .
+RESULTS	Patient comprehension did not differ significantly between the detailed document arms and the standard document arms .
+RESULTS	Patient satisfaction level increased according to the amount of information presented in the consent form ; most patients preferred the detailed document with graphics .
+RESULTS	Anxiety and accrual rates in the parent study were not affected by informed consent procedures .
+CONCLUSIONS	Findings were limited to adults who had standard literacy skills and may not be generalizable to a population with lower literacy .
+CONCLUSIONS	Informed consent can be a significant experience for a population with standard literacy skills , as long as the document is easily comprehensible .
+CONCLUSIONS	Such information should be provided in a format that corresponds with patient needs , education levels , and preferences .
+

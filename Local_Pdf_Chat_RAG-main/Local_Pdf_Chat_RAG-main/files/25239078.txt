@@ -1,0 +1,15 @@
+25239078
+OBJECTIVE	Chronic hepatitis C treatment for prior non-responders to peginterferon ( PegIFN ) / ribavirin remains suboptimal .
+OBJECTIVE	The MATTERHORN study evaluated regimens containing ritonavir-boosted danoprevir ( danoprevir/r ) in prior PegIFN alfa/ribavirin non-responders .
+METHODS	Prior partial responders ( N = 152 ) were randomized to 24 weeks of twice-daily danoprevir/r 100/100mg , mericitabine 1000 mg and ribavirin 1000/1200 mg ( IFN-free ) ; danoprevir/r plus PegIFN alfa-2a / ribavirin ( triple ) ; or danoprevir/r , mericitabine and PegIFN alfa-2a / ribavirin ( Quad ) .
+METHODS	Prior null responders ( N = 229 ) were randomized to 24 weeks of IFN-free therapy , or quad alone ( Quad 24 ) or quad plus 24-weeks of PegIFN alfa-2a / ribavirin ( Quad 48 ) .
+METHODS	The primary endpoint was sustained virological response ( HCV RNA < 25 IU/ml ) 24 weeks after end-of-treatment ( SVR24 ) .
+METHODS	Due to high relapse rates , genotype ( G ) 1a patients in IFN-free arms were offered additional PegIFN alfa-2a / ribavirin .
+RESULTS	Among prior partial responders , SVR24 rates were 46.2 % , 51.0 % , and 86.0 % , in the IFN-free , Triple and Quad arms , respectively ; among prior null responders , SVR24 rates were 45.5 % , 80.5 % , and 83.8 % respectively .
+RESULTS	Relapse rates were lower and SVR24 rates higher in G1b-infected than G1a-infected patients .
+RESULTS	SVR24 rates in G1a and G1b patients randomized to Quad were 75.0 % and 96.2 % , respectively , in the partial Quad arm , and 68.1 % and 100 % , respectively , in the null Quad 24 arm .
+RESULTS	Treatment failure was associated with resistance to danoprevir , but not to mericitabine , and was more common in G1a infected patients .
+RESULTS	Treatment was well-tolerated .
+CONCLUSIONS	Danoprevir/r , mericitabine plus PegIFN alfa-2a / ribavirin was well-tolerated and produced high overall SVR24 rates in prior partial and null responders to PegIFN alfa/ribavirin .
+CONCLUSIONS	In contrast , IFN-free regimens were associated with unacceptably high relapse rates .
+

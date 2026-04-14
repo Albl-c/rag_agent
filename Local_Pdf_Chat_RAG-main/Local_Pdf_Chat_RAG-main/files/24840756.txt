@@ -1,0 +1,9 @@
+24840756
+OBJECTIVE	To determine the effect of neonatal caffeine treatment on rates of developmental coordination disorder ( DCD ) .
+METHODS	Children in the Caffeine for Apnea of Prematurity trial were assessed for motor performance ( Movement Assessment Battery for Children [ MABC ] ) , clinical signs of cerebral palsy , and Full-Scale IQ at 5 years of age by staff who were unaware of the children 's treatment group .
+METHODS	DCD was defined as MABC < 5th percentile in children with a Full-Scale IQ > 69 who did not have a diagnosis of cerebral palsy .
+RESULTS	There were 1433 children with known MABC corrected-age percentile as well as known Full-Scale IQ at 5 years and cerebral palsy status , of whom 735 had been randomly assigned to caffeine and 698 to placebo therapy .
+RESULTS	The rate of DCD was lower in those treated with caffeine ( 11.3 % ) than in the placebo group ( 15.2 % ) ( OR adjusted for center and baseline covariates , 0.71 , 95 % CI , 0.52-0 .97 ; P = .032 ) .
+CONCLUSIONS	Neonatal caffeine therapy for apnea of prematurity reduces the rate of DCD at 5 years of age .
+CONCLUSIONS	As more children have DCD than have cerebral palsy , this is an important additional benefit from neonatal caffeine treatment .
+

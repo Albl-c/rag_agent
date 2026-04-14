@@ -1,0 +1,13 @@
+25012498
+BACKGROUND	Renin-angiotensin system inhibition ( RASI ) is frequently avoided in aortic stenosis ( AS ) patients because of fear of hypotension .
+BACKGROUND	We evaluated if RASI with angiotensin-converting enzyme inhibitor ( ACEI ) or angiotensin receptor blocker ( ARB ) increased mortality in patients with mild to moderate AS .
+METHODS	All patients ( n = 1873 ) from the Simvastatin and Ezetimibe in Aortic Stenosis study : asymptomatic patients with AS and preserved left ventricular ( LV ) ejection fraction were included .
+METHODS	Risks of sudden cardiac death ( SCD ) , cardiovascular death and all-cause mortality according to RASI treatment were analyzed by multivariable time-varying Cox models and propensity score matched analyses .
+RESULTS	769 ( 41 % ) patients received RASI .
+RESULTS	During a median follow-up of 4.3 0.9 years , 678 patients were categorized as having severe AS , 545 underwent aortic valve replacement , 40 SCDs , 103 cardiovascular and 205 all-cause deaths occurred .
+RESULTS	RASI was not associated with SCD ( HR : 1.19 [ 95 % CI : 0.50-2 .83 ] , p = 0.694 ) , cardiovascular ( HR : 1.05 [ 95 % CI : 0.62-1 .77 ] , p = 0.854 ) or all-cause mortality ( HR : 0.81 [ 95 % CI : 0.55-1 .20 ] , p = 0.281 ) .
+RESULTS	This was confirmed in propensity matched analysis ( all p > 0.05 ) .
+RESULTS	In separate analyses , RASI was associated with larger reduction in systolic blood pressure ( p = 0.001 ) and less progression of LV mass ( p = 0.040 ) .
+CONCLUSIONS	RASI was not associated with SCD , cardiovascular or all-cause mortality in asymptomatic AS patients .
+CONCLUSIONS	However , RASI was associated with a potentially beneficial decrease in blood pressure and reduced LV mass progression .
+

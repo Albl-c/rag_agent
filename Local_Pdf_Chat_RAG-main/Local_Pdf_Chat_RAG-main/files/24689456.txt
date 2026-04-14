@@ -1,0 +1,15 @@
+24689456
+BACKGROUND	Current evidence suggests that many patients with self-reported non-coeliac gluten sensitivity ( NCGS ) retain gastrointestinal symptoms on a gluten-free diet ( GFD ) but continue to restrict gluten as they report ` feeling better ' .
+OBJECTIVE	To investigate the notion that a major effect of gluten in those with NCGS is on mental state and not necessarily on gastrointestinal symptoms .
+METHODS	Twenty-two subjects ( 24-62 years , five male ) with irritable bowel syndrome who had coeliac disease excluded but were symptomatically controlled on a GFD , undertook a double-blind cross-over study .
+METHODS	Participants randomly received one of three dietary challenges for 3 days , followed by a minimum 3-day washout before crossing over to the next diet .
+METHODS	Challenge gluten-free food was supplemented with gluten ( 16 g/day ) , whey ( 16 g/day ) or not supplemented ( placebo ) .
+METHODS	End-points included mental state as assessed by the Spielberger State Trait Personality Inventory ( STPI ) , cortisol secretion and gastrointestinal symptoms .
+RESULTS	Gluten ingestion was associated with higher overall STPI state depression scores compared to placebo [ M = 2.03 , 95 % CI ( 0.55-3 .51 ) , P = 0.010 ] but not whey [ M = 1.48 , 95 % CI ( -0.14 to 3.10 ) , P = 0.07 ] .
+RESULTS	No differences were found for other STPI state indices or for any STPI trait measures .
+RESULTS	No difference in cortisol secretion was identified between challenges .
+RESULTS	Gastrointestinal symptoms were induced similarly across all dietary challenges .
+CONCLUSIONS	Short-term exposure to gluten specifically induced current feelings of depression with no effect on other indices or on emotional disposition .
+CONCLUSIONS	Gluten-specific induction of gastrointestinal symptoms was not identified .
+CONCLUSIONS	Such findings might explain why patients with non-coeliac gluten sensitivity feel better on a gluten-free diet despite the continuation of gastrointestinal symptoms .
+

@@ -1,0 +1,12 @@
+24983307
+BACKGROUND	Everolimus and cyclosporine A ( CsA ) exhibit synergistic immunosuppressive activity when used in combination .
+BACKGROUND	We examined the safety and efficacy of the use of everolimus with a cyclosporine-sparing strategy in de novo renal transplant recipients .
+METHODS	A comparative , parallel , randomized , open-label 1-year study has been performed in 148 patients from five transplant centers to compare the efficacy and tolerability of everolimus and reduced exposure CsA ( the investigational group ) or enteric-coated mycophenolate sodium and standard-exposure CsA ( the control group ) in combination with basiliximab and steroids .
+METHODS	The eligible subjects were randomly assigned at 1 month after transplantation .
+METHODS	Efficacy failure ( biopsy-proven acute rejection , death , graft loss , or loss to follow-up ) , safety , and renal function were evaluated .
+RESULTS	One graft loss has been reported in the control group and no patient death were reported in either group .
+RESULTS	The incidence of biopsy-proven acute rejection until 12 months after transplantation of the investigational group was 7.5 % , compared to 11.1 % of the control group ( P = 0.565 ) .
+RESULTS	The mean estimated glomerular filtration rates of the investigational group at 12 months after transplantation was significantly higher ( 68.1 16.8 ml/min/1 .73 m ( 2 ) ) than that of the control group ( 60.6 15.8 ml/min/1 .73 m ( 2 ) ; P = 0.016 ) .
+RESULTS	There was no significant difference ( P > 0.05 ) in the incidence of discontinuations and serious adverse events between the groups .
+CONCLUSIONS	The results of this study provide the evidences that ( 1 ) the calcineurin inhibitor ( CNI ) minimization by the introduction of everolimus after 1-month posttransplantation keeps the incidences of acute rejection and additional risks as low as the conventional immunosuppression ; ( 2 ) it allows minimizing CNI exposure , consequently reducing CNI nephrotoxicity and preserving renal function .
+

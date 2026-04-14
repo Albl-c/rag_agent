@@ -1,0 +1,14 @@
+24827405
+BACKGROUND	No randomized comparative trials have presented long-term outcomes for laparoscopic sleeve gastrectomy ( LSG ) and laparoscopic Roux-en-Y gastric bypass ( LRYGB ) .
+BACKGROUND	The present study was designed to compare the efficacy and safety of these two procedures .
+METHODS	From January 2007 to July 2008 , 64 eligible patients were randomly assigned to LSG or LRYGB .
+METHODS	During the 5-year follow-up , we compared morbidity rate , body mass index ( BMI ) , percent of excess weight loss ( % EWL ) , Moorehead-Ardelt ( M-A ) II quality of life , and resolution or improvement rate of obesity-related comorbidities between the groups .
+RESULTS	Both groups were matched with respect to age , gender , and BMI .
+RESULTS	Slightly more major complications were observed in patients undergoing LRYGB ( P > 0.05 ) .
+RESULTS	Weight loss was significantly better with LRYGB except during the first postoperative year .
+RESULTS	At 5 years , % EWL for LSG and LRYGB was 63.224.5 % and 76.221.7 % ( P = 0.02 ) , respectively .
+RESULTS	No statistical difference was observed in quality of life between the groups at all intervals ( P > 0.05 ) .
+RESULTS	At the last follow-up , most comorbidities in both groups were resolved or improved , with no difference between the groups ( P > 0.05 ) .
+CONCLUSIONS	LRYGB and LSG are equally safe and effective in quality of life and improvement or resolution of comorbidities , and LRYGB possesses the superiority in terms of weight loss .
+CONCLUSIONS	Further studies are needed to evaluate micronutrient deficiencies of these procedures .
+

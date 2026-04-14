@@ -1,0 +1,13 @@
+25249300
+BACKGROUND	Glycosylated proteins partake in multiple cellular processes including inflammation .
+BACKGROUND	We hypothesized that GlycA , a novel biomarker of protein glycan N-acetyl groups , is related to incident cardiovascular disease ( CVD ) , and we compared it with high-sensitivity C-reactive protein ( hsCRP ) .
+RESULTS	In 27 491 initially healthy women , baseline GlycA was quantified by nuclear magnetic resonance spectroscopy and hsCRP by an immunoturbidimetric assay .
+RESULTS	During median follow-up of 17.2 years , 1648 incident CVD events occurred ( myocardial infarction , ischemic stroke , coronary revascularization , and CVD death ) .
+RESULTS	GlycA and hsCRP were moderately correlated ( Spearman r = 0.61 , P < 0.0001 ) .
+RESULTS	In Cox regression models that included age , ethnicity , smoking , blood pressure , medications , menopausal status , body mass index , and diabetes , hazard ratios for CVD across quartiles 1 to 4 of GlycA were 1.00 , 1.10 ( 95 % CI , 0.92 to 1.30 ) , 1.34 ( 95 % CI , 1.13 to 1.58 ) , and 1.64 ( 95 % CI , 1.39 to 1.93 ) , similar to hsCRP , for which hazard ratios were 1.00 , 1.18 ( 95 % CI , 0.99 to 1.41 ) , 1.35 ( 95 % CI , 1.14 to 1.61 ) , and 1.75 ( 95 % CI , 1.47 to 2.09 ) ( both Ptrend < 0.0001 ) .
+RESULTS	Associations were attenuated after additionally adjusting for lipids : the hazard ratio of quartile 4 versus 1 for GlycA was 1.23 ( 95 % CI , 1.04 to 1.46 ; Ptrend = 0.002 ) and for hsCRP was 1.44 ( 95 % CI , 1.20 to 1.72 ; Ptrend < 0.0001 ) .
+RESULTS	Further adjustment for the other biomarker resulted in a hazard ratio of quartile 4 versus 1 for GlycA of 1.03 ( 95 % CI , 0.85 to 1.24 ; Ptrend = 0.41 ) and for hsCRP of 1.29 ( 95 % CI , 1.06 to 1.56 ; Ptrend = 0.001 ) .
+CONCLUSIONS	In this prospective study of initially healthy women , baseline GlycA was associated with incident CVD , consistent with a possible role for protein glycans in inflammation and CVD .
+BACKGROUND	http / / clinicaltrials.gov / .
+BACKGROUND	Unique identifier NCT00000479 .
+

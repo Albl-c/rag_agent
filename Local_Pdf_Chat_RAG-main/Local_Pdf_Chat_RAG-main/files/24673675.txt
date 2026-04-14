@@ -1,0 +1,17 @@
+24673675
+OBJECTIVE	Older patients discharged from the emergency department ( ED ) have difficulty comprehending discharge plans and are at high risk of adverse outcomes .
+OBJECTIVE	The authors investigated whether a postdischarge telephone call-mediated intervention by a nurse would improve discharge care plan adherence , specifically by expediting post-ED visit physician follow-up appointments and/or compliance with medication changes .
+OBJECTIVE	The second objectives were to determine if this telephone call intervention would reduce return ED visits and/or hospitalizations within 35days of the index ED visit and to determine potential cost savings of this intervention .
+METHODS	This was a 10-week randomized , controlled trial among patients aged 65 and older discharged to home from an academic ED .
+METHODS	At 1 to 3days after each patient 's index ED visit , a trained nurse called intervention group patients to review discharge instructions and assist with discharge plan compliance ; placebo call group patients received a patient satisfaction survey call , while the control group patients were not called .
+METHODS	Data collection calls occurred at 5 to 8days and 30 to 35days after the index ED visits for all three groups .
+METHODS	Chi-square or Fisher 's exact tests were performed for categorical data and the Kruskal-Wallis test examined group differences in time to follow-up .
+RESULTS	A total of 120 patients completed the study .
+RESULTS	Patients were 60 % female and 72 % white , with a mean age of 75years ( standard deviation [ SD ] 7.58 years ) .
+RESULTS	Intervention patients were more likely to follow up with medical providers within 5days of their ED visits than either the placebo or the control group patients ( 54 , 20 , and 37 % , respectively ; p = 0.04 ) .
+RESULTS	All groups performed well in medication acquisition and comprehension of medication indications and dosage .
+RESULTS	There were no differences in return visits to the ED or hospital within 35days of the index ED visit for intervention patients , compared to placebo or control group patients ( 22 , 33 , and 27 % , respectively ; p = 0.41 ) .
+RESULTS	An economic analysis showed an estimated 70 % chance that this intervention would reduce total costs .
+CONCLUSIONS	Telephone call follow-up of older patients discharged from the ED resulted in expedited follow-up for patients with their primary care physicians .
+CONCLUSIONS	Further study is warranted to determine if these results translate into improved patient outcomes , decreased return ED visits or hospital admissions , and cost savings resulting from this intervention .
+

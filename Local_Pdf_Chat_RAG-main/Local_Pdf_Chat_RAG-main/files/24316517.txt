@@ -1,0 +1,15 @@
+24316517
+OBJECTIVE	Obesity has been associated with changes in the composition and function of the intestinal microbiota .
+OBJECTIVE	Modulation of the microbiota by antibiotics also alters bile acid and glucose metabolism in mice .
+OBJECTIVE	Hence , we hypothesized that short term administration of oral antibiotics in humans would affect fecal microbiota composition and subsequently bile acid and glucose metabolism .
+METHODS	In this single blinded randomized controlled trial , 20 male obese subjects with metabolic syndrome were randomized to 7 days of amoxicillin 500 mg t.i.d. or 7 days of vancomycin 500 mg t.i.d.
+METHODS	At baseline and after 1 week of therapy , fecal microbiota composition ( Human Intestinal Tract Chip phylogenetic microarray ) , fecal and plasma bile acid concentrations as well as insulin sensitivity ( hyperinsulinemic euglycemic clamp using [ 6,6 - ( 2 ) H2 ] - glucose tracer ) were measured .
+RESULTS	Vancomycin reduced fecal microbial diversity with a decrease of gram-positive bacteria ( mainly Firmicutes ) and a compensatory increase in gram-negative bacteria ( mainly Proteobacteria ) .
+RESULTS	Concomitantly , vancomycin decreased fecal secondary bile acids with a simultaneous postprandial increase in primary bile acids in plasma ( p < 0.05 ) .
+RESULTS	Moreover , changes in fecal bile acid concentrations were predominantly associated with altered Firmicutes .
+RESULTS	Finally , administration of vancomycin decreased peripheral insulin sensitivity ( p < 0.05 ) .
+RESULTS	Amoxicillin did not affect any of these parameters .
+CONCLUSIONS	Oral administration of vancomycin significantly impacts host physiology by decreasing intestinal microbiota diversity , bile acid dehydroxylation and peripheral insulin sensitivity in subjects with metabolic syndrome .
+CONCLUSIONS	These data show that intestinal microbiota , particularly of the Firmicutes phylum contributes to bile acid and glucose metabolism in humans .
+CONCLUSIONS	This trial is registered at the Dutch Trial Register ( NTR2566 ) .
+

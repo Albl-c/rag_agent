@@ -1,0 +1,18 @@
+24806623
+BACKGROUND	Curative treatment of upper gastrointestinal tract neoplasms is complex and associated with high morbidity and mortality .
+BACKGROUND	In general , the patients are already malnourished , and early postoperative enteral nutrition is recommended .
+BACKGROUND	However , there is no consensus concerning the best enteral access route in these cases .
+METHODS	A prospective randomized trial was performed from 2008 to 2012 with 59 patients who underwent esophagectomy , total gastrectomy , or pancreaticoduodenectomy .
+METHODS	In all , 4 patients declined to participate , and 13 did not meet the inclusion criteria and were excluded .
+METHODS	Of the 42 included patients , 21 had nasoenteric tubes , and 21 had a jejunostomy .
+RESULTS	The two groups were similar in demographic and clinical aspects .
+RESULTS	The nasoenteric ( NE ) and jejunostomy groups underwent early enteral therapy in 71 and 62 % of cases ( p > 0.05 ) , respectively .
+RESULTS	The median length of enteral therapy use was less in the NE group ( 5.0 vs. 8.5 days ) , but the difference was not statistically significant .
+RESULTS	The NE group required introduction of parenteral therapy more frequently than the jejunostomy group ( p < 0.05 ) .
+RESULTS	Complications related to the enteral route occurred in 38.0 and 28.5 % of patients ( p > 0.05 ) in the NE and jejunostomy groups , respectively .
+RESULTS	In the NE group , there were four losses and four tube obstructions .
+RESULTS	In the jejunostomy group , there were two losses , four obstructions , and two cases of leakage around the tube .
+RESULTS	In the latter group , patients who underwent therapy for a longer time had tubal complications ( p < 0.05 ) and longer intensive care unit and hospital stays ( p < 0.05 ) .
+CONCLUSIONS	The two enteral routes were associated with the same number of complications .
+CONCLUSIONS	However , the presence of a jejunostomy allowed enteral therapy for longer periods , especially in patients with complications , thus avoiding the need for parenteral nutrition .
+

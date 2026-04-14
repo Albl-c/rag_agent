@@ -1,0 +1,18 @@
+24252663
+BACKGROUND	Cognitive-behavioral therapy ( CBT ) has demonstrated efficacy and effectiveness for treating mood and anxiety disorders .
+BACKGROUND	Dissemination of CBT via videoconference may help improve access to treatment .
+OBJECTIVE	The present study aimed to compare the effectiveness of CBT administered via videoconference to in-person therapy for a mixed diagnostic cohort .
+METHODS	A total of 26 primarily Caucasian clients ( mean age 30 years , SD 11 ) who had a primary Diagnostic and Statistical Manual of Mental Disorders , 4th edition text revision ( DSM-IV-TR ) diagnosis of a mood or anxiety disorder were randomly assigned to receive 12 sessions of CBT either in-person or via videoconference .
+METHODS	Treatment involved individualized CBT formulations specific to the presenting diagnosis ; all sessions were provided by the same therapist .
+METHODS	Participants were recruited through a university clinic .
+METHODS	Symptoms of depression , anxiety , stress , and quality of life were assessed using questionnaires before , after , and 6 weeks following treatment .
+METHODS	Secondary outcomes at posttreatment included working alliance and client satisfaction .
+RESULTS	Retention was similar across treatment conditions ; there was one more client in the videoconferencing condition at posttreatment and at follow-up .
+RESULTS	Statistical analysis using multilevel mixed effects linear regression indicated a significant reduction in client symptoms across time for symptoms of depression ( P < .001 , d = 1.41 ) , anxiety ( P < .001 , d = 1.14 ) , stress ( P < .001 , d = 1.81 ) , and quality of life ( P < .001 , d = 1.17 ) .
+RESULTS	There were no significant differences between treatment conditions regarding symptoms of depression ( P = .165 , d = 0.37 ) , anxiety ( P = .41 , d = 0.22 ) , stress ( P = .15 , d = 0.38 ) , or quality of life ( P = .62 , d = 0.13 ) .
+RESULTS	There were no significant differences in client rating of the working alliance ( P = .53 , one-tailed , d = -0.26 ) , therapist ratings of the working alliance ( P = .60 , one-tailed , d = 0.23 ) , or client ratings of satisfaction ( P = .77 , one-tailed , d = -0.12 ) .
+RESULTS	Fisher 's Exact P was not significant regarding differences in reliable change from pre - to posttreatment or from pretreatment to follow-up for symptoms of depression ( P = .41 , P = .26 ) , anxiety ( P = .60 , P = .99 ) , or quality of life ( P = .65 , P = .99 ) but was significant for symptoms of stress in favor of the videoconferencing condition ( P = .03 , P = .035 ) .
+RESULTS	Difference between conditions regarding clinically significant change was also not observed from pre - to posttreatment or from pretreatment to follow-up for symptoms of depression ( P = .67 , P = .30 ) , anxiety ( P = .99 , P = .99 ) , stress ( P = .19 , P = .13 ) , or quality of life ( P = .99 , P = .62 ) .
+CONCLUSIONS	The findings of this controlled trial indicate that CBT was effective in significantly reducing symptoms of depression , anxiety , and stress and increasing quality of life in both in-person and videoconferencing conditions , with no significant differences being observed between the two .
+BACKGROUND	Australian New Zealand Clinical Trials Registry ID : ACTRN12609000819224 ; http://www.anzctr.org.au/ACTRN12609000819224.aspx ( Archived by WebCite at http://www.webcitation.org/6Kz5iBMiV ) .
+

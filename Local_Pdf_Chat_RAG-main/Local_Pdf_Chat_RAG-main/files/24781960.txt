@@ -1,0 +1,15 @@
+24781960
+OBJECTIVE	In type 2 diabetes mellitus ( T2DM ) , team management using protocols with regular feedback improves clinical outcomes , although suboptimal self-management and psychological distress remain significant challenges .
+OBJECTIVE	To investigate if frequent contacts through a telephone-based peer support program ( Peer Support , Empowerment , and Remote Communication Linked by Information Technology [ PEARL ] ) would improve cardiometabolic risk and health outcomes by enhancing psychological well-being and self-care in patients receiving integrated care implemented through a web-based multicomponent quality improvement program ( JADE [ Joint Asia Diabetes Evaluation ] ) .
+METHODS	Between 2009 and 2010 , 628 of 2766 Hong Kong Chinese patients with T2DM from 3 publicly funded hospital-based diabetes centers were randomized to the JADE+PEARL ( n = 312 ) or JADE ( n = 316 ) groups , with comprehensive assessment at 0 and 12 months .
+METHODS	Thirty-three motivated patients with well-controlled T2DM received 32 hours of training ( four 8-hour workshops ) to become peer supporters , with 10 patients assigned to each .
+METHODS	Peer supporters called their peers at least 12 times , guided by a checklist .
+METHODS	Changes in hemoglobin A ( 1c ) ( HbA ( 1c ) ) level ( primary ) , proportions of patients with attained treatment targets ( HbA ( 1c ) < 7 % ; blood pressure < 130/80 mm Hg ; low-density lipoprotein cholesterol < 2.6 mmol/L [ to convert to milligrams per deciliter , divide by 0.0256 ] ) ( secondary ) , and other health outcomes at month 12 .
+RESULTS	Both groups had similar baseline characteristics ( mean [ SD ] age , 54.7 [ 9.3 ] years ; 57 % men ; disease duration , 9.4 [ 7.7 ] years ; HbA ( 1c ) level , 8.2 % [ 1.6 % ] ; systolic blood pressure , 136 [ 19 ] mm Hg ; low-density lipoprotein cholesterol level , 2.89 [ 0.82 ] mmol/L ; 17.4 % cardiovascular-renal complications ; and 34.9 % insulin treated ) .
+RESULTS	After a mean ( SD ) follow-up period of 414 ( 55 ) days , 5 patients had died , 144 had at least 1 hospitalization , and 586 had repeated comprehensive assessments .
+RESULTS	On intention-to-treat analysis , both groups had similar reductions in HbA ( 1c ) ( JADE+PEARL , 0.30 % [ 95 % CI , 0.12 % -0.47 % ] , vs JADE , 0.29 % [ 95 % CI , 0.12 % -0.47 % ] [ P = .97 ] ) and improvements in treatment targets and psychological-behavioral measures .
+RESULTS	In the JADE+PEARL group , 90 % of patients maintained contacts with their peer supporters , with a median of 20 calls per patient .
+RESULTS	Most of the discussion items were related to self-management .
+CONCLUSIONS	In patients with T2DM receiving integrated care , peer support did not improve cardiometabolic risks or psychological well-being .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00950716 .
+

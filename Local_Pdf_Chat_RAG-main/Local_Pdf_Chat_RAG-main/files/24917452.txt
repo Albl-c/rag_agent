@@ -1,0 +1,11 @@
+24917452
+BACKGROUND	Previous investigation showed that the volume-time curve technique could be an alternative for endotracheal tube ( ETT ) cuff management .
+BACKGROUND	However , the clinical impact of the volume-time curve application has not been documented .
+BACKGROUND	The purpose of this study was to compare the occurrence and intensity of a sore throat , cough , thoracic pain , and pulmonary function between these 2 techniques for ETT cuff management : volume-time curve technique versus minimal occlusive volume ( MOV ) technique after coronary artery bypass grafting .
+METHODS	A total of 450 subjects were randomized into 2 groups for cuff management after intubation : MOV group ( n = 222 ) and volume-time curve group ( n = 228 ) .
+METHODS	We measured cuff pressure before extubation .
+METHODS	We performed spirometry 24 h before and after surgery .
+METHODS	We graded sore throat and cough according to a 4-point scale at 1 , 24 , 72 , and 120 h after extubation and assessed thoracic pain at 24 h after extubation and quantified the level of pain by a 10-point scale .
+RESULTS	The volume-time curve group presented significantly lower cuff pressure ( 30.9 2.8 vs 37.7 3.4 cm H2O ) , less incidence and intensity of sore throat ( 1 h , 23.7 vs 51.4 % ; and 24 h , 18.9 vs 40.5 % , P < .001 ) , cough ( 1 h , 19.3 vs 48.6 % ; and 24 h , 18.4 vs 42.3 % , P < .001 ) , thoracic pain ( 5.2 1.8 vs 7.1 1.7 ) , better preservation of FVC ( 49.5 9.9 vs 41.8 12.9 % , P = .005 ) , and FEV1 ( 46.6 1.8 vs 38.6 1.4 % , P = .005 ) compared with the MOV group .
+CONCLUSIONS	The subjects who received the volume-time curve technique for ETT cuff management presented a significantly lower incidence and severity of sore throat and cough , less thoracic pain , and minimally impaired pulmonary function than those subjects who received the MOV technique during the first 24 h after coronary artery bypass grafting .
+

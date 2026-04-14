@@ -1,0 +1,13 @@
+24290594
+OBJECTIVE	The aim of this study was to examine the effect of yeast hydrolysate on the abdominal fat in obese humans .
+METHODS	We observed the effects of yeast hydrolysate that had a molecular weight below 10 kDa on the anti-abdominal fat accumulation in obese men and women ages 20 to 50 y for 10 wk .
+METHODS	The abdominal fat mass was assessed by computed tomographic scans .
+RESULTS	By the sixth week , the reductions in energy intake in the yeast group ( yeast hydrolysate 1 g/d ) were significantly greater than those in the control group ( placebo 1 g/d ) ( P < 0.05 ) .
+RESULTS	The body weight and body mass index ( BMI ) were significantly reduced by week 10 compared with baseline in the yeast group , and these differences were significantly greater than those in the control group : body weight 0.83 kg versus -2.60 k g ( P < 0.001 ) , BMI 0.29 kg/m ( 2 ) versus -0.90 kg/m ( 2 ) ( P < 0.001 ) .
+RESULTS	Despite the increased loss of body weight in the yeast group , lean body mass did not significantly differ between the two groups .
+RESULTS	Body fat mass in the control group did not significantly change between baseline and week 10 .
+RESULTS	However , the yeast group lost a significant amount of body fat mass after 10 wk of treatment ( P < 0.01 ) .
+RESULTS	The differences in abdominal fat thickness and abdominal circumference between the two groups were significant after 10 wk of treatment ( P < 0.001 ) .
+RESULTS	The total abdominal fat area in the yeast group was significantly lower than in the control group after 10 wk of treatment ( -7.06 cm ( 2 ) versus -17.34 cm ( 2 ) ; P < 0.01 ) .
+CONCLUSIONS	Yeast hydrolysate can reduce body weight and the accumulation of abdominal fat without an adverse effect on lean body mass in obese adults , regardless of sex , via the reduction of energy intake .
+

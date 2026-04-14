@@ -1,0 +1,15 @@
+25311606
+OBJECTIVE	The neighborhoods in which children live , play , and eat provide an environmental context that may influence obesity risk and ameliorate or exacerbate health disparities .
+OBJECTIVE	The current study examines whether neighborhood characteristics predict obesity in a prospective cohort of girls .
+METHODS	Participants were 174 girls ( aged 8-10 years at baseline ) , a subset from the Cohort Study of Young Girls ' Nutrition , Environment , and Transitions .
+METHODS	Trained observers completed street audits within a 0.25-mile radius around each girl 's residence .
+METHODS	Four scales ( food and service retail , recreation , walkability , and physical disorder ) were created from 40 observed neighborhood features .
+METHODS	BMI was calculated from clinically measured height and weight .
+METHODS	Obesity was defined as BMI-for-age 95 % .
+METHODS	Logistic regression models using generalized estimating equations were used to examine neighborhood influences on obesity risk over 4 years of follow-up , controlling for race/ethnicity , pubertal status , and baseline BMI .
+METHODS	Fully adjusted models also controlled for household income , parent education , and a census tract measure of neighborhood socioeconomic status .
+RESULTS	A 1-SD increase on the food and service retail scale was associated with a 2.27 ( 95 % confidence interval , 1.42 to 3.61 ; P < .001 ) increased odds of being obese .
+RESULTS	A 1-SD increase in physical disorder was associated with a 2.41 ( 95 % confidence interval , 1.31 to 4.44 ; P = .005 ) increased odds of being obese .
+RESULTS	Other neighborhood scales were not associated with risk for obesity .
+CONCLUSIONS	Neighborhood food and retail environment and physical disorder around a girl 's home predict risk for obesity across the transition from late childhood to adolescence .
+

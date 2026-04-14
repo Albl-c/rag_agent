@@ -1,0 +1,11 @@
+25248446
+BACKGROUND	The patients with brain lesion have a high risk of pulmonary complication due to restrictive pulmonary impairment .
+OBJECTIVE	To investigate the effectiveness of active pulmonary rehabilitation on pulmonary functional improvement in these patients .
+METHODS	Twnety-two patients of hemiplegia or quadriplegia with brain lesion were recruited who had restrictive pulmonary impairment .
+METHODS	The patients were randomly assigned to an experimental group that receive active pulmonary rehabilitation training and a control group without it .
+METHODS	The active pulmonary rehabilitation training is composed of air-stacking exercise by ambu-bagging and functional electrical stimulation ( FES ) on phrenic nerve and abdominal muscle .
+METHODS	We examined respiration function test of all patients composed of peak cough flow ( PCF ) , pulmonary function test ( PFT ) , diaphragmatic motion evaluation and oxygen saturation ( SaO2 ) at the beginning and 4 weeks after treatment .
+RESULTS	There was no significant difference in pulmonary function between experimental group and control group at the beginning .
+RESULTS	After 4 weeks treatment , FVC and FEV1 of PFT , PCF , diaphragmatic motion , SaO2 have significantly improved ( p < 0.05 ) in experimental group , but no significant changes were detected in control group .
+CONCLUSIONS	It is suggested that active pulmonary rehabilitation with air-stacking exercise and FES would be useful to improve pulmonary function in patients with brain lesion .
+

@@ -1,0 +1,14 @@
+25118263
+OBJECTIVE	To quantify the visual functional changes caused by pinhole glasses .
+METHODS	Healthy subjects underwent ophthalmic examinations including uncorrected distance visual acuity ( UDVA ) and corrected near visual acuity ( CNVA ) , pupil size , depth of focus ( DOF ) , accommodative amplitude , visual field ( VF ) test , contrast sensitivity ( CS ) , and stereopsis .
+METHODS	Subjects underwent the same examinations while wearing pinhole glasses 1 week later .
+RESULTS	Forty-eight eyes of 48 subjects ( 24 male and 24 female ) with a mean age of 35.56.7 years and a mean spherical equivalent of -2.43.3 diopters ( D ) were enrolled .
+RESULTS	The pinhole glasses significantly improved UDVA and CNVA ( logMAR ) from 0.440.46 and 0.260.40 to 0.190.25 and 0.140.22 , respectively .
+RESULTS	The pinhole glasses markedly enlarged pupils from 3.60.5 mm photopic size to 6.00.5 mm , very close to the mesopic size of 6.20.6 mm .
+RESULTS	Mean DOF and accommodative amplitude also significantly increased by approximately 50 % , while VF featured a general reduction of sensitivity .
+RESULTS	Mean deviation ( MD ) significantly decreased from -0.481.57 to -4.221.66 dB , and visual field index ( VFI ) decreased from 99.40.7 % to 98.41.3 % .
+RESULTS	The CS decreased significantly at all four spatial frequencies , and stereopsis deteriorated with pinhole glasses .
+CONCLUSIONS	The pinhole glasses improved visual acuity , DOF , and accommodative amplitude ; however , they resulted in decreased visual quality including general reduction of VF sensitivity , CS , and stereopsis .
+CONCLUSIONS	Therefore , particular attention is needed when wearing pinhole glasses while driving , playing sports , or working with instruments .
+CONCLUSIONS	( ClinicalTrials.gov number , NCT02111356 . )
+

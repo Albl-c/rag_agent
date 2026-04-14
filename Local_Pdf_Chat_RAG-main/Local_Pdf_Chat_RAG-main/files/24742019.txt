@@ -1,0 +1,19 @@
+24742019
+BACKGROUND	Cetuximab is a chimeric monoclonal antibody against the epidermal growth factor receptor ( EGFR ) .
+BACKGROUND	Skin reactions are the most common side effects of cetuximab .
+BACKGROUND	Rhagades of the tips of the fingers and toes , the heels and especially the interphalangeal joints are one of the most frightening and painful dermatological side effects that may develop from EGFR-inhibitor therapy .
+BACKGROUND	Rhagades are characterized by pain , severe tenderness and poor healing response .
+BACKGROUND	They are challenging to treat .
+BACKGROUND	Thus , rhagades often poses the most significant threat to the quality of life ( QoL ) for these patients .
+BACKGROUND	Ethyl-2-cyanoacrylate ( ECA ) , an ethyl ester of the 2-cyano-2-propenoic acid , is often used as adhesive in a variety of different work settings in industry , i.e. as a component in nail-care products such as nail glue .
+BACKGROUND	In addition , ECA is used for various medical indications , such as for liquid bandages and for suture-less surgery .
+BACKGROUND	Wound healing can be accelerated with ECA .
+BACKGROUND	The purpose of the SUPPORT trial is to investigate the efficacy of ECA for the treatment of cetuximab-induced rhagades and to assess the clinical usefulness of the SUPO score , a new classification system for rhagades induced by EGFR-inhibitor therapy .
+METHODS	The SUPPORT trial is an open-label , prospective , randomized , national multicenter intervention study to evaluate the effectiveness of ECA versus the standard treatment of each institution on the pain intensity and QoL in patients with locally advanced head and neck cancer suffering from painful cetuximab-induced rhagades during radioimmunotherapy .
+METHODS	Primary endpoint is the assessment of the pain intensity 24 hours after application of ECA or the standard treatment quantified by the visual analogue scale ( VAS ) .
+METHODS	Secondary endpoints are the evaluation of QoL assessed by the EORTC-QoL-C30 questionnaire and the Dermatological Life Quality Index ( DLQI ) .
+CONCLUSIONS	During treatment with EGFR inhibitors it is necessary to recognize and manage side effects promptly to assure better patient QoL .
+CONCLUSIONS	The SUPPORT trial is the first randomized clinical trial evaluating a new treatment option for painful cetuximab-induced rhagades .
+CONCLUSIONS	Furthermore , the new SUPO score will be prospectively assessed in terms of clinical usefulness for classification of EGFR inhibitor-induced rhagades .
+BACKGROUND	Current Controlled Trials NCT01693159 .
+

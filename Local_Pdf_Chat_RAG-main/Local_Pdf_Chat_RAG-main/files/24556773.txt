@@ -1,0 +1,14 @@
+24556773
+OBJECTIVE	Women in academic medicine are not achieving the same career advancement as men , and face unique challenges in managing work and family alongside intense work demands .
+OBJECTIVE	The purpose of this study was to investigate how a supportive department/division culture buffered women from the impact of work demands on work-to-family conflict .
+METHODS	As part of a larger intervention trial , the authors collected baseline survey data from 133 women assistant professors at the University of Pennsylvania Perelman School of Medicine in 2010 .
+METHODS	Validated measures of work demands , work-to-family conflict , and a department/division culture were employed .
+METHODS	Pearson correlations and general linear mixed modeling were used to analyze the data .
+METHODS	Authors investigated whether work culture moderated the association between work demands and work-to-family conflict .
+RESULTS	Heavy work demands were associated with increased levels of work-to-family conflict .
+RESULTS	There were significant interactions between work demands , work-to-family conflict , and department/division culture .
+RESULTS	A culture conducive to women 's academic success significantly moderated the effect of work hours on time-based work-to-family conflict and significantly moderated the effect of work overload on strain-based work-to-family conflict .
+RESULTS	At equivalent levels of work demands , women in more supportive cultures experienced lower levels of work-to-family conflict .
+CONCLUSIONS	The culture of the department/division plays a crucial role in women 's work-to-family conflict and can exacerbate or alleviate the impact of extremely high work demands .
+CONCLUSIONS	This finding leads to important insights about strategies for more effectively supporting the careers of women assistant professors .
+

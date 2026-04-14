@@ -1,0 +1,17 @@
+24497345
+OBJECTIVE	Intra-myocardial transplantation of CD133 ( + ) bone marrow stem cells ( BMC ) yielded promising results in clinical pilot trials .
+OBJECTIVE	We now performed the double-blinded , randomized , placebo-controlled CARDIO133 trial to determine its impact on left ventricular ( LV ) function and clinical symptoms .
+RESULTS	Sixty patients with chronic ischaemic heart disease and impaired LV function ( left ventricular ejection fraction , LVEF < 35 % ) were randomized to undergo either coronary artery bypass grafting ( CABG ) and injection of CD133 ( + ) BMC in the non-transmural , hypokinetic infarct border zone ( CD133 ) , or CABG and placebo injection ( placebo ) .
+RESULTS	Pre-operative LVEF was 27 6 % in CD133 patients and 26 6 % in placebo patients .
+RESULTS	Outcome was assessed after 6 months , and the primary endpoint was LVEF measured by cardiac magnetic resonance imaging ( MRI ) at rest .
+RESULTS	The incidence of adverse events was similar in both groups .
+RESULTS	There was no difference in 6-min walking distance , Minnesota Living with Heart Failure score , or Canadian Cardiovascular Society ( CCS ) class between groups at follow-up , and New York Heart Association class improved more in the placebo group ( P = 0.004 ) .
+RESULTS	By cardiac MRI , LVEF at 6 months was 33 8 % in the placebo group and 31 7 % in verum patients ( P = 0.3 ) , with an average inter-group difference of -2.1 % ( 95 % CI -6.3 to 2.1 ) .
+RESULTS	Systolic or diastolic LV dimensions at 6 months were not different , either .
+RESULTS	In the CD133 group , myocardial perfusion at rest recovered in more LV segments than in the placebo group ( 9 vs. 2 % , P < 0.001 ) .
+RESULTS	Scar mass decreased by 2.2 5 g in CD133 ( + ) patients ( P = 0.05 ) , but was unchanged in the placebo group ( 0.3 4 g , P = 0.7 ; inter-group difference in change = 2 g ( 95 % CI -1.1 to 5 ) ) .
+RESULTS	By speckle-tracking echocardiography , cell-treated patients showed a better recovery of regional wall motion when the target area was posterior .
+CONCLUSIONS	Although there may be some improvements in scar size and regional perfusion , intra-myocardial injection of CD133 ( + ) BMC has no effect on global LV function and clinical symptoms .
+CONCLUSIONS	Improvements in regional myocardial function are only detectable in patients with posterior infarction , probably because the interventricular septum after anterior infarction is not accessible by trans-epicardial injection .
+BACKGROUND	This trial was registered at http://www.clinicaltrials.gov under NCT00462774 .
+

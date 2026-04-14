@@ -1,0 +1,13 @@
+24843061
+OBJECTIVE	Children are vulnerable to diet inadequacies , which may affect immune function .
+OBJECTIVE	Our objective was to determine if a follow-up formula ( FUF ) containing DHA , the prebiotics PDX and GOS , and yeast - glucan affects incidence of respiratory infections and diarrheal disease in healthy children .
+METHODS	In a double-blind , randomized , controlled , prospective trial , 3-4 year old children were fed 3 servings per day of either a FUF with 25 mg DHA , 1.2 g PDX/GOS , and 8.7 mg yeast - glucan per serving or an unfortified , cow 's milk-based beverage ( control ) for 28 weeks .
+METHODS	Fecal and blood samples were collected to assess immune markers and iron/zinc status .
+METHODS	Incidence of acute respiratory infections ( ARI ) , diarrheal disease , and antibiotic treatment were obtained from medical records .
+RESULTS	The FUF group had fewer episodes and shorter duration of ARI ( mean days [ SE ] ; control = 4.3 [ 0.2 ] ; FUF = 3.5 [ 0.2 ] ; P = .007 ) , less antibiotic use ( n [ % ] ; control = 21 [ 14 % ] ; FUF = 8 [ 5 % ] ; P = .01 ) , and fewer missed days of day care due to illness .
+RESULTS	No diarrheal disease was diagnosed in either group .
+RESULTS	The FUF group had higher interleukin-10 and white blood cell count at the end of the study .
+RESULTS	There were no differences in hemoglobin , serum ferritin and zinc , or fecal secretory immunoglobulin A.
+CONCLUSIONS	Daily consumption of a FUF was associated with fewer episodes and shorter duration of ARI , as well as less antibiotic use .
+CONCLUSIONS	The children who consumed the FUF had increased interleukin-10 and white blood cells , suggesting an antiinflammatory mechanism and/or an increase of effector immune cells .
+

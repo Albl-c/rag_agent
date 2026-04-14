@@ -1,0 +1,12 @@
+25710763
+OBJECTIVE	To determine whether directly measured arterial blood pressure differs among anatomic locations and whether arterial blood pressure is influenced by body position .
+METHODS	33 client-owned dogs undergoing anesthesia .
+METHODS	Dogs undergoing anesthetic procedures had 20-gauge catheters placed in both the superficial palmar arch and the contralateral dorsal pedal artery ( group 1 [ n = 20 ] ) or the superficial palmar arch and median sacral artery ( group 2 [ 13 ] ) .
+METHODS	Dogs were positioned in dorsal recumbency , and mean arterial blood pressure ( MAP ) , systolic arterial blood pressure ( SAP ) , and diastolic arterial blood pressure ( DAP ) were recorded for both arteries 4 times ( 2-minute interval between successive measurements ) .
+METHODS	Dogs were positioned in right lateral recumbency , and blood pressure measurements were repeated .
+RESULTS	Differences were detected between pressures measured at the 2 arterial sites in both groups .
+RESULTS	This was especially true for SAP measurements in group 1 , in which hind limb measurements were a mean of 16.12 mm Hg higher than carpus measurements when dogs were in dorsal recumbency and 14.70 mm Hg higher than carpus measurements when dogs were in lateral recumbency .
+RESULTS	Also , there was significant dispersion about the mean for all SAP , DAP , and MAP measurements .
+CONCLUSIONS	Results suggested that arterial blood pressures may be dependent on anatomic location and body position .
+CONCLUSIONS	Because this may affect outcomes of studies conducted to validate indirect blood pressure measurement systems , care must be used when developing future studies or interpreting previous results .
+

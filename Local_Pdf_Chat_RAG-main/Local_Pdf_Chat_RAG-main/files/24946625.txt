@@ -1,0 +1,19 @@
+24946625
+OBJECTIVE	To verify the clinical efficacy of acupuncture on motor dysfunction in ischemic stroke of subacute stage .
+METHODS	The multi-central randomized controlled trial was adopted .
+METHODS	One hundred and twenty-six cases of ischemic stroke of subacute stage were randomized into an acupuncture group ( 61 cases ) and a conventional treatment group ( 65 cases ) .
+METHODS	The basic treatment of western internal medicine and rehabilitation training were applied to the patients of the two groups .
+METHODS	In the acupuncture group , acupuncture was supplemented at the body points located on the extensor of the upper limbs and the flexor of the lower limbs .
+METHODS	In combination , scalp acupuncture was applied to NS5 , MS6 and MS6 on the affected side .
+METHODS	The treatment was given 5 times a week and totally 8 weeks were required .
+METHODS	The follow-up observation lasted for 3 months .
+METHODS	The scores in Fugl-Meyer scale and NIHSS scale and Barthel index were compared between the two groups before treatment , in 4 and 8 weeks of treatment and the 3-month follow-up observation after treatment separately .
+RESULTS	In 4 and 8 weeks of treatment and the follow-up observation , Fugl-Meyer scale score was improved obviously in the patients of the two groups ( all P < 0.01 ) .
+RESULTS	In 8 weeks of treatment and the follow-up observation , Fugl-Meyer scale score in the acupuncture groupwas im proved much apparently as compared with that in the conventional treatment group [ 68.0 ( 43.0,86.5 ) vs 52.5 ( 30.3 , 77.0 ) , 77.0 ( 49.5 , 89.0 ) vs 63.0 ( 33.0 , 84.0 ) , both P < 0.05 ] .
+RESULTS	Except that NIHSS scale score was not reduced apparently in 4 weeks of treatment in the conventional treatment group ( P > 0.05 ) , the results of NIHSS scale at the other time points were all decreased obviously as compared with those before treatment in the patients of the two groups ( all P < 0.01 ) .
+RESULTS	In 8 weeks of treatment and the follow-up observation , the results in the acupuncture group were reduced much apparently as compared with those in the conventional treatment group [ 5.0 ( 3.0,8.0 ) vs 7.0 ( 3.0,13.8 ) , 4.0 ( 1.5,7.0 ) vs 6.0 ( 2.0,11.7 ) , both P < 0.05 ] .
+RESULTS	In 8 weeks of treatment and the follow-up observation , Barthel index was improved obviously as compared with that before treatment in the patients of the two groups ( all P < 0.05 ) .
+RESULTS	The improvement in the acupuncture group was much more significant as compared with the conventional treatment group [ 75.0 ( 60.0,87.5 ) vs 65 .
+RESULTS	O ( 36.3 , 87.5 ) , P < 0.051 .
+CONCLUSIONS	Based on the conventional treatment , Acupuncture achieves the satisfactory clinical efficacy on motor dysfunction in ischemic stroke of subacute stage .
+

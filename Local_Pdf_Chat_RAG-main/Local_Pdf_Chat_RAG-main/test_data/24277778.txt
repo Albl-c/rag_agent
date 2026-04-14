@@ -1,0 +1,12 @@
+24277778
+BACKGROUND	Cardiovascular disease ( CVD ) accounts for 30 % of UK deaths .
+BACKGROUND	It is associated with modifiable lifestyle factors , including insufficient consumption of fruit and vegetables ( F&V ) .
+BACKGROUND	Lay health trainers ( LHTs ) offer practical support to help people develop healthier behaviour and lifestyles .
+BACKGROUND	Our two-group pilot randomized controlled trial ( RCT ) investigated the effectiveness of LHTs at promoting a heart-healthy lifestyle among adults with at least one risk factor for CVD to inform a full-scale RCT .
+METHODS	Eligible adults ( aged 21-78 years ) , recruited from five practices serving deprived populations , were randomized to health information leaflets plus LHTs ' support for 3 months ( n = 76 ) versus health information leaflets alone ( n = 38 ) .
+RESULTS	We recruited 114 participants , with 60 % completing 6 month follow-up .
+RESULTS	Both groups increased their self-reported F&V consumption and we found no evidence for LHTs ' support having significant added impact .
+RESULTS	Most participants were relatively less deprived , as were the LHTs we were able to recruit and train .
+CONCLUSIONS	Our pilot demonstrated that an LHT 's RCT whilst feasible faces considerable challenges .
+CONCLUSIONS	However , to justify growing investment in LHTs , any behaviour changes and sustained impact on those at greatest need should be demonstrated in an independently evaluated , robust , fully powered RCT .
+

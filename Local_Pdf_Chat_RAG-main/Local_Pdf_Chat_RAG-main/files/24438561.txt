@@ -1,0 +1,8 @@
+24438561
+OBJECTIVE	The aim of this clinical study was to identify changes in pulpal blood flow ( PBF ) in human central incisors resulting from short - and long-term intrusive orthodontic forces from mini-implants .
+METHODS	A total of 40 sound upper central and lateral incisors in 20 patients scheduled for intrusion for orthodontic reasons were divided into two groups .
+METHODS	From each group , 20 teeth were subjected to intrusive force from mini-implants ( Group 1 = Light Force : 40 g ; Group 2 = Heavy Force : 120 g ) , whereas the remaining 20 contralateral teeth were not subjected to forces from mini-implants and served as controls .
+METHODS	Laser-Doppler flowmetry ( LDF ) measurements were recorded at baseline and at 3 days and 3 weeks following intrusion .
+RESULTS	PBF decreased significantly at 3 days ( Light Force Group : 7.72 0.50 ; Heavy Force Group : 7.72 0.52 ) and then increased towards baseline at 3 weeks ( Light Force Group : 10.37 0.58 ; Heavy Force Group : 10.31 0.45 ) following intrusion .
+CONCLUSIONS	In other words , despite slight regressive changes in pulpal tissue in the short-term , PBF improved after 3 weeks following intrusion by mini-implants , indicating that the changes observed in PBF is reversible , even following radical incisor intrusion .
+

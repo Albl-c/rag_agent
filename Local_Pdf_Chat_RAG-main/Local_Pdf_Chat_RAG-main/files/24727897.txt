@@ -1,0 +1,13 @@
+24727897
+BACKGROUND	To investigate if the cramp threshold frequency ( CTF ) can be altered by electrical muscle stimulation in a shortened position .
+METHODS	A total of 15 healthy male sport students were randomly allocated to an intervention ( IG , n = 10 ) and a non-treatment control group ( CG , n = 5 ) .
+METHODS	Calf muscles of both legs in the IG were stimulated equally twice a week over 6 weeks .
+METHODS	The protocol was 35 s on , 10 s off , 150 s impulse width , 30 Hz above the individual CTF , and was at 85 % of the maximal tolerated stimulation energy .
+METHODS	One leg was stimulated in a shortened position , inducing muscle cramps ( CT ) , while the opposite leg was fixated in a neutral position at the ankle , hindering muscle cramps ( nCT ) .
+METHODS	CTF tests were performed prior to the first and 96 h after the 6 ( th ) ( 3 w ) and 12 ( th ) ( 6 w ) training session .
+RESULTS	After 3 w , the CTF had significantly ( p < 0.001 ) increased in CT calves from 23.35.7 Hz to 33.36.9 Hz , while it remained unchanged in nCT ( pre : 23.65.7 Hz , mid : 22.33.5 Hz ) and in both legs of the CG ( pre : 21.83.2 Hz , mid : 22.02.7 Hz ) .
+RESULTS	Only CT saw further insignificant increases in the CTF .
+RESULTS	The applied stimulation energy ( mA s ) positively correlated with the effect on the CTF ( r = 0.92 ; p < 0.001 ) .
+CONCLUSIONS	The present study may be useful for developing new non-pharmacological strategies to reduce cramp susceptibility .
+BACKGROUND	German Clinical Trials Register DRKS00005312 .
+

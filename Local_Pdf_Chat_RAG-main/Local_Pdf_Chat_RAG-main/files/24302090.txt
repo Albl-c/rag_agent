@@ -1,0 +1,19 @@
+24302090
+OBJECTIVE	Communication about end-of-life care is a core clinical skill .
+OBJECTIVE	Simulation-based training improves skill acquisition , but effects on patient-reported outcomes are unknown .
+OBJECTIVE	To assess the effects of a communication skills intervention for internal medicine and nurse practitioner trainees on patient - and family-reported outcomes .
+METHODS	Randomized trial conducted with 391 internal medicine and 81 nurse practitioner trainees between 2007 and 2013 at the University of Washington and Medical University of South Carolina .
+METHODS	Participants were randomized to an 8-session , simulation-based , communication skills intervention ( N = 232 ) or usual education ( N = 240 ) .
+METHODS	Primary outcome was patient-reported quality of communication ( QOC ; mean rating of 17 items rated from 0-10 , with 0 = poor and 10 = perfect ) .
+METHODS	Secondary outcomes were patient-reported quality of end-of-life care ( QEOLC ; mean rating of 26 items rated from 0-10 ) and depressive symptoms ( assessed using the 8-item Personal Health Questionnaire [ PHQ-8 ] ; range , 0-24 , higher scores worse ) and family-reported QOC and QEOLC .
+METHODS	Analyses were clustered by trainee .
+RESULTS	There were 1866 patient ratings ( 44 % response ) and 936 family ratings ( 68 % response ) .
+RESULTS	The intervention was not associated with significant changes in QOC or QEOLC .
+RESULTS	Mean values for postintervention patient QOC and QEOLC were 6.5 ( 95 % CI , 6.2 to 6.8 ) and 8.3 ( 95 % CI , 8.1 to 8.5 ) respectively , compared with 6.3 ( 95 % CI , 6.2 to 6.5 ) and 8.3 ( 95 % CI , 8.1 to 8.4 ) for control conditions .
+RESULTS	After adjustment , comparing intervention with control , there was no significant difference in the QOC score for patients ( difference , 0.4 points [ 95 % CI , -0.1 to 0.9 ] ; P = .15 ) or families ( difference , 0.1 [ 95 % CI , -0.8 to 1.0 ] ; P = .81 ) .
+RESULTS	There was no significant difference in QEOLC score for patients ( difference , 0.3 points [ 95 % CI , -0.3 to 0.8 ] ; P = .34 ) or families ( difference , 0.1 [ 95 % CI , -0.7 to 0.8 ] ; P = .88 ) .
+RESULTS	The intervention was associated with significantly increased depression scores among patients of postintervention trainees ( mean score , 10.0 [ 95 % CI , 9.1 to 10.8 ] , compared with 8.8 [ 95 % CI , 8.4 to 9.2 ] ) for control conditions ; adjusted model showed an intervention effect of 2.2 ( 95 % CI , 0.6 to 3.8 ; P = .006 ) .
+CONCLUSIONS	Among internal medicine and nurse practitioner trainees , simulation-based communication training compared with usual education did not improve quality of communication about end-of-life care or quality of end-of-life care but was associated with a small increase in patients ' depressive symptoms .
+CONCLUSIONS	These findings raise questions about skills transfer from simulation training to actual patient care and the adequacy of communication skills assessment .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00687349 .
+

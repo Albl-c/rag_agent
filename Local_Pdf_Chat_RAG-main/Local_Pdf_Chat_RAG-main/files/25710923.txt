@@ -1,0 +1,13 @@
+25710923
+OBJECTIVE	Depression is common in diabetes and linked to adverse health outcomes .
+OBJECTIVE	This study evaluated the efficacy of a guided web-based intervention in reducing depression in adults with type 1 and type 2 diabetes .
+METHODS	A total of 260 participants with diabetes and elevated depressive symptoms ( Center for Epidemiologic Studies Depression Scale [ CES-D 23 ] ) were randomly assigned to the GET.ON Mood Enhancer Diabetes ( a guided self-help intervention , n = 130 ) or a brief online unguided psychoeducation program for depression ( n = 130 ) .
+METHODS	The primary outcome was depressive symptoms severity ( CES-D ) .
+METHODS	The secondary outcomes included diabetes-specific emotional distress ( Problem Areas in Diabetes [ PAID ] scale ) and participant satisfaction ( adaption CSQ-8 ) .
+METHODS	Data were collected at baseline and 2 months after randomization .
+METHODS	To identify differences in outcome between the groups , we used analyses of covariance with the baseline CES-D score as covariate on both intent-to-treat ( ITT ) and per-protocol ( PP ) basis .
+RESULTS	Compared with the control group , the intervention group showed significantly less depressive symptom severity at posttreatment based on ITT ( d = 0.89 ) and PP analyses ( d = 1.00 ) .
+RESULTS	The intervention participants displayed a significantly larger reduction in diabetes-specific emotional distress ( d = 0.58 , ITT ) .
+RESULTS	The intervention appeared to be acceptable to the participants ; 95 % ( n = 121 ) would recommend the training to a friend with diabetes in need of psychological help .
+CONCLUSIONS	A guided , web-based intervention to reduce depression in adults with type 1 and type 2 diabetes is effective in reducing both depressive symptoms and diabetes-specific emotional distress .
+

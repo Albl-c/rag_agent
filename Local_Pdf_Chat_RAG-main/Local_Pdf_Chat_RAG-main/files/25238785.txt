@@ -1,0 +1,15 @@
+25238785
+BACKGROUND	Management of acute sore throat poses a significant burden on UK general practices , with almost 10 % of registered patients attending their GP with sore throat every year .
+BACKGROUND	Nearly half of all patients presenting with acute sore throat are treated with antibiotics , despite their limited effect .
+BACKGROUND	In a recent systematic review we demonstrated that a single dose of steroids reduced the severity and time to resolution of sore throat .
+BACKGROUND	However , all of the trials included looked at the use of steroids alongside antibiotics and only one was in a primary care setting .
+BACKGROUND	This trial aims to assess the efficacy and cost-effectiveness of a single oral dose of corticosteroids on symptoms of sore throat in patients receiving either a delayed antibiotic prescription or no antibiotics at all in UK primary care .
+METHODS	A double-blind , two arm , randomized , placebo controlled trial in adults ( 18 years of age ) presenting to primary care with acute sore throat ( < seven days ) .
+METHODS	Participants are recruited on the day of presentation to their GP practice .
+METHODS	GPs or nurses assess eligibility , record baseline clinical features and obtain a throat swab for bacterial culture .
+METHODS	Participants are being randomized to treatment arms at a ratio of 1:1 .
+METHODS	Treatment arms will be stratified according to whether patients are being given a delayed antibiotic prescription or no antibiotic prescription and by recruiting centre ( Oxford , Bristol or Southampton ) .
+METHODS	Outcome data is being collected at 24 and 48 hours via text message or telephone call , from days 0 to 7 using a patient symptom diary and at one month via a GP notes review .
+CONCLUSIONS	This will be the first randomized controlled trial of oral corticosteroids in adults presenting to primary care with sore throat in the UK , and the first to examine the clinical and cost-effectiveness of oral corticosteroids for the treatment of sore throat in the absence of antibiotics .
+BACKGROUND	This trial is registered with Current Controlled Trials on 26 March 2013 , registration number : ISRCTN17435450 .
+

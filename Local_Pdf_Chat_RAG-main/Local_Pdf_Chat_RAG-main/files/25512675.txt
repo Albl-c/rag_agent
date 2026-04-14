@@ -1,0 +1,15 @@
+25512675
+OBJECTIVE	To identify the first time point of an MRI-verified response to certolizumab pegol ( CZP ) therapy in patients with rheumatoid arthritis ( RA ) .
+METHODS	Forty-one patients with active RA despite disease-modifying antirheumatic drug therapy were randomised 2:1 to CZP ( CZP loading dose 400mg every 2weeksat weeks 0-4 ; CZP 200mg every 2weeksat weeks 6-16 ) or placeboCZP ( placebo at weeks 0-2 ; CZP loading dose at weeks 2-6 ; CZP 200mg every 2weeks at weeks 8-16 ) .
+METHODS	Contrast-enhanced MRI of one hand and wrist was acquired at baseline ( week 0 ) and weeks 1 , 2 , 4 , 8 and 16 .
+METHODS	All six time points were read simultaneously , blinded to time , using the Outcome Measures in Rheumatology Clinical Trials RA MRI scoring system .
+METHODS	Primary outcome was change in synovitis score in the CZP group ; secondary outcomes were change in bone oedema ( osteitis ) and erosion scores and clinical outcome measures .
+RESULTS	Forty patients were treated ( 27 CZP , 13 placeboCZP ) , and 36 ( 24 CZP , 12 placeboCZP ) completed week 16 .
+RESULTS	In the CZP group , there were significant reductions from baseline synovitis ( Hodges-Lehmann estimate of median change , -1.5 , p = 0.049 ) and osteitis scores ( -2.5 , p = 0.031 ) at week 16 .
+RESULTS	Numerical , but statistically insignificant , MRI inflammation reductions were observed at weeks 1-2 in the CZP group .
+RESULTS	No significant change was seen in bone erosion score .
+RESULTS	Improvements across all clinical outcomes were seen in the CZP group .
+CONCLUSIONS	CZP reduced MRI synovitis and osteitis scores at week 16 , despite small sample size and the technical challenge of reading six time points simultaneously .
+CONCLUSIONS	This study provides essential information on optimal MRI timing for subsequent trials .
+BACKGROUND	ClinicalTrials.gov , NCT01235598 .
+

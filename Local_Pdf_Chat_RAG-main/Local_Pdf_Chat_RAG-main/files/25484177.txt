@@ -1,0 +1,12 @@
+25484177
+OBJECTIVE	Herbal remedies play an important role in treatment of psychiatric disorders .
+OBJECTIVE	The aim of this study was to assess the efficacy of crocin , the main active constituent of saffron , as an adjunctive treatment in major depressive disorder ( MDD ) .
+METHODS	This study was a randomized , double-blind , placebo-controlled , pilot clinical trial .
+METHODS	It was carried out during 4 weeks in two groups ( placebo and treatment ) on 40 MDD patients between 24 and 50 years old in Ibn-e-Sina psychiatric hospital , Mashhad , Iran , from March 2013 to December 2013 .
+METHODS	The crocin group ( n = 20 ) was given one selective serotonin reuptake inhibitor ( SSRI ) drug ( fluoxetine 20mg/day or sertraline 50mg/day or citalopram 20mg/day ) plus crocin tablets ( 30mg/day ; 15mg BID ) and placebo group ( n = 20 ) was administered one SSRI ( fluoxetine 20mg/day or sertraline 50mg/day or citalopram 20mg/day ) plus placebo ( two placebo tablets per day ) for 4 weeks .
+METHODS	Both groups filled beck depression inventory ( BDI ) , beck anxiety inventory ( BAI ) , general health questionnaire ( GHQ ) , the mood disorder questionnaire ( MDQ ) , side effect evaluation questionnaire , and demographic questionnaire before and after one month intervention .
+RESULTS	The crocin group showed significantly improved scores on BDI , BAI and GHQ compared to placebo group ( Pvalue < 0.0001 ) .
+RESULTS	The averages of decrease in BDI , BAI and GHQ scores in placebo group were 6.15 , 2.6 and 10.3 respectively , whereas the values in crocin group were 17.6 , 12.7 and 17.2 after 4 weeks trial .
+CONCLUSIONS	Poor patient compliance with medications and short trial period , small sample size and self-report assessments were the major limitations of this study .
+CONCLUSIONS	These results demonstrated the effect of crocin in depression and could be administered in treatment of MDD patients .
+

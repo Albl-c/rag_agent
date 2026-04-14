@@ -1,0 +1,16 @@
+25938633
+BACKGROUND	HIV infection is associated with a greater risk for fasting hyperinsulinemia , impaired glucose tolerance , and higher incidence rates for vascular disease , myocardial infarction , or stroke despite effective combination antiretroviral therapy ( cART ) .
+BACKGROUND	The underlying mechanism ( s ) may involve chronic low-grade systemic inflammation and immune cell activation .
+BACKGROUND	Dipeptidyl peptidase-4 inhibitors ( sitagliptin ) improve glucose tolerance and may possess immunomodulatory effects because leukocyte CD26 cell surface receptors express dipeptidyl peptidase-4 activity .
+OBJECTIVE	Sitagliptin will reduce inflammatory and immune cell activation markers known to be elevated in cART-treated HIV-infected ( HIV + ) adults with impaired glucose tolerance .
+METHODS	This was designed as a prospective , randomized , placebo-controlled , double-blind trial of sitagliptin in HIV + adults .
+METHODS	The setting was an academic medical center .
+METHODS	Patients were cART-treated HIV + men and women ( n = 36 ) with stable HIV disease and impaired glucose tolerance .
+METHODS	Interventions included sitagliptin 100 mg/d or placebo for 8 weeks .
+METHODS	At baseline and week 8 , plasma high-sensitivity C-reactive protein and C-X-C motif chemokine 10 concentrations ( ELISA ) , oral glucose tolerance , and abdominal sc adipose mRNA expression for M1 macrophage markers ( monocyte chemotactic protein-1 , EGF-like module-containing , mucin-like hormone receptor 1 ) .
+RESULTS	Sitagliptin reduced glucose area under the curve ( P = .002 ) and improved oral glucose insulin sensitivity index ( P = .04 ) more than placebo .
+RESULTS	Sitagliptin reduced plasma high-sensitivity C-reactive protein and C-X-C motif chemokine 10 levels more than placebo ( P < .009 ) .
+RESULTS	Adipose tissue monocyte chemotactic protein-1 mRNA abundance declined significantly more ( P = .01 ) , and adipose EGF-like module-containing , mucin-like hormone receptor 1 mRNA expression tended to decline more ( P = .19 ) in sitagliptin than placebo .
+CONCLUSIONS	Sitagliptin had beneficial systemic and adipose anti-inflammatory effects in cART-treated HIV + adults with impaired glucose tolerance .
+CONCLUSIONS	Large-scale , long-term studies should determine whether sitagliptin reduces cardiovascular risk and events in HIV + adults .
+

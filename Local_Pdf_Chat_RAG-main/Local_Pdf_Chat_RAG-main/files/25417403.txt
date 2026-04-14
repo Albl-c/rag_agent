@@ -1,0 +1,10 @@
+25417403
+OBJECTIVE	To assess the clinical curative effect of fuzi-cake-separated moxibustion at Zhongji ( CV 3 ) and Guanyuan ( CV 4 ) for preventing dysuria after internal fixation of lower limb fractures .
+METHODS	Sixty patients conforming to the inclusion standards were randomly divided into a treatment group ( n = 30 ) and a control group ( n = 30 ) .
+METHODS	Fuzi-cake-separated moxibustion was performed at Guanyuan ( CV 4 ) and Zhongji ( CV 3 ) , 20 min at a time , twice a day , for 3 days before operation in the treatment group .
+METHODS	No fuzi-cake-separated moxibustion was performed in the control group .
+METHODS	After treatment , the score for symptoms of first urination , urinary time , urinary volume , 24 h remaining urinary volume , incidence of uroschesis , and rate of controlling dysuria were compared to evaluate the curative effect of preventing post-operative dysuria .
+RESULTS	The score for symptoms of first urination , 24 h remaining urinary volume ( maximum 120 mL vs 250 ml , and less than 10 ml in 24 cases vs 15 cases ) , and the rate of controlling dysuria ( 83.34 % vs 30 % ) were significantly better ( P < 0.05 , P < 0.05 , and P < 0.001 , respectively ) in the treatment compared with the control group .
+RESULTS	There was no statistical difference ( P > 0.05 ) between the two groups in first post-operative urinary time , urinary volume , or incidence of 24 h uroschesis .
+CONCLUSIONS	Fuzi-cake-separated moxibustion at Zhongji ( CV 3 ) and Guanyuan ( CV 4 ) can better prevent post-operative dysuria , effectively promote the functional restoration of the urinary bladder , and control the incidence of post-operative dysuria .
+

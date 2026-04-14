@@ -1,0 +1,15 @@
+24383406
+OBJECTIVE	To evaluate changes in self-reported nocturia in community-dwelling adults aged 60 and older who received behavioral treatment for chronic insomnia .
+METHODS	Secondary analysis of a randomized controlled trial of a behavioral intervention for sleep .
+METHODS	Academic medical center .
+METHODS	Of the 79 enrollees , this analysis focused on 30 who , in addition to insomnia , also reported at least one nightly episode of waking up to void .
+METHODS	The brief behavioral treatment of insomnia ( BBTI ) group ( n = 14 ) received instructions on reducing time in bed and setting a regular sleep schedule .
+METHODS	The information control ( IC ) group ( n = 16 ) received printed materials .
+METHODS	A nurse clinician delivered both interventions .
+METHODS	Self-reported nocturnal awakenings to void assessed daily for 14 days at baseline and 4 weeks after the intervention .
+METHODS	Participants who reported at least one episode of nocturia per night at baseline were included in this analysis .
+RESULTS	In individuals with nocturia at baseline , the total number of nocturnal voids over the 14-day assessment period decreased by 6.5 4.8 in the BBTI group and increased by 1.3 7.3 in the IC group ( P = .04 , effect size 0.82 ) .
+RESULTS	After adjusting for baseline nocturia episodes , the difference remained significant ( P = .05 ) .
+CONCLUSIONS	In older adults with concurrent insomnia and nocturia , behavioral treatment directed solely at insomnia may also improve self-reported nocturia .
+CONCLUSIONS	Behavioral treatment of insomnia should be further investigated for its effect on nocturia in individuals with concurrent insomnia and nocturia .
+

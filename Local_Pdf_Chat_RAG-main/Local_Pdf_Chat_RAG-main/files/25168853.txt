@@ -1,0 +1,20 @@
+25168853
+BACKGROUND	Chronic obstructive pulmonary disease ( COPD ) is a chronic , progressively debilitating condition that is prevalent in the US and worldwide .
+BACKGROUND	Patients suffer from progressive dyspnea and exercise intolerance .
+BACKGROUND	Physical exercise is beneficial , but conventional pulmonary rehabilitation programs are underutilized .
+BACKGROUND	There remains a need for novel interventions that improve symptoms , quality-of-life , and functional capacity .
+BACKGROUND	Tai chi is an increasingly popular mind-body exercise that includes physical exercise , breathing training , mindful awareness , and stress management -- components that are essential to the self-management of COPD .
+BACKGROUND	There are , however , limited data on the effectiveness of tai chi as a therapeutic intervention in this population .
+METHODS	The Primary Aims are to evaluate the efficacy , safety , and feasibility of a 12-week tai chi program for patients with COPD .
+METHODS	We utilize a randomized controlled trial design , with participants assigned in a 2:1 ratio to either a group tai chi program ( N = 63 ) or a time/attention-matched education control ( N = 31 ) .
+METHODS	Our primary outcomes are COPD-specific quality-of-life and exercise capacity .
+METHODS	Secondary outcomes include dyspnea , mood , functional status , self-efficacy , and lung function .
+METHODS	Cardiopulmonary exercise testing is done in a subset of patients ( N = 50 ) .
+METHODS	To explore optimal training duration , a subgroup of patients in tai chi are randomly assigned to complete an additional 12 weeks training ( total 24 weeks ) ( Exploratory Aim 1 ) .
+METHODS	To explore the impact of a simplified seated intervention including only a subset of tai chi 's training components , a third randomly assigned group ( N = 31 ) receives a 12 - week mind-body breathing program ( N = 31 ) ( Exploratory Aim 2 ) .
+CONCLUSIONS	Results of the BEAM study ( Breathing , Education , Awareness , Movement ) will provide preliminary evidence regarding the value of tai chi for improving quality of life and exercise capacity in patients with COPD , including information regarding optimal duration .
+CONCLUSIONS	They will also inform the feasibility and potential benefit of an alternative mind-body breathing intervention , and provide insight regarding how isolated mind-body exercise components contribute to the overall effects of tai chi .
+CONCLUSIONS	Should the results be positive , tai chi and related mind-body practices may offer a novel exercise option that is potentially accessible to a large proportion of patients with COPD .
+BACKGROUND	This trial is registered in Clinical Trials.gov , ID number NCT01551953 .
+BACKGROUND	Date of Registration March 1 2012 .
+

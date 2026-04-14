@@ -1,0 +1,14 @@
+24708851
+BACKGROUND	Physical therapy treatment of patients with lymphedema includes treatment based on the principles of ` Complete Decongestive Therapy ' ( CDT ) .
+BACKGROUND	CDT consists of the following components ; skin care , manual lymphatic drainage , bandaging and exercises .
+BACKGROUND	The scientific evidence regarding what type of treatment is most effective is sparse .
+BACKGROUND	The objective of this study is to investigate whether CDT is equally effective if it includes manual lymphatic drainage or not in the treatment of arm lymphedema among patients with breast cancer .
+METHODS	A randomized , single-blind , equivalence trial .
+METHODS	A total of 160 breast cancer patients with arm lymphedema will be recruited from 3 hospitals and randomized into one of two treatment groups A : Complete Decongestive Therapy including manual drainage or B : Complete Decongestive Therapy without manual lymphatic drainage .
+METHODS	The intervention period will be approximately 4 weeks followed by a 6 month follow-up period ( 7 months from baseline ) .
+METHODS	Primary outcome variable : the percentage volume reduction of lymphedema ( % ) from baseline to 7 months .
+METHODS	Secondary outcome variables : Differences from baseline to week 4 and from week 4 to month 7 in circumference of the arm ( cm ) , body weight ( kg ) , patient sensation of heaviness ( scale range : 0-10 ) , patient sensation of tension ( scale range : 0-10 ) , and quality of life ( EQ-5D-5 L-questionnaire ) .
+METHODS	All measurements are standardized and will be performed before randomization , after 4 weeks and after 7 months .
+CONCLUSIONS	This randomized controlled study seeks to provide data on an effective treatment for patients with breast cancer related arm lymphedema and which at the same time causes minimal patient inconvenience .
+BACKGROUND	ClinicalTrials.gov : Identifier NCT02015897 .
+

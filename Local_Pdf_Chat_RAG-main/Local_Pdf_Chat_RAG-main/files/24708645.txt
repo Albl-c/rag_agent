@@ -1,0 +1,14 @@
+24708645
+BACKGROUND	The ongoing scale-up of antiretroviral therapy ( ART ) in sub-Saharan Africa has prompted the interest in surveillance of transmitted and acquired HIV drug resistance .
+BACKGROUND	Resistance data on virological failure and mutations in HIV infected populations initiating treatment in sub-Saharan Africa is sparse .
+METHODS	HIV viral load ( VL ) and resistance mutations pre-ART and after 6 months were determined in a prospective cohort study of ART-nave HIV patients initiating first-line therapy in Jimma , Ethiopia .
+METHODS	VL measurements were done at baseline and after 3 and 6 months .
+METHODS	Genotypic HIV drug resistance ( HIVDR ) was performed on patients exhibiting virological failure ( > 1000 copies/mL at 6 months ) or slow virological response ( > 5000 copies/mL at 3 months and < 1000 copies/mL at 6 months ) .
+RESULTS	Two hundred sixty five patients had VL data available at baseline and at 6 months .
+RESULTS	Virological failure was observed among 14 ( 5.3 % ) participants out of 265 patients .
+RESULTS	Twelve samples were genotyped and six had HIV drug resistance ( HIVDR ) mutations at baseline .
+RESULTS	Among virological failures , 9/11 ( 81.8 % ) harbored one or more HIVDR mutations at 6 months .
+RESULTS	The most frequent mutations were K103N and M184VI .
+CONCLUSIONS	Our data confirm that the currently recommended first-line ART regimen is efficient in the vast majority of individuals initiating therapy in Jimma , Ethiopia eight years after the introduction of ART .
+CONCLUSIONS	However , the documented occurrence of transmitted resistance and accumulation of acquired HIVDR mutations among failing patients justify increased vigilance by improving the availability and systematic use of VL testing to monitor ART response , and underlines the need for rapid , inexpensive tests to identify the most common drug resistance mutations .
+

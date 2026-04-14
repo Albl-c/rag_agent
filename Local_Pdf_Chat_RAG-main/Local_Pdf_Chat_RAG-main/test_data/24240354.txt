@@ -1,0 +1,12 @@
+24240354
+OBJECTIVE	This study aimed to determine the probability and risk factors for developing a corneal inflammatory event ( CIE ) during daily wear of lotrafilcon A silicone hydrogel contact lenses .
+METHODS	Eligible participants ( n = 218 ) were fit with lotrafilcon A lenses for daily wear and followed up for 12 months .
+METHODS	Participants were randomized to either a polyhexamethylene biguanide-preserved multipurpose solution or a one-step peroxide disinfection system .
+METHODS	The main exposures of interest were bacterial contamination of lenses , cases , lid margins , and ocular surface .
+METHODS	Kaplan-Meier ( KM ) plots were used to estimate the cumulative unadjusted probability of remaining free from a CIE , and multivariate Cox proportional hazards regression was used to model the hazard of experiencing a CIE.
+RESULTS	The KM unadjusted cumulative probability of remaining free from a CIE for both lens care groups combined was 92.3 % ( 95 % confidence interval [ CI ] , 88.1 to 96.5 % ) .
+RESULTS	There was one participant with microbial keratitis , five participants with asymptomatic infiltrates , and seven participants with contact lens peripheral ulcers , providing KM survival estimates of 92.8 % ( 95 % CI , 88.6 to 96.9 % ) and 98.1 % ( 95 % CI , 95.8 to 100.0 % ) for remaining free from noninfectious and symptomatic CIEs , respectively .
+RESULTS	The presence of substantial ( > 100 colony-forming units ) coagulase-negative staphylococci bioburden on lid margins was associated with about a five-fold increased risk for the development of a CIE ( p = 0.04 ) .
+CONCLUSIONS	The probability of experiencing a CIE during daily wear of lotrafilcon A contact lenses is low , and symptomatic CIEs are rare .
+CONCLUSIONS	Patient factors , such as high levels of bacterial bioburden on lid margins , contribute to the development of noninfectious CIEs during daily wear of silicone hydrogel lenses .
+

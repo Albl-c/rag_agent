@@ -1,0 +1,28 @@
+25456368
+BACKGROUND	An effective and well tolerated treatment is needed for patients with early HER2-positive breast cancer who do not achieve a pathological complete response after neoadjuvant therapy .
+BACKGROUND	The AVATAXHER trial aimed to predict pathological complete response early with the use of PET and to investigate whether the addition of bevacizumab could improve the proportion of patients achieving a pathological complete response in patients unlikely to respond to treatment .
+METHODS	AVATAXHER was a randomised , open-label , non-comparative , multicentre phase 2 study that enrolled women ( 18 years of age ) with early-stage HER2-positive breast cancer from 26 oncology centres in France .
+METHODS	Patients initially received two cycles of neoadjuvant docetaxel ( 100 mg/m ( 2 ) intravenously every 3 weeks ) plus trastuzumab ( 8 mg/kg intravenously every 3 weeks then 6 mg/kg intravenously every 3 weeks for the second course ) .
+METHODS	Before the first and second cycles , [ ( 18 ) F ] - fluorodeoxyglucose ( FDG ) PET was done and the change in standardised uptake value was used to predict pathological complete response in each patient .
+METHODS	Patients who were predicted to be responders on PET continued to receive standard therapy .
+METHODS	Predicted non-responders were randomly assigned ( 2:1 ) to receive four cycles of docetaxel ( 100 mg/m ( 2 ) intravenously every 3 weeks ) and trastuzumab ( 6 mg/kg intravenously every 3 weeks ) plus bevacizumab ( 15 mg/kg intravenously every 3 weeks ; group A ) or continue on docetaxel plus trastuzumab alone ( group B ) .
+METHODS	Randomisation was open label and was done by an adaptive minimisation method .
+METHODS	Although investigators and patients were aware of group assignment , the anatomo-pathologist in charge of centralised review of surgical samples and lymph nodes was masked to treatment assignment .
+METHODS	The primary endpoint was centrally assessed pathological complete response according to the Chevallier classification .
+METHODS	Efficacy analyses were done in the intention-to-treat population .
+METHODS	Safety analyses in this Article were done on all patients who received at least one dose of treatment starting from cycle 3 .
+METHODS	Survival outcomes are not yet mature .
+METHODS	This study is registered with ClinicalTrials.gov ( NCT01142778 ) and EUDRACT ( 2009-013410-26 ) .
+RESULTS	Between May 19 , 2010 , and Oct 1 , 2012 , 152 patients were recruited for the study .
+RESULTS	Ten patients were subsequently excluded , leaving 142 patients in the intention-to-treat population .
+RESULTS	Of these 142 patients , 69 were predicted by [ ( 18 ) F ] - FDG PET to be treatment responders after two cycles of treatment .
+RESULTS	The 73 predicted non-responders were randomly assigned to group A ( n = 48 ) and group B ( n = 25 ) .
+RESULTS	Pathological complete responses were noted in 37 ( 536 % , 95 % CI 412-657 ) of the PET responders , 21 ( 438 % , 295-588 ) of those in group A , and six ( 240 % , 94-451 ) of those in group B. Incidences of grade 3-4 adverse events were similar in all three groups .
+RESULTS	The most common grade 3-4 adverse events were neutropenia ( four in PET responders , five in group A , and three in group B ) , febrile neutropenia ( one , three , and one , respectively ) , and myalgia ( four , none , and one , respectively ) .
+RESULTS	Overall , 24 serious adverse events were reported in 15 patients ( PET responders : nine events in four [ 6 % ] of 67 patients ; group A : 14 events in ten [ 21 % ] of 47 patients ; group B : one event in one [ 4 % ] of 25 patients ) .
+RESULTS	No deaths occurred during the study .
+CONCLUSIONS	In patients with HER2-positive breast cancer , early PET assessment can help to identify non-responders to neoadjuvant docetaxel plus trastuzumab therapy .
+CONCLUSIONS	In these patients , the addition of bevacizumab can increase the proportion of patients achieving a pathological complete response .
+CONCLUSIONS	This potential new role for PET and the activity of bevacizumab in this setting need to be confirmed in larger phase 3 trials .
+BACKGROUND	Roche France .
+

@@ -1,0 +1,18 @@
+25072937
+BACKGROUND	Arginase competes with nitric oxide synthase for their common substrate L-arginine .
+BACKGROUND	Up-regulation of arginase in coronary artery disease ( CAD ) and diabetes mellitus may reduce nitric oxide bioavailability contributing to endothelial dysfunction and ischemia-reperfusion injury .
+BACKGROUND	Arginase inhibition reduces infarct size in animal models .
+BACKGROUND	Therefore the aim of the current study was to investigate if arginase inhibition protects from endothelial dysfunction induced by ischemia-reperfusion in patients with CAD with or without type 2 diabetes (
+BACKGROUND	NCT02009527 ) .
+METHODS	Male patients with CAD ( n = 12 ) or CAD + type 2 diabetes ( n = 12 ) , were included in this cross-over study with blinded evaluation .
+METHODS	Endothelium-dependent vasodilatation was assessed by flow-mediated dilatation ( FMD ) of the radial artery before and after 20 min ischemia-reperfusion during intra-arterial infusion of the arginase inhibitor ( N-hydroxy-nor-L-arginine , 0.1 mg/min ) or saline .
+RESULTS	The forearm ischemia-reperfusion was well tolerated .
+RESULTS	Endothelium-independent vasodilatation was assessed by sublingual nitroglycerin .
+RESULTS	Ischemia-reperfusion decreased FMD in patients with CAD from 12.75.2 % to 7.94.0 % during saline administration ( P < 0.05 ) .
+RESULTS	N-hydroxy-nor-L-arginine administration prevented the decrease in FMD in the CAD group ( 10.34.3 % at baseline vs. 11.53.6 % at reperfusion ) .
+RESULTS	Ischemia-reperfusion did not significantly reduce FMD in patients with CAD + type 2 diabetes .
+RESULTS	However , FMD at reperfusion was higher following nor-NOHA than following saline administration in both groups ( P < 0.01 ) .
+RESULTS	Endothelium-independent vasodilatation did not differ between the occasions .
+CONCLUSIONS	Inhibition of arginase protects against endothelial dysfunction caused by ischemia-reperfusion in patients with CAD .
+CONCLUSIONS	Arginase inhibition may thereby be a promising therapeutic strategy in the treatment of ischemia-reperfusion injury .
+

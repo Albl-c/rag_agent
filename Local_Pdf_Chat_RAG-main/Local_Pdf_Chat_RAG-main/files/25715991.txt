@@ -1,0 +1,19 @@
+25715991
+BACKGROUND	Defibrillation testing by induction and termination of ventricular fibrillation is widely done at the time of implantation of implantable cardioverter defibrillators ( ICDs ) .
+BACKGROUND	We aimed to compare the efficacy and safety of ICD implantation without defibrillation testing versus the standard of ICD implantation with defibrillation testing .
+METHODS	In this single-blind , randomised , multicentre , non-inferiority trial ( Shockless IMPLant Evaluation [ SIMPLE ] ) , we recruited patients aged older than 18 years receiving their first ICD for standard indications at 85 hospitals in 18 countries worldwide .
+METHODS	Exclusion criteria included pregnancy , awaiting transplantation , particpation in another randomised trial , unavailability for follow-up , or if it was expected that the ICD would have to be implanted on the right-hand side of the chest .
+METHODS	Patients undergoing initial implantation of a Boston Scientific ICD were randomly assigned ( 1:1 ) using a computer-generated sequence to have either defibrillation testing ( testing group ) or not ( no-testing group ) .
+METHODS	We used random block sizes to conceal treatment allocation from the patients , and randomisation was stratified by clinical centre .
+METHODS	Our primary efficacy analysis tested the intention-to-treat population for non-inferiority of no-testing versus testing by use of a composite outcome of arrhythmic death or failed appropriate shock ( ie , a shock that did not terminate a spontaneous episode of ventricular tachycardia or fibrillation ) .
+METHODS	The non-inferiority margin was a hazard ratio ( HR ) of 15 calculated from a proportional hazards model with no-testing versus testing as the only covariate ; if the upper bound of the 95 % CI was less than 15 , we concluded that ICD insertion without testing was non-inferior to ICD with testing .
+METHODS	We examined safety with two , 30 day , adverse event outcome clusters .
+METHODS	The trial is registered with ClinicalTrials.gov , number NCT00800384 .
+RESULTS	Between Jan 13 , 2009 , and April 4 , 2011 , of 2500 eligible patients , 1253 were randomly assigned to defibrillation testing and 1247 to no-testing , and followed up for a mean of 31 years ( SD 10 ) .
+RESULTS	The primary outcome of arrhythmic death or failed appropriate shock occurred in fewer patients ( 90 [ 7 % per year ] ) in the no-testing group than patients who did receive it ( 104 [ 8 % per year ] ; HR 086 , 95 % CI 065-114 ; pnon-inferiority < 00001 ) .
+RESULTS	The first safety composite outcome occurred in 69 ( 56 % ) of 1236 patients with no-testing and in 81 ( 65 % ) of 1242 patients with defibrillation testing , p = 033 .
+RESULTS	The second , pre-specified safety composite outcome , which included only events most likely to be directly caused by testing , occurred in 32 % of patients with no-testing and in 45 % with defibrillation testing , p = 008 .
+RESULTS	Heart failure needing intravenous treatment with inotropes or diuretics was the most common adverse event ( in 20 [ 2 % ] of 1236 patients in the no-testing group vs 28 [ 2 % ] of 1242 patients in the testing group , p = 025 ) .
+CONCLUSIONS	Routine defibrillation testing at the time of ICD implantation is generally well tolerated , but does not improve shock efficacy or reduce arrhythmic death .
+BACKGROUND	Boston Scientific and the Heart and Stroke Foundation ( Ontario Provincial office ) .
+

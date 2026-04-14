@@ -1,0 +1,14 @@
+26003882
+OBJECTIVE	To assess the effectiveness of supreme laryngeal mask airway ( SLMA ) over face mask ventilation for preventing need for endotracheal intubation at birth .
+METHODS	We report a prospective , randomized , parallel 1:1 , unblinded , controlled trial .
+METHODS	After a short-term educational intervention on SLMA use , infants 34-week gestation and/or expected birth weight 1500 g requiring positive pressure ventilation ( PPV ) at birth were randomized to resuscitation by SLMA or face mask .
+METHODS	The primary outcome was the success rate of the resuscitation devices ( SLMA or face mask ) defined as the achievement of an effective PPV preventing the need for endotracheal intubation .
+RESULTS	We enrolled 142 patients ( 71 in SLMA and 71 in face mask group , respectively ) .
+RESULTS	Successful resuscitation rate was significantly higher with the SLMA compared with face mask ventilation ( 91.5 % vs 78.9 % ; P = .03 ) .
+RESULTS	Apgar score at 5 minutes was significantly higher in SLMA than in face mask group ( P = .02 ) .
+RESULTS	Neonatal intensive care unit admission rate was significantly lower in SLMA than in face mask group ( P = .02 ) .
+RESULTS	No complications related to the procedure occurred .
+CONCLUSIONS	In newborns with gestational age 34 weeks and/or expected birth weight 1500 g needing PPV at birth , the SLMA is more effective than face mask to prevent endotracheal intubation .
+CONCLUSIONS	The SLMA is effective in clinical practice after a short-term educational intervention .
+BACKGROUND	Registered with ClinicalTrials.gov : NCT01963936 .
+

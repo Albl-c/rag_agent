@@ -1,0 +1,17 @@
+26048455
+BACKGROUND	Bicalutamide blocks androgen action and is frequently used in men with non-metastatic , castration-resistant prostate cancer ( CRPC ) .
+BACKGROUND	By reducing intracellular dihydrotestosterone , dutasteride ( dual 5-alpha reductase inhibitor ) could increase the effectiveness of bicalutamide in this setting .
+BACKGROUND	The objective of the study is therefore to prospectively evaluate dutasteride plus bicalutamide in men with asymptomatic , non-metastatic CRPC with rising prostate-specific antigen ( PSA ) .
+METHODS	Prostate cancer patients with rising PSA whilst on first-line androgen deprivation therapy ( ADT ) were randomised ( 1:1 ) in a double-blind trial to receive bicalutamide 50mg plus placebo or bicalutamide 50mg plus dutasteride 3.5 mg once daily for 18 months .
+METHODS	Randomisation was stratified by centre ; treatment assignments were generated using GlaxoSmithKline 's RandAll System .
+METHODS	Subjects who completed 18 months could participate in the 2-year extension .
+METHODS	Central laboratory and study sites/monitors remained treatment-blinded .
+METHODS	Primary end-point was time to disease progression ( TDP ) up to 42 months ( defined as PSA progression from baseline or nadir , radiographic disease progression , death from prostate cancer or receipt of rescue medication ) .
+RESULTS	There was no statistically significant difference in TDP in 127 men treated with bicalutamide/dutasteride ( n = 62 ) compared with bicalutamide/placebo ( n = 65 ) ( hazard ratio ( HR ) = 0.94 [ 95 % confidence interval ( CI ) 0.61 , 1.46 ] ; p = 0.79 ) .
+RESULTS	The estimated median TDP was 425 days ( 95 % CI 302 , 858 ) in the bicalutamide/placebo group and 623 days ( 95 % CI 369 , 730 ) in the bicalutamide/dutasteride group .
+RESULTS	There was no statistically significant difference between the treatment groups for any secondary efficacy end-points , including time to treatment failure or PSA response .
+RESULTS	In the multivariate analysis , age , non-White race , higher baseline testosterone and lower baseline PSA were associated with longer TDP .
+RESULTS	Adverse events were comparable between treatment groups .
+CONCLUSIONS	In men with non-metastatic CRPC , adding dutasteride to bicalutamide did not significantly prolong TDP .
+CONCLUSIONS	Prospective data are provided concerning the common practice of using bicalutamide in this setting .
+

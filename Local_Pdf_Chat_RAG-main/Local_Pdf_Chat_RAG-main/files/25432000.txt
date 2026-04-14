@@ -1,0 +1,12 @@
+25432000
+OBJECTIVE	Extensive discussion with renal patients about treatment intensity is not systematically integrated into their care and often occurs during an acute hospitalization .
+OBJECTIVE	We conducted a `` test-of-change '' pilot study to assess the utility of providing an upstream discussion in the ambulatory setting as an additional nephrology consult to assist patients with chronic kidney disease considering treatment choices .
+METHODS	We randomly assigned patients with Stage 4 or Stage 5 chronic kidney disease who had not yet begun renal dialysis to 1 of 2 groups .
+METHODS	The test group received the additional nephrology consult and met with an interdisciplinary team composed of a nephrologist , social worker , and clinical ethicist , and the control group did not .
+METHODS	Qualitative data were collected in 2012 and 2013 via oral questionnaire .
+METHODS	Both groups received a 6-month follow-up assessment .
+RESULTS	Patients who received the nephrology consult reported that they experienced help in forming a treatment plan , felt well understood , and had the opportunity to thoroughly discuss questions .
+RESULTS	The controls had a 26 % increased probability of beginning dialysis and had a statistically significant increase in dialysis and clinic visits ( p < 0.10 and p < 0.05 ) .
+RESULTS	Controls also were likelier than the test group to be admitted to the hospital ( 0.5 vs 0.2 admissions per patient in the test group ) , spend more days hospitalized ( 2.8 vs 0.5 bed days per patient ) , and visit the emergency room ( 0.73 vs 0.66 visits per patient ) and clinic ( 6.6 vs 3.6 visits per patient ) .
+CONCLUSIONS	An additional nephrology consultation proved helpful both qualitatively and quantitatively .
+

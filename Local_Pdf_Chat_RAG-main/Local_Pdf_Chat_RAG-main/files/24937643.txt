@@ -1,0 +1,13 @@
+24937643
+BACKGROUND	Pulmonary hypertension ( PH ) associated with fibrotic idiopathic interstitial pneumonia ( IIP ; idiopathic pulmonary fibrosis and nonspecific interstitial pneumonia ) confers important additional morbidity and mortality .
+OBJECTIVE	To evaluate the safety and clinical efficacy of the dual endothelin-1 receptor antagonist bosentan in this patient group .
+METHODS	In a randomized , double-blind , placebo-controlled study , 60 patients with fibrotic IIP and right heart catheter confirmed PH were randomized 2:1 to bosentan ( n = 40 ) or placebo ( n = 20 ) .
+METHODS	The primary study endpoint was a fall from baseline pulmonary vascular resistance index ( PVRi ) of 20 % or more over 16 weeks .
+RESULTS	Sixty patients ( 42 men ; mean age , 66.6 9.2 yr ) , with a mean pulmonary artery pressure of 36.0 ( 8.9 ) mm Hg , PVRi 13.0 ( 6.7 ) Wood Units/m ( 2 ) and reduced cardiac index of 2.21 ( 0.5 ) L/min/m ( 2 ) were recruited to the study .
+RESULTS	Accounting for deaths and withdrawals , paired right heart catheter data were available for analysis in 39 patients ( bosentan = 25 , placebo = 14 ) .
+RESULTS	No difference in the primary outcome was detected , with seven ( 28.0 % ) patients receiving bosentan , and four ( 28.6 % ) receiving placebo achieving a reduction in PVRi of greater than or equal to 20 % ( P = 0.97 ) at 16 weeks .
+RESULTS	There was no change in functional capacity or symptoms between the two groups at 16 weeks , nor any difference in rates of serious adverse events or deaths ( three deaths in each group ) .
+CONCLUSIONS	This study shows no difference in invasive pulmonary hemodynamics , functional capacity , or symptoms between the bosentan and placebo groups over 16 weeks .
+CONCLUSIONS	Our data do not support the use of the dual endothelin-1 receptor antagonist , bosentan , in patients with PH and fibrotic IIP .
+CONCLUSIONS	Clinical trial registered with www.clinicaltrials.gov ( NCT 00637065 ) .
+

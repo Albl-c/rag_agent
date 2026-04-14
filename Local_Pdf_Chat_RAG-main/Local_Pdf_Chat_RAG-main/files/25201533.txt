@@ -1,0 +1,12 @@
+25201533
+OBJECTIVE	To evaluate the efficacy of a large capsulorhexis and intraocular lens ( IOL ) in obtaining a larger anterior capsule opening after cataract surgery in patients with diabetes mellitus ( DM ) .
+METHODS	Department of Ophthalmology , University of Fukui , Fukui , Japan .
+METHODS	Prospective clinical trial .
+METHODS	Patients with DM had bilateral cataract surgery with a 2.8 or 3.0 mm scleral incision , a capsulorhexis with a diameter of approximately 5.0 or 6.0 mm , and implantation of a 6.0 mm optic ( Eternity X-60 ) or 7.0 mm optic ( Eternity X-70 ) IOL .
+METHODS	The anterior capsule opening area , aqueous flare intensity , surgically induced astigmatism ( SIA ) , corneal endothelial cell density ( ECD ) , and central corneal thickness ( CCT ) were measured 1 day , 1 week , and 1 , 3 , and 6 months after surgery .
+RESULTS	Thirty-one patients ( 62 eyes ) with DM were enrolled .
+RESULTS	At all postoperative timepoints , the anterior capsule opening was significantly larger in eyes with the 7.0 mm optic IOL than in eyes with the 6.0 mm optic IOL ( P < .05 , Mann-Whitney U test ) .
+RESULTS	There were no significant differences in postoperative aqueous flare intensity , SIA , ECD , or CCT based on the size of the capsulorhexis and IOL .
+CONCLUSIONS	A larger capsulorhexis and implantation of a 7.0 mm IOL resulted in a larger anterior capsule opening after cataract surgery in patients with DM .
+BACKGROUND	No author has a financial or proprietary interest in any material or method mentioned .
+

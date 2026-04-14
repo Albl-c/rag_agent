@@ -1,0 +1,13 @@
+24818633
+BACKGROUND	Recently , we documented the likely non-inferiority of Combinatietherapie Bij Reumatode Artritis ( COBRA ) - light therapy ( methotrexate increased to 25mg/week with initial prednisolone 30mg/day ) compared with the original COBRA therapy ( methotrexate 7.5 mg/week , sulfasalazine 2g/day , with initial prednisolone 60mg/day ) after 26weeks in patients with early active rheumatoid arthritis ( RA ) .
+OBJECTIVE	To assess the non-inferiority of COBRA-light versus COBRA after 1year in terms of disease activity ( DAS44 ) , functional outcome ( Health Assessment Questionnaire ( HAQ ) ) and radiographic progression ( Sharp/van der Heijde score ( SHS ) ) , and to assess the effect of adding etanercept .
+METHODS	An open-label , randomised controlled , non-inferiority trial of 162 patients with active early RA , following a treat-to-target protocol incorporating the addition of etanercept if DAS44 1.6 at weeks 26 or 39 .
+RESULTS	Both groups showed major improvements in DAS44 after 52weeks : mean ( SD ) -2.41 ( 1.2 ) in the COBRA and -2.02 ( 1.0 ) in the COBRA-light group ( p = ns ) .
+RESULTS	In both groups , functional ability improved and radiological progression of joints was minimal .
+RESULTS	At least one adverse event was reported in 96 % of the patients in both groups .
+RESULTS	In total , 25 serious adverse events occurred : 9 vs 16 in COBRA and COBRA-light , respectively .
+RESULTS	Treatment actually instituted was often less intensive than required by the protocol : of the total population , 108 patients ( 67 % ) required etanercept ( more in the COBRA-light group ) , but only 67 of these ( 62 % ) actually received it .
+CONCLUSIONS	Intensive COBRA or COBRA-light therapy has major , comparably favourable effects on disease activity , functional ability and radiological outcome after 1year in patients with early RA .
+CONCLUSIONS	Protocolised addition of etanercept was often not implemented by treating rheumatologists , and patients receiving it appeared to have limited added benefit , probably because of low disease activity levels at its initiation .
+BACKGROUND	ISRCTN55552928 .
+

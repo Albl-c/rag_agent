@@ -1,0 +1,16 @@
+25544294
+OBJECTIVE	Recently , attention has been paid to dexmedetomidine , a selective -2 adrenoceptor agonist , as a possible additive for local anesthesia .
+OBJECTIVE	However , the effect of locally injected dexmedetomidine on the anesthetic action in humans has not fully been clarified .
+OBJECTIVE	Thus , the purpose of the present study was to evaluate the effect of dexmedetomidine injected into the oral mucosa in combination with lidocaine on local anesthetic potency in humans .
+METHODS	Twenty healthy volunteers were included in the present crossover double-blinded study .
+METHODS	Lidocaine solution or lidocaine plus dexmedetomidine solution was submucosally injected into the alveolar mucosa in a crossover and double-blinded manner .
+METHODS	The local anesthetic effect of the solutions was evaluated by measuring the current perception threshold ( CPT ) in the oral mucosa for 120 minutes after injection .
+METHODS	Furthermore , the sedation level , blood pressure , and heart rate of the volunteers were evaluated .
+METHODS	For statistical analysis , the Wilcoxon signed rank test and 2-way repeated measures analysis of variation were used .
+RESULTS	The CPT was increased with the 2 solutions and peaked 10 minutes after injection .
+RESULTS	CPT values 10 and 20 minutes after injection of lidocaine plus dexmedetomidine solution were considerably higher than those with lidocaine solution .
+RESULTS	The duration of an important increase in the CPT after injection with lidocaine plus dexmedetomidine solution was longer than that with lidocaine .
+RESULTS	Furthermore , the area under the time curve of CPT was considerably higher with lidocaine plus dexmedetomidine solution than with lidocaine solution .
+RESULTS	No volunteer showed a change in sedation level , blood pressure , or heart rate after injection with either test solution throughout the experiment .
+CONCLUSIONS	The present study showed that a combination of dexmedetomidine plus lidocaine considerably enhances the local anesthetic potency of lidocaine without any major influences on the cardiovascular system when locally injected into the oral mucosa .
+

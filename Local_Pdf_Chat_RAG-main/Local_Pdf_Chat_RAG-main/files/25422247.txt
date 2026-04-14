@@ -1,0 +1,12 @@
+25422247
+OBJECTIVE	To investigate the effects of stellate ganglion block ( SGB ) on the peri-operative vasomotor cytokine content and intrapulmonary shunt in patients with esophagus cancer who underwent thoracotomy .
+METHODS	Forty patients undergoing elective resection of esophageal cancer patients who had I ~ II American Society of Anesthesiologist ( ASA ) were randomly divided into total intravenous anesthesia group ( group N , n = 20 ) and total intravenous anesthesia combined with SGB group ( group S , n = 20 , 0.12 mL/kg 1 % lidocaine was used for SGB 10 min before induction ) .
+METHODS	Heart rate ( HR ) , mean arterial pressure ( MAP ) , central venous pressure ( CVP ) , mean pulmonary arterial pressure ( MPAP ) and continuous cardiac output ( CCO ) were continuously monitored .
+METHODS	The blood from internal jugular vein was drawn respectively before induction ( T0 ) , and 30 min ( T1 ) , 60 min ( T2 ) and 120 min ( T3 ) after one-lung ventilation ( OLV ) , and 30 min ( T4 ) after two-lung ventilation .
+METHODS	The contents of plasma endothelin ( ET ) , nitric oxide ( NO ) and calcitonin gene-related peptide ( CGRP ) were detected with enzyme linked immunosorbent assay ( ELISA ) .
+METHODS	Meanwhile , arterial and mixed venous blood samples were collected for determination of blood gas and calculation of intrapulmonary shunt fraction ( Qs/Qt ) .
+RESULTS	During OLV , ET contents were increased significantly in two groups ( P < 0.05 ) , and no significant difference was presented ( P > 0.05 ) .
+RESULTS	NO content in group S was obviously higher than in group N at T3 ( P < 0.05 ) , whereas CGRP content in group N was markedly lower than in group S at each time point ( P < 0.05 ) .
+RESULTS	Qs/Qt was significantly increased in both groups after OLV , but there was no statistical significant regarding the Qs/Qt at each time point between two groups .
+CONCLUSIONS	Total intravenous anesthesia combined with SGB is conducive to regulation of perioperative vasomotor cytokines in thoracotomy , and has little effect on intrapulmonary shunt at the time of OLV .
+

@@ -1,0 +1,14 @@
+24275900
+OBJECTIVE	The use of heat and moisture exchangers ( HME ) during noninvasive ventilation ( NIV ) can increase the work of breathing , decrease alveolar ventilation , and deliver less humidity in comparison with heated humidifiers ( HH ) .
+OBJECTIVE	We tested the hypothesis that the use of HH during NIV with ICU ventilators for patients with acute respiratory failure would decrease the rate of intubation ( primary endpoint ) as compared with HME .
+METHODS	We conducted a multicenter randomized controlled study in 15 centers .
+METHODS	After stratification by center and type of respiratory failure ( hypoxemic or hypercapnic ) , eligible patients were randomized to receive NIV with HH or HME .
+RESULTS	Of the 247 patients included , 128 patients were allocated to the HME group and 119 to the HH group .
+RESULTS	Patients were comparable at baseline .
+RESULTS	The intubation rate was not significantly different : 29.7 % in the HME group and 36.9 % in the HH group ( p = 0.28 ) .
+RESULTS	PaCO2 did not significantly differ between the two arms , even in the subgroup of hypercapnic patients .
+RESULTS	No significant difference was observed for NIV duration , ICU and hospital LOS , or ICU mortality ( HME 14.1 vs. HH 21.5 % , p = 0.18 ) .
+CONCLUSIONS	In this study , the short-term physiological benefits of HH in comparison with HME during NIV with ICU ventilators were not observed , and no difference in intubation rate was found .
+CONCLUSIONS	The physiologic effects may have been obscured by leaks or other important factors in the clinical settings .
+CONCLUSIONS	This study does not support the recent recommendation favoring the use of HH during NIV with ICU ventilators .
+

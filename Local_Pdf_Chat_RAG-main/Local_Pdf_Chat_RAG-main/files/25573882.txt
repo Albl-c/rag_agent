@@ -1,0 +1,12 @@
+25573882
+OBJECTIVE	This study examined the association between cardiac autonomic dysfunction and high albumin-to-creatinine ratio ( ACR ) in adolescents with type 1 diabetes .
+METHODS	Adolescents recruited as part of a multicenter screening study ( n = 445 , 49 % female , aged 10-17 years , mean duration 6.9 years ; mean HbA1c 8.4 % , 68 mmol/mol ) underwent a 10-min continuous electrocardiogram recording for heart rate variability analysis .
+METHODS	Time-domain heart rate variability measures included baseline heart rate , SD of the R-R interval ( SDNN ) , and root mean squared difference of successive R-R intervals ( RMSSD ) .
+METHODS	Spectral analysis included sympathetic ( low-frequency ) and parasympathetic ( high-frequency ) components .
+METHODS	Standardized ACR were calculated from six early morning urine collections using an established algorithm , reflecting age , sex , and duration , and stratified into ACR tertiles , where the upper tertile reflects higher nephropathy risk .
+RESULTS	The upper-tertile ACR group had a faster heart rate ( 76 vs. 73 bpm ; P < 0.01 ) and less heart rate variability ( SDNN 68 vs. 76 ms , P = 0.02 ; RMSSD 63 vs. 71 ms , P = 0.04 ) .
+RESULTS	HbA1c was 8.5 % ( 69 mmol/mmol ) in the upper tertile vs. 8.3 % ( 67 mmol/mol ) in the lower tertiles ( P = 0.07 ) .
+RESULTS	In multivariable analysis , upper-tertile ACR was associated with faster heart rate ( = 2.5 , 95 % CI 0.2-4 .8 , P = 0.03 ) and lower RMSSD ( = -9.5 , 95 % CI -18.2 to -0.8 , P = 0.03 ) , independent of age and HbA1c .
+CONCLUSIONS	Adolescents at potentially higher risk for nephropathy show an adverse cardiac autonomic profile , indicating sympathetic overdrive , compared with the lower-risk group .
+CONCLUSIONS	Longitudinal follow-up of this cohort will further characterize the relationship between autonomic and renal dysfunction and the effect of interventions in this population .
+

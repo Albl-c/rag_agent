@@ -1,0 +1,13 @@
+25213687
+BACKGROUND	Animal studies suggest that the renin-angiotensin-aldosterone system is involved in neurocognitive function and the response to antihypertensive therapy .
+BACKGROUND	We investigated the impact of circulating aldosterone and renin activity on cognition and cerebral hemodynamics at baseline and after antihypertensive therapy for 1 year .
+METHODS	Participants were older adults ( n = 47 ; mean age = 71 years ) enrolled in a clinical trial .
+METHODS	Routine antihypertensive medications were replaced with the study regimen to achieve a blood pressure < 140/90 mm Hg .
+METHODS	Executive function , memory , cerebral hemodynamics ( blood flow velocity ) , CO2 vasoreactivity ( measured using transcranial Doppler ultrasonography ) , plasma renin activity , and aldosterone were measured at baseline and at 6 and 12 months after the initiation of treatment .
+RESULTS	At baseline , higher levels of circulating aldosterone were associated with lower blood flow velocity ( = -0.02 ; P = 0.03 ) , lower CO2 vasoreactivity ( = -0.11 ; P = 0.007 ) , and decreased autoregulation abilities ( = -0.09 ; P = 0.01 ) .
+RESULTS	Those with higher levels of aldosterone at baseline demonstrated the greatest improvement in executive function ( P = 0.014 for the aldosterone effect ) and in CO2 vasoreactivity ( P = 0.026 for the aldosterone effect ) after 12 months of lowering blood pressure ( < 140/90 mm Hg ) .
+RESULTS	Plasma renin activity was not associated with any of the measures .
+CONCLUSIONS	Higher levels of aldosterone may be associated with decreased cerebrovascular function in hypertension .
+CONCLUSIONS	Those with higher aldosterone levels may benefit the most from lowering blood pressure .
+CONCLUSIONS	The role of aldosterone in brain health warrants further investigation in a larger trial .
+

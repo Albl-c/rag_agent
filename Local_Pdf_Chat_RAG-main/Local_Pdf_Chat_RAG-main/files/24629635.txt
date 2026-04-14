@@ -1,0 +1,11 @@
+24629635
+BACKGROUND	New drug regimens of greater efficacy and shorter duration are needed for tuberculosis ( TB ) treatment .
+BACKGROUND	The identification of accurate , quantitative , non-culture based markers of treatment response would improve the efficiency of Phase 2 TB drug testing .
+METHODS	In an unbiased biomarker discovery approach , we applied a highly multiplexed , aptamer-based , proteomic technology to analyze serum samples collected at baseline and after 8 weeks of treatment from 39 patients with pulmonary TB from Kampala , Uganda enrolled in a Centers for Disease Control and Prevention ( CDC ) TB Trials Consortium Phase 2B treatment trial .
+RESULTS	We identified protein expression differences associated with 8-week culture status , including Coagulation Factor V , SAA , XPNPEP1 , PSME1 , IL-11 R , HSP70 , Galectin-8 , 2-Antiplasmin , ECM1 , YES , IGFBP-1 , CATZ , BGN , LYNB , and IL-7 .
+RESULTS	Markers noted to have differential changes between responders and slow-responders included nectin-like protein 2 , EphA1 ( Ephrin type-A receptor 1 ) , gp130 , CNDP1 , TGF-b RIII , MRC2 , ADAM9 , and CDON .
+RESULTS	A logistic regression model combining markers associated with 8-week culture status revealed an ROC curve with AUC = 0.96 , sensitivity = 0.95 and specificity = 0.90 .
+RESULTS	Additional markers showed differential changes between responders and slow-responders ( nectin-like protein ) , or correlated with time-to-culture-conversion ( KLRK1 ) .
+CONCLUSIONS	Serum proteins involved in the coagulation cascade , neutrophil activity , immunity , inflammation , and tissue remodeling were found to be associated with TB treatment response .
+CONCLUSIONS	A quantitative , non-culture based , five-marker signature predictive of 8-week culture status was identified in this pilot study .
+

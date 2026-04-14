@@ -1,0 +1,21 @@
+24796043
+OBJECTIVE	To observe the short-term and long-term efficacies on primary dysmenorrhea treated with staging acupoint embedment therapy .
+METHODS	Seventy cases of primary dysmenorrhea were randomized into an embedment therapy group and a fenbid group , 35 cases in each one .
+METHODS	In the embedment therapy group , the embedment therapy was applied twice during the menstrual cycle , one treatment 3 days before menstruation and one treatment during the 12th-14th days of menstruation , respectively .
+METHODS	Guanyuan ( CV 4 ) , Zigong ( EX-CA 1 ) , Diji ( SP 8 ) and Ciliao ( BL 32 ) were the main acupoints in the treatment 3 days before menstruation .
+METHODS	Shenshu ( BL 23 ) , Ganshu ( BL 18 ) and Pishu ( BL 20 ) were the main acupoints in the treatment during menstruation .
+METHODS	In the fenbid group , fenbid was prescribed for oral administration , 0.3 g each time , twice a day , starting 3 days before menstruation till pain was relieved .
+METHODS	The treatment of one menstrual cycle was one session .
+METHODS	The continuous treatment of 3 menstrual cycles was required .
+METHODS	The short-term and long-term efficacies were evaluated at the end of the 3rd cycle and in 3 months after the treatment terminal .
+METHODS	The dysmenorrhea score was used to evaluate the efficacy .
+METHODS	Visual analogue scale ( VAS ) and SF-36 were for the assessment of pain degree and life quality .
+RESULTS	( 1 ) The total effective rate was 91.4 % ( 32/35 ) in the embedment therapy group after the 3 menstrual cycles , which was better than 74.3 % ( 26/35 ) in the fenbid group ( P < 0.01 ) .
+RESULTS	In the follow-up stage , the total effective rate was 91.4 % ( 32/35 ) in the embedment therapy group , which was better than 40.0 % ( 14/35 ) in the fenbid group ( P < 0.01 ) .
+RESULTS	( 2 ) The differences were not significant in dysmenorrhea score and VAS score after the 1st and 2nd menstrual cycle treatments between the two groups ( all P > 0.05 ) .
+RESULTS	In the 3rd menstrual cycle and the follow-up stage , the dysmenorrhea score and VAS score were reduced obviously in the embedment therapy group as compared with those in the fenbid group ( P < 0.05 , P < 0.01 ) .
+RESULTS	The rebound effect occurred in the follow-up stage in the fenbid group .
+RESULTS	( 3 ) In the 3rd menstrual cycle and the follow-up stage , the improvement in the total score of life quality of the embedment therapy group was superior apparently to the fenbid group ( P < 0.05 , P < 0.01 ) .
+CONCLUSIONS	The staging acupoint embedment therapy achieves the superior short-term and long-term efficacies as compared with the oral administration of fenbid in the treatment of primary dysmenorrhea .
+CONCLUSIONS	As the symptoms of dysmenorrhea and pain are relieved , the life quality is improved .
+

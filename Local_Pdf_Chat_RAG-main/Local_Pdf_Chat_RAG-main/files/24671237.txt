@@ -1,0 +1,12 @@
+24671237
+OBJECTIVE	Currently , there is no consensus concerning the possible beneficial colonic and systemic effects of prebiotic-containing infant formula .
+OBJECTIVE	This study assesses whether the feeding of a galactooligosaccharides ( GOS ) - containing infant formula ( 0.44 g/dl of GOS ) and the subsequent feeding of a GOS-containing follow-on formula ( 0.50 g/dl of GOS ) have a prebiotic effect on intestinal microbiota that helps to decrease infections and allergy manifestations in healthy infants during the first year of life .
+METHODS	A multicentre , randomised , double-blind and placebo-controlled trial was carried out on 365 healthy term infants enrolled before 8 weeks of age and randomly assigned to a formula with or without GOS , until 12 months of age .
+METHODS	The incidence of infections and allergy manifestations , the antibiotics prescribed and faecal characteristics were recorded up to 12 months of age , while faecal samples were collected up to 4 months for the measurement of secretory immunoglobulin A , short-chain fatty acids and microbiota .
+RESULTS	A prebiotic effect on the faecal analysis was observed at 4 months of life .
+RESULTS	The GOS group showed a lower faecal pH ( P = 0.019 ) , a lower decreasing trend in secretory immunoglobulin A ( P = 0.078 ) , lower butyric acid concentration ( P = 0.040 ) and an increase in Bifidobacterium counts ( P = 0.010 ) .
+RESULTS	Changes in faecal characteristics involved greater frequency ( P < 0.001 ) and softer consistency ( P < 0.05 ) .
+RESULTS	The incidence of infections or allergic manifestations during the first year of life was similar in both groups , with no statistical differences ( P > 0.05 ) .
+CONCLUSIONS	The feeding of GOS-containing infant formula produced a definite prebiotic effect consisting of changes in faecal composition and microbiota , and in faecal consistency and the frequency of defaecation .
+CONCLUSIONS	No changes in the incidence of infection or allergic manifestation during the first year of life were observed .
+

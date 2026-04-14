@@ -1,0 +1,13 @@
+24939433
+OBJECTIVE	Isoflavones are present in soy foods and soy-based supplements .
+OBJECTIVE	Despite low plasma isoflavone concentrations in the general Western population , concentrations in supplement users exceed those suggested to be beneficial for health in Asian populations , raising concerns for adverse effects .
+OBJECTIVE	To aid risk assessment , quantification of the relation between isoflavone intake and plasma concentrations is essential .
+METHODS	Plasma samples were collected from postmenopausal women in three placebo-controlled crossover studies with 8-week periods for supplements ( two studies , ~ 100mg isoflavones/day , n = 88 ) or 4-week periods for soy foods ( one study , ~ 48mg isoflavones/day , n = 15 ) .
+METHODS	Plasma isoflavone concentrations ( daidzein , equol , genistein and glycitein ) were quantified using high-performance liquid chromatography and electrochemical detection .
+METHODS	The association between plasma concentrations and isoflavone intake , equol producer status , intake-producer interaction and background dietary intake was assessed based on the assumption of a log-linear relation .
+RESULTS	Median plasma total isoflavone concentrations after the soy food and supplement interventions were respectively 2.16 and 3.47 mol/l for equol producers and 1.30 and 2.39 mol/l for non-producers .
+RESULTS	Regression analysis showed that doubling isoflavone intake increased plasma concentrations by 55-62 % ( s.e. 1-2 % , R ( 2 ) > 0.87 ) for daidzein , genistein , equol ( only for producers ) and total isoflavones ; for glycitein the association was weaker ( 151 % , R ( 2 ) = 0.48 ) .
+RESULTS	Adjustments for energy , carbohydrate and fat intake did not affect these estimates .
+RESULTS	Inter-individual variation , estimated based on repeated measures in one of the studies , was 30-96 % .
+CONCLUSIONS	Although the relation between isoflavone intake and plasma concentrations was adequately quantified , the use of isoflavone intake data for risk assessment needs caution due to large inter-individual variation in plasma concentrations .
+

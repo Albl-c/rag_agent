@@ -1,0 +1,10 @@
+25229957
+OBJECTIVE	To explore the effect of structural family therapy ( SFT ) , which refers to the application of the theory and technology of SFT for improving the internal family environment of pediatric patients through reorganization of the family roles , tasks , and boundaries , on the family structure and function in children with hematological tumors .
+METHODS	Forty children with hematological tumors were randomly divided into SFT and control groups ( n = 20 each ) .
+METHODS	The control group received conventional chemotherapy .
+METHODS	The SFT group received SFT by a trained therapist in addition to conventional chemotherapy ; the family of each patient received SFT four times ( once every two weeks ) .
+METHODS	Both groups were assessed by the Family Assessment Device ( FAD ) and Family Environment Scale-Chinese Version ( FES-CV ) on admission and one month after the end of SFT .
+RESULTS	After treatment , the SFT group showed significant decreases in all factor scores of FAD ( P < 0.05 ) ; the SFT group had significantly lower scores of problem solving , communication , roles , affective involvement , behavior control , and general functioning than the control group ( P < 0.05 ) .
+RESULTS	In addition , the SFT group had significantly increased FES-CV scores of cohesion , emotional expression , intellectual-cultural orientation , and active-recreational orientation and a significantly decreased score of conflict after treatment ( P < 0.05 ) , and the SFT group was significantly superior to the control group in terms of these items ( P < 0.05 ) .
+CONCLUSIONS	SFT could promote beneficial family changes in children with hematological tumors by improving the family function and internal environment , which would increase the long-term chemotherapy compliance of these children and their parents .
+

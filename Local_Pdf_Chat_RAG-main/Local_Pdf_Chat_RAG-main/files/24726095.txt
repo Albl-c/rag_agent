@@ -1,0 +1,19 @@
+24726095
+BACKGROUND	Concurrent treatment of HIV and tuberculosis is complicated by drug interactions .
+BACKGROUND	We explored the safety and efficacy of raltegravir as an alternative to efavirenz for patients co-infected with HIV and tuberculosis .
+METHODS	We did a multicentre , phase 2 , non-comparative , open-label , randomised trial at eight sites in Brazil and France .
+METHODS	Using a computer-generated randomisation sequence , we randomly allocated antiretroviral-naive adult patients with HIV-1 and tuberculosis ( aged 18 years with a plasma HIV RNA concentration of > 1000 copies per mL ) to receive raltegravir 400 mg twice a day , raltegravir 800 mg twice daily , or efavirenz 600 mg once daily plus tenofovir and lamivudine ( 1:1:1 ; stratified by country ) .
+METHODS	Patients began study treatment after the start of tuberculosis treatment .
+METHODS	The primary endpoint was virological suppression at 24 weeks ( HIV RNA < 50 copies per mL ) in all patients who received at least one dose of study drug ( modified intention-to-treat analysis ) .
+METHODS	We recorded death , study drug discontinuation , and loss to follow-up as failures to achieve the primary endpoint .
+METHODS	We assessed safety in all patients who received study drugs .
+METHODS	This study is registered in ClinicalTrials.gov , number NCT00822315 .
+RESULTS	Between July 3 , 2009 , and June 6 , 2011 , we enrolled and randomly assigned treatment to 155 individuals ; 153 ( 51 in each group ) received at least one dose of the study drug and were included in the primary analysis .
+RESULTS	133 patients ( 87 % ) completed follow-up at week 48 .
+RESULTS	At week 24 , virological suppression was achieved in 39 patients ( 76 % , 95 % CI 65-88 ) in the raltegravir 400 mg group , 40 patients ( 78 % , 67-90 ) in the raltegravir 800 mg group , and 32 patients ( 63 % , 49-76 ) in the efavirenz group .
+RESULTS	The adverse-event profile was much the same across the three groups .
+RESULTS	Three ( 6 % ) patients allocated to efavirenz and three ( 6 % ) patients allocated to raltegravir 800 mg twice daily discontinued the study drugs due to adverse events .
+RESULTS	Seven patients died during the study ( one in the raltegravir 400 mg group , four in the raltegravir 800 mg group , and two in the efavirenz group ) : none of the deaths was deemed related to study treatment .
+CONCLUSIONS	Raltegravir 400 mg twice daily might be an alternative to efavirenz for the treatment of patients co-infected with HIV and tuberculosis .
+BACKGROUND	French National Agency for Research on AIDS and Viral Hepatitis ( ANRS ) , Brazilian National STD/AIDS Program-Ministry of Health .
+

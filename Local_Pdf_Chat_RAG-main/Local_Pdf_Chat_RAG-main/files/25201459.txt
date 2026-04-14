@@ -1,0 +1,11 @@
+25201459
+OBJECTIVE	To evaluate the efficacy of tamsulosin therapy in reducing ureteral double-J stent morbidity by evaluating USSQ , IPSS , QOL and VAS ( primary objective ) and to evaluate the morbidity and or complication ( s ) associated with indwelling double-J ureteral stent ( s ) and to evaluate the safety of tamsulosin therapy for `` morbidity associated with double-J stents '' by evaluating its tolerability , side effects and adverse events if any ( secondary objective ) as per protocol .
+METHODS	After institutional review board approval , 60 consecutive patients with a double-J ureteral stent inserted after percutaneous nephrolithotomy or ureteroscopic stone treatment were randomly assigned to receive tamsulosin 0.4 mg , or a placebo for 4 weeks .
+METHODS	The validated USSQ , VAS and IPSS were completed before stent insertion , at 3 days and 4 weeks after stent insertion and at 2 weeks after stent removal .
+METHODS	Data were statistically analyzed for efficacy and tolerability of one drug over the other using Wilcoxon signed-rank test , Mann-Whitney test and Student 's t test .
+RESULTS	Patients receiving tamsulosin compared with the placebo showed significant decrease in urinary index score , pain index score , work performance score , VAS score at loin area , VAS score at flank , VAS score at suprapubic area , average VAS score , need for antibiotics , number of hospital visits ( P < 0.05 ) at the end of fourth weeks .
+RESULTS	Decrease in values were also observed in IPSS score , general health score , quality of sex score and IPSS-quality of life ( QOL ) score in patients taking tamsulosin but , however , the decrease was not significant .
+RESULTS	No patients discontinued medication because of side effects .
+CONCLUSIONS	We conclude that ureteral stenting using double-J stents with concomitant tamsulosin therapy was generally well tolerated , safe , effective and significantly beneficial in reducing stent morbidity in the majority of our patients .
+CONCLUSIONS	We advocate the routine use of concomitant tamsulosin therapy in eligible patients undergoing ureteral stenting in order to minimize stent morbidity .
+

@@ -1,0 +1,12 @@
+25469520
+BACKGROUND	Retaining HIV patients in medical care promotes access to antiretroviral therapy , viral load suppression , and reduced HIV transmission to partners .
+BACKGROUND	We estimate the programmatic costs of a US multisite randomized controlled trial of an intervention to retain HIV patients in care .
+METHODS	Six academically affiliated HIV clinics randomized patients to intervention ( enhanced personal contact with patients across time coupled with basic HIV education ) and control [ standard of care ( SOC ) ] arms .
+METHODS	Retention in care was defined as 4-month visit constancy , that is , at least 1 primary care visit in each 4-month interval over a 12-month period .
+METHODS	We used microcosting methods to collect unit costs and measure the quantity of resources used to implement the intervention in each clinic .
+METHODS	All fixed and variable labor and nonlabor costs of the intervention were included .
+RESULTS	Visit constancy was achieved by 45.7 % ( 280/613 ) of patients in the SOC arm and by 55.8 % ( 343/615 ) of patients in the intervention arm , representing an increase of 63 patients ( relative improvement 22.1 % ; 95 % confidence interval : 9 % to 36 % ; P < 0.01 ) .
+RESULTS	The total annual cost of the intervention at the 6 clinics was $ 241,565 , the average cost per patient was $ 393 , and the estimated cost per additional patient retained in care beyond SOC was $ 3834 .
+CONCLUSIONS	Our analyses showed that a retention in care intervention consisting of enhanced personal contact coupled with basic HIV education may be delivered at fairly low cost .
+CONCLUSIONS	These results provide useful information for guiding decisions about planning or scaling-up retention in care interventions for HIV-infected patients .
+

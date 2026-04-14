@@ -1,0 +1,13 @@
+25268968
+BACKGROUND	Several studies have suggested that cognitive training is a potentially effective way to improve cognition and postpone cognitive decline in older adults with mild cognitive impairment ( MCI ) .
+BACKGROUND	The MEMO + study is a randomized , controlled , single-blind trial designed to test the efficacy , specificity , and long-term effect of a cognitive training intervention and a psychosocial intervention in persons with MCI .
+METHODS	One hundred and sixty-two participants with MCI will be recruited .
+METHODS	They will be randomized into three groups : cognitive training , psychosocial intervention , and no-contact .
+METHODS	Each intervention will last for eight weeks ( one session per week ) and a booster training session will be provided three months after the end of the intervention .
+METHODS	Various proximal and distal outcomes will be measured at pre-intervention as well as at one week , three months , and six months post-training .
+METHODS	Proximal outcomes include memory and psychological health measures .
+METHODS	Distal outcomes focus on self-rated functioning in complex daily activities and strategies used in daily life to enhance function .
+METHODS	Socio-demographic factors ( age , gender , and education ) , general cognition , personality traits , engagement in activities , and self-efficacy will be used as moderators .
+METHODS	Enrolment began in April 2012 and will be completed by December 2014 .
+CONCLUSIONS	This study is likely to have a significant impact on the well-being of persons with MCI by contributing to the development of adapted and scientifically supported cognitive and psychosocial interventions .
+

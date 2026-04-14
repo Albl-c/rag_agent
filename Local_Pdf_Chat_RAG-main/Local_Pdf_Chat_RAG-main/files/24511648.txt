@@ -1,0 +1,17 @@
+24511648
+BACKGROUND	Contrast-induced nephropathy ( CIN ) is one of the major causes of new-onset renal failure in hospitalized patients .
+BACKGROUND	Although renin-angiotensin-aldosterone system ( RAAS ) blocking agents are widely used among patients requiring contrast studies , data on the effect of these agents on the development of CIN are sparse and inconsistent .
+OBJECTIVE	To evaluate in a randomized controlled trial whether uninterrupted administration of angiotensin II ( AnglI ) blockade medications influence estimated glomerular filtration rate ( eGFR ) in patients undergoing non-emergent coronary angiography .
+METHODS	Patients receiving treatment with angiotensin-converting enzyme inhibitors/angiotensin receptor blockers ( ACE-I/ARB ) were recruited consecutively .
+METHODS	The enrolled subjects were randomized into three groups at a 1:1:1 ratio : group A ( ACE/ARB stopped 24 hours prior to the procedure and restarted immediately after the procedure ) , group B ( ACE/ARB stopped 24 hours prior to the procedure and restarted 24 hours after the procedure ) , and group C ( ACE/ARB continued throughout the study period ) .
+METHODS	Plasma creatinine was measured and eGFR was calculated according to the Cockroft-Gault equation before and 48 hours after the coronary angiography .
+METHODS	The primary endpoint was a change in eGFR at 48 hours .
+RESULTS	Groups A , B and C comprised 30 , 31 and 33 patients respectively .
+RESULTS	The mean age of the study population was 65 + / - 12 years and 67 % were males .
+RESULTS	Fifty percent of the subjects had diabetes mellitus .
+RESULTS	The primary endpoint analysis showed that at 48 hours after the procedure there was no difference in delta eGFR between groups A and C ( 4.25 + / - 12.19 vs. 4.65 + / - 11.76 , P = 0.90 ) and groups B and C ( 3.72 + / - 17.42 vs. 4.65 + / - 11.76 , P = 0.82 ) .
+RESULTS	In post-hoc analysis the patients were clustered according to the following groups : medical alternation ( group A and B ) versus control ( group C ) , and to baseline eGFR > or = 60 ml/min vs. eGFR ( < 60 ml/min .
+RESULTS	In patients with baseline eGFR < 60 ml/min the delta eGFR ( baseline eGFR-eGFR 48 hours post-angiography ) was significantly different between the intervention vs. control group ( median 5.61 vs. median -2.19 , P = 0.03 respectively ) .
+RESULTS	While in patients with baseline eGFR > or = 60 ml/min there was no significant difference in delta eGFR between the intervention and control groups .
+CONCLUSIONS	ACE-I and ARB can safely be used before and after coronary angiography in patients with eGFR > or = 60 ml/min .
+

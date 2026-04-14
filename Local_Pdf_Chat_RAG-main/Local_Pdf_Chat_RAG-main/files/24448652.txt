@@ -1,0 +1,13 @@
+24448652
+BACKGROUND	Morning dose or twice-daily proton pump inhibitor ( PPI ) use is often prescribed to heal severe reflux esophagitis .
+OBJECTIVE	Compare the effect of single dose morning ( control arm ) versus nighttime ( experimental arm ) omeprazole/sodium bicarbonate ( Zegerid ( ) ) ( IR-OME ) on esophagitis and gastroesophageal reflux symptoms .
+METHODS	Adult outpatients with Los Angeles grade C or D esophagitis were allocated to open-label 40 mg IR-OME once a day for 8 weeks in a prospective , randomized , parallel design , single center study .
+METHODS	Esophagogastroduodenoscopy ( EGD ) and validated self-report symptom questionnaires were completed at baseline and follow-up .
+METHODS	Intention-to-treat and per-protocol analyses were performed .
+RESULTS	Ninety-two of 128 ( 72 % ) eligible subjects participated [ 64 ( 70 % ) male , mean age 58 ( range 19-86 ) , median BMI 29 ( range 21-51 ) , 58 C :34 D ] .
+RESULTS	Overall , 81 ( 88 % ) subjects healed [ n = 70 ( 76 % ) ] or improved [ n = 11 ( 12 % ) ] erosions .
+RESULTS	There was no significant difference ( morning vs. night ) in mucosal healing [ 81 vs. 71 % , ( p = 0.44 ) ] or symptom resolution [ heartburn ( 77 vs. 65 % , p = 0.12 ) , acid regurgitation ( 82 vs. 73 % , p = 0.28 ) ] .
+RESULTS	Prevalence of newly identified Barrett 's esophagus was 14 % with half diagnosed only after treatment .
+CONCLUSIONS	Once-daily IR-OME ( taken morning or night ) effectively heals severe reflux esophagitis and improves GERD symptoms .
+CONCLUSIONS	Results support the clinical practice recommendation to repeat EGD after 8 weeks PPI therapy in severe esophagitis patients to assure healing and exclude Barrett 's esophagus .
+

@@ -1,0 +1,16 @@
+24981311
+BACKGROUND	Combination of fluoropyrimidines and a platinum derivative are currently standards for systemic chemotherapy in advanced adenocarcinoma of the stomach and gastroesophageal junction ( GEJ ) .
+BACKGROUND	Nevertheless , individual likelihood for response to these therapeutic regimes remains uncertain .
+BACKGROUND	Even more , no predictive markers are available to determine which patients may benefit more from oxaliplatin versus cisplatin or vice versa .
+BACKGROUND	The new invasion and stem cell markers VEGFR-3 and CXCR4 have been linked prognostically with more aggressive esophagogastric cancer types .
+BACKGROUND	Thus , we aimed to assess correlations of VEGFR-3 and CXCR4 expression levels with clinical outcome in a randomized phase III study of patients with oxaliplatin/leucovorin/5-FU ( FLO ) versus cisplatin/leucovorin/5-FU ( FLP ) .
+METHODS	The patients data examined in this study ( n = 72 ) were from the collective of the FLO vs. FLP phase III AIO trial .
+METHODS	Tumour tissues were stained via immunohistochemistry for VEGFR-3 and CXCR4 expression and results were evaluated by two independent , blinded investigators.Outcome parameter : Survival analysis was calculated for patients receiving FLO vs. FLP in relation to VEGFR-3 and CXCR4 expression .
+RESULTS	54 % and 36 % of the examined tumour tissues showed strong positive expression of VEGFR-3 and CXCR4 respectively .
+RESULTS	No superiority of each regime was detected in terms of overall survival ( OS ) in the whole population .
+RESULTS	Patients with strong expression of CXCR4 on their tumour tissues profited more in terms of OS under the treatment of FLP ( mOS : 28 vs 15 months , p = 0.05 respectively ) .
+RESULTS	Patients with negative VEGFR-3 and CXCR4 expression had a trend to live longer when FLO regime was applied ( mOS : 22 vs. 9 months , p = 0.099 and 20 vs. 10 months , p = 0.073 respectively ) .
+RESULTS	In an exploratory analysis of patients older than 60 years at diagnosis , we observed a significant benefit in overall survival for VEGFR-3 and CXCR4-positive patients when treated with FLP ( p = 0.002 , p = 0.021 respectively ) .
+CONCLUSIONS	CXCR4 positive patients profited in terms of OS from FLP , whereas FLO proved to be more effective in CXCR4 and VEGFR-3 negative patients .
+CONCLUSIONS	Our results suggest , despite the limited size of the study , a predictive value of these biomarkers concerning chemotherapy with FLP or FLO in advanced esophagogastric cancer .
+

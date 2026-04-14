@@ -1,0 +1,15 @@
+25304191
+BACKGROUND	Low levels of health-enhancing physical activity require novel approaches that have the potential to reach broad populations .
+BACKGROUND	Web-based interventions are a popular approach for behaviour change given their wide reach and accessibility .
+BACKGROUND	However , challenges with participant engagement and retention reduce the long-term maintenance of behaviour change .
+BACKGROUND	Web 2.0 features present a new and innovative online environment supporting greater interactivity , with the potential to increase engagement and retention .
+BACKGROUND	In order to understand the applicability of these innovative interventions for the broader population , ` real-world ' interventions implemented under ` everyday conditions ' are required .
+BACKGROUND	The aim of this study is to investigate the difference in physical activity behaviour between individuals using a traditional Web 1.0 website with those using a novel Web 2.0 website .
+METHODS	In this study we will aim to recruit 2894 participants .
+METHODS	Participants will be recruited from individuals who register with a pre-existing health promotion website that currently provides Web 1.0 features ( http://www.10000steps.org.au ) .
+METHODS	Eligible participants who provide informed consent will be randomly assigned to one of the two trial conditions : the pre-existing 10000 Steps website ( with Web 1.0 features ) or the newly developed WALK 2.0 website ( with Web 2.0 features ) .
+METHODS	Primary and secondary outcome measures will be assessed by self-report at baseline , 3months and 12months , and include : physical activity behaviour , height and weight , Internet self-efficacy , website usability , website usage and quality of life .
+BACKGROUND	This study has received ethics approval from the University of Western Sydney Human Research Ethics Committee ( Reference Number H8767 ) and has been funded by the National Health and Medical Research Council ( Reference Number 589903 ) .
+BACKGROUND	Study findings will be disseminated widely through peer-reviewed publications , academic conferences and local community-based presentations .
+BACKGROUND	Australian New Zealand Clinical Trials Registry Number : ACTRN12611000253909 , WHO Universal Trial Number : U111-1119-1755 .
+

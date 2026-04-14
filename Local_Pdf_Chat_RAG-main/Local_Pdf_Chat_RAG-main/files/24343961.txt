@@ -1,0 +1,10 @@
+24343961
+BACKGROUND	Individuals with borderline personality disorder ( BPD ) and comorbid post-traumatic stress disorder ( PTSD ) have a worse prognosis than individuals with BPD alone .
+BACKGROUND	A common view is that the emotional instability and impulsivity of BPD should be treated before attempting to address trauma .
+BACKGROUND	However , PTSD symptoms may interfere with patients ' ability to benefit from such ` stabilizing ' treatments .
+METHODS	The effect of BPD-PTSD comorbidity on self-harm and BPD symptom outcomes was evaluated in 89 patients receiving dialectical behaviour therapy , using multilevel modelling .
+RESULTS	Patients with comorbid BPD-PTSD showed a trend towards elevated BPD symptoms throughout the treatment year ( = 2.12 , 95 % CI = -0.21 -4.44 , p = 0.07 ) .
+RESULTS	There was a three-way interaction between PTSD comorbidity , treatment completion and time , whereby PTSD comorbidity was associated with less reduction in self-harm frequency over time , but only in those completing the full 12 months of treatment ( incident risk ratio = 1.16 , 95 % CI = 1.04-1 .30 , p < 0.01 ) .
+CONCLUSIONS	Patients with comorbid PTSD had a poorer outcome from dialectical behaviour therapy than those with BPD alone , possibly because of the negative impact of unaddressed trauma .
+CONCLUSIONS	The results provide further grounds for recently developed treatments targeting BPD traits and PTSD symptoms simultaneously .
+

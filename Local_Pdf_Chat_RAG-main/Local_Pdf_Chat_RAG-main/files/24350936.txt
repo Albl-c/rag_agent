@@ -1,0 +1,16 @@
+24350936
+BACKGROUND	Metformin monotherapy is recommended as initial treatment of type 2 diabetes .
+BACKGROUND	The selection of optimal second-line therapy that is often necessary due to the progressive nature of the disease is still a subject of ongoing discussions .
+OBJECTIVE	The aim of the international EDGE ( Effectiveness of Diabetes control with vildaGliptin and vildagliptin/mEtformin ) study was to prospectively compare the efficacy and safety of vildagliptin vs other oral antidiabetic agents in patients with type 2 diabetes not adequately controlled on monotherapy in a real-life clinical setting .
+OBJECTIVE	In this paper , we present the data of patients participating in the EDGE study in the Czech Republic .
+METHODS	Patients with type 2 diabetes not adequately controlled on monotherapy were enrolled into the study , and randomised into either the vildagliptin arm or control arm with another OAD at the discretion of the treating physician .
+METHODS	Patients with the addition of other incretin-based medications were not enrolled into the study .
+METHODS	The efficiency was evaluated as a proportion of patients reaching the combined endpoint of decreasing HbA1c > 3 mmol/mol without hypoglycaemia , peripheral oedema or treatment termination due to gastrointestinal side effects during the 12 months of treatment .
+RESULTS	654 patients were enrolled into the study in the Czech Republic .
+RESULTS	The mean age of the patients when enrolled into the study ( vildagliptin group vs control group ) was 59.5 10.6 vs 63.7 8.5 years , mean body mass index was 32.4 5.7 vs 31.7 6.5 kg/m2 , mean HbA1c was 62 12 vs 64 11 mmol/mol .
+RESULTS	The probability of reaching the combined primary endpoint ( calculated using a binary logistic regression model to calculate the odds ratios with 95 % confidence intervals ) was higher for vildagliptin regardless of baseline HbA1c or type of medication added in the control group .
+RESULTS	Primary endpoint was reached by 60.6 % of patients in the vildagliptin group vs 51.3 % of patients in the control group , odds ratio 1.46 ( 1.06 , 1.99 ) ; p < 0.019 .
+RESULTS	The proportion of patients reaching secondary endpoint ( HbA1c < 54 mmol/mol without hypoglycemic event or weight gain 3 % with baseline glycated hemoglobin > 54 mmol/mol was higher for vildagliptin 45.7 % vs 31.4 % in the control arm , odds ratio 1.84 ( 1.26 , 2.68 ) , p < 0.001 .
+RESULTS	The rate of adverse events was comparable in both groups .
+CONCLUSIONS	In a real-life clinical set-ting , the percentage of patients reaching the combined endpoint of decreasing HbA1c > 3 mmol/mol , without hypoglycaemia , peripheral oedema or treatment termination due to gastrointestinal side effects was higher after the addition of vildagliptin as compared to other antidiabetic agents with comparable rate of side effects .
+

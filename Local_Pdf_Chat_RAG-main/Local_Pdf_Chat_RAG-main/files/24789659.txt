@@ -1,0 +1,16 @@
+24789659
+OBJECTIVE	Ultrasound-guided long-axis in-plane sciatic perineural catheter insertion has been described but not validated .
+OBJECTIVE	For the popliteal-sciatic nerve , we hypothesized that a long-axis in-plane technique , placing the catheter parallel and posterior to the nerve , results in faster onset of sensory anesthesia compared to a short-axis in-plane technique .
+METHODS	Preoperatively , patients receiving a popliteal-sciatic perineural catheter were randomly assigned to either the long-axis or short-axis technique .
+METHODS	Mepivacaine 2 % was administered via the catheter following insertion .
+METHODS	The primary outcome was time to achieve complete sensory anesthesia .
+METHODS	Secondary outcomes included procedural time , onset time of motor block , and pain on postoperative day 1 .
+RESULTS	Fifty patients were enrolled .
+RESULTS	In the long-axis group ( n = 25 ) , all patients except 1 ( 4 % ) had successful catheter placement per protocol .
+RESULTS	Two patients ( 8 % ) in the long-axis group and 1 patient ( 4 % ) in the short-axis group ( n = 25 ) did not achieve sensory anesthesia by 30 min and were withdrawn .
+RESULTS	Seventeen of 24 ( 71 % ) and 17 of 22 ( 77 % ) patients in the short-axis and long-axis groups , respectively , achieved the primary outcome of complete sensory anesthesia ( p = 0.589 ) .
+RESULTS	The short-axis group ( n = 17 ) required a median ( 10th-90th ) of 18.0 ( 8.4-30 .0 ) min compared to 18.0 ( 11.4-27 .6 ) min for the long-axis group ( n = 17 , p = 0.208 ) to achieve complete sensory anesthesia .
+RESULTS	Procedural time was 6.5 ( 4.0-12 .0 ) min for the short-axis and 9.5 ( 7.0-12 .7 ) min for the long-axis ( p < 0.001 ) group .
+RESULTS	There were no statistically significant differences in other secondary outcomes .
+CONCLUSIONS	Long-axis in-plane popliteal-sciatic perineural catheter insertion requires more time to perform compared to a short-axis in-plane technique without demonstrating any advantages .
+

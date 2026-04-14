@@ -1,0 +1,9 @@
+25117173
+OBJECTIVE	The combination of direct-acting antiviral agents in patients with chronic hepatitis C virus ( HCV ) infection has demonstrated clinical benefit ; however , evaluation of potential drug-drug interactions is required prior to therapy .
+METHODS	An open-label study assessed the pharmacokinetics and tolerability of the HCV NS5A replication complex inhibitor daclatasvir and the HCV NS3 protease inhibitor asunaprevir when co-administered in healthy subjects .
+METHODS	Daclatasvir 60mg once daily and asunaprevir 600mg twice daily were dosed for 7days alone followed by combination dosing for 14days at 30mg once daily and 200mg twice daily , respectively .
+METHODS	Further assessments were provided comparing exposures from the current study with those from studies in HCV-infected patients receiving either the same or higher doses of daclatasvir or asunaprevir administered alone or together .
+RESULTS	Dose-normalized daclatasvir and asunaprevir morning exposures were comparable with control in healthy subjects , with geometric mean area under the concentration-time curve ratios of 1.202 ( 90 % CI 1.113-1 .298 ) and 0.868 ( 90 % CI 0.726-1 .038 ) , respectively .
+RESULTS	In HCV patients daclatasvir and asunaprevir exposures were largely comparable , when administered together or alone .
+CONCLUSIONS	Additional data support the conclusion that there is no clinically meaningful interaction between daclatasvir and asunaprevir in either healthy subjects or HCV-infected patients , including those also receiving peginterferon - / ribavirin , and that the combination of daclatasvir 60mg once daily and asunaprevir 200mg twice daily is generally well-tolerated .
+

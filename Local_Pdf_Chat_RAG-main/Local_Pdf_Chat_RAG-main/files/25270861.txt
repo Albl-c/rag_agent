@@ -1,0 +1,18 @@
+25270861
+BACKGROUND	Over 16000 mastectomies are performed in England and Wales annually .
+BACKGROUND	Acute postoperative pain and nausea are common .
+BACKGROUND	The most frequently occurring long-term complications are chronic pain ( up to 50 % ) and reduced shoulder function ( reported at 35 % ) .
+BACKGROUND	Regional techniques that improve acute postoperative pain relief may reduce the incidence of these complications .
+BACKGROUND	This study assesses the effectiveness of a 24-hour continuous local anaesthetic in the subpectoral plane in improving postoperative pain and quality of life in patients undergoing mastectomy .
+METHODS	This is a randomised , double blind , placebo-controlled , two-centre , parallel group trial in women undergoing mastectomy with or without axillary involvement .
+METHODS	One hundred and sixty participants will be randomised in a 1:1 ratio to receive either 0.25 % levobupivacaine or 0.9 % saline by subpectoral infusion postoperatively for 24h .
+METHODS	All participants will be provided with an intravenous morphine patient-controlled analgesia ( PCA ) system .
+METHODS	Participants will be followed-up for 24h in hospital and at approximately 14days and 6months postoperatively .
+METHODS	Joint primary outcome measures are total morphine consumption and total pain score ( captured via patient-recorded visual analogue scale ( VAS ) 4 hourly ) during the first 24h postoperatively .
+METHODS	Primary statistical analysis of total pain is based on the area under the curve of pain versus time graph .
+METHODS	Secondary outcomes include PCA attempts in first 24h ; VAS pain scores and shoulder function by goniometry at 24h , 14days ( approximately ) and 6months ; Verbal Rating Scale pain scores in first 24h ; Brief Pain Inventory and Oxford Shoulder Score at 6months ; duration of hospital stay ; incidence of postoperative nausea and vomiting ; cost-effectiveness .
+BACKGROUND	The study is approved by the South West England Research Ethics Committee ( 12/SW/0149 ) .
+RESULTS	will be published in a peer-reviewed journal and presented at local , national and international scientific meetings .
+BACKGROUND	ISRCTN46621916 .
+BACKGROUND	EudraCT 2011-005775-16 .
+

@@ -1,0 +1,12 @@
+24315894
+OBJECTIVE	This study sought to report additional safety results from the ROCKET AF ( Rivaroxaban Once-daily oral Direct Factor Xa Inhibition Compared with Vitamin K Antagonism for Prevention of Stroke and Embolism Trial in Atrial Fibrillation ) .
+BACKGROUND	The ROCKET AF trial demonstrated similar risks of stroke/systemic embolism and major/nonmajor clinically relevant bleeding ( principal safety endpoint ) with rivaroxaban and warfarin .
+METHODS	The risk of the principal safety and component bleeding endpoints with rivaroxaban versus warfarin were compared , and factors associated with major bleeding were examined in a multivariable model .
+RESULTS	The principal safety endpoint was similar in the rivaroxaban and warfarin groups ( 14.9 vs. 14.5 events/100 patient-years ; hazard ratio : 1.03 ; 95 % confidence interval : 0.96 to 1.11 ) .
+RESULTS	Major bleeding risk increased with age , but there were no differences between treatments in each age category ( < 65 , 65 to 74,75 years ; pinteraction = 0.59 ) .
+RESULTS	Compared with those without ( n = 13,455 ) , patients with a major bleed ( n = 781 ) were more likely to be older , current/prior smokers , have prior gastrointestinal ( GI ) bleeding , mild anemia , and a lower calculated creatinine clearance and less likely to be female or have a prior stroke/transient ischemic attack .
+RESULTS	Increasing age , baseline diastolic blood pressure ( DBP ) 90 mm Hg , history of chronic obstructive pulmonary disease or GI bleeding , prior acetylsalicylic acid use , and anemia were independently associated with major bleeding risk ; female sex and DBP < 90 mm Hg were associated with a decreased risk .
+CONCLUSIONS	Rivaroxaban and warfarin had similar risk for major/nonmajor clinically relevant bleeding .
+CONCLUSIONS	Age , sex , DBP , prior GI bleeding , prior acetylsalicylic acid use , and anemia were associated with the risk of major bleeding .
+CONCLUSIONS	( An Efficacy and Safety Study of Rivaroxaban With Warfarin for the Prevention of Stroke and Non-Central Nervous System Systemic Embolism in Patients With Non-Valvular Atrial Fibrillation : NCT00403767 ) .
+

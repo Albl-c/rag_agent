@@ -1,0 +1,10 @@
+24350814
+OBJECTIVE	The purpose of this study was to test the efficacy of clomipramine and fluoxetine , controlled by placebo , and compare their action in children and adolescents with anxiety disorders .
+METHODS	Thirty subjects ( ages 7-17 years ) , who were diagnosed with generalized anxiety disorder and/or separation anxiety disorder and/or social phobia , were submitted to a 12 week double-blind , randomized , placebo-controlled trial of clomipramine and fluoxetine .
+METHODS	The instruments included : the Schedule for Affective Disorders and Schizophrenia , the Multidimensional Anxiety Scale for Children , the Children 's Depression Inventory , the Clinical Global Impressions , and the Children 's Global Assessment Scale .
+RESULTS	All groups ( clomipramine [ n = 9 ] , fluoxetine [ n = 10 ] , placebo [ n = 11 ] ) showed a significant improvement after 12 weeks of treatment .
+RESULTS	There were significant differences between the fluoxetine and placebo groups in some ratings of anxiety severity and impairment .
+RESULTS	No significant differences were observed between clomipramine and placebo groups or between fluoxetine and clomipramine groups .
+CONCLUSIONS	Treatment with placebo showed an unusual high response rate .
+CONCLUSIONS	Clomipramine showed similar efficacy compared with fluoxetine , although it was not superior to placebo .
+

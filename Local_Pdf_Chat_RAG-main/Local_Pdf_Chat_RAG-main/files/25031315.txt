@@ -1,0 +1,12 @@
+25031315
+BACKGROUND	Inpatient medical settings offer an opportunistic environment for initiating smoking cessation interventions to patients reflecting on their health .
+BACKGROUND	Current evidence has shown the superior efficacy of varenicline tartrate ( VT ) for smoking cessation compared with other tobacco cessation therapies ; however , recent evidence also has highlighted concerns about the safety and tolerability of VT. .
+BACKGROUND	Given these apprehensions , we aimed to evaluate the safety and effectiveness of VT plus quitline-counseling compared to quitline-counseling alone in the inpatient medical setting .
+METHODS	Adult patients ( n = 392 , 20-75 years ) admitted with a smoking-related illnesses to 3 hospitals were randomized to receive either 12 weeks of varenicline tartrate ( titrated from 0.5 mg daily to 1mg twice daily ) plus quitline-counseling ( VT+C ) , ( n = 196 ) or quitline-counseling alone ( n = 196 ) .
+RESULTS	VT was well tolerated in the inpatient setting among subjects admitted with acute smoking-related illnesses ( mean age 52.82.89 and 53.72.77 years in the VT+C and counseling alone groups , respectively ) .
+RESULTS	The most common self-reported adverse event during the 12-week treatment phase was nausea ( 16.3 % in the VT+C group compared with 1.5 % in the counseling alone group ) .
+RESULTS	Thirteen deaths occurred during the study period ( n = 6 were in the VT+C arm compared with n = 7 in the counseling alone arm ) .
+RESULTS	All of these subjects had known comorbidities or developed underlying comorbidities .
+CONCLUSIONS	VT appears to be a safe and well-tolerated opportunistic treatment for inpatient smokers who have related chronic disease .
+CONCLUSIONS	Based on the proven efficacy of varenicline from outpatient studies and our recent inpatient evidence , we suggest it be considered as part of standard care in the hospital setting .
+

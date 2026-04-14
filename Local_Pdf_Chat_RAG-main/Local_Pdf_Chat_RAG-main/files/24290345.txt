@@ -1,0 +1,14 @@
+24290345
+OBJECTIVE	Patients with diarrhoea during enteral nutrition ( EN ) have been shown to have low faecal bifidobacteria concentrations .
+OBJECTIVE	Oligofructose/inulin selectively stimulate the growth of bifidobacteria in healthy humans .
+OBJECTIVE	This study investigates the effect of additional oligofructose/inulin on the gastrointestinal microbiota , short-chain fatty acids ( SCFA ) and faecal output in patients receiving EN .
+METHODS	Adult patients in the intensive care unit ( ICU ) who were starting EN with a formula containing fibre were randomised to receive 7g/d of additional oligofructose/inulin or an identically packaged placebo ( maltodextrin ) .
+METHODS	A fresh faecal sample was collected at baseline and following at least 7 days of supplementation .
+METHODS	Faecal microbiota were analysed using fluorescent in-situ hybridisation and faecal output was monitored daily .
+RESULTS	Twenty-two patients ( mean age 71 years ) completed at least 7 days of intervention ( mean 12 days ) .
+RESULTS	At the end of the intervention , there were no significant differences in the concentrations of bifidobacteria between the groups , after adjusting for baseline values ( oligofructose/inulin 6.9 +1.4 , placebo 7.8 +1.3 log10cells/g dry faeces , P > 0.05 ) , but there were significantly lower concentrations of Faecalibacterium prausnitzii ( 7.0 +1.0 vs. 8.4 +1.3 log10cells/g , P = 0.01 ) and Bacteroides-Prevotella ( 9.1 +1.0 vs. 9.9 +0.9 log10cells/g , P = 0.05 ) in patients receiving additional oligofructose/inulin .
+RESULTS	There were no differences in faecal concentrations of any SCFA , secretory IgA , daily faecal score or incidence of diarrhoea between the two groups .
+CONCLUSIONS	Additional oligofructose/inulin did not increase faecal bifidobacteria in critically ill patients receiving EN , although it did result in lower concentrations of F.prausnitzii and Bacteroides-Prevotella .
+CONCLUSIONS	This trial is registered at http://controlled-trials.com .
+CONCLUSIONS	Identifier : ISRCTN06446184 .
+

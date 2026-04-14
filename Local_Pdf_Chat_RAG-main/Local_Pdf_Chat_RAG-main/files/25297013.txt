@@ -1,0 +1,20 @@
+25297013
+BACKGROUND	Calcitonin gene-related peptide ( CGRP ) is crucial in the pathophysiology of migraine .
+BACKGROUND	We assessed the safety , tolerability , and efficacy of ALD403 , a genetically engineered humanised anti-CGRP antibody , for migraine prevention .
+METHODS	In this randomised , double-blind , placebo-controlled , exploratory , proof-of-concept phase 2 trial , patients aged 18-55 years with five to 14 migraine days per 28-day period were randomly assigned ( 1:1 ) via an interactive web response system to receive an intravenous dose of ALD403 1000 mg or placebo .
+METHODS	Site investigators , patients , and the sponsor were masked to treatment allocation during the study .
+METHODS	The primary objective was to assess safety at 12 weeks after infusion .
+METHODS	The primary efficacy endpoint was the change from baseline to weeks 5-8 in the frequency of migraine days , as recorded in patient electronic diaries .
+METHODS	Patients were followed up until 24 weeks for exploratory safety and efficacy analyses .
+METHODS	Safety and efficacy analyses were done by intention to treat .
+METHODS	This study is registered with ClinicalTrials.gov , NCT01772524 .
+RESULTS	Between Jan 28 , 2013 , and Dec 23 , 2013 , of 174 patients randomly assigned at 26 centres in the USA , 163 received either ALD403 ( n = 81 ) or placebo ( n = 82 ) .
+RESULTS	Adverse events were experienced by 46 ( 57 % ) of 81 patients in the ALD403 group and 43 ( 52 % ) of 82 in the placebo group .
+RESULTS	The most frequent adverse events were upper respiratory tract infection ( placebo 6 [ 7 % ] patients vs ALD403 7 [ 9 % ] patients ) , urinary tract infection ( 4 [ 5 % ] vs 1 [ 1 % ] ) , fatigue ( 3 [ 4 % ] vs 3 [ 4 % ] ) , back pain ( 4 [ 5 % ] vs 3 [ 4 % ] ) , arthralgia ( 4 [ 5 % ] vs 1 [ 1 % ] ) , and nausea and vomiting ( 2 [ 2 % ] vs 3 [ 4 % ] ) .
+RESULTS	Six serious adverse events were reported by three patients and were judged to be unrelated to study drug : in the ALD403 group , one patient had four serious adverse events and one had one serious adverse event , and in the placebo group , one patient had one serious adverse event .
+RESULTS	There were no differences in vital signs or laboratory safety data between the two treatment groups .
+RESULTS	The mean change in migraine days between baseline and weeks 5-8 was -56 ( SD 30 ) for the ALD403 group compared with -46 ( 36 ) for the placebo group ( difference -10 , 95 % CI -20 to 01 ; one-sided p = 00306 ) .
+CONCLUSIONS	No safety concerns were noted with an intravenous dose of ALD403 1000 mg .
+CONCLUSIONS	This study also provides preliminary evidence for the efficacy of ALD403 in the preventive treatment of migraine in patients with a high monthly frequency of migraine days .
+BACKGROUND	Alder Biopharmaceuticals .
+

@@ -1,0 +1,27 @@
+24429275
+BACKGROUND	Many patients with asthma or chronic obstructive pulmonary disease ( COPD ) routinely receive a combination of an inhaled bronchodilator and anti-inflammatory glucocorticosteroid , but those with severe disease often respond poorly to these classes of drug .
+BACKGROUND	We assessed the efficacy and safety of a novel inhaled dual phosphodiesterase 3 ( PDE3 ) and PDE4 inhibitor , RPL554 for its ability to act as a bronchodilator and anti-inflammatory drug .
+METHODS	Between February , 2009 , and January , 2013 , we undertook four proof-of-concept clinical trials in the Netherlands , Italy , and the UK .
+METHODS	Nebulised RPL554 was examined in study 1 for safety in 18 healthy men who were randomly assigned ( 1:1:1 ) to receive an inhaled dose of RPL554 ( 0003 mg/kg or 0009 mg/kg ) or placebo by a computer-generated randomisation table .
+METHODS	Subsequently , six non-smoking men with mild allergic asthma received single doses of RPL554 ( three received 0009 mg/kg and three received 0018 mg/kg ) in an open-label , adaptive study , and then ten men with mild allergic asthma were randomly assigned to receive placebo or RPL554 ( 0018 mg/kg ) by a computer-generated randomisation table for an assessment of safety , bronchodilation , and bronchoprotection .
+METHODS	Study 2 examined the reproducibility of the bronchodilator response to a daily dose of nebulised RPL554 ( 0018 mg/kg ) for 6 consecutive days in a single-blind ( patients masked ) , placebo-controlled study in 12 men with clinically stable asthma .
+METHODS	The safety and bronchodilator effect of RPL554 ( 0018 mg/kg ) was assessed in study 3 , an open-label , placebo-controlled crossover trial , in 12 men with mild-to-moderate COPD .
+METHODS	In study 4 , a placebo-controlled crossover trial , the effect of RPL554 ( 0018 mg/kg ) on lipopolysaccharide-induced inflammatory cell infiltration in induced sputum was investigated in 21 healthy men .
+METHODS	In studies 3 and 4 , randomisation was done by computer-generated permutation with a block size of two for study 3 and four for study 4 .
+METHODS	Unless otherwise stated , participants and clinicians were masked to treatment assignment .
+METHODS	Analyses were by intention to treat .
+METHODS	All trials were registered with EudraCT , numbers 2008-005048-17 , 2011-001698-22 , 2010-023573-18 , and 2012-000742-34 .
+RESULTS	Safety was a primary endpoint of studies 1 and 3 and a secondary endpoint of studies 2 and 4 .
+RESULTS	Overall , RPL554 was well tolerated , and adverse events were generally mild and of equal frequency between placebo and active treatment groups .
+RESULTS	Efficacy was a primary endpoint of study 2 and a secondary endpoint of studies 1 and 3 .
+RESULTS	Study 1 measured change in forced expiratory volume in 1 s ( FEV1 ) and provocative concentration of methacholine causing a 20 % fall in FEV1 ( PC20MCh ) in participants with asthma .
+RESULTS	RPL554 produced rapid bronchodilation in patients with asthma with an FEV1 increase at 1 h of 520 mL ( 95 % CI 320-720 ; p < 00001 ) , which was a 14 % increase from placebo , and increased the PC20MCh by 15 doubling doses ( 95 % CI 063-228 ; p = 0004 ) compared with placebo .
+RESULTS	The primary endpoint of study 2 was maximum FEV1 reached during 6 h after dosing with RPL554 in patients with asthma .
+RESULTS	RPL554 produced a similar maximum mean increase in FEV1 from placebo on day 1 ( 555 mL , 95 % CI 442-668 ) , day 3 ( 505 mL , 392-618 ) , and day 6 ( 485 mL , 371-598 ; overall p < 00001 ) .
+RESULTS	A secondary endpoint of study 3 ( patients with COPD ) was the increase from baseline in FEV1 .
+RESULTS	RPL554 produced bronchodilation with a mean maximum FEV1 increase of 172 % ( SE 52 ) .
+RESULTS	In healthy individuals ( study 4 ) , the primary endpoint was percentage change in neutrophil counts in induced sputum 6 h after lipopolysaccharide challenge .
+RESULTS	RPL554 ( 0018 mg/kg ) did not significantly reduce the percentage of neutrophils in sputum ( 803 % in the RPL554 group vs 842 % in the placebo group ; difference -39 % , 95 % CI -94 to 16 , p = 015 ) , since RPL554 significantly reduced neutrophils ( p = 0002 ) and total cells ( p = 0002 ) to a similar degree .
+CONCLUSIONS	In four exploratory studies , inhaled RPL554 is an effective and well tolerated bronchodilator , bronchoprotector , and anti-inflammatory drug and further studies will establish the full potential of this new drug for the treatment of patients with COPD or asthma .
+BACKGROUND	Verona Pharma .
+

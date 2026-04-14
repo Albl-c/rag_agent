@@ -1,0 +1,12 @@
+24978428
+OBJECTIVE	To evaluate the effects of 0.3 mg or 0.5 mg of ranibizumab in eyes with macular telangiectasia type 2 without subretinal neovascularization .
+METHODS	Ten eyes were randomized to either 0.3 mg or 0.5 mg ranibizumab group in 1 eye only .
+METHODS	Study eye received ranibizumab at baseline and at Months 1 and 2 .
+METHODS	Injections at Months 3 , 4 , and 5 were at investigator 's discretion .
+METHODS	Participants were followed monthly through 6 months with best-corrected visual acuity , fluorescein angiography , and optical coherence tomography .
+RESULTS	For study eyes at baseline , median best-corrected visual acuity letter score was 60 ( 20/64 Snellen equivalent ) and central subfield retinal thickness was 181.5 m. Median number of injections was six .
+RESULTS	Median change in best-corrected visual acuity at Month 3 was 4 letters ( range : -5 to 9 letters ) at both doses in the study eye and 3 letters ( range : -10 to 5 letters ) in the untreated fellow eye .
+RESULTS	At Month 3 , retinal leakage decreased 0.87 disk area and 0.76 disk area for 0.3 mg and 0.5 mg ranibizumab , respectively .
+RESULTS	Median change in central subfield retinal thickness was 1 m and -11 m for 0.3 mg and 0.5 mg ranibizumab , respectively .
+CONCLUSIONS	Ranibizumab ( 0.3 mg or 0.5 mg ) decreases leakage secondary to macular telangiectasia type 2 , but accompanying improvements in best-corrected visual acuity appear similar to improvements in the untreated fellow eye where retinal thickness is relatively unchanged .
+

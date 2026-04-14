@@ -1,0 +1,14 @@
+24322060
+OBJECTIVE	Community-based efforts to prevent adolescent problem behaviors are essential to promote public health and achieve collective impact community wide .
+OBJECTIVE	OBJECTIVE To test whether the Communities That Care ( CTC ) prevention system reduced levels of risk and adolescent problem behaviors community wide 8 years after implementation of CTC .
+METHODS	A community-randomized trial was performed in 24 small towns in 7 states , matched within state , assigned randomly to a control or intervention group in 2003 .
+METHODS	All fifth-grade students attending public schools in study communities in 2003-2004 who received consent from their parents to participate ( 76.4 % of the eligible population ) were included .
+METHODS	A panel of 4407 fifth graders was surveyed through 12th grade , with 92.5 % of the sample participating at the last follow-up .
+METHODS	A coalition of community stakeholders received training and technical assistance to install CTC , used epidemiologic data to identify elevated risk factors and depressed protective factors for adolescent problem behaviors in the community , and implemented tested and effective programs for youths aged 10 to 14 years as well as their families and schools to address their community 's elevated risks .
+METHODS	MAIN OUTCOMES AND MEASURES Levels of targeted risk ; sustained abstinence , and cumulative incidence by grade 12 ; and current prevalence of tobacco , alcohol , and other drug use , delinquency , and violence in 12th grade .
+RESULTS	By spring of 12th grade , students in CTC communities were more likely than students in control communities to have abstained from any drug use ( adjusted risk ratio [ ARR ] = 1.32 ; 95 % CI , 1.06-1 .63 ) , drinking alcohol ( ARR = 1.31 ; 95 % CI , 1.09-1 .58 ) , smoking cigarettes ( ARR = 1.13 ; 95 % CI , 1.01-1 .27 ) , and engaging in delinquency ( ARR = 1.18 ; 95 % CI , 1.03-1 .36 ) .
+RESULTS	They were also less likely to ever have committed a violent act ( ARR = 0.86 ; 95 % CI , 0.76-0 .98 ) .
+RESULTS	There were no significant differences by intervention group in targeted risks , the prevalence of past-month or past-year substance use , or past-year delinquency or violence .
+CONCLUSIONS	Using the CTC system continued to prevent the initiation of adolescent problem behaviors through 12th grade , 8 years after implementation of CTC and 3 years after study-provided resources ended , but did not produce reductions in current levels of risk or current prevalence of problem behavior in 12th grade .
+CONCLUSIONS	TRIAL REGISTRATION clinicaltrials.gov Identifier : NCT01088542 .
+

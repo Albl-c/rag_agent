@@ -1,0 +1,21 @@
+24280465
+OBJECTIVE	To evaluate the sustaining effects of Tai chi Qigong in improving the physiological health for COPD patients at sixth month .
+METHODS	A randomized controlled trial .
+METHODS	Subjects were in three randomly assigned groups : Tai chi Qigong group , exercise group , and control group .
+METHODS	The 206 subjects were recruited from five general outpatient clinics .
+METHODS	Tai chi Qigong group completed a 3-month Tai chi Qigong program .
+METHODS	Exercise group practiced breathing and walking as an exercise .
+METHODS	Control group received usual care .
+METHODS	Primary outcomes included six-minute walking distance and lung functions .
+METHODS	Secondary outcomes were dyspnea and fatigue levels , number of exacerbations and hospital admissions .
+RESULTS	Tai chi Qigong group showed a steady improvement in exercise capacity ( P < .001 ) from baseline to the sixth month .
+RESULTS	The mean walking distance increased from 298 to 349 meters ( +17 % ) .
+RESULTS	No significant changes were noted in the other two groups .
+RESULTS	Tai chi Qigong group also showed improvement in lung functions ( P < .001 ) .
+RESULTS	Mean forced expiratory volume in 1s increased from .89 to .99 l ( +11 % ) .
+RESULTS	No significant change was noted in the exercise group .
+RESULTS	Deterioration was found in the control group , with mean volume decreased from .89 to .84 l ( -5.67 % ) .
+RESULTS	Significant decreased in the number of exacerbations was observed in the Tai chi Qigong group .
+RESULTS	No changes in dyspnea and fatigue levels were noted among the three groups .
+CONCLUSIONS	Tai chi Qigong has sustaining effects in improving the physiological health and is a useful and appropriate exercise for COPD patients .
+

@@ -1,0 +1,15 @@
+25465680
+BACKGROUND	The granisetron transdermal system ( GTS ) showed non-inferior efficacy to oral granisetron to control chemotherapy-induced nausea and vomiting ( CINV ) during multiday chemotherapy .
+BACKGROUND	We compared the efficacy and safety of GTS with that of intravenous and oral granisetron in Korean patients receiving moderately emetogenic chemotherapy ( MEC ) .
+METHODS	A total of 276 patients were randomized into GTS ( n = 139 , one patch on days 1-4 ) or control group ( n = 137 , intravenous on day 1 and oral on days 2-4 ) .
+METHODS	The primary endpoint was the percentage of patients achieving complete response ( CR ) from chemotherapy initiation until 24 h after the final administration .
+RESULTS	Out of 234 patients ( 112 in GTS and 122 in control group ) included in the per protocol analysis , 97.9 % had gastrointestinal cancer and 76.9 % received 3-day chemotherapy .
+RESULTS	The GTS showed non-inferior efficacy achieving CR in 75.0 % of the patients ; 74.6 % of the patients in the control group achieved CR ( 95 % confidence interval -10.73 to 11.55 % ) .
+RESULTS	The CR rate did not change after subgroup analyses by sex , age , and chemotherapy naivety and analysis per day and overall days of treatment .
+RESULTS	The GTS group showed sustained CR from day 1 to day 4 .
+RESULTS	Patients ' satisfaction , assessed using Functional Living Index-Emesis ( FLI-E ) , showed no difference .
+RESULTS	Both treatments were well tolerated and safe .
+CONCLUSIONS	The GTS showed non-inferior efficacy to intravenous and oral granisetron .
+CONCLUSIONS	The safety , tolerability , and FLI-E scores of the GTS were comparable to those of control group .
+CONCLUSIONS	The GTS offers a convenient alternative option for relieving CINV in patients receiving MEC .
+

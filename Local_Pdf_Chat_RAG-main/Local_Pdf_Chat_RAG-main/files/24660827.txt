@@ -1,0 +1,16 @@
+24660827
+OBJECTIVE	To evaluate the effects of benzalkonium chloride ( BAK ) on the blood-aqueous ( BAB ) and blood-retinal barriers ( BRB ) of pseudophakic eyes .
+METHODS	Prospective , randomized , investigator-masked , comparative study .
+METHODS	Patients were randomly assigned to preservative-free artificial tears or BAK-preserved artificial tears .
+METHODS	One drop of artificial tears was instilled 4 times a day in the study eye , starting the day after randomization for 30 days .
+METHODS	Anterior chamber flare was assessed by a laser flare meter ( LFM ) and macular thickness measurements were obtained with optical coherence tomography , before , 15 , and 30 days after randomization .
+RESULTS	A total of 44 healthy eyes of 44 pseudophakic volunteers were recruited .
+RESULTS	There were no significant differences regarding demographics ( age , gender , and race distributions ) and clinical characteristics ( eye , mean intraocular pressure , and mean best-corrected visual acuity ) between the 2 groups ( P > 0.05 ) .
+RESULTS	No significant differences in baseline mean LFM values were observed ( P = 0.262 ) .
+RESULTS	However , we detected a statistically significant increase in mean LFM measurements in the BAK-preserved group ( 11.4 5.1 ph/ms ) ( P = 0.017 ) after 15 days .
+RESULTS	After 30 days , the BAK-preserved group maintained significantly higher flare values ( 11.9 5.9 ph/ms ) compared with baseline ( P = 0.043 ) .
+RESULTS	On the other hand , the preservative-free group showed mean flare values of 8.4 2.5 ph/ms , not significantly different from those obtained at baseline ( P = 1.00 ) .
+RESULTS	We observed no statistically significant change in macular thickness measurements at days 15 and 30 in either group ( P > 0.05 ) .
+RESULTS	Cystoid macular edema was not detected in this series .
+CONCLUSIONS	Our results suggest that a short-term exposure to BAK can cause disruption of the BAB , without altering the BRB in pseudophakic eyes .
+

@@ -1,0 +1,9 @@
+24424561
+OBJECTIVE	The aim of this study was to evaluate the effect of a low tube voltage technique and hybrid iterative reconstruction ( HIR ) on image quality at 3-dimensional computed tomographic angiography ( 3D-CTA ) of the liver .
+METHODS	Before hepatic surgery , we randomly assigned 60 patients ( 17 women , 43 men ; mean SD age , 68.9 10.1 years ) who had undergone 3D-CTA to 1 of 2 protocols ; 30 patients underwent scanning under the conventional 120-kilovolt ( peak ) protocol with filtered back projection ( P1 ) ; and 30 patients , under an 80-kilovolt ( peak ) protocol with HIR ( P2 ) .
+METHODS	The estimated effective radiation dose , computed tomographic attenuation , image noise , contrast-to-noise ratio , and figure of merit were calculated , and the visual image quality of 3D-CTA was scored on a 4-point scale .
+RESULTS	The mean effective radiation dose was significantly lower under P2 than P1 ( 4.8 1.2 vs 7.2 1.5 mSv , P < 0.01 ) .
+RESULTS	P1 and P2 did not significantly differ with respect to the image noise ( 10.5 2.3 vs 9.9 1.6 Hounsfield units ; P = 0.46 ) .
+RESULTS	Computed tomographic attenuation , contrast-to-noise ratio , figure of merit , and the visual scores for image quality were higher under P2 than P1 ( P < 0.01 ) .
+CONCLUSIONS	The use of low tube voltage and HIR can yield significantly improved image quality at 3D-CTA of the liver .
+

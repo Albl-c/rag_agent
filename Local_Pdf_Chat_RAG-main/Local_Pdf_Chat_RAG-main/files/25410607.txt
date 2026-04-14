@@ -1,0 +1,15 @@
+25410607
+BACKGROUND	Falling in older age is a serious and costly problem .
+BACKGROUND	At least one in three older people fall annually .
+BACKGROUND	Although exercise is recognised as an effective fall prevention intervention , low numbers of older people engage in suitable programmes .
+BACKGROUND	Health and exercise professionals play a crucial role in addressing fall risk in older adults .
+BACKGROUND	This trial aims to evaluate the effect of participation in a fall prevention educational programme , compared with a wait-list control group , on health and exercise professionals ' knowledge about fall prevention and the effect on fall prevention exercise prescription behaviour and confidence to prescribe the exercises to older people .
+METHODS	A randomised controlled trial involving 220 consenting health and exercise professionals will be conducted .
+METHODS	Participants will be individually randomised to an intervention group ( n = 110 ) to receive an educational workshop plus access to internet-based support resources , or a wait-list control group ( n = 110 ) .
+METHODS	The two primary outcomes , measured 3months after randomisation , are : ( 1 ) knowledge about fall prevention and ( 2 ) self-perceived change in fall prevention exercise prescription behaviour .
+METHODS	Secondary outcomes include : ( 1 ) participants ' confidence to prescribe fall prevention exercises ; ( 2 ) the proportion of people aged 60 + years seen by trial participants in the past month who were prescribed fall prevention exercise ; and ( 3 ) the proportion of fall prevention exercises prescribed by participants to older people in the past month that comply with evidence-based guidelines .
+METHODS	Outcomes will be measured with a self-report questionnaire designed specifically for the trial .
+BACKGROUND	The trial protocol was approved by the Human Research Ethics Committee , The University of Sydney , Australia .
+BACKGROUND	Trial results will be disseminated via peer reviewed journals , presentations at international conferences and participants ' newsletters .
+BACKGROUND	Trial protocol was registered with the Australian and New Zealand Clinical Trials Registry ( Number ACTRN12614000224628 ) on 3 March 2014 .
+

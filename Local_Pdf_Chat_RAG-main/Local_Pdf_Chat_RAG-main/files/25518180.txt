@@ -1,0 +1,13 @@
+25518180
+BACKGROUND	Disclosing agents have a long history of use as an aid in children 's tooth brushing instruction .
+BACKGROUND	However , their benefit when used to improve self-performed tooth brushing ability without any tooth brushing instruction has not been investigated .
+OBJECTIVE	To evaluate the effect of disclosed plaque visualization on improving the self-performed , tooth brushing ability of primary school children .
+METHODS	A cluster-randomized , crossover study was conducted in Nakhon Nayok province , Thailand .
+METHODS	A total of 122 second-grade schoolchildren , aged 8-10 years old , from 12 schools were randomly divided into 2 groups .
+METHODS	The first group was assigned to brush with disclosed plaque visualization , while the other group brushed without disclosed plaque visualization .
+METHODS	One month later the groups switched procedures .
+METHODS	Tooth brushing ability was evaluated by the subjects ' reduction in patient hygiene performance ( PHP ) scores .
+METHODS	The data were analyzed using repeated-measures analysis of variance , with significance set at p < 0.05 .
+RESULTS	Disclosed plaque visualization had a significant effect on improving the children 's self-performed , tooth brushing ability in all areas of the mouth ( p < 0.001 ) , particularly for anterior teeth , mandibular teeth , buccal surfaces , and areas adjacent to the gingival margin ( p < 0.001 ) .
+CONCLUSIONS	Disclosed plaque visualization is a viable technique to improve children 's self-performed tooth brushing ability , and could be used in school-based oral health promotion programs .
+

@@ -1,0 +1,13 @@
+24827132
+BACKGROUND	At 42.5 months of median follow-up , PHARE failed to show that 6 was non-inferior to 12 months of adjuvant trastuzumab .
+BACKGROUND	From the results of PHARE , questions remain regarding whether the magnitude of benefit derived from 1 year is sufficient to justify its systematic use for different patient subgroups .
+METHODS	Treatment effects were evaluated according to various tumour characteristics , and the multivariate Cox proportional hazards regression models were carried out on metastases-free survival ( MFS ) in the 12 months control arm .
+METHODS	A prognostic score was defined providing the identification of patient categories with similar risks .
+METHODS	The 6-month arm was used as a validation set in order to test for heterogeneity .
+METHODS	This study is registered at clinicaltrials.gov , number NCT00381901 .
+RESULTS	A total of 261 metastatic events were observed and four prognostic groups were defined : very low , low , intermediate and high risk in the 12-month arm .
+RESULTS	The corresponding 3-year MFS rates were 98.3 % , 95.8 % , 90.4 % and 78.4 % in the four prognostic groups , respectively .
+RESULTS	In the 6-month arm , the 3-year MFS rates were 98.3 % , 94.2 % , 85.7 % and 74.8 % in the four prognostic groups , respectively .
+CONCLUSIONS	In the very low-risk group , the potential absolute benefit of standard duration of trastuzumab was small enough to indicate that optimal standard treatment might be clinically questionable .
+CONCLUSIONS	On the other hand , the 3-year metastasis occurrence rates strongly support the need for a search of a more efficient treatment in the low - , intermediate - and high-risk groups .
+

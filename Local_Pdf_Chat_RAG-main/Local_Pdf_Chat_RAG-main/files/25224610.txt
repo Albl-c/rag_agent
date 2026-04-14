@@ -1,0 +1,20 @@
+25224610
+BACKGROUND	Antiretroviral ( ARV ) - based pre-exposure prophylaxis ( PrEP ) is a promising new HIV prevention strategy .
+BACKGROUND	However , variable levels of adherence have yielded mixed results across several PrEP trials and populations .
+BACKGROUND	It is not clear how taking ARV - traditionally used for HIV treatment - is perceived and how that perception may affect the use of these products as preventives .
+BACKGROUND	We explored the views and experiences of VOICE participants , their male partners and community members regarding the use of ARV as PrEP in the VOICE trial and the implications of these shared meanings for adherence .
+METHODS	VOICE-C was a qualitative ancillary study conducted at the Johannesburg site of VOICE , a multisite , double-blind , placebo-controlled randomised trial testing tenofovir gel , oral tenofovir and oral Truvada for HIV PrEP .
+METHODS	We interviewed 102 randomly selected female VOICE participants , 22 male partners and 40 community members through in-depth interviews , serial ethnography , or focus group discussions .
+METHODS	All interviews were audiotaped , transcribed , translated and coded thematically for analysis .
+RESULTS	The concept of ARV for prevention was understood to varying degrees across all study groups .
+RESULTS	A majority of VOICE participants understood that the products contained ARV , more so for the tablets than for the gel .
+RESULTS	Although participants knew they were HIV negative , ARV was associated with illness .
+RESULTS	Male partners and community members echoed these sentiments , highlighting confusion between treatment and prevention .
+RESULTS	Concerned that they would be mistakenly identified as HIV positive , VOICE participants often concealed use of or hid their study products .
+RESULTS	This occasionally led to relationship conflicts or early trial termination .
+RESULTS	HIV stigma and its association with ARV , especially the tablets , was articulated in rumour and gossip in the community , the workplace and the household .
+RESULTS	Although ARV were recognised as potent and beneficial medications , transforming the AIDS body from sickness to health , they were regarded as potentially harmful for those uninfected .
+CONCLUSIONS	VOICE participants and others in the trial community struggled to conceptualise the idea of using ARV for prevention .
+CONCLUSIONS	This possibly influenced willingness to adopt ARV-based prevention in the VOICE clinical trial .
+CONCLUSIONS	Greater investments should be made to increase community understanding of ARV for prevention and to mitigate pervasive HIV stigma .
+

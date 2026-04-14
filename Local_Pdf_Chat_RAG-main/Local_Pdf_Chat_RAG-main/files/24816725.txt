@@ -1,0 +1,11 @@
+24816725
+OBJECTIVE	This phase II study evaluated the synthetic DNA-based immunomodulator and Toll-like receptor 9 agonist MGN1703 as maintenance treatment in metastatic colorectal carcinoma ( mCRC ) .
+METHODS	Fifty-nine patients with mCRC and disease control after standard first-line chemotherapy were randomised to MGN1703 60mg ( N = 43 ) or placebo ( N = 16 ) .
+RESULTS	The hazard ratio ( HR ) for the primary endpoint [ progression-free survival ( PFS ) from the start of maintenance ] was 0.56 ( 95 % CI 0.29-1 .08 ; P = 0.07 ) and 0.55 ( 95 % CI 0.3-1 .0 ; P = 0.04 ) by independent and investigator review , respectively .
+RESULTS	MGN1703 significantly improved PFS measured from the start of induction therapy versus placebo on independent ( HR 0.49 ; 95 % CI 0.26-0 .94 ; P = 0.03 ) and investigator review ( HR 0.50 ; 95 % CI 0.31-1 .02 ; P = 0.02 ) .
+RESULTS	Overall survival ( OS ) data remain immature ( HR 95 % ; 95 % CI 0.3-1 .5 ; P = 0.29 ) with 28/43 patients alive after a medium follow-up of > 17months .
+RESULTS	Retrospective subgroup analysis showed a significant effect of MGN1703 on PFS versus placebo in patients with greater than median tumour size reduction and normalised carcinoembryonic antigen concentrations following induction therapy , and in patients with elevated activated NKT cells3 .08 % .
+RESULTS	Adverse events were mild to moderate and limited to injection-site reactions or linked to general immune system activation .
+CONCLUSIONS	MGN1703 maintenance treatment was well tolerated and appears to induce durable and prolonged PFS and disease control in a subgroup of patients with mCRC following induction therapy .
+CONCLUSIONS	Activated NKT cells may be a predictive biomarker for selecting patients likely to benefit more from MGN1703 .
+

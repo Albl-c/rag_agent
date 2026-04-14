@@ -1,0 +1,16 @@
+25037201
+BACKGROUND	Acute hamstring re-injuries are common and hard to predict .
+BACKGROUND	The aim of this study was to investigate the association between clinical and imaging findings and the occurrence of hamstring re-injuries .
+METHODS	We obtained baseline data ( clinical and MRI findings ) of athletes who sustained an acute hamstring injury within 5days of initial injury .
+METHODS	We also collected data of standardised clinical tests within 7days after return to play ( RTP ) .
+METHODS	The number of re-injuries was recorded within 12months .
+METHODS	We analysed the association between the possible predictive variables and re-injuries with a multivariate Cox proportional-hazards regression model .
+RESULTS	Eighty patients were included at baseline and 64 patients could be included in the final analysis because data after RTP were not available in 16 cases .
+RESULTS	There were 17 re-injuries ( 27 % ) .
+RESULTS	None of the baseline MRI findings were univariately associated with re-injury .
+RESULTS	A higher number of previous hamstring injuries ( adjusted OR ( AOR ) 1.33 ; 95 % CI 1.11 to 1.61 ) , more degrees of active knee extension deficit after RTP ( AOR 1.13 ; 95 % CI 1.03 to 1.25 ) , isometric knee flexion force deficit at 15 after RTP ( AOR 1.04 ; 95 % CI 1.01 to 1.07 ) and presence of localised discomfort on hamstring palpation after RTP ( AOR 3.95 ; 95 % CI 1.38 to 11.37 ) were significant independent predictors of re-injury .
+RESULTS	Athletes with localised discomfort on hamstring palpation just after RTP were consequently almost four times more likely to sustain a re-injury .
+CONCLUSIONS	The number of previous hamstring injuries , active knee extension deficit , isometric knee flexion force deficit at 15 and presence of localised discomfort on palpation just after RTP are associated with a higher hamstring re-injury rate .
+CONCLUSIONS	None of the baseline MRI parameters was a predictor of hamstring re-injury .
+BACKGROUND	ClinicalTrial.gov number NCT01812564 .
+

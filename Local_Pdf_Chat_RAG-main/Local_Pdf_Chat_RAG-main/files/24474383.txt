@@ -1,0 +1,14 @@
+24474383
+BACKGROUND	Serum infliximab trough levels correlate with efficacy ; dose escalation is often beneficial in patients with Crohn 's disease who stop responding to infliximab treatment .
+OBJECTIVE	To carry out a post hoc analysis of A Crohn 's Disease Clinical Trial Evaluating Infliximab in a New Long-term Treatment Regimen I ( ACCENT I ) to evaluate the association between serum infliximab trough levels and C-reactive protein ( CRP ) after 14weeks of induction treatment with durable sustained long-term response ( Crohn 's Disease Activity Index decrease 70 points and reduction 25 % from baseline ) .
+METHODS	ACCENT I was a multicentre , randomised , placebo-controlled study .
+METHODS	Week 14 trough levels and CRP percentage decrease from baseline to week 14 were compared between patients with and without durable sustained response through week 54 .
+METHODS	Sensitivity and specificity were determined to predict durable sustained response .
+METHODS	Receiver operating characteristic ( ROC ) curves identified optimal cut-off points ; logistic regression determined ORs .
+RESULTS	After induction with 5mg/kg infliximab , 25 % ( 37/147 ) and 33 % ( 47/144 ) of patients sustained week 14 response to infliximab 5 or 10mg/kg , respectively , administered every 8weeks without dose escalation , through week 54 .
+RESULTS	Median week 14 trough levels of patients with and without durable sustained response to infliximab 5mg/kg were 4.0 and 1.9 g/mL , respectively ( p = 0.0331 ) .
+RESULTS	Optimal predictors of durable sustained response to maintenance infliximab 5mg/kg were week 14 trough level 3.5 g/mL and 60 % CRP decrease ( ORs ( 95 % CI ) , 3.5 ( 1.1 to 11.4 ) and 7.3 ( 1.4 to 36.7 ) ) , respectively , in patients with raised baseline CRP ( > 8.0 mg/L ) ; area under the ROC curve was 0.75 for both predictors .
+RESULTS	A 3.5 g/mL week 14 infliximab serum level did not predict durable sustained response to 10mg/kg maintenance infliximab .
+CONCLUSIONS	Patients with durable sustained response to maintenance infliximab 5mg/kg had higher postinduction trough levels than patients without durable sustained response .
+CONCLUSIONS	Serum infliximab trough levels 3.5 g/mL and 60 % CRP decrease were significantly associated with durable sustained response .
+

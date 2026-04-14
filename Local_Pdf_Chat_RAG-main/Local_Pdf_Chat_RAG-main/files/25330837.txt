@@ -1,0 +1,15 @@
+25330837
+OBJECTIVE	To evaluate the effect of dehydroepiandrosterone ( DHEA ) on infertility patients with diminished ovarian reserve undergoing in vitro fertilization .
+METHODS	This is a prospective study .
+METHODS	Ninety-five patients with diminished ovarian reserve were included in this study .
+METHODS	Of them , 42 patients were randomly allocated to the DHEA group , who received DHEA 75 mg daily for three consecutive menstrual cycles prior to IVF cycles , and 53 patients were allocated to the control group , who entered IVF cycles directly .
+METHODS	All patients were treated with the same ovarian stimulation protocol .
+METHODS	Follicular fluid samples from both groups were collected for bone morphogenetic protein-15 ( BMP-15 ) and growth differentiation factor-9 ( GDF-9 ) .
+METHODS	Fluid from the first aspirated follicle without any visible blood contamination was carefully collected .
+METHODS	In addition , day 3 Blood samples were collected pre - and post-treatment of DHEA for serum anti-Mullerian hormone ( AMH ) , follicle stimulating hormone ( FSH ) and estradiol ( E2 ) in the DHEA group .
+RESULTS	The level of BMP-15 in follicular fluid samples from the DHEA group was significantly higher than that of the control samples ( P = .000 ) .
+RESULTS	Patients after DHEA treatment demonstrated a significantly higher level of AMH and a significantly lower level of FSH , E2 compared to themselves prior to DHEA therapy ( P = .015 ; P = .036 ; P = .002 ; respectively ) .
+RESULTS	Moreover , the accumulated score of embryos was significantly higher in the DHEA group ( P = .033 ) .
+CONCLUSIONS	These observations confirm the beneficial effect of DHEA for infertility patients with diminished ovarian reserve .
+BACKGROUND	ChiCTR-TRC-14005002 .
+

@@ -1,0 +1,14 @@
+24582273
+BACKGROUND	Identifying patients with recent stroke or transient ischemic attack ( TIA ) at high risk of major vascular events ( MVEs ; stroke , myocardial infarction , or vascular death ) may help optimize the intensity of secondary preventive interventions .
+BACKGROUND	We evaluated the relationships between the baseline Framingham Coronary Risk Score ( FCRS ) and a novel risk prediction model and with the occurrence of MVEs after stroke or TIA in subjects enrolled in the Stroke Prevention by Aggressive Reduction in Cholesterol Level ( SPARCL ) trial .
+METHODS	Data from the 4731 subjects enrolled in the SPARCL study were analyzed .
+METHODS	Hazard ratios ( HRs ) from Cox regression models were used to determine the risk of subsequent MVEs based on the FCRS predicting 20 % or more 10-year coronary heart disease risk .
+METHODS	The novel risk model was derived based on multivariable modeling with backward selection .
+METHODS	Model discrimination ( c-statistics ) was assessed using the areas under the receiver operating characteristic curves .
+RESULTS	Of 3969 subjects with complete data , 27 % had a baseline FCRS of 20 % or more .
+RESULTS	In multivariable analysis , an FCRS of 20 % or more was associated with twice the risk of subsequent MVEs ( HR = 1.92 , 95 % confidence interval [ CI ] : 1.63-2 .27 ) .
+RESULTS	The novel model based on a multivariable analysis included age ( HR = 1.37 , 95 % CI : 1.25-1 .51 per 10 years ) , diabetes ( HR = 1.82 , 95 % CI : 1.51-2 .18 ) , male sex ( HR = 1.35 , 95 % CI : 1.12-1 .61 ) , and an apolipoprotein ( APO ) - B/APO-A 1 ratio ( HR = 1.56 , 95 % CI : 1.16-2 .11 ) .
+RESULTS	The c-statistic was .58 ( 95 % CI : .55 -.60 ) for the FCRS of 20 % or more and .65 ( 95 % CI : .63 -.67 ) for the novel model .
+CONCLUSIONS	Both a baseline FCRS of 20 % or more and a novel predictive model were associated with future MVEs in SPARCL trial subjects .
+CONCLUSIONS	The novel model needs to be validated , and the benefits of using either the FCRS or the novel model in clinical practice needs to be assessed .
+

@@ -1,0 +1,9 @@
+24660579
+OBJECTIVE	To compare the curative effects of heat-sensitive moxibustion with conventional drugs on chronic persistent asthma and seek a valuable therapy to replace Western Medicine .
+METHODS	The participants in this multi-center , randomized , and controlled study were randomly divided into two groups : group A ( n = 144 ) , treated with heat-sensitive moxibustion ( 50 sessions ) and group B ( n = 144 ) , treated with Seretide ( salmeterol 50 plg/fluticasone 250 pg , twice a day ) .
+METHODS	The scores of asthma control test ( ACT ) , forced expiratory volume in 1 second ( FEV1 ) , peak expiratory flow ( PEF ) , and attack frequency were measured after 15 , 30 , 60 , and 90 days of treatment .
+METHODS	Patients followed up 3 and 6 months after treatment .
+RESULTS	There was a significant difference ( P = 0.0002 ) in the ACT score and lung function between the two groups after 3 months of treatment and ( P = 0.000 03 ) during the follow-up visits .
+RESULTS	In addition , heat-sensitive moxibustion reduced attack frequency in the period from inclusion to the 6-month follow-up visit .
+CONCLUSIONS	This study shows that heat-sensitive moxibustion may have a comparable curative effect to Seretide ( salmetero/fluticasone ) on asthma .
+

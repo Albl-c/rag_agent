@@ -1,0 +1,13 @@
+26171933
+BACKGROUND	The aim of this study was to assess the efficacy of neoadjuvant anastrozole and fulvestrant treatment of large operable or locally advanced hormone-receptor-positive breast cancer not eligible for initial breast-conserving surgery , and to identify genomic changes occurring after treatment .
+METHODS	One hundred and twenty post-menopausal patients were randomised to receive 1mg anastrozole ( 61 patients ) or 500mg fulvestrant ( 59 patients ) for 6 months .
+METHODS	Genomic DNA copy number profiles were generated for a subgroup of 20 patients before and after treatment .
+RESULTS	A total of 108 patients were evaluable for efficacy and 118 for toxicity .
+RESULTS	The objective response rate determined by clinical palpation was 58.9 % ( 95 % CI = 45.0-71 .9 ) in the anastrozole arm and 53.8 % ( 95 % CI = 39.5-67 .8 ) in the fulvestrant arm .
+RESULTS	The breast-conserving surgery rate was 58.9 % ( 95 % CI = 45.0-71 .9 ) in the anastrozole arm and 50.0 % ( 95 % CI = 35.8-64 .2 ) in the fulvestrant arm .
+RESULTS	Pathological responses > 50 % occurred in 24 patients ( 42.9 % ) in the anastrozole arm and 13 ( 25.0 % ) in the fulvestrant arm .
+RESULTS	The Ki-67 score fell after treatment but there was no significant difference between the reduction in the two arms ( anastrozole 16.7 % ( 95 % CI = 13.3-21 .0 ) before , 3.2 % ( 95 % CI = 1.9-5 .5 ) after , n = 43 ; fulvestrant 17.1 % ( 95 % CI = 13.1-22 .5 ) before , 3.2 % ( 95 % CI = 1.8-5 .7 ) after , n = 38 ) or between the reduction in Ki-67 in clinical responders and non-responders .
+RESULTS	Genomic analysis appeared to show a reduction of clonal diversity following treatment with selection of some clones with simpler copy number profiles .
+CONCLUSIONS	Both anastrozole and fulvestrant were effective and well-tolerated , enabling breast-conserving surgery in over 50 % of patients .
+CONCLUSIONS	Clonal changes consistent with clonal selection by the treatment were seen in a subgroup of patients .
+

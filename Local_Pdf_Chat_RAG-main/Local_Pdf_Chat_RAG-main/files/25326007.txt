@@ -1,0 +1,18 @@
+25326007
+BACKGROUND	Patients ' reported opinions of the health system need to be understood in order to provide patient-centered care .
+BACKGROUND	We investigated determinants of women 's ratings of the quality of care during their most recent facility delivery .
+METHODS	We conducted a census of all deliveries in the 6 weeks to 12 months preceding the survey , in villages served by 24 primary care clinics in rural Pwani Region , Tanzania .
+METHODS	Women who had delivered children in a study facility were included in this analysis ( n = 855 ) .
+METHODS	We interviewed women about demographic and obstetric factors and the quality of their obstetric care using a structured questionnaire .
+METHODS	We created a composite index of perceived quality from six quality questions .
+METHODS	We also assessed the functioning of the local health clinic using structured surveys .
+METHODS	We used a multi-level model to analyze factors associated with women 's rating of the quality of care during delivery .
+RESULTS	14 % of respondents rated the overall quality of care received during delivery as excellent .
+RESULTS	Women who listened to the radio daily reported lower quality composite scores ( : -0.99 , p < 0.001 ) .
+RESULTS	Women who reported receiving more services in ANC had higher quality scores ( : 0.46 , p = 0.001 ) , as did women receiving more delivery services ( : 0.55 , p < 0.001 ) .
+RESULTS	Women who reported disrespect and abuse during delivery had significantly lower quality scores ( : -4.13 , p < 0.001 ) .
+CONCLUSIONS	A woman 's expectations and prior and current experiences influence her perception of the quality of care she received .
+CONCLUSIONS	Health facility characteristics did not influence ratings of overall quality .
+CONCLUSIONS	Focusing on improving the process rather than inputs of service delivery during ANC visits and delivery may increase perceived quality of delivery care in low-resource settings .
+BACKGROUND	ISRCTN17107760 .
+

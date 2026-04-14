@@ -1,0 +1,10 @@
+24275838
+OBJECTIVE	We investigated data in 373 patients from the EXPLOR trial to determine the influence of heart rate ( HR ) and blood pressure ( BP ) on aortic stiffness in response to beta-blockade or angiotensin 2 type 1 receptor antagonism , administered during 24 weeks .
+METHODS	Carotid-femoral pulse wave velocity ( PWV ) was measured with aplanation tonometry ( Sphygmocor ) after 8 ( W8 ) and 24 weeks ( W24 ) of treatment by the single-pill combination valsartan-amlodipine ( 80/5 mg , then 160/10 mg ) or an atenolol-amlodipine combination ( 50/5 mg , then 100/10 mg ) in a prospective , randomized , parallel-groups multicenter trial with PROBE design .
+METHODS	Drugs were up-titrated at W8 .
+METHODS	We analyzed the changes in PWV in relation with the changes in BP and HR , and major covariates , using mixed models in each treatment arm .
+RESULTS	The unadjusted reductions in mean BP and PWV were not significantly different between groups .
+RESULTS	HR was significantly reduced in the atenolol group , but not in the valsartan group .
+RESULTS	After adjustment on BP and HR , PWV significantly decreased with valsartan [ -0.37 m/s ( -0.70 to -0.08 ) at W8 and -0.43 ( -0.76 to -0.10 ) m/s at W24 ] , whereas no significant change was observed after atenolol [ -0.16 m/s ( -0.49 to 0.17 ) at W8 and -0.05 ( -0.35 to 0.44 ) m/s at W24 ] .
+CONCLUSIONS	These findings suggest that the reduction in PWV observed after atenolol could be explained by changes in BP and HR , whereas in patients treated by valsartan , about half of the decrease in aortic stiffness was BP-independent .
+

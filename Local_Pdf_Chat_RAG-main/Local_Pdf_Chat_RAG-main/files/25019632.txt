@@ -1,0 +1,14 @@
+25019632
+BACKGROUND	The application of internet technology for telerehabilitation in patients with stroke has developed rapidly .
+OBJECTIVE	The current study aimed to evaluate the effect of a bidirectional and multi-user telerehabilitation system on balance and satisfaction in patients with chronic stroke living in long-term care facilities ( LTCFs ) .
+METHODS	This pilot study used a multi-site , blocked randomization design .
+METHODS	Twenty-four participants from three LTCFs were recruited , and the participants were randomly assigned into the telerehabilitation ( Tele ) and conventional therapy ( Conv ) groups within each LTCF .
+METHODS	Tele group received telerehabilitation but the Conv group received conventional therapy with two persons in each group for three sessions per week and for four weeks .
+METHODS	The outcome measures included Berg Balance Scale ( BBS ) , Barthel Index ( BI ) , and the telerehabilitation satisfaction of the participants .
+METHODS	A telerehabilitation system included `` therapist end '' in a laboratory , and the `` client end '' in LTCFs .
+METHODS	The conventional therapy was conducted in LTCFs .
+RESULTS	Training programs conducted for both the Tele and Conv groups showed significant effects within groups on the participant BBS as well as the total and self-care scores of BI .
+RESULTS	No significant difference between groups could be demonstrated .
+RESULTS	The satisfaction of participants between the Tele and the Conv groups also did not show significant difference .
+CONCLUSIONS	This pilot study indicated that the multi-user telerehabilitation program is feasible for improving the balance and functional activity similar to conventional therapy in patients with chronic stroke living in LTCFs .
+

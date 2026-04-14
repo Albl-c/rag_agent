@@ -1,0 +1,14 @@
+24596458
+BACKGROUND	The purpose of this study was to assess the effectiveness of a multifactorial intervention to reduce falls among the oldest-old people , including individuals with cognitive impairment or comorbidities .
+METHODS	A randomized , single-blind , parallel-group clinical trial was conducted from January 2009 to December 2010 in seven primary health care centers in Baix Llobregat ( Barcelona ) .
+METHODS	Of 696 referred people who were born in 1924 , 328 were randomized to an intervention group or a control group .
+METHODS	The intervention model used an algorithm and was multifaceted for both patients and their primary care providers .
+METHODS	Primary outcomes were risk of falling and time until falls .
+METHODS	Data analyses were by intention-to-treat .
+RESULTS	Sixty-five ( 39.6 % ) subjects in the intervention group and 48 ( 29.3 % ) in the control group fell during follow-up .
+RESULTS	The difference in the risk of falls was not significant ( relative risk 1.28 , 95 % confidence interval [ CI ] 0.94-1 .75 ) .
+RESULTS	Cox regression models with time from randomization to the first fall were not significant .
+RESULTS	Cox models for recurrent falls showed that intervention had a negative effect ( hazard ratio [ HR ] 1.46 , 95 % CI 1.03-2 .09 ) and that functional impairment ( HR 1.42 , 95 % CI 0.97-2 .12 ) , previous falls ( HR 1.09 , 95 % CI 0.74-1 .60 ) , and cognitive impairment ( HR 1.08 , 95 % CI 0.72-1 .60 ) had no effect on the assessment .
+CONCLUSIONS	This multifactorial intervention among octogenarians , including individuals with cognitive impairment or comorbidities , did not result in a reduction in falls .
+CONCLUSIONS	A history of previous falls , disability , and cognitive impairment had no effect on the program among the community-dwelling subjects in this study .
+

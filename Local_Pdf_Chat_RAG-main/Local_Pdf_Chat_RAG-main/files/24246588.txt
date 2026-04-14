@@ -1,0 +1,19 @@
+24246588
+BACKGROUND	Family members of patients with coronary artery disease ( CAD ) have higher risk of vascular events .
+BACKGROUND	We conducted a trial to determine if a family heart-health intervention could reduce their risk of CAD .
+METHODS	We assessed coronary risk factors and randomized 426 family members of patients with CAD to a family heart-health intervention ( n = 211 ) or control ( n = 215 ) .
+METHODS	The intervention included feedback about risk factors , assistance with goal setting and counselling from health educators for 12 months .
+METHODS	Reports were sent to the primary care physicians of patients whose lipid levels and blood pressure exceeded threshold values .
+METHODS	All participants received printed materials about smoking cessation , healthy eating , weight management and physical activity ; the control group received only these materials .
+METHODS	The main outcomes ( ratio of total cholesterol to high-density lipoprotein [ HDL ] cholesterol ; physical activity ; fruit and vegetable consumption ) were assessed at 3 and 12 months .
+METHODS	We examined group and time effects using mixed models analyses with the baseline values as covariates .
+METHODS	The secondary outcomes were plasma lipid levels ( total cholesterol , low-density lipoprotein cholesterol , HDL cholesterol and triglycerides ) ; glucose level ; blood pressure ; smoking status ; waist circumference ; body mass index ; and the use of blood pressure , lipid-lowering and smoking cessation medications .
+RESULTS	We found no effect of the intervention on the ratio of total cholesterol to HDL cholesterol .
+RESULTS	However , participants in the intervention group reported consuming more fruit and vegetables ( 1.2 servings per day more after 3 mo and 0.8 servings at 12 mo ; p < 0.001 ) .
+RESULTS	There was a significant group by time interaction for physical activity ( p = 0.03 ) .
+RESULTS	At 3 months , those in the intervention group reported 65.8 more minutes of physical activity per week ( 95 % confidence interval [ CI ] 47.0-84 .7 min ) .
+RESULTS	At 12 months , participants in the intervention group reported 23.9 more minutes each week ( 95 % CI 3.9-44 .0 min ) .
+CONCLUSIONS	A health educator-led heart-health intervention did not improve the ratio of total cholesterol to HDL cholesterol but did increase reported physical activity and fruit and vegetable consumption among family members of patients with CAD .
+CONCLUSIONS	Hospitalization of a spouse , sibling or parent is an opportunity to improve cardiovascular health among other family members .
+BACKGROUND	clinicaltrials.gov , no NCT00552591 .
+

@@ -1,0 +1,16 @@
+24330605
+BACKGROUND	Lactose intolerance ( LI ) is a common medical problem with limited treatment options .
+BACKGROUND	The primary symptoms are abdominal pain , diarrhea , bloating , flatulence , and cramping .
+BACKGROUND	Limiting dairy foods to reduce symptoms contributes to low calcium intake and the risk for chronic disease .
+BACKGROUND	Adaptation of the colon bacteria to effectively metabolize lactose is a novel and potentially useful approach to improve lactose digestion and tolerance .
+BACKGROUND	RP-G28 is novel galacto-oligosaccharide ( GOS ) being investigated to improve lactose digestion and the symptoms of lactose intolerance in affected patients .
+METHODS	A randomized , double-blind , parallel group , placebo-controlled study was conducted at 2 sites in the United States .
+METHODS	RP-G28 or placebo was administered to 85 patients with LI for 35 days .
+METHODS	Post-treatment , subjects reintroduced dairy into their daily diets and were followed for 30 additional days to evaluate lactose digestion as measured by hydrogen production and symptom improvements via a patient-reported symptom assessment instrument .
+RESULTS	Lactose digestion and symptoms of LI trended toward improvement on RP-G28 at the end of treatment and 30 days post-treatment .
+RESULTS	A reduction in abdominal pain was also demonstrated in the study results .
+RESULTS	Fifty percent of RP-G28 subjects with abdominal pain at baseline reported no abdominal pain at the end of treatment and 30 days post treatment ( p = 0.0190 ) .
+RESULTS	RP-G28 subjects were also six times more likely to claim lactose tolerance post-treatment once dairy foods had been re-introduced into their diets ( p = 0.0389 ) .
+CONCLUSIONS	Efficacy trends and favorable safety/tolerability findings suggest that RP-G28 appears to be a potentially useful approach for improving lactose digestion and LI symptoms .
+CONCLUSIONS	The concurrent reduction in abdominal pain and improved overall tolerance could be a meaningful benefit to lactose intolerant individuals .
+

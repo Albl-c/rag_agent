@@ -1,0 +1,13 @@
+25294097
+OBJECTIVE	To investigate how suppression of endogenous testosterone during an 8-week strength training period influences the activity of satellite cells and myonuclei .
+METHODS	Twenty-two moderately trained young men participated in this randomized , placebo-controlled , and double-blinded intervention study .
+METHODS	The participants were randomized to treatment with a GnRH analogue , goserelin ( n = 12 ) , which suppresses testosterone or placebo ( n = 10 ) for 12 weeks .
+METHODS	The strength training period of 8 weeks started after 4 weeks of treatment and included exercises for all major muscles .
+METHODS	Biopsies were obtained from the mid-portion of the vastus lateralis muscle .
+RESULTS	Testosterone resting level in goserelin was 10-20 times lower compared with placebo , and the training-induced increase in the level of testosterone was abolished in goserelin .
+RESULTS	Training increased satellite cells number in type II fibres by 20 % in placebo and by 52 % in goserelin ( P < 0.01 ) , whereas the myonuclear number significantly increased by 12 % in type II fibres in placebo and remained unchanged in goserelin ( P < 0.05 ) .
+RESULTS	No changes in satellite cells and myonuclei were seen in type I fibres in either group .
+RESULTS	Data from the microarray analysis indicated that low testosterone affects the bone morphogenetic proteins signalling , which might regulate proliferation vs. differentiation of satellite cells .
+CONCLUSIONS	Eight weeks of strength training enhances the myonuclear number in type II fibres , and this is largely blocked by the suppression of testosterone .
+CONCLUSIONS	The data indicate that low testosterone levels could reduce the differentiation of satellite cells to myonuclei via the bone morphogenetic proteins signalling pathway , resulting in reduced increases in lean leg mass .
+

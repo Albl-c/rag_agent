@@ -1,0 +1,10 @@
+24273930
+BACKGROUND	Advanced type 2 diabetes mellitus ( T2DM ) needing insulin therapy is common .
+BACKGROUND	Most conventional anti-hyperglycemic drugs have limited efficacies and significant side effects , so that better anti-hyperglycemic agents are needed .
+BACKGROUND	Urtica dioica L. ( nettle ) leaves have insulin secretagogue , PPARgamma agonistic , and alpha-glucosidase inhibitory effects .
+BACKGROUND	Moreover , nettle leaves are used in traditional medicine as an anti-hyperglycemic agent to treat diabetes mellitus .
+BACKGROUND	Thus , efficacy and safety of nettle in the treatment of patients with advanced type 2 diabetes mellitus needing insulin were studied .
+METHODS	In this randomized double-blind placebo-controlled clinical trial , we evaluated the effects of taking nettle leaf extract ( one 500 mg capsule every 8 hours for 3 months ) combined with the conventional oral anti-hyperglycemic drugs on the blood levels of fasting glucose , postprandial glucose , glycosylated hemoglobin ( HbA1c ) , creatinine and liver enzymes SGOT and SGPT , and systolic and diastolic blood pressures in 46 patients and compared with the placebo group ( n = 46 ) .
+RESULTS	At the endpoint , the extract lowered the blood levels of fasting glucose , 2 hours postprandial glucose , and HbA1c significantly ( p < 0.001 , p = 0.009 , and p = 0.006 , respectively ) without any significant effects on the other parameters ( p > 0.05 ) compared with placebo .
+CONCLUSIONS	Nettle may safely improve glycemic control in type 2 diabetic patients needing insulin therapy .
+

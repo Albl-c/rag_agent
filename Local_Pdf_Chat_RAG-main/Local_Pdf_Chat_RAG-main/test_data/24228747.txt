@@ -1,0 +1,21 @@
+24228747
+BACKGROUND	Because of symptoms , people with lumbar spinal stenosis ( LSS ) are often inactive , and this sedentary behaviour implies risk for diseases including obesity .
+BACKGROUND	Research has identified body mass index as the most powerful predictor of function in LSS .
+BACKGROUND	This suggests that function may be improved by targeting weight as a modifiable factor .
+BACKGROUND	An e-health lifestyle intervention was developed aimed at reducing fat mass and increasing physical activity in people with LSS .
+BACKGROUND	The main components of this intervention include pedometer-based physical activity promotion and nutrition education .
+METHODS	The Spinal Stenosis Pedometer and Nutrition Lifestyle INTERVENTION ( SSPANLI ) was developed and piloted with 10 individuals .
+METHODS	The protocol for a randomized controlled trail comparing the SSPANLI intervention to usual non-surgical care follows .
+METHODS	One hundred six ( 106 ) overweight or obese individuals with LSS will be recruited .
+METHODS	Baseline and follow-up testing includes dual energy x-ray absorptiometry , blood draw , 3-day food record , 7-day accelerometry , questionnaire , maximal oxygen consumption , neurological exam , balance testing and a Self-Paced Walking Test .
+METHODS	During Week 1 , the intervention group will receive a pedometer , and a personalized consultation with both a Dietitian and an exercise specialist .
+METHODS	For 12 weeks participants will log on to the e-health website to access personal step goals , walking maps , nutrition videos , and motivational quotes .
+METHODS	Participants will also have access to in-person Coffee Talk meetings every 3 weeks , and meet with the Dietitian and exercise specialist at week 6 .
+METHODS	The control group will proceed with usual care for the 12-week period .
+METHODS	Follow-up testing will occur at Weeks 13 and 24 .
+CONCLUSIONS	This lifestyle intervention has the potential to provide a unique , non-surgical management option for people with LSS .
+CONCLUSIONS	Through decreased fat mass and increased function , we may reduce risk for obesity , chronic diseases of inactivity , and pain .
+CONCLUSIONS	The use of e-health interventions provides an opportunity for patients to become more involved in managing their own health .
+CONCLUSIONS	Behaviour changes including increased physical activity , and improved dietary habits promote overall health and quality of life , and may decrease future health care needs in this population .
+BACKGROUND	Clinicaltrials.gov , NCT01902979 .
+

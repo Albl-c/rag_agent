@@ -1,0 +1,11 @@
+25239718
+BACKGROUND	Catheter-associated urinary tract infection ( CAUTI ) risk is directly related to duration of indwelling urinary catheters ( IUCs ) , rising beyond 2 days of catheterization .
+METHODS	We conducted a cluster randomized study in nonintensive care units of Nurses Improving Care for Healthsystem Elders ( NICHE ) hospitals .
+METHODS	Electronic surveillance data were used in an audit and feedback intervention for frontline nurses to reduce IUC duration .
+METHODS	Multivariable methods were used to identify the difference in average IUC duration and proportion of patients with IUC duration < 3 days between patients in an early intervention group and a delayed intervention group , adjusting for patient , unit , and hospital characteristics .
+RESULTS	A total of 24 units at 19 NICHE hospitals reported 13,499 adult patients with IUCs over 18 months .
+RESULTS	Early and delayed intervention groups had important baseline differences in IUC utilization .
+RESULTS	Use of evidence-based CAUTI prevention measures increased during study participation .
+RESULTS	In multivariable analysis , the average IUC duration and proportion of patients with IUC duration < 3 days were not improved in the early intervention group compared with the delayed intervention group .
+CONCLUSIONS	The impact of the audit and feedback intervention was not significant despite the uptake of evidence-based CAUTI prevention practices .
+

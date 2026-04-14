@@ -1,0 +1,15 @@
+25176289
+BACKGROUND	We hypothesized that in patients with stable coronary artery disease and stenosis , percutaneous coronary intervention ( PCI ) performed on the basis of the fractional flow reserve ( FFR ) would be superior to medical therapy .
+METHODS	In 1220 patients with stable coronary artery disease , we assessed the FFR in all stenoses that were visible on angiography .
+METHODS	Patients who had at least one stenosis with an FFR of 0.80 or less were randomly assigned to undergo FFR-guided PCI plus medical therapy or to receive medical therapy alone .
+METHODS	Patients in whom all stenoses had an FFR of more than 0.80 received medical therapy alone and were included in a registry .
+METHODS	The primary end point was a composite of death from any cause , nonfatal myocardial infarction , or urgent revascularization within 2 years .
+RESULTS	The rate of the primary end point was significantly lower in the PCI group than in the medical-therapy group ( 8.1 % vs. 19.5 % ; hazard ratio , 0.39 ; 95 % confidence interval [ CI ] , 0.26 to 0.57 ; P < 0.001 ) .
+RESULTS	This reduction was driven by a lower rate of urgent revascularization in the PCI group ( 4.0 % vs. 16.3 % ; hazard ratio , 0.23 ; 95 % CI , 0.14 to 0.38 ; P < 0.001 ) , with no significant between-group differences in the rates of death and myocardial infarction .
+RESULTS	Urgent revascularizations that were triggered by myocardial infarction or ischemic changes on electrocardiography were less frequent in the PCI group ( 3.4 % vs. 7.0 % , P = 0.01 ) .
+RESULTS	In a landmark analysis , the rate of death or myocardial infarction from 8 days to 2 years was lower in the PCI group than in the medical-therapy group ( 4.6 % vs. 8.0 % , P = 0.04 ) .
+RESULTS	Among registry patients , the rate of the primary end point was 9.0 % at 2 years .
+CONCLUSIONS	In patients with stable coronary artery disease , FFR-guided PCI , as compared with medical therapy alone , improved the outcome .
+CONCLUSIONS	Patients without ischemia had a favorable outcome with medical therapy alone .
+CONCLUSIONS	( Funded by St. Jude Medical ; FAME 2 ClinicalTrials.gov number , NCT01132495 . )
+

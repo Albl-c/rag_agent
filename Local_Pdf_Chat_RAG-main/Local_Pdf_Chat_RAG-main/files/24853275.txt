@@ -1,0 +1,15 @@
+24853275
+OBJECTIVE	Although transcatheter arterial chemoembolization ( TACE ) is the most common treatment option in patients with hepatocellular carcinoma ( HCC ) , its clinical benefits remain still controversial .
+OBJECTIVE	Since TACE induces hypoxic necrosis in tumors , hypoxia-inducible factor 1 ( HIF-1 ) could critically affect biology in residual tumors after TACE treatment and subsequent prognosis .
+OBJECTIVE	However , HIF-1 and its prognostic relevance in TACE have rarely been examined in human specimens .
+OBJECTIVE	In the current study , we investigated the prognosis and expression of genes regulated by HIF-1 in HCC patients receiving preoperative TACE for the first time .
+METHODS	In total , 35 patients with HCC ( 10 patients undergoing preoperative TACE ) were retrospectively studied .
+METHODS	The prognostic significance of TACE was analyzed using Kaplan-Meier and Cox regression models .
+METHODS	Protein levels of HIF-1 and mRNA levels of HIF-1-associated genes were examined using immunohistochemistry ( IHC ) and real-time RT-PCR , respectively .
+RESULTS	Preoperative TACE was significantly associated with increased 2-year recurrence rate ( 80 vs. 36 % , P = 0.00402 ) and shorter disease-free survival ( DFS ) time ( 11.9 vs. 35.7 months , P = 0.0182 ) .
+RESULTS	TACE was an independent prognostic factor for recurrence ( P = 0.007 ) and poor DFS ( P = 0.010 ) in a multivariate analysis .
+RESULTS	Immunohistochemical staining revealed in vivo activation of HIF-1 in human specimens treated with TACE .
+RESULTS	Notably , protein levels of HIF-1 were significantly increased in TACE tissues demonstrated by IHC .
+RESULTS	Transcriptional targets of HIF-1 showed mRNA expression patterns consistent with activation of HIF-1 in TACE tissues .
+CONCLUSIONS	Our findings collectively demonstrate that preoperative TACE confers poor prognosis in HCC patients through activation of HIF-1 .
+

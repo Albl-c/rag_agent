@@ -1,0 +1,11 @@
+24703319
+BACKGROUND	The prognostic utility of vascular endothelial growth factor A ( VEGF-A ) splice variants in patients with advanced breast cancer treated with bevacizumab has not been studied .
+METHODS	A total of 111 patients with metastatic breast cancer treated with weekly docetaxel or ixabepilone without bevacizumab ( cohort A ) and 100 treated with weekly paclitaxel and bevacizumab ( cohort B ) were studied .
+METHODS	Formalin-fixed tumors were macrodissected for reverse transcription quantitative polymerase chain reaction relative quantification of VEGF-A165 , -189 , and -206 isoforms spliced at exon 8 proximal splice site ( VEGF-Axxxa ) and at exon 8 distal splice site ( VEGF-Axxxb ) .
+RESULTS	For high VEGF-Axxxa , the hazard ratios ( HRs ) for progression were 1.08 ( P = .71 ) in non-bevacizumab-treated patients ( cohort A ) and 0.66 ( P = .22 ) in bevacizumab-treated patients ( cohort B ) , and the HRs for death were 1.45 ( P = .13 ) and 0.50 ( P = .049 ) , respectively .
+RESULTS	The interaction of VEGF-Axxxa with bevacizumab administration was significant ( P = .011 ) for overall survival ( OS ) .
+RESULTS	High tissue VEGF-Axxxb was not prognostic in cohort A but was predictive for bevacizumab benefit in cohort B ( HR for progression , 0.57 [ P = .04 ] ; HR for death , 0.51 [ P = .02 ] ) .
+RESULTS	Exploratory analyses done only in cohort B suggested that abundance of VEGFR1 messenger RNA ( mRNA ) in peripheral blood and low VEGFR2 mRNA in tissue correlated with poor outcome .
+RESULTS	In multivariate analysis , high tissue mRNA of angiogenic VEGF-Axxxa in the presence of bevacizumab therapy predicted for favorable progression-free survival ( HR for progression , 0.39 ; P = .0227 ) and OS ( HR for death , 0.32 ; P = .0140 ) .
+CONCLUSIONS	Tissue mRNA expression of angiogenic VEGF-Axxxa isoforms was retrospectively associated with adverse prognosis in the absence of bevacizumab and with favorable outcome when bevacizumab was administered in patients with advanced breast cancer .
+

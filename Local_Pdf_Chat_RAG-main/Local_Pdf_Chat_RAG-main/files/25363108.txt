@@ -1,0 +1,14 @@
+25363108
+OBJECTIVE	One of the most important challenges in public health is to improve the quality of life in elders .
+OBJECTIVE	Aging may cause various disorders such as disabilities , high risk conditions and some chronic disease .
+OBJECTIVE	In this study the effect of educational intervention based on precede-proceed on quality of life in elders was examined .
+METHODS	This semi experimental study was carried out on 128 elders over 60 years in Zahedan that were randomly selected by multi-stage sampling method and divided in to control and intervention groups .
+METHODS	Data collection tool was a triploid questionnaire that included demographic data , questions of precede-proceed constructs and SF-36 questionnaire .
+METHODS	The validity and reliability of questionnaire confirmed by experts and Cranach 's Alpha coefficient ( 76 % ) .
+METHODS	After primary data collecting , educational intervention was performed and after nine months data was collected again and analyzed in spss .16 soft-ware using descriptive and analytical statistics .
+RESULTS	The results showed that mean score of quality of life in participants was low and more than 61 % of them had a mean score less than 50 % .
+RESULTS	After intervention the mean score of quality of life only in experimental group significantly increased from 47.72 to 58.90 .
+RESULTS	Behavior and self-rated health were the strongest predictors for quality of life in this study .
+CONCLUSIONS	Implementation educational intervention based on precedes-proceed model can improve quality of life in elders .
+CONCLUSIONS	Elderly women and older elderly individuals compared with elderly men and younger elderly should be considering as an important risk factor for reducing HRQOL .
+

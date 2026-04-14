@@ -1,0 +1,16 @@
+26021224
+OBJECTIVE	To evaluate the influence of at least three abutment changes against the placement of a definitive abutment , which was no longer removed , on hard and soft tissue changes , and to compare the clinical outcomes of immediate non-occlusal loading versus conventional loading .
+METHODS	Eighty patients requiring one single crown or one fixed partial prosthesis supported by a maximum of three implants were randomised , after implants were placed with more than 35 Ncm , according to a parallel group design to receive definitive abutments which were loaded immediately ( definitive abutment or immediate loading group ) or transmucosal abutments which experienced delayed loading after 3 months and were removed at least three times : 1 ) during the making of the impression ( 3 months after implant placement ) ; 2 ) when checking the zirconium core of titanium abutments at single crowns or the fitting of the metal structure at prostheses supported by multiple implants ; 3 ) at delivery of the definitive prostheses ( repeated disconnection or conventional loading group ) .
+METHODS	Patients were treated in four centres and each patient contributed to the study with only one prosthesis followed for 4 months after initial loading .
+METHODS	Outcome measures were : prosthesis/implant failures , any complication , peri-implant marginal bone level changes , and patient satisfaction .
+RESULTS	Forty patients were randomly allocated to each group according to a parallel group design .
+RESULTS	No patient dropped-out and no implants failed .
+RESULTS	However four provisional prostheses and one definitive prosthesis had to be remade because of misfitting ( five single crowns ) in the repeated disconnection group ; and one provisional prosthesis had to be remade because of frequent debondings in the immediate loading group ( difference = 10 % ; 95 % CI : -1 % , 21 % ; P = 0.109 ) .
+RESULTS	Five complications ( all debondings of the provisional prostheses ) were reported in two patients of the immediate loading group , in comparison to three biological complications in three patients of the repeated disconnection group ( difference = 2 % ; 95 % CI : -8 % , 13 % ; P = 1 ) .
+RESULTS	All patients were very satisfied or satisfied with the function and aesthetics of the prostheses , and would undergo the same procedure again .
+RESULTS	Mean peri-implant marginal bone loss 4 months after loading was -0.08 ( 0.16 ) mm for the definitive abutment group and -0.09 ( 0.20 ) mm for the repeated abutment changes group ( difference = 0.01 ; 95 % CI : -0.07 , 0.09 ; P = 0.97 ) .
+RESULTS	There were no statistically significant differences for any of the outcome measures between the two procedures up to 4 months after initial loading .
+CONCLUSIONS	Preliminary short-term data ( 4-month post-loading ) showed that repeated abutment changes do not alter bone levels significantly .
+CONCLUSIONS	Immediate non-occlusal loading of dental implants are a viable alternative to conventional loading .
+CONCLUSIONS	Therefore clinicians can use the procedure they find more convenient for their specific patient .
+

@@ -1,0 +1,14 @@
+25233645
+OBJECTIVE	To compare the difference in clinical efficacy on post-stroke sensory disturbance between catgut implantation at scalp reflecting foci and conventional acupuncture as well as the impacts on blood rheology .
+METHODS	Fifty-nine cases of post-stroke sensory disturbance were randomized into a catgut implantation group ( 30 cases ) and an acupuncture group ( 29 cases ) .
+METHODS	The conventional internal medicine treatment , limb motor function rehabilitation training and sensory function training were applied in the two groups .
+METHODS	Additionally , the catgut implantation was used at scalp reflecting foci in the catgut implantation group , once a week , 4 treatment made one session .
+METHODS	In the acupuncture group , acupuncture was applied at Baihui ( GV 20 ) , Fengchi ( GB 20 ) , Jianyu ( LI 15 ) , Quchi ( LI 11 ) , Waiguan ( TE 5 ) , Hegu ( LI 4 ) , Siqiang ( EX-LE 24 ) , Yanglingquan ( GB 34 ) , Zusanli ( ST 36 ) , Fenglong ( ST 40 ) , Qiuxu ( GB 40 ) and Taichong ( LR 3 ) , once every day , 5 times a week , the 4 weeks of treatment made one session .
+METHODS	There was an interval of 1 week between the two sessions in the two groups .
+METHODS	Totally , 2 sessions of treatment were required .
+METHODS	Before and after treatment , the sensory and motor scores , modified barthel index ( MBI ) and blood rheological indices were observed , and the clinical efficacy was evaluated in the patients of the two groups .
+RESULTS	After 8 weeks of treatment , the total effective rate was 90.0 % ( 27/30 ) in the catgut implantation group , which was better than 65.5 % ( 19/29 ) in the acupuncture group ( P < 0.05 ) .
+RESULTS	FugI-Meyer motor function , sensory function scores and MBI were all improved as compared with those before treat ment in the two groups ( all P < 0.05 ) , and the results in the catgut implantation group was superior to the acu puncture group ( all P < 0.05 ) .
+RESULTS	The levels of whole blood viscosity , erythrocyte hematocrit , platelet aggregation and fibrinogen were improved as compared with those before treatment ( all P < 0.05 ) , and the results in the catgut implantation group was better than those in the acupuncture group ( all P < 0.05 ) .
+CONCLUSIONS	The catgut implantation at scalp reflecting foci achieves a satisfactory clinical efficacy on post-stroke sensory disturbance and improves the blood rheological indices .
+

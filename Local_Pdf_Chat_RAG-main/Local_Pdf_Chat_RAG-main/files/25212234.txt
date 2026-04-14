@@ -1,0 +1,13 @@
+25212234
+OBJECTIVE	Patients with acute coronary syndromes ( ACS ) display diffuse coronary atheroma instability and heightened risk of early and late recurrent coronary events .
+OBJECTIVE	We compared the long-term antiatherosclerotic efficacy of high-intensity statins in patients with ACS when compared with stable disease .
+RESULTS	Study of Coronary Atheroma by Intravascular Ultrasound : Effect of Rosuvastatin Versus Atorvastatin ( SATURN ) used serial intravascular ultrasound measures of coronary atheroma volume in patients treated with rosuvastatin 40 mg or atorvastatin 80 mg for 24 months .
+RESULTS	The overall effect of high-intensity statins on the change in coronary percent atheroma volume and major adverse cardiovascular events ( death/nonfatal myocardial infarction/coronary revascularization ) were evaluated in this post hoc analysis .
+RESULTS	When compared with non-ACS patients ( n = 678 ) , patients with ACS ( n = 361 ) were younger , actively smoking , and have had a previous myocardial infarction ( all P < 0.001 ) .
+RESULTS	At baseline , patients with ACS exhibited lower high-density lipoprotein cholesterol ( 43.511 versus 45.811 mg/dL ; P = 0.002 ) , a higher apolipoprotein B : apolipoprotein A-1 ratio ( 0.900.24 versus 0.830.24 ; P < 0.001 ) and greater percent atheroma volume ( 37.38.5 % versus 35.98.1 % ; P = 0.01 ) when compared with non-ACS patients .
+RESULTS	Despite similar achieved levels of lipid and inflammatory markers after high-intensity statin therapy , patients with ACS demonstrated greater percent atheroma volume regression than non-ACS patients ( -1.460.14 versus -0.890.13 ; P = 0.003 ) .
+RESULTS	After propensity-weighted multivariable adjustment , baseline percent atheroma volume ( P < 0.001 ) and an ACS clinical presentation ( P = 0.02 ) independently associated with plaque regression .
+RESULTS	The 24-month major adverse cardiovascular events-free survival was similar between patients with ACS and non-ACS ( 90.6 versus 92.9 % ; P = 0.25 ) .
+CONCLUSIONS	Long-term high-intensity statin therapy caused greater plaque regression and comparable major adverse cardiovascular events rates in ACS when compared with non-ACS patients .
+CONCLUSIONS	Despite a higher clinical risk profile , patients with ACS harbor a more modifiable disease substrate and seem to benefit the most from potent statin therapy .
+

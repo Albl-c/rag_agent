@@ -1,0 +1,17 @@
+24815101
+OBJECTIVE	To assess the side effects unrelated to disease activity and the acceptability of combined oral contraceptives ( COCs ) , progestin-only pills ( POPs ) and copper-releasing intrauterine devices ( IUDs ) in women with systemic lupus erythematosus ( SLE ) .
+METHODS	A randomized clinical trial including 162 women with SLE , assigned to COC ( n = 54 ) , POP ( n = 54 ) or IUD ( n = 54 ) .
+METHODS	Follow-up visits were conducted after 1 , 2 , 3 , 6 , 9 and 12 months of treatment to monitor the presence of symptoms , changes in body weight and blood pressure as well as the development of health problems other than those relating to lupus .
+METHODS	Reasons for discontinuation and satisfaction with the use of the assigned method were recorded at the end of treatment .
+METHODS	Statistical analysis included descriptive statistics , repeated measure analyses and Kaplan-Meier curves .
+RESULTS	Significantly different discontinuation rates due to any reason [ 35 % , 55 % , 29 % ( p < 0.01 ) ] or nonmedical reasons [ ( 11 % , 31 % , 4 % ( p < 0.05 ) ] were observed among the COC , POP and IUD groups .
+RESULTS	Nausea was most frequent among COC users , dysmenorrhea among IUD users and acne and hirsutism among POP users .
+RESULTS	Mean blood pressures remained unchanged .
+RESULTS	Mild increases in body weight were observed over time in all treatment groups .
+RESULTS	Most women were satisfied with the use of the assigned contraceptive method .
+CONCLUSIONS	Oral contraceptives and IUD are acceptable birth control methods for patients with lupus , when counseling and specialized health attention are provided ; however , the acceptability of POP appears to be inferior .
+CONCLUSIONS	Side effects unrelated to lupus disease activity are not frequent reasons to discontinue the contraceptive methods .
+CONCLUSIONS	This study delves into an area that has not been explored among patients with lupus .
+CONCLUSIONS	Our findings on the associated side effects and reasons for discontinuing COCs , POPs or copper-bearing IUDs may be useful in improving contraceptive counseling for women with lupus .
+CONCLUSIONS	Furthermore , they also heighten our knowledge on the reasons that may preclude the widespread use of effective contraceptives among lupus patients .
+

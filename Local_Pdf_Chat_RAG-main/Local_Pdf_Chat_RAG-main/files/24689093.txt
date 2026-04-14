@@ -1,0 +1,17 @@
+24689093
+OBJECTIVE	Both unsedated transoral endoscopy ( TOE ) and sedated TOE have some drawbacks in clinical practice .
+OBJECTIVE	Unsedated transnasal endoscopy ( TNE ) has been suggested as an alternative to both methods .
+OBJECTIVE	This study aimed to determine the advantages of TNE in patients who have previously undergone unsedated conventional TOE .
+METHODS	Patients who had received an unsedated TOE in the last 12 months and were scheduled for a second upper endoscopy were included .
+METHODS	They were randomized to undergo either unsedated TOE , using a standard endoscope , or unsedated TNE , using an ultrathin endoscope .
+METHODS	Post-procedure , patients were asked to complete a questionnaire to assess pain , discomfort and acceptability of the procedure , and to compare the current procedure with their previous unsedated TOE .
+METHODS	Endoscope insertion rate , procedure duration , and side-effects were recorded .
+RESULTS	Each group included 50 patients .
+RESULTS	With the exception of nasal pain , the tolerability and acceptance were significantly greater in the unsedated TNE group .
+RESULTS	Significantly more TNE patients ( 82 % ) found the current endoscopic procedure to be better than their previous TOE when compared with patients who had received a second TOE ( 12 % ) .
+RESULTS	A repeat procedure was significantly more acceptable for TNE patients when compared to the TOE group ( 68 % vs. 16 % ) .
+RESULTS	The duration of endoscopy was significantly shorter in TOE than in TNE ( p < 0.05 ) .
+RESULTS	Endoscope insertion failed in 4 % and mild epistaxis was observed in 4 % of TNE patients .
+CONCLUSIONS	Unsedated TNE was better tolerated in endoscopy experienced patients when compared with unsedated TOE .
+CONCLUSIONS	The majority of patients found TNE more acceptable and preferable to TOE , suggesting that TNE should become a more common practice in clinics when applicable .
+

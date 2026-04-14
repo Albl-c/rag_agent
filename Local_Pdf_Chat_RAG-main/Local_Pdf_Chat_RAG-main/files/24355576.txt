@@ -1,0 +1,14 @@
+24355576
+OBJECTIVE	The aims of the study were to evaluate the long-term effects of a home-based smoking prevention program ` Smoke-free Kids ' during preadolescence on smoking initiation during adolescence and to test the potential moderating role of parental smoking , socioeconomic status , and asthma .
+METHODS	In 2008 , 1478 9-11year old children and their mothers were recruited from 418 elementary schools in the Netherlands .
+METHODS	An independent statistician randomly allocated schools to one of the two conditions using a 1:1 ratio ( single blind ) : 728 children in the intervention and 750 in the control condition .
+METHODS	The intervention condition received five activity modules , including a communication sheet for mothers , by mail at four-week intervals and one booster module one year after baseline .
+METHODS	The control condition received a fact-based intervention only .
+METHODS	Intention-to-treat analysis was performed on 1398 non-smoking children at baseline .
+RESULTS	In the intervention 10.8 % of the children started smoking compared to 12 % in the control condition .
+RESULTS	This difference was non-significant ( odds ratio = 0.90 , 95 % confidence interval = 0.63-1 .27 ) .
+RESULTS	No moderating effects were found .
+CONCLUSIONS	No effects on smoking initiation after 36months were found .
+CONCLUSIONS	Perhaps , the program was implemented with children that were too young .
+CONCLUSIONS	Programs closer to the age of smoking onset should be tested .
+

@@ -1,0 +1,15 @@
+25188403
+OBJECTIVE	To investigate the effects of inhaler device technique education on improving inhaler technique in older people with asthma .
+METHODS	In a randomised controlled trial , device technique education was provided to a sample of 123 adults aged > 55 years who had a doctor diagnosis of asthma .
+METHODS	The active education group received one-on-one technique coaching , including observation , verbal instruction and physical demonstration at baseline .
+METHODS	The passive group received a device-specific instruction pamphlet only .
+METHODS	Inhaler technique , including the critical steps for each device type , was assessed and scored according to Australian National Asthma Council ( NAC ) guidelines .
+METHODS	Device technique was scored objectively at baseline and again at 3 and 12 months post education .
+RESULTS	The majority of participants demonstrated poor technique at baseline .
+RESULTS	Only 11 ( 21 % ) of the active intervention group and 7 ( 16 % ) of the passive group demonstrated 100 % correct technique .
+RESULTS	By 3 months 26 ( 48 % ) of the active group achieved adequate technique .
+RESULTS	Improvement in technique was observed in the active group at 3 months ( P < 0.001 ) and remained significant at 12 months ( P < 0.001 ) .
+RESULTS	No statistically significant improvement was observed in the passive group .
+CONCLUSIONS	The provision of active device technique education improves device technique in older adults .
+CONCLUSIONS	Passive education alone fails to achieve any improvement in device technique .
+

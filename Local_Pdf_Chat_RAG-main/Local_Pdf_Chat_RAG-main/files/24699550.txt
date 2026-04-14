@@ -1,0 +1,10 @@
+24699550
+OBJECTIVE	We aimed to investigate the effects of verapamil and adenosine in an adjunct to intravenous tirofiban on management and prognosis of no-reflow phenomenon during primary percutaneous coronary intervention ( PPCI ) and to compare their efficacies on reversing of no-reflow phenomenon and short and midterm survival .
+METHODS	We included 46 patients with acute ST-segment elevation myocardial infarction ( STEMI ) and occurrence of no-reflow phenomenon after PPCI .
+METHODS	All patients received intravenous tirofiban and then randomized into one of the following 3 groups : intracoronary adenosine ( N. = 16 ) , intracoronary verapamil ( N. = 15 ) or placebo ( N. = 15 ) .
+RESULTS	Intracoronary verapamil therapy had significant effect in restoring impaired coronary blood flow by decreasing thrombolysis in myocardial infarction ( TIMI ) frame count from 7344 to 5248 ( P = 0.024 ) .
+RESULTS	However , adenosine and serum physiologic administration were not found to be so effective in decreasing TIMI frame count ( from 8135 to 7146 , P = 0.084 ; from 7432 to 7137 , P = 0.612 , respectively ) .
+RESULTS	In-hospital and 6-month survival rates were similar among groups .
+CONCLUSIONS	In conclusion , intracoronary verapamil restored the impaired coronary blood flow more effectively than adenosine or placebo .
+CONCLUSIONS	However , none of them has changed the clinical course in the first 6 months .
+

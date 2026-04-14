@@ -1,0 +1,12 @@
+24399101
+OBJECTIVE	To evaluate the efficacy of 2 computer attention training systems administered in school for children with attention-deficit hyperactivity disorder ( ADHD ) .
+METHODS	Children in second and fourth grade with a diagnosis of ADHD ( n = 104 ) were randomly assigned to neurofeedback ( NF ) ( n = 34 ) , cognitive training ( CT ) ( n = 34 ) , or control ( n = 36 ) conditions .
+METHODS	A 2-point growth model assessed change from pre-post intervention on parent reports ( Conners 3-Parent [ Conners 3-P ] ; Behavior Rating Inventory of Executive Function [ BRIEF ] rating scale ) , teacher reports ( Swanson , Kotkin , Agler , M-Flynn and Pelham scale [ SKAMP ] ; Conners 3-Teacher [ Conners 3-T ] ) , and systematic classroom observations ( Behavioral Observation of Students in Schools [ BOSS ] ) .
+METHODS	Paired t tests and an analysis of covariance assessed change in medication .
+RESULTS	Children who received NF showed significant improvement compared with those in the control condition on the Conners 3-P Attention , Executive Functioning and Global Index , on all BRIEF summary indices , and on BOSS motor/verbal off-task behavior .
+RESULTS	Children who received CT showed no improvement compared to the control condition .
+RESULTS	Children in the NF condition showed significant improvements compared to those in the CT condition on Conners 3-P Executive Functioning , all BRIEF summary indices , SKAMP Attention , and Conners 3-T Inattention subscales .
+RESULTS	Stimulant medication dosage in methylphenidate equivalencies significantly increased for children in the CT ( 8.54 mg ) and control ( 7.05 mg ) conditions but not for those in the NF condition ( 0.29 mg ) .
+CONCLUSIONS	Neurofeedback made greater improvements in ADHD symptoms compared to both the control and CT conditions .
+CONCLUSIONS	Thus , NF is a promising attention training treatment intervention for children with ADHD .
+

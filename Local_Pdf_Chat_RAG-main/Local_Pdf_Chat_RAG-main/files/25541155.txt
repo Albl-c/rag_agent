@@ -1,0 +1,10 @@
+25541155
+BACKGROUND	This study evaluates persistence and severity of docetaxel-induced neuropathy ( peripheral neuropathy ( PN ) ) and impact on health related quality of life in survivors from early-stage breast cancer .
+METHODS	One thousand and thirty-one patients with early-stage breast cancer , who received at least one cycle of docetaxel and provided information on PN during treatment , completed questionnaires on PN as an outcome ( Common Toxicity Criteria ( CTC ) scores , European Organisation for Research and Treatment of Cancer Chemotherapy-Induced Peripheral Neuropathy 20 ( EORTC CIPN20 ) and EORTC Quality of Life Questionnaire ( QLQ ) - C30 ) after 1-3years .
+RESULTS	Upon completion of docetaxel treatment , 241 patients ( 23 % ) reported PN , grades 2-4 .
+RESULTS	PN persisted for 1-3years among 81 ( 34 % ) while PN regressed to grades 0-1 among 160 ( 66 % ) .
+RESULTS	Among 790 patients ( 77 % ) without PN , 76 ( 10 % ) developed PN 1-3years later while 714 ( 90 % ) stayed free from PN .
+RESULTS	Significant risk factors for persistent PN were age 55 ( p = 0.001 ) , maximum grade of PN during docetaxel treatment ( p < 0.0001 ) , persistent muscle and joint pain ( p < 0.0001 ) , stomatitis ( p = 0.047 ) and fatigue ( p = 0.001 ) .
+RESULTS	Persistent PN had a significant negative correlation with health-related quality of life ( HRQOL ) , functional scales and symptom scales .
+CONCLUSIONS	Overall , 15 % of breast cancer survivors treated with docetaxel report PN 1-3years after treatment with a significant negative impact on HRQOL .
+

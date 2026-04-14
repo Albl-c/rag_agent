@@ -1,0 +1,9 @@
+24721289
+BACKGROUND	Advertising has been implicated in the declining quality of the American diet , but much of the research has been conducted with children rather than adults .
+BACKGROUND	This study tested the effects of televised food advertising on adult food choice .
+METHODS	Participants ( N = 351 ) were randomized into one of 4 experimental conditions : exposure to food advertising vs. exposure to non-food advertising , and within each of these groups , exposure to a task that was either cognitively demanding or not cognitively demanding .
+METHODS	The number of unhealthy snacks chosen was subsequently measured , along with total calories of the snacks chosen .
+RESULTS	Those exposed to food advertising chose 28 % more unhealthy snacks than those exposed to non-food-advertising ( 95 % CI : 7 % - 53 % ) , with a total caloric value that was 65 kcal higher ( 95 % CI : 10-121 ) .
+RESULTS	The effect of advertising was not significant among those assigned to the low-cognitive-load group , but was large and significant among those assigned to the high-cognitive-load group : 43 % more unhealthy snacks ( 95 % CI : 11 % - 85 % ) and 94 more total calories ( 95 % CI : 19-169 ) .
+CONCLUSIONS	Televised food advertising has strong effects on individual food choice , and these effects are magnified when individuals are cognitively occupied by other tasks .
+

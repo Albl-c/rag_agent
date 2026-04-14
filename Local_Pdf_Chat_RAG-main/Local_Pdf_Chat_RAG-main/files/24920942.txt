@@ -1,0 +1,16 @@
+24920942
+BACKGROUND	Prophylactic fluid preloading before spinal anesthesia has been a routine procedure to prevent maternal hypotension during cesarean delivery .
+BACKGROUND	Unlike colloid , timing of infusion of crystalloid may be important because of its short stay in intravascular space .
+BACKGROUND	We hypothesized that crystalloid loading just after intrathecal injection compared to preload would be more effective in preventing maternal hypotension .
+METHODS	In this prospective controlled study , sixty parturients were randomized to receive 15ml/kg of crystalloid before ( preload group ) or after ( coload group ) intrathecal drug injection for spinal anesthesia .
+METHODS	Hypotension was defined if systolic arterial pressure decreased below 80 % of baseline and ephedrine was administered to treat hypotension .
+METHODS	The incidence of hypotension and the total dose of ephedrine were checked .
+METHODS	Blood pressure , heart rate and nausea before childbirth were assessed .
+METHODS	Neonatal outcomes were evaluated with Apgar scores and umbilical blood gas analysis .
+RESULTS	The incidence of hypotension was lower in the coload group compared to the preload group ( 53 % vs. 83 % , P = 0.026 ) .
+RESULTS	The blood pressure showed the bigger drop during spinal anesthesia in the preload group ( 3413 vs. 2510mmHg , P = 0.002 ) and smaller dose of ephedrine was required in the coload group ( 7.5 [ 0-30 ] vs. 15 [ 0-40 ] mg , P = 0.015 ) .
+RESULTS	The incidence of nausea was also lower in the coload group ( 27 % vs. 60 % , P = 0.019 ) .
+RESULTS	Neonatal outcome measures were comparable between two groups .
+CONCLUSIONS	In case of using crystalloids for cesarean delivery , coload is more effective than preload for the prevention of maternal hypotension after spinal anesthesia .
+BACKGROUND	Clinical Research Information Service KCT0000324 ( Jan 12 ( th ) , 2012 ) .
+

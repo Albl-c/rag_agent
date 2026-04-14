@@ -1,0 +1,11 @@
+25544955
+OBJECTIVE	This study aimed to compare the effects of different local anesthetic solutions on postoperative pain of anal surgery in adult patients .
+METHODS	In this randomized double-blind prospective clinical trial , 60 adult patients ( 18 to 60 years old ) with physical status class I and class II that had been brought to a university hospital operating room for fistula anal surgery with spinal anesthesia were selected .
+METHODS	Patients were randomly divided into 4 equal groups according to table of random numbers ( created by Random Allocation Software 1 ) .
+METHODS	Group 1 received 3 mL of normal saline , group 2 , 1 mL of normal saline plus 2 mL of bupivacaine 0.5 % , group 3 , 1 mL of ketamine plus 2 mL of bupivacaine 0.5 % , and group 4 , no infiltration .
+METHODS	Intensity of pain in patients was measured using visual analogue scale ( VAS ) at 0 ( transfer to ward ) , 2 , 6 , 12 , and 24 hours after surgery .
+METHODS	Time interval to administration of drugs and overall dose of drugs were measured in 4 groups .
+RESULTS	Mean level of pain was the lowest in group 3 at all occasions with a significant difference , followed by groups 2 , 4 , and lastly 1 ( P < 0.001 ) .
+RESULTS	Furthermore , groups 2 and 3 compared to groups 1 and 4 had the least overall dose of analgesics and requested them the latest , with a significant difference ( P < 0.05 ) .
+CONCLUSIONS	Local anesthesia ( 1 mL of ketamine plus 2 mL of bupivacaine 0.5 % or 1 mL of normal saline plus 2 mL of bupivacaine 0.5 % ) combined with spinal anesthesia reduces postoperative pain and leads to greater comfort in recovering patients .
+

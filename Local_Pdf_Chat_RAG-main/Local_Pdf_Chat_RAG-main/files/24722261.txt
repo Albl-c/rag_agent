@@ -1,0 +1,20 @@
+24722261
+BACKGROUND	Antifibrinolytics have been used for 2 decades to reduce bleeding in cardiac surgery .
+BACKGROUND	MDCO-2010 is a novel , synthetic , serine protease inhibitor .
+BACKGROUND	We describe the first experience with this drug in patients .
+METHODS	In this phase II , double-blind , placebo-controlled study , 32 patients undergoing isolated primary coronary artery bypass grafting with cardiopulmonary bypass were randomly assigned to 1 of 5 increasing dosage groups of MDCO-2010 .
+METHODS	The primary aim was to evaluate pharmacokinetics ( PK ) with assessment of plasmatic concentrations of the drug , short-term safety , and tolerance of MDCO-2010 .
+METHODS	Secondary end points were influence on coagulation , chest tube drainage , and transfusion requirements .
+RESULTS	PK analysis showed linear dosage-proportional correlation between MDCO-2010 infusion rate and PK parameters .
+RESULTS	Blood loss was significantly reduced in the 3 highest dosage groups compared with control ( P = 0.002 , 0.004 and 0.011 , respectively ) .
+RESULTS	The incidence of allogeneic blood product transfusions was lower with MDCO-2010 4/24 ( 17 % ) vs 4/8 ( 50 % ) in the control group .
+RESULTS	MDCO-2010 exhibited dosage-dependent antifibrinolytic effects through suppression of D-dimer generation and inhibition of tissue plasminogen activator-induced lysis in ROTEM analysis as well as anticoagulant effects demonstrated by prolongation of activated clotting time and activated partial thromboplastin time .
+RESULTS	No systematic differences in markers of end organ function were observed among treatment groups .
+RESULTS	Three patients in the MDCO-2010 groups experienced serious adverse events .
+RESULTS	One patient experienced intraoperative thrombosis of venous grafts considered possibly related to the study drug .
+RESULTS	No reexploration for mediastinal bleeding was required , and there were no deaths .
+CONCLUSIONS	This first-in-patient study demonstrated dosage-proportional PK for MDCO-2010 and reduction of chest tube drainage and transfusions in patients undergoing primary coronary artery bypass grafting .
+CONCLUSIONS	Antifibrinolytic and anticoagulant effects were demonstrated using various markers of coagulation .
+CONCLUSIONS	MDCO-2010 was well tolerated and showed an acceptable initial safety profile .
+CONCLUSIONS	Larger multi-institutional studies are warranted to further investigate the safety and efficacy of this compound .
+

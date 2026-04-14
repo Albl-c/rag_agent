@@ -1,0 +1,12 @@
+24738933
+OBJECTIVE	Excessive menstrual bleeding , the most common complication caused by intrauterine devices ( IUDs ) , often leads to discontinuation of use .
+OBJECTIVE	Our study investigates the effect of vitamin B1 on menstrual bleeding and spotting after insertion of the TCu380A IUD .
+METHODS	This double-blind , randomised controlled trial involved 110 Iranian women .
+METHODS	We recruited women who noted that their menstrual flow ( duration , amount , and number of sanitary pads needed ) or intermenstrual spotting had increased one month after the insertion of a TCu380A , and randomly assigned them to two groups .
+METHODS	The intervention group and the control group received 100 mg of vitamin B1 or a placebo , respectively , daily , for three months .
+METHODS	We followed all participants for four months .
+METHODS	The Higham scale was used for estimating the volume of menstrual bleeding .
+METHODS	The Mann-Whitney test , paired t-test , independent t-test and Repeated Measure test were used for statistical purposes .
+RESULTS	In the intervention group the duration of menstrual bleeding , the number of sanitary pads and the amount of spotting decreased significantly compared to the control group ( p < 0.001 ) .
+CONCLUSIONS	Vitamin B1 is a safe , natural and cost-effective supplement that is devoid of side effects and reduces menstrual bleeding and spotting caused by a copper bearing-IUD .
+

@@ -1,0 +1,10 @@
+24531203
+OBJECTIVE	We tested the hypothesis that higher-intensity interval training ( HIIT ) could be deployed into a standard cardiac rehabilitation ( CR ) setting and would result in a greater increase in cardiorespiratory fitness ( ie , peak oxygen uptake , ( ) VO ) versus moderate-intensity continuous training ( MCT ) .
+METHODS	Thirty-nine patients participating in a standard phase 2 CR program were randomized to HIIT or MCT ; 15 patients and 13 patients in the HIIT and MCT groups , respectively , completed CR and baseline and followup cardiopulmonary exercise testing .
+RESULTS	No patients in either study group experienced an event that required hospitalization during or within 3 hours after exercise .
+RESULTS	The changes in resting heart rate and blood pressure at followup testing were similar for both HIIT and MCT .
+RESULTS	( ) VO at ventilatory-derived anaerobic threshold increased more ( P < .05 ) with HIIT ( 3.0 2.8 mLkgmin ) versus MCT ( 0.7 2.2 mLkgmin ) .
+RESULTS	During followup testing , submaximal heart rate at the end of stage 2 of the exercise test was significantly lower within both the HIIT and MCT groups , with no difference noted between groups .
+RESULTS	Peak ( ) VO improved more after CR in patients in HIIT versus MCT ( 3.6 3.1 mLkgmin vs 1.7 1.7 mLkgmin ; P < .05 ) .
+CONCLUSIONS	Among patients with stable coronary heart disease on evidence-based therapy , HIIT was successfully integrated into a standard CR setting and , when compared to MCT , resulted in greater improvement in peak exercise capacity and submaximal endurance .
+

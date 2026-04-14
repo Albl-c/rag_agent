@@ -1,0 +1,6 @@
+25378034
+OBJECTIVE	The purpose was to assess the effectiveness of 5 % oral glucose solution in reducing pain in preterm infants during intramuscular injection .
+METHODS	We conducted a prospective , randomized , controlled , unblinded trial to investigate the effect of glucose solution on the pain of intramuscular injection in preterm infants ( N = 80 ) .
+RESULTS	Infants who received oral glucose had significantly lower pain scores ( p < .001 ) , less crying time ( p < .001 ) , higher oxygen saturation ( p < .001 ) , and lower heart rate after compared with during the procedure ( p = .02 ) .
+CONCLUSIONS	Our results suggest that oral glucose , even if used in the lowest dose , may have a pain-relieving effect in preterm infants if administered pre-procedure .
+

@@ -1,0 +1,15 @@
+24512909
+OBJECTIVE	The comparative efficacy and safety of infliximab and azathioprine therapy alone or in combination for ulcerative colitis ( UC ) have not been evaluated previously .
+METHODS	This randomized , double-blind trial evaluated the efficacy and safety of 16 weeks of treatment with infliximab monotherapy , azathioprine monotherapy , or the 2 drugs combined in tumor necrosis factor-a antagonist-naive adults with moderate to severe UC .
+METHODS	Patients were assigned randomly to receive intravenous infusions of infliximab 5 mg/kg at weeks 0 , 2 , 6 , and 14 plus daily oral placebo capsules ; oral azathioprine 2.5 mg/kg daily plus placebo infusions on the infliximab schedule ; or combination therapy with the 2 drugs .
+METHODS	Corticosteroid-free clinical remission ( primary end point , week 16 ) was evaluated at weeks 8 and 16 .
+METHODS	The study was terminated before the enrollment target was reached .
+RESULTS	A total of 239 patients were included in efficacy analyses .
+RESULTS	Baseline characteristics were similar between treatment groups .
+RESULTS	Corticosteroid-free remission at week 16 was achieved by 39.7 % ( 31 of 78 ) of patients receiving infliximab/azathioprine , compared with 22.1 % ( 17 of 77 ) receiving infliximab alone ( P = .017 ) and 23.7 % ( 18 of 76 ) receiving azathioprine alone ( P = .032 ) .
+RESULTS	Mucosal healing at week 16 occurred in 62.8 % ( 49 of 78 ) of patients receiving infliximab/azathioprine , compared with 54.6 % ( 42 of 77 ) receiving infliximab ( P = .295 ) and 36.8 % ( 28 of 76 ) receiving azathioprine ( P = .001 ) .
+RESULTS	Serious infections occurred in 2 patients ( 1 patient receiving infliximab , and 1 patient receiving azathioprine ) .
+CONCLUSIONS	Antitumor necrosis factor-anaive patients with moderate to severe UC treated with infliximab plus azathioprine were more likely to achieve corticosteroid-free remission at 16 weeks than those receiving either monotherapy .
+CONCLUSIONS	Combination therapy led to significantly better mucosal healing than azathioprine monotherapy .
+CONCLUSIONS	ClinicalTrials.gov number , NCT00537316 .
+

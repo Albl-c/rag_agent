@@ -1,0 +1,11 @@
+25227824
+BACKGROUND	Few Iranian women take the Papanicolaou test despite its important role in preventing cervical cancer .
+BACKGROUND	This study aimed to determine the effectiveness of an educational intervention based on the protection motivation theory ( PMT ) variables and implementation intentions in the first and second Pap test practice among Iranian women .
+METHODS	In this quasi-randomized controlled trial , 200 women who were referred to 30 primary health care clinics in Tehran were randomly selected .
+METHODS	PMT variables and Pap test practice were measured at baseline and again after 3 and 15 months .
+METHODS	The 4-week educational intervention program was conducted for the intervention group .
+RESULTS	Following the intervention , the mean scores of self-efficacy , perceived vulnerability , and behavior intention variables were significantly higher in the intervention group when compared to the control group ( p < 0.05 ) .
+RESULTS	No significant differences were found in the perceived severity , response efficacy , response cost , and fear between the two groups following the intervention .
+RESULTS	Higher percent of women in the intervention group had obtained first and second Pap test compared to the controls .
+CONCLUSIONS	The PMT and implementation intentions provide a suitable theory-based framework for developing educational interventions regarding Pap test practice in Iran .
+

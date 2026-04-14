@@ -1,0 +1,16 @@
+24977456
+OBJECTIVE	Although adiposity has been considered to be protective against hot flashes , newer data suggest positive relationships between hot flashes and adiposity .
+OBJECTIVE	No studies have been specifically designed to test whether weight loss reduces hot flashes .
+OBJECTIVE	This pilot study aimed to evaluate the feasibility , acceptability , and initial efficacy of behavioral weight loss in reducing hot flashes .
+METHODS	Forty overweight or obese women with hot flashes ( 4 hot flashes/d ) were randomized to either behavioral weight loss intervention or wait-list control .
+METHODS	Hot flashes were assessed before and after intervention via physiologic monitoring , diary , and questionnaire .
+METHODS	Comparisons of changes in hot flashes and anthropometrics between conditions were performed via Wilcoxon tests .
+RESULTS	Study retention ( 83 % ) and intervention satisfaction ( 93.8 % ) were high .
+RESULTS	Most women ( 74.1 % ) reported that hot flash reduction was a major motivator for losing weight .
+RESULTS	Women randomized to the weight loss intervention lost more weight ( -8.86 kg ) than did women randomized to control ( +0.23 kg ; P < 0.0001 ) .
+RESULTS	Women randomized to weight loss also showed greater reductions in questionnaire-reported hot flashes ( 2-wk hot flashes , -63.0 ) than did women in the control group ( -28.0 ; P = 0.03 ) - a difference not demonstrated in other hot flash measures .
+RESULTS	Reductions in weight and hot flashes were significantly correlated ( eg , r = 0.47 , P = 0.006 ) .
+CONCLUSIONS	This pilot study shows a behavioral weight loss program that is feasible , acceptable , and effective in producing weight loss among overweight or obese women with hot flashes .
+CONCLUSIONS	Findings indicate the importance of a larger study designed to test behavioral weight loss for hot flash reduction .
+CONCLUSIONS	Hot flash management could motivate women to engage in this health-promoting behavior .
+

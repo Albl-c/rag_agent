@@ -1,0 +1,14 @@
+25647781
+OBJECTIVE	Axitinib is a potent and selective inhibitor of vascular endothelial growth factor receptors 1-3 .
+OBJECTIVE	This analysis compared efficacy and safety of axitinib plus gemcitabine in patients with advanced pancreatic cancer from Japan , North America and the European Union , enrolled in a randomized Phase III study .
+METHODS	Patients ( n = 632 ) , stratified by disease extent , were randomly assigned ( 1:1 ) to receive axitinib/gemcitabine or placebo/gemcitabine .
+METHODS	Axitinib was administered at a starting dose of 5 mg orally twice daily and gemcitabine at 1000 mg/m ( 2 ) once weekly for 3 weeks in 4 week cycles .
+METHODS	Primary endpoint was overall survival .
+RESULTS	Among Japanese patients , median overall survival was not estimable ( 95 % confidence interval , 7.4 months-not estimable ) with axitinib/gemcitabine ( n = 58 ) and 9.9 months ( 95 % confidence interval , 7.4-10 .5 ) with placebo/gemcitabine ( n = 56 ) ( hazard ratio 1.093 [ 95 % confidence interval , 0.525-2 .274 ] ) .
+RESULTS	Median survival follow-up ( range ) was 5.1 months ( 0.02-12 .3 ) with axitinib/gemcitabine vs. 5.4 months ( 1.8-10 .5 ) with placebo/gemcitabine .
+RESULTS	Similarly , no difference was detected in overall survival between axitinib/gemcitabine and placebo/gemcitabine in patients from North America or the European Union .
+RESULTS	Common adverse events with axitinib/gemcitabine in Japanese patients were fatigue , anorexia , dysphonia , nausea and decreased platelet count .
+RESULTS	Axitinib safety profile was generally similar in patients from the three regions , although there were differences in incidence of some adverse events .
+RESULTS	An exploratory analysis did not show any correlation between axitinib/gemcitabine-related hypertension and overall survival .
+CONCLUSIONS	Axitinib/gemcitabine , while tolerated , did not provide survival benefit over gemcitabine alone in patients with advanced pancreatic cancer from Japan or other regions .
+

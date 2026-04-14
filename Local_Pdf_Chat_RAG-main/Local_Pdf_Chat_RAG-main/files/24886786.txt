@@ -1,0 +1,14 @@
+24886786
+BACKGROUND	Although screening , brief intervention , and referral to treatment ( SBIRT ) has shown promise for alcohol use , relatively little is known about its effectiveness for adult illicit drug use .
+BACKGROUND	This randomized controlled trial assessed the effectiveness of the SBIRT approach for outcomes related to drug use among patients visiting trauma and emergency departments ( EDs ) at two large , urban hospitals .
+METHODS	A total of 700 ED patients who admitted using illegal drugs in the past 30days were recruited , consented , provided baseline measures of substance use and related problems measured with the Addiction Severity Index-Lite ( ASI-Lite ) , and then randomized to the Life Shift SBIRT intervention or to an attention-placebo control group focusing on driving and traffic safety ( Shift Gears ) .
+METHODS	Both groups received a level of motivational intervention matched to their condition and risk level by trained paraprofessional health educators .
+METHODS	Separate measurement technicians conducted face-to-face follow-ups at 6months post-intervention and collected hair samples to confirm reports of abstinence from drug use .
+METHODS	The primary outcome measure of the study was past 30-day drug abstinence at 6months post-intervention , as self-reported on the ASI-Lite .
+RESULTS	Of 700 participants , 292 ( 42 % ) completed follow-up .
+RESULTS	There were no significant differences in self-reported abstinence ( 12.5 % vs. 12.0 % , p = 0.88 ) for Life Shift and Shift Gears groups , respectively .
+RESULTS	When results of hair analyses were applied , the abstinence rate was 7 percent for Life Shift and 2 percent for Shift Gears ( p = .074 ) .
+RESULTS	In an analysis in which results were imputed ( n = 694 ) , there was no significant difference in the ASI-Lite drug use composite scores ( Life Shift +0.005 vs. Shift Gears +0.017 , p = 0.12 ) .
+CONCLUSIONS	In this randomized controlled trial , there was no evidence of effectiveness of SBIRT on the primary drug use outcome .
+BACKGROUND	ClinicalTrials.gov NCT01683227 .
+

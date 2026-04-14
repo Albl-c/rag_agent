@@ -1,0 +1,10 @@
+24313916
+OBJECTIVE	This 24-week , multicenter , double-blind , randomized , placebo-controlled study ( NCT00791999 ) compared efficacy and safety of certolizumab pegol ( CZP ) in combination with methotrexate ( MTX ) vs placebo plus MTX in Japanese rheumatoid arthritis ( RA ) patients with inadequate response to MTX .
+METHODS	In total , 316 patients were randomized 1:1:1:1 to subcutaneous CZP 100 , 200 , or 400 mg ( induction dose : 200 mg or 400 mg CZP at Weeks 0 , 2 , and 4 ) plus MTX or placebo plus MTX every 2 weeks .
+METHODS	Primary endpoint was ACR20 response at Week 12 .
+RESULTS	ACR20 response rates were 62.5 % , 76.8 % , 77.6 % , and 28.6 % at Week 12 , and 61.1 % , 73.2 % , 71.8 % , and 24.7 % at Week 24 for CZP 100 , 200 , and 400 mg , and placebo groups , respectively , with statistical significance between each CZP group and placebo .
+RESULTS	Change in Total Sharp Score over 24 weeks was significantly smaller in CZP 200 and 400 mg groups vs placebo .
+RESULTS	Improvements in health-related quality of life ( HRQoL ) were observed in all three CZP groups vs placebo .
+RESULTS	Incidence of adverse events was similar between CZP groups .
+CONCLUSIONS	CZP plus MTX resulted in rapid , sustained reductions in RA signs and symptoms in Japanese patients with inadequate response to MTX , with significant inhibition of radiographic progression and improved HRQoL .
+

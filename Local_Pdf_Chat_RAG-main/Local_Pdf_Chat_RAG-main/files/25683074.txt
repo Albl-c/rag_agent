@@ -1,0 +1,17 @@
+25683074
+BACKGROUND	Anecdotal reports have demonstrated the feasibility of needle aspiration to deflate a distended bowel , but we do not know of any prospective study that has evaluated this technique .
+BACKGROUND	We designed a controlled study to evaluate the use of the selective transperitoneal needle aspiration of a bowel loop ( STAB ) in infants .
+METHODS	Candidates were patients of less than 6 months of age , scheduled for laparoscopic Nissen fundoplication , in whom severe colonic distension was observed .
+METHODS	We randomized the patients to the study drug or placebo in a 1:1 mode .
+METHODS	The treatment group received STAB , whereas the control group was subject to conventional maneuvers .
+METHODS	We performed 403 Nissen procedures laparoscopically : 102 were in infants 6 months old , but only 44 presented severe transverse colonic distension .
+RESULTS	STAB facilitated the surgical procedure and drastically reduced surgical time .
+RESULTS	Thus , we calculated our sample size with use of the following inputs : 90 % power , a critical P value of .05 , and 50 % reduction in surgical time .
+RESULTS	This resulted in a necessary sample size of 21 subjects per group , for a total required sample size of 42 subjects .
+RESULTS	STAB procedures were done in 23 patients , and conventional measures were used in 21 .
+RESULTS	STAB was attempted a total of 45 times .
+RESULTS	Mean operative time was shorter in the STAB group .
+CONCLUSIONS	We propose the use of STAB as alternative therapy to decompress a dilated large-bowel loop during laparoscopic surgery .
+CONCLUSIONS	This maneuver is simple and efficient and has no clinical complications .
+CONCLUSIONS	Future studies are required to evaluate its role in the subset of other patients or procedures .
+

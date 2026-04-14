@@ -1,0 +1,19 @@
+25281300
+BACKGROUND	Breastfeeding is associated with significant positive health outcomes for mothers and infants .
+BACKGROUND	However , despite recommendations from the World Health Organization , exclusive breastfeeding for six months is uncommon .
+BACKGROUND	Increased breastfeeding support early in the postpartum period may be effective in improving breastfeeding maintenance .
+BACKGROUND	This trial will evaluate two community-based interventions to increase breastfeeding duration in Local Government Areas ( LGAs ) in Victoria , Australia .
+METHODS	A three-arm cluster randomised controlled trial design will be used .
+METHODS	Victorian LGAs with a lower than average rate of any breastfeeding at discharge from hospital and more than 450 births per year that agree to participate will be randomly allocated to one of three trial arms : 1 ) standard care ; 2 ) home-based breastfeeding support ; or 3 ) home-based breastfeeding support plus access to a community-based breastfeeding drop-in centre .
+METHODS	The services provided in LGAs allocated to ` standard care ' are those routinely available to postpartum women .
+METHODS	LGAs allocated to the home-based visiting intervention will provide home-visits to women who are identified as at risk of breastfeeding cessation in the early postnatal period .
+METHODS	These visits will be provided by Maternal and Child Health Nurses who have received training to provide the intervention ( SILC-MCHNs ) .
+METHODS	In areas allocated to receive the second intervention , in addition to home-based breastfeeding support , community breastfeeding drop-in centres will be made available , staffed by a SILC-MCHN .
+METHODS	The interventions will run in LGAs for a nine to twelve month period depending on birth numbers .
+METHODS	The primary outcome is the proportion of infants receiving any breast milk at four months of age .
+METHODS	Breastfeeding outcomes will be obtained from routinely collected Maternal and Child Health centre data and from a new data item collecting infant feeding ` in the last 24 hours ' .
+METHODS	Information will also be obtained directly from women via a postal survey .
+METHODS	A comprehensive process evaluation will be conducted .
+CONCLUSIONS	This study will determine if early home-based breastfeeding support by a health professional for women at risk of stopping breastfeeding , with or without access to a community-based breastfeeding drop-in centre , increases breastfeeding duration in Victorian LGAs with low breastfeeding rates .
+BACKGROUND	Australian New Zealand Clinical Trials Registry : ACTRN12611000898954 .
+

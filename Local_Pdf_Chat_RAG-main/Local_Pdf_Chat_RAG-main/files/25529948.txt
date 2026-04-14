@@ -1,0 +1,14 @@
+25529948
+OBJECTIVE	To explore the value of preoperative evaluation with three-dimensional endoanal ultrasonography ( 3D-EAUS ) for anal fistula in order to provide preoperative assessment for anal fistula .
+METHODS	One hundred patients diagnosed with anal fistula undergoing surgery between March 2012 and March 2013 in our department were prospectively enrolled .
+METHODS	All the patients were randomly divided into the ultrasound group and the control group with fifty patients in each group .
+METHODS	The ultrasound group received 3D-EAUS and the control group received routine examinations ( digital examination and probe ) to assess the position of the internal opening , the type of fistula and secondary tracks , respectively .
+METHODS	The concordance rate of the preoperative assessment and intraoperative exploration was evaluated between the two groups .
+RESULTS	The accuracy of identifying internal opening was 96.0 % for the ultrasound group and 82.0 % for the control group with statistically significant difference ( P = 0.02 ) .
+RESULTS	The accuracy of identifying internal opening for simple anal fistula was similar ( 95.0 % vs. 91.3 % , P = 1 ) .
+RESULTS	For complex anal fistula , the accuracy was also higher in the ultrasound group ( 96.7 % vs. 74.1 % , P = 0.025 ) .
+RESULTS	The accuracy of fistula classification was 78.0 % for the ultrasound group and 96.0 % for the control group with significant difference ( P = 0.01 ) .
+RESULTS	The accuracy of identifying a second track was higher in the ultrasound group ( 96.0 % vs. 82.0 % , P = 0.025 ) .
+CONCLUSIONS	It is significantly superior for 3D-EAUS to detect the internal opening , fistula classification and identification of a second track in complex anal fistulas as compared to conventional examination .
+CONCLUSIONS	3D-EAUS should be recommended as a preoperative assessment for anal fistula , especially for complex one .
+

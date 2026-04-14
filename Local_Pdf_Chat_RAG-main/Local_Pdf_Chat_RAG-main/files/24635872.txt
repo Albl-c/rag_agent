@@ -1,0 +1,13 @@
+24635872
+BACKGROUND	Persistent behavioural difficulties are common following paediatric acquired brain injury ( ABI ) .
+BACKGROUND	Parents and families also experience heightened stress , psychological symptoms and burden , and there is evidence of a reciprocal relationship between parent and child functioning , which may be mediated by the adoption of maladaptive parenting practices .
+BACKGROUND	Despite this , there is currently a paucity of research in family interventions in this population .
+BACKGROUND	The aim of this study was to determine the efficacy of Stepping Stones Triple P : Positive Parenting Program ( SSTP ) , with an Acceptance and Commitment Therapy ( ACT ) workshop , in improving child outcomes and parenting practices following paediatric ABI .
+METHODS	Fifty-nine parents of children ( mean age 7 years , SD 3 years , 1 month ; 35 males , 24 females ) with ABI ( Traumatic injuries 58 % , Tumour 17 % , Encephalitis or meningitis 15 % , Cardiovascular accident 7 % , Hypoxia 3 % ) who were evidencing at least mild behaviour problems were randomly assigned to treatment or care-as-usual conditions over 10 weeks .
+METHODS	Mixed-model repeated-measures linear regression analyses were conducted to compare conditions from pre - to postintervention on child behavioural and emotional functioning ( Eyberg Child Behavior Inventory , Strengths and Difficulties Questionnaire ) and dysfunctional parenting style ( Parenting Scale ) .
+METHODS	Assessment of maintenance of change was conducted at a 6-month follow-up .
+METHODS	The trial was registered on Australian New Zealand Clinical Trials Registry ( ID : ACTRN12610001051033 , www.anzctr.org.au ) .
+RESULTS	Significant time-by-condition interactions were identified on number and intensity of child behaviour problems , child emotional symptoms and parenting laxness and overreactivity , indicating significant improvements in the treatment condition , with medium-to-large effect sizes .
+RESULTS	Most improvements were maintained at 6 months .
+CONCLUSIONS	Group parenting interventions incorporating Triple P and ACT may be efficacious in improving child and parenting outcomes following paediatric ABI .
+

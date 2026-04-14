@@ -1,0 +1,13 @@
+24302273
+OBJECTIVE	Vascular disease is included in a risk scoring system to predict stroke in patients with non-valvular atrial fibrillation ( AF ) .
+OBJECTIVE	This post hoc analysis of ROCKET AF aimed to determine the absolute rates of stroke and bleeding , and the relative effectiveness and safety of rivaroxaban vs. warfarin in patients with and without peripheral artery disease ( PAD ) .
+OBJECTIVE	Peripheral artery disease was defined on the case-report form as the presences of intermittent claudication , amputation for arterial insufficiency , vascular reconstruction , bypass surgery , or percutaneous intervention to the extremities , or previously documented abdominal aortic aneurysm .
+RESULTS	ROCKET AF was a double-blind , double-dummy , randomized-controlled trial comparing rivaroxaban and warfarin for the prevention of stroke or systemic embolism .
+RESULTS	A total of 839 ( 5.9 % ) patients in ROCKET AF had PAD .
+RESULTS	Patients with and without PAD had similar rates of stroke or systemic embolism [ HR : 1.04 , 95 % CI ( 0.72 , 1.50 ) , P = 0.84 ] and major or non-major clinically relevant ( NMCR ) bleeding [ HR : 1.11 , 95 % CI ( 0.96 , 1.28 ) , P = 0.17 ] , respectively .
+RESULTS	The efficacy of rivaroxaban when compared with warfarin for the prevention of stroke or systemic embolism was similar in patients with PAD ( HR : 1.19 , 95 % CI : 0.63-2 .22 ) and without PAD ( HR : 0.86 , 95 % CI : 0.73-1 .02 ; interaction P = 0.34 ) .
+RESULTS	There was a significant interaction for major or NMCR bleeding in patients with PAD treated with rivaroxaban compared with warfarin ( HR : 1.40 , 95 % CI : 1.06-1 .86 ) compared with those without PAD ( HR : 1.03 , 95 % CI : 0.95-1 .11 ; interaction P = 0.037 ) .
+CONCLUSIONS	Patients with PAD in ROCKET AF did not have a statistically significant higher risk of stroke or systemic embolism than patients without PAD , and there were similar efficacy outcomes in patients treated with rivaroxaban and warfarin .
+CONCLUSIONS	In PAD patients , there was a higher risk of major bleeding or NMCR bleeding with rivaroxaban when compared with warfarin ( interaction P = 0.037 ) .
+CONCLUSIONS	Further investigation is warranted to validate this subgroup analysis and determine the optimal treatment in this high-risk cohort of AF patients with PAD .
+

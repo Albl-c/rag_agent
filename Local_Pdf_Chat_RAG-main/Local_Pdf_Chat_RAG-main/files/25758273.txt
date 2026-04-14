@@ -1,0 +1,11 @@
+25758273
+BACKGROUND	Current randomized trials have demonstrated the effects of short-term rosuvastatin therapy in preventing contrast-induced acute kidney injury ( CIAKI ) .
+BACKGROUND	However , the consistency of these effects on patients administered different volumes of contrast media is unknown .
+METHODS	In the TRACK-D trial , 2998 patients with type 2 diabetes and concomitant chronic kidney disease ( CKD ) who underwent coronary/peripheral arterial angiography with or without percutaneous intervention were randomized to short-term ( 2 days before and 3 days after procedure ) rosuvastatin therapy or standard-of-care .
+METHODS	This prespecified analysis compared the effects of rosuvastatin versus standard therapy in patients exposed to ( moderate contrast volume [ MCV ] , 200-300 ml , n = 712 ) or ( high contrast volume [ HCV ] , 300 ml , n = 220 ) .
+METHODS	The primary outcome was the incidence of CIAKI .
+METHODS	The secondary outcome was a composite of death , dialysis/hemofiltration or worsened heart failure at 30 days .
+RESULTS	Rosuvastatin treatment was associated with a significant reduction in CIAKI compared with the controls ( 2.1 % vs. 4.4 % , P = 0.050 ) in the overall cohort and in patients with MCV ( 1.7 % vs. 4.5 % , P = 0.029 ) , whereas no benefit was observed in patients with HCV ( 3.4 % vs. 3.9 % , P = 0.834 ) .
+RESULTS	The incidence of secondary outcomes was significantly lower in the rosuvastatin group compared with control group ( 2.7 % vs. 5.3 % , P = 0.049 ) in the overall cohort , but it was similar between the patients with MCV ( 2.0 % vs. 4.2 % , P = 0.081 ) or HCV ( 5.1 % vs. 8.8 % , P = 0.273 ) .
+CONCLUSIONS	Periprocedural short-term rosuvastatin treatment is effective in reducing CIAKI and adverse clinical events for patients with diabetes and CKD after their exposure to a moderate volume of contrast medium .
+

@@ -1,0 +1,16 @@
+26349127
+OBJECTIVE	The purpose of this study was to compare the reduction of the clinical signs of inflammation by two power interdental cleaning devices combined with a manual toothbrush .
+METHODS	Sixty-nine subjects completed this randomized , four-week , single-blind , two-group , parallel clinical study .
+METHODS	Subjects were randomly assigned to one of two treatment groups : Waterpik Water Flosser ( WF ) plus a manual toothbrush ; or Sonicare Air Floss Pro ( AFP ) plus a manual toothbrush .
+METHODS	All subjects received both written and verbal instructions and demonstrated proficiency prior to starting the study .
+METHODS	Instructions were reviewed at the two-week visit ( W2 ) .
+METHODS	Data were evaluated for whole mouth , lingual , and facial areas for bleeding on probing ( BOP ) and Modified Gingival Index ( MGI ) .
+METHODS	Plaque data were recorded for whole mouth , lingual , facial , approximal , and marginal areas of the tooth using the Rustogi Modification of the Navy Plaque Index ( RMNPI ) .
+METHODS	BOP , MGI , and RMNPI were scored at baseline ( BSL ) , two weeks , and four weeks ( W4 ) .
+RESULTS	Both groups showed significant reductions in BOP and MGI from baseline for all regions and time points measured ( p < 0.001 ) .
+RESULTS	Both groups showed significant reductions from baseline for all areas at W4 for RMNPI ( p < 0.001 ) .
+RESULTS	The WF group was significantly more effective than the AFP group at reducing bleeding and gingivitis for all areas measured at all time points .
+RESULTS	At W4 , the WF group was 54 % more effective for bleeding and 32 % for gingivitis ( p < 0.001 ) .
+RESULTS	Plaque accumulation was significantly less at W4 for the WF group compared to the AFP group ( 28 % , p 0.017 ) .
+CONCLUSIONS	The Waterpik Water Flosser is significantly more effective than the Sonicare Air Floss Pro for reducing clinical signs of inflammation .
+

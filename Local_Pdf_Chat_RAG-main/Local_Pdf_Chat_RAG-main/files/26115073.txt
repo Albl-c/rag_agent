@@ -1,0 +1,19 @@
+26115073
+OBJECTIVE	To investigate the effects of multimodal supervised exercise on physical functioning , falls , and related injuries in older women .
+METHODS	Two-year randomized controlled trial .
+METHODS	Tampere , Finland .
+METHODS	Women aged 70 to 80 who had fallen in the previous year ( n = 409 ) .
+METHODS	Participants were randomly assigned to an exercise or control group ( ClinicalTrial.gov NCT00986466 ) .
+METHODS	Exercisers participated in group exercise classes twice a week for 12 months and once a week for the subsequent 12 months and home exercises .
+METHODS	Controls maintained their current physical activity .
+METHODS	Physical functioning assessed at baseline and at 6-month intervals during the intervention .
+METHODS	Falls and related injuries monitored with fall diaries .
+RESULTS	Intention-to-treat analyses showed that exercise led to significant improvements in physical functioning .
+RESULTS	Leg strength differed significantly between the groups ( mean change : 14.1 % , 95 % confidence interval ( CI ) = 8.0 to 20.2 in exercisers ; 1.6 % , 95 % CI = -4.5 to 7.7 in controls ; P < .001 ) .
+RESULTS	Chair stand time also differed significantly between groups ( 7.4 % , 95 % CI 3.8 to 10.8 % in exercisers ; 2.4 % , 95 % CI = -1.6 to 6.2 ) in controls ; P = .02 ) .
+RESULTS	Between-group differences were significant for fast walking speed ( P = .003 ) and probability of completing the backward walking test ( P < .001 ) , favoring exercisers .
+RESULTS	Timed Up-and-Go and grip strength did not differ between groups .
+RESULTS	There was no difference in the total falls incidence rate ratio ( IRR = 1.0 , 95 % CI = 0.79 to 1.26 ) , but exercisers were less likely to have medically attended injurious falls ( IRR = 0.45 , 95 % CI = 0.27 to 0.78 ; P = .004 ) .
+CONCLUSIONS	Twenty-four months of multimodal exercise enhanced physical functioning in women aged 70 to 80 with a history of falls .
+CONCLUSIONS	Although the total number of falls was not lower than in controls , the rate of medically attended injurious falls was more than 50 % lower .
+

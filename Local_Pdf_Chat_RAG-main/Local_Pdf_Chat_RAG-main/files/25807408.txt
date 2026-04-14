@@ -1,0 +1,15 @@
+25807408
+BACKGROUND	Following a major burn , skeletal muscle protein synthesis rate increases but is often insufficient to compensate for massively elevated muscle protein breakdown rates .
+BACKGROUND	Given the long-term nature of the pathophysiologic response to burn injury , we hypothesized that muscle protein synthesis rate would be chronically elevated in severely burned children .
+BACKGROUND	The objectives of this study were to characterize muscle protein synthesis rate of burned children over a period of 24 months after injury and to identify predictors that influence this response .
+METHODS	A total of 87 children with 40 % or greater total body surface area ( TBSA ) burned were included .
+METHODS	Patients participated in stable isotope infusion studies at 1 , 2 , and approximately 4 weeks after burn and at 6 , 12 , and 24 months after injury to determine skeletal muscle protein fractional synthesis rate .
+METHODS	Generalized estimating equations with log link normal distribution were applied to account for clustering of patients and control for patient characteristics .
+RESULTS	Patients ( 8 6 years ) had large ( 62 , 51-72 % TBSA ) and deep ( 47 % 21 % TBSA third degree ) burns .
+RESULTS	Muscle protein fractional synthesis rate was elevated throughout the first 12 months after burn compared with established values from healthy young adults .
+RESULTS	Muscle protein fractional synthesis rate was lower in boys , in children older than 3 years , and when burns were greater than 80 % TBSA .
+CONCLUSIONS	Muscle protein synthesis is elevated for at least 1 year after injury , suggesting that greater muscle protein turnover is a component of the long-term pathophysiologic response to burn trauma .
+CONCLUSIONS	Muscle protein synthesis is highly affected by sex , age , and burn size in severely burned children .
+CONCLUSIONS	These findings may explain the divergence in net protein balance and lean body mass in different populations of burn patients .
+METHODS	Prognostic study , level III .
+

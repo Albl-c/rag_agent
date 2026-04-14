@@ -1,0 +1,11 @@
+25016303
+BACKGROUND	People with dementia living in care homes often have complex mental health problems , disabilities and social needs .
+BACKGROUND	Providing more comprehensive training for staff working in care home environments is a high national priority .
+BACKGROUND	It is important that this training is evidence based and delivers improvement for people with dementia residing in these environments .
+BACKGROUND	Well-being and Health for People with Dementia ( WHELD ) combines the most effective elements of existing approaches to develop a comprehensive but practical staff training intervention .
+BACKGROUND	This optimised intervention is based on a factorial study and qualitative evaluation , to combine : training on person-centred care , promoting person-centred activities and interactions , and providing care home staff and general practitioners with updated knowledge regarding the optimal use of psychotropic medications for persons with dementia in care homes .
+METHODS	The trial will be a randomised controlled two-arm cluster single blind trial that will take place for nine months across 80 care homes in the United Kingdom .
+CONCLUSIONS	The overarching goal of this trial is to determine whether this optimised WHELD intervention is more effective in improving the quality of life and mental health than the usual care provided to people with dementia living in nursing homes .
+CONCLUSIONS	This study will be the largest and best powered randomised controlled trial ( RCT ) evaluating the benefits of an augmented person-centred care training intervention in care homes worldwide .
+BACKGROUND	Current controlled trials ISRCTN62237498 Date registered : 5 September 2013 .
+

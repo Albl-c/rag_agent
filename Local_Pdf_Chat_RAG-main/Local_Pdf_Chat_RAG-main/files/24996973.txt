@@ -1,0 +1,17 @@
+24996973
+BACKGROUND	Clinical validation of laboratory toothbrushing tests has important advantages .
+BACKGROUND	It was , therefore , the aim to demonstrate correlation of tooth cleaning efficiency of a new robot brushing simulation technique with clinical plaque removal .
+METHODS	Clinical programme : 27 subjects received dental cleaning prior to 3-day-plaque-regrowth-interval .
+METHODS	Plaque was stained , photographically documented and scored using planimetrical index .
+METHODS	Subjects brushed teeth 33-47 with three techniques ( horizontal , rotating , vertical ) , each for 20s buccally and for 20s orally in 3 consecutive intervals .
+METHODS	The force was calibrated , the brushing technique was video supported .
+METHODS	Two different brushes were randomly assigned to the subject .
+METHODS	Robot programme : Clinical brushing programmes were transfered to a 6-axis-robot .
+METHODS	Artificial teeth 33-47 were covered with plaque-simulating substrate .
+METHODS	All brushing techniques were repeated 7 times , results were scored according to clinical planimetry .
+METHODS	All data underwent statistical analysis by t-test , U-test and multivariate analysis .
+RESULTS	The individual clinical cleaning patterns are well reproduced by the robot programmes .
+RESULTS	Differences in plaque removal are statistically significant for the two brushes , reproduced in clinical and robot data .
+RESULTS	Multivariate analysis confirms the higher cleaning efficiency for anterior teeth and for the buccal sites .
+CONCLUSIONS	The robot tooth brushing simulation programme showed good correlation with clinically standardized tooth brushing.This new robot brushing simulation programme can be used for rapid , reproducible laboratory testing of tooth cleaning .
+

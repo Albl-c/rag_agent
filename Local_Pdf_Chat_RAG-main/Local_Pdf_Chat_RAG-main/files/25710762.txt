@@ -1,0 +1,17 @@
+25710762
+OBJECTIVE	To quantify plasma concentrations and determine adverse ocular , renal , or hepatic effects associated with repeated topical ophthalmic application of 0.1 % diclofenac to healthy cats .
+METHODS	8 healthy sexually intact male cats .
+METHODS	A randomized , placebo-controlled crossover study was conducted .
+METHODS	A topical formulation of 0.1 % diclofenac was administered 4 times/d for 7 days to 4 cats , and artificial tear ( control ) solution was administered to the other 4 cats .
+METHODS	After a 12-day washout period , cats received the other treatment .
+METHODS	Ophthalmic examinations were performed daily .
+METHODS	Plasma samples were obtained on days 1 and 7 for pharmacokinetic analysis .
+METHODS	A CBC , serum biochemical analysis , urinalysis , determination of urine protein-to-creatinine ratio , and determination of glomerular filtration rate were performed before the start of the study and after each 7-day treatment period .
+RESULTS	Mild conjunctival hyperemia was the only adverse ocular effect detected .
+RESULTS	Maximal drug concentration and area under the curve were significantly higher on day 7 than on day 1 .
+RESULTS	Diclofenac-treated cats had a significantly lower glomerular filtration rate than did control-treated cats after the second but not after the first treatment period , presumably associated with iatrogenic hypovolemia .
+CONCLUSIONS	Topical ophthalmic administration of 0.1 % diclofenac was well tolerated in healthy cats , with only mild signs of ocular irritation .
+CONCLUSIONS	Detectable systemic concentrations of diclofenac were achieved with accumulation over 7 days .
+CONCLUSIONS	Systemic absorption of diclofenac may be associated with reduced glomerular filtration rate , particularly in volume-contracted animals .
+CONCLUSIONS	Topical ophthalmic 0.1 % diclofenac should be used with caution in volume-contracted or systemically ill cats .
+

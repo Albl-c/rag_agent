@@ -1,0 +1,11 @@
+25327884
+OBJECTIVE	Similarly to a wrestling match , upper-body intermittent sprint performance ( UBISP ) test elicits severe acidosis .
+OBJECTIVE	This study aimed to determine whether sodium citrate ( CIT ) ingestion would help to better maintain peak power ( PP ) and mean power ( MP ) output across four consecutive UBISP tests simulating wrestling matches of a competition-day .
+METHODS	In a double-blind , counterbalanced , crossover manner , 11 trained wrestlers ingested either placebo ( PLC ) or CIT ( 900 mg kg ( -1 ) ) within a 17-h supplementation period .
+METHODS	Thereafter they completed four ( T1-T4 ) 6-min UBISP tests interspersed with 30-min recovery periods .
+RESULTS	Compared with PLC , CIT supplementation resulted in a persistent increase ( P < 0.05 ) in blood HCO3 ( - ) concentration and pH : pre-T1 25.6 % and 0.08 units , post-T4 39.1 % and 0.14 units , respectively .
+RESULTS	Post-T1 blood lactate concentration in CIT ( 16.1 3.8 mmol L ( -1 ) ) was higher ( P = 0.037 ) than that in PLC ( 13.7 2.3 mmol L ( -1 ) ) .
+RESULTS	Decrease in plasma volume across the supplementation period and UBISP tests was greater ( P = 0.03 ) in PLC ( -6.91 4.37 % ) than in CIT ( -1.51 4.34 % ) .
+RESULTS	There was an overall decrease ( P = 0.028 ) in ratings of perceived exertion in CIT compared with PLC , but no between-trial difference ( P > 0.05 ) in PP or MP in any UBISP test occurred .
+CONCLUSIONS	In trained wrestlers , CIT ingestion induces alkalosis , counteracts reduction in plasma volume , increases post-test blood lactate concentration and reduces perceived exertion , but does not improve PP or MP attained in consecutive UBISP tests simulating four wrestling matches of a competition-day .
+

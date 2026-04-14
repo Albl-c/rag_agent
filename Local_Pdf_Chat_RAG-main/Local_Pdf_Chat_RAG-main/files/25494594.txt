@@ -1,0 +1,12 @@
+25494594
+BACKGROUND	Corn peptides ( CPs ) are a novel food prepared from corn gluten meal , which is a main by-product of the corn starch industry .
+BACKGROUND	Recently , significant beneficial effects of CPs on early alcoholic liver injury in rats and on acute alcoholic injury in mice were observed .
+BACKGROUND	To our knowledge , the present study is the first report showing that CPs supplementation has beneficial effects on lipid profile , oxidative stress and alcoholic liver injury in men with chronic alcohol consumption .
+METHODS	A 9-week , randomized , double-blind , placebo-controlled study was conducted between September 2011 and August 2012 to assess the hepatoprotective effect of CPs .
+METHODS	A total of 161 men were randomized to receive CPs ( n = 53 ) , whey protein ( n = 54 ) , or corn starch placebo ( n = 54 ) at the same dose of 2 g twice daily .
+METHODS	146 participants completed the study .
+METHODS	Serum lipid profile , serum markers of liver injury , oxidative stress and inflammation , and fatty liver based on the results of abdominal ultrasonography were assessed at the beginning and end of the intervention .
+RESULTS	CPs supplementation ( 4 g/d ) for 9 weeks significantly lowered serum levels or activities of total cholesterol , triglyceride , alanine aminotransferase , aspartate aminotransferase , malondialdehyde and tumor necrosis factor - , and significantly increased serum activities of superoxide dismutase and glutathione peroxidase , but the same dose of whey protein and corn starch ( placebo ) did not demonstrate these effects .
+CONCLUSIONS	Our results indicate that CPs may have protective effects on alcohol-induced liver damage via modulation of lipid metabolism and oxidative stress .
+CONCLUSIONS	CPs may potentially be used as a functional food for the management of alcoholic liver disease in subjects with chronic alcohol consumption .
+

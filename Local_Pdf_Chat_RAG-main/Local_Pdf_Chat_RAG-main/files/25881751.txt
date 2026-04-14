@@ -1,0 +1,15 @@
+25881751
+BACKGROUND	Imatinib mesylate ( IM ) is a selective tyrosine kinase inhibitor for the treatment of chronic myeloid leukemia and gastrointestinal stromal tumors .
+BACKGROUND	A new once-daily 400-mg film-coated tablet of imatinib has been developed by a pharmaceutical company in Korea .
+OBJECTIVE	The present study was designed to assess and compare the PK parameters , bioavailability , and bioequivalence of the new imatinib 400-mg formulation ( test ) versus the conventional 100-mg formulation ( reference ) administered as a single 400-mg dose in healthy adult male volunteers .
+METHODS	This randomized , open-label , single-dose , two-way crossover study was conducted in healthy Korean male volunteers .
+METHODS	Eligible subjects were randomly assigned in a 1 : 1 ratio to receive 400 mg of the test ( one 400-mg tablet ) or reference ( four 100-mg tablets ) formulation , followed by a 2-week washout period and administration of the alternate formulation .
+METHODS	Serial blood samples were collected at 0 ( predose ) , 0.5 , 1 , 1.5 , 2 , 2.5 , 3 , 4 , 6 , 8 , 10 , 12 , 24 , 48 , and 72 hours after administration .
+METHODS	Plasma imatinib concentrations were determined using liquid chromatography coupled with tandem mass spectrometry .
+METHODS	The formulations were to be considered bioequivalent if the 90 % confidence intervals ( CIs ) of the adjusted geometric mean ratios for Cmax , AUC ( 0-t ) , and AUC ( 0 - ) were within the predetermined range of 0.80 - 1.25 .
+RESULTS	In total , 35 subjects completed the study .
+RESULTS	No serious adverse event was reported during the study .
+RESULTS	The 90 % CIs of the adjusted geometric mean ratios of the test formulation to the reference formulation for C ( max ) , AUC ( 0-t ) and AUC ( 0 - ) of imatinib were all within the bioequivalence criteria range of 0.8 - 1.25 .
+CONCLUSIONS	The test formulation of imatinib met the Korean regulatory requirements for bioequivalence .
+CONCLUSIONS	Both imatinib formulations were well-tolerated in all subjects .
+

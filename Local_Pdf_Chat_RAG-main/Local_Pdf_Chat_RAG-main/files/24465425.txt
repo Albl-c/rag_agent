@@ -1,0 +1,18 @@
+24465425
+BACKGROUND	Progesterone is effective treatment for hot flushes/night sweats .
+BACKGROUND	The cardiovascular effects of progesterone therapy are unknown but evidence suggests that premenopausal normal estradiol with also normal progesterone levels may provide later cardiovascular protection .
+BACKGROUND	We compared the effects of progesterone to placebo on endothelial function , weight , blood pressure , metabolism , lipids , inflammation and coagulation .
+RESULTS	We conducted a randomized , double-blind , 3-month placebo-controlled trial of progesterone ( 300 mg daily ) among 133 healthy postmenopausal women in Vancouver , Canada from 2003-2009 .
+RESULTS	Endothelial function by venous occlusion plethysmography was a planned primary outcome .
+RESULTS	Enrolled women were 1-11 y since last menstruation , not using hormones ( for > 6 months ) , non-smoking , without diabetes , hypertension , heart disease or their medications .
+RESULTS	Randomized ( 11 ) women ( 55 4 years , body mass index 25 3 ) initially had normal blood pressure , fasting lipid , glucose and electrocardiogram results .
+RESULTS	Endothelial function ( % forearm blood flow above saline ) was not changed with progesterone ( 487 189 % , n = 18 ) compared with placebo ( 408 278 % , n = 16 ) ( 95 % CI diff [ -74 to 232 ] , P = 0.30 ) .
+RESULTS	Progesterone ( n = 65 ) and placebo ( n = 47 ) groups had similar changes in systolic and diastolic blood pressure , resting heart rate , weight , body mass index , waist circumference , total cholesterol , low-density lipoprotein cholesterol and triglyceride levels .
+RESULTS	High-density lipoprotein was lower ( -0.14 mmol/L , P = 0.001 ) on progesterone compared with placebo .
+RESULTS	Fasting glucose , hs-C-reactive protein , albumin and D-dimer changes were all comparable to placebo .
+RESULTS	Framingham General Cardiovascular Risk Profile scores were initially low and remained low with progesterone therapy and not statistically different from placebo .
+CONCLUSIONS	Results indicate that progesterone has short-term cardiovascular safety .
+CONCLUSIONS	Endothelial function , weight , blood pressure , waist circumference , inflammation and coagulation were unchanged as were lipids except for HDL-C .
+CONCLUSIONS	The statistically significant decrease in HDL-C levels was not clinically important ( based on lack of Cardiovascular Risk Profile change ) .
+BACKGROUND	ClinicalTrials.gov NCT00152438 .
+

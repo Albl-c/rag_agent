@@ -1,0 +1,16 @@
+24628859
+BACKGROUND	Chronic angina is a profoundly symptomatic disease .
+BACKGROUND	We evaluated the relationship between angina frequency and health utility .
+METHODS	We used data from stable angina patients reporting 3 attacks/week enrolled in the Efficacy of Ranolazine in Chronic Angina ( ERICA ) trial .
+METHODS	Angina frequency was classified using the Seattle Angina Questionnaire angina frequency ( SAQAF ) domain into no ( 100 ) ; monthly ( 61-99 ) ; weekly ( 31-60 ) ; and daily ( 0-30 ) angina .
+METHODS	EuroQol ( EQ ) -5 D health utility scores were derived from SAQ data using two mapping equations .
+METHODS	Median EQ-5D utility scores for each SAQAF classification after the 6-week trial period were calculated ( reported as : Equation 1/Equation 2 ) .
+METHODS	Changes in EQ-5D utility scores from baseline to end-of-trial for patients achieving and not achieving a 20-point improvement in SAQAF score and improving and not improving 1 SAQAF classification were compared .
+RESULTS	Median EQ-5D utility scores ( n = 548 ) were 0.68 / 0.60 .
+RESULTS	Compared to patients reporting no angina symptoms ( n = 28 ; 0.89 / 0.87 ) patients reporting monthly ( n = 188 ; 0.80 / 0.76 ) , weekly ( n = 283 ; 0.72 / 0.65 ) and daily ( n = 49 ; 0.65 / 0.54 ) symptoms had poorer health utility ( p < 0.001 for both equations ) .
+RESULTS	Patients improving 1SAQAF classification ( n = 254/541 , 47 % ) experienced a median 0.05 / 0.07 greater improvement in EQ-5D health utility compared to those not improving 1 classification ( p < 0.001 for both equations ) .
+RESULTS	Patients improving 20-points on the SAQAF ( n = 355/541 , 66 % ) experienced a median 0.06 / 0.07 greater improvement in health utility compared to those not achieving a 20-point improvement ( p < 0.001 for both ) .
+CONCLUSIONS	Chronic angina patient health utility decreases as angina frequency increases .
+CONCLUSIONS	Patients reporting clinically important improvement in angina frequency experience a tangible improvement in health utility .
+BACKGROUND	NCT00091429 .
+

@@ -1,0 +1,17 @@
+24998121
+BACKGROUND	In the PROTECT AF ( Watchman Left Atrial Appendage Closure Technology for Embolic Protection in Patients With Atrial Fibrillation ) trial that evaluated patients with nonvalvular atrial fibrillation ( NVAF ) , left atrial appendage ( LAA ) occlusion was noninferior to warfarin for stroke prevention , but a periprocedural safety hazard was identified .
+OBJECTIVE	The goal of this study was to assess the safety and efficacy of LAA occlusion for stroke prevention in patients with NVAF compared with long-term warfarin therapy .
+METHODS	This randomized trial further assessed the efficacy and safety of the Watchman device .
+METHODS	Patients with NVAF who had a CHADS2 ( congestive heart failure , hypertension , age > 75 years , diabetes mellitus , and previous stroke/transient ischemic attack ) score 2 or 1 and another risk factor were eligible .
+METHODS	Patients were randomly assigned ( in a 2:1 ratio ) to undergo LAA occlusion and subsequent discontinuation of warfarin ( intervention group , n = 269 ) or receive chronic warfarin therapy ( control group , n = 138 ) .
+METHODS	Two efficacy and 1 safety coprimary endpoints were assessed .
+RESULTS	At 18 months , the rate of the first coprimary efficacy endpoint ( composite of stroke , systemic embolism [ SE ] , and cardiovascular/unexplained death ) was 0.064 in the device group versus 0.063 in the control group ( rate ratio 1.07 [ 95 % credible interval ( CrI ) : 0.57 to 1.89 ] ) and did not achieve the prespecified criteria noninferiority ( upper boundary of 95 % CrI 1.75 ) .
+RESULTS	The rate for the second coprimary efficacy endpoint ( stroke or SE > 7 days ' postrandomization ) was 0.0253 versus 0.0200 ( risk difference 0.0053 [ 95 % CrI : -0.0190 to 0.0273 ] ) , achieving noninferiority .
+RESULTS	Early safety events occurred in 2.2 % of the Watchman arm , significantly lower than in PROTECT AF , satisfying the pre-specified safety performance goal .
+RESULTS	Using a broader , more inclusive definition of adverse effects , these still were lower in PREVAIL ( Watchman LAA Closure Device in Patients With Atrial Fibrillation Versus Long Term Warfarin Therapy ) trial than in PROTECT AF ( 4.2 % vs. 8.7 % ; p = 0.004 ) .
+RESULTS	Pericardial effusions requiring surgical repair decreased from 1.6 % to 0.4 % ( p = 0.027 ) , and those requiring pericardiocentesis decreased from 2.9 % to 1.5 % ( p = 0.36 ) , although the number of events was small .
+CONCLUSIONS	In this trial , LAA occlusion was noninferior to warfarin for ischemic stroke prevention or SE > 7 days ' post-procedure .
+CONCLUSIONS	Although noninferiority was not achieved for overall efficacy , event rates were low and numerically comparable in both arms .
+CONCLUSIONS	Procedural safety has significantly improved .
+CONCLUSIONS	This trial provides additional data that LAA occlusion is a reasonable alternative to warfarin therapy for stroke prevention in patients with NVAF who do not have an absolute contraindication to short-term warfarin therapy .
+

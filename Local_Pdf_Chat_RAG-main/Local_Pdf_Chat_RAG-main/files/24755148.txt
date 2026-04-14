@@ -1,0 +1,13 @@
+24755148
+BACKGROUND	Time in therapeutic range ( TTR ) is a standard quality measure of the use of warfarin .
+BACKGROUND	We assessed the relative effects of rivaroxaban versus warfarin at the level of trial center TTR ( cTTR ) since such analysis preserves randomized comparisons .
+RESULTS	TTR was calculated using the Rosendaal method , without exclusion of international normalized ratio ( INR ) values performed during warfarin initiation .
+RESULTS	Measurements during warfarin interruptions > 7 days were excluded .
+RESULTS	INRs were performed via standardized finger-stick point-of-care devices at least every 4 weeks .
+RESULTS	The primary efficacy endpoint ( stroke or non-central nervous system embolism ) was examined by quartiles of cTTR and by cTTR as a continuous function .
+RESULTS	Centers with the highest cTTRs by quartile had lower-risk patients as reflected by lower CHADS2 scores ( P < 0.0001 ) and a lower prevalence of prior stroke or transient ischemic attack ( P < 0.0001 ) .
+RESULTS	Sites with higher cTTR were predominantly from North America and Western Europe .
+RESULTS	The treatment effect of rivaroxaban versus warfarin on the primary endpoint was consistent across a wide range of cTTRs ( P value for interaction = 0.71 ) .
+RESULTS	The hazard of major and non-major clinically relevant bleeding increased with cTTR ( P for interaction = 0.001 ) , however , the estimated reduction by rivaroxaban compared with warfarin in the hazard of intracranial hemorrhage was preserved across a wide range of threshold cTTR values .
+CONCLUSIONS	The treatment effect of rivaroxaban compared with warfarin for the prevention of stroke and systemic embolism is consistent regardless of cTTR .
+

@@ -1,0 +1,15 @@
+25226015
+OBJECTIVE	To assess the potential efficacy , safety , and optimal dosing concentration of tavaborole , a novel , boron-based pharmaceutical agent with broad-spectrum antifungal activity , for the treatment of onychomycosis of the toenail due to dermatophytes .
+METHODS	One double-blind , randomized , vehicle-controlled study ( study 1 ) and two open-label studies ( studies 2 and 3 ) examined the efficacy , safety , and optimal dosing concentration of tavaborole topical solution applied once daily or three times weekly for 180 days at concentrations of 1.0 % , 2.5 % , 5.0 % , or 7.5 % .
+METHODS	Patient cohort 3 of study 2 received open-label tavaborole 5.0 % once daily for 360 days .
+METHODS	All three studies assessed day 180 treatment success , defined as complete or partial clinical evidence of clear nail growth plus negative fungal culture .
+RESULTS	A total of 336 patients were included in the intent-to-treat ( ITT ) or modified ITT populations and efficacy analyses across the 3 studies .
+RESULTS	In study 1 , treatment success rates at day 180 were higher with tavaborole 2.5 % , 5.0 % , and 7.5 % vs vehicle ( 27 % , 26 % , and 32 % vs 14 % , respectively ; slope P = 0.030 ) .
+RESULTS	In cohort 3 of study 2 , 7 % of patients achieved treatment success with tavaborole 5.0 % at day 360 .
+RESULTS	Negative culture rates at day 180 in study 1 were numerically higher for tavaborole 2.5 % , 5.0 % , and 7.5 % vs vehicle ( slope P = 0.046 ) .
+RESULTS	Application-site reactions of general irritation , erythema , scaling , and stinging/burning were most common with tavaborole 7.5 % , were generally mild to moderate , and resolved with treatment discontinuation and/or a reduction in dosing frequency .
+RESULTS	No systemic safety concerns were observed .
+CONCLUSIONS	Tavaborole solution demonstrated favorable efficacy and safety in phase 2 clinical studies .
+CONCLUSIONS	Based on these findings , tavaborole topical solution , 5 % was further investigated in larger , more definitive phase 3 studies .
+CONCLUSIONS	Results from these completed phase 3 studies will provide additional evidence regarding the safety and efficacy of tavaborole in the treatment of toenail onychomycosis .
+

@@ -1,0 +1,14 @@
+24625239
+OBJECTIVE	We investigated the effects of dietary intervention with canola or olive oil in comparison with commonly used refined oil in Asian Indians with nonalcoholic fatty liver disease ( NAFLD ) .
+METHODS	This was a 6-month intervention study including 93 males with NAFLD , matched for age and body mass index ( BMI ) .
+METHODS	Subjects were randomized into three groups to receive olive oil ( n = 30 ) , canola oil ( n = 33 ) , and commonly used soyabean/safflower oil ( control ; n = 30 ) as cooking medium ( not exceeding 20 g/day ) along with counseling for therapeutic lifestyle changes .
+METHODS	The BMI , fasting blood glucose ( FBG ) and insulin levels , lipids , homeostasis model of assessment for insulin resistance ( HOMA-IR ) , HOMA denoting - cell function ( HOMA-CF ) , and disposition index ( DI ) were measured at pre - and post-intervention .
+METHODS	Data were analyzed with one-way analysis of variance ( ANOVA ) and Tukey 's Honestly Significant Difference multiple comparison test procedures .
+RESULTS	Olive oil intervention led to a significant decrease in weight and BMI ( ANOVA , P = 0.01 ) compared with the control oil group .
+RESULTS	In a comparison of olive and canola oil , a significant decrease in fasting insulin level , HOMA-IR , HOMA-CF , and DI ( P < 0.001 ) was observed in the olive oil group .
+RESULTS	Pre - and post-intervention analysis revealed a significant increase in high-density lipoprotein level ( P = 0.004 ) in the olive oil group and a significant decrease in FBG ( P = 0.03 ) and triglyceride ( P = 0.02 ) levels in the canola oil group .
+RESULTS	The pre - and post-intervention difference in liver span was significant only in the olive ( 1.14 2 cm ; P < 0.05 ) and canola ( 0.66 0.33 cm ; P < 0.05 ) oil groups .
+RESULTS	In the olive and canola oil groups , post-intervention grading of fatty liver was reduced significantly ( grade I , from 73.3 % to 23.3 % and from 60.5 % to 20 % , respectively [ P < 0.01 ] ; grade II , from 20 % to 10 % and from 33.4 % to 3.3 % , respectively [ P < 0.01 ] ; and grade III , from 6.7 % to none and from 6.1 % to none , respectively ) .
+RESULTS	In contrast , in the control oil group no significant change was observed .
+CONCLUSIONS	Results suggest significant improvements in grading of fatty liver , liver span , measures of insulin resistance , and lipids with use of canola and olive oil compared with control oils in Asian Indians with NAFLD .
+

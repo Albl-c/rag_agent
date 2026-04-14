@@ -1,0 +1,18 @@
+24835303
+OBJECTIVE	To compare two concentrations of ropivacaine administered for tumescent local anesthesia ( TLA ) in dogs undergoing mastectomy .
+METHODS	Prospective randomized clinical study .
+METHODS	Seventeen bitches of various breeds , aged 122years and weighing 106.5 kg requiring total unilateral or bilateral mastectomy .
+METHODS	Dogs were premedicated with acepromazine ( 0.04 mgkg ( -1 ) ) and morphine ( 0.4 mgkg ( -1 ) ) intramuscularly .
+METHODS	Anesthesia was induced with propofol ( 2.5 mgkg ( -1 ) ) and midazolam ( 0.2 mgkg ( -1 ) ) intravenously , followed by intubation and maintenance with isoflurane and TLA .
+METHODS	Dogs were randomly allocated to receive TLA either with 0.1 % ropivacaine ( group G1 ) or with 0.05 % ropivacaine ( group G05 ) .
+METHODS	TLA was performed by insertion of a multihole needle under the skin and infusion of ropivacaine and lactated Ringer 's solution at a fixed volume of 15mLkg ( -1 ) .
+METHODS	Ropivacaine concentrations in arterial blood were measured by high-performance liquid chromatography .
+METHODS	Post-operative pain was assessed using two scales ( University of Melbourne pain scale and a modified composite measure pain scale ) and von Frey filaments , 4hours after TLA and at 1hour intervals until sensitivity was regained .
+METHODS	A score above 30 % of the maximum possible score was considered a positive indicator of pain .
+RESULTS	Peak plasma concentrations of ropivacaine were measured 240minutes after TLA in G1 .
+RESULTS	Low concentrations were measured in G05 for 60minutes , with subsequent increase .
+RESULTS	Analgesic rescue and return of sensitivity occurred at 72.3 and 71.9 hours ( mean SD ) after TLA for G1 and G05 , respectively .
+CONCLUSIONS	Tumescent local anesthesia with ropivacaine provided satisfactory post-operative analgesia that lasted for several hours , with no difference in duration between the concentrations .
+CONCLUSIONS	No serious side effects were attributed to TLA .
+CONCLUSIONS	Results indicated that 0.05 % ropivacaine provided adequate analgesia for mastectomy , however , more studies are required to support this conclusion .
+

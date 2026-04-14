@@ -1,0 +1,21 @@
+25837829
+BACKGROUND	Hepatitis C virus ( HCV ) genotype 4 accounts for about 13 % of global HCV infections .
+BACKGROUND	Because interferon-containing treatments for genotype 4 infection have low efficacy and poor tolerability , an unmet need exists for effective all-oral regimens .
+BACKGROUND	We examined the efficacy and safety of an all-oral interferon-free regimen of ombitasvir , an NS5A inhibitor , and paritaprevir ( ABT-450 ) , an NS3/4A protease inhibitor dosed with ritonavir ( ombitasvir plus paritaprevir plus ritonavir ) , given with or without ribavirin .
+METHODS	In this multicentre ongoing phase 2b , randomised , open-label combination trial ( PEARL-I ) , patients were recruited from academic , public , and private hospitals and clinics in France , Hungary , Italy , Poland , Romania , Spain , Turkey , and the USA .
+METHODS	Eligible participants were aged 18-70 years with non-cirrhotic , chronic HCV genotype 4 infection ( documented 6 months before screening ) and plasma HCV RNA levels higher than 10,000 IU/mL .
+METHODS	Previously untreated ( treatment-naive ) patients were randomly assigned ( 1:1 ) by computer-generated randomisation lists to receive once-daily ombitasvir ( 25 mg ) plus paritaprevir ( 150 mg ) plus ritonavir ( 100 mg ) with or without weight-based ribavirin for 12 weeks .
+METHODS	Previously treated ( treatment-experienced ) patients who had received pegylated interferon plus ribavirin all received the ribavirin-containing regimen .
+METHODS	The primary endpoint was a sustained virological response ( HCV RNA < 25 IU/mL ) 12 weeks after the end of treatment ( SVR12 ) .
+METHODS	Analysis was by intention to treat .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT01685203 .
+RESULTS	Between Aug 14 , 2012 , and Nov 19 , 2013 , 467 patients with HCV infection were screened , of whom 174 were infected with genotype 4.135 patients were randomly assigned to treatment and received at least one dose of study medication ; 86 patients were treatment-naive , of whom 44 received ombitasvir plus paritaprevir plus ritonavir and 42 received ombitasvir plus paritaprevir plus ritonavir with ribavirin , and 49 treatment-experienced patients received the ribavirin-containing regimen .
+RESULTS	In previously untreated patients , SVR12 rates were 100 % ( 42/42 [ 95 % CI 916-100 ] ) in the ribavirin-containing regimen and 909 % ( 40/44 [ 95 % CI 783-975 ] ) in the ribavirin-free regimen .
+RESULTS	No statistically significant differences in SVR12 rates were noted between the treatment-naive groups ( mean difference -916 % [ 95 % CI -1961 to 129 ] ; p = 0086 ) .
+RESULTS	All treatment-experienced patients achieved SVR12 ( 49/49 ; 100 % [ 95 % CI 927-100 ] ) .
+RESULTS	In the ribavirin-free group , two ( 5 % ) of 42 treatment-naive patients had virological relapse , and one ( 2 % ) of 44 had virological breakthrough ; no virological failures were recorded in the ribavirin-containing regimen .
+RESULTS	The most common adverse event was headache ( 14 [ 29 % ] of 49 treatment-experienced patients and 14 [ 33 % ] of 42 treatment-naive patients ) .
+RESULTS	No adverse event-related discontinuations or dose interruptions of study medications , including ribavirin , were noted , and only four patients ( 4 % ) of 91 receiving ribavirin required dose modification for haemoglobin less than 100 g/L or anaemia .
+CONCLUSIONS	An interferon-free regimen of ombitasvir plus paritaprevir plus ritonavir with or without ribavirin achieved high sustained virological response rates at 12 weeks after the end of treatment and was generally well tolerated , with low rates of anaemia and treatment discontinuation in non-cirrhotic previously untreated and previously treated patients with HCV genotype 4 infection .
+BACKGROUND	AbbVie .
+

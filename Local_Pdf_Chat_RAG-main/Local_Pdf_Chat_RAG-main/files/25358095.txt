@@ -1,0 +1,21 @@
+25358095
+BACKGROUND	Smoking reduction remains a pivotal issue in public health policy , but quit rates obtained with traditional quit-smoking therapies remain disappointingly low .
+BACKGROUND	Tobacco Harm Reduction ( THR ) , aiming at less harmful ways of consuming nicotine , may provide a more effective alternative .
+BACKGROUND	One promising candidate for THR are electronic cigarettes ( e-cigs ) .
+BACKGROUND	The aim of this study was to investigate the efficacy of second-generation e-cigs both in terms of acute craving-reduction in the lab and in terms of smoking reduction and experienced benefits/complaints in an eight-month Randomized Controlled Trial ( RCT ) .
+METHODS	RCT with three arms .
+METHODS	Participants ( N = 48 ) unwilling to quit smoking were randomized into two e-cig groups and one control group .
+METHODS	During three lab sessions ( over two months ) participants , who had been abstinent for four hours , vaped/smoked for five minutes , after which we monitored the effect on craving and withdrawal symptoms .
+METHODS	eCO and saliva cotinine levels were also measured .
+METHODS	In between lab sessions , participants in the e-cig groups could use e-cigs or smoke ad libitum , whereas the control group could only smoke .
+METHODS	After the lab sessions , the control group also received an e-cig .
+METHODS	The RCT included several questionnaires , which repeatedly monitored the effect of ad libitum e-cig use on the use of tobacco cigarettes and the experienced benefits/complaints up to six months after the last lab session .
+RESULTS	From the first lab session on , e-cig use after four hours of abstinence resulted in a reduction in cigarette craving which was of the same magnitude as when a cigarette was smoked , while eCO was unaffected .
+RESULTS	After two months , we observed that 34 % of the e-cig groups had stopped smoking tobacco cigarettes , versus 0 % of the control group .
+RESULTS	After five months , the e-cig groups demonstrated a total quit-rate of 37 % , whereas the control group showed a quit rate of 38 % three months after initiating e-cig use .
+RESULTS	At the end of the eight-month study , 19 % of the e-cig groups and 25 % of the control group were totally abstinent from smoking , while an overall reduction of 60 % in the number of cigarettes smoked per day was observed ( compared to intake ) .
+RESULTS	eCO levels decreased , whereas cotinine levels were the same in all groups at each moment of measurement .
+RESULTS	Reported benefits far outweighed the reported complaints .
+CONCLUSIONS	In a series of controlled lab sessions with e-cig nave tobacco smokers , second generation e-cigs were shown to be immediately and highly effective in reducing abstinence induced cigarette craving and withdrawal symptoms , while not resulting in increases in eCO .
+CONCLUSIONS	Remarkable ( > 50 pc ) eight-month reductions in , or complete abstinence from tobacco smoking was achieved with the e-cig in almost half ( 44 % ) of the participants .
+

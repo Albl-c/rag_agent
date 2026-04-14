@@ -1,0 +1,11 @@
+24360173
+OBJECTIVE	To explore the effects of reconstructing method ( narrow gastric tube ( NGT ) versus whole stomach ( WS ) ) on health-related quality of life ( HRQL ) in patients during a 3-year follow-up .
+METHODS	In a prospective randomized single-center study from 2007 to 2008 , 104 patients underwent esophagectomy for cancer .
+METHODS	They were divided into NGT ( n = 52 ) and WS ( n = 52 ) groups .
+METHODS	To assess HRQL , a questionnaire in references to EORTC-QLQ-C30 and QLQ-OES18 was administered at 3 weeks , 6 months , 1 year , 2 year and 3 years post-operation .
+METHODS	Their clinical data were collected prospectively and follow-up was performed regularly .
+RESULTS	The patients in the NGT group reported significantly ( P < 0.05 ) better average scores of HRQL at both 6 months and 1 year.However , no significant difference in average scores of HRQL was found at 3 years .
+RESULTS	Patients in the NGT group reported significantly ( P < 0.05 ) better scores of reflux at 3 weeks , 6 months and 1 year.Nausea was the only item with significant difference on HRQL at 2 years and 3 years.No significant difference existed between two groups with regards to cumulative survival rate at 3 years .
+CONCLUSIONS	No significant difference existed between two groups with regards to cumulative survival rate at 3 years .
+CONCLUSIONS	The patients with gastric tube reconstruction after oncologic esophagectomy present better HRQL.Further studies are warranted to perform survival analysis beyond 3 year post-operation .
+

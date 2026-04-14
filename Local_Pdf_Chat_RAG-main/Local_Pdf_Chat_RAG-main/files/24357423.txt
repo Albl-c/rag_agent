@@ -1,0 +1,18 @@
+24357423
+BACKGROUND	Incisional hernias in old stoma wounds occur in one-third of former stoma patients and pose a significant clinical problem .
+BACKGROUND	Parastomal hernias can be prevented by prophylactic mesh placement ; however , no trial results are available for incisional hernia prevention after stoma reversal .
+BACKGROUND	In this feasibility study , we explore the safety of placing an intraperitoneal mesh to prevent incisional herniation after temporary stoma reversal .
+METHODS	Ten patients who underwent a low anterior resection with a deviating double-loop stoma for rectal cancer received an intraperitoneal parastomal mesh at the time of stoma formation .
+METHODS	At stoma reversal , laparoscopy was performed and adhesions were scored .
+METHODS	After reversal , the mesh defect was closed .
+METHODS	Mesh and stoma complications were closely monitored .
+METHODS	Incisional herniation was assessed at the 2-year follow-up after stoma reversal using ultrasonography .
+RESULTS	No infections occurred after mesh placement .
+RESULTS	After a median of 6 months , stomas were reversed .
+RESULTS	Laparoscopy could be performed in seven patients ; all patients had adhesions ( median of 25 % of mesh surface ) .
+RESULTS	In three patients , the bowel was involved ; one required a laparotomy for bowel mobilization during stoma reversal .
+RESULTS	No adhesion-related morbidity was noted at any time .
+RESULTS	Except for one superficial wound infection after stoma reversal , no infectious complications were observed .
+RESULTS	After a median follow-up of 26 months , no incisional herniations were demonstrated .
+CONCLUSIONS	Prophylactic mesh placement in temporary stoma formations seems safe and feasible and prevents incisional herniation 2 years after stoma reversal .
+

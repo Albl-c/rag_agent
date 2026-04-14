@@ -1,0 +1,11 @@
+24356394
+BACKGROUND	Renin-angiotensin system ( RAS ) inhibition has proven to be helpful in reducing cardiovascular and kidney disease progression in the general population ; whether kidney transplant patients would derive similar benefits is unknown .
+BACKGROUND	RAS inhibition also reduces posttransplantation erythrocytosis in kidney transplant recipients , but its effect on hemoglobin ( Hb ) levels in patients without posttransplantation erythrocytosis is unclear .
+METHODS	The Specific Management of Anemia and Hypertension in Renal Transplant ( SMAhRT ) recipients study was designed to examine the cardiovascular benefits of RAS blockade with telmisartan 80 mg versus placebo , and Hb management with darbepoetin in a randomized , double-blind , single-center controlled trial in 2,000 patients over 3 years .
+METHODS	The primary efficacy variable was a composite of all-cause mortality , myocardial infarction or stroke .
+RESULTS	The SMAhRT study was stopped prematurely due to a lower than expected event rate .
+RESULTS	At that point , 136 patients were enrolled and were followed for a mean duration of 15 months .
+RESULTS	The use of RAS blockade was not associated with an increased risk of adverse events such as worsening anemia or hyperkalemia .
+RESULTS	Likewise , the correction of Hb with darbepoetin was not associated with any increase in thrombotic events .
+CONCLUSIONS	This study provides insight into the safety of RAS inhibition and Hb correction with an erythrocyte-stimulating agent in kidney transplant recipients .
+

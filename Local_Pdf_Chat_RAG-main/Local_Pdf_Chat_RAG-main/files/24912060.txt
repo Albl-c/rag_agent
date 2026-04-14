@@ -1,0 +1,12 @@
+24912060
+OBJECTIVE	Despite the large number of Latinos living in the United States , little research has evaluated the effectiveness of different vocational rehabilitation programs for individuals with severe mental illness in this rapidly growing minority population .
+OBJECTIVE	This article presents a secondary analysis of a randomized , controlled trial comparing supported employment with 2 other vocational rehabilitation programs in 3 ethnic/racial groups of participants with severe mental illness : Latinos , non-Latino African Americans , and non-Latino Whites .
+METHODS	The data were drawn from a previously published randomized , controlled trial comparing supported employment with standard vocational rehabilitation services and a psychosocial clubhouse program in persons with severe mental illness ( Mueser et al. , 2004 ) , including 64 Latinos , 91 non-Latino African Americans , and 43 non-Latino Whites .
+METHODS	Comparisons were made between the 3 groups at baseline on demographic characteristics , clinical and psychosocial functioning , and quality of life .
+METHODS	Within each ethnic/racial group , competitive employment and all paid employment outcomes were compared between the 3 vocational rehabilitation programs over the 2-year study period .
+RESULTS	At baseline , the Latino participants had lower levels of education and disability income , were less likely to have worked competitively over the previous 5 years , had more severe symptoms , and worse psychosocial functioning than the non-Latino African American or non-Latino White participants .
+RESULTS	Latinos randomized to supported employment had better competitive and all-paid work outcomes than those assigned to either standard services or the psychosocial clubhouse program , similar to the non-Latino consumers .
+RESULTS	Rates of competitive work for consumers in supported employment were comparable across all 3 racial/ethnic groups .
+CONCLUSIONS	Supported employment is effective at improving competitive work in Latinos with severe mental illness .
+CONCLUSIONS	Efforts should be made to increase access to supported employment in the growing population of Latinos with severe mental illness .
+

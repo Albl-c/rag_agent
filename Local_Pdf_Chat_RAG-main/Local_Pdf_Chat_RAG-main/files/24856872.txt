@@ -1,0 +1,16 @@
+24856872
+BACKGROUND	The 2009 KDIGO ( Kidney Disease : Improving Global Outcomes ) chronic kidney disease-mineral and bone disorder clinical practice guideline suggests correcting 25-hydroxyvitamin D3 ( 25 [ OH ] D ) levels < 30ng/mL in patients treated with maintenance hemodialysis , but does not provide a specific treatment protocol .
+METHODS	2-center , double-blind , randomized , 13-week , controlled trial followed by a 26-week open-label study .
+METHODS	55 adult maintenance hemodialysis patients with 25 ( OH ) D levels < 30ng/mL were recruited from June 2008 through October2009 .
+METHODS	Cholecalciferol , 25,000 IU , per week orally versus placebo for 13 weeks , then 26 weeks of individualized cholecalciferol prescription based on NKF-KDOQI ( National Kidney Foundation-Kidney Disease Outcomes Quality Initiative ) guidelines .
+RESULTS	Primary end point was the percentage of patients with 25 ( OH ) D levels30ng/mL at 13 weeks .
+RESULTS	Secondary outcomes included the percentage of patients with normal calcium , phosphorus , and intact parathyroidhormone ( iPTH ) blood levels .
+RESULTS	Safety measures included incidence of hypercalcemia and hypervitaminosis D.
+METHODS	Blood calcium and phosphate were measured weekly ; iPTH , 25 ( OH ) D , 1,25-dihydroxyvitamin D3 ( 1,25 [ OH ] 2D ) , and bone turnover markers , trimonthly ; fetuin A and fibroblast growth factor 23 ( FGF-23 ) serum levels and aortic calcification scores were determined at weeks 0 and39 .
+RESULTS	The primary end point significantly increased in the treatment group compared with the placebo group ( 61.5 % vs 7.4 % ; P < 0.001 ) , as well as 1,25 ( OH ) 2D levels ( 22.5 [ IQR , 15-26 ] vs 11 [ IQR , 10-15 ] pg/mL ; P < 0.001 ) and the proportion of patients achieving the target calcium level ( 76.9 % vs 48.2 % ; P = 0.03 ) .
+RESULTS	Incidence of hypercalcemia and phosphate and iPTH levels were similar between groups .
+RESULTS	The second 26-week study phase did not significantly modify the prevalence of 25 ( OH ) D level30ng/mL in patients issued from the placebo group .
+CONCLUSIONS	Small size of the study population .
+CONCLUSIONS	Oral weekly administration of 25,000 IU of cholecalciferol for 13 weeks is an effective , safe , inexpensive , and manageable way to increase 25 ( OH ) D and 1,25 ( OH ) 2D levels in hemodialysis patients .
+CONCLUSIONS	Further evaluation of clinical end points is suggested .
+

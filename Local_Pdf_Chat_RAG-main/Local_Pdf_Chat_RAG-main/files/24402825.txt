@@ -1,0 +1,12 @@
+24402825
+METHODS	Curcumin revealed various health-beneficial properties in numerous studies .
+METHODS	However its bioavailability is low due to its limited intestinal uptake and rapid metabolism .
+METHODS	The aim of our project was to develop novel curcumin formulations with improved oral bioavailability and to study their safety as well as potential sex-differences .
+RESULTS	In this crossover study , healthy subjects ( 13 women , 10 men ) took , in random order , a single oral dose of 500 mg curcuminoids as native powder , micronized powder , or liquid micelles .
+RESULTS	Blood and urine samples were collected for 24 h and total curcuminoids and safety parameters were quantified .
+RESULTS	Based on the area under the plasma concentration-time curve ( AUC ) , the micronized curcumin was 14 - , 5 - , and 9-fold and micellar curcumin 277 - , 114 - , and 185-fold better bioavailable than native curcumin in women , men , and all subjects , respectively .
+RESULTS	Thus , women absorbed curcumin more efficiently than men .
+RESULTS	All safety parameters remained within the reference ranges following the consumption of all formulations .
+CONCLUSIONS	Both , the micronized powder and in particular the liquid micellar formulation of curcumin significantly improved its oral bioavailability without altering safety parameters and may thus be ideally suited to deliver curcumin in human intervention trials .
+CONCLUSIONS	The observed sex differences in curcumin absorption warrant further investigation .
+

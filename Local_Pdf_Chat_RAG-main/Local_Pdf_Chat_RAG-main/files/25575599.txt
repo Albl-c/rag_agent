@@ -1,0 +1,14 @@
+25575599
+BACKGROUND	Effective strategies for contacting and recruiting study participants are critical in conducting clinical research .
+BACKGROUND	In this study , we conducted two sequential randomized controlled trials of mail - and telephone-based strategies for contacting and recruiting participants , and evaluated participant-related variables ' association with time to survey completion and survey completion rates .
+BACKGROUND	Subjects eligible for this study were survivors of acute lung injury who had been previously enrolled in a 12-month observational follow-up study evaluating their physical , cognitive and mental health outcomes , with their last study visit completed at a median of 34 months previously .
+METHODS	Eligible subjects were contacted to complete a new research survey as part of two randomized trials , initially using a randomized mail-based contact strategy , followed by a randomized telephone-based contact strategy for non-responders to the mail strategy .
+METHODS	Both strategies focused on using either a personalized versus a generic approach .
+METHODS	In addition , 18 potentially relevant subject-related variables ( e.g. , demographics , last known physical and mental health status ) were evaluated for association with time to survey completion .
+RESULTS	Of 308 eligible subjects , 67 % completed the survey with a median ( IQR ) of 3 ( 2 , 5 ) contact attempts required .
+RESULTS	There was no significant difference in the time to survey completion for either randomized trial of mail - or phone-based contact strategy .
+RESULTS	Among all subject-related variables , age 40 years and minority race were independently associated with a longer time to survey completion .
+CONCLUSIONS	We found that age 40 years and minority race were associated with a longer time to survey completion , but personalized versus generic approaches to mail - and telephone-based contact strategies had no significant effect .
+CONCLUSIONS	Repeating both mail and telephone contact attempts was important for increasing survey completion rate .
+BACKGROUND	NCT00719446 .
+

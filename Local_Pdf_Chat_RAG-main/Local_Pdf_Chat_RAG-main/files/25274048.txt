@@ -1,0 +1,13 @@
+25274048
+BACKGROUND	In a large cluster-randomized trial on the impact of a prediction model , presenting the calculated risk of postoperative nausea and vomiting ( PONV ) on-screen ( assistive approach ) increased the administration of risk-dependent PONV prophylaxis by anaesthetists .
+BACKGROUND	This change in therapeutic decision-making did not improve the patient outcome ; that is , the incidence of PONV .
+BACKGROUND	The present study aimed to quantify the effects of adding a specific therapeutic recommendation to the predicted risk ( directive approach ) on PONV prophylaxis decision-making and the incidence of PONV .
+METHODS	A prospective before-after study was conducted in 1483 elective surgical inpatients .
+METHODS	The before-period included care-as-usual and the after-period included the directive risk-based ( intervention ) strategy .
+METHODS	Risk-dependent effects on the administered number of prophylactic antiemetics and incidence of PONV were analysed by mixed-effects regression analysis .
+RESULTS	During the intervention period anaesthetists administered 0.5 [ 95 % confidence intervals ( CIs ) : 0.4-0 .6 ] more antiemetics for patients identified as being at greater risk of PONV .
+RESULTS	This directive approach led to a reduction in PONV [ odds ratio ( OR ) : 0.60 , 95 % CI : 0.43-0 .83 ] , with an even greater reduction in PONV in high-risk patients ( OR : 0.45 , 95 % CI : 0.28-0 .72 ) .
+CONCLUSIONS	Anaesthetists administered more prophylactic antiemetics when a directive approach was used for risk-tailored intervention compared with care-as-usual .
+CONCLUSIONS	In contrast to the previously studied assistive approach , the increase in PONV prophylaxis now resulted in a lower PONV incidence , particularly in high-risk patients .
+CONCLUSIONS	When one aims for a truly ` PONV-free hospital ' , a more liberal use of prophylactic antiemetics must be accepted and lower-risk thresholds should be set for the actionable recommendations .
+

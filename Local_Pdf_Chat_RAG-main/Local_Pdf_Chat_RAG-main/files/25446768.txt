@@ -1,0 +1,12 @@
+25446768
+BACKGROUND	Amino-acid-based formulas ( AAFs ) are recommended for children with cow 's milk protein allergy ( CMPA ) failing to respond to extensively hydrolyzed formulas ( eHFs ) .
+OBJECTIVE	This study aimed to assess the tolerance/hypoallergenicity and efficacy of a thickened AAF ( TAAF ) in these infants .
+METHODS	This multicenter , double-blind , randomized controlled trial ( NCT01940068 ) compared 3-month feeding with a pectin-based TAAF ( Novalac ( ) , United Pharmaceuticals , Paris , France ) and a commercially available `` reference '' AAF ( RAAF ; Neocate ( ) , Nutricia , Germany ) in infants aged < 18 months with CMPA and persistent allergy symptoms with eHF feeding .
+METHODS	Reported here are the results of an interim analysis after 1 month of feeding .
+RESULTS	Of the 86 infants randomized , CMPA with eHF intolerance was confirmed in 75 infants ; all of them tolerated the allocated AAFs .
+RESULTS	The major allergic symptom disappeared within 1 month in 61.9 and 51.5 % and regurgitations disappeared in 66.7 and 42.3 % of infants who received TAAF and RAAF , respectively .
+RESULTS	Infants had significantly more normal stools ( soft or formed consistency ) with the TAAF ( 90.5 vs. 66.7 % ; p = 0.011 ) .
+RESULTS	From baseline , daily family life significantly improved with both AAFs : crying time decreased by 97.3 ( p < 0.001 ) and 28.6 min ( p = 0.014 ) and sleeping time increased by 64.6 ( p = 0.009 ) and 29.0 min with TAAF and RAAF , respectively .
+RESULTS	At day 30 , weight and body mass index z-score gains were 0.1 and 0.2 with TAAF and 0.2 and 0.0 with RAAF .
+CONCLUSIONS	Both AAFs were well tolerated by infants with CMPA and eHF intolerance and ensured appropriate growth , with the TAAF providing additional comfort .
+

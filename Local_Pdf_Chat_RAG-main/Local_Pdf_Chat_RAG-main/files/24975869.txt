@@ -1,0 +1,12 @@
+24975869
+OBJECTIVE	Our primary objective was to determine the proportion of patients with atrial fibrillation ( AF ) eligible for enrollment in a randomized controlled trial for a novel oral anticoagulant , the ARISTOTLE trial .
+OBJECTIVE	A secondary objective was to describe the reasons for trial ineligibility .
+METHODS	We performed a cross-sectional study of an unselected population including 2274 patients in Skellefte , Sweden with at least one verified episode of AF on or before December 31 , 2010 .
+METHODS	Patients were classified as suitable or unsuitable for anticoagulant treatment according to current guidelines .
+METHODS	The enrollment criteria from the ARISTOTLE trial were extracted from the original publication and applied to the population .
+RESULTS	Among all patients with AF , 1579 were classified as suitable for anticoagulant treatment .
+RESULTS	Of these , only 658 patients ( 42 % ) were eligible for participation in the ARISTOTLE trial .
+RESULTS	Among the 921 patients ineligible for participation , 498 did not meet the ECG criteria , 272 had psychosocial problems , and in addition , 78 patients were excluded due to both of these criteria .
+CONCLUSIONS	Our study shows that a majority of the patients in an unselected population with AF suitable for anticoagulant treatment were ineligible for participation in the ARISTOTLE trial .
+CONCLUSIONS	The applicability of the ARISTOTLE trial is therefore unknown for a considerable proportion of patients with AF in real life .
+

@@ -1,0 +1,16 @@
+24726507
+OBJECTIVE	The decision of whether to retain or remove a previously placed cervical cerclage in women who subsequently rupture fetal membranes in a premature gestation is controversial and all studies to date are retrospective .
+OBJECTIVE	We performed a multicenter randomized controlled trial of removal vs retention of cerclage in these patients to determine whether leaving the cerclage in place prolonged gestation and/or increased the risk of maternal or fetal infection .
+METHODS	A prospective randomized multicenter trial of 27 hospitals was performed .
+METHODS	Patients included were those with cerclage placement at 23 weeks 6 days in singleton or twin pregnancies , with subsequent spontaneous rupture of membranes between 22 weeks 0 days and 32 weeks 6 days .
+METHODS	Patients were randomized to retention or removal of cerclage .
+METHODS	Patients were then expectantly managed and delivered only for evidence of labor , chorioamnionitis , fetal distress , or other medical or obstetrical indications .
+METHODS	Management after 34 weeks was at the clinician 's discretion .
+RESULTS	The initial sample size calculation determined that a total of 142 patients should be included but after a second interim analysis , futility calculations determined that the conditional power for showing statistical significance after randomizing 142 patients for the primary outcome of prolonging pregnancy was 22.8 % .
+RESULTS	Thus the study was terminated after a total of 56 subjects were randomized with complete data available for analysis , 32 to removal and 24 to retention of cerclage .
+RESULTS	There was no statistical significance in primary outcome of prolonging pregnancy by 1 week comparing the 2 groups ( removal 18/32 , 56.3 % ; retention 11/24 , 45.8 % ) P = .59 ; or chorioamnionitis ( removal 8/32 , 25.0 % ; retention 10/24 , 41.7 % ) P = .25 , respectively .
+RESULTS	There was no statistical difference in composite neonatal outcomes ( removal 16/33 , 50 % ; retention 17/30 , 56 % ) , fetal/neonatal death ( removal 4/33 , 12 % ; retention 5/30 , 16 % ) ; or gestational age at delivery ( removal mean 200 days ; retention mean 198 days ) .
+CONCLUSIONS	Statistically significant differences were not seen in prolongation of latency , infection , or composite neonatal outcomes .
+CONCLUSIONS	However , there was a numerical trend in the direction of less infectious morbidity , with immediate removal of cerclage .
+CONCLUSIONS	These findings may not have met statistical significance if the original sample size of 142 was obtained , however they provide valuable data suggesting that there may be no advantage to retaining a cerclage after preterm premature rupture of membranes and a possibility of increased infection with cerclage retention .
+

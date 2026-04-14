@@ -1,0 +1,12 @@
+25135542
+OBJECTIVE	To evaluate the efficacy of adding nepafenac 0.1 % ophthalmic suspension to dexamethasone 0.1 % eyedrops in controlling macular swelling and other manifestations of inflammation after uneventful cataract surgery .
+METHODS	Ophthalmology Department , Mlndal Hospital , Gothenburg , and St. Erik Eye Hospital , Stockholm , Sweden .
+METHODS	Randomized double-masked clinical trial .
+METHODS	Patients at low risk for postoperative inflammation were recruited and randomized to the nepafenac group or to the control group .
+METHODS	Postoperative swelling of the macula was assessed with ocular coherence tomography .
+METHODS	Laser flare intensity , corrected distance visual acuity , ocular discomfort , and visual complaints were also recorded .
+RESULTS	The analysis of intent-to-treat population comprised 75 patients in the nepafenac group and 77 patients in the control group .
+RESULTS	Compared with the control regimen , add-on nepafenac resulted in statistically significant reductions in the following parameters : change in macular volume at 3 weeks and 6 weeks ( P < .001 ) , proportion of patients with more than 10 m of swelling in the central macula at 3 weeks ( P < .0001 ) and 6 weeks ( P = .02 ) , mean laser flare intensity at 1 day ( P = .029 ) , pain during the first 24 hours postoperatively ( P < .0001 ) , and ocular discomfort and photophobia during the first 3 postoperative weeks ( P = .0058 and P = .0052 , respectively ) .
+CONCLUSIONS	The combination of topical nepafenac and steroid treatment reduced subclinical macular swelling and inflammation as well as subjective complaints , indicating it is an efficient antiinflammatory regimen after cataract surgery .
+BACKGROUND	No author has a financial or proprietary interest in any material or method mentioned .
+

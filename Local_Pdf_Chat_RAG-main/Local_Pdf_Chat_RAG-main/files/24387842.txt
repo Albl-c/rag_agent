@@ -1,0 +1,15 @@
+24387842
+BACKGROUND	Postoperative shivering is a frequent complication of surgery in developing countries and there is no satisfying method to treat it , letalone to cure it .
+BACKGROUND	We studied whether intravenous amino acid ( AA ) infusion can cure postoperative shivering in the postanesthesia care unit .
+METHODS	Sixty postanesthesia care unit patients with shivering grade 2 or higher and tympanic temperature < 36C received randomly either infusion of Novamin 18 AAs ( 2 mL/kg/h ) , pethidine ( 0.5 mg/kg ) , or tramadol ( 1 mg/kg ) .
+METHODS	Tympanic temperature , shivering grade , and thermal comfort were assessed every 5min for 60min .
+METHODS	Blood glucose and lactic acid concentrations were measured before and after treatment .
+METHODS	Postoperative nausea and vomiting were also recorded .
+RESULTS	Shivering stopped within 5min in the pethidine and tramadol groups versus 90 % stopped within 15min in AA group .
+RESULTS	There were five cases of reshivering in the tramadol group versus none in the AA or pethidine groups .
+RESULTS	Tympanic temperature increased slowly in all patients but increased significantly faster in the AA group .
+RESULTS	Thermal comfort improved significantly faster in the AA group versus the other two groups , thermal comfort was significantly higher in the tramadol versus the pethidine group 35min .
+RESULTS	Blood glucose concentration in AA group increased to 135.189.18 mg/dL .
+RESULTS	There were some cases of nausea and vomiting in pethidine and tramadol groups but none in the AA group .
+CONCLUSIONS	Novamin infusion can stop postoperative shivering and alleviates hypothermia and improves thermal comfort more effectively than tramadol and pethidine with less nausea and vomiting and causes a clinically acceptable blood glucose increase with no reshivering episodes .
+

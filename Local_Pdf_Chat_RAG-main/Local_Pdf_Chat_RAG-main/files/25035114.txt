@@ -1,0 +1,17 @@
+25035114
+BACKGROUND	In assessing quality of care in developing countries , retrospectively collected data are usually used given their availability .
+BACKGROUND	Retrospective data however suffer from such biases as recall bias and non-response bias .
+BACKGROUND	Comparing results obtained using prospectively and retrospectively collected data will help validate the use of the easily available retrospective data in assessing quality of care in past and future studies .
+METHODS	Prospective and retrospective datasets were obtained from a cluster randomized trial of a multifaceted intervention aimed at improving paediatric inpatient care conducted in eight rural Kenyan district hospitals by improving management of children admitted with pneumonia , malaria and diarrhea and/or dehydration .
+METHODS	Four hospitals received a full intervention and four a partial intervention .
+METHODS	Data were collected through 3 two weeks surveys conducted at baseline , after 6 and 18 months .
+METHODS	Retrospective data was sampled from paediatric medical records of patients discharged in the preceding six months of the survey while prospective data was collected from patients discharged during the two week period of each survey .
+METHODS	Risk Differences during post-intervention period of 16 quality of care indicators were analyzed separately for prospective and retrospective datasets and later plotted side by side for comparison .
+RESULTS	For the prospective data there was strong evidence of an intervention effect for 8 of the indicators and weaker evidence of an effect for one indicator , with magnitude of effect sizes varying from 23 % to 60 % difference .
+RESULTS	For the retrospective data , 10 process ( these include the 8 indicators found to be statistically significant in prospective data analysis ) indicators had statistically significant differences with magnitude of effects varying from 10 % to 42 % .
+RESULTS	The bar-graph comparing results from the prospective and retrospective datasets showed similarity in terms of magnitude of effects and statistical significance for all except two indicators .
+CONCLUSIONS	Multifaceted interventions can help improve adoption of clinical guidelines and hence improve the quality of care .
+CONCLUSIONS	The similar inference reached after analyses based on prospective assessment of case management is a useful finding as it supports the utility of work based on examination of retrospectively assembled case records allowing longer time periods to be studied while constraining costs .
+BACKGROUND	Current Controlled Trials ISRCTN42996612 .
+BACKGROUND	Trial registration date : 20/11/2008 .
+

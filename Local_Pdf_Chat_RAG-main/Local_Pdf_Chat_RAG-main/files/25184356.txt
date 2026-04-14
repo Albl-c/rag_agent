@@ -1,0 +1,17 @@
+25184356
+OBJECTIVE	Cerebral autosomal-dominant arteriopathy with subcortical infarcts and leukoencephalopathy ( CADASIL ) , a rare autosomal dominant disorder caused by NOTCH3 mutations , is characterized by vascular smooth muscle and endothelial cells abnormalities , altered vasoreactivity , and recurrent lacunar infarcts .
+OBJECTIVE	Vasomotor function may represent a key factor for disease progression .
+OBJECTIVE	Tetrahydrobiopterin , essential cofactor for nitric oxide synthesis in endothelial cells , ameliorates endothelial function .
+OBJECTIVE	We assessed whether supplementation with sapropterin , a synthetic tetrahydrobiopterin analog , improves endothelium-dependent vasodilation in CADASIL patients .
+METHODS	In a 24-month , multicenter randomized , double-blind , placebo-controlled trial , CADASIL patients aged 30 to 65 years were randomly assigned to receive placebo or sapropterin 200 to 400 mg BID .
+METHODS	The primary end point was change in the reactive hyperemia index by peripheral arterial tonometry at 24 months .
+METHODS	We also assessed the safety and tolerability of sapropterin .
+METHODS	Analysis was done by intention-to-treat .
+RESULTS	The intention-to-treat population included 61 patients .
+RESULTS	We found no significant difference between sapropterin ( n = 32 ) and placebo ( n = 29 ) in the primary end point ( mean difference in reactive hyperemia index by peripheral arterial tonometry changes 0.19 [ 95 % confidence interval , -0.18 , 0.56 ] ) .
+RESULTS	Reactive hyperemia index by peripheral arterial tonometry increased after 24 months in 37 % of patients on sapropterin and in 28 % on placebo ; however , after adjustment for age , sex , and clinical characteristics , improvement was not associated with treatment arm .
+RESULTS	The proportion of patients with adverse events was similar on sapropterin and on placebo ( 50 % versus 48.3 % ) ; serious adverse events occurred in 6.3 % versus 13.8 % , respectively .
+CONCLUSIONS	Sapropterin was safe and well-tolerated at the average dose of 5 mg/kg/day , but did not affect endothelium-dependent vasodilation in CADASIL patients .
+BACKGROUND	https://www.clinicaltrialsregister.eu .
+BACKGROUND	Unique identifier : 2007-004370-55 .
+

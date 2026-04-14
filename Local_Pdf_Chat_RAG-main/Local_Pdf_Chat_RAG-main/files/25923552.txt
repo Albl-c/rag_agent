@@ -1,0 +1,15 @@
+25923552
+BACKGROUND	The Diabetes Control and Complications Trial ( DCCT ) showed a beneficial effect of 6.5 years of intensive glycemic control on retinopathy in patients with type 1 diabetes .
+METHODS	Between 1983 and 1989 , a total of 1441 patients with type 1 diabetes in the DCCT were randomly assigned to receive either intensive diabetes therapy or conventional therapy aimed at preventing hyperglycemic symptoms .
+METHODS	They were treated and followed until 1993 .
+METHODS	Subsequently , 1375 of these patients were followed in the observational Epidemiology of Diabetes Interventions and Complications ( EDIC ) study .
+METHODS	The self-reported history of ocular surgical procedures was obtained annually .
+METHODS	We evaluated the effect of intensive therapy as compared with conventional therapy on the incidence and cost of ocular surgery during these two studies .
+RESULTS	Over a median follow-up of 23 years , 130 ocular operations were performed in 63 of 711 patients assigned to intensive therapy ( 8.9 % ) and 189 ocular operations in 98 of 730 patients assigned to conventional therapy ( 13.4 % ) ( P < 0.001 ) .
+RESULTS	After adjustment for DCCT baseline factors , intensive therapy was associated with a reduction in the risk of any diabetes-related ocular surgery by 48 % ( 95 % confidence interval [ CI ] , 29 to 63 ; P < 0.001 ) and a reduction in the risk of all such ocular procedures by 37 % ( 95 % CI , 12 to 55 ; P = 0.01 ) .
+RESULTS	Forty-two patients who received intensive therapy and 61 who received conventional therapy underwent cataract extraction ( adjusted risk reduction with intensive therapy , 48 % ; 95 % CI , 23 to 65 ; P = 0.002 ) ; 29 patients who received intensive therapy and 50 who received conventional therapy underwent vitrectomy , retinal-detachment surgery , or both ( adjusted risk reduction , 45 % ; 95 % CI , 12 to 66 ; P = 0.01 ) .
+RESULTS	The costs of surgery were 32 % lower in the intensive-therapy group .
+RESULTS	The beneficial effects of intensive therapy were fully attenuated after adjustment for mean glycated hemoglobin levels over the entire follow-up .
+CONCLUSIONS	Intensive therapy in patients with type 1 diabetes was associated with a substantial reduction in the long-term risk of ocular surgery .
+CONCLUSIONS	( Funded by the National Institute of Diabetes and Digestive and Kidney Diseases and others ; DCCT/EDIC ClinicalTrials.gov numbers , NCT00360893 and NCT00360815 . )
+

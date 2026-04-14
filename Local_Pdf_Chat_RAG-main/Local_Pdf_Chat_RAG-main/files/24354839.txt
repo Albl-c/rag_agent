@@ -1,0 +1,10 @@
+24354839
+OBJECTIVE	We evaluated the impact of influenza vaccine text message reminders in a low-income obstetric population .
+METHODS	We conducted a randomized controlled trial that enrolled 1187 obstetric patients from 5 community-based clinics in New York City .
+METHODS	The intervention group received 5 weekly text messages regarding influenza vaccination starting mid-September 2011 and 2 text message appointment reminders .
+METHODS	Both groups received standard automated telephone appointment reminders .
+METHODS	The prespecified endpoints were receipt of either pre - or postpartum influenza vaccination calculated cumulatively at the end of each month ( September-December 2011 ) .
+RESULTS	After adjusting for gestational age and number of clinic visits , women who received the intervention were 30 % more likely to be vaccinated as of December 2011 ( adjusted odds ratio [ AOR ] = 1.30 ; 95 % confidence interval [ CI ] = 1.003 , 1.69 end of September : AOR = 1.34 ; 95 % CI = 0.98 , 1.85 ; October : AOR = 1.35 ; 95 % CI = 1.05 , 1.75 ; November : AOR = 1.27 ; 95 % CI = 0.98 , 1.65 ) .
+RESULTS	The subgroup of women early in the third trimester at randomization showed the greatest intervention effect ( December 31 : 61.9 % intervention vs 49.0 % control ; AOR = 1.88 ; 95 % CI = 1.12 , 3.15 ) .
+CONCLUSIONS	In this low-income obstetric population , text messaging was associated with increased influenza vaccination , especially in those who received messages early in their third trimester .
+

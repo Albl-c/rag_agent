@@ -1,0 +1,13 @@
+24720535
+BACKGROUND	Inflammation may contribute to the high cardiovascular risk in diabetes mellitus ( DM ) and chronic kidney disease ( CKD ) .
+BACKGROUND	Monocyte chemoattractant protein-1 ( MCP-1 ) facilitates the recruitment of monocytes into atherosclerotic lesions and is involved in diabetic nephropathy .
+BACKGROUND	Interferon gamma ( IFN ) is important in atherosclerosis and increases the synthesis of chemokines including MCP-1 .
+BACKGROUND	Lipid-lowering treatment ( LLT ) with statins may have anti-inflammatory effects , and ezetimibe cotreatment provides additional cholesterol lowering .
+METHODS	After a placebo run-in period , the effects of simvastatin alone ( S ) or simvastatin + ezetimibe ( S+E ) were compared in a randomized , double-blind , cross-over study on inflammatory parameters .
+METHODS	Eighteen DM patients with estimated glomerular filtration rate ( eGFR ) 15-59mL / min173m ( 2 ) ( CKD stages 3-4 ) ( DM-CKD ) and 21 DM patients with eGFR > 75mL/min ( DM only ) were included .
+RESULTS	At baseline , monocyte chemoattractant protein 1 ( MCP-1 ) ( P = 003 ) , IFN ( P = 002 ) , tumour necrosis factor - ( TNF ) ( P < 001 ) and soluble vascular adhesion molecule ( sVCAM ) ( P = 0001 ) levels were elevated in DM-CKD compared with DM-only patients .
+RESULTS	LLT with S and S+E reduced MCP-1 levels ( P < 001 by anova ) and IFN levels ( P < 001 ) in DM-CKD patients but not in DM-only patients .
+RESULTS	Reductions were most pronounced with the combination treatment .
+CONCLUSIONS	DM patients with CKD stages 3-4 had increased inflammatory activity compared with DM patients with normal GFR .
+CONCLUSIONS	Lipid-lowering treatment decreased the levels of MCP-1 and IFN in DM patients with concomitant CKD , which may be beneficial with regard to the progression of both atherosclerosis and diabetic nephropathy .
+

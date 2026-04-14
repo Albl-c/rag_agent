@@ -1,0 +1,13 @@
+25081673
+BACKGROUND	Although continuing education is necessary for practicing nurses , it is very difficult to organize traditional classes because of large numbers of nurses and working shifts .
+BACKGROUND	Considering the increasing development of mobile electronic learning , we carried out a study to compare effects of the traditional face to face method with mobile learning delivered as text messages by cell phone .
+METHODS	Sixty female nurses working in our hospital were randomly divided into class and short message service ( SMS ) groups .
+METHODS	Lessons concerning breast cancer screening were prepared as 54 messages and sent in 17 days for the SMS group , while the class group participated in a class held by a university lecturer of breast and cancer surgery .
+METHODS	Pre - and post-tests were undertaken for both groups at the same time ; a retention test also was performed one month later .
+METHODS	For statistical analysis , the paired T test and the independent sample T test were used with SPSS software version 16 ; p < 0.05 was considered significant .
+RESULTS	Mean age and mean work experience of participants in class and SMS groups was 35.87.2 , 9.86.7 , 35.47.3 , and 11.58.5 , respectively .
+RESULTS	There was a significant increase in mean score post-tests ( compared with pre-tests ) in both groups ( p < 0.05 ) .
+RESULTS	Although a better improvement in scores of retention tests was demonstrated in the SMS group , the mean subtraction value of the post - and pretests as well as retention - and pre-tests showed no significant difference between the 2 groups ( p = 0.3 and p = 0.2 , respectively ) .
+CONCLUSIONS	Our study shows that teaching via SMS may probably replace traditional face to face teaching for continuing education in working nurses .
+CONCLUSIONS	Larger studies are suggested to confirm this .
+

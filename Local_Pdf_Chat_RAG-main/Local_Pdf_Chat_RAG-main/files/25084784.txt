@@ -1,0 +1,15 @@
+25084784
+BACKGROUND	Value of information analysis has been proposed as an alternative to the standard hypothesis testing approach , which is based on type I and type II errors , in determining sample sizes for randomized clinical trials .
+BACKGROUND	However , in addition to sample size calculation , value of information analysis can optimize other aspects of research design such as possible comparator arms and alternative follow-up times , by considering trial designs that maximize the expected net benefit of research , which is the difference between the expected cost of the trial and the expected value of additional information .
+OBJECTIVE	To apply value of information methods to the results of a pilot study on catheter securement devices to determine the optimal design of a future larger clinical trial .
+METHODS	An economic evaluation was performed using data from a multi-arm randomized controlled pilot study comparing the efficacy of four types of catheter securement devices : standard polyurethane , tissue adhesive , bordered polyurethane and sutureless securement device .
+METHODS	Probabilistic Monte Carlo simulation was used to characterize uncertainty surrounding the study results and to calculate the expected value of additional information .
+METHODS	To guide the optimal future trial design , the expected costs and benefits of the alternative trial designs were estimated and compared .
+RESULTS	Analysis of the value of further information indicated that a randomized controlled trial on catheter securement devices is potentially worthwhile .
+RESULTS	Among the possible designs for the future trial , a four-arm study with 220 patients/arm would provide the highest expected net benefit corresponding to 130 % return-on-investment .
+RESULTS	The initially considered design of 388 patients/arm , based on hypothesis testing calculations , would provide lower net benefit with return-on-investment of 79 % .
+CONCLUSIONS	Cost-effectiveness and value of information analyses were based on the data from a single pilot trial which might affect the accuracy of our uncertainty estimation .
+CONCLUSIONS	Another limitation was that different follow-up durations for the larger trial were not evaluated .
+CONCLUSIONS	The value of information approach allows efficient trial design by maximizing the expected net benefit of additional research .
+CONCLUSIONS	This approach should be considered early in the design of randomized clinical trials .
+

@@ -1,0 +1,14 @@
+25873721
+BACKGROUND	To prospectively evaluate whether short-term high-intensity ( interval ) training ( HI ( I ) T ) induces detectable morphological cardiac changes in previously untrained men in cardiovascular magnetic resonance imaging .
+RESULTS	Eighty-four untrained volunteers were randomly assigned to a HI ( I ) T group ( n = 42 ; 44.14.7 years ) or an inactive control group ( n = 42 ; 42.35.6 years ) .
+RESULTS	HI ( I ) T focused on interval runs ( intensity : 95 % -105 % of individually calculated heart rate at the anaerobic threshold ) .
+RESULTS	Before and after 16 weeks , all subjects underwent physiological examination , stepwise treadmill test with blood lactate analysis , and contrast-enhanced cardiovascular magnetic resonance imaging ( cine , tagging , and delayed enhancement ) .
+RESULTS	Indexed left ventricular ( LV ) and right ventricular ( RV ) volume ( LV , 77.18.5-83 .98.6 ; RV , 80.58.5-86 .68.1 ) and mass ( LV , 58.26.4-63 .48.1 ; RV , 14.81.7-16 .12.1 ) significantly increased with HI ( I ) T. Changes in LV and RV morphological parameters with HI ( I ) T were highly correlated with an increase in maximal aerobic capacity ( VO2max ) and a decrease in blood lactate concentration at the anaerobic threshold .
+RESULTS	Mean LV and RV remodeling index of HI ( I ) T group did not alter with training ( 0.76 0.09 and 0.240.10 g/mL , respectively [ P = 0.97 and P = 0.72 ] ) , indicating balanced cardiac adaptation .
+RESULTS	Myocardial circumferential strain decreased after HI ( I ) T within all 6 basal segments ( anteroseptal , P = 0.01 and anterolateral , P < 0.001 ) .
+RESULTS	There was no late gadolinium enhancement in any of the participants before or post HI ( I ) T.
+CONCLUSIONS	Sixteen weeks of HI ( I ) T lead to measurable changes in cardiac atrial and ventricular morphology and function in previously untrained men .
+CONCLUSIONS	This correlates with improvements in parameters of endurance capacity .
+BACKGROUND	URL : http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT01406730 .
+

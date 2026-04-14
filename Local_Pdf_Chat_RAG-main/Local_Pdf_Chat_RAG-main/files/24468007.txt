@@ -1,0 +1,15 @@
+24468007
+BACKGROUND	Artemisinin-based combination therapy ( ACT ) is widely recommended as first-line therapy for uncomplicated Plasmodium falciparum malaria worldwide .
+BACKGROUND	Artemisinin resistance has now been reported in Southeast Asia with a clinical phenotype manifested by slow parasite clearance .
+BACKGROUND	Although there are no reliable reports of artemisinin resistance in Africa , there is a need to better understand the dynamics of parasite clearance in African children treated with ACT in order to better detect the emergence of artemisinin resistance .
+METHODS	Data from a cohort of Ugandan children four to five years old , enrolled in a longitudinal , randomized , clinical trial comparing two leading ACT , artemether-lumefantrine ( AL ) and dihydroartemisinin-piperaquine ( DP ) , were analysed .
+METHODS	For all episodes of uncomplicated P. falciparum malaria over a 14-month period , daily blood smears were performed for three days following the initiation of therapy .
+METHODS	Associations between pre-treatment variables of interest and persistent parasitaemia were estimated using multivariate , generalized , estimating equations with adjustment for repeated measures in the same patient .
+RESULTS	A total of 202 children were included , resulting in 416 episodes of malaria treated with AL and 354 episodes treated with DP .
+RESULTS	The prevalence of parasitaemia on days 1 , 2 , and 3 following initiation of therapy was 67.6 , 5.6 and 0 % in those treated with AL , and 52.2 , 5.7 and 0.3 % in those treated with DP .
+RESULTS	Independent risk factors for persistent parasitaemia on day 1 included treatment with AL vs DP ( RR = 1.34 , 95 % CI 1.20-1 .50 , p < 0.001 ) , having a temperature 38.0 C vs < 37.0 C ( RR = 1.19 , 95 % CI 1.05-1 .35 , p = 0.007 ) and having a parasite density > 20,000 / L vs < 4,000 / L ( RR = 3.37 , 95 % CI 2.44-4 .49 , p < 0.001 ) .
+RESULTS	Independent risk factors for having persistent parasitaemia on day 2 included elevated temperature , higher parasite density , and being HIV infected .
+CONCLUSIONS	Among Ugandan children , parasite clearance following treatment with AL or DP was excellent with only one of 752 patients tested having a positive blood slide three days after initiation of therapy .
+CONCLUSIONS	The type of ACT given , pre-treatment temperature , pre-treatment parasite density and HIV status were associated with differences in persistent parasitaemia , one or two days following therapy .
+BACKGROUND	Current Controlled Trials Identifier NCT00527800 .
+

@@ -1,0 +1,16 @@
+25449059
+BACKGROUND	Studies have shown that tiotropium once daily reduces lung hyperinflation and dyspnea during exercise and improves exercise tolerance in patients with COPD .
+BACKGROUND	Mechanisms underlying the effects of the muscarinic receptor antagonist tiotropium on COPD have not been fully understood .
+OBJECTIVE	In this study , we investigated whether improvement in neural respiratory drive is responsible for reducing dyspnea during exercise and improving exercise tolerance in COPD .
+METHODS	Twenty subjects with severe COPD were randomized into two groups : no treatment ( Control , n = 10 , 63.64.6 years , FEV1 29.613.3 % pred ) or inhaled tiotropium 18g once daily for 1 month ( n = 10 , 66.55.4 years , FEV1 33.011.1 % pred ) .
+METHODS	All subjects were allowed to continue their daily medications other than anti-cholinergics during the study .
+METHODS	Constant cycle exercise with 75 % of maximal workload and spirometry were performed before and 1 month after treatment .
+METHODS	Diaphragmatic EMG ( EMGdi ) and respiratory pressures were recorded with multifunctional esophageal catheter .
+METHODS	Efficiency of neural respiratory drive , defined as the ratio of minute ventilation ( VE ) and diaphragmatic EMG ( VE/EMGdi % max ) , was calculated .
+METHODS	Modified British Medical Research Council Dyspnea Scale ( mMRC ) was used for the evaluation of dyspnea before and after treatment .
+RESULTS	There was no significant difference in spirometry before and after treatment in both groups .
+RESULTS	Diaphragmatic EMG decreased significantly at rest ( 28.110.9 % vs. 22.610.7 % , P < 0.05 ) and mean efficiency of neural respiratory drive at the later stage of exercise increased ( 39.82.9 vs. 45.23.9 , P < 0.01 ) after 1-month treatment with tiotropium .
+RESULTS	There were no remarkable changes in resting EMGdi and mean efficiency of neural respiratory drive post-treatment in control group .
+RESULTS	The score of mMRC decreased significantly ( 2.50.5 vs. 1.90.7 , P < 0.05 ) after 1-month treatment with tiotropium , but without significantly difference in control group .
+CONCLUSIONS	Tiotropium significantly reduces neural respiratory drive at rest and improves the efficiency of neural respiratory drive during exercise , which might account for the improvement in exercise tolerance in COPD .
+

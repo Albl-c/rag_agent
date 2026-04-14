@@ -1,0 +1,13 @@
+24795201
+BACKGROUND	In clinical trials , treatment with a combination of the nucleotide polymerase inhibitor sofosbuvir and the antiviral drug ribavirin was associated with high response rates among patients with hepatitis C virus ( HCV ) genotype 2 infection , with lower response rates among patients with HCV genotype 3 infection .
+METHODS	We conducted a study involving patients with HCV genotype 2 or 3 infection , some of whom had undergone previous treatment with an interferon-based regimen .
+METHODS	We randomly assigned 91 patients with HCV genotype 2 infection and 328 with HCV genotype 3 infection , in a 4:1 ratio , to receive sofosbuvir-ribavirin or placebo for 12 weeks .
+METHODS	On the basis of emerging data from phase 3 trials indicating that patients with HCV genotype 3 infection had higher response rates when they were treated for 16 weeks , as compared with 12 weeks , the study was unblinded , treatment for all patients with genotype 3 infection was extended to 24 weeks , the placebo group was terminated , and the goals of the study were redefined to be descriptive and not include hypothesis testing .
+METHODS	The primary end point was a sustained virologic response at 12 weeks after the end of therapy .
+RESULTS	Of the 419 patients who were enrolled and treated , 21 % had cirrhosis and 58 % had received previous interferon-based treatment .
+RESULTS	The criterion for a sustained virologic response was met in 68 of 73 patients ( 93 % ; 95 % confidence interval [ CI ] , 85 to 98 ) with HCV genotype 2 infection who were treated for 12 weeks and in 213 of 250 patients ( 85 % ; 95 % CI , 80 to 89 ) with HCV genotype 3 infection who were treated for 24 weeks .
+RESULTS	Among patients with HCV genotype 3 infection , response rates were 91 % and 68 % among those without and those with cirrhosis , respectively .
+RESULTS	The most common adverse events were headache , fatigue , and pruritus .
+CONCLUSIONS	Therapy with sofosbuvir-ribavirin for 12 weeks in patients with HCV genotype 2 infection and for 24 weeks in patients with HCV genotype 3 infection resulted in high rates of sustained virologic response .
+CONCLUSIONS	( Funded by Gilead Sciences ; VALENCE ClinicalTrials.gov number , NCT01682720 . )
+

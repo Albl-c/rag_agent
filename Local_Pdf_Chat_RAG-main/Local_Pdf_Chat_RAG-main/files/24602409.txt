@@ -1,0 +1,15 @@
+24602409
+BACKGROUND	Interferon ( IFN ) - therapy for chronic hepatitis C virus infection is frequently associated with depression .
+BACKGROUND	The routine prophylaxis with antidepressants might expose patients to adverse effects , hence , the need for alternative preventive interventions .
+BACKGROUND	Omega-3 polyunsaturated fatty acids are safe and effective essential nutritional compounds used for the treatment of depression , putatively through an anti-inflammatory action .
+BACKGROUND	In addition , lower erythrocyte levels of omega-3 polyunsaturated fatty acids have been associated with an increased risk of IFN-induced depression .
+METHODS	We conducted a 2-week , double-blind , placebo-controlled trial comparing eicosapentaenoic acid ( EPA ) , docosahexaenoic acid ( DHA ) , and placebo for the prevention of IFN -- induced depression .
+METHODS	A total of 162 patients consented to participate and were randomized to the study .
+METHODS	All of the patients completed the 2-week trial ; 152 participants were followed throughout the 24 weeks of IFN - treatment and were included in the analysis .
+RESULTS	Compared with placebo , the incident rates of IFN -- induced depression were significantly lower in EPA-treated but not in DHA-treated patients ( 10 % and 28 % , respectively , versus 30 % for placebo , p = .037 ) .
+RESULTS	Both EPA and DHA significantly delayed the onset of IFN-induced depression ( week of onset : 12.0 and 11.7 , respectively , versus 5.3 for placebo , p = .002 ) .
+RESULTS	EPA and DHA were both well tolerated in this population .
+RESULTS	EPA treatment increased both EPA and DHA erythrocyte levels , but DHA only increased DHA erythrocyte levels .
+CONCLUSIONS	EPA is effective in the prevention of depression in hepatitis C virus patients received IFN - therapy .
+CONCLUSIONS	Our study confirms the notion that anti-inflammatory strategies are effective antidepressants in the context of depression associated with inflammation .
+

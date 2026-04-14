@@ -1,0 +1,19 @@
+24748778
+OBJECTIVE	Delirium is associated with poor outcomes following acute hospitalization .
+OBJECTIVE	The Geriatric Monitoring Unit ( GMU ) is a specialized five-bedded unit for acute delirium care .
+OBJECTIVE	It is modeled after the Delirium Room program , with adoption of core interventions from the Hospital Elder Life Program and use of evening light therapy to consolidate circadian rhythms and improve sleep in older inpatients .
+OBJECTIVE	This study examined whether the GMU program improved outcomes in delirious patients .
+METHODS	A total of 320 patients , including 47 pre-GMU , 234 GMU , and 39 concurrent control subjects , were studied .
+METHODS	Clinical characteristics , cognitive status , functional status ( Modified Barthel Index [ MBI ] ) , and chemical restraint-use data were obtained .
+METHODS	We also looked at in-hospital complications of falls , pressure ulcers , nosocomial infection rate , and discharge destination .
+METHODS	Secondary outcomes of family satisfaction ( for the GMU subjects ) were collected .
+RESULTS	There were no significant demographic differences between the three groups .
+RESULTS	Pre-GMU subjects had longer duration of delirium and length of stay .
+RESULTS	MBI improvement was most evident in the GMU compared with pre-GMU and control subjects ( 19.218.3 , 7.511.2 , 15.118.0 , respectively ) ( P < 0.05 ) .
+RESULTS	The GMU subjects had a zero restraint rate , and pre-GMU subjects had higher antipsychotic dosages .
+RESULTS	This translated to lower pressure ulcer and nosocomial infection rate in the GMU ( 4.1 % and 10.7 % , respectively ) and control ( 1.3 % and 7.7 % , respectively ) subjects compared with the pre-GMU ( 9.1 % and 23.4 % , respectively ) subjects ( P < 0.05 ) .
+RESULTS	No differences were observed in mortality or discharge destination among the three groups .
+RESULTS	Caregivers of GMU subjects felt the multicomponent intervention to be useful , with scheduled activities voted the most beneficial in patient 's recovery from the delirium episode .
+CONCLUSIONS	This study shows the benefits of a specialized delirium management unit for older persons .
+CONCLUSIONS	The GMU model is thus a relevant system of care for rapidly `` graying '' nations with high rates of frail elderly hospital admissions , which can be easily transposed across acute care settings .
+

@@ -1,0 +1,12 @@
+25521275
+BACKGROUND	Nerve growth factor ( NGF ) induces profound hyperalgesia .
+BACKGROUND	In this study we explored patterns of NGF sensitization in muscle and fascia of distal and paraspinal sites .
+METHODS	We injected 1 g of NGF into human ( n = 8 ) tibialis anterior and erector spinae muscles and their fasciae .
+METHODS	The spatial extent of pressure sensitization , pressure pain threshold , and mechanical hyperalgesia ( 150 kPa , 10 s ) was assessed at days 0.25 , 1 , 3 , 7 , 14 , and 21 .
+METHODS	Chemical sensitization was explored by acidic buffer injections ( pH 4 , 100 l ) at days 7 and 14 .
+RESULTS	The mechanical hyperalgesia area was larger in tibial fascia than in muscle .
+RESULTS	Pressure pain thresholds were lower , tonic pressure pain ratings , and citrate buffer evoked pain higher in fascia than in muscle .
+CONCLUSIONS	Spatial mechanical sensitization differs between muscle and fascia .
+CONCLUSIONS	Thoracolumbar fasciae appear more sensitive than tibial fasciae and may be major contributors to low back pain , but the temporal sensitization profile is similar between paraspinal and distal sites .
+CONCLUSIONS	Muscle Nerve 52 : 265-272 , 2015 .
+

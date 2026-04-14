@@ -1,0 +1,12 @@
+25535265
+OBJECTIVE	Few evidence-based interventions address adolescent relationship abuse in clinical settings .
+OBJECTIVE	This cluster randomized controlled trial tested the effectiveness of a brief relationship abuse education and counseling intervention in school health centers ( SHCs ) .
+METHODS	In 2012-2013 , 11 SHCs ( 10 clusters ) were randomized to intervention ( SHC providers received training to implement ) or standard-of-care control condition .
+METHODS	Among 1062 eligible students ages 14 to 19 years at 8 SHCs who continued participation after randomization , 1011 completed computer-assisted surveys before a clinic visit ; 939 completed surveys 3 months later ( 93 % retention ) .
+RESULTS	Intervention versus control adjusted mean differences ( 95 % confidence interval ) on changes in primary outcomes were not statistically significant : recognition of abuse = 0.10 ( -0.02 to 0.22 ) ; intentions to intervene = 0.03 ( -0.09 to 0.15 ) ; and knowledge of resources = 0.18 ( -0.06 to 0.42 ) .
+RESULTS	Intervention participants had improved recognition of sexual coercion compared with controls ( adjusted mean difference = 0.10 [ 0.01 to 0.18 ] ) .
+RESULTS	In exploratory analyses adjusting for intensity of intervention uptake , intervention effects were significant for increased knowledge of relationship abuse resources and self-efficacy to use harm reduction behaviors .
+RESULTS	Among participants reporting relationship abuse at baseline , intervention participants were less likely to report such abuse at follow-up ( mean risk difference = -0.17 [ -0.21 to -0.12 ] ) .
+RESULTS	Adolescents in intervention clinics who reported ever being in an unhealthy relationship were more likely to report disclosing this during the SHC visit ( adjusted odds ratio = 2.77 [ 1.29 to 5.95 ] ) .
+CONCLUSIONS	This is the first evidence of the potential benefit of a SHC intervention to address abusive relationships among adolescents .
+

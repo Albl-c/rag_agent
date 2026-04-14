@@ -1,0 +1,13 @@
+24274190
+BACKGROUND	In the paediatric population , pain and distress associated with burn injuries during wound care procedures remain a constant challenge .
+BACKGROUND	Although silver dressings are the gold standard for burn care in Australasia , very few high-level trials have been conducted that compare silver dressings to determine which will provide the best level of care clinically .
+BACKGROUND	Therefore , for paediatric patients in particular , identifying silver dressings that are associated with lower levels of pain and rapid wound re-epithelialisation is imperative .
+BACKGROUND	This study will determine whether there is a difference in time to re-epithelialisation and pain and distress experienced during wound care procedures among Acticoat , Acticoat combined with Mepitel and Mepilex Ag dressings for acute , paediatric partial thickness burns .
+METHODS	Children aged 0 to 15 years with an acute partial thickness ( superficial partial to deep partial thickness inclusive ) burn injury and a burn total body surface area of 10 % will be eligible for the trial .
+METHODS	Patients will be randomised to one of the three dressing groups : ( 1 ) Acticoat or ( 2 ) Acticoat combined with Mepitel or ( 3 ) Mepilex Ag .
+METHODS	A minimum of 28 participants will be recruited for each treatment group .
+METHODS	Primary measures of pain , distress and healing will be repeated at each dressing change until complete wound re-epithelialisation occurs or skin grafting is required .
+METHODS	Additional data collected will include infection status at each dressing change , physical function , scar outcome and scar management requirements , cost effectiveness of each dressing and staff perspectives of the dressings .
+CONCLUSIONS	The results of this study will determine the effects of three commonly used silver and silicone burn dressing combinations on the rate of wound re-epithelialisation and pain experienced during dressing procedures in acute , paediatric partial thickness burn injuries .
+BACKGROUND	Australian New Zealand Clinical Trials Registry ACTRN12613000105741 .
+

@@ -1,0 +1,14 @@
+25474278
+OBJECTIVE	The aim of this study was to evaluate the prognostic value of MSI-H and p53 overexpression in metastatic colorectal cancer ( mCRC ) treated with oxaliplatin and fluoropyrimidine-based first line chemotherapy .
+METHODS	Tumour samples were retrospectively obtained from 229 patients from a prospective randomised phase III trial of the AIO colorectal study group , comparing CAPOX and FUFOX in mCRC .
+METHODS	Immunohistochemistry of p53 and MMR proteins as well as microsatellite analysis were performed .
+RESULTS	The incidence of MSI-H and p53 overexpression was 7.9 % and 65.4 % , respectively .
+RESULTS	MSI-H status was not correlated with ORR , PFS and OS .
+RESULTS	We observed a trend to lower DCR for MSI-H tumours ( 65 % vs. 85 % , p = 0.055 ) .
+RESULTS	p53 overexpression was not correlated with DCR , ORR and PFS .
+RESULTS	The median OS of patients with tumors with p53 overexpression was significantly longer compared to tumors withhout p53 overexpression ( 19.6 vs. 15.8 months ; p = 0.05 ) .
+RESULTS	The post-progression survival ( PPS ) of p53-positive patients undergoing 2nd and/or 3rd line chemotherapy with irinotecan and/or cetuximab was significantly longer compared to p53-negative patients .
+CONCLUSIONS	MSI-H tumours tend to have lower disease control rates when treated with an oxaliplatin/fluoropyrmidin combination .
+CONCLUSIONS	mCRC patients with p53 overexpression undergoing an irinotecan containing second - or third-line chemotherapy after oxaliplatin failure have a significantly longer post-progression survival compared to patients without p53 overexpression .
+CONCLUSIONS	To validate the clinical impact of p53 in patients with mCRC treated with irinotecan - and/or cetuximab further studies are needed .
+

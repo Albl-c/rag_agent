@@ -1,0 +1,12 @@
+25072098
+BACKGROUND	The CHRNA5-CHRNA3-CHRNB4 locus is associated with self-reported smoking behavior and also harbors the strongest genetic associations with chronic obstructive pulmonary disease ( COPD ) and lung cancer .
+BACKGROUND	Because the associations with lung disease remain after adjustment for self-reported smoking behaviors , it has been asserted that CHRNA5-CHRNA3-CHRNB4 variants increase COPD and lung cancer susceptibility independently of their effects on smoking .
+OBJECTIVE	To compare the genetic associations of exhaled carbon monoxide ( CO ) , a biomarker of current cigarette exposure , with self-reported smoking behaviors .
+METHODS	A total of 1,521 European American and 247 African American current smokers recruited into smoking cessation studies were assessed for CO at intake before smoking cessation .
+METHODS	DNA samples were genotyped using the Illumina Omni2 .5 microarray .
+METHODS	Genetic associations with CO and smoking behaviors ( cigarettes smoked per day , Fagerstrom test for nicotine dependence ) were studied .
+RESULTS	Variants in the CHRNA5-CHRNA3-CHRNB4 locus , including rs16969968 , a nonsynonymous variant in CHRNA5 , are genomewide association study-significantly associated with CO ( = 2.66 ; 95 % confidence interval [ CI ] , 1.74-3 .58 ; P = 1.65 10 ( -8 ) ) , and this association remains strong after adjusting for smoking behavior ( = 2.18 ; 95 % CI , 1.32-3 .04 ; P = 7.47 10 ( -7 ) ) .
+RESULTS	The correlation between CO and cigarettes per day is statistically significantly lower ( z = 3.43 ; P = 6.07 10 ( -4 ) ) in African Americans ( r = 0.14 ; 95 % CI , 0.02-0 .26 ; P = 0.003 ) than in European-Americans ( r = 0.36 ; 95 % CI , 0.31-0 .40 ; P = 0.0001 ) .
+CONCLUSIONS	Exhaled CO , a biomarker that is simple to measure , captures aspects of cigarette smoke exposure in current smokers beyond the number of cigarettes smoked per day .
+CONCLUSIONS	Behavioral measures of smoking are therefore insufficient indices of cigarette smoke exposure , suggesting that genetic associations with COPD or lung cancer that persist after adjusting for self-reported smoking behavior may still reflect genetic effects on smoking exposure .
+

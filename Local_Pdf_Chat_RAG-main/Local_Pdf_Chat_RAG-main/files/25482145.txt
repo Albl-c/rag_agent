@@ -1,0 +1,14 @@
+25482145
+BACKGROUND	Lenalidomide plus dexamethasone is a reference treatment for relapsed multiple myeloma .
+BACKGROUND	The combination of the proteasome inhibitor carfilzomib with lenalidomide and dexamethasone has shown efficacy in a phase 1 and 2 study in relapsed multiple myeloma .
+METHODS	We randomly assigned 792 patients with relapsed multiple myeloma to carfilzomib with lenalidomide and dexamethasone ( carfilzomib group ) or lenalidomide and dexamethasone alone ( control group ) .
+METHODS	The primary end point was progression-free survival .
+RESULTS	Progression-free survival was significantly improved with carfilzomib ( median , 26.3 months , vs. 17.6 months in the control group ; hazard ratio for progression or death , 0.69 ; 95 % confidence interval [ CI ] , 0.57 to 0.83 ; P = 0.0001 ) .
+RESULTS	The median overall survival was not reached in either group at the interim analysis .
+RESULTS	The Kaplan-Meier 24-month overall survival rates were 73.3 % and 65.0 % in the carfilzomib and control groups , respectively ( hazard ratio for death , 0.79 ; 95 % CI , 0.63 to 0.99 ; P = 0.04 ) .
+RESULTS	The rates of overall response ( partial response or better ) were 87.1 % and 66.7 % in the carfilzomib and control groups , respectively ( P < 0.001 ; 31.8 % and 9.3 % of patients in the respective groups had a complete response or better ; 14.1 % and 4.3 % had a stringent complete response ) .
+RESULTS	Adverse events of grade 3 or higher were reported in 83.7 % and 80.7 % of patients in the carfilzomib and control groups , respectively ; 15.3 % and 17.7 % of patients discontinued treatment owing to adverse events .
+RESULTS	Patients in the carfilzomib group reported superior health-related quality of life .
+CONCLUSIONS	In patients with relapsed multiple myeloma , the addition of carfilzomib to lenalidomide and dexamethasone resulted in significantly improved progression-free survival at the interim analysis and had a favorable risk-benefit profile .
+CONCLUSIONS	( Funded by Onyx Pharmaceuticals ; ClinicalTrials.gov number , NCT01080391 . )
+

@@ -1,0 +1,10 @@
+25237116
+BACKGROUND	Parkinson 's disease ( PD ) has a progressive course and is characterized by the degeneration of dopaminergic neurons .
+BACKGROUND	Although no neuroprotective treatments for PD have been found to date , the endocannabinoid system has emerged as a promising target .
+METHODS	From a sample of 119 patients consecutively evaluated in a specialized movement disorders outpatient clinic , we selected 21 PD patients without dementia or comorbid psychiatric conditions .
+METHODS	Participants were assigned to three groups of seven subjects each who were treated with placebo , cannabidiol ( CBD ) 75 mg/day or CBD 300 mg/day .
+METHODS	One week before the trial and in the last week of treatment participants were assessed in respect to ( i ) motor and general symptoms score ( UPDRS ) ; ( ii ) well-being and quality of life ( PDQ-39 ) ; and ( iii ) possible neuroprotective effects ( BDNF and H ( 1 ) - MRS ) .
+RESULTS	We found no statistically significant differences in UPDRS scores , plasma BDNF levels or H ( 1 ) - MRS measures .
+RESULTS	However , the groups treated with placebo and CBD 300 mg/day had significantly different mean total scores in the PDQ-39 ( p = 0.05 ) .
+CONCLUSIONS	Our findings point to a possible effect of CBD in improving quality of life measures in PD patients with no psychiatric comorbidities ; however , studies with larger samples and specific objectives are required before definitive conclusions can be drawn .
+

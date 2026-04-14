@@ -1,0 +1,11 @@
+24725582
+OBJECTIVE	To explore the early childhood pulmonary outcomes of infants who participated in the National Institute of Child Health and Human Development 's Surfactant Positive Airway Pressure and Pulse Oximetry Randomized Trial ( SUPPORT ) , using a factorial design that randomized extremely preterm infants to lower vs higher oxygen saturation targets and delivery room continuous positive airway pressure ( CPAP ) vs intubation/surfactant .
+METHODS	The Breathing Outcomes Study , a prospective secondary study to the Surfactant Positive Airway Pressure and Pulse Oximetry Randomized Trial , assessed respiratory morbidity at 6-month intervals from hospital discharge to 18-22 months corrected age ( CA ) .
+METHODS	Two prespecified primary outcomes-wheezing more than twice per week during the worst 2-week period and cough longer than 3 days without a cold-were compared for each randomized intervention .
+RESULTS	One or more interviews were completed for 918 of the 922 eligible infants .
+RESULTS	The incidences of wheezing and cough were 47.9 % and 31.0 % , respectively , and did not differ between the study arms of either randomized intervention .
+RESULTS	Infants randomized to lower vs higher oxygen saturation targets had a similar risk of death or respiratory morbidity ( except for croup and treatment with oxygen or diuretics at home ) .
+RESULTS	Infants randomized to CPAP vs intubation/surfactant had fewer episodes of wheezing without a cold ( 28.9 % vs 36.5 % ; P < .05 ) , respiratory illnesses diagnosed by a doctor ( 47.7 % vs 55.2 % ; P < .05 ) , and physician or emergency room visits for breathing problems ( 68.0 % vs 72.9 % ; P < .05 ) by 18-22 months CA .
+CONCLUSIONS	Treatment with early CPAP rather than intubation/surfactant is associated with less respiratory morbidity by 18-22 months CA .
+CONCLUSIONS	Longitudinal assessment of pulmonary morbidity is necessary to fully evaluate the potential benefits of respiratory interventions for neonates .
+

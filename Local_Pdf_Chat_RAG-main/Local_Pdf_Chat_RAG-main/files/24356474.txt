@@ -1,0 +1,17 @@
+24356474
+BACKGROUND	Previous global studies examined etanercept ( ETN ) + methotrexate ( MTX ) for treatment of rheumatoid arthritis ( RA ) , but included few subjects from Latin America .
+OBJECTIVE	The objective of this study was to compare the safety and efficacy of ETN + MTX versus a standard-of-care disease-modifying antirheumatic drug ( DMARD ) + MTX in Latin American subjects with moderate to severe active RA despite MTX therapy .
+METHODS	This open-label , active-comparator study ( NCT00848354 ) randomized subjects 2:1 to ETN 50 mg/wk + MTX or investigator-selected DMARD ( sulfasalazine or hydroxychloroquine ) + MTX ( ETN + MTX , n = 281 ; DMARD + MTX , n = 142 ) .
+METHODS	The primary end point was the proportion achieving American College of Rheumatology ( ACR ) 50 at week 24 .
+METHODS	Secondary end points included ACR20/70 , disease activity score ( DAS ) 28 measures , and mean change in modified total Sharp score .
+METHODS	Patient-reported outcomes were the Health Assessment Questionnaire , 36-item Short-Form , Hospital Anxiety and Depression Scale , Work Productivity and Activity Impairment : RA ( WPAI : RA ) , and Caregiver Burden and Resource Utilization .
+METHODS	Statistical analyses were stratified by country ; test and analysis of covariance were used .
+METHODS	Adverse events were monitored .
+RESULTS	More subjects achieved ACR50 at week 24 with ETN + MTX versus DMARD + MTX ( 62 % vs 23 % , respectively ) , in addition to secondary end points ( P < 0.0001 for all ) ; mean change in modified total Sharp score was lower for the ETN + MTX group ( 0.4 vs 1.4 , respectively ; P = 0.0270 ) .
+RESULTS	Improvements in patient-reported outcomes favored ETN + MTX for Health Assessment Questionnaire , 36-item Short-Form , Hospital Anxiety and Depression Scale for depression , WPAI : RA , and Caregiver Burden and Resource Utilization emergency department visits for RA ( P < 0.01 ) .
+RESULTS	Overall , adverse events were similar between the groups ( 69 % vs 68 % , ) ; serious adverse events were also similar ( 4 % vs 1 % ) .
+RESULTS	The rate of overall infections was higher with ETN + MTX ( 38 % ) than DMARD + MTX ( 22 % , P 0.001 ) .
+CONCLUSIONS	Consistent with published global data among RA patients with inadequate response to MTX , adding ETN to MTX demonstrated better efficacy than adding one other conventional DMARD to MTX .
+CONCLUSIONS	No new safety issues were observed .
+CONCLUSIONS	ETN + MTX provided favorable benefit-risk profile among RA patients from LA region .
+

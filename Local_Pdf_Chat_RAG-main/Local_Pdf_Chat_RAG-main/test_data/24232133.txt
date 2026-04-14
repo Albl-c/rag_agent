@@ -1,0 +1,13 @@
+24232133
+BACKGROUND	Structural learning theory suggests that experiencing motor task variation enables the central nervous system to extract general rules regarding tasks with a similar structure - rules that can subsequently be applied to novel situations .
+BACKGROUND	Complex minimally invasive surgery ( MIS ) requires different port sites , but switching ports alters the limb movements required to produce the same endpoint control of the surgical instrument .
+BACKGROUND	The purpose of the present study was to determine if structural learning theory can be applied to MIS to inform training methods .
+METHODS	A tablet laptop running bespoke software was placed within a laparoscopic box trainer and connected to a monitor situated at eye level .
+METHODS	Participants ( right-handed , non-surgeons , mean age = 23.2 years ) used a standard laparoscopic grasper to move between locations on the screen .
+METHODS	There were two training groups : the M group ( n = 10 ) who trained using multiple port sites , and the S group ( n = 10 ) who trained using a single port site .
+METHODS	A novel port site was used as a test of generalization .
+METHODS	Performance metrics were a composite of speed and accuracy ( SACF ) and normalized jerk ( NJ ; a measure of movement ` smoothness ' ) .
+RESULTS	The M group showed a statistically significant performance advantage over the S group at test , as indexed by improved SACF ( p < 0.05 ) and NJ ( p < 0.05 ) .
+CONCLUSIONS	This study has demonstrated the potential benefits of incorporating a structural learning approach within MIS training .
+CONCLUSIONS	This may have practical applications when training junior surgeons and developing surgical simulation devices .
+

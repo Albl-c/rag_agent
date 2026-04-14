@@ -1,0 +1,14 @@
+24941177
+BACKGROUND	Methotrexate is the most frequently used first-line antirheumatic drug .
+BACKGROUND	We report the findings of a phase 3 study of monotherapy with tofacitinib , an oral Janus kinase inhibitor , as compared with methotrexate monotherapy in patients with rheumatoid arthritis who had not previously received methotrexate or therapeutic doses of methotrexate .
+METHODS	We randomly assigned 958 patients to receive 5 mg or 10 mg of tofacitinib twice daily or methotrexate at a dose that was incrementally increased to 20 mg per week over 8 weeks ; 956 patients received a study drug .
+METHODS	The coprimary end points at month 6 were the mean change from baseline in the van der Heijde modified total Sharp score ( which ranges from 0 to 448 , with higher scores indicating greater structural joint damage ) and the proportion of patients with an American College of Rheumatology ( ACR ) 70 response ( 70 % reduction in the number of both tender and swollen joints and 70 % improvement in three of five other criteria : the patient 's assessment of pain , level of disability , C-reactive protein level or erythrocyte sedimentation rate , global assessment of disease by the patient , and global assessment of disease by the physician ) .
+RESULTS	Mean changes in the modified total Sharp score from baseline to month 6 were significantly smaller in the tofacitinib groups than in the methotrexate group , but changes were modest in all three groups ( 0.2 points in the 5-mg tofacitinib group and < 0.1 point in the 10-mg tofacitinib group , as compared with 0.8 points in the methotrexate group [ P < 0.001 for both comparisons ] ) .
+RESULTS	Among the patients receiving tofacitinib , 25.5 % in the 5-mg group and 37.7 % in the 10-mg group had an ACR 70 response at month 6 , as compared with 12.0 % of patients in the methotrexate group ( P < 0.001 for both comparisons ) .
+RESULTS	Herpes zoster developed in 31 of 770 patients who received tofacitinib ( 4.0 % ) and in 2 of 186 patients who received methotrexate ( 1.1 % ) .
+RESULTS	Confirmed cases of cancer ( including three cases of lymphoma ) developed in 5 patients who received tofacitinib and in 1 patient who received methotrexate .
+RESULTS	Tofacitinib was associated with increases in creatinine levels and in low-density and high-density lipoprotein cholesterol levels .
+CONCLUSIONS	In patients who had not previously received methotrexate or therapeutic doses of methotrexate , tofacitinib monotherapy was superior to methotrexate in reducing signs and symptoms of rheumatoid arthritis and inhibiting the progression of structural joint damage .
+CONCLUSIONS	The benefits of tofacitinib need to be considered in the context of the risks of adverse events .
+CONCLUSIONS	( Funded by Pfizer ; ORAL Start ClinicalTrials.gov number , NCT01039688 . )
+

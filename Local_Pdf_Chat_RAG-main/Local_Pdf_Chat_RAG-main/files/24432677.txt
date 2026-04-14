@@ -1,0 +1,15 @@
+24432677
+OBJECTIVE	To observe changes of brain glucose metabolism by needling at Waiguan ( SJ5 ) in cerebral infraction ( CI ) patients using 18F-fluorodeoxyglucose ( FDG ) positron-emission computer tomography ( PET/CT ) , thus exploring its effect and mechanisms .
+METHODS	A total of 21 patients with CI were recruited in this study .
+METHODS	The location of lesion was limited to the left basal ganglia by CT or MRI scan .
+METHODS	All patients were randomly assigned to three groups .
+METHODS	i.e. , the acupoint group ( Group A ) , the non-acupoint group ( Group B ) , the blank control group ( Group C ) , 7 in each group .
+METHODS	Patients in Group A were needled at right Waiguan ( SJ5 ) .
+METHODS	Those in Group B were needled at non-acupoint [ 10 mm beside Waiguan ( SJ5 ) ] , whereas those in Group C did not receive any treatment .
+METHODS	All patients underwent PET/CT head scan .
+METHODS	All data were statistically analyzed using SPSS 13.0 Software and SPM8 Software .
+RESULTS	Compared with Group C , glucose metabolism increased in bilateral superior temporal gyrus ( BA38 ) , right superior frontal gyrus ( BA9 ) , left cingulate gyrus ( BA24 ) , left culmen and pyramid of cerebellum , and right cerebellar tonsil of cerebellum in Group A. Compared with Group C , glucose metabolism increased in bilateral superior frontal gyrus ( BA6 , BA9 , BA10 ) , bilateral middle frontal gyrus ( BA6 , BA10 ) , left middle frontal gyrus ( BA4 ) , bilateral uncus of limbic lobe ( BA36 , BA38 ) , left cingulate gyrus ( BA24 , BA31 ) , left posterior cingulate gyrus ( BA30 ) , left precuneus ( BA7 ) , left inferior parietal lobule ( BA4 ) , and left lingual gyrus of occipital lobe ( BA18 ) in Group B. Compared with Group B , glucose metabolism increased in bilateral superior temporal gyrus ( BA22 , BA38 ) , right inferior frontal gyrus ( BA47 ) , left culmen and cerebellar tonsil of cerebellum in Group A. Activated encephalic regions of needling at Waiguan ( SJ5 ) were mainly dominated in the healthy side , bilateral superior temporal gyrus , and right inferior frontal gyrus .
+RESULTS	Activated encephalic regions of cerebellum were located at the left cerebellar hemisphere , left culmen of anterior cerebella lobe , and bilateral cerebellar tonsil of posterior cerebella lobe .
+CONCLUSIONS	Needling at Waiguan ( SJ5 ) of CI patients induced increased glucose metabolism in local cerebral regions .
+CONCLUSIONS	Functional neuroimaging using PET/CT could directly reflect changes of brain glucose metabolism by acupuncture .
+

@@ -1,0 +1,13 @@
+24340290
+OBJECTIVE	The extant literature on predictors of treatment response to behavioral treatments for insomnia is equivocal and limited in scope .
+OBJECTIVE	The current study examined demographic , clinical , and sleep characteristics as predictors of clinically significant treatment response to brief behavioral treatment of insomnia ( BBTI ) in older adults with insomnia .
+METHODS	Thirty-nine older adults with insomnia ( 67 % females , mean age : 72.54 years ) were randomized to BBTI treatment .
+METHODS	Treatment outcomes were defined according to 2 criteria : ( 1 ) `` response , '' defined as change in Pittsburgh Sleep Quality Index ( PSQI ) score 3 points or increase in sleep diary sleep efficiency 10 % ) ; or ( 2 ) remission , defined as absence of a clinical diagnosis of insomnia according to standard diagnostic criteria .
+METHODS	Logistic regression examined whether baseline demographic , clinical , or sleep characteristics predicted treatment outcomes at 1 month follow-up .
+RESULTS	Demographic variables did not predict treatment outcomes for either criterion .
+RESULTS	Higher anxiety , depression , poorer sleep quality , and longer polysomnography ( PSG ) - assessed sleep latency predicted greater likelihood of response at follow-up ( p < 0.05 ) .
+RESULTS	Longer sleep duration at baseline ( measured by sleep diary and PSG ) predicted greater likelihood of the remission at follow-up ( p < 0.05 ) .
+CONCLUSIONS	Patients with insomnia who have greater distress at baseline or prolonged sleep latency are more likely to show positive response to BBTI .
+CONCLUSIONS	In contrast , short sleepers at baseline are less likely to have resolution of insomnia diagnosis following BBTI , perhaps due to the sleep restriction component of the treatment .
+CONCLUSIONS	Identifying the characteristics that predict positive BBTI treatment outcomes can facilitate personalized behavioral treatments to improve outcomes .
+

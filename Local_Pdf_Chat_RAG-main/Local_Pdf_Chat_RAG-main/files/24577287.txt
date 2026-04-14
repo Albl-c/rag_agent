@@ -1,0 +1,11 @@
+24577287
+OBJECTIVE	A previous pilot trial evaluating computer-based training for cognitive-behavioral therapy ( CBT4CBT ) in 77 heterogeneous substance users ( alcohol , marijuana , cocaine , and opioids ) demonstrated preliminary support for its efficacy in the context of a community-based outpatient clinic .
+OBJECTIVE	The authors conducted a more definitive trial in a larger , more homogeneous sample .
+METHODS	In this randomized clinical trial , 101 cocaine-dependent individuals maintained on methadone were randomly assigned to standard methadone maintenance or methadone maintenance with weekly access to CBT4CBT , with seven modules delivered within an 8-week trial .
+RESULTS	Treatment retention and data availability were high and comparable across the treatment conditions .
+RESULTS	Participants assigned to the CBT4CBT condition were significantly more likely to attain 3 or more consecutive weeks of abstinence from cocaine ( 36 % compared with 17 % ; p < 0.05 , odds ratio = 0.36 ) .
+RESULTS	The group assigned to CBT4CBT also had better outcomes on most dimensions , including urine specimens negative for all drugs , but these reached statistical significance only for individuals completing the 8-week trial ( N = 69 ) .
+RESULTS	Follow-up data collected 6 months after treatment termination were available for 93 % of the randomized sample ; these data indicate continued improvement for those assigned to the CBT4CBT group , replicating previous findings regarding its durability .
+CONCLUSIONS	This trial replicates earlier findings indicating that CBT4CBT is an effective adjunct to addiction treatment with durable effects .
+CONCLUSIONS	CBT4CBT is an easily disseminable strategy for broadening the availability of CBT , even in challenging populations such as cocaine-dependent individuals enrolled in methadone maintenance programs .
+

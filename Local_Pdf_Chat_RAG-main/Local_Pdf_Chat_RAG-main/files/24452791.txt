@@ -1,0 +1,15 @@
+24452791
+OBJECTIVE	Anemia is associated with poor tumor control .
+OBJECTIVE	It was previously observed that accelerated radiotherapy combined with carbogen breathing and nicotinamide ( ARCON ) can correct this adverse outcome in patients with head and neck cancer .
+OBJECTIVE	The purpose of this study was to validate this observation based on data from a randomized trial .
+METHODS	Of 345 patients with cT2-4 laryngeal cancer , 174 were randomly assigned to accelerated radiotherapy and 171 to ARCON .
+METHODS	Hemoglobin levels , measured before treatment , were defined as low when < 7.5 mmol/L for women and < 8.5 mmol/L for men .
+METHODS	The hypoxia marker pimonidazole was used to assess the oxygenation status in tumor biopsies .
+METHODS	Data were analyzed 2 years after inclusion of the last patient .
+RESULTS	Pretreatment hemoglobin levels were available and below normal in 27 of 173 ( 16 % ) accelerated radiotherapy and 27 of 167 ( 16 % ) ARCON patients .
+RESULTS	In patients with normal pretreatment , hemoglobin levels treatment with ARCON had no significant effect on 5-year loco-regional control ( LRC , 79 % versus 75 % ; P = 0.44 ) and disease-free survival ( DFS , 75 % vs. 70 % ; P = 0.46 ) compared with accelerated radiotherapy .
+RESULTS	However , in patients with low pretreatment , hemoglobin levels ARCON significantly improved 5-year LRC ( 79 % vs. 53 % ; P = 0.03 ) and DFS ( 68 % vs. 45 % ; P = 0.04 ) .
+RESULTS	In multivariate analysis including other prognostic factors , pretreatment hemoglobin remained prognostic for LRC and DFS in the accelerated radiotherapy treatment arm .
+RESULTS	No correlation between pretreatment hemoglobin levels and pimonidazole uptake was observed .
+CONCLUSIONS	Results from the randomized phase III trial support previous observations that ARCON has the potential to correct the poor outcome of cancer patients with anemia ( ClinicalTrials.gov number , NCT00147732 ) .
+

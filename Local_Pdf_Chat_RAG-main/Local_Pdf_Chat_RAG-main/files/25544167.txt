@@ -1,0 +1,15 @@
+25544167
+OBJECTIVE	To observe the therapeutic effect of extracorporeal shock wave combined with orthopaedic insole on plantar fasciitis .
+METHODS	A total of 153 plantar with plantar fasciitis were randomly divided into a combined group ( n = 51 ) , an extracorporeal shock wave group ( n = 53 ) and an orthopaedic group ( n = 49 ) .
+METHODS	The combined group received treatment of both extracorporeal shock wave and orthopaedic insole while the extracorporeal shock wave or the orthopaedic group only received the treatment of extracorporeal shock wave or orthopaedic insole .
+METHODS	The therapeutic parameters such as visual analogue scale ( VAS ) scores , continued walking time and thickness of the plantar fascia were monitored before and aft er the treatment for 2 weeks , 1 month and 3 months , respectively .
+RESULTS	The VAS scores in the 3 groups were all reduced after the treatment compared with the corresponding scores before the therapy ( P < 0.05 ) .
+RESULTS	The VAS score in the extracorporeal shock wave group was greater than that in the orthopedic group after the treatment for 2 weeks .
+RESULTS	The VAS score in the combined group was smaller than that in the orthopedic group after the treatment for 2 weeks and 3 months ( P < 0.05 ) .
+RESULTS	The VAS scores in the orthopedic group and the combined group were smaller than those in the extracorporeal shock wave group after the treatment for 1 month or 3 months ( P < 0.05 ) .
+RESULTS	The continued walking time and thickness of the plantar fascia was improved after the treatment ( P < 0.05 ) .
+RESULTS	The cure rate and total effective rate in the combination group were obviously greater than those in the two other groups .
+RESULTS	The cure rate in the orthopedic group was greater than that in the extracorporeal shock wave group ( P < 0.05 ) .
+CONCLUSIONS	Extracorporeal shock wave combined with orthopaedic insole therapy is an effective method to treat plantar fasciitis .
+CONCLUSIONS	It is recommended to spread in clinic .
+

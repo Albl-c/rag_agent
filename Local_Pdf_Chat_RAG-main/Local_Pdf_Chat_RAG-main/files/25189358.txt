@@ -1,0 +1,18 @@
+25189358
+BACKGROUND	Although adolescent girls are the main population for prophylactic human papillomavirus ( HPV ) vaccines , adult women who remain at risk of cervical cancer can also be vaccinated .
+BACKGROUND	We report data from the interim analysis of the ongoing VIVIANE study , the aim of which is to assess the efficacy , safety , and immunogenicity of the HPV 16/18 AS04-adjuvanted vaccine in adult women .
+METHODS	In this phase 3 , multinational , double-blind , randomised controlled trial , we randomly assigned healthy women older than 25 years to the HPV 16/18 vaccine or control ( 1:1 ) , via an internet-based system with an algorithm process that accounted for region , age stratum , baseline HPV DNA status , HPV 16/18 serostatus , and cytology .
+METHODS	Enrolment was age-stratified , with about 45 % of participants in each of the 26-35 and 36-45 years age strata and 10 % in the 46 years and older stratum .
+METHODS	Up to 15 % of women in each age stratum could have a history of HPV infection or disease .
+METHODS	The primary endpoint was vaccine efficacy against 6-month persistent infection or cervical intraepithelial neoplasia grade 1 or higher ( CIN1 + ) associated with HPV 16/18 .
+METHODS	The primary analysis was done in the according-to-protocol cohort for efficacy , which consists of women who received all three vaccine or control doses , had negative or low-grade cytology at baseline , and had no history of HPV disease .
+METHODS	Secondary analyses included vaccine efficacy against non-vaccine oncogenic HPV types .
+METHODS	Mean follow-up time was 403 months .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT00294047 .
+RESULTS	The first participant was enrolled on Feb 16 , 2006 , and the last study visit for the present analysis took place on Dec 10 , 2010 ; 5752 women were included in the total vaccinated cohort ( n = 2881 vaccine , n = 2871 control ) , and 4505 in the according-to-protocol cohort for efficacy ( n = 2264 vaccine , n = 2241 control ) .
+RESULTS	Vaccine efficacy against HPV 16/18-related 6-month persistent infection or CIN1 + was significant in all age groups combined ( 811 % , 977 % CI 521-940 ) , in the 26-35 years age group ( 835 % , 450-968 ) , and in the 36-45 years age group ( 772 % , 28-969 ) ; no cases were seen in women aged 46 years and older .
+RESULTS	Vaccine efficacy against atypical squamous cells of undetermined significance or greater associated with HPV 16/18 was also significant .
+RESULTS	We also noted significant cross-protective vaccine efficacy against 6-month persistent infection with HPV 31 ( 791 % , 977 % CI 276-959 ) and HPV 45 ( 769 % , 185-956 ] ) Serious adverse events occurred in 285 ( 10 % ) of 2881 women in the vaccine group and 267 ( 9 % ) of 2871 in the control group ; five ( < 1 % ) and eight ( < 1 % ) of these events , respectively , were believed to be related to vaccination .
+CONCLUSIONS	In women older than 25 years , the HPV 16/18 vaccine is efficacious against infections and cervical abnormalities associated with the vaccine types , as well as infections with the non-vaccine HPV types 31 and 45 .
+BACKGROUND	GlaxoSmithKline Biologicals SA .
+

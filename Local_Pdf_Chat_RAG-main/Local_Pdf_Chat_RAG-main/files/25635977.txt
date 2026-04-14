@@ -1,0 +1,14 @@
+25635977
+OBJECTIVE	Knowledge about the inhibition of centrally located angiotensin-I ( AT-I ) receptors by highly lipophilic AT-I receptor blockers and its ' effect are limited with experimental studies .
+OBJECTIVE	Thus , we aimed to investigate the effect of Telmisartan on Inter-dialytic weight gain ( IDWG ) % and echocardiographic measurements in anuric hemodialysis ( HD ) patients .
+METHODS	A total of forty-one anuric HD patients with 6 months maintenance on HD were included in this prospective , randomized and self-controlled study .
+METHODS	Four weeks prior the study , angiotensin converting enzyme blockers and AT-I receptor blocker drugs were stopped .
+METHODS	Patients were assessed three times during the study protocol .
+METHODS	These are baseline , three months later ( without Telmisartan period ) and three months after Telmisartan therapy .
+RESULTS	IDWG % was significantly decreased in the period of with Telmisartan compared to period without Telmisartan ( 5.6 1.0 % vs 5.3 1.0 % , p = 0.03 ) .
+RESULTS	After the administration of Telmisartan left ventricule end-diastolic diameter ( LVEDD ) ( p = 0.001 ) and inferior vena cava diameter ( IVCD ) ( 19.1 3.8 mm vs 17.3 4.2 mm , p = 0.001 ) were significantly decreased compared to the period of without Telmisartan .
+RESULTS	Despite of significantly changes observed in IVCD and LVEDD measurements in a period without Telmisartan , there was no significantly difference in left ventricular mass index ( LVMI ) measurements in this period .
+RESULTS	However , LVMI was significantly regressed after the administration of Telmisartan ( 269.3 82.7 g vs 256.3 70.3 g , p = 0.003 respectively ) .
+CONCLUSIONS	Treatment of anuric HD patients with Telmisartan at a dose of 40 mg a day reduces IDWG % , LVEDD and IVCD measurements .
+CONCLUSIONS	Further studies investigating the long-term effect of these beneficial effects on clinical outcomes are necessary .
+

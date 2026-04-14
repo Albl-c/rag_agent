@@ -1,0 +1,10 @@
+24820395
+BACKGROUND	Cerebral blood flow velocity ( CBFV ) measured by transcranial Doppler sonography has provided information on cerebral perfusion in patients undergoing infant heart surgery , but no studies have reported a relationship to early postoperative and long-term neurodevelopmental outcomes .
+METHODS	CBFV was measured in infants undergoing biventricular repair without aortic arch reconstruction as part of a trial of hemodilution during cardiopulmonary bypass ( CPB ) ; CBFV ( Vm , mean ; Vs , systolic ; Vd , end-diastolic ) in the middle cerebral artery and change in Vm ( rVm ) were measured intraoperatively and up to 18 hours post-CPB .
+METHODS	Neurodevelopmental outcomes , measured at 1 year of age , included the psychomotor development index ( PDI ) and mental development index ( MDI ) of the Bayley Scales of Infant Development-II .
+RESULTS	CBFV was measured in 100 infants ; 43 with D-transposition of the great arteries , 36 with tetralogy of Fallot , and 21 with ventricular septal defects .
+RESULTS	Lower Vm , Vs , Vd , and rVm at 18 hours post-CPB were independently related to longer intensive care unit duration of stay ( p < 0.05 ) .
+RESULTS	In the 85 patients who returned for neurodevelopmental testing , lower Vm , Vs , Vd , and rVm at 18 hours post-CPB were independently associated with lower PDI ( p < 0.05 ) and MDI ( p < 0.05 , except Vs : p = 0.06 ) scores .
+RESULTS	Higher Vs and rVm at 18 hours post-CPB were independently associated with increased incidence of brain injury on magnetic resonance imaging in 39 patients .
+CONCLUSIONS	Postoperative CBFV after biventricular repair is related to early postoperative and neurodevelopmental outcomes at 1 year of age , possibly indicating that low CBFV is a marker of suboptimal postoperative hemodynamics and cerebral perfusion .
+

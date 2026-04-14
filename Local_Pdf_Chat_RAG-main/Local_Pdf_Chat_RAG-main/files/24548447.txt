@@ -1,0 +1,18 @@
+24548447
+OBJECTIVE	To explore the clinical values of detecting drug related molecules excision repair cross complementing 1 ( ERCC1 ) and top-isomerase I ( TOPO I ) in individualized therapies of metastatic colorectal cancer .
+METHODS	From June 2009 to December 2011 , 90 patients at Huadong Hospital with metastatic colorectal cancer were randomly separated into 2 groups after operation .
+METHODS	Each group had 45 patients without difference in gender , age or TNM stage .
+METHODS	The expressions of ERCC1 and TOPO Iin cancer tissues were detected by immunohistochemical staining .
+METHODS	The testing group received individualized chemotherapies following the expression results while the control group had random chemotherapies .
+METHODS	The survival difference between two groups was analyzed by log-rank test and Kaplan-Meier analysis .
+METHODS	And curative effect was analyzed by ( 2 ) or Fisher 's analysis .
+RESULTS	The expressions of ERCC1 and TOPO I had no statistical significance between two groups ( both P > 0.05 ) .
+RESULTS	In the testing group , the median survival time was 281 days and the beneficial ratio 51.1 % ( 23/45 ) versus 246 days and 44.4 % ( 20/45 ) respectively in the control group .
+RESULTS	The inter-group comparisons of survival ( P = 0.235 ) and curative effect ( ( 2 ) = 0.04 , P > 0.05 ) showed no statistical significance .
+RESULTS	In the estimated drug tolerated group ( ERCC1 high expression or TOPO I low expression ) , the median survival time was 196 days and the beneficial ratio 4/14 versus 304 days and 51.3 % ( 39/76 ) in the estimated drug sensitive group .
+RESULTS	The inter-group comparisons of survival and curative effect ( both P < 0.05 ) had statistical significance .
+RESULTS	The median survival time and beneficial ratio significantly increased in estimated drug sensitive group than those in estimated drug tolerated group .
+CONCLUSIONS	The expression of drug related molecule in colorectal cancer tissue is significantly associated with curative effect in patients .
+CONCLUSIONS	Patients with down-regulated ERCC1 on Oxaliplatin or up-regulated TOPO Ion Irinotecan have longer survival and better curative effect .
+CONCLUSIONS	And chemotherapies guided by drug related molecule detection may boost curative effects in metastatic colorectal cancer .
+

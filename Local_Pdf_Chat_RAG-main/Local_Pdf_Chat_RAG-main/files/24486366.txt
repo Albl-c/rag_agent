@@ -1,0 +1,11 @@
+24486366
+OBJECTIVE	A suboptimal level of seasonal influenza vaccination among pregnant minority women is an intractable public health problem , requiring effective message resonance with this population .
+OBJECTIVE	We evaluated the effects of randomized exposure to messages which emphasize positive outcomes of vaccination ( `` gain-frame '' ) , or messages which emphasize negative outcomes of forgoing vaccination ( `` loss-frame '' ) .
+OBJECTIVE	We also assessed multilevel social and community factors that influence maternal immunization among racially and ethnically diverse populations .
+METHODS	Minority pregnant women in metropolitan Atlanta were enrolled in the longitudinal study and randomized to receive intervention or control messages .
+METHODS	A postpartum questionnaire administered 30 days postpartum evaluated immunization outcomes following baseline message exposure among the study population .
+METHODS	We evaluated key outcomes using bivariate and multivariate analyses .
+RESULTS	Neither gain - [ OR = 0.5176 , ( 95 % CI : 0.203,1.322 ) ] nor loss-framed [ OR = 0.5000 , 95 % CI : ( 0.192,1.304 ) ] messages were significantly associated with increased likelihood of immunization during pregnancy .
+RESULTS	Significant correlates of seasonal influenza immunization during pregnancy included healthcare provider recommendation [ OR = 3.934 , 95 % CI : ( 1.331,11.627 ) ] , use of hospital-based practices as primary source of prenatal care [ OR = 2.584 , 95 % CI : ( 1.091,6.122 ) ] , and perceived interpersonal support for influenza immunization [ OR = 3.405 , 95 % CI : ( 1.412,8.212 ) ] .
+CONCLUSIONS	Dissemination of vaccine education messages via healthcare providers , and cultivating support from social networks , will improve seasonal influenza immunization among pregnant minority women .
+

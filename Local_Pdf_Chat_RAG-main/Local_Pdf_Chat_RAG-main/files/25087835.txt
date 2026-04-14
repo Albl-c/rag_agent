@@ -1,0 +1,17 @@
+25087835
+OBJECTIVE	( 1 ) Compare ideal cut-off points for DS and % FEV1 at 1 and 3hto predict hospitalization/relapse in subjects with moderate to severe asthma exacerbation ( 2 ) Develop a multivariate regression model using DS , % FEV1 , demographic , and clinical variables to predict hospitalization/relapse .
+METHODS	Subjects with acute exacerbation of asthma ( FEV1 < 50 % predicted following 30minof standardized treatment : 5mg nebulized albuterol ; 0.5-1 .5 mg nebulized ipratropium ; and 50mg oral prednisone ) were eligible .
+METHODS	All subjects had % FEV1 and DS obtained at baseline and hourly for 3h .
+METHODS	Using hospitalization/relapse as the outcome of interest ; we compared the area under the receiveroperator curves ( AUC ) between the 1 and 3hDS and % FEV1 measurements , and the AUC for the change in DS and % FEV1 between baseline and hour-3 .
+METHODS	We determined ideal cut-points for % FEV1 and DS to maximize sensitivity and specificity .
+METHODS	Sensitivity , specificity , positive and negative predictive values , and positive and negative likelihood ratios ( LR ) were compared between % FEV1 and DS .
+METHODS	We developed a multivariate regression model examining the association of specific demographic and clinical variables to hospitalization/relapse .
+RESULTS	142 patients were included for analysis .
+RESULTS	The AUC was greatest for the 3-hDS ( 0.721 ) , followed by the 3-h % FEV1 ( 0.669 ) .
+RESULTS	Optimum cut-off values were a DS of 2 , and an FEV1 of 42 % .
+RESULTS	These were associated with a + LR for the composite outcome of 3.06 and 2.48 respectively .
+RESULTS	Logistic regression showed baseline DS , 3-hDS , change in DS , and oxygen use at hour 3 were all associated with the composite outcome .
+CONCLUSIONS	The 3-hscore for % FEV1 and DS performed better than scores at any other time point and better than either parameter over time .
+CONCLUSIONS	The 3-hDS had the greatest association with the composite outcome .
+CONCLUSIONS	Neither test was a strong enough predictor to be used solely for this purpose .
+

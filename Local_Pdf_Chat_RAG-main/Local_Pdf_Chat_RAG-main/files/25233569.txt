@@ -1,0 +1,13 @@
+25233569
+BACKGROUND	The aim of this study was to evaluate the patient 's perceived pain response to injection and anesthetic deposition for the greater palatine nerve block .
+METHODS	Heft-Parker Visual Analog Scale ( VAS ) pain scale measurements were used to compare the following techniques for the injection : ( 1 ) control ( no concurrent stimulation ) , ( 2 ) pressure , ( 3 ) pressure and topical anesthetic ( 20 % benzocaine ) , and ( 4 ) pressure and cold ( TFE ) .
+METHODS	Forty-two volunteers , 21 male and 21 female , participated in the study .
+METHODS	A bilateral model was used on each patient to give an injection on each side of the palate with two different techniques followed by the next appointment ( > or = two weeks later ) , when the two other injection techniques were used .
+METHODS	Following injection given in the supine position , the patients were returned to an upright position and asked to rate their pain on a VAS .
+RESULTS	Pain upon needle insertion appears less than that of anesthetic deposition .
+RESULTS	There was no statistically significant difference in perceived pain response among the four techniques , the visit , the order , the side , or patient gender at either time point .
+RESULTS	Following the application of Endo Ice , 81 % of participants reported a sore on their palate occurring two to 48 hours after cold application and persisting for one to 10 days .
+RESULTS	The pain score for this injection had a mean value of 30 % ( 51.4 / 170 ) .
+CONCLUSIONS	This prospective , single-blind study evaluating three injection techniques to reduce posterior palatal injection pain to a control injection method showed no significant reduction in pain with any of the three techniques .
+CONCLUSIONS	Furthermore , 1,1,1,2-tetrafluoroethane placed with pressure for 10 seconds appeared injurious to the oral mucosa .
+

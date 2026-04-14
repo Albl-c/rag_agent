@@ -1,0 +1,14 @@
+25006854
+BACKGROUND	Platelet-rich plasma ( PRP ) is an autologous preparation of platelets in concentrated plasma that may be beneficial in the treatment of atrophic acne scars by promoting collagen deposition .
+BACKGROUND	Skin needling is a technique that uses a sterile dermaroller to puncture the skin and release growth factors .
+BACKGROUND	The combination of skin needling and PRP could enhance the efficacy of both modalities .
+BACKGROUND	Chemical reconstruction of skin scars technique consists of focal application of high concentration of trichloroacetic acid ( TCA ) on the acne scars to stimulate collagen production .
+OBJECTIVE	To evaluate the efficacy and safety of intradermal injection of PRP , 100 % focal TCA , and combined skin needling plus topical PRP in the treatment of atrophic acne scars .
+METHODS	Forty-five patients with atrophic acne scars were randomly assigned to 3 equal groups ; Group A received intradermal injection of PRP , Group B received chemical reconstruction of skin scars technique with TCA 100 % , and Group C was treated by combined skin needling and PRP .
+METHODS	Each patient underwent 3 sessions at 2-week interval .
+RESULTS	All the patients completed the study .
+RESULTS	The 3 groups showed statistically highly significant improvement in the degree of acne scars after treatment ( p < .001 ) .
+RESULTS	No major adverse effects were observed in the studied groups .
+CONCLUSIONS	This is the first study to use intradermal injection of PRP alone for the treatment of atrophic acne scars .
+CONCLUSIONS	The 3 modalities showed a promising efficacy and safety in the treatment of atrophic acne scars .
+

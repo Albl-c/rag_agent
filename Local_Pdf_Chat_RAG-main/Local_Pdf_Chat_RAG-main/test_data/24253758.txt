@@ -1,0 +1,17 @@
+24253758
+OBJECTIVE	Several studies emphasise that arabinoxylan and - glucan have more beneficial effects on glucose metabolism than low-dietary fibre ( DF ) meals .
+OBJECTIVE	Less attention has been paid to the effects of concentrated DF compared with whole grain .
+OBJECTIVE	We compared the effects of DF and whole grain on glucose , hormone responses and appetite in subjects with the metabolic syndrome ( MetS ) .
+METHODS	Fifteen subjects with MetS participated in this acute , randomised , cross-over intervention study .
+METHODS	The test breads provided 50 g of digestible carbohydrate : wheat bread with concentrated arabinoxylan ( AX ) or - glucan ( BG ) , rye bread with kernels ( RK ) and wheat bread ( WB ) as control .
+METHODS	Blood samples were drawn for 270 min to determine glucose , insulin , glucagon-like peptide-1 , glucose-dependent insulinotropic peptide ( GIP ) and ghrelin .
+METHODS	Appetite score was addressed every 30 min .
+METHODS	Ad libitum energy intake ( EI ) was measured 270 min after test meals .
+RESULTS	Compared with WB , BG and RK induced lower initial glycaemic responses ( P < 0.001 ) , whereas AX only reduced the glucose peak value ( P < 0.001 ) .
+RESULTS	RK reduced insulin ( P < 0.001 ) and GIP responses ( P < 0.001 ) compared with the other breads .
+RESULTS	BG lowered insulin responses more than AX ( P < 0.001 ) .
+RESULTS	AX , BG and RK increased satiety feeling ( P < 0.001 ) more than WB , but did not differ significantly in terms of subsequent EI ( P = 0.089 ) .
+CONCLUSIONS	BG and RK had beneficial impact on the glucose response , whereas AX had only effect on the postprandial glucose peak .
+CONCLUSIONS	The impact of the AX bread was influenced by higher protein content .
+CONCLUSIONS	Whether the metabolic effects of the breads are still present to mixed meals remains to be tested .
+

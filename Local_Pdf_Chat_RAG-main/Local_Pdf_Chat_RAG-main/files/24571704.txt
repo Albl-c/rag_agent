@@ -1,0 +1,13 @@
+24571704
+OBJECTIVE	To compare the erosion protection efficacy of a stabilised , stannous fluoride ( SnF2 ) dentifrice versus a sodium fluoride ( NaF ) dentifrice using a modified in situ clinical model .
+METHODS	This study , a randomised parallel group in situ design with in vivo product use and ex vivo acid challenge , compared : A , a dentifrice containing 1,450 ppm F as NaF ; B , a dentifrice containing 1,450 ppm F ( 1,100 ppm F as SnF2 + 350 ppm F as NaF ) ; and T , tap water .
+METHODS	Sample size was n = 4 per group ( total of 12 subjects ) and within each subject appliances were placed on each side of the mouth ( left and right ) .
+METHODS	Enamel specimens were placed in different positions of the mouth ( front , mid-front , mid-rear , rear ) in each appliance ( total = 8 specimens per subject ) .
+METHODS	Product treatment was twice per day ( lingual brushing for 30 seconds followed by swishing for 90 seconds with the resultant product/saliva slurry ) in vivo for 15 days , and ex vivo acid treatment ( 0.02 m citric acid 5 minutes four times per day ; total exposure time = 300 minutes ) .
+METHODS	Data were analysed using a general linear repeated measures model with treatment , side and position as fixed effects .
+METHODS	Within subjects , correlations were modelled assuming a different correlation and variance for treatment B relative to the other groups .
+METHODS	Pairwise treatment differences were performed using a 5 % two-sided significance level .
+RESULTS	Enamel loss ( in m ) was significantly lower ( P < 0.005 ) for treatment B versus treatments A and T. Treatment B reduced enamel surface loss by 86.9 % relative to treatment A.
+RESULTS	There was no statistical difference in mean enamel loss ( P = 0.51 ) between treatments A and T. Enamel loss was not statistically different for side ( left vs. right ; P = 0.44 ) or position ( front , mid-front , mid-rear , rear ; P = 0.36 ) .
+CONCLUSIONS	This modified in situ erosion model confirmed the enhanced erosion protection benefits of a stabilised SnF2 dentifrice versus a conventional NaF dentifrice , validating the ability of the model to safely and effectively demonstrate differences in the erosion protection potential of oral care products .
+

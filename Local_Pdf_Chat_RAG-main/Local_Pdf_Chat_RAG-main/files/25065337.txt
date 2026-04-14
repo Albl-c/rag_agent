@@ -1,0 +1,11 @@
+25065337
+BACKGROUND	In previous studies , we identified two urinary proteomic classifiers , termed HF1 and HF2 , which discriminated subclinical diastolic left ventricular ( LV ) dysfunction from normal .
+BACKGROUND	HF1 and HF2 combine information from 85 and 671 urinary peptides , mainly up - or down-regulated collagen fragments .
+BACKGROUND	We sought to validate these classifiers in a population study .
+METHODS	In 745 people randomly recruited from a Flemish population ( 49.8 years ; 51.3 % women ) , we measured early and late diastolic peak velocities of mitral inflow ( E and A ) and mitral annular velocities ( e ' and a ' ) by conventional and tissue Doppler echocardiography , and the urinary proteome by capillary electrophoresis coupled with mass spectrometry .
+RESULTS	In the analyses adjusted for sex , age , body mass index , blood pressure , heart rate , LV mass index and intake of medications , we expressed effect sizes per 1-SD increment in the classifiers .
+RESULTS	HF1 was associated with 0.204 cm/s lower e ' peak velocity ( 95 % confidence interval , 0.057-0 .351 ; p = 0.007 ) and 0.145 higher E/e ' ratio ( 0.023-0 .268 ; p = 0.020 ) , while HF2 was associated with a 0.174 higher E/e ' ratio ( 0.046-0 .302 ; p = 0.008 ) .
+RESULTS	According to published definitions , 67 ( 9.0 % ) participants had impaired LV relaxation and 96 ( 12.9 % ) had elevated LV filling pressure .
+RESULTS	The odds of impaired relaxation associated with HF1 was 1.38 ( 1.01-1 .88 ; p = 0.043 ) and that of increased LV filling pressure associated with HF2 was 1.38 ( 1.00-1 .90 ; p = 0.052 ) .
+CONCLUSIONS	In a general population , the urinary proteome correlated with diastolic LV dysfunction , proving its utility for early diagnosis of this condition .
+

@@ -1,0 +1,13 @@
+25332329
+BACKGROUND	High intake of cow-milk protein in formula-fed infants is associated with higher weight gain and increased adiposity , which have led to recommendations to limit protein intake in later infancy .
+BACKGROUND	The impact of protein from meats for breastfed infants during complementary feeding may be different .
+OBJECTIVE	We examined the effect of protein from meat as complementary foods on growth and metabolic profiles of breastfed infants .
+METHODS	This was a secondary analysis from a trial in which exclusively breastfed infants ( 5-6 mo old from the Denver , CO , metro area ) were randomly assigned to receive commercially available pureed meats ( Meat group ; n = 14 ) or infant cereal ( Cereal group ; n = 28 ) as their primary complementary feedings for 5 mo. .
+METHODS	Anthropometric measures and diet records were collected monthly from 5 to 9 mo of age ; intakes from complementary feeding and breast milk were assessed at 9 mo of age .
+RESULTS	The Meat group had significantly higher protein intake , whereas energy , carbohydrate , and fat intakes from complementary feeding did not differ by group over time .
+RESULTS	At 9 mo of age , mean ( SEM ) intakes of total ( complementary feeding plus breast milk ) protein were 2.9 0.6 and 1.4 0.4 g kg ( -1 ) d ( -1 ) , 17 % and 9 % of daily energy intake , for Meat and Cereal groups , respectively ( P < 0.001 ) .
+RESULTS	From 5 to 9 mo of age , the weight-for-age z score ( WAZ ) and length-for-age z score ( LAZ ) increased in the Meat group ( WAZ : 0.24 0.19 ; LAZ : 0.14 0.12 ) and decreased in the Cereal group ( WAZ : -0.07 0.17 ; LAZ : -0.27 0.24 ) ( P-group by time < 0.05 ) .
+RESULTS	The change in weight-for-length z score did not differ between groups .
+RESULTS	Total protein intake at 9 mo of age and baseline WAZ were important predictors of changes in the WAZ ( R ( 2 ) = 0.23 , P = 0.01 ) .
+CONCLUSIONS	In breastfed infants , higher protein intake from meats was associated with greater linear growth and weight gain but without excessive gain in adiposity , suggesting that potential risks of high protein intake may differ between breastfed and formula-fed infants and by the source of protein .
+

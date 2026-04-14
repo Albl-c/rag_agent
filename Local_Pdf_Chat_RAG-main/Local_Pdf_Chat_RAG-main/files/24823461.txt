@@ -1,0 +1,12 @@
+24823461
+BACKGROUND	GH treatment significantly increased adult height ( AH ) in a dose-dependent manner in short non-GH-deficient children in a randomized , controlled , clinical trial ; the mean gain in height SD score ( heightSDS ) was 1.3 ( range 0-3 ) , compared with 0.2 in the untreated group .
+OBJECTIVE	The objective of the study was to analyze the relationship between IGF-1SDS , IGF binding protein-3 SDS ( IGFBP3SDS ) , and their ratioSDS with a gain in the heightSDS until AH in non-GH-deficient short children .
+METHODS	This was a randomized , controlled , multicenter clinical trial .
+METHODS	The intervention included GH treatment : 33 or 67 g/kg d plus untreated controls .
+METHODS	One hundred fifty-one non-GH-deficient short children were included in the intent-to-treat ( ITT ) population and 108 in the per-protocol ( PP ) population ; 112 children in the ITT and 68 children in the PP populations had idiopathic short stature ( ISS ) .
+METHODS	Increments from baseline to on-treatment study mean IGF-1SDS ( IGF-1SDS ) , IGFBP3SDS , and IGF-1 to IGFBP3 ratioSDS were assessed in relationship to the gain in heightSDS .
+RESULTS	Sixty-two percent of the variance in the gain in heightSDS in children on GH treatment could be explained by four variables : IGF-1SDS ( explaining 28 % ) , bone age delay , birth length ( the taller the better ) , and GH dose ( the higher the better ) .
+RESULTS	The lower IGF-1SDS was at baseline , the higher was its increment during treatment .
+RESULTS	For both the AllPP - and the ISSPP-treated groups , the attained IGF-1SDS study level did not correlate with height gain .
+CONCLUSIONS	In short non-GH-deficient children , the GH dose-related increment in IGF-1SDS from baseline to mean study level was the most important explanatory variable for long-term growth response from the peripubertal period until AH , when IGF-1SDS , IGFBP3SDS , and their ratioSDS were compared concurrently .
+

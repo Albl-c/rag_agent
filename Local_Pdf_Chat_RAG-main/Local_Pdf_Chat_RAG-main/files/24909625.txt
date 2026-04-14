@@ -1,0 +1,10 @@
+24909625
+CONCLUSIONS	Responses with greater amplitude were recorded when carrier frequencies were modulated at 37 , 40 , and 43 Hz .
+CONCLUSIONS	These responses can be recorded even in patients with significant sensorineural hearing loss , from the sternocleidomastoid ( SCM ) muscle for a 500 Hz tone , 100 % modulated at 40 Hz .
+OBJECTIVE	To determine the best carrier and modulating frequencies to evoke steady-state myogenic responses .
+METHODS	The present study investigated 156 ears of 78 normal-hearing young adults , with carrier frequencies of 250 , 500 , and 1000 Hz , modulated at 20 , 37 , 40 , 43 , 70 , 77 , and 80 Hz , with an intensity of 95 dBA .
+METHODS	Furthermore , we observed responses evoked by stimulus carrier frequency of 500 Hz , modulated at 40 Hz , with an intensity of 95 dBA in a group of five subjects with severe sensorineural loss .
+RESULTS	Responses were found for all stimuli studied ( p < 0.01 ) .
+RESULTS	Modulated stimuli at frequencies of 37 , 40 , and 43 Hz evoked better steady-state vestibular evoked myogenic potential ( S-VEMP ) ( p < 0.05 ) .
+RESULTS	No statistically significant differences were found between the group of normal hearers and the group of subjects with hearing loss ( p = 0.431 ) , for the stimulus used .
+

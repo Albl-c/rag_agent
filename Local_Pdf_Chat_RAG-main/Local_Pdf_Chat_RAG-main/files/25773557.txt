@@ -1,0 +1,9 @@
+25773557
+OBJECTIVE	To estimate the effect of sequence on response precision and response behavior in health valuation studies .
+METHODS	Time trade-off ( TTO ) and paired comparison responses from six health valuation studies-four US , one Spanish , and one Dutch-were examined ( 22,225 respondents ) to test whether task sequence influences response precision ( e.g. , rounding ) , response changes , and median response times .
+METHODS	Each study used a computer-based instrument that randomized task sequence among a national sample of adults , age 18 years or older , from the general population .
+RESULTS	For both TTO and paired comparisons , median response times decreased with sequence ( i.e. , learning ) , but tended to flatten after the first three tasks .
+RESULTS	Although the paired comparison evidence demonstrated that sequence had no effect on response precision , the frequency of rounded TTO responses ( to either 1-year or 5-year units ) increased with sequence .
+CONCLUSIONS	Based on these results , randomizing or reducing the number of paired comparison tasks does not appear to influence response precision ; however , generalizability , practicality , and precautionary considerations remain .
+CONCLUSIONS	Overall , participants learned to respond efficiently within the first three tasks and did not resort to satisficing , but may have rounded their TTO responses .
+

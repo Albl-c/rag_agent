@@ -1,0 +1,14 @@
+24871247
+OBJECTIVE	To compare the speed and accuracy of answering clinical questions using Google versus summary resources .
+METHODS	In 2011 and 2012 , 48 internal medicine interns from two classes at Rutgers University Robert Wood Johnson Medical School , who had been trained to use three evidence-based summary resources , performed four-minute computer searches to answer 10 clinical questions .
+METHODS	Half were randomized to initiate searches for answers to questions 1 to 5 using Google ; the other half initiated searches using a summary resource .
+METHODS	They then crossed over and used the other resource for questions 6 to 10 .
+METHODS	They documented the time spent searching and the resource where the answer was found .
+METHODS	Time to correct response and percentage of correct responses were compared between groups using t test and general estimating equations .
+RESULTS	Of 480 questions administered , interns found answers for 393 ( 82 % ) .
+RESULTS	Interns initiating searches in Google used a wider variety of resources than those starting with summary resources .
+RESULTS	No significant difference was found in mean time to correct response ( 138.5 seconds for Google versus 136.1 seconds for summary resource ; P = .72 ) .
+RESULTS	Mean correct response rate was 58.4 % for Google versus 61.5 % for summary resource ( mean difference -3.1 % ; 95 % CI -10.3 % to 4.2 % ; P = .40 ) .
+CONCLUSIONS	The authors found no significant differences in speed or accuracy between searches initiated using Google versus summary resources .
+CONCLUSIONS	Although summary resources are considered to provide the highest quality of evidence , improvements to allow for better speed and accuracy are needed .
+

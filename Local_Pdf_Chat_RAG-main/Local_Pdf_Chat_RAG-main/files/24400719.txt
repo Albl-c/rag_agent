@@ -1,0 +1,11 @@
+24400719
+OBJECTIVE	A randomized and double-blinded study design was implemented to assess the stereo-acuity in patients symmetrically implanted with four types of multifocal intraocular lenses ( MIOLs ) , compared to a monofocal lens ( control group ) .
+OBJECTIVE	In addition , the influence of the type of test employed for the evaluation of stereo-acuity was explored .
+METHODS	Six months after cataract intervention , stereo-acuity was measured with the Titmus and TNO stereotests in 143 patients implanted with one of the following MIOL lens types : hybrid spherical SN60D3 , hybrid aspheric SN6AD1 , diffractive aspheric ZMA00 and refractive spherical NXG1 .
+METHODS	A control group implanted with the monofocal aspheric ZA9003 ( in which stereo-acuity was measured with a near addition ) was also included in the study .
+RESULTS	Statistically significant better stereo-acuity was found in the monofocal group with both stereotests ( except for the SN60D3 group with the Titmus test ) ( all p < 0.001 ) .
+RESULTS	No significant differences in stereo-acuity between MIOLs were found using the Titmus test .
+RESULTS	However , with the TNO , patients implanted with hybrid diffractive MIOLs exhibited statistically significant worse stereo-acuity than those with the refractive design ( SN60D3 , p < 0.001 ; SN6AD1 , p = 0.006 ) .
+CONCLUSIONS	Patients implanted with MIOLs have worse stereo-acuity than those implanted with monofocal IOLs due to the decrease in retinal image contrast originating in the simultaneous presence of two images .
+CONCLUSIONS	A wavelength-based stereotest such as the TNO induces large differences in image contrast between fellow eyes implanted with diffractive-based MIOLs , which may result in an underestimation of the real stereo-acuity of the patient .
+

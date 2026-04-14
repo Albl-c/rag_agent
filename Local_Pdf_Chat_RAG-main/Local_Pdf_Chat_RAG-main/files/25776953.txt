@@ -1,0 +1,14 @@
+25776953
+OBJECTIVE	Nonsevere relapses are more common than severe relapses in antineutrophil cytoplasmic antibody ( ANCA ) - associated vasculitis ( AAV ) , but their clinical course and treatment outcomes remain largely unexamined .
+OBJECTIVE	We undertook this study to analyze the outcomes of patients with nonsevere relapses in the Rituximab in ANCA-Associated Vasculitis ( RAVE ) trial who were treated with prednisone according to a prespecified protocol .
+METHODS	RAVE was a randomized , double-blind , placebo-controlled trial comparing rituximab ( RTX ) to cyclophosphamide ( CYC ) followed by azathioprine ( AZA ) for induction of remission .
+METHODS	Patients who experienced nonsevere relapses between months 1 and 18 were treated with a prednisone increase without a concomitant change in their nonglucocorticoid immunosuppressants , followed by a taper .
+RESULTS	Forty-four patients with a first nonsevere relapse were analyzed .
+RESULTS	In comparison to the 71 patients who maintained relapse-free remission over 18 months , these patients were more likely to have proteinase 3-ANCAs , diagnoses of granulomatosis with polyangiitis ( Wegener 's ) , and a history of relapsing disease at baseline .
+RESULTS	A prednisone increase led to remission in 35 patients ( 80 % ) .
+RESULTS	However , only 13 patients ( 30 % ) were able to maintain second remissions through the followup period ( mean 12.5 months ) ; 31 patients ( 70 % ) had a second disease relapse , 14 of them with severe disease .
+RESULTS	The mean time to second relapse was 9.4 months ( 4.7 months in the group treated with RTX versus 13.7 months in the group treated with CYC/AZA ; P < 0.01 ) .
+RESULTS	Patients who experienced nonsevere relapses received more glucocorticoids than those who maintained remission ( 6.7 grams versus 3.8 grams ; P < 0.01 ) .
+CONCLUSIONS	Treatment of nonsevere relapses in AAV with an increase in glucocorticoids is effective in restoring temporary remission in the majority of patients , but recurrent relapses within a relatively short interval remain common .
+CONCLUSIONS	Alternative treatment approaches are needed for this important subset of patients .
+

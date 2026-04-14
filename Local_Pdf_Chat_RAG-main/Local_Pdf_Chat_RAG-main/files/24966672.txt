@@ -1,0 +1,11 @@
+24966672
+BACKGROUND	Olodaterol is a long-acting 2-agonist with a 24-hour bronchodilator profile .
+BACKGROUND	Two replicate , randomized , double-blind , placebo-controlled , parallel-group , Phase III trials were performed as part of a comprehensive clinical program to investigate the long-term safety and efficacy of olodaterol in patients with moderate to very severe chronic obstructive pulmonary disease ( COPD ) receiving usual-care background therapy .
+METHODS	Patients received olodaterol 5 g or 10 g or placebo once daily for 48 weeks .
+METHODS	Coprimary end points were forced expiratory volume in 1 second ( FEV1 ) area under the curve from 0 to 3 hours ( AUC0-3 ) response ( change from baseline ) , and trough FEV1 response at 12 weeks .
+METHODS	Secondary end points included additional lung function assessments , use of rescue medications , FEV1 AUC response from 0 to 12 hours , and Patient Global Rating over 48 weeks .
+RESULTS	Overall , 624 and 642 patients were evaluated in studies 1222.11 and 1222.12 , respectively .
+RESULTS	In both studies , olodaterol 5 g and 10 g significantly improved the FEV1 AUC0-3 response ( P < 0.0001 ) and trough FEV1 ( study 1222.11 , P < 0.0001 ; study 1222.12 , P < 0.05 , post hoc ) at week 12 , with an incidence of adverse events comparable with that of placebo .
+RESULTS	Secondary end points supported the efficacy of olodaterol .
+CONCLUSIONS	These studies demonstrate the long-term efficacy and safety of once-daily olodaterol 5 g and 10 g in patients with moderate to very severe COPD continuing with usual-care maintenance therapy .
+

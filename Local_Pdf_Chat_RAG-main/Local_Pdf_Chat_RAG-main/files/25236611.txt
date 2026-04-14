@@ -1,0 +1,14 @@
+25236611
+BACKGROUND	Interpretive front-of-pack nutrition labels are better understood than non-interpretive labels .
+BACKGROUND	However , robust evidence on the effects of such labels on consumer food purchases in the real-world is lacking .
+BACKGROUND	Our aim is to assess the effects of two interpretive front-of-pack nutrition labels , compared with a non-interpretive label , on the healthiness of consumer food purchases .
+METHODS	A five-week ( 1-week baseline and 4-week intervention ) three-arm parallel randomised controlled trial will be conducted using a bespoke smartphone application , which will administer study questionnaires and deliver intervention ( Multiple Traffic Light and Health Star Rating ) and control ( Nutrition Information Panel ) labels .
+METHODS	To view their allocated nutrition label , participants scan the barcode of packaged food products using their smartphone camera .
+METHODS	The assigned label is displayed instantly on the smartphone screen .1500 eligible participants ( New Zealand adult smartphone owners who shop in a supermarket at least once a week and are main household shoppers ) will be randomised in a 1:1:1 ratio to one of the three nutrition label formats , using computer-generated randomisation sequences .
+METHODS	Randomisation will be stratified by ethnicity and interest in healthy eating .
+METHODS	Food and beverage purchase data will be collected continuously throughout the study via hard copy till receipts and electronic grocery purchase lists recorded and transmitted using the smartphone application .
+METHODS	The primary outcome will be healthiness of food purchases in each trial arm , assessed as mean Food Standards Australia New Zealand nutrient profiling score criterion score for all food and beverages purchased over the intervention period .
+METHODS	Secondary outcomes will include saturated fat , sugar , sodium and energy content of food purchases ; food expenditure ; labelling profile of food purchases ( i.e. mean number of Health Star Rating stars and proportion of red , green and amber traffic lights ) ; nutrient profiling score over time and by food categories ; purchases of unpackaged foods ; self-reported nutrition knowledge and recorded use of assigned labelling system .
+CONCLUSIONS	The Starlight randomised , controlled trial will determine the effects of interpretive front-of-pack nutrition labels on the healthiness of consumer food purchases in the real world .
+BACKGROUND	Australian New Zealand Clinical Trials Registry ACTRN12614000644662 ( registered 18 June 2014 ) .
+

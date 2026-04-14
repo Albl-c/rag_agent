@@ -1,0 +1,18 @@
+25301881
+OBJECTIVE	To evaluate the outcomes of standard automated perimetry ( SAP ) in patients with obstructive sleep apnea ( OSA ) .
+METHODS	Eighty OSA patients and 111 age-matched controls were consecutively and prospectively enrolled .
+METHODS	One eye per subject was randomly selected .
+METHODS	All participants underwent at least one reliable SAP ( 24-2 SITA Standard algorithm ) .
+METHODS	The peripapillary retinal nerve fiber layer thickness ( RNFL ) was measured with spectral-domain optical coherence tomography ( OCT ) .
+METHODS	Patients with OSA were classified into three groups according to the apnea/hypopnea index : mild , moderate , or severe OSA .
+METHODS	Parameters of SAP and OCT were compared between healthy controls and OSA patients .
+METHODS	Correlation of apnea/hypopnea index with OCT and SAP measurements were calculated .
+RESULTS	Mean age , best-corrected visual acuity , and central corneal thickness were similar between groups .
+RESULTS	Intraocular pressure , however , was lower in the OSA group .
+RESULTS	Mean deviation of SAP was -0.23 0.8 dB in the control group and -1.74 2.8 dB in the OSA group ( P < 0.001 ) .
+RESULTS	Thickness of RNFL measured with OCT did not differ significantly between groups .
+RESULTS	Patients with OSA showed reduced sensitivity at most points tested by white-on-white perimetry compared with healthy individuals .
+RESULTS	The threshold values were more depressed in the peripheral visual field .
+RESULTS	The apnea/hypopnea index was related to the SAP indices : Pearson correlations were -0.432 with mean deviation , 0.467 with pattern standard deviation , and -0.416 with the visual field index ( P < 0.001 ) .
+CONCLUSIONS	Patients with OSA exhibited reduced retinal sensitivity measured with SAP compared with healthy controls .
+

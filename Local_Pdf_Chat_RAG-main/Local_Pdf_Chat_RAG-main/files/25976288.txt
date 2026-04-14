@@ -1,0 +1,18 @@
+25976288
+OBJECTIVE	To determine the effectiveness of a physical activity intervention for smoking cessation during pregnancy .
+METHODS	Parallel group , randomised controlled , multicentre trial .
+METHODS	13 hospitals in England , April 2009 to January 2014 .
+METHODS	789 pregnant smokers , aged 16-50 years and at 10-24 weeks ' gestation , who smoked at least one cigarette daily and were prepared to quit smoking one week after enrollment were randomised ( 1:1 ) ; 785 were included in the intention to treat analyses , with 392 assigned to the physical activity group .
+METHODS	Interventions began one week before a target quit date .
+METHODS	Participants were randomised to six weekly sessions of behavioural support for smoking cessation ( control ) or to this support plus 14 sessions combining supervised treadmill exercise and physical activity consultations .
+METHODS	The primary outcome was continuous smoking abstinence from the target quit date until end of pregnancy , validated by exhaled carbon monoxide or salivary cotinine levels .
+METHODS	To assess adherence , levels of moderate-vigorous intensity physical activity were self reported and in a 11.5 % ( n = 90 ) random subsample of participants , physical activity was objectively measured by an accelerometer .
+RESULTS	No significant difference was found in rates of smoking abstinence at end of pregnancy between the physical activity and control groups ( 8 % v 6 % ; odds ratio 1.21 , 95 % confidence interval 0.70 to 2.10 ) .
+RESULTS	For the physical activity group compared with the control group , there was a 40 % ( 95 % confidence interval 13 % to 73 % ) , 34 % ( 6 % to 69 % ) , and 46 % ( 12 % to 91 % ) greater increase in self reported minutes carrying out physical activity per week from baseline to one week , four weeks , and six weeks post-quit day , respectively .
+RESULTS	According to the accelerometer data there was no significant difference in physical activity levels between the groups .
+RESULTS	Participants attended a median of four treatment sessions in the intervention group and three in the control group .
+RESULTS	Adverse events and birth outcomes were similar between the two groups , except for significantly more caesarean births in the control group than in the physical activity group ( 29 % v 21 % , P = 0.023 ) .
+CONCLUSIONS	Adding a physical activity intervention to behavioural smoking cessation support for pregnant women did not increase cessation rates at end of pregnancy .
+CONCLUSIONS	During pregnancy , physical activity is not recommended for smoking cessation but remains indicated for general health benefits .
+CONCLUSIONS	Trial registration Current Controlled Trials ISRCTN48600346 .
+

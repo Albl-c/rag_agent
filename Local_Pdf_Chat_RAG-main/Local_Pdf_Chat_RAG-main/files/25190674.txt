@@ -1,0 +1,11 @@
+25190674
+OBJECTIVE	Although statins can induce coronary atheroma regression , this benefit has yet to be demonstrated in diabetic individuals .
+OBJECTIVE	We tested the hypothesis that high-intensity statin therapy may promote coronary atheroma regression in patients with diabetes .
+METHODS	The Study of Coronary Atheroma by Intravascular Ultrasound : Effect of Rosuvastatin Versus Atorvastatin ( SATURN ) used serial intravascular ultrasound measures of coronary atheroma volume in patients treated with rosuvastatin 40 mg or atorvastatin 80 mg for 24 months .
+METHODS	This analysis compared changes in biochemistry and coronary percent atheroma volume ( PAV ) in patients with ( n = 159 ) and without ( n = 880 ) diabetes .
+RESULTS	At baseline , patients with diabetes had lower LDL cholesterol ( LDL-C ) and HDL cholesterol ( HDL-C ) levels but higher triglyceride and CRP levels compared with patients without diabetes .
+RESULTS	At follow-up , diabetic patients had lower levels of LDL-C ( 61.0 20.5 vs. 66.4 22.9 mg/dL , P = 0.01 ) and HDL-C ( 46.3 10.6 vs. 49.9 12.0 mg/dL , P < 0.001 ) but higher levels of triglycerides ( 127.6 [ 98.8 , 163.0 ] vs. 113.0 mg/dL [ 87.6 , 151.9 ] , P = 0.001 ) and CRP ( 1.4 [ 0.7 , 3.3 ] vs. 1.0 [ 0.5 , 2.1 ] mg/L , P = 0.001 ) .
+RESULTS	Both patients with and without diabetes demonstrated regression of coronary atheroma as measured by change in PAV ( -0.83 0.13 vs. -1.15 0.13 % , P = 0.08 ) .
+RESULTS	PAV regression was less in diabetic compared with nondiabetic patients when on-treatment LDL-C levels were > 70 mg/dL ( -0.31 0.23 vs. -1.01 0.21 % , P = 0.03 ) but similar when LDL-C levels were 70 mg/dL ( -1.09 0.16 vs. -1.24 0.16 % , P = 0.50 ) .
+CONCLUSIONS	High-intensity statin therapy alters the progressive nature of diabetic coronary atherosclerosis , yielding regression of disease in diabetic and nondiabetic patients .
+

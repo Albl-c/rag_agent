@@ -1,0 +1,13 @@
+25413071
+OBJECTIVE	To explore the clinical efficacy and safety of the early use of urokinase in the prevention and treatment on tunneled hemodialysis catheter related fibrin sheaths .
+METHODS	Thirty-eight hemodialysis patients with tunneled central venous catheter and good catheter function were randomly divided into experimental group and control group .
+METHODS	Urokinase was given after 3 days of indwelling catheter in the experimental group and after the onset of catheter dysfunction in the control group .
+METHODS	The catheter function , mean blood flow and venous pressure of dialysis , coagulation , and side effects in the two groups were observed for 6 months .
+RESULTS	The rates of catheter dysfunction on the arterial side were 0.65 % and 2.71 % in the experimental group and control group , respectively ( P < 0.05 ) , with catheter dysfunction rates on the vein side of 0.92 % and 2.41 % , respectively ( P < 0.05 ) .
+RESULTS	Catheter dysfunction occurred for the first time at 87.9 24.1 days in the experimental group , and at 31.3 11.5 days in the control group ( P < 0.05 ) .
+RESULTS	The mean blood flow showed no significant difference between the two groups at 1 month after tube insertion ( P > 0.05 ) , but was higher in the experimental group at 3 and 6 months after the tube insertion ( P < 0.05 ) .
+RESULTS	The mean venous pressure in two groups was similar 1 and 3 months after tube insertion ( P > 0.05 ) , but was significantly lower in the experimental group at 6 months ( P < 0.05 ) .
+RESULTS	Compared with control group , the experimental group showed significantly prolonged prothrombin time ( P < 0.05 ) but similar rest coagulation parameters .
+RESULTS	No serious drug-related side effects occurred in these two groups .
+CONCLUSIONS	Early use of urokinase is safe and effective for prevention and treatment of tunneled hemodialysis catheter-related fibrin sheaths with minimal side effects .
+

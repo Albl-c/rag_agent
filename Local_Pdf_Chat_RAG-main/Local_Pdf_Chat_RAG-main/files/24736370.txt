@@ -1,0 +1,20 @@
+24736370
+BACKGROUND	Insecticide-treated nets ( ITNs ) and indoor residual spraying ( IRS ) of houses provide effective malaria transmission control .
+BACKGROUND	There is conflicting evidence about whether it is more beneficial to provide both interventions in combination .
+BACKGROUND	A cluster randomised controlled trial was conducted to investigate whether the combination provides added protection compared to ITNs alone .
+RESULTS	In northwest Tanzania , 50 clusters ( village areas ) were randomly allocated to ITNs only or ITNs and IRS .
+RESULTS	Dwellings in the ITN+IRS arm were sprayed with two rounds of bendiocarb in 2012 .
+RESULTS	Plasmodium falciparum prevalence rate ( PfPR ) in children 0.5-14 y old ( primary outcome ) and anaemia in children < 5 y old ( secondary outcome ) were compared between study arms using three cross-sectional household surveys in 2012 .
+RESULTS	Entomological inoculation rate ( secondary outcome ) was compared between study arms .
+RESULTS	IRS coverage was approximately 90 % .
+RESULTS	ITN use ranged from 36 % to 50 % .
+RESULTS	In intention-to-treat analysis , mean PfPR was 13 % in the ITN+IRS arm and 26 % in the ITN only arm , odds ratio = 0.43 ( 95 % CI 0.19-0 .97 , n = 13,146 ) .
+RESULTS	The strongest effect was observed in the peak transmission season , 6 mo after the first IRS .
+RESULTS	Subgroup analysis showed that ITN users were additionally protected if their houses were sprayed .
+RESULTS	Mean monthly entomological inoculation rate was non-significantly lower in the ITN+IRS arm than in the ITN only arm , rate ratio = 0.17 ( 95 % CI 0.03-1 .08 ) .
+CONCLUSIONS	This is the first randomised trial to our knowledge that reports significant added protection from combining IRS and ITNs compared to ITNs alone .
+CONCLUSIONS	The effect is likely to be attributable to IRS providing added protection to ITN users as well as compensating for inadequate ITN use .
+CONCLUSIONS	Policy makers should consider deploying IRS in combination with ITNs to control transmission if local ITN strategies on their own are insufficiently effective .
+CONCLUSIONS	Given the uncertain generalisability of these findings , it would be prudent for malaria control programmes to evaluate the cost-effectiveness of deploying the combination .
+BACKGROUND	www.ClinicalTrials.gov NCT01697852 Please see later in the article for the Editors ' Summary .
+

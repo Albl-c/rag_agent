@@ -1,0 +1,19 @@
+24682346
+BACKGROUND	Allogeneic mesenchymal precursor cells ( MPCs ) injected during left ventricular assist device ( LVAD ) implantation may contribute to myocardial recovery .
+BACKGROUND	This trial explores the safety and efficacy of this strategy .
+RESULTS	In this multicenter , double-blind , sham-procedure controlled trial , 30 patients were randomized ( 2:1 ) to intramyocardial injection of 25 million MPCs or medium during LVAD implantation .
+RESULTS	The primary safety end point was incidence of infectious myocarditis , myocardial rupture , neoplasm , hypersensitivity reaction , and immune sensitization ( 90 days after randomization ) .
+RESULTS	Key efficacy end points were functional status and ventricular function while temporarily weaned from LVAD support ( 90 days after randomization ) .
+RESULTS	Patients were followed up until transplant or 12 months after randomization , whichever came first .
+RESULTS	Mean age was 57.4 ( 13.6 ) years , mean left ventricular ejection fraction was 18.1 % , and 66.7 % were destination therapy LVADs .
+RESULTS	No safety events were observed .
+RESULTS	Successful temporary LVAD weaning was achieved in 50 % of MPC and 20 % of control patients at 90 days ( P = 0.24 ) ; the posterior probability that MPCs increased the likelihood of successful weaning was 93 % .
+RESULTS	At 90 days , 3 deaths ( 30 % ) occurred in control patients , and none occurred in MPC patients .
+RESULTS	Mean left ventricular ejection fraction after successful wean was 24.0 % ( MPC = 10 ) and 22.5 % ( control = 2 ; P = 0.56 ) .
+RESULTS	At 12 months , 30 % of MPC patients and 40 % of control patients were successfully temporarily weaned from LVAD support ( P = 0.69 ) , and 6 deaths ( 30 % ) occurred in MPC patients .
+RESULTS	Donor-specific HLA sensitization developed in 2 MPC and 3 control patients and resolved by 12 months .
+CONCLUSIONS	In this preliminary trial , administration of MPCs appeared to be safe , and there was a potential signal of efficacy .
+CONCLUSIONS	Future studies will evaluate the potential for higher or additional doses to enhance the ability to wean LVAD recipients off support .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT01442129 .
+

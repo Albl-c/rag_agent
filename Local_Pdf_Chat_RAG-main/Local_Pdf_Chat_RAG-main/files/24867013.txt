@@ -1,0 +1,22 @@
+24867013
+OBJECTIVE	Abdominal pain after cholecystectomy is common and may be attributed to sphincter of Oddi dysfunction .
+OBJECTIVE	Management often involves endoscopic retrograde cholangiopancreatography ( ERCP ) with manometry and sphincterotomy .
+OBJECTIVE	To determine whether endoscopic sphincterotomy reduces pain and whether sphincter manometric pressure is predictive of pain relief .
+METHODS	Multicenter , sham-controlled , randomized trial involving 214 patients with pain after cholecystectomy without significant abnormalities on imaging or laboratory studies , and no prior sphincter treatment or pancreatitis randomly assigned ( August 6 , 2008-March 23 , 2012 ) to undergo sphincterotomy or sham therapy at 7 referral medical centers .
+METHODS	One-year follow-up was blinded .
+METHODS	The final follow-up visit was March 21 , 2013 .
+METHODS	After ERCP , patients were randomized 2:1 to sphincterotomy ( n = 141 ) or sham ( n = 73 ) irrespective of manometry findings .
+METHODS	Those randomized to sphincterotomy with elevated pancreatic sphincter pressures were randomized again ( 1:1 ) to biliary or to both biliary and pancreatic sphincterotomies .
+METHODS	Seventy-two were entered into an observational study with conventional ERCP managemeny .
+METHODS	Success of treatment was defined as less than 6 days of disability due to pain in the prior 90 days both at months 9 and 12 after randomization , with no narcotic use and no further sphincter intervention .
+RESULTS	Twenty-seven patients ( 37 % ; 95 % CI , 25.9 % -48.1 % ) in the sham treatment group vs 32 ( 23 % ; 95 % CI , 15.8 % -29.6 % ) in the sphincterotomy group experienced successful treatment ( adjusted risk difference , -15.6 % ; 95 % CI , -28.0 % to -3.3 % ; P = .01 ) .
+RESULTS	Of the patients with pancreatic sphincter hypertension , 14 ( 30 % ; 95 % CI , 16.7 % -42.9 % ) who underwent dual sphincterotomy and 10 ( 20 % ; 95 % CI , 8.7 % -30.5 % ) who underwent biliary sphincterotomy alone experienced successful treatment .
+RESULTS	Thirty-seven treated patients ( 26 % ; 95 % CI ,19 % -34 % ) and 25 patients ( 34 % ; 95 % CI , 23 % -45 % ) in the sham group underwent repeat ERCP interventions ( P = .22 ) .
+RESULTS	Manometry results were not associated with the outcome .
+RESULTS	No clinical subgroups appeared to benefit from sphincterotomy more than others .
+RESULTS	Pancreatitis occurred in 15 patients ( 11 % ) after primary sphincterotomies and in 11 patients ( 15 % ) in the sham group .
+RESULTS	Of the nonrandomized patients in the observational study group , 5 ( 24 % ; 95 % CI , 6 % -42 % ) who underwent biliary sphincterotomy , 12 ( 31 % ; 95 % CI , 16 % -45 % ) who underwent dual sphincterotomy , and 2 ( 17 % ; 95 % CI , 0 % -38 % ) who did not undergo sphincterotomy had successful treatment .
+CONCLUSIONS	In patients with abdominal pain after cholecystectomy undergoing ERCP with manometry , sphincterotomy vs sham did not reduce disability due to pain .
+CONCLUSIONS	These findings do not support ERCP and sphincterotomy for these patients .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00688662 .
+

@@ -1,0 +1,13 @@
+25060683
+BACKGROUND	Although pain is a common complication of endoscopic submucosal dissection ( ESD ) , management strategies are inadequate .
+BACKGROUND	The aim of this study was to evaluate the efficacy of topical bupivacaine and triamcinolone acetonide for abdominal pain relief and as a potential method of pain control after ESD for gastric neoplasia .
+METHODS	In this randomized , double-blind , placebo-controlled trial , 111 eligible patients with early gastric neoplasm were randomized into one of three groups : bupivacaine ( BV ) only , bupivacaine with triamcinolone ( BV-TA ) , or placebo .
+METHODS	The present pain intensity ( PPI ) score and the Short-Form McGill Pain Questionnaire ( SF-MPQ ) were used to evaluate pain at 0 , 6 , 12 , and 24 h after ESD .
+RESULTS	The mean values for the 6-hour PPI in the BV-TA and BV groups were lower than those of the placebo group ( 1.57 1.09 and 1.97 1.09 vs. 2.63 0.98 , p < 0.001 ) .
+RESULTS	The 12-hour PPI of the BV-TA group ( 1.20 0.83 ) was the lowest among the three groups ( p = 0.001 ) .
+RESULTS	The total 6-hour SF-MPQ score , especially in the sensory domain , was higher in the placebo group than in BV and BV-TA groups .
+RESULTS	The 12-hour SF-MPQ score was the lowest in the BV-TA group .
+RESULTS	Multivariate analysis demonstrated that BV-TA injection protocol , fibrosis , and size of residual ulcer were independently associated with the PPI score at 6 h.
+CONCLUSIONS	Bupivacaine after ESD was effective for pain relief at 6 h postoperatively .
+CONCLUSIONS	Particularly , topical infiltration of bupivacaine mixed with triamcinolone acetonide was helpful for producing a more long-lasting benefit of pain relief after gastric ESD .
+

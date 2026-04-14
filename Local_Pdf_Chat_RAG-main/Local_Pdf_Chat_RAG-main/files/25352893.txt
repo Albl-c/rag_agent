@@ -1,0 +1,11 @@
+25352893
+BACKGROUND	Funnel technique is a method used for the insertion of screw into thoracic pedicle .
+OBJECTIVE	To evaluate the biomechanical characteristics of thoracic pedicle screw placement using the Funnel technique , trying to provide biomechanical basis for clinical application of this technology .
+METHODS	14 functional spinal units ( T6 to T10 ) were selected from thoracic spine specimens of 14 fresh adult cadavers , and randomly divided into two groups , including Funnel technique group ( n = 7 ) and Magerl technique group ( n = 7 ) .
+METHODS	The displacement-stiffness and pull-out strength in all kinds of position were tested and compared .
+RESULTS	Two fixed groups were significantly higher than that of the intact state ( P < 0.05 ) in the spinal central axial direction , compression , anterior flexion , posterior bending , lateral bending , axial torsion , but there were no significant differences between two fixed groups ( P > 0.05 ) .
+RESULTS	The mean pull-out strength in Funnel technique group ( 789.09 27.33 ) was lower than that in Magerl technique group ( P < 0.05 ) .
+CONCLUSIONS	The Funnel technique for the insertion point of posterior bone is a safe and accurate technique for pedicle screw placement .
+CONCLUSIONS	It exhibited no effects on the stiffness of spinal column , but decreased the pull-out strength of pedicle screw .
+CONCLUSIONS	Therefore , the funnel technique in the thoracic spine affords an alternative for the standard screw placement .
+

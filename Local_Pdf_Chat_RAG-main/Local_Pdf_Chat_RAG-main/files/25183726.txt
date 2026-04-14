@@ -1,0 +1,18 @@
+25183726
+BACKGROUND	Disturbance of the sleep-wake cycle is a characteristic of delirium .
+BACKGROUND	In addition , changes in melatonin rhythm influence the circadian rhythm and are associated with delirium .
+BACKGROUND	We compared the effect of melatonin and placebo on the incidence and duration of delirium .
+METHODS	We performed this multicentre , double-blind , randomized controlled trial between November 2008 and May 2012 in 1 academic and 2 nonacademic hospitals .
+METHODS	Patients aged 65 years or older who were scheduled for acute hip surgery were eligible for inclusion .
+METHODS	Patients received melatonin 3 mg or placebo in the evening for 5 consecutive days , starting within 24 hours after admission .
+METHODS	The primary outcome was incidence of delirium within 8 days of admission .
+METHODS	We also monitored the duration of delirium .
+RESULTS	A total of 452 patients were randomly assigned to the 2 study groups .
+RESULTS	We subsequently excluded 74 patients for whom the primary end point could not be measured or who had delirium before the second day of the study .
+RESULTS	After these postrandomization exclusions , data for 378 patients were included in the main analysis .
+RESULTS	The overall mean age was 84 years , 238 ( 63.0 % ) of the patients lived at home before admission , and 210 ( 55.6 % ) had cognitive impairment .
+RESULTS	We observed no effect of melatonin on the incidence of delirium : 55/186 ( 29.6 % ) in the melatonin group v. 49/192 ( 25.5 % ) in the placebo group ; difference 4.1 ( 95 % confidence interval -0.05 to 13.1 ) percentage points .
+RESULTS	There were no between-group differences in mortality or in cognitive or functional outcomes at 3-month follow-up .
+CONCLUSIONS	In this older population with hip fracture , treatment with melatonin did not reduce the incidence of delirium .
+BACKGROUND	Netherlands Trial Registry , NTR1576 : MAPLE ( Melatonin Against PLacebo in Elderly patients ) study ; www.trialregister.nl/trialreg/admin/rctview.asp?TC=1576 .
+

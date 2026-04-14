@@ -1,0 +1,16 @@
+26122460
+OBJECTIVE	Self-management challenges facing adults with epilepsy include limited understanding of the condition and treatment , associated psychosocial issues , and lack of community integration .
+OBJECTIVE	Self-management interventions improve patients ' medical , life role , and emotional management .
+OBJECTIVE	Previous interventions , developed from expert opinion , indicated issues with participant engagement/retention , and limited follow-up periods .
+OBJECTIVE	PACES in Epilepsy addressed methodologic concerns by utilizing patient needs assessment data ( n = 165 ) to derive self-management content and program features for evaluation via randomized controlled trial ( RCT ) .
+METHODS	Participants were adults with chronic epilepsy ( n = 83 ) , without serious mental illness or substantive intellectual impairment , who were recruited from two epilepsy centers .
+METHODS	Participants were assigned randomly to intervention or treatment-as-usual groups .
+METHODS	Outcomes included the Epilepsy Self-Management Scale ( ESMS ) , Epilepsy Self-Efficacy Scale ( ESES ) , Quality of Life in Epilepsy-31 ( QOLIE-31 ) , Patient Health Questionnaire-9 ( PHQ-9 ) , and the Generalized Anxiety Disorder-7 ( GAD-7 ) , administered at baseline , postintervention ( 8weeks ) , and 6months postintervention .
+METHODS	The intervention was an 8-week group of 6-8 adults co-led by a psychologist and trained peer with epilepsy that met one evening per week at a hospital for 75min .
+METHODS	Topics included medical , psychosocial , cognitive , and self-management aspects of epilepsy , in addition to community integration and optimizing epilepsy-related communication .
+METHODS	The treatment group provided satisfaction ratings regarding program features .
+RESULTS	PACES participants ( n = 38 ) improved relative to controls ( n = 40 ) on the ESMS ( p < 0.001 ) and subscales [ Information ( p < 0.001 ) ; Lifestyle ( p < 0.002 ) ] ; ESES ( p < 0.001 ) ; and QOLIE-31 ( p = 0.002 ) .
+RESULTS	At 6-month follow up , PACES participants remained improved on the ESMS ( p = 0.004 ) and Information subscale ( p = 0.009 ) ; and Energy/Fatigue ( p = 0.032 ) and Medication Effects ( p = 0.005 ) of the QOLIE-31 .
+RESULTS	Attrition in both groups was low ( 8 % in each group ) and all program satisfaction ratings exceeded 4.0 / 5.0 , with leadership ( 4.76 ) , topics ( 4.53 ) , and location ( 4.30 ) as the most highly rated aspects .
+CONCLUSIONS	A consumer generated epilepsy self-management program appears to be a promising intervention from multiple perspectives , particularly in relation to disability management .
+

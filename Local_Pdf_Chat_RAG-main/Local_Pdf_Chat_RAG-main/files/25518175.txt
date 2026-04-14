@@ -1,0 +1,14 @@
+25518175
+OBJECTIVE	Rotation of femoral components could be optimized to improve function and durability of the knee joint .
+OBJECTIVE	The purpose of the present study was to assess rotational alignment of femoral component comparing between CT-based , custom cutting blocks and the contemporary total knee arthroplasty , instrument technique .
+METHODS	The prospective control study of 80 patients underwent total knee arthroplasty by using PFC Sigma PS total knee design .
+METHODS	Rotation offemoral component was analyzed in all patients using postoperative CT scan .
+METHODS	Forty patients were perfonned on by using CT-based , patient-specific cutting blocks with femoral rotational axis relative to transepicondylar axis while forty patients were performed on by using contemporaly instrumentation with alignment at 3 degrees external rotation from posterior condylar line .
+METHODS	The rotation of the femoral component with external rotation ofmore than 3 degrees or internal rotation was considered outlier .
+RESULTS	There was no statistically significant difference among ages , gender ; BMI , pre-operative mechanical axis between the two groups .
+RESULTS	There were eleven outliers in conventional group ( range , 5 degrees ofexternal rotation to 3 degrees of internal rotation ) , three femoral components were in excessive external rotation with the angle of more than 3 degrees and eight femnoral components were in internal rotation .
+RESULTS	In contrast with custom cutting block group was no outliers offemoral rotation .
+RESULTS	The average rotational alignment was 1.040 + / - 0.62 external rotation from epicondylar axis in custom cutting group and 1.58 + / - 1.750 in contemporary group .
+CONCLUSIONS	Custom cutting , block technique significantly reduced the outlier of the femoral component rotation and aided in positioning of the femoral component in optimal alignment .
+CONCLUSIONS	The improvement of femoral rotation showed no difference in clinical outcome between the two groups .
+

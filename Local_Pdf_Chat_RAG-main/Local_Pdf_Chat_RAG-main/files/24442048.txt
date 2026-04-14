@@ -1,0 +1,9 @@
+24442048
+OBJECTIVE	Psoriasis is a systemic inflammatory immune-mediated skin disease .
+OBJECTIVE	Recently a relationship with metabolic syndrome in terms of psoriasis severity and response to therapy was observed .
+METHODS	We performed an open-label randomized controlled study to evaluate the role of a nutraceutical containing Q10 coenzyme , Krill-oil , lipoic acid , resveratrol , Vitis vinifera seed oil , vitamin E and selenium in addition to etanercept therapy for patients affected by psoriasis and metabolic syndrome .
+METHODS	Forty patients were enrolled and divided into two arms , one receiving only etanercept , one other receiving also the neutraceutical .
+METHODS	After a period of 3 months ( T1 ) a second evaluation of the considered parameters was performed .
+RESULTS	At T1 statistically significant differences were detected in HDL cholesterol and triglycerides values both comparing the two arms and in the nutraceutical arm .
+CONCLUSIONS	Our results show that the dietary addiction of the nutraceutical to the etanercept therapy in patients affected by both psoriasis and metabolic syndrome could help to restore the normal lipid profile .
+

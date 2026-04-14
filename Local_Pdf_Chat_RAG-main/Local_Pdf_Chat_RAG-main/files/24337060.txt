@@ -1,0 +1,16 @@
+24337060
+OBJECTIVE	It was to test the validity and reliability of an online version of the Female Sexual Function Index ( FSFI ) .
+METHODS	An online version of the FSFI was compared to the pen and paper traditional version .
+METHODS	Physiotherapy students in three cities were randomly allocated to two groups - G-pp/ol ( n = 126 ) and G-ol/pp ( n = 147 ) .
+METHODS	G-pp/ol women replied to th FSFI using the traditional pen and paper method , while G-ol/pp women answered an online version of the same questionnaire .
+METHODS	Data were collected ageing after 15 days , when G-pp/ol women answered the online version while G-ol/pp women answered on paper .
+METHODS	All data were transferred to SPSS software .
+METHODS	Demographic differences between the test two groups were determined by Student 's t-test or Fisher exact ( 95 % CI ; p > 0.05 ) .
+METHODS	Association and correlation between the responses of G-pp/ol and G-ol/pp were assessed for each sample by the t-test and Pearson 's coefficient .
+METHODS	An identical strategy was used for intragroup comparisons .
+RESULTS	A total of 273 women participated in the study and 28 ( 10.2 % ) giving up the second collection .
+RESULTS	There were no demographic differences between groups .
+RESULTS	Fifteen of the 19 FSFI questions were associated and correlated between the two groups in both test and the retest .
+RESULTS	The intragroup analysis revealed that all FSFI questions and scores were associated and weakly correlated for the same group during both test and retest .
+CONCLUSIONS	The online version of the FSFI showed acceptable validity and reliability when compared to the paper version , and can justify the choice of this modality , especially in studies involving private questions .
+

@@ -1,0 +1,10 @@
+25042759
+BACKGROUND	This Stage II trial builds on a Stage I trial comparing the single-gender Women 's Recovery Group ( WRG ) to mixed-gender Group Drug Counseling ( GDC ) that demonstrated preliminary support for the WRG in treating women with substance use disorders .
+BACKGROUND	The Stage II trial aims were to ( 1 ) investigate effectiveness of the WRG relative to GDC in a sample of women heterogeneous with respect to substance of abuse and co-occurring psychiatric disorders , and ( 2 ) demonstrate the feasibility of implementing WRG in an open-enrollment group format at two sites .
+METHODS	In this randomized clinical trial , participants were included if they were substance dependent and had used substances within the past 60 days ( n = 158 ) .
+METHODS	Women were randomized to WRG ( n = 52 ) or GDC ( n = 48 ) ; men were assigned to GDC ( n = 58 ) .
+METHODS	Substance use outcomes were assessed at months 1-6 and 9 .
+RESULTS	Women in both the WRG and GDC had reductions in mean number of substance use days during treatment ( 12.7 vs 13.7 day reductions for WRG and GDC , respectively ) and 6 months post-treatment ( 10.3 vs 12.7 day reductions ) ; however , there were no significant differences between groups .
+CONCLUSIONS	The WRG demonstrated comparable effectiveness to standard mixed-gender treatment ( i.e. , GDC ) and is feasibly delivered in an open-group format typical of community treatment .
+CONCLUSIONS	It provides a manual-based group therapy with women-focused content that can be implemented in a variety of clinical settings for women who are heterogeneous with respect to their substance of abuse , other co-occurring psychiatric disorders , and life-stage .
+

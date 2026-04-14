@@ -1,0 +1,17 @@
+24625934
+BACKGROUND	Succinylcholine a depolarizing muscle relaxant with rapid onset , predictable course and short duration of action is associated with myalgia .
+OBJECTIVE	The aim of this study is to evaluate the efficacy of pregabalin , gabapentin and diclofenac on the incidence and severity of succinylcholine-induced myalgia .
+METHODS	Tertiary Care Teaching Hospital .
+METHODS	A total of 120 patients undergoing laparoscopic cholecystectomy were randomly assigned into three groups : Pregabalin group received 150 mg of pregabalin , gabapentin group received 600 mg of gabapentin and diclofenac group received 100 mg of diclofenac sodium orally 2 h prior to surgery .
+METHODS	Anesthesia was induced with fentanyl 3 g/kg , propofol 2-2 .5 mg/kg and succinylcholine 1.5 mg/kg and was maintained with oxygen with sevoflurane in the air and intermittent vecuronium bromide .
+METHODS	A blinded observer recorded post-operative pain scores on visual analog scale at different time intervals and myalgia at 24 h. Post-operative pain relief was provided with fentanyl based patient-controlled analgesia .
+METHODS	Fentanyl consumption in 24 h was recorded as a primary outcome .
+METHODS	Patients ' characteristics and total fentanyl consumption were compared using one-way ANOVA followed by post-hoc test .
+METHODS	Pain score was compared amongst the groups using Kruskal Wallis test .
+RESULTS	The myalgia occurred in 15 , 14 and 13 patients in pregabalin , gabapentin and diclofenac sodium group respectively ( P > 0.85 ) .
+RESULTS	Patients in diclofenac group had significantly higher fentanyl consumption ( 674.85 115.58 g ) compared with pregabalin group ( 601.87 129.57 g ) ( 95 % confidence interval [ CI ] = 34.8-120 .7 ) and gabapentin group ( 612.29 105.12 g ) ( 95 % CI = 14.9-170 .5 ) .
+RESULTS	However , there was no significant difference in fentanyl consumption between pregabalin and gabapentin groups ( 95 % CI = -34.8 -120.7 ) .
+RESULTS	There was a significant difference in visual analog score at time points 12 , 18 and 24 h among the study groups .
+CONCLUSIONS	Pre-treatment with pregabalin , gabapentin and diclofenac had equal efficacy in reducing the incidence and severity of succinylcholine-induced myalgia .
+CONCLUSIONS	However , pre-treatment with pregabalin and gabapentin decreased post-operative pain scores and fentanyl consumption .
+

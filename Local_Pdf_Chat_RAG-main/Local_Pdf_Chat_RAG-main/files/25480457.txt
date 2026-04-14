@@ -1,0 +1,14 @@
+25480457
+OBJECTIVE	The purpose of this study is to determine whether varying the format used to present prognostic data alters the perception of risk among surrogate decision makers in the intensive care unit ( ICU ) .
+METHODS	This was a prospective randomized comparative trial conducted in a 23-bed adult tertiary ICU .
+METHODS	Enrolled surrogate decision makers were randomized to 1 of 2 questionnaires , which presented hypothetical ICU scenarios , identical other than the format in which prognostic data were presented ( eg , frequencies vs percentages ) .
+METHODS	Participants were asked to rate the risk associated with each prognostic statement .
+RESULTS	We enrolled 141 surrogate decision makers .
+RESULTS	The perception of risk varied significantly dependent on the presentation format .
+RESULTS	For `` quantitative data , '' risks were consistently perceived as higher , when presented as frequencies ( eg , 1 in 50 ) compared with equivalent percentages ( eg , 2 % ) .
+RESULTS	Framing `` qualitative data '' in terms of chance of `` death '' rather than `` survival '' led to a statistically significant increase in perceived risks .
+RESULTS	Framing `` quantitative '' data in this way did not significantly affect risk perception .
+CONCLUSIONS	Data format had a significant effect on how surrogate decision makers interpreted risk .
+CONCLUSIONS	Qualitative statements are interpreted widely and affected by framing .
+CONCLUSIONS	Where possible , multiple quantitative formats should be used for presenting prognostic information .
+

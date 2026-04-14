@@ -1,0 +1,16 @@
+24423823
+OBJECTIVE	To compare the efficacy and toxicity of chemotherapy under the guidance of molecular markers and with vinorelbine in elderly patients with epidermal growth factor receptor ( EGFR ) wild-type advanced non-small cell lung cancer ( NSCLC ) .
+METHODS	A total of 86 elderly patients with pathologically-confirmed advanced NSCLC with EGFR wild-type were recruited between June 2010 to October 2012 .
+METHODS	There were 69 males and 17 females , aging from 70 to 83 years .
+METHODS	They were divided randomly into 2 groups according to the proportion of 1 : 1 by SPSS 16.0 software .
+METHODS	The study group received chemotherapy ( cisplatin , gemcitabine , paclitaxel , and pemetrexed ) under the guidance of molecular markers ( excision repair cross-complementing 1 ERCC1 , ribonucleotide reductase M1 RRM1 , Class III beta-tubulin , thymidylate synthetase TS ) .
+METHODS	The control group received vinorelbine 25 mg/m ( 2 ) days 1 and 8 with 21 days as a cycle .
+RESULTS	The progression-free survival ( PFS ) of the study group and the control group was 4.0 months ( 95 % CI : 3.1-4 .9 ) and 3.0 months ( 95 % CI : 2.4-3 .6 ) respectively , the difference being statistically significant ( ( 2 ) = 4.750 , P = 0.029 ) .
+RESULTS	The objective response rate ( ORR ) was 23 % ( 10/43 ) and 19 % ( 8/43 ) ( ( 2 ) = 0.281 , P = 0.596 ) , the disease control rate ( DCR ) was 79 % ( 34/43 ) and 77 % ( 33/43 ) ( ( 2 ) = 0.068 , P = 0.795 ) , and the median overall survival ( OS ) was 8.3 months and 7.5 months ( ( 2 ) = 0.756 , P = 0.385 ) , respectively ; the differences being not significant .
+RESULTS	Adverse effects were similar between the study group and the control group .
+RESULTS	The most commonly seen adverse events were hematological toxicity , nausea , vomiting , fatigue , alopecia , joint and muscle pain .
+RESULTS	Most of the toxicity was of grade I and grade II .
+RESULTS	There was no treatment-related death .
+CONCLUSIONS	The PFS was prolonged in elderly patients with EGFR wild-type advanced NSCLC under the guidance of molecular markers , but there was no improvement in ORR , DCR and OS .
+CONCLUSIONS	Further studies are needed to evaluate the clinical significance of this treatment modality .
+

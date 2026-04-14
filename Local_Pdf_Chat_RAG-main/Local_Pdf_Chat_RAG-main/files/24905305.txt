@@ -1,0 +1,14 @@
+24905305
+BACKGROUND	Diabetes is a chronic disease characterized by elevated blood glucose levels .
+BACKGROUND	The appropriate goals in the management of diabetes include maintaining blood glucose levels as close to the normal range as possible , minimizing the adverse effects of free radicals by enhancing antioxidant defenses .
+BACKGROUND	Supplementation with appropriate vitamins may therefore be of value in the prevention and treatment of diabetes .
+METHODS	A total of 92 patients with diabetic neuropathy were enrolled in this randomized controlled study from the general medicine department of a tertiary care hospital .
+METHODS	Patients were randomized into two groups viz. , usual care ( n = 46 ) and intervention group ( n = 46 ) .
+METHODS	Usual care group patients received pregabalin with oral hypoglycemic agents .
+METHODS	Patients in the intervention group received vitamin-E along with their regular medicines .
+METHODS	Pain intensity and quality of life ( QoL ) of patients were assessed using Neuropathy Pain Score and RAND 36 questionnaire .
+METHODS	Blood samples were analyzed for the levels of random blood sugar level and HbA ( 1c ) at the baseline and on the 12th week .
+RESULTS	Significant ( p < 0.05 ) decrease in the random blood sugar level was observed in intervention group when compared with the usual care group and a significant ( p < 0.01 ) reduction in total pain score , and a significant ( p < 0.05 ) improvement in physical health after 12 week treatment of vitamin-E was observed .
+CONCLUSIONS	The study concluded that vitamin-E is a natural antioxidant and it is found to be effective in reducing pain score in diabetic neuropathy patients .
+CONCLUSIONS	The future studies may be directed towards extended duration of action .
+

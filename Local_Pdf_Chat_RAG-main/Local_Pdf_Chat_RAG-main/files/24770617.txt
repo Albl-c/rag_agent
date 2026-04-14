@@ -1,0 +1,19 @@
+24770617
+BACKGROUND	Highly HLA-sensitized ( HS ) patients have difficulty accessing compatible donors , especially deceased donor ( DD ) transplants .
+BACKGROUND	Desensitization protocols ( DES ) have evolved , but rigorous evaluation is lacking .
+BACKGROUND	Here , we examined the efficacy of rituximab as a DES agent in a placebo-controlled trial .
+METHODS	Candidates were randomized to IVIG + placebo versus IVIG + rituximab .
+METHODS	End points included rates of transplantation , antibody-mediated rejection ( ABMR ) , and renal function .
+METHODS	Protocol biopsies were performed at 1 year and analysis of patient and graft survival and donor-specific HLA antibodies ( DSA ) were performed .
+RESULTS	Initially , 15 HS DDs were randomized with 13 receiving transplants .
+RESULTS	However , we discontinued study entry after five serious adverse events were observed .
+RESULTS	The study was un-blinded and attribution of patients was noted ( IVIG + placebo N = 7 , IVIG + rituximab N = 6 ) .
+RESULTS	No significant differences were seen in DSA levels at transplant .
+RESULTS	All ABMR episodes occurred in the IVIG + placebo arm and required intense therapy ( P = 0.06 ) .
+RESULTS	The two graft losses were in the placebo group .
+RESULTS	DSA rebound associated with severe ABMR was seen in three patients in the IVIG + placebo group .
+RESULTS	No rebound was seen in the IVIG + rituximab group .
+RESULTS	Renal function at 6 and 12 months showed a significant benefit for IVIG + rituximab ( P = 0.04 ) .
+CONCLUSIONS	Based on limited assessment with acknowledged limitations , both protocols appear effective in achieving levels of DSA allowable for transplantation .
+CONCLUSIONS	However , IVIG + rituximab appeared more effective in preventing DSA rebound and , more importantly , preventing ABMR and development of transplant glomerulopathy .
+

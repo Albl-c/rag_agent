@@ -1,0 +1,12 @@
+24602137
+OBJECTIVE	HM30181 is a third generation P-glycoprotein ( P-gp ) inhibitor currently under development .
+OBJECTIVE	The objectives of this study were to evaluate the effects of a single dose of HM30181 on the pharmacodynamics and pharmacokinetics of loperamide , a P-gp substrate , and to compare them with those of quinidine .
+METHODS	Eighteen healthy male subjects were administered loperamide alone ( period 1 ) or with loperamide plus quinidine or HM30181 in period 2 or 3 , respectively .
+METHODS	In period 3 , subjects randomly received one of three HM30181 doses : 15 , 60 or 180mg .
+METHODS	Changes in pupil size , alertness , oxygen saturation and the oral bioavailability of loperamide were assessed in each period .
+METHODS	In addition , the pharmacokinetics of HM30181 were determined .
+RESULTS	Pupil size , alertness and oxygen saturation did not change over time when loperamide alone or loperamide plus HM30181 was administered while HM30181 significantly increased the systemic exposure to loperamide , i.e. the geometric mean ratio ( 90 % confidence interval ) of AUC ( 0 , tlast ) for loperamide with and without HM30181 was 1.48 ( 1.08 , 2.02 ) .
+RESULTS	Co-administered quinidine significantly increased the systemic exposure to loperamide 2.2-fold ( 1.53 , 3.18 ) , which also markedly reduced pupil size , resulting in a decrease of 24.7 mmh in the area under the effect curve of pupil size change from baseline compared with loperamide alone .
+CONCLUSIONS	HM30181 inhibits P-gp mainly in the intestinal endothelium , which can be beneficial because pan-inhibition of P-gp , particularly in the brain , could lead to detrimental adverse events .
+CONCLUSIONS	Further studies are warranted to investigate adequately the dose-exposure relationship of HM30181 , along with its duration of effect .
+

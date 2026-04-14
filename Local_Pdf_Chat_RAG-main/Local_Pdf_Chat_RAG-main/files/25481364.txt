@@ -1,0 +1,15 @@
+25481364
+OBJECTIVE	The volume of a fibroid uterus before performing hysterectomy is typically estimated through bimanual examination and confirmed by ultrasonography .
+OBJECTIVE	This study compares estimated volumes by bimanual examination and ultrasound examination with MRI and actual volumes obtained from histopathology , as gold standards .
+METHODS	We used data from a previous prospective randomized multi-center trial that compared hysterectomy and uterine artery embolization ( UAE ) for the treatment of symptomatic fibroids .
+METHODS	All patients underwent bimanual vaginal examination and pelvic ultrasonography .
+METHODS	Those women randomized to UAE received a pelvic MRI .
+METHODS	For women randomized to hysterectomy , the exact uterine volume was based on histopathologic examination .
+METHODS	We compared the calculated volumes based on ultrasound parameters and estimated volume based on bimanual examination with either the calculated volumes of the pelvic MRI parameters or the calculated volume based on the exact weight during histological examinations .
+RESULTS	Our study demonstrated poor agreement between ultrasound and bimanual examination compared with exact volume during histopathologic examination and MRI-based volume .
+RESULTS	The agreement within the patient group with uterine volume > 233 g and > 747 g was fair to good .
+RESULTS	For those women with a uterine volume between 233 and 747 g , the agreement was poor when comparing bimanual estimates with volume obtained from MRI or histolopathologic examination .
+RESULTS	Within this volume group , the agreement on uterine volume between ultrasound and MRI or histopathologic examination was fair .
+CONCLUSIONS	Our study shows that uterine volume as estimated by ultrasound and bimanual examination can be used for small or large uteri .
+CONCLUSIONS	For uteri with an intermediate volume , bimanual examination and ultrasound are less reliable .
+

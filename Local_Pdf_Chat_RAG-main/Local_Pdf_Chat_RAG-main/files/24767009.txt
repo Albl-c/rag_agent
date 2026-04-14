@@ -1,0 +1,9 @@
+24767009
+BACKGROUND	Internet-delivered trauma-focused cognitive behavioural therapy is efficacious for PTSD ; however , no studies have investigated the roles of individual treatment components or the safety of online treatments .
+OBJECTIVE	To compare the efficacy and safety of an online treatment for PTSD comprised of psychoeducation , stress management , cognitive restructuring and exposure components with the equivalent protocol without the exposure components , using a randomised controlled trial design .
+METHODS	Sixty-six individuals were randomised to a non-exposure condition and 59 to the full protocol with exposure components .
+METHODS	Treatment duration was 8 weeks and pre - , post-treatment and three-month follow-up outcomes were analysed using a mixed linear modelling approach .
+RESULTS	Both groups achieved improvements in symptoms with no differences between groups on any primary or secondary outcome measures , diagnostic remission rates or adverse events .
+CONCLUSIONS	The study included several secondary measures that have not been previously validated and treatments were not time matched in terms of number of lessons .
+CONCLUSIONS	These findings indicate that trauma-focused cognitive behavioural therapy for PTSD with or without exposure components can be safe and efficacious .
+

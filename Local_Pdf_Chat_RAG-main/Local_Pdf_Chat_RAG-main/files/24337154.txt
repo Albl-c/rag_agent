@@ -1,0 +1,15 @@
+24337154
+OBJECTIVE	Insulin-sensitive tissues ( muscle , liver ) of individuals with obesity and type 2 diabetes mellitus are in a state of low-grade inflammation , characterised by increased Toll-like receptor ( TLR ) expression and TLR-driven signalling .
+OBJECTIVE	However , the cause of this mild inflammatory state is unclear .
+OBJECTIVE	We tested the hypothesis that a prolonged mild increase in plasma NEFA will increase TLR expression and TLR-driven signalling ( nuclear factor B [ NFB ] and mitogen-activated kinase [ MAPK ] ) and impair insulin action in muscle of lean healthy individuals .
+METHODS	Twelve lean , normal-glucose-tolerant participants were randomised to receive a 48 h infusion ( 30 ml/h ) of saline or Intralipid followed by a euglycaemic-hyperinsulinaemic clamp .
+METHODS	Vastus lateralis muscle biopsies were performed before and during the clamp .
+RESULTS	Lipid infusion impaired insulin-stimulated IRS-1 tyrosine phosphorylation and reduced peripheral insulin sensitivity ( p < 0.01 ) .
+RESULTS	The elevation in circulating NEFA increased expression of TLR3 , TLR4 and TLR5 , and several MAPK ( MAPK8 , MAP4K4 , MAP2K3 ) and inhibitor of B kinase-NFB ( CHUK [ IKKA ] , c-REL [ REL ] and p65 [ RELA , NFKB3 , p65 ] ) signalling genes ( p < 0.05 ) .
+RESULTS	The lipid infusion also increased extracellular signal-regulated kinase ( ERK ) phosphorylation ( p < 0.05 ) and tended to reduce the content of inhibitor of kappa B ( p = 0.09 ) .
+RESULTS	The muscle content of most diacylglycerol , ceramide and acylcarnitine species was unaffected .
+RESULTS	In summary , insulin resistance induced by prolonged low-dose lipid infusion occurs together with increased TLR-driven inflammatory signalling and impaired insulin-stimulated IRS-1 tyrosine phosphorylation .
+CONCLUSIONS	A sustained , mild elevation in plasma NEFA is sufficient to increase TLR expression and TLR-driven signalling ( NFB and MAPK ) in lean individuals .
+CONCLUSIONS	The activation of this pathway by NEFA may be involved in the pathogenesis of insulin resistance in humans .
+BACKGROUND	ClinicalTrials.gov NCT01740817 .
+

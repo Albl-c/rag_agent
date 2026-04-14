@@ -1,0 +1,55 @@
+{
+  "total_questions": 1,
+  "hit_at_k": 1.0,
+  "mrr": 1.0,
+  "avg_faithfulness": 0.6,
+  "avg_relevancy": 0.8,
+  "answer_success_rate": 0.0,
+  "avg_latency_ms": 66618.28,
+  "details": [
+    {
+      "id": "q01_naion_fc",
+      "question": "在 NAION 急性期治疗中，氟可龙（fluocortolone）对视力是否有长期改善作用？",
+      "gold_sources": [
+        "24225379.txt"
+      ],
+      "retrieved_top_sources": [
+        "24225379.txt",
+        "24268590.txt",
+        "24256699.txt",
+        "24273046.txt"
+      ],
+      "hit_at_k": true,
+      "reciprocal_rank": 1.0,
+      "faithfulness_score": 0.6,
+      "relevancy_score": 0.8,
+      "quality_eval_engine": "custom_judge_llm",
+      "quality_eval_reason": "答案部分偏离了检索上下文，加入了额外的细节和结论。",
+      "expected_keywords": [
+        "fluocortolone",
+        "6 months",
+        "long-term",
+        "visual acuity",
+        "significantly improves"
+      ],
+      "matched_keywords": [
+        "fluocortolone"
+      ],
+      "keyword_hit_ratio": 0.2,
+      "answer_success": false,
+      "latency_ms": 66618.28
+    }
+  ],
+  "experiment": {
+    "data_dir": "test_data",
+    "file_count": 100,
+    "chunk_count": 620,
+    "chunk_size": 425,
+    "chunk_overlap": 45,
+    "enable_bm25": true,
+    "model_choice": "ollama",
+    "enable_web_search": false,
+    "top_k": 5,
+    "keyword_hit_threshold": 0.4
+  }
+}

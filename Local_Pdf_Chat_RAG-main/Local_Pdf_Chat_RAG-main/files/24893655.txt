@@ -1,0 +1,19 @@
+24893655
+BACKGROUND	The course of swine influenza in pigs is reported to be similar to human influenza .
+BACKGROUND	Occasionally abortions and other reproduction disorders have been associated with influenza A virus ( IAV ) infection in pigs .
+BACKGROUND	Abortions may be a consequence of high fever , pro-inflammatory cytokines or transplacental transmission of the virus.The role of IAV in the complications observed during pregnancy has been scanty and the true importance of this agent as a cause of reproductive problems in swine is not known .
+BACKGROUND	The aim was to determine the possible involvement of swine H1N2 IAV strain on reproductive disorders in pregnant gilts under experimental conditions .
+RESULTS	The gestation length was from 113 to 116 days , no abortion or any other reproduction disorders were noted .
+RESULTS	A PCR assay confirms the presence of IAV in the nasal swabs taken from inoculated gilts between 1 and 5 dpi .
+RESULTS	In the nasal swabs from control gilts and newborn piglets , no IAV genetic material was found .
+RESULTS	No viral RNA was detected in samples of blood taken from gilts and piglets , placentas , lungs and tracheas taken from piglets euthanized after delivery .
+RESULTS	The significant decrease in the number and percentage of lymphocytes without leukopenia was observed at 4 dpi in inoculated gilts .
+RESULTS	The percentage of granulocytes increased significantly at 4 dpi in inoculated pigs .
+RESULTS	The concentration of IL-6 , IL-10 and TNF - were higher in inoculated gilts , while IL-4 and IFN - were not detected in the serum of any of animals .
+RESULTS	The serum concentrations of C-reactive protein remained stable during study , while haptoglobin concentrations increased significantly after inoculation .
+CONCLUSIONS	The results of the study indicate that infection of pregnant gilts with swine H1N2 IAV in the second month of pregnancy does not cause abortion and other reproduction disorders .
+CONCLUSIONS	No evidence for transplacental transmission of swine H1N2 IAV was found .
+CONCLUSIONS	However , due to subclinical course of influenza in the present experiment caution should be taken in extrapolating these results to the cases of acute influenza .
+CONCLUSIONS	The other limitation is IAV diversity .
+CONCLUSIONS	It can not be excluded that other subtypes of IAV could be associated to reproduction failure in pigs .
+

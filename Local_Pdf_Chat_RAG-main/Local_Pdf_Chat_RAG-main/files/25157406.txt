@@ -1,0 +1,11 @@
+25157406
+OBJECTIVE	To investigate the genetic influence of 48 type 2 diabetes susceptibility variants on disease progression measured as risk of early prescription redemption of glucose lowering drugs in screen-detected patients with type 2 diabetes .
+METHODS	We studied type 2 diabetes progression in 1,480 patients with screen-detected type 2 diabetes from the ADDITION-Denmark study using information of redeemed prescriptions from the Register of Medicinal Products Statistics from 2001-2009 in Denmark .
+METHODS	Patients were cluster randomized by general practitioners , who were randomized to treat type 2 diabetes according to either a conventional or a multifactorial intensive treatment algorithm .
+METHODS	We investigated the genetic influence on diabetes progression by constructing a genetic risk score ( GRS ) of all 48 validated type 2 diabetes susceptibility variants , a GRS of 11 variants linked to - cell function and a GRS of 3 variants linked to insulin sensitivity and assessed the association between number of risk alleles and time from diagnosis until first redeemed prescription of either any glucose lowering drug or an insulin drug .
+RESULTS	The GRS linked to insulin sensitivity only nominally increased the risk of an early prescription redemption with an insulin drug by 39 % ( HR [ 95 % C.I. ] = 1.39 [ 1.09-1 .77 ] , p = 0.009 ] in patients randomized to the intensive treatment group .
+RESULTS	Furthermore , the strongest univariate predictors of diabetes progression for the intensive treatment group ( measured as time to first insulin ) were younger age ( HR [ 95 % C.I. ] = 0.96 [ 0.93-0 .99 ] ) , increased BMI ( 1.05 [ 1.01-1 .09 ] ) , increased HbA1c ( 1.50 [ 1.36 -.66 ] ) , increased TG ( 1.24 [ 1.11-1 .39 ] ) and reduced fasting serum HDL ( 0.37 [ 0.17-0 .80 ] ) at baseline .
+RESULTS	Similar results were obtained for the conventional treatment group .
+CONCLUSIONS	Higher levels of HbA1c , fasting circulating levels of triglyceride , lower HDL , larger BMI and younger age are significant determinants of early pharmacological intervention in type 2 diabetes .
+CONCLUSIONS	However , known common type 2 diabetes-associated gene variants do not appear to significantly affect disease progression .
+

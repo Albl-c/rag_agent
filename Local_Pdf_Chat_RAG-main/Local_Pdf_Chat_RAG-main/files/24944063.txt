@@ -1,0 +1,14 @@
+24944063
+BACKGROUND	It is important to understand whether eating eggs , which are a major source of dietary choline , results in increased exposure to trimethylamine-N-oxide ( TMAO ) , which is purported to be a risk factor for developing heart disease .
+OBJECTIVE	We determined whether humans eating eggs generate TMAO and , if so , whether there is an associated increase in a marker for inflammation [ ie , high-sensitivity C-reactive protein ( hsCRP ) ] or increased oxidation of low-density lipoprotein ( LDL ) .
+METHODS	In a longitudinal , double-blind , randomized dietary intervention , 6 volunteers were fed breakfast doses of 0 , 1 , 2 , 4 , or 6 egg yolks .
+METHODS	Diets were otherwise controlled on the day before and day of each egg dose with a standardized low-choline menu .
+METHODS	Plasma TMAO at timed intervals ( immediately before and 1 , 2 , 4 , 8 , and 24 h after each dose ) , 24-h urine TMAO , predose and 24-h postdose serum hsCRP , and plasma oxidized LDL were measured .
+METHODS	Volunteers received all 5 doses with each dose separated by > 2-wk washout periods .
+RESULTS	The consumption of eggs was associated with increased plasma and urine TMAO concentrations ( P < 0.01 ) , with 14 % of the total choline in eggs having been converted to TMAO .
+RESULTS	There was considerable variation between individuals in the TMAO response .
+RESULTS	There was no difference in hsCRP or oxidized LDL concentrations after egg doses .
+CONCLUSIONS	The consumption of 2 eggs results in an increased formation of TMAO .
+CONCLUSIONS	Choline is an essential nutrient that is required for normal human liver and muscle functions and important for normal fetal development .
+CONCLUSIONS	Additional study is needed to both confirm the association between TMAO and atherosclerosis and identify factors , microbiota and genetic , that influence the generation of TMAO before policy and medical recommendations are made that suggest reduced dietary choline intake .
+

@@ -1,0 +1,17 @@
+25213566
+BACKGROUND	Obesity is associated with cardiometabolic disease , including insulin resistance ( IR ) and diabetes .
+BACKGROUND	Cyclic guanosine monophosphate ( cGMP ) signaling affects energy balance , IR , and glucose metabolism in experimental models .
+BACKGROUND	We sought to examine effects of phosphodiesterase-5 inhibition with tadalafil on IR in a pilot study of obese nondiabetic individuals .
+RESULTS	We conducted a randomized , double-blinded , placebo-controlled trial of adults age 18 to 50 years with obesity and elevated fasting insulin levels ( 10 U/mL ) .
+RESULTS	Participants were randomized to tadalafil 20 mg daily or placebo for 3 months .
+RESULTS	Oral glucose tolerance tests were performed , and the effect of tadalafil on IR was examined .
+RESULTS	A total of 53 participants ( mean age , 33 years ; body mass index [ BMI ] , 38 kg/m ( 2 ) ) were analyzed , 25 randomized to tadalafil and 28 to placebo .
+RESULTS	In the overall sample , measures of IR did not differ between tadalafil and placebo groups at 3 months .
+RESULTS	However , in individuals with severe obesity ( BMI 36.2 kg/m ( 2 ) ) , tadalafil use was associated with improved IR ( homeostatic model assessment for IR ) , compared to placebo ( P = 0.02 , respectively ) .
+RESULTS	Furthermore , one measure of - cell compensation for IR ( oral disposition index ) improved with tadalafil in the overall sample ( P = 0.009 ) and in the subgroup with severe obesity ( P = 0.01 ) .
+CONCLUSIONS	Results of this pilot study did not show improvements in IR with tadalafil , compared to placebo .
+CONCLUSIONS	However , tadalafil may have favorable effects on - cell compensation , particularly in individuals with severe obesity .
+CONCLUSIONS	Future studies evaluating the potential metabolic benefits of cGMP modulation in obesity are warranted .
+BACKGROUND	ClinicalTrials.gov .
+BACKGROUND	Unique Identifier : NCT01444651 .
+

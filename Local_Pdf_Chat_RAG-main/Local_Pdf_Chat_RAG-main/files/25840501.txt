@@ -1,0 +1,23 @@
+25840501
+BACKGROUND	Rehabilitation provided through home visits is part of the continuum of care after discharge from hospital following total knee arthroplasty ( TKA ) .
+BACKGROUND	As demands for rehabilitation at home are growing and becoming more difficult to meet , in-home telerehabilitation has been proposed as an alternate service delivery method .
+BACKGROUND	However , there is a need for robust data concerning both the effectiveness and the cost of dispensing in-home telerehabilitation .
+OBJECTIVE	The objective of this study was to document , analyze , and compare real costs of two service delivery methods : in-home telerehabilitation and conventional home visits .
+METHODS	The economic analysis was conducted as part of a multicenter randomized controlled trial ( RCT ) on telerehabilitation for TKA , and involved data from 197 patients , post-TKA .
+METHODS	Twice a week for 8 weeks , participants received supervised physiotherapy via two delivery methods , depending on their study group allocation : in-home telerehabilitation ( TELE ) and home-visit rehabilitation ( VISIT ) .
+METHODS	Patients were recruited from eight hospitals in the province of Quebec , Canada .
+METHODS	The TELE group intervention was delivered by videoconferencing over high-speed Internet .
+METHODS	The VISIT group received the same intervention at home .
+METHODS	Costs related to the delivery of the two services ( TELE and VISIT ) were calculated .
+METHODS	Student 's t tests were used to compare costs per treatment between the two groups .
+METHODS	To take distance into account , the two treatment groups were compared within distance strata using two-way analyses of variance ( ANOVAs ) .
+RESULTS	The mean cost of a single session was Can $ 93.08 for the VISIT group ( SD $ 35.70 ) and $ 80.99 for the TELE group ( SD $ 26.60 ) .
+RESULTS	When comparing both groups , real total cost analysis showed a cost differential in favor of the TELE group ( TELE minus VISIT : - $ 263 , 95 % CI - $ 382 to - $ 143 ) .
+RESULTS	However , when the patient 's home was located less than 30 km round-trip from the health care center , the difference in costs between TELE and VISIT treatments was not significant ( P = .25 , .26 , and .11 for the < 10 , 10-19 , and 20-29 km strata , respectively ) .
+RESULTS	The cost of TELE treatments was lower than VISIT treatments when the distance was 30 km or more ( 30-49 km : $ 81 < $ 103 , P = .002 ; 50 km : $ 90 < $ 152 , P < .001 ) .
+CONCLUSIONS	To our knowledge , this is the first study of the actual costs of in-home telerehabilitation covering all subcosts of telerehabilitation and distance between the health care center and the patient 's home .
+CONCLUSIONS	The cost for a single session of in-home telerehabilitation compared to conventional home-visit rehabilitation was lower or about the same , depending on the distance between the patient 's home and health care center .
+CONCLUSIONS	Under the controlled conditions of an RCT , a favorable cost differential was observed when the patient was more than 30 km from the provider .
+CONCLUSIONS	Stakeholders and program planners can use these data to guide decisions regarding introducing telerehabilitation as a new service in their clinic .
+BACKGROUND	International Standard Registered Clinical Study Number ( ISRCTN ) : 66285945 ; http://www.isrctn.com/ISRCTN66285945 ( Archived by WebCite at http://www.webcitation.org/6WlT2nuX4 ) .
+

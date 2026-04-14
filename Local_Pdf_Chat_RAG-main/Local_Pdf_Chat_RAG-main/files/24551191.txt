@@ -1,0 +1,14 @@
+24551191
+OBJECTIVE	This study reported on correlates of parental perception of their child 's weight status .
+OBJECTIVE	Associations between parental misperception ( i.e. , underestimation of the child 's weight ) and parental intention to improve their child 's overweight-related health behaviors and their child meeting guidelines regarding these behaviors were also investigated .
+METHODS	Baseline data from the population-based ` Be active , eat right study ' were used .
+METHODS	The population for analysis consisted of 630 overweight and 153 obese five year-old children and their parents .
+METHODS	Questionnaires were used to measure parental perception of the child 's weight status , correlates of misperception ( i.e. , child age , child gender , child BMI , parental age , parental gender , parental country of birth , parental educational level and parental weight status ) , overweight-related health behaviors ( i.e. , child playing outside , having breakfast , drinking sweet beverages , and watching TV ) , and parental intention to improve these behaviors .
+METHODS	Height and weight were measured using standardized protocols .
+METHODS	Multivariable logistic regression analyses were performed .
+RESULTS	In total , 44.40 % of the parents misperceived their child 's weight status .
+RESULTS	Parental misperception was associated with lower child BMI , the parent being the father , a foreign parental country of birth , and a lower parental education level ( p < 0.05 ) .
+RESULTS	Parental misperception was not associated with parental intention to improve child overweight-related health behavior , nor with child meeting the guidelines of these behaviors .
+CONCLUSIONS	This study showed that almost half of the parents with an overweight or obese child misperceived their child 's weight status .
+CONCLUSIONS	A correct parental perception may be a small stepping-stone in improving the health of overweight and obese children .
+

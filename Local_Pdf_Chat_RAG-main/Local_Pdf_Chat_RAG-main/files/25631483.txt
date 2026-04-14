@@ -1,0 +1,16 @@
+25631483
+OBJECTIVE	To assess the efficacy and safety of intravitreal bevacizumab ( IVB ) compared with ranibizumab ( IVR ) in the treatment of macular oedema due to branch retinal vein occlusion ( BRVO ) .
+METHODS	In this prospective , randomised , non-inferiority trial , 75 participants with macular oedema due to BRVO received intravitreal injections of ranibizumab or bevacizumab after 1:1 block randomisation .
+METHODS	The primary outcome measure was the difference in mean changes in best-corrected visual acuity ( BCVA ) at 6months .
+METHODS	Secondary outcome measures included mean change in central retinal thickness ( CRT ) , the proportion of patients improving by > 15 letters and the proportion of patients developing neovascularisation .
+RESULTS	Participants received either IVR ( n = 37 ) or IVB ( n = 38 ) .
+RESULTS	The mean BCVA at baseline was 52.814.4 letters ( 20/80 ) and 56.110.0 letters ( 20/80 ) ( p = 0.24 ) in the ranibizumab and bevacizumab groups , respectively .
+RESULTS	At 6months , the mean gains in BCVA were +18.1 letters ( p < 0.0001 ; 95 % CI , +12.8 to +22.6 ) in the ranibizumab group and +15.6 letters ( p < 0.0001 ; 95 % CI +12.0 to +20.5 ) in the bevacizumab group .
+RESULTS	The difference between the mean visual gains of the treated groups ( bevacizumab-ranibizumab ) was -2.5 letters ( 95 % CI -8.0 to +5.0 ; p = 0.74 ) .
+RESULTS	Mean reductions in CRT at 6months were 177.1122.3 m in the ranibizumab group ( p < 0.0001 ) and 201.7166.2 m in the bevacizumab group ( p < 0.0001 ) , with no significant difference between the two groups ( p = 0.48 ) .
+RESULTS	The mean numbers of ranibizumab and bevacizumab injections were 3.21.5 and 3.01.4 , respectively ( p = 0.55 ) .
+RESULTS	Two serious adverse events occurred in the ranibizumab group and one in the bevacizumab group but both were unrelated to intravitreal injections .
+CONCLUSIONS	This study demonstrated significant gain in visual acuity in eyes with BRVO treated with either bevacizumab or ranibizumab .
+CONCLUSIONS	Pro-re-nata strategy was effective in maintaining the visual gain .
+BACKGROUND	http://www.ctri.nic.in/ CTRI/2012/01 / 003120 .
+

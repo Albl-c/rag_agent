@@ -1,0 +1,17 @@
+25133471
+OBJECTIVE	To evaluate karyotype-specific ear and hearing problems in young-adult patients with Turner syndrome ( TS ) and assess the effects of previous treatment with oxandrolone ( Ox ) .
+METHODS	Double-blind follow-up study .
+METHODS	University hospital .
+METHODS	Sixty-five TS patients ( mean age , 24.3 yr ) previously treated with growth hormone combined with placebo , Ox 0.03 mg/kg per day , or Ox 0.06 mg/kg per day from the age of 8 years and estrogen from the age of 12 years .
+METHODS	Ear examination was performed according to standard clinical practice .
+METHODS	Air - and bone conduction thresholds were measured in decibel hearing level .
+METHODS	We compared patients with total monosomy of the short arm of the X chromosome ( Xp ) , monosomy 45 , X and isochromosome 46 , X , i ( Xq ) , with patients with a partial monosomy Xp , mosaicism or other structural X chromosomal anomalies .
+METHODS	We assessed the effect of previous Ox treatment .
+RESULTS	Sixty-six percent of the patients had a history of recurrent otitis media .
+RESULTS	We found hearing loss in 66 % of the ears , including pure sensorineural hearing loss in 32 % .
+RESULTS	Hearing thresholds in patients with a complete monosomy Xp were about 10 dB worse compared with those in patients with a partial monosomy Xp .
+RESULTS	Air - and bone conduction thresholds were not different between the placebo and Ox treatment groups .
+CONCLUSIONS	Young-adult TS individuals frequently have structural ear pathology , and many suffer from hearing loss .
+CONCLUSIONS	This indicates that careful follow-up to detect ear and hearing problems is necessary , especially for those with a monosomy 45 , X or isochromosome 46 , X , i ( Xq ) .
+CONCLUSIONS	Ox does not seem to have an effect on hearing .
+

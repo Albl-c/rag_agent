@@ -1,0 +1,11 @@
+25100891
+BACKGROUND	There is controversy in medical literature regarding the use of electromagnetic fields to promote bone healing .
+METHODS	After designing and building devices capable of generating an electromagnetic field for this study , their safety was confirmed and the electromagnetic therapy was randomly allocated and compared to placebo in patients with fracture of the femoral diaphysis .
+METHODS	Treatment began six weeks after the fracture and it was administered once a day , during 1 h , for eight consecutive weeks .
+METHODS	Twenty device were built , 10 of which were placebo-devices .
+METHODS	Between June 2008 and October 2009 , 64 patients were randomized in two different hospitals and were followed for 24 weeks .
+METHODS	The mean age was 30 years ( 18-59 ) and 81 % were males .
+RESULTS	Healing observed at week 12 was 75 % vs. 58 % ( p = 0.1 ) ; at week 18 it was 94 % vs. 80 % ( p = 0.15 ) ; and at week 24 it was 94 % vs. 87 % ( p = 0.43 ) for the device group and the placebo group , respectively .
+CONCLUSIONS	This study suggests that an electromagnetic field stimulus can promote earlier bone healing compared to placebo in femoral diaphyseal fractures .
+CONCLUSIONS	Faster bone healing translates into sooner weight bearing , which -- in turn -- permits quicker return to normal daily activities .
+

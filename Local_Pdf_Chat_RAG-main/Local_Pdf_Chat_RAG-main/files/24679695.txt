@@ -1,0 +1,12 @@
+24679695
+BACKGROUND	The incidence of alkaline reflux gastritis ( ARG ) after pancreaticoduodenectomy ( PD ) is high .
+BACKGROUND	Although Braun enteroenterostomy ( BEE ) may reduce ARG , BEE may result in marginal ulcers ( MUs ) due to the additional anastomotic stoma .
+BACKGROUND	We conducted this study to compare clinical outcomes of using a modified BEE ( MBEE ) with traditional gastrojejunostomy ( TGJ ) , by inducting a purse-string suture instead of an additional anastomotic stoma .
+METHODS	All 62 patients underwent standard PD at the Department of Hepatobiliopancreatic Surgery of West China Hospital between January 1 , 2008 and January 31 , 2012 .
+METHODS	Demographics , perioperative and postoperative factors , and follow-up morbidity were compared in those patients who underwent MBEE ( n = 32 , three patients were lost to follow-up ) to those who underwent TGJ ( n = 30 , nine patients were lost to follow-up ) .
+RESULTS	Patients who underwent the MBEE experienced a decrease in total morbidity including ARG and MUs , relative to those who underwent TGJ ( 24.1 % versus 58.3 % , P = 0.011 ) .
+RESULTS	With regard to the MBEE group , the total ARG rate was statistically significantly lower compared with the TGJ group ( 13.8 % versus 37.5 % , P = 0.046 ) .
+RESULTS	In addition , the incidence of MUs was reduced .
+CONCLUSIONS	In patients undergoing PD , the MBEE was safely performed with significantly more patients having reduced incidence of ARG and related sequela compared with those who underwent TGJ .
+CONCLUSIONS	These results support further study of patients undergoing gastroenterostomy after resection of the distal stomach in larger , randomized studies .
+

@@ -1,0 +1,10 @@
+24772415
+OBJECTIVE	The aim of this study was to investigate the effect of i.v. infusion of magnesium sulphate during spinal anesthesia on duration of spinal block and postoperative pain .
+METHODS	Forty ASA physical status I and status II , aged between 18 and 65 , female patients undergoing abdominal hysterectomy under spinal anesthesia were enrolled in this study .
+METHODS	Patients in the magnesium group ( Group M , n = 20 ) received magnesium sulphate 65 mg kg ( -1 ) infusion in 250 mL 5 % dextrose at 3.5 mL/min rate , and control group ( Group C , n = 20 ) received at the same volume of saline during operation in a double-blind randomized manner .
+METHODS	Duration of sensory and motor block , systolic , diastolic , and mean arterial blood pressures , heart rates , pain scores ( VAS values ) , and side effects were recorded for each patient .
+METHODS	Blood and CSF samples were taken for analysis of magnesium concentrations .
+RESULTS	Regression of sensorial block was longer in Group M when compared with that in Group C ( 175 39 versus 136 32 min ) ( P < 0.01 ) .
+RESULTS	The VAS scores were lower in Group M than those in Group C at the 2 time points postoperatively ( P < 0.01 ) .
+CONCLUSIONS	65 mg kg ( -1 ) of magnesium sulphate i.v. infusion under spinal anesthesia prolongs spinal sensorial block duration and decreases pain VAS scores without complication in patients undergoing abdominal hysterectomy .
+

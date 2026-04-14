@@ -1,0 +1,16 @@
+24255597
+BACKGROUND	Several studies have confirmed dramatic changes in skin surface parameters during the winter months .
+BACKGROUND	Although there are many studies supporting the positive effects of topical treatment , there are no published studies demonstrating the effects of oral supplementation in the prevention of negative skin changes during winter .
+BACKGROUND	The purpose of this study was to evaluate the efficacy of an oral micronutrient supplement in preventing the negative effects of winter weather on skin quality using noninvasive biometrologic instruments .
+METHODS	This study included 80 healthy female volunteers aged 35-55 years with phototype II-IV skin .
+METHODS	Randomization was balanced .
+METHODS	Two tablets of a micronutrient supplement ( Perfectil Platinum ) or placebo were administered once daily for 4 months .
+METHODS	The volunteers were examined at baseline , after 4 months , and 6 weeks after termination of treatment ( month 5.5 ) .
+METHODS	The evaluation included skin microrelief by Visioscan as the main outcome , and the secondary outcomes were results on standard macrophotography , skin tension by Reviscometer , skin high-frequency ultrasound , and self-assessment .
+RESULTS	For all pseudoroughness and microrelief indicators , there was a significant increase from baseline to month 4 in the placebo group ( P < 0.05 ) but no change in the active group .
+RESULTS	Descriptive statistics for the mean minimum , mean maximum , and minimum to maximum ratio on the nonexposed study zone showed a significant and dramatic difference between baseline and month 4 and between baseline and month 5.5 ( P < 0.05 ) in the active group , indicating decreasing anisotropy of the skin .
+RESULTS	High-frequency ultrasound on the exposed study zone revealed that skin thickness was significantly decreased in the placebo group during winter but was stable in the treated group ( P < 0.01 ) .
+RESULTS	The photography scaling and self-assessment questionnaire revealed no significant changes in either group .
+CONCLUSIONS	These results indicate that the skin is prone to seasonal changes during winter , particularly in exposed areas .
+CONCLUSIONS	The data also indicate that oral supplementation can be a safe treatment , with no serious side effects , and may prevent or even eliminate the negative effects of winter on the skin .
+

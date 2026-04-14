@@ -1,0 +1,12 @@
+26180950
+OBJECTIVE	We evaluated a low-cost strategy for schools to improve the convenience and appeal of drinking water .
+METHODS	We conducted a group-randomized , controlled trial in 10 Boston , Massachusetts , schools in April through June 2013 to test a cafeteria-based intervention .
+METHODS	Signage promoting water and disposable cups were installed near water sources .
+METHODS	Mixed linear regression models adjusting for clustering evaluated the intervention impact on average student water consumption over 359 lunch periods .
+RESULTS	The percentage of students in intervention schools observed drinking water during lunch nearly doubled from baseline to follow-up compared with controls ( + 9.4 % ; P < .001 ) .
+RESULTS	The intervention was associated with a 0.58-ounce increase in water intake across all students ( P < .001 ) .
+RESULTS	Without cups , children were observed drinking 2.4 ( SE = 0.08 ) ounces of water from fountains ; with cups , 5.2 ( SE = 0.2 ) ounces .
+RESULTS	The percentage of intervention students observed with sugar-sweetened beverages declined ( -3.3 % ; P < .005 ) .
+CONCLUSIONS	The current default of providing water through drinking fountains in cafeterias results in low water consumption .
+CONCLUSIONS	This study shows that an inexpensive intervention to improve drinking water 's convenience by providing cups can increase student water consumption .
+

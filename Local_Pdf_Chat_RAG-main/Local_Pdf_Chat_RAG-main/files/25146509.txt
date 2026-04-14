@@ -1,0 +1,12 @@
+25146509
+OBJECTIVE	To evaluate the effects of prone position ventilation combined with recruitment maneuvers ( RM ) on clinical outcomes in patients with severe acute respiratory distress syndrome ( ARDS ) .
+METHODS	In this prospective , randomized , controlled trial , we randomly assigned 116 sequential patients with severe ARDS to the intervention group ( which undergo prone-positioning with RM sessions of at least 10 hours ) or to the control group ( which be left in the supine position ) .
+RESULTS	From July 2012 to July 2013 , 116 severe ARDS patients sequentially admitted to the critical department of Peking Union Medical College Hospital were enrolled in the study with 60 patients assigned to the control group and 56 patients to the intervention group .
+RESULTS	No significant difference was found between the two groups in the demographics including the median patient age , sex ratio , initial Acute Physiology and Chronic Health Evaluation II scores , initial pulmonary function and the sources of ARDS .
+RESULTS	The oxygenation index recorded in the supine position was significantly higher in the intervention group than in the control group since day 3 , whereas the positive end-expiratory pressure and fraction of inspired O2 were significantly lower in the intervention group .
+RESULTS	The plateau pressure and static compliance of the respiratory system were similar in the two groups .
+RESULTS	The intervention group had shorter length of ICU stay , fewer ventilation days and decreased 28-day mortality than the control group .
+RESULTS	The tracheotomy ratio and the time to successful extubation were similar in the two groups .
+RESULTS	No significant difference between the two groups was shown in the incidence of complications , except for the grade 1 pressure sore , which was higher in the intervention group .
+CONCLUSIONS	In patients with severe ARDS , application of prolonged prone-positioning with RM sessions significantly improves the clinical outcomes .
+

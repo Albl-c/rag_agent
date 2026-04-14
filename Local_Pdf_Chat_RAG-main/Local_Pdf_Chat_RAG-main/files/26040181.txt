@@ -1,0 +1,22 @@
+26040181
+OBJECTIVE	Immune response and consequent inflammatory process which originate on ocular surface after a trauma are mediated by cytokines .
+OBJECTIVE	Photoablation of corneal stroma performed by excimer laser causes surgically induced trauma .
+OBJECTIVE	Interleukin-6 ( IL-6 ) is mostly known as a proinflammatory cytokine .
+OBJECTIVE	However , it also has regenerative and anti-inflammatory effects .
+OBJECTIVE	It is supposed that this cytokine is likely to play a significant role in the process of corneal wound healing response after photoablation of stroma carried out by laser in situ keratomileusis ( LASIK ) or photorefractive keratectomy ( PRK ) methods .
+OBJECTIVE	The aim of this study was to determine and compare the levels of IL-6 in tears before and after treatment with LASIK and PRK methods .
+METHODS	The study included 68 shortsighted eyes up to -3.0 diopter sphere , i.e. 198 samples of tears ( per three samples taken from each of the eyes ) , divided into two groups according to the kind of excimer laser intervention performed : the group 1 -- eyes treated by LASIK method ( n = 31 ) , and the group 2 -- eyes treated by the PRK method ( n = 37 ) .
+METHODS	The samples of tears were taken from each eye at the following time points : before excimer laser treatment ( 0 h , the control group ) , 1 h after the treatment ( 1 h ) and 24 h after the treatment ( 24 h ) .
+METHODS	The patients did not use anti-inflammatory therapy 24 h after the intervention .
+METHODS	Tear samples were collected using microsurgical sponge .
+METHODS	Level of IL-6 in tear fluid was determined by the flow cytometry method , applying a commercial test kit which allowed cytokine detection from a small sample volume .
+METHODS	Results .
+METHODS	The values of IL-6 were detectable in 16 % of samples before LASIK treatment and in 30 % of samples before PRK treatment .
+METHODS	One h after the treatment IL-6 was detectable in 29 % of samples for the LASIK group and 43 % of samples for the PRK group , and 24 h after the treatment it was detectable in 19 % of samples for the LASIK group and in 57 % of samples for the PRK group .
+METHODS	When we analyzed the dynamics of IL76 production in particular groups , we noticed that both in the LASIK and PRK group the number of samples with increased values of IL-6 after 1 h , and after 24 h , was con - siderably larger than the number of samples with decreased values of IL-6 after the intervention .
+METHODS	Analyzing the dynamics of IL-6 concentration changes in the 1 h samples vs. 24 h samples there was a statistically significant increase in the number of samples with IL-6 concentration decline in the LASIK group , while at the same time no considerable changes occurred in the PRK group .
+METHODS	Comparing average IL-6 values between the two treatment groups in all tear samples at 0 h , 1 h and 24 h after intervention a significantly higher level in the PRK group 24 h after procedure ( p = 0.0031 ) was detected .
+CONCLUSIONS	IL-6 level in tears increases 1 h and 24 h after LASIK and PRK treatments .
+CONCLUSIONS	This increment is significantly larger 24 h after the treatment with the PRK method than with the LASIK method .
+CONCLUSIONS	Changes of IL-6 production levels in tears after excimer laser treatment indicate that this cytokine takes part in the corneal recovery process after stromal photoablation .
+

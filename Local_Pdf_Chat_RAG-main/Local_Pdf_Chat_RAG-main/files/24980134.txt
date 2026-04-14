@@ -1,0 +1,14 @@
+24980134
+BACKGROUND	Managing cardiovascular risk factors is important for reducing vascular complications in type 2 diabetes , even in individuals who have achieved glycemic control .
+BACKGROUND	Nut consumption is associated with reduced cardiovascular risk ; however , there is mixed evidence about the effect of nuts on blood pressure ( BP ) , and limited research on the underlying hemodynamics .
+BACKGROUND	This study assessed the effect of pistachio consumption on BP , systemic hemodynamics , and heart rate variability in adults with well-controlled type 2 diabetes .
+RESULTS	We enrolled 30 adults ( 40 to 74 years ) with type 2 diabetes in a randomized , crossover , controlled feeding study .
+RESULTS	After a 2-week run-in period , participants consumed a low-fat control diet ( 27 % fat ) containing low-fat/high-carbohydrate snacks and a moderate-fat diet ( 33 % fat ) containing pistachios ( 20 % of total energy ) for 4 weeks each , separated by a 2-week washout .
+RESULTS	Following each diet period , we assessed BP , systemic hemodynamics , and heart rate variability at rest and during acute mental stress , and , in a subset of participants ( n = 21 ) , 24-hour ambulatory BP .
+RESULTS	BP at rest and during stress did not differ between treatments .
+RESULTS	The pistachio diet significantly reduced total peripheral resistance ( -3.72.9 % , P = 0.004 ) , increased cardiac output ( 3.12.3 % , P = 0.002 ) , and improved some measures of heart rate variability ( all P < 0.05 ) .
+RESULTS	Systolic ambulatory BP was significantly reduced by 3.52.2 mm Hg ( P = 0.046 ) following the pistachio diet , with the greatest reduction observed during sleep ( -5.72.6 mm Hg , P = 0.052 ) .
+CONCLUSIONS	A moderate-fat diet containing pistachios modestly improves some cardiovascular risk factors in adults with well-controlled type 2 diabetes .
+BACKGROUND	www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00956735 .
+

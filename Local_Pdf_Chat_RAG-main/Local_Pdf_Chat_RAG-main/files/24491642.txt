@@ -1,0 +1,18 @@
+24491642
+OBJECTIVE	To evaluate long-term efficacy and safety profiles during 3 years of individualized ranibizumab treatment in patients with visual impairment due to diabetic macular edema ( DME ) .
+METHODS	Phase IIIb , multicenter , 12-month , randomized core study and 24-month open-label extension study .
+METHODS	Of the 303 patients who completed the randomized RESTORE 12-month core study , 240 entered the extension study .
+METHODS	In the extension study , patients were eligible to receive individualized ranibizumab treatment as of month 12 guided by best-corrected visual acuity ( BCVA ) and disease progression criteria at the investigators ' discretion .
+METHODS	Concomitant laser treatment was allowed according to the Early Treatment Diabetic Retinopathy Study guidelines .
+METHODS	Based on the treatments received in the core study , the extension study groups were referred to as prior ranibizumab , prior ranibizumab + laser , and laser .
+METHODS	Change in BCVA and incidence of ocular and nonocular adverse events ( AEs ) over 3 years .
+RESULTS	Overall , 208 patients ( 86.7 % ) completed the extension study .
+RESULTS	In patients treated with ranibizumab during the core study , consecutive individualized ranibizumab treatment during the extension study led to an overall maintenance of BCVA and central retinal subfield thickness ( CRST ) observed at month 12 over the 2-year extension study ( +8.0 letters , -142.1 m [ prior ranibizumab ] and +6.7 letters , -145.9 m [ prior ranibizumab + laser ] from baseline at month 36 ) with a median of 6.0 injections ( mean , 6.8 injections ; prior ranibizumab ) and 4.0 ( mean , 6.0 injections ; prior ranibizumab + laser ) .
+RESULTS	In the prior laser group , a progressive BCVA improvement ( +6.0 letters ) and CRST reduction ( -142.7 m ) at month 36 were observed after allowing ranibizumab during the extension study , with a median of 4.0 injections ( mean , 6.5 injections ) from months 12 to 35 .
+RESULTS	Patients in all 3 treatment groups received a mean of < 3 injections in the final year .
+RESULTS	No cases of endophthalmitis , retinal tear , or retinal detachment were reported .
+RESULTS	The most frequently reported ocular and nonocular adverse effects over 3 years were cataract ( 16.3 % ) and nasopharyngitis ( 23.3 % ) .
+RESULTS	Eight deaths were reported during the extension study , but none were suspected to be related to the study drug/procedure .
+CONCLUSIONS	Ranibizumab was effective in improving and maintaining BCVA and CRST outcomes with a progressively declining number of injections over 3 years of individualized dosing .
+CONCLUSIONS	Ranibizumab was generally well tolerated with no new safety concerns over 3 years .
+

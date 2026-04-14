@@ -1,0 +1,13 @@
+24423146
+BACKGROUND	Group cognitive behavioural intervention ( CBI ) is effective in reducing low-back pain and disability in comparison to advice in primary care .
+BACKGROUND	The aim of this analysis was to investigate the impact of compliance on estimates of treatment effect and to identify factors associated with compliance .
+METHODS	In this multicentre trial , 701 adults with troublesome sub-acute or chronic low-back pain were recruited from 56 general practices .
+METHODS	Participants were randomised to advice ( control n = 233 ) or advice plus CBI ( n = 468 ) .
+METHODS	Compliance was specified a priori as attending a minimum of three group sessions and the individual assessment .
+METHODS	We estimated the complier average causal effect ( CACE ) of treatment .
+RESULTS	Comparison of the CACE estimate of the mean treatment difference to the intention-to-treat ( ITT ) estimate at 12 months showed a greater benefit of CBI amongst participants compliant with treatment on the Roland Morris Questionnaire ( CACE : 1.6 points , 95 % CI 0.51 to 2.74 ; ITT : 1.3 points , 95 % CI 0.55 to 2.07 ) , the Modified Von Korff disability score ( CACE : 12.1 points , 95 % CI 6.07 to 18.17 ; ITT : 8.6 points , 95 % CI 4.58 to 12.64 ) and the Modified von Korff pain score ( CACE : 10.4 points , 95 % CI 4.64 to 16.10 ; ITT : 7.0 points , 95 % CI 3.26 to 10.74 ) .
+RESULTS	People who were non-compliant were younger and had higher pain scores at randomisation .
+CONCLUSIONS	Treatment compliance is important in the effectiveness of group CBI .
+CONCLUSIONS	Younger people and those with more pain are at greater risk of non-compliance .
+BACKGROUND	Current Controlled Trials ISRCTN54717854 .
+

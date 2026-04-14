@@ -1,0 +1,12 @@
+25431430
+BACKGROUND	Individual-based cognitive-behavioural therapy ( CBT ) is in short supply and expensive .
+OBJECTIVE	The aim of this randomised controlled trial ( RCT ) was to compare mindfulness-based group therapy with treatment as usual ( primarily individual-based CBT ) in primary care patients with depressive , anxiety or stress and adjustment disorders .
+METHODS	This 8-week RCT ( ClinicalTrials.gov ID : NCT01476371 ) was conducted during spring 2012 at 16 general practices in Southern Sweden .
+METHODS	Eligible patients ( aged 20-64 years ) scored 10 on the Patient Health Questionnaire-9 , 7 on the Hospital Anxiety and Depression Scale or 13-34 on the Montgomery-sberg Depression Rating Scale ( self-rated version ) .
+METHODS	The power calculations were based on non-inferiority .
+METHODS	In total , 215 patients were randomised .
+METHODS	Ordinal mixed models were used for the analysis .
+RESULTS	For all scales and in both groups , the scores decreased significantly .
+RESULTS	There were no significant differences between the mindfulness and control groups .
+CONCLUSIONS	Mindfulness-based group therapy was non-inferior to treatment as usual for patients with depressive , anxiety or stress and adjustment disorders .
+

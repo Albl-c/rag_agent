@@ -1,0 +1,16 @@
+24720679
+BACKGROUND	In this phase 3 trial we evaluated the efficacy and safety of the interferon-free combination of ABT-450 with ritonavir ( ABT-450 / r ) , ombitasvir ( also known as ABT-267 ) , dasabuvir ( also known as ABT-333 ) , and ribavirin for the retreatment of HCV in patients who were previously treated with peginterferon-ribavirin .
+METHODS	We enrolled patients with HCV genotype 1 infection and no cirrhosis who had previously been treated with peginterferon-ribavirin and had a relapse , a partial response , or a null response .
+METHODS	Patients were randomly assigned in a 3:1 ratio to receive coformulated ABT-450 / r-ombitasvir ( at a once-daily dose of 150 mg of ABT-450 , 100 mg of ritonavir , and 25 mg of ombitasvir ) and dasabuvir ( 250 mg twice daily ) with ribavirin ( 1000 or 1200 mg daily ) or matching placebos during the 12-week double-blind period .
+METHODS	The primary end point was the rate of sustained virologic response 12 weeks after the end of study treatment .
+METHODS	The primary efficacy analysis compared this rate among patients assigned to the active regimen with a historical response rate ( 65 % ) among previously treated patients with HCV genotype 1 infection and no cirrhosis who had received retreatment with telaprevir and peginterferon-ribavirin .
+RESULTS	A total of 394 patients received at least one study-drug dose .
+RESULTS	In the active-regimen group , 286 of 297 patients had a sustained virologic response at post-treatment week 12 , for an overall rate of 96.3 % ( 95 % confidence interval , 94.2 to 98.4 ) .
+RESULTS	This rate was noninferior and superior to the historical control rate .
+RESULTS	Rates were 95.3 % among patients with a prior relapse ( 82 of 86 patients ) , 100 % among patients with a prior partial response ( 65 of 65 patients ) , and 95.2 % among patients with a prior null response ( 139 of 146 patients ) .
+RESULTS	Pruritus occurred more frequently with the active regimen ( in 13.8 % of patients ) than with placebo ( 5.2 % , P = 0.03 ) .
+RESULTS	Three patients in the active-regimen group ( 1.0 % ) discontinued the study drugs owing to adverse events .
+RESULTS	Hemoglobin values of grade 2 ( 8.0 to < 10.0 g per deciliter ) and grade 3 ( 6.5 to < 8.0 g per deciliter ) occurred in 4.7 % and 0.3 % of patients in the active-regimen group , respectively .
+CONCLUSIONS	Rates of response to a 12-week interferon-free combination regimen were more than 95 % among previously treated patients with HCV genotype 1 infection , including patients with a prior null response .
+CONCLUSIONS	( Funded by AbbVie ; SAPPHIRE-II ClinicalTrials.gov number , NCT01715415 . )
+

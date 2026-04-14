@@ -1,0 +1,14 @@
+24220504
+BACKGROUND	Osteoarthritis is a relatively common musculoskeletal disorder that increases in prevalence with age .
+BACKGROUND	Worldwide , knee osteoarthritis is one of the leading causes of disability , particularly in the elderly .
+BACKGROUND	In numerous trials of agents for long-term pain therapy , no well-established and replicable results have been achieved .
+BACKGROUND	Complementary and alternative medical approaches have been employed for thousands of years to relieve knee osteoarthritis pain .
+BACKGROUND	Among herbal medicines , the golden plaster is the preferred and most commonlyused method in China to reduce pain in patients with knee osteoarthritis , as it causes few adverse effects .
+BACKGROUND	The purpose of this study will be to evaluate the efficacy and safety of golden plaster on pain in patients with knee osteoarthritis .
+METHODS	This study will be a multicenter randomized , double-blind , placebo-controlled trial .
+METHODS	A total of 320 participants aged 45 to 79 years with knee osteoarthritis , whose scores on a visual analog scale ( VAS ) are more than 20 mm , will be randomly allocated into a treatment group and a control group .
+METHODS	A golden plaster will be administered externally to participants in the treatment group for 2 weeks , while the control group will receive a placebo plaster externally for 2 weeks .
+METHODS	Follow-up will be at regular intervals during a 4-week period with a VAS score for pain , quality of life , and complications .
+CONCLUSIONS	This study will be a methodologically sound randomized controlled trial to assess pain relief after the intervention of golden plaster , compared to a placebo intervention in patients with knee osteoarthritis .
+BACKGROUND	ClinicalTrials.gov identifier : ChiCTR-TRC-13003418 .
+

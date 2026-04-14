@@ -1,0 +1,12 @@
+25583139
+BACKGROUND	The American Heart Association has defined a new metric of ideal cardiovascular health as part of its 2020 Impact Goals .
+BACKGROUND	We examined whether psychosocial factors in youth predict ideal cardiovascular health in adulthood .
+RESULTS	Participants were 477 men and 612 women from the nationwide Cardiovascular Risk in Young Finns Study .
+RESULTS	Psychosocial factors were measured from cohorts 3 to 18 years of age at the baseline of the study , and ideal cardiovascular health was examined 27 years later in adulthood .
+RESULTS	The summary measure of psychosocial factors in youth comprised socioeconomic factors , emotional factors , parental health behaviors , stressful events , self-regulation of the child , and social adjustment of the child .
+RESULTS	There was a positive association between a higher number of favorable psychosocial factors in youth and greater ideal cardiovascular health index in adulthood ( = 0.16 ; P < 0.001 ) that persisted after adjustment for age , sex , medication use , and cardiovascular risk factors in childhood ( = 0.15 ; P < 0.001 ) .
+RESULTS	The association was monotonic , suggesting that each increment in favorable psychosocial factors was associated with improvement in cardiovascular health .
+RESULTS	Of the specific psychosocial factors , a favorable socioeconomic environment ( = 0.12 ; P < 0.001 ) and participants ' self-regulatory behavior ( = 0.07 ; P = 0.004 ) were the strongest predictors of ideal cardiovascular health in adulthood .
+CONCLUSIONS	The findings suggest a dose-response association between favorable psychosocial factors in youth and cardiovascular health in adulthood , as defined by the American Heart Association metrics .
+CONCLUSIONS	The effect seems to persist throughout the range of cardiovascular health , potentially shifting the population distribution of cardiovascular health rather than simply having effects in a high-risk population .
+

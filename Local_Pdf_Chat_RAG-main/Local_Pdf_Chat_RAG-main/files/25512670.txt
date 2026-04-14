@@ -1,0 +1,11 @@
+25512670
+BACKGROUND	The objective of this study was to compare the costs and outcomes of two sexually transmitted infection ( STI ) screening interventions targeted at men in football club settings in England , including screening promoted by team captains .
+METHODS	A comparison of costs and outcomes was undertaken alongside a pilot cluster randomised control trial involving three trial arms : ( 1 ) captain-led and poster STI screening promotion ; ( 2 ) sexual health advisor-led and poster STI screening promotion and ( 3 ) poster-only STI screening promotion ( control/comparator ) .
+METHODS	For all study arms , resource use and cost data were collected prospectively .
+RESULTS	There was considerable variation in uptake rates between clubs , but results were broadly comparable across study arms with 50 % of men accepting the screening offer in the captain-led arm , 67 % in the sexual health advisor-led arm and 61 % in the poster-only control arm .
+RESULTS	The overall costs associated with the intervention arms were similar .
+RESULTS	The average cost per player tested was comparable , with the average cost per player tested for the captain-led promotion estimated to be 88.99 compared with 88.33 for the sexual health advisor-led promotion and 81.87 for the poster-only ( control ) arm .
+CONCLUSIONS	Costs and outcomes were similar across intervention arms .
+CONCLUSIONS	The target sample size was not achieved , and we found a greater than anticipated variability between clubs in the acceptability of screening , which limited our ability to estimate acceptability for intervention arms .
+CONCLUSIONS	Further evidence is needed about the public health benefits associated with screening interventions in non-clinical settings so that their cost-effectiveness can be fully evaluated .
+

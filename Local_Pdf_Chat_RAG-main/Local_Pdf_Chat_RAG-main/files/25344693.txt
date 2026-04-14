@@ -1,0 +1,15 @@
+25344693
+BACKGROUND	Health-promoting lifestyle choices of adolescents are closely related to current and subsequent health status .
+BACKGROUND	However , parsimonious yet reliable and valid screening tools are scarce .
+BACKGROUND	The original 40-item adolescent health promotion ( AHP ) scale was developed by our research team and has been applied to measure adolescent health-promoting behaviors worldwide .
+BACKGROUND	The aim of our study was to examine the psychometric properties of a newly developed short-form version of the AHP ( AHP-SF ) including tests of its reliability and validity .
+METHODS	The study was conducted in nine middle and high schools in southern Taiwan .
+METHODS	Participants were 814 adolescents randomly divided into two subgroups with equal size and homogeneity of baseline characteristics .
+METHODS	The first subsample ( calibration sample ) was used to modify and shorten the factorial model while the second subsample ( validation sample ) was utilized to validate the result obtained from the first one .
+METHODS	The psychometric testing of the AHP-SF included internal reliability of McDonald 's omega and Cronbach 's alpha , convergent validity , discriminant validity , and construct validity with confirmatory factor analysis ( CFA ) .
+RESULTS	The results of the CFA supported a six-factor model and 21 items were retained in the AHP-SF with acceptable model fit .
+RESULTS	For the discriminant validity test , results indicated that adolescents with lower AHP-SF scores were more likely to be overweight or obese , skip breakfast , and spend more time watching TV and playing computer games .
+RESULTS	The AHP-SF also showed excellent internal consistency with a McDonald 's omega of 0.904 ( Cronbach 's alpha 0.905 ) in the calibration group .
+CONCLUSIONS	The current findings suggest that the AHP-SF is a valid and reliable instrument for the evaluation of adolescent health-promoting behaviors .
+CONCLUSIONS	Primary health care providers and clinicians can use the AHP-SF to assess these behaviors and evaluate the outcome of health promotion programs in the adolescent population .
+

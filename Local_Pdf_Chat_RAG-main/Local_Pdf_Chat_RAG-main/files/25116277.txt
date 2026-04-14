@@ -1,0 +1,16 @@
+25116277
+OBJECTIVE	Leg compression is considered basic treatment for superficial vein thrombosis ( SVT ) , although scientific proof for its efficacy is lacking .
+OBJECTIVE	The aim of the study was to evaluate the therapeutic effect of compression stockings on isolated SVT of the legs .
+METHODS	This was a single-center randomized controlled trial .
+METHODS	Eighty patients with isolated SVT of the legs were instructed to wear compression stockings ( 23-32mmHg ) ( CG ) or no compression ( NCG ) for 3 weeks .
+METHODS	All patients received low molecular weight heparin ( LMWH ) at prophylactic dosage .
+METHODS	Non-steroidal anti-inflammatory drugs ( NSAIDs ) were allowed .
+METHODS	The primary outcome variable was the reduction of pain as assessed by a visual analog scale ( VAS ) and the Lowenberg test .
+METHODS	Secondary outcomes were the consumption of analgesics , thrombus length , skin erythema , D-dimer , and quality of life ( QoL ) .
+RESULTS	Seventy-three patients completed the study .
+RESULTS	Clinical symptoms and QoL significantly improved from baseline to day 21 in both groups ( p < .001 for VAS , Lowenberg test , thrombus length , and erythema ; p < .006 for QoL ) , and consumption of analgesics and D-dimer significantly decreased ( p < .001 ) .
+RESULTS	There was no significant difference between the groups for all tested variables .
+RESULTS	At day 7 , patients in the CG revealed a significantly faster thrombus regression ( p = .02 ) .
+CONCLUSIONS	Adding compression stockings for 3 weeks to LMWH and NSAIDs does not bring significant additional benefit in the treatment of isolated SVT .
+CONCLUSIONS	When worn for 1 week , compression stockings stimulate significantly faster thrombus regression .
+

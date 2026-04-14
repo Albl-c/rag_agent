@@ -1,0 +1,15 @@
+25819856
+BACKGROUND	Mental stress-induced myocardial ischemia ( MSIMI ) is common in patients with ischemic heart disease ( IHD ) and associated with a poorer cardiovascular prognosis .
+BACKGROUND	Platelet hyperactivity is an important factor in acute coronary syndrome .
+BACKGROUND	This study examined associations between MSIMI and resting and mental stress-induced platelet activity .
+METHODS	Eligible patients with clinically stable IHD underwent a battery of 3 mental stress tests during the recruitment phase of REMIT study .
+METHODS	MSIMI was assessed by echocardiography and electrocardiography .
+METHODS	Ex vivo platelet aggregation in response to ADP , epinephrine , collagen , serotonin , and combinations of serotonin plus ADP , epinephrine , and collagen were evaluated as was platelet serotonin transporter expression .
+RESULTS	Of the 270 participants who completed mental stress testing , and had both resting and post-stress platelet aggregation evaluation , 43.33 % ( n = 117 ) met criteria for MSIMI and 18.15 % ( n = 49 ) had normal left ventricular response to stress ( NLVR ) .
+RESULTS	The MSIMI group , relative to the NLVR groups , demonstrated heightened mental stress-induced aggregation responses , as measured by area under the curve , to collagen 10M ( 6.95 [ 5.54 ] vs. -14.23 [ 8.75 ] .
+RESULTS	; P = 0.045 ) , epinephrine 10M ( 12.84 [ 4.84 ] vs. -6.40 [ 7.61 ] .
+RESULTS	; P = 0.037 ) and to serotonin 10 M plus ADP 1 M ( 6.64 [ 5.29 ] vs. -27.34 [ 8.34 ] ; P < .001 ) .
+RESULTS	The resting platelet aggregation and serotonin transporter expression , however , were not different between the two groups .
+CONCLUSIONS	These findings suggest that the dynamic change of platelet aggregation caused by mental stress may underlie MSIMI .
+CONCLUSIONS	While the importance of these findings requires additional investigation , they raise concern given the recognized relationship between mental stress-induced platelet hyperactivity and cardiovascular events in patients with IHD .
+

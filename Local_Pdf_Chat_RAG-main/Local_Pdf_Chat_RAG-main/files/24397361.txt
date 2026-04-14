@@ -1,0 +1,14 @@
+24397361
+OBJECTIVE	To determine the effect of vaginal progesterone as luteal support on pregnancy outcomes in infertile patients who undergo ovulation induction with gonadotropins and intrauterine insemination ( IUI ) .
+METHODS	Prospective randomized trial .
+METHODS	Tertiary referral center .
+METHODS	About 398 patients with primary infertility were treated during 893 ovarian stimulation and IUI cycles from February 2010 to September 2012 .
+METHODS	All patients underwent ovarian stimulation with gonadotropins combined with IUI .
+METHODS	Patients in the supported group received vaginal micronized progesterone capsules 200mg once daily from the day after insemination until next menstruation or continuing for up to 8 weeks of pregnancy .
+METHODS	Women allocated in the control group did not receive luteal phase support .
+METHODS	Livebirth rate , clinical pregnancy rate and early miscarriage rate per cycle .
+RESULTS	Of the 893 cycles , a total of 111 clinical pregnancies occurred .
+RESULTS	There were no significant differences between supported with progesterone and unsupported cycle in terms of livebirth rate ( 10.2 % versus 8.3 % , respectively , with a p value = 0.874 ) and clinical pregnancy rate ( 13.8 % compared with 11.0 % in unsupported cycle with a p value = 0.248 ) .
+RESULTS	An early miscarriage rate of 3.6 % was observed in the supported cycles and 2.7 % in the unsupported cycles , with no significant differences between the groups ( p value = 0.874 ) .
+CONCLUSIONS	In infertile patients treated with mildly ovarian stimulation with recombinant gonadotropins and IUI , luteal phase support with vaginal progesterone is not associated with higher livebirth rate or clinical pregnancy rate compared with patients who did not receive any luteal phase support .
+

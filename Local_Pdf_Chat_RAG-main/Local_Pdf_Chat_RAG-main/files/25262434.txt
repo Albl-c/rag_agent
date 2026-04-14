@@ -1,0 +1,15 @@
+25262434
+OBJECTIVE	Early statin therapy after acute coronary syndrome reduces atherothrombotic vascular events .
+OBJECTIVE	This study aimed to compare the effects of hydrophilic and hydrophobic statins on myocardial salvage and left ventricular ( LV ) function in patients with ST-elevated myocardial infarction ( STEMI ) .
+METHODS	Seventy-five STEMI patients who had received emergency reperfusion therapy were enrolled and randomized into the hydrophilic statin group ( rosuvastatin ; 5 mg/day , n = 38 ) and hydrophobic statin group ( atorvastatin ; 10 mg/day , n = 37 ) for 6 months .
+METHODS	LV ejection fraction ( LVEF ) , and B-type natriuretic peptide ( BNP ) and co-enzyme Q10 ( CoQ10 ) levels were measured at baseline and the end of treatment .
+METHODS	The myocardial salvage index was assessed by single photon emission computed tomography with ( 123 - ) I -- methyl-iodophenylpentadecanoic acid ( ischemic area-at-risk at onset of STEMI : AAR ) and ( 201 - ) thallium scintigraphy ( area-at-infarction at 6 months : AAI ) [ myocardial salvage index = ( AAR-AAI ) 100/AAR ( % ) ] .
+RESULTS	Onset-to-balloon time and maximum creatine phosphokinase levels were comparable between the groups .
+RESULTS	After 6 months , rosuvastatin ( -37.6 % 17.2 % ) and atorvastatin ( -32.4 % 22.4 % ) equally reduced low-density lipoprotein-cholesterol ( LDL-C ) levels ( p = 0.28 ) .
+RESULTS	However , rosuvastatin ( +3.1 % 5.9 % , p < 0.05 ) , but not atorvastatin ( +1.6 % 5.7 % , p = 0.15 ) , improved LVEF .
+RESULTS	Rosuvastatin reduced BNP levels compared with atorvastatin ( -53.3 % 48.8 % versus -13.8 % 82.9 % , p < 0.05 ) .
+RESULTS	The myocardial salvage index was significantly higher in the rosuvastatin group than the atorvastatin group ( 78.6 % 29.1 % versus 52.5 % 38.0 % , p < 0.05 ) .
+RESULTS	CoQ10/LDL-C levels at 6 months were increased in the rosuvastatin group ( +23.5 % , p < 0.01 ) and percent changes in CoQ10/LDL-C were correlated with the myocardial salvage index ( r = 0.56 , p < 0.01 ) .
+CONCLUSIONS	Rosuvastatin shows better beneficial effects on myocardial salvage than atorvastatin in STEMI patients , including long-term cardiac function , associated with increasing CoQ10/LDL-C .
+BACKGROUND	URL http://www.umin.ac.jp/ctr/index.htm Unique Identifier : UMIN000003893 .
+

@@ -1,0 +1,17 @@
+25620670
+OBJECTIVE	Crohn 's disease ( CD ) usually recurs after intestinal resection ; postoperative endoscopic monitoring and tailored treatment can reduce the chance of recurrence .
+OBJECTIVE	We investigated whether monitoring levels of fecal calprotectin ( FC ) can substitute for endoscopic analysis of the mucosa .
+METHODS	We analyzed data collected from 135 participants in a prospective , randomized , controlled trial , performed at 17 hospitals in Australia and 1 hospital in New Zealand , that assessed the ability of endoscopic evaluations and step-up treatment to prevent CD recurrence after surgery .
+METHODS	Levels of FC , serum levels of C-reactive protein ( CRP ) , and Crohn 's disease activity index ( CDAI ) scores were measured before surgery and then at 6 , 12 , and 18 months after resection of all macroscopic Crohn 's disease .
+METHODS	Ileocolonoscopies were performed at 6 months after surgery in 90 patients and at 18 months after surgery in all patients .
+RESULTS	Levels of FC were measured in 319 samples from 135 patients .
+RESULTS	The median FC level decreased from 1347 g/g before surgery to 166 g/g at 6 months after surgery , but was higher in patients with disease recurrence ( based on endoscopic analysis ; Rutgeerts score , i2 ) than in patients in remission ( 275 vs 72 g/g , respectively ; P < .001 ) .
+RESULTS	Combined 6 - and 18-month levels of FC correlated with the presence ( r = 0.42 ; P < .001 ) and severity ( r = 0.44 ; P < .001 ) of CD recurrence , but the CRP level and CDAI score did not .
+RESULTS	Levels of FC greater than 100 g/g indicated endoscopic recurrence with 89 % sensitivity and 58 % specificity , and a negative predictive value ( NPV ) of 91 % ; this means that colonoscopy could have been avoided in 47 % of patients .
+RESULTS	Six months after surgery , FC levels less than 51 g/g in patients in endoscopic remission predicted maintenance of remission ( NPV , 79 % ) .
+RESULTS	In patients with endoscopic recurrence at 6 months who stepped-up treatment , FC levels decreased from 324 g/g at 6 months to 180 g/g at 12 months and 109 g/g at 18 months .
+CONCLUSIONS	In this analysis of data from a prospective clinical trial , FC measurement has sufficient sensitivity and NPV values to monitor for CD recurrence after intestinal resection .
+CONCLUSIONS	Its predictive value might be used to identify patients most likely to relapse .
+CONCLUSIONS	After treatment for recurrence , the FC level can be used to monitor response to treatment .
+CONCLUSIONS	It predicts which patients will have disease recurrence with greater accuracy than CRP level or CDAI score .
+

@@ -1,0 +1,18 @@
+25246664
+BACKGROUND	Bronchiectasis is characterised by excessive production of mucus and pulmonary exacerbations .
+BACKGROUND	Inhaled osmotic agents may enhance mucociliary clearance , but few long-term clinical trials have been conducted .
+OBJECTIVE	To determine the impact of inhaled mannitol on exacerbation rates in patients with non-cystic fibrosis ( CF ) bronchiectasis .
+OBJECTIVE	Secondary endpoints included time to first exacerbation , duration of exacerbations , antibiotic use for exacerbations and quality of life ( QOL ) ( St George 's Respiratory Questionnaire , SGRQ ) .
+METHODS	Patients with non-CF bronchiectasis and a history of chronic excess production of sputum and 2 pulmonary exacerbations in the previous 12 months were randomised ( 1:1 ) to 52 weeks treatment with inhaled mannitol 400 mg or low-dose mannitol control twice a day .
+METHODS	Patients were 18-85 years of age , baseline FEV1 40 % and 85 % predicted and a baseline SGRQ score 30 .
+RESULTS	461 patients ( 233 in the mannitol and 228 in the control arm ) were treated .
+RESULTS	Baseline demographics were similar in the two arms .
+RESULTS	The exacerbation rate was not significantly reduced on mannitol ( rate ratio 0.92 , p = 0.31 ) .
+RESULTS	However , time to first exacerbation was increased on mannitol ( HR 0.78 , p = 0.022 ) .
+RESULTS	SGRQ score was improved on mannitol compared with low-dose mannitol control ( -2.4 units , p = 0.046 ) .
+RESULTS	Adverse events were similar between groups .
+CONCLUSIONS	Mannitol 400 mg inhaled twice daily for 12 months in patients with clinically significant bronchiectasis did not significantly reduce exacerbation rates .
+CONCLUSIONS	There were statistically significant improvements in time to first exacerbation and QOL .
+CONCLUSIONS	Mannitol therapy was safe and well tolerated .
+BACKGROUND	NCT00669331 .
+

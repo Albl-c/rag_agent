@@ -1,0 +1,9 @@
+25373630
+BACKGROUND	Intranasal ( IN ) insulin acutely improves verbal memory in mild cognitive impairment ( MCI ) / Alzheimer 's disease ( AD ) , but its therapeutic effects may be attenuated in apolipoprotein E4 ( ApoE4 ) carriers .
+BACKGROUND	Furthermore , rapid-acting ( RA ) insulins may have superior therapeutic effects compared with regular insulin types .
+OBJECTIVE	To measure the safety and efficacy of intranasally delivered RA glulisine in ApoE4 carriers with mild-moderate AD .
+METHODS	We performed a double-blinded , randomized , cross-over study of RA insulin glulisine in nine mild-moderate AD subjects to better understand the relationship between RA insulin , ApoE4 carrier status and memory performance .
+RESULTS	IN glulisine was well tolerated but failed to have an acute impact on cognition in ApoE4 carriers with AD .
+RESULTS	Serum insulin levels acutely dropped following treatment , but peripheral glucose levels remained unchanged .
+CONCLUSIONS	Larger clinical trials of longer duration are necessary to better understand the relationships between RA insulin , ApoE4 carrier status and cognitive performance in AD .
+

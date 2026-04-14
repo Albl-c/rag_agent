@@ -1,0 +1,18 @@
+24889213
+BACKGROUND	Total Hip Arthroplasty ( THA ) is being used more commonly in younger higher demand patients .
+BACKGROUND	The purpose of this randomized pilot study was to explore a ) feasibility of comprehensive postoperative rehabilitation compared to usual care following primary THA in subjects < 65 years , b ) appropriate outcome measures including performance-based measures and c ) timing of assessments .
+METHODS	21 subjects who underwent primary THA were randomized to receive a three-month out-patient rehabilitation program ( Intervention ) or usual postoperative care ( Control ) .
+METHODS	Subjects were assessed preoperatively , six-weeks postoperatively ( Pre-intervention ) and four and 12 months postoperatively ( Post-intervention ) .
+METHODS	Self-report measures were the Western Ontario McMaster Osteoarthritis Index ( WOMAC ) and Rand 36-Item Health Survey ( RAND-36 ) .
+METHODS	Performance-based measures included lower extremity strength , walking speed and endurance , and gait laboratory assessment .
+RESULTS	Ten Control and 11 Intervention subjects with an average age of 53.4 ( SD9 .3 ) years were randomized .
+RESULTS	All Intervention subjects completed the program without adverse effects .
+RESULTS	Although no statistically significantly results were reported , four months postoperatively , Intervention subjects had clinically important differences ( CID ) in strength compared with Control subjects .
+RESULTS	Walking endurance , WOMAC and RAND scores improved significantly with no CID noted between groups .
+RESULTS	Ten ( 48 % ) subjects reported a ceiling effect on the WOMAC ( 9 ( 43 % ) subjects on Pain ; 1 ( 5 % ) subject on Function ) .
+RESULTS	No group CID were noted in gait measures .
+CONCLUSIONS	Our recommendations would be that performance-based strength measures should be considered for the primary outcome in this younger cohort .
+CONCLUSIONS	Because of the ceiling effects with WOMAC Pain , a different pain measure is indicated .
+CONCLUSIONS	Other more challenging functional performance-based tests should be considered such as a more prolonged endurance test .
+CONCLUSIONS	There is merit in one-year follow-up as strength improved after four months in both groups .
+

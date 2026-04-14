@@ -1,0 +1,13 @@
+25057153
+BACKGROUND	Estimates of energy intake ( EI ) in humans have limited validity .
+OBJECTIVE	The objective was to test the accuracy and precision of the intake-balance method to estimate EI during weight gain induced by overfeeding .
+METHODS	In 2 studies of controlled overfeeding ( 1 inpatient study and 1 outpatient study ) , baseline energy requirements were determined by a doubly labeled water study and caloric titration to weight maintenance .
+METHODS	Overfeeding was prescribed as 140 % of baseline energy requirements for 56 d. Changes in weight , fat mass ( FM ) , and fat-free mass ( FFM ) were used to estimate change in energy stores ( ES ) .
+METHODS	Overfeeding EI was estimated as the sum of baseline energy requirements , thermic effect of food , and ES .
+METHODS	The estimated overfeeding EI was then compared with the actual EI consumed in the metabolic chamber during the last week of overfeeding .
+RESULTS	In inpatient individuals , calculated EI during overfeeding determined from ES in FM and FFM was ( mean SD ) 3461 848 kcal/d , which was not significantly ( -29 273 kcal/d or 0.8 % ; limits of agreement : -564 , 505 kcal/d ; P = 0.78 ) different from the actual EI provided ( 3490 729 kcal/d ) .
+RESULTS	Estimated EI determined from ES in weight closely estimated actual intake ( -7 193 kcal/d or 0.2 % ; limits of agreement : -386 , 370 kcal/d ; P = 0.9 ) .
+RESULTS	In free-living individuals , estimated EI during overfeeding determined from ES in FM and FFM was 4123 500 kcal/d and underestimated actual EI ( 4286 488 kcal/d ; -162 301 kcal or 3.8 % ; limits of agreement : -751 , 427 kcal/d ; P = 0.003 ) .
+RESULTS	Estimated EI determined from ES in weight also underestimated actual intake ( -159 270 kcal/d or 3.7 % ; limits of agreement : -688 , 370 kcal/d ; P = 0.001 ) .
+CONCLUSIONS	The intake-balance method can be used to estimate EI during a period of weight gain as a result of 40 % overfeeding in individuals who are inpatients or free-living with only a slight underestimate of actual EI by 0.2-3 .8 % .
+

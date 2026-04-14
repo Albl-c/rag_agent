@@ -1,0 +1,16 @@
+25644342
+BACKGROUND	Bread can contribute to the regulation of appetite .
+OBJECTIVE	The objective of this study was to investigate the appetite ratings and postprandial glucose , insulin , and gastrointestinal hormone responses related to hunger and satiety after the intake of a cereal-based bread .
+METHODS	A randomized , controlled crossover trial was conducted in 30 healthy adults ( 17 men and 13 women ) aged 19-32 y with body mass index of 19.2-28 .5 .
+METHODS	Each volunteer consumed the cereal-based bread and the control bread 2 times , with a 1-wk wash-out period , over a total of 4 sessions .
+METHODS	The cereal-based bread contained a variety of cereal flours ( wheat , oat , and spelt ) and consisted of 22 % dried fruits ( figs , apricots , raisins , and prunes ) .
+METHODS	It was also enriched with both fiber ( 7 % from wheat cross-linked maltodextrins and pea ) and protein ( 10-11 % from wheat gluten and hydrolyzed wheat proteins ) .
+METHODS	The control bread consisted of white bread with margarine and jam to control for energy density , fat , and sugar content .
+METHODS	We measured appetite ratings using standardized visual analogue scales and glucose , insulin , and gastrointestinal hormone responses over a postprandial time of 4 h after the ingestion of each bread .
+METHODS	Linear mixed-effects models were used to compare the areas under the curve ( AUCs ) for different variables .
+RESULTS	Consuming the cereal-based bread decreased prospective consumption more than consumption of the control bread ( -5.3 0.6 m min and -4.4 0.6 m min , respectively ; P = 0.02 ) and increased satiety more ( 6.2 0.7 m min and 5.2 0.6 m min , respectively ; P = 0.04 ) , although subsequent ad libitum energy intake 4 h later did not differ .
+RESULTS	Postprandial blood glucose , insulin , ghrelin , glucagon-like peptide 1 and gastric inhibitory polypeptide AUCs were lower after the ingestion of the cereal-based bread , whereas the pancreatic polypeptide AUC was higher than with the control bread ( P < 0.05 ) .
+CONCLUSIONS	Consumption of the cereal-based bread contributed to appetite control by reducing hunger and enhancing satiety .
+CONCLUSIONS	In addition , consumption of this bread improved glycemic , insulinemic , and gastrointestinal hormone responses in healthy adults .
+CONCLUSIONS	This trial was registered at clinicaltrials.gov as NCT02090049 .
+

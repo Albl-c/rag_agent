@@ -1,0 +1,12 @@
+24447053
+OBJECTIVE	Intensified repetitive transcranial magnetic stimulation ( rTMS ) applied to the left dorsolateral prefrontal cortex ( DLPFC ) may result in fast clinical responses in treatment resistant depression ( TRD ) .
+OBJECTIVE	In these kinds of patients , subgenual anterior cingulate cortex ( sgACC ) functional connectivity ( FC ) seems to be consistently disturbed .
+OBJECTIVE	So far , no de novo data on the relationship between sgACC FC changes and clinical efficacy of accelerated rTMS were available .
+METHODS	Twenty unipolar TRD patients , all at least stage III treatment resistant , were recruited in a randomized sham-controlled crossover high-frequency ( HF ) - rTMS treatment study .
+METHODS	Resting-state ( rs ) functional MRI scans were collected at baseline and at the end of treatment .
+RESULTS	HF-rTMS responders showed significantly stronger resting-state functional connectivity ( rsFC ) anti-correlation between the sgACC and parts of the left superior medial prefrontal cortex .
+RESULTS	After successful treatment an inverted relative strength of the anti-correlations was observed in the perigenual prefrontal cortex ( pgPFC ) .
+RESULTS	No effects on sgACC rsFC were observed in non-responders .
+CONCLUSIONS	Strong rsFC anti-correlation between the sgACC and parts of the left prefrontal cortex could be indicative of a beneficial outcome .
+CONCLUSIONS	Accelerated HF-rTMS treatment designs have the potential to acutely adjust deregulated sgACC neuronal networks in TRD patients .
+

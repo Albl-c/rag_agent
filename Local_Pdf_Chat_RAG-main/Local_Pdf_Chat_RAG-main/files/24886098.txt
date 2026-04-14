@@ -1,0 +1,10 @@
+24886098
+BACKGROUND	Many commencing junior doctors worldwide feel ill-prepared to deal with their new responsibilities , particularly prescribing .
+BACKGROUND	Simulation has been widely utilised in medical education , but the use of extended multi-method simulation to emulate the junior doctor experience has rarely been reported .
+METHODS	A randomised controlled trial compared students who underwent two , week-long , extended simulations , several months apart ( Intervention ) , with students who attended related workshops and seminars alone ( Control ) , for a range of outcome measures .
+RESULTS	Eighty-four third year students in a graduate-entry medical program were randomised , and 82 completed the study .
+RESULTS	At the end of the first week , Intervention students scored a mean of 75 % on a prescribing test , compared with 70 % for Control students ( P = 0.02 ) and Intervention teams initiated cardiac compressions a mean of 29.1 seconds into a resuscitation test scenario , compared with 70.1 seconds for Control teams ( P < 0.01 ) .
+RESULTS	At the beginning of the second week , an average of nine months later , a significant difference was maintained in relation to the prescribing test only ( 78 % vs 70 % , P < 0.01 ) .
+RESULTS	At the end of the second week , significant Intervention vs Control differences were seen on knowledge and reasoning tests , a further prescribing test ( 71 % vs 63 % [ P < 0.01 ] ) and a paediatric resuscitation scenario test ( 252 seconds to initiation of fluid resuscitation vs 339 seconds [ P = 0.05 ] ) .
+CONCLUSIONS	The study demonstrated long-term retention of improved prescribing skills , and an immediate effect on knowledge acquisition , reasoning and resuscitation skills , from contextualising learning activities through extended multi-method simulation .
+

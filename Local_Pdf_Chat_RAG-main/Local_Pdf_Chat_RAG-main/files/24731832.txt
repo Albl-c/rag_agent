@@ -1,0 +1,14 @@
+24731832
+OBJECTIVE	Physical activity is a cornerstone in therapy for patients with metabolic syndrome .
+OBJECTIVE	Walking and hiking in a mountain scenery represents an ideal approach to make them move .
+OBJECTIVE	The Austrian Moderate Altitude Study ( AMAS ) 2000 main study is a randomized controlled trial to investigate the cardiovascular effects of hiking at moderate altitude on patients with metabolic syndrome compared with a control group at low altitude , to assess a potential altitude-specific effect .
+METHODS	Seventy-one male patients with metabolic syndrome were randomly assigned to a moderate altitude group ( at 1700 m ) , with 36 participants , or to a low altitude group ( at 200 m ) , with 35 participants .
+METHODS	The 3-week vacation program included 12 hiking tours ( 4 per week , average duration 2.5 hours , intensity 55 % to 65 % of heart rate maximum ) .
+METHODS	Physical parameters , performance capacity , 24-hour blood pressure , and heart rate profiles were obtained before , during , and after the stay .
+RESULTS	In both groups , we found a significant mean weight loss of -3.13 kg ; changes in performance capacity were minor .
+RESULTS	Systolic , diastolic , and mean arterial pressures and circadian heart rate profiles were significantly reduced in both groups , with no differences between them .
+RESULTS	Consequently , the pressure-rate product was reduced as well .
+RESULTS	All study participants tolerated the vacation well without any adverse events .
+CONCLUSIONS	A 3-week hiking vacation at moderate or low altitude is safe for patients with metabolic syndrome and provides several improvements in their cardiovascular parameters .
+CONCLUSIONS	The cardiovascular benefits achieved are more likely to be the result of regular physical activity than the altitude-specific effect of a mountain environment .
+

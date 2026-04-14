@@ -1,0 +1,11 @@
+24529671
+OBJECTIVE	Nowadays , conventional analgesic agents , which are widely used for pain relief after cesarean section , provide suboptimal analgesia with occasional serious side effects .
+OBJECTIVE	We designed a randomized , double-blind , placebo-controlled study to evaluate the analgesic efficacy of intrathecal ketamine added to bupivacaine after cesarean section .
+METHODS	Sixty patients scheduled for cesarean section under spinal anesthesia were randomly allocated to one of the two groups to receive either bupivacaine 10 mg combined with 0.1 mg/kg ketamine , or bupivacaine 10 mg combined with 0.5 mL distilled water intrathecally .
+METHODS	The time to the first analgesic request , analgesic requirement in the first 24 hours after surgery , onset times of sensory and motor blockades , the durations of sensory and motor blockades , and the incidences of adverse effects such as hypotension , ephedrine requirement , bradycardia , and hypoxemia , were recorded .
+RESULTS	Patients who received ketamine had a significantly prolonged duration of anesthesia compared with those who did not in the control group [ 95 % confidence intervals ( CI ) 195-217 ; p = 0.001 ] .
+RESULTS	The mean time to the first analgesic request was also significantly longer in ketamine group ( 95 % CI 252.5-275 ; p < 0.001 ) .
+RESULTS	The total analgesic consumption in the 24 hours following surgery significantly lessened in the ketamine group compared with that of the control group ( 95 % CI 2-2 .5 ; p < 0.001 ) .
+RESULTS	The two groups did not differ significantly in intraoperative and postoperative side effects .
+CONCLUSIONS	Intrathecal ketamine 0.1 mg/kg co-administered with spinal bupivacaine elongated the time to the first analgesic request and lessened the total analgesic consumption in the first 24 postoperative hours in comparison with bupivacaine alone in the control group following elective cesarean delivery .
+

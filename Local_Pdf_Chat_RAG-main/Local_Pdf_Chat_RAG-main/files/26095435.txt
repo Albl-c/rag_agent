@@ -1,0 +1,16 @@
+26095435
+BACKGROUND	People with prediabetes are at increased risk for developing type 2 diabetes mellitus .
+BACKGROUND	Weight reduction through lifestyle modification can significantly reduce diabetes risk .
+BACKGROUND	Yet , weight loss varies among individuals and some people do not achieve clinically meaningful weight loss after treatment .
+OBJECTIVE	Our aim was to evaluate the time point and threshold for achieving 5 % weight loss after completion of a 16-week worksite , lifestyle intervention for diabetes prevention .
+METHODS	Weight change before and after the behavioral intervention among participants randomized to the experimental group was examined .
+METHODS	Individuals with prediabetes aged 18 to 65 years with a body mass index ( calculated as kg/m ( 2 ) ) of 25 to 50 at Ohio State University were eligible .
+METHODS	The 16-week , group-based intervention , adapted from the Diabetes Prevention Program , was delivered to 32 participants in the experimental group .
+METHODS	Percent weight loss was assessed weekly during the intervention and at 4 - and 7-month follow-up .
+METHODS	Linear regression modeled the relationship between percent weight loss during month 1 of the intervention and percent weight loss at 4 and 7 months .
+METHODS	Logistic regression modeled failure to lose 5 % weight loss at 4 and 7 months using weekly weight change during the first month of intervention .
+RESULTS	Percent weight loss at intervention week 5 was significantly associated with percent weight loss at 4 and 7 months ( all P < 0.001 ) .
+RESULTS	Only 11.1 % and 12.5 % of participants who failed to achieve a 2.5 % weight-loss threshold during month 1 achieved 5 % weight loss at months 4 and 7 , respectively .
+CONCLUSIONS	The first month of lifestyle treatment is a critical period for helping participants achieve weight loss .
+CONCLUSIONS	Otherwise , individuals who fail to achieve at least 2.5 % weight loss may benefit from more intensive rescue efforts or stepped-care interventions .
+

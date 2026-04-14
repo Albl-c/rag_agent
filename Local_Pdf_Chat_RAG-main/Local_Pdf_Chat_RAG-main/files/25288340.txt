@@ -1,0 +1,12 @@
+25288340
+OBJECTIVE	Although the analgesic effect of periarticular injection after total knee arthroplasty ( TKA ) has been well documented , the gold standard for drug combination has not yet been established .
+OBJECTIVE	In this study , the analgesic effects of six different drug combinations were compared .
+METHODS	A total of 256 patients undergoing TKA for primary osteoarthritis were randomized into one of six groups : a control group ( saline solution , epinephrine , and cefazolin , n = 42 ) , Group 1 ( ropivacaine , n = 43 ) , Group 2 ( ropivacaine + morphine , n = 43 ) , Group 3 ( ropivacaine + ketorolac , n = 42 ) , Group 4 ( ropivacaine + morphine + ketorolac , n = 43 ) , and Group 5 ( ropivacaine + morphine + ketorolac + methylprednisolone , n = 43 ) .
+METHODS	Pain level assessed by visual analogue scale ( VAS ) and opioid consumption were primary outcomes .
+METHODS	The incidence of complications , range of motion ( ROM ) , C-reactive protein ( CRP ) value , and the amount of post-operative blood drainage were also compared .
+RESULTS	Patients in Groups 4 and 5 complained less pain than the control group for the first 12 h after surgery , and the patients in the other groups showed less pain only during the initial 6 h after surgery .
+RESULTS	Groups 4 and 5 also showed less opioid consumption than the control group during the 24 h period after surgery .
+RESULTS	Patients in Group 5 showed no significant difference in VAS score and opioid consumption compared with Group 4 , but they had lower CRP value and greater ROM than any other groups at post-operative day 2 and day 4 .
+CONCLUSIONS	The combination of ropivacaine , morphine , and ketorolac showed a significantly stronger and sufficiently synergistic analgesic effect without adding methylprednisolone in periarticular injection after TKA .
+CONCLUSIONS	The clinical relevance of the study is that the combination of ropivacaine , morphine , and ketorolac can be a good option for periarticular injection following TKA in terms of synergistic analgesic effect and efficiency of drug combination .
+

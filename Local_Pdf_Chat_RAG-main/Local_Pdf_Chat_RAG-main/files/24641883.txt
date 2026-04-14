@@ -1,0 +1,13 @@
+24641883
+OBJECTIVE	Energy deficit ( ED ) diminishes fat-free mass ( FFM ) with concomitant reductions in anabolic hormone secretion .
+OBJECTIVE	A modest increase in protein to recommended dietary allowance ( RDA ) levels during ED minimally attenuates decrements in insulin-like growth factor-I ( IGF-I ) .
+OBJECTIVE	The impact of dietary protein above the RDA on circulating anabolic hormones and their relationships with FFM in response to ED are not well described .
+METHODS	Thirty-three adults were assigned diets providing protein at 0.8 ( RDA ) , 1.6 ( 2-RDA ) , and 2.4 ( 3-RDA ) g/kg/d for 31days .
+METHODS	Testosterone , sex-hormone binding globulin ( SHBG ) and IGF-I system components were assessed after a 10-day period of weight-maintenance ( WM ) and after a 21-day period of ED ( 40 % ) achieved by an increase in energy expenditure and decreased energy intake .
+METHODS	Associations between the change in FFM and anabolic hormone levels were determined .
+RESULTS	As compared to WM and regardless of dietary protein intake , total and free testosterone , total IGF-I , and acid-labile subunit decreased ( P < 0.05 ) , whereas SHBG and IGF binding proteins-1 , -2 , and -3 increased ( P < 0.05 ) during ED .
+RESULTS	There were no energy-by-protein interactions on any hormones or IGF-I system components measured .
+RESULTS	Changes in FFM in response to ED were negatively associated with acid-labile subunit ( ALS ) ( r = -0.62 , P < 0.05 ) in 2-RDA ; however , no other relationships were observed .
+CONCLUSIONS	Consuming a high protein diet does not impact the androgenic and IGF-I system response to ED .
+CONCLUSIONS	These data suggest that the protective effects of high protein diets on FFM during ED are likely not influenced by anabolic hormone concentrations .
+

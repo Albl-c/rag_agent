@@ -1,0 +1,18 @@
+24800381
+BACKGROUND	Gestational diabetes mellitus ( GDM ) increases risks for type 2 diabetes and cardiovascular diseases .
+BACKGROUND	Low glycaemic index ( GI ) diets improve cardio-metabolic outcomes in insulin-resistant individuals .
+BACKGROUND	We examined the feasibility of lowering GI through GI-based-education among Asian post-GDM women .
+METHODS	A 3-month investigation was carried out on 60 Malaysian women with a mean age of 31.0 + / - 4.5 years and a history of GDM .
+METHODS	Subjects were randomised into two groups : LGIE and CHDR .
+METHODS	The CHDR group received conventional healthy dietary recommendations only .
+METHODS	The LGIE group received GI based-education in addition to conventional healthy dietary recommendations .
+METHODS	At baseline and after 3-months , dietary intake of energy and macronutrient intakes including GI diet and glycaemic load was assessed using 3-day food records .
+METHODS	Diabetes-Diet and GI-concept scores and physical activity levels were assessed using a questionnaire .
+METHODS	Adherence to dietary instructions was measured at the end of 3 months .
+RESULTS	At the end of 3 months , the LGIE group had significant reductions in energy intake ( 241.7 + / - 522.4 Kcal , P = 0.037 , ES = 0.463 ) , total carbohydrate ( 48.7 + / - 83.5 g , P = 0.010 , ES = 0.583 ) , GI ( 3.9 + / - 7.1 , P = 0.017 , ES = 0.549 ) and GL ( 39.0 + / - 55.3 , P = 0.003 , ES = 0.705 ) and significant increases in protein ( 3.7 + / - 5.4 g , 0.003 , ES = 0.685 ) and diet fibre ( 4.6 + / - 7.3 g , P = 0.06 ) .
+RESULTS	The CHDR group had a significant reduction in fat only ( 5.7 + / - 9.4 g , P = 0.006 , ES = 0.606 ) .
+RESULTS	There was a 30 % increase in GI-concept scores in the LGIE group ( p < 0.001 ) .
+RESULTS	Changes in GI-concept scores correlated significantly to the reduction in dietary GI ( r = -0.642 , P = 0.045 ) .
+RESULTS	Dietary adherence was comparable in both groups .
+CONCLUSIONS	GI-education improves GI-concept knowledge and helps lower dietary glycaemic index among women with a history of GDM .
+

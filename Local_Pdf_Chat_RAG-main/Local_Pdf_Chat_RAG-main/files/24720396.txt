@@ -1,0 +1,12 @@
+24720396
+OBJECTIVE	To evaluate tooth position after six and 9 months of orthodontics with conventional brackets on one side of the dentition and ligature-less brackets on the other .
+METHODS	Orthodontic Division , Vienna Medical University .
+METHODS	Twenty patients aged 22.5 5.7 years , symmetrical malocclusion and arch form , no premolar extraction .
+METHODS	Prospective split-mouth study , 0.022-inch SmartClip self-ligating brackets assigned randomly to the left or right dentition , conventional 0.018-inch brackets on the other side .
+METHODS	52 dental landmarks , digitized on plaster casts , represented dental arches at baseline ( t0 ) , 6 months and 9 months ( t1 , t2 ) .
+METHODS	During t0-t1 , we used 0.016 and 0.014 x 0.025 inch superelastic wires , during t1-t2 connected reverse-curve hemiarch wires : 0.017 x 0.025 inch - titanium on the ligature-less side , and 0.016 x 0.022 inch Elgiloy multiloop wires on conventional brackets .
+METHODS	Morphometric analyses were used to assess differences in dental arch shapes .
+RESULTS	Neither initial alignment nor the reverse-curve phase showed statistically significant differences between ligature-less and conventional brackets in moving teeth .
+CONCLUSIONS	Morphometric shape analyses corroborated current evidence that self-ligating brackets were no more effective than conventional brackets with steel ligatures after 6-month initial alignment .
+CONCLUSIONS	From months 6-9 treatment with - titanium reverse-curve wires on 0.022-inch ligature-less brackets resulted in similar tooth positions as accomplished by Elgiloy multiloop wires on 0.018-inch steel-ligature-tied brackets .
+

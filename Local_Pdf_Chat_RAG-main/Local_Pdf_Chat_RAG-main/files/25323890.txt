@@ -1,0 +1,15 @@
+25323890
+OBJECTIVE	Bowel cleansing is generally regarded as time-consuming and unpleasant among patients .
+OBJECTIVE	Patients commonly state that bowel preparation provokes more discomfort than the actual colonoscopic examination .
+OBJECTIVE	The purpose of this study was to compare two regimens of sodium phosphate ( NaP ) tablets versus polyethylene glycol ( PEG ) solution for bowel preparation in healthy Korean adults .
+METHODS	This was a single center , prospective , open-label , investigator-blinded , randomized , controlled-pilot study .
+METHODS	A total of 62 healthy Korean subjects were randomly assigned to two groups ( NaP vs. PEG ) .
+METHODS	Efficacy , safety , and patient-related outcomes , as well as procedural parameters , were evaluated .
+RESULTS	Although there were no significant differences in total Ottawa bowel quality score , fluid scores and the rate of adequate bowel preparation were significantly better in the NaP group than the PEG group .
+RESULTS	Additionally , the NaP group showed better results regarding patient tolerance , satisfaction , preference , and rate of adverse events than the PEG group .
+RESULTS	Significant fluctuations in specific serum electrolytes were common and of a greater magnitude in the NaP group than the PEG group .
+RESULTS	However , these abnormalities were transient and did not result in serious complications and side effects .
+CONCLUSIONS	In this study , NaP tablets were shown to be an effective , well-tolerated , and acceptable regimen for bowel preparation .
+CONCLUSIONS	Also , our study suggests that NaP tablets may be safe and can be used as a bowel cleansing agent in healthy adults undergoing elective colonoscopy .
+CONCLUSIONS	Further multicenter , large scale studies are needed to confirm these findings .
+

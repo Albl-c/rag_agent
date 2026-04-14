@@ -1,0 +1,15 @@
+25411159
+BACKGROUND	Biodegradable-polymer drug-eluting stents ( BP-DES ) were developed to be as effective as second-generation durable-polymer drug-eluting stents ( DP-DES ) and as safe > 1 year as bare-metal stents ( BMS ) .
+BACKGROUND	Thus , very late stent thrombosis ( VLST ) attributable to durable polymers should no longer appear .
+RESULTS	To address these early and late aspects , 2291 patients presenting with acute or stable coronary disease needing stents 3.0 mm in diameter between April 2010 and May 2012 were randomly assigned to biolimus-A9-eluting BP-DES , second-generation everolimus-eluting DP-DES , or thin-strut silicon-carbide-coated BMS in 8 European centers .
+RESULTS	All patients were treated with aspirin and risk-adjusted doses of prasugrel .
+RESULTS	The primary end point was combined cardiac death , myocardial infarction , and clinically indicated target-vessel revascularization within 2 years .
+RESULTS	The combined secondary safety end point was a composite of VLST , myocardial infarction , and cardiac death .
+RESULTS	The cumulative incidence of the primary end point was 7.6 % with BP-DES , 6.8 % with DP-DES , and 12.7 % with BMS .
+RESULTS	By intention-to-treat BP-DES were noninferior ( predefined margin , 3.80 % ) compared with DP-DES ( absolute risk difference , 0.78 % ; -1.93 % to 3.50 % ; P for noninferiority 0.042 ; per protocol P = 0.09 ) and superior to BMS ( absolute risk difference , -5.16 ; -8.32 to -2.01 ; P = 0.0011 ) .
+RESULTS	The 3 stent groups did not differ in the combined safety end point , with no decrease in events > 1 year , particularly VLST with BP-DES .
+CONCLUSIONS	In large vessel stenting , BP-DES appeared barely noninferior compared with DP-DES and more effective than thin-strut BMS , but without evidence for better safety nor lower VLST rates > 1 year .
+CONCLUSIONS	Findings challenge the concept that durable polymers are key in VLST formation .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT01166685 .
+

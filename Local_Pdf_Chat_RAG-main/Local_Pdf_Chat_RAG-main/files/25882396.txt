@@ -1,0 +1,21 @@
+25882396
+BACKGROUND	Treatment for patients with chronic lymphocytic leukaemia who are elderly or who have comorbidities is challenging because fludarabine-based chemoimmunotherapies are mostly not suitable .
+BACKGROUND	Chlorambucil remains the standard of care in many countries .
+BACKGROUND	We aimed to investigate whether the addition of ofatumumab to chlorambucil could lead to better clinical outcomes than does treatment with chlorambucil alone , while also being tolerable for patients who have few treatment options .
+METHODS	We carried out a randomised , open-label , phase 3 trial for treatment-naive patients with chronic lymphocytic leukaemia in 109 centres in 16 countries .
+METHODS	We included patients who had active disease needing treatment , but in whom fludarabine-based treatment was not possible .
+METHODS	We randomly assigned patients ( 1:1 ) to receive oral chlorambucil ( 10 mg/m ( 2 ) ) on days 1-7 of a 28 day treatment course or to receive chlorambucil by this schedule plus intravenous ofatumumab ( cycle 1 : 300 mg on day 1 and 1000 mg on day 8 ; subsequent cycles : 1000 mg on day 1 ) for three to 12 cycles .
+METHODS	Assignment was done with a randomisation list that was computer generated at GlaxoSmithKline , and was stratified , in a block size of two , by age , disease stage , and performance status .
+METHODS	The primary endpoint was progression-free survival in the intention-to-treat population and assessment was done by an independent review committee that was masked to group assignment .
+METHODS	The study is registered with ClinicalTrials.gov , number NCT00748189 .
+RESULTS	We enrolled 447 patients , median age 69 years ( range 35-92 ) .
+RESULTS	Between Dec 22 , 2008 , and May 26 , 2011 , we randomly assigned 221 patients to chlorambucil plus ofatumumab and 226 patients to chlorambucil alone .
+RESULTS	Median progression-free survival was 224 months ( 95 % CI 190-252 ) in the group assigned to chlorambucil plus ofatumumab compared with 131 months ( 106-138 ) in the group assigned to chlorambucil only ( hazard ratio 057 , 95 % CI 045-072 ; p < 00001 ) .
+RESULTS	Grade 3 or greater adverse events were more common in the chlorambucil plus ofatumumab group ( 109 [ 50 % ] patients ; vs 98 [ 43 % ] given chlorambucil alone ) , with neutropenia being the most common event ( 56 [ 26 % ] vs 32 [ 14 % ] ) .
+RESULTS	Grade 3 or greater infections had similar frequency in both groups .
+RESULTS	Grade 3 or greater infusion-related adverse events were reported in 22 ( 10 % ) patients given chlorambucil plus ofatumumab .
+RESULTS	Five ( 2 % ) patients died during treatment in each group .
+CONCLUSIONS	Addition of ofatumumab to chlorambucil led to clinically important improvements with a manageable side-effect profile in treatment-naive patients with chronic lymphocytic leukaemia who were elderly or had comorbidities .
+CONCLUSIONS	Chlorambucil plus ofatumumab is therefore an important treatment option for these patients who can not tolerate more intensive therapy .
+BACKGROUND	GlaxoSmithKline , Genmab A/S .
+

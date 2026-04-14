@@ -1,0 +1,12 @@
+24582914
+BACKGROUND	RAS mutations predict resistance to anti-epidermal growthfactor receptor ( EGFR ) monoclonal antibodies in metastatic colorectal cancer .
+BACKGROUND	We analysed RAS mutations in 30 non-metastatic rectal cancer patients treated with or without cetuximab within the 31 EXPERT-C trial .
+METHODS	Ninety of 149 patients with tumours available for analysis were KRAS/BRAF wild-type , and randomly assigned to capecitabine plus oxaliplatin ( CAPOX ) followed by chemoradiotherapy , surgery and adjuvant CAPOX or the same regimen plus cetuximab ( CAPOX-C ) .
+METHODS	Of these , four had a mutation of NRAS exon 3 , and 84 were retrospectively analysed for additional KRAS ( exon 4 ) and NRAS ( exons 2/4 ) mutations by using bi-directional Sanger sequencing .
+METHODS	The effect of cetuximab on study end-points in the RAS wild-type population was analysed .
+RESULTS	Eleven ( 13 % ) of 84 patients initially classified as KRAS/BRAF wild-type were found to have a mutation in KRAS exon 4 ( 11 % ) or NRAS exons 2/4 ( 2 % ) .
+RESULTS	Overall , 78/149 ( 52 % ) assessable patients were RAS wild-type ( CAPOX , n = 40 ; CAPOX-C , n = 38 ) .
+RESULTS	In this population , after a median follow-up of 63.8 months , in line with the initial analysis , the addition of cetuximab was associated with numerically higher , but not statistically significant , rates of complete response ( 15.8 % versus 7.5 % , p = 0.31 ) , 5-year progression-free survival ( 75.5 % versus 67.5 % , hazard ratio ( HR ) 0.61 , p = 0.25 ) and 5-year overall survival ( 83.8 % versus 70 % , HR 0.54 , p = 0.20 ) .
+CONCLUSIONS	RAS mutations beyond KRAS exon 2 and 3 were identified in 17 % of locally advanced rectal cancer patients .
+CONCLUSIONS	Given the small sample size , no definitive conclusions on the effect of additional RAS mutations on cetuximab treatment in this setting can be drawn and further investigation of RAS in larger studies is warranted .
+

@@ -1,0 +1,21 @@
+25957003
+OBJECTIVE	Bleeding esophageal varices has been studied extensively , but bleeding gastric varices ( BGV ) has received much less investigation .
+OBJECTIVE	However , BGV has been reported in 30 % of patients with acute variceal bleeding .
+OBJECTIVE	In our studies of 1,836 bleeding cirrhotics , 12.7 % were bleeding from gastric varices .
+OBJECTIVE	BGV mortality rate of 45-55 % has been reported .
+OBJECTIVE	The BGV literature has mainly involved retrospective case reports , often with short-term follow-up .
+OBJECTIVE	We sought to describe the results of a prospective , randomized , controlled trial ( RCT ) in unselected , consecutive patients with BGV comparing endoscopic therapy ( ET ) with portacaval shunt ( PCS ; n = 518 ) , and later comparing emergency transjugular intrahepatic portosystemic shunt ( TIPS ) with emergency portacaval shunt ( EPCS ; n = 70 ) .
+METHODS	Initially , our RCT involved 518 patients with BGV comparing ET with direct PCS regarding control of bleeding , mortality rate , and disability .
+METHODS	When entry of patients ended , the RCT was expanded to compare emergency TIPS with EPCS ( n = 70 ) .
+METHODS	This RCT of BGV was separate from our other RCTs of bleeding esophageal varices .
+METHODS	Initially , ET was compared with PCS .
+METHODS	In the second part of our RCT , emergency TIPS was compared with emergency PCS ( EPCS ) .
+METHODS	Outcomes were survival , control of bleeding , portal-systemic encephalopathy ( PSE ) , quality of life , and direct costs of care .
+METHODS	In the RCT of ET versus PCS , 28 and 30 % , respectively , were in Child class C.
+METHODS	In the expanded RCT of TIPS versus EPCS , 40 and 41 % , respectively , were in Child class C. Permanent control of BGV was achieved in 97-100 % of patients treated by emergency or elective PCS , compared with 27-29 % by ET .
+METHODS	TIPS was even less effective , achieving long-term control of BGV in only 6 % .
+METHODS	Survival rates after PCS were greater at all time intervals and in all Child classes ( P < .001 ) .
+METHODS	Repeated episodes of PSE occurred in 50 % of TIPS patients , 16-17 % treated by ET , and 8-11 % treated by PCS .
+METHODS	Shunt stenosis or occlusion occurred in 67 % of TIPS patients , in contrast with 0-2 % of PCS patients .
+CONCLUSIONS	These results support the conclusion that PCS is uniformly effective , whereas ET and TIPS are not very effective .
+

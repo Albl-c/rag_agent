@@ -1,0 +1,10 @@
+25117033
+BACKGROUND	Hip and knee osteoarthritis are important causes of pain and disability among older people .
+BACKGROUND	Education and strength training can alleviate symptoms and avoid functional deterioration .
+OBJECTIVE	To assess muscle strength , fall risk and quality of life of older people with osteoarthritis and the effects of physiotherapy education and strength training on these variables .
+METHODS	Thirty participants aged 78 5 years ( 63 % women ) were randomly assigned to receive physiotherapy ( Controls ) , physiotherapy plus education ( Group 1 ) and physiotherapy plus strength training ( group 2 ) .
+METHODS	At baseline and after 16 weeks of intervention , patients were evaluated with the Senior Fitness Test , Timed Up and Go and Quality of Life score short form ( SF-36 ) .
+RESULTS	During the intervention period , Senior Fitness Test and Timed Up and Go scores improved in all groups and SF-36 did not change .
+RESULTS	The improvement in Senior Fitness Test and Timed Up and Go was more marked in Groups 1 and 2 than in the control group .
+CONCLUSIONS	Education and strength training improve functional tests among older people with osteoarthritis .
+

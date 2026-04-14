@@ -1,0 +1,14 @@
+24621686
+BACKGROUND	Complex regional pain syndrome is multifactorial .
+BACKGROUND	Exaggerated inflammatory responses to limb injury may be involved .
+BACKGROUND	The authors hypothesized that capsaicin-induced pain and neurogenic inflammation ( skin perfusion and flare area ) are increased in patients with complex regional pain syndrome compared with that in controls .
+METHODS	Twenty patients with unilateral upper-limb complex regional pain syndrome and 20 age - , sex - , and body mass index-matched controls participated .
+METHODS	Topical capsaicin 5 % was applied to the back of both hands for 30 min , and pain intensity was assessed on a visual analogue scale .
+METHODS	A laser Doppler perfusion imager scanner estimated capsaicin-induced skin perfusion and flare area .
+METHODS	Autonomic and small-fiber function was assessed by sensory testing , quantitative sudomotor axon reflex test , and vasoconstrictor responses .
+RESULTS	The authors found bilateral hypersensitivity to capsaicin ( P 0.02 ) , skin fold ( P = 0.001 ) , joint pressure ( P < 0.0001 ) , cold ( P 0.01 ) , and heat pain ( P 0.04 ) in patients compared with that in controls and thermal and mechanical hyperalgesia in the complex regional pain syndrome-affected hand compared with that in the unaffected hand ( P 0.001 ) .
+RESULTS	The patients had normal capsaicin-induced flare areas , thermal detection thresholds , quantitative sudomotor axon reflex test , and vasoconstrictor responses .
+CONCLUSIONS	The main finding is bilaterally increased capsaicin-induced pain in patients compared with controls .
+CONCLUSIONS	The flare response to capsaicin was normal , suggesting that the increased pain response was not due to increased neurogenic inflammation .
+CONCLUSIONS	The bilateral hypersensitivity to painful chemical , thermal , and mechanical stimuli not confined to the innervation area of a peripheral nerve or root can not be explained by a regional change and may partly be due to central sensitization .
+

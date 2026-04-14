@@ -1,0 +1,24 @@
+25491714
+OBJECTIVE	The objective of this study was to test the effect of a brief educational and counseling intervention on increasing the uptake of free testing for Chlamydia trachomatis ( chlamydia ) and Neisseria gonorrhea ( gonorrhea ) among young female emergency department ( ED ) patients .
+OBJECTIVE	Women are particularly vulnerable to more serious consequences of these infections due to asymptomatic presentation .
+OBJECTIVE	Increased testing is important to detect , treat , and halt the spread of these infections among asymptomatic women .
+METHODS	This was a randomized controlled trial .
+METHODS	Research assistants ( RAs ) approached female patients in two EDs .
+METHODS	Eligible patients were between 18 and 35 years of age , who reported having sex with males , but were not attending the ED for either treatment of sexually transmitted infection ( STI ) or testing for possible STI exposure .
+METHODS	Participants responded to survey questions about their lifetime and past 3-month substance use , number of recent sexual partners , condom use , and perception of risks for chlamydia and gonorrhea infections .
+METHODS	Following the survey , the RAs randomized participants into study control or treatment arms .
+METHODS	Each treatment arm participant received a brief educational/counseling intervention from the RA .
+METHODS	The brief intervention focused on the woman 's personal risks for chlamydia and gonorrhea and condoms attitudes and usage .
+METHODS	As the primary outcome of this study , participants were offered free urine tests for chlamydia and gonorrhea infection postintervention or post-survey completion , depending on group assignment .
+RESULTS	A total of 171 women completed the baseline assessment and were offered chlamydia and gonorrhea testing .
+RESULTS	The mean ( SD ) age was 26 ( 4.76 ) years , 18 % were Hispanic , and 12 % were Spanish-speaking only .
+RESULTS	The brief intervention that was offered to increase these women 's awareness of their STI risk did not result in increased acceptance of testing ; 48 % in the brief intervention group accepted testing ( 95 % confidence interval [ CI ] = 32 % to 64 % ) versus 36 % in the control group ( 95 % CI = 19 % to 53 % ) .
+RESULTS	In a multivariable logistic regression , only self-identifying as being Hispanic was associated with greater willingness to be tested .
+RESULTS	Of the asymptomatic women tested ( n = 71 ) , five tested positive for chlamydia .
+RESULTS	This represents a positivity rate of 7 % .
+RESULTS	There were no positive test results for gonorrhea .
+RESULTS	Women who reported high-risk factors for STI , such as younger age ( 25 years ) , having sex in the past 90 days without using condoms , identified substance use , or previous STI , were not more likely to accept the offer of chlamydia and gonorrhea testing .
+CONCLUSIONS	The brief intervention used in this study did not increase the uptake of testing for chlamydia and gonorrhea infections in this sample , in comparison to receiving no intervention .
+CONCLUSIONS	Although Hispanic women were more likely to accept chlamydia and gonorrhea testing , it is concerning that those women who report STI risk factors were not more likely to accept the offer of chlamydia and gonorrhea testing .
+CONCLUSIONS	Future research should focus on the refinement of an intervention protocol to focus on prior STI and lack of condom use to increase the uptake of testing among this high-risk group .
+

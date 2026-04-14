@@ -1,0 +1,18 @@
+24341820
+BACKGROUND	This randomized controlled trial aimed to evaluate whether the serum procalcitonin ( PCT ) level can be utilized to guide the use of antibiotics in the treatment of acute exacerbations of asthma .
+METHODS	A total of 293 consecutive patients with suspected asthma attacks from February 2005 to July 2010 participated in this study .
+METHODS	225 patients completed the study .
+METHODS	Serum PCT levels , and other inflammatory biomarkers of all patients were measured .
+METHODS	In addition to the standard treatment , the control group received antibiotics according to the attending physicians ' discretions , while the patients in the PCT group were treated with antibiotics according to serum PCT concentrations .
+METHODS	Antibiotics usage was strongly discouraged when the PCT concentration was below 0.1 g/L ; discouraged when the PCT concentration was between 0.1 g/L and 0.25 g/L ; or encouraged when the PCT concentration was above 0.25 g/L .
+METHODS	The primary endpoint was the determination of antibiotics usage .
+METHODS	The second endpoints included the diagnostic accuracy of PCT and other laboratory biomarkers the effectiveness of asthma control , secondary ED visits , hospital re-admissions , repeated needs for steroids or dosage increase , needs for antibiotics , WBC count , PCT levels and FEV1 % .
+RESULTS	At baseline , two groups were identical regarding clinical , laboratory and symptom score .
+RESULTS	Probability of the antibiotics usage in the PCT group ( 46.1 % ) was lower than that in the control group ( 74.8 % ) ( 2 = 21.97 , p < 0.001 .
+RESULTS	RR = 0.561 , 95 % CI 0.441-0 .713 ) .
+RESULTS	PCT and IL-6 showed good diagnostic significance for bacterial asthma ( r = 0.705 , p = 0.003 ) .
+RESULTS	The degrees of asthma control in patients were categorized to three levels and were comparable between the two groups at the six weeks follow-up period ( 2 = 1.62 , p = 0.45 ) .
+RESULTS	There were no significant difference regarding other secondary outcomes ( p > 0.05 ) .
+CONCLUSIONS	The serum PCT concentration can be used to effectively determine whether the acute asthma patients have bacterial infections in the respiratory tract , and to guide the use of antibiotics in the treatment of acute asthma exacerbations , which may substantially reduce unnecessary antibiotic use without compromising the therapeutic outcomes .
+BACKGROUND	ICTRP ChiCTR-TRC-12002534 .
+

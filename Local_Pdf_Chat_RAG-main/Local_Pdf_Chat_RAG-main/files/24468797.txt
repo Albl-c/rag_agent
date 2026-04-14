@@ -1,0 +1,17 @@
+24468797
+OBJECTIVE	Girdles and abdominal binders may reduce pain and stabilize the abdominal wall after laparotomy , but a risk for increased intra-abdominal pressure and decreased lung function is also hypothesized .
+OBJECTIVE	The aim of this study was to investigate the effect of an abdominal girdle after midline laparotomy in a randomized controlled trial .
+METHODS	Twenty-three patients undergoing laparotomy were randomized to wear an elastic girdle postoperatively and 25 were randomized to no girdle .
+METHODS	Pulmonary function was evaluated with ; forced vital capacity ( FVC ) , forced expiratory volume during one second ( FEV1 ) , peak expiratory flow ( PEF ) , and cough PEF .
+METHODS	Pain was recorded using a visual analog scale ( VAS ) .
+METHODS	All patients completed the ventral hernia pain questionnaire ( VHPQ ) before surgery and at the end of the study .
+METHODS	Intra-abdominal pressure was measured via an indwelling urinary catheter .
+METHODS	Wound healing was assessed from photographs .
+RESULTS	FVC , FEV1 , PEF , and cough PEF were reduced by about 30 % after surgery , but there were no differences between patients with or without a girdle ( ANOVA ) .
+RESULTS	Intra-abdominal pressure and wound healing were the same in both groups .
+RESULTS	Pain was significantly lower on day 5 in the girdle group ( p = 0.004 ) .
+CONCLUSIONS	An individually fitted elastic girdle used after midline laparotomy was found to be safe , as this did not affect lung function , coughing , intra-abdominal pressure , or wound healing .
+CONCLUSIONS	The immediate decline in lung function after surgery is restrictive and due to anesthesia and the surgical procedure .
+CONCLUSIONS	Pain was significantly decreased in the girdle group .
+CONCLUSIONS	The study is registered at ClinicalTrials.gov , number NCT01517217 .
+

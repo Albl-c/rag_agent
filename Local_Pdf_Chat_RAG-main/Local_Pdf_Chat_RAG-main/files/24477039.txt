@@ -1,0 +1,16 @@
+24477039
+BACKGROUND	In nutritional studies , pigs are often used as models for humans because of nutritional and physiologic similarities .
+BACKGROUND	However , evidence supporting similar metabolic responses to nutritional interventions is lacking .
+OBJECTIVE	The objective was to establish whether pigs and humans respond similarly to a nutritional intervention .
+OBJECTIVE	Using metabolomics , we compared the acute metabolic response to 4 test breads between conventional pigs ( growing ) and adult human subjects ( with the metabolic syndrome ) .
+METHODS	Six catheterized pigs and 15 human subjects were tested in a randomized crossover design with 4 breads : white-wheat bread low in dietary fiber , rye bread with whole-rye kernels , and 2 white-wheat breads supplemented with either wheat arabinoxylan or oat - glucan .
+METHODS	Blood samples drawn -15 , 30 , and 120 min postprandially were analyzed by untargeted liquid chromatography-mass spectrometry metabolomics .
+RESULTS	We found that the postprandial responses , as reflected in blood metabolomes , are similar in pigs and humans .
+RESULTS	Twenty-one of 26 identified metabolites that were found to be different between the species were qualitatively similar in response to the test breads , despite different basal metabolome concentrations in the plasma of pigs and humans .
+RESULTS	Humans had higher contents of phosphatidylcholines , oleic acid , and carnitine in plasma , possibly reflecting a higher intake of meats and fats .
+RESULTS	In pigs , betaine , choline , creatinine , tryptophan , and phenylalanine were higher , probably because of the higher doses of bread provided to the pigs ( per kg body weight ) and/or because of their growing status .
+RESULTS	Acute metabolic differences in these metabolites induced by the breads were , however , comparable between the 2 species .
+CONCLUSIONS	Our results indicate that pigs are a suitable model for human metabolic studies in food research .
+CONCLUSIONS	The human trial was registered at clinicaltrials.gov as NCT01316354 .
+CONCLUSIONS	The animal experiment was conducted according to a license obtained by the Danish Animal Experiments Inspectorate , Ministry of Food , Agriculture and Fisheries , Danish Veterinary and Food Administration .
+

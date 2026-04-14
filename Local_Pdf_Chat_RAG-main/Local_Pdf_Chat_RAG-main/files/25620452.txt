@@ -1,0 +1,14 @@
+25620452
+OBJECTIVE	Girls in the child welfare system are at high risk of revictimization in adolescence .
+OBJECTIVE	The present study compared two interventions designed to decrease revictimization in a diverse sample of adolescent child welfare-involved girls .
+OBJECTIVE	The social learning/feminist ( SL/F ) intervention focused on concepts derived from social learning and feminist models of risk , such as sexism and beliefs about relationships .
+OBJECTIVE	The risk detection/executive function ( RD/EF ) intervention focused on development of specific executive function abilities related to detecting and responding to risky situations/people .
+METHODS	Participants were randomized to RD/EF ( n = 67 ) or SL/F intervention ( n = 67 ) .
+METHODS	A group of youth ( n = 42 ) engaged in the research assessments only .
+METHODS	Participants ( n = 180 ) were assessed before intervention , immediately after intervention , 2 months after intervention , and 6 months after intervention .
+METHODS	We examined revictimization ( the presence/absence of sexual or physical assault in any relationship ) over time .
+RESULTS	Adolescent girls in the RD/EF condition were nearly five times less likely to report sexual revictimization compared with girls in the no-treatment group .
+RESULTS	A trend suggested that girls who participated in the SL/F intervention were 2.5 times less likely to report sexual revictimization relative to the no-treatment group .
+RESULTS	For physical revictimization , the odds of not being physically revictimized were three times greater in the SL/F condition and two times greater in the RD/EF condition compared with the no-treatment group .
+CONCLUSIONS	The active interventions did not differ significantly from one another in rates of revictimization , suggesting that practitioners have at least two viable options to engage high-risk youth in revictimization prevention .
+

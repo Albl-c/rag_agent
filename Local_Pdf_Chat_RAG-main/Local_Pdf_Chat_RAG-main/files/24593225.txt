@@ -1,0 +1,14 @@
+24593225
+BACKGROUND	Atherosclerotic cardiovascular disease ( CVD ) is the most common cause of morbidity and mortality among hemodialysis ( HD ) patients .
+BACKGROUND	It has been attributed , among other causes , to hypertension and dyslipidemia .
+BACKGROUND	The aim of the present study was to investigate the effect of a year-long consumption of Pomegranate juice ( PJ ) , on two traditional cardiovascular ( CV ) risk factors : hypertension and lipid profile , as well as on cardiovascular events .
+METHODS	101 HD patients were randomized to receive 100cc of PJ ( 0.7 mM polyphenols ) or matching placebo juice , three times a week for one year .
+METHODS	The primary endpoints were traditional CV risk factors ; blood pressure and lipid profile .
+METHODS	Systolic , diastolic and pulse pressure , plasma levels of triglycerides ( TG ) , high density lipoprotein ( HDL ) , low density lipoprotein ( LDL ) and total cholesterol were monitored quarterly during the study year .
+METHODS	Secondary endpoint was incidence of cardiovascular events .
+RESULTS	PJ consumption yielded a significant time response improvement in systolic blood pressure , pulse pressure , triglycerides and HDL level ; an improvement that was not observed in the placebo intake group .
+RESULTS	These beneficial outcomes were more pronounced among patients with hypertension , high level of triglycerides and low levels of HDL .
+CONCLUSIONS	Regular PJ consumption by HD patients reduced systolic blood pressure and improved lipid profile .
+CONCLUSIONS	These favorable changes may reduce the accelerated atherosclerosis and high incidence of CVD among HD patients .
+BACKGROUND	ClinicalTrials.gov registry , Identifier number : NCT00727519 .
+

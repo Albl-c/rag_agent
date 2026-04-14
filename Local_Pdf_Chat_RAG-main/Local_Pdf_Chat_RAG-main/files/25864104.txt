@@ -1,0 +1,19 @@
+25864104
+BACKGROUND	Ombrabulin ( AVE8062 ) disrupts the vasculature of established tumours and has shown preclinical synergistic anti-tumour activity when combined with cisplatin .
+BACKGROUND	In this phase 3 trial , we aimed to assess the efficacy and safety of ombrabulin plus cisplatin compared with placebo plus cisplatin in patients with advanced soft-tissue sarcomas .
+METHODS	We did this multinational , randomised , double-blind , placebo-controlled phase 3 study at 44 centres in ten countries .
+METHODS	Patients aged 18 years and older with metastatic soft-tissue sarcomas , an Eastern Cooperative Oncology Group performance status of 0-2 , and who had previously received treatment with anthracycline and ifosfamide were randomly assigned ( 1:1 ) to intravenous infusion of ombrabulin 25 mg/m ( 2 ) plus cisplatin 75 mg/m ( 2 ) or intravenous infusion of placebo plus cisplatin 75 mg/m ( 2 ) every 3 weeks .
+METHODS	Patients were allocated to treatment using a permuted blocks randomisation scheme ( block size of four ) via an interactive voice-response system , and stratified by histological subtype .
+METHODS	Patients , medical staff , study investigators , and individuals who handled and analysed the data were masked to treatment assignment .
+METHODS	Our primary endpoint was median progression-free survival in the intention-to-treat population .
+METHODS	Safety analyses were done on all randomised patients who received at least one dose of study drug .
+METHODS	This trial is now closed , and is registered with ClinicalTrials.gov , number NCT00699517 .
+RESULTS	Between June 13 , 2008 , and April 26 , 2012 , we randomly assigned 355 patients to ombrabulin plus cisplatin ( n = 176 ) or placebo plus cisplatin ( n = 179 ) .
+RESULTS	Median duration of follow-up was 279 ( IQR 209-332 ) in the placebo group and 305 months ( 207-376 ) in the ombrabulin group .
+RESULTS	Progression-free survival was slightly , but significantly , improved in the ombrabulin group compared with the placebo group ( median 154 months [ 95 % CI 145-269 ] vs 141 [ 138-158 ] months ; hazard ratio 076 [ 95 % CI 059-098 ] ; p = 00302 ) .
+RESULTS	Grade 3 or 4 adverse events occurred more frequently in individuals in the ombrabulin group than in those in the placebo group and included neutropenia ( 34 [ 19 % ] in the ombrabulin group vs 14 [ 8 % ] in the placebo group ) and thrombocytopenia ( 15 [ 8 % ] vs six [ 3 % ] for placebo ) .
+RESULTS	Adverse events leading to death occurred in 18 patients in the ombrabulin group and 10 patients in the placebo group .
+CONCLUSIONS	The combination of ombrabulin and cisplatin significantly improved progression-free survival ; however , it did not show a sufficient clinical benefit in patients with advanced soft-tissue sarcomas to support its use as a therapeutic option .
+CONCLUSIONS	Predictive biomarkers are needed for the rational clinical development of tumour vascular-disrupting drugs for soft-tissue sarcomas .
+BACKGROUND	Sanofi .
+

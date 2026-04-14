@@ -1,0 +1,13 @@
+24599111
+OBJECTIVE	The estimation of effect size in clinical trials commonly disregards recurrent outcomes .
+OBJECTIVE	We investigated the effectiveness of a complex intervention on recurrent outcomes in patients with type 2 diabetes .
+METHODS	In the Diabetes Care in General Practice ( DCGP ) randomised controlled trial , 1,381 patients newly diagnosed with type 2 diabetes were randomised to 6 years of structured personal care or routine care ( ClinicalTrials.gov NCT01074762 ) .
+METHODS	The trial had 19 years of registry-based follow-up and was analysed with Cox regression models .
+METHODS	Repeated occurrences in the same patient of outcomes ( any diabetes-related endpoint , myocardial infarction [ MI ] , stroke , peripheral vascular disease and microvascular disease ) were accounted for with the Wei , Lin and Weissfeld method .
+RESULTS	As previously shown , the intervention reduced the rates of first occurrence of both MI and any diabetes-related endpoint .
+RESULTS	However , for all outcomes , the HR for a second event showed a statistically non-significant tendency to be increased .
+RESULTS	We estimated a combined HR for all marginal failure times , regardless of whether they were first , second or later events .
+RESULTS	This showed that the intervention had no effect on the rate of any of the outcomes , including MI ( HR 0.89 , 95 % CI 0.76 , 1.05 ) and any diabetes-related endpoint ( HR 0.98 , 95 % CI 0.87 , 1.09 ) .
+CONCLUSIONS	In the DCGP study , a smaller proportion of patients who received structured care experienced a first occurrence of MI or any diabetes-related endpoint compared with patients who received routine care .
+CONCLUSIONS	However , the patients who received structured care tended to experience more recurrent outcomes , so the total outcome rate was not affected by the intervention .
+

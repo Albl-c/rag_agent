@@ -1,0 +1,12 @@
+24882698
+BACKGROUND	To investigate the performance of the MI Sxscore in a multicentre randomised trial of patients undergoing primary percutaneous coronary intervention ( PPCI ) .
+RESULTS	The MI Sxscore was prospectively determined among 1132 STEMI patients enrolled into the COMFORTABLE AMI trial , which randomised patients to treatment with bare-metal ( BMS ) or biolimus-eluting ( BES ) stents .
+RESULTS	Patient - ( death , myocardial infarction , any revascularisation ) and device-oriented ( cardiac death , target-vessel MI , target lesion revascularisation ) major adverse cardiac events ( MACEs ) were compared across MI Sxscore tertiles and according to stent type .
+RESULTS	The median MI SXscore was 14 ( IQR : 9-21 ) .
+RESULTS	Patients were divided into tertiles of Sxscorelow ( 10 ) , Sxscoreintermediate ( 11-18 ) and Sxscorehigh ( 19 ) .
+RESULTS	At 1 year , patient-oriented MACE occurred in 15 % of the Sxscorehigh , 9 % of the Sxscoreintermediate and 5 % of the Sxscorelow tertiles ( p < 0.001 ) , whereas device-oriented MACE occurred in 8 % of the Sxscorehigh , 6 % of the Sxscoreintermediate and 4 % of the Sxscorelow tertiles ( p = 0.03 ) .
+RESULTS	Addition of the MI Sxscore to the TIMI risk score improved prediction of patient - ( c-statistic value increase from 0.63 to 0.69 ) and device-oriented MACEs ( c-statistic value increase from 0.65 to 0.70 ) .
+RESULTS	Differences in the risk for device-oriented MACE between BMS and BES were evident among Sxscorehigh ( 13 % vs. 4 % HR 0.33 ( 0.15-0 .74 ) , p = 0.007 rather than those in Sxscorelow : 4 % vs. 3 % HR 0.68 ( 0.24-1 .97 ) , p = 0.48 ) tertiles .
+CONCLUSIONS	The MI Sxscore allows risk stratification of patient - and device-oriented MACEs among patients undergoing PPCI .
+CONCLUSIONS	The addition of the MI Sxscore to the TIMI risk score is of incremental prognostic value among patients undergoing PPCI for treatment of STEMI .
+

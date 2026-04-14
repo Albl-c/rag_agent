@@ -1,0 +1,15 @@
+25552616
+BACKGROUND	Early identification ( EI ) and brief interventions ( BIs ) for risky drinkers are effective tools in primary care .
+BACKGROUND	Lack of time in daily practice has been identified as one of the main barriers to implementation of BI .
+BACKGROUND	There is growing evidence that facilitated access by primary healthcare professionals ( PHCPs ) to a web-based BI can be a time-saving alternative to standard face-to-face BIs , but there is as yet no evidence about the effectiveness of this approach relative to conventional BI .
+BACKGROUND	The main aim of this study is to test non-inferiority of facilitation to a web-based BI for risky drinkers delivered by PHCP against face-to-face BI .
+METHODS	A randomised controlled non-inferiority trial comparing both interventions will be performed in primary care health centres in Catalonia , Spain .
+METHODS	Unselected adult patients attending participating centres will be given a leaflet inviting them to log on to a website to complete the Alcohol Use Disorders Identification Test ( AUDIT-C ) alcohol screening questionnaire .
+METHODS	Participants with positive results will be requested online to complete a trial module including consent , baseline assessment and randomisation to either face-to-face BI by the practitioner or BI via the alcohol reduction website .
+METHODS	Follow-up assessment of risky drinking will be undertaken online at 3 months and 1 year using the full AUDIT and D5-EQD5 scale .
+METHODS	Proportions of risky drinkers in each group will be calculated and non-inferiority assessed against a specified margin of 10 % .
+METHODS	Assuming reduction of 30 % of risky drinkers receiving standard intervention , 1000 patients will be required to give 90 % power to reject the null hypothesis .
+BACKGROUND	The protocol was approved by the Ethics Commmittee of IDIAP Jordi Gol i Gurina P14/028 .
+BACKGROUND	The findings of the trial will be disseminated through peer-reviewed journals , national and international conference presentations .
+BACKGROUND	ClinicalTrials.gov NCT02082990 .
+

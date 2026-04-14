@@ -1,0 +1,17 @@
+25516139
+OBJECTIVE	To determine whether supplementation with vitamin D improves resilience to the adverse effects of earthquakes .
+METHODS	Opportunistic addition to an established randomised double blind placebo controlled trial .
+METHODS	Christchurch , New Zealand , where a prolonged series of catastrophic earthquakes beginning on 4 September 2010 occurred , which caused widespread destruction , fatalities , and extensive psychological damage .
+METHODS	322 healthy adults ( 241 women ; 81 men ) aged 18-67 who were already participating in the vitamin D and acute respiratory infections study ( VIDARIS ) between February 2010 and November 2011 .
+METHODS	Participants were randomised to receive an oral dose of either 200,000 IU vitamin D3 monthly for two months then 100,000 IU monthly ( n = 161 ) or placebo ( n = 161 ) for a total of 18 months .
+METHODS	This is a post hoc analysis from the previously published VIDARIS trial .
+METHODS	The primary endpoint in the current analysis was the self reported effects and overall adverse impact of the Christchurch earthquakes as assessed by questionnaire four months after the most destructive earthquake on 22 February 2011 , which was used as the index event .
+METHODS	The secondary end point was the number of `` psychological '' adverse events that participants reported at their usual monthly appointments as part of the original VIDARIS trial .
+RESULTS	308 participants completed the earthquake impact questionnaire ( n = 152 in the vitamin D group and 156 in the placebo group ) .
+RESULTS	There was no significant difference in the number of self reported adverse effects between those receiving vitamin D supplementation and those receiving placebo .
+RESULTS	There was also no difference in the overall adverse impact score between treatment groups ( ( 2 ) P = 0.44 ) .
+RESULTS	The exception was that those in the vitamin D group experienced more adverse effects on family relationships ( 22 % v 13 % ; ( 2 ) P = 0.03 ) .
+RESULTS	The number of psychological adverse events-such as fatigue , stress , anxiety , and insomnia-that participants reported at their usual monthly appointments was significantly higher after the earthquake ( ( 2 ) P = 0.007 ) but did not differ between treatment groups .
+CONCLUSIONS	In this trial , vitamin D supplementation did not reduce the adverse impact of earthquakes in healthy adults .
+CONCLUSIONS	Trial registration Australian New Zealand Clinical Trials Registry ( anzctr.org.au ) ACTRN12609000486224 .
+

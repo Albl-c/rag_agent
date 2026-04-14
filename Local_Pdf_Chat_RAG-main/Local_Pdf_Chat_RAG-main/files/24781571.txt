@@ -1,0 +1,13 @@
+24781571
+BACKGROUND	Radial arterial catheterization in pediatric patients is occasionally difficult despite ultrasound guidance .
+BACKGROUND	We therefore assessed the factors affecting catheterization and tested an intervention designed to improve its success .
+METHODS	For initial assessment , we performed multiple logistic regression analyses using 102 pediatric patients .
+METHODS	Dependent variables included first-attempt and overall success or failure ; independent variables were systolic blood pressure , weight , ASA physical status , trisomy 21 , arterial diameter , and subcutaneous depth of the radial artery ( < 2 , 2-4 , 4 mm ) .
+METHODS	The effect of subcutaneous arterial depth on cannulation success was assessed using Kaplan-Meier curves with log-rank and Dunn tests .
+METHODS	We then assessed catheterization success in 60 patients who were randomized to no treatment or subcutaneous saline injection , as necessary , to increase the subcutaneous arterial depth from < 2 to 2 to 4 mm .
+RESULTS	Subcutaneous arterial depth of 2 to 4 mm was derived as a significant independent predictor of initial and overall success from the multiple logistic regression analyses .
+RESULTS	The 2 to 4 mm group had a significantly shorter catheterization time compared with the other 2 groups in the log-rank test ( 2-4 vs < 2 mm group ; P = 0.01 , 2-4 vs 4 mm group ; P < 0.001 ) , and higher success rate in the first attempt ( < 2 [ 43.8 % ] vs 2-4 mm [ 76.9 % ] , P = 0.02 ; 2-4 [ 76.9 % ] vs 4.0 mm [ 19.4 % ] , P < 0.001 ) , and the overall attempt ( < 2 [ 62.5 % ] vs 2-4 mm [ 89.7 % ] , P = 0.04 ; 2-4 [ 89.7 % ] vs 4.0 mm [ 51.6 % ] , P = 0.002 ) .
+RESULTS	Injecting subcutaneous saline to bring arterial depth from < 2 mm to 2 to 4 mm significantly shortened catheterization time ( P = 0.002 ) , and improved the success rate in the first-attempt ( saline injection [ 85.0 % ] vs < 2 mm [ 30.0 % ] , P < 0.001 ) , and the overall attempt ( saline injection [ 90.0 % ] vs < 2 mm [ 55.0 % ] , P = 0.02 ) .
+CONCLUSIONS	Ultrasound-guided radial artery catheterization in pediatric patients was fastest and most reliable when the artery was 2 to 4 mm below the skin surface .
+CONCLUSIONS	For arteries located < 2 mm below the skin surface , increasing the depth to 2 to 4 mm by subcutaneous saline injection reduced catheterization time and improved the success rate .
+

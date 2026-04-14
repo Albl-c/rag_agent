@@ -1,0 +1,15 @@
+24655978
+BACKGROUND	Hyperlipidemia occurs in up to 50 % of kidney transplant ( KT ) recipients who take everolimus ( EVL ) .
+BACKGROUND	As a result of this , statins are the most commonly prescribed lipid-lowering drugs among these patients .
+BACKGROUND	However , we are concerned whether there are any drug interactions between EVL and statins , because both of these drugs use the same pharmacokinetics pathway .
+BACKGROUND	Therefore , we assessed the effects of concomitant use of EVL and atorvastatin .
+METHODS	In this randomized , open-label , crossover study , 20 KT patients were assigned ( 1:1 ) to receive EVL with or without 20 mg atorvastatin for 1 month .
+METHODS	One-month washout period was used before crossover .
+METHODS	Plasma EVL concentrations were measured by homogeneous particle-enhanced turbidimetric immunoassay .
+METHODS	Twelve-hour area under the time-concentration curve ( AUC0-12 ) of EVL was calculated with the use of whole-blood EVL concentrations from 10 different time points ( 0 , 0.5 , 1 , 1.5 , 2 , 2.5 , 4 , 6 , 8 , and 12 hours ) .
+RESULTS	The mean ( SD ) AUC0-12 for EVL and EVL plus atorvastatin was 155.9 ( 41.6 ) ngh/mL and 151.3 ( 51.4 ) ngh/mL , respectively ( P > .05 ; paired t test ) .
+RESULTS	No difference of EVL Cmax or Tmax was found after atorvastatin coadministration .
+RESULTS	Even though the EVL AUC0-12 levels were not affected by atorvastatin coadministration in one-half of the subjects , for the rest of the patients , there were unpredictable changes in the EVL AUC0-12 levels .
+RESULTS	This may be due to the high intrapatient variability of EVL drug concentration ( coefficient of variation ranges from 9.8 % to 34.1 % ) .
+CONCLUSIONS	Coadministration of atorvastatin with EVL in KT recipients did not affect the pharmacokinetics of EVL .
+

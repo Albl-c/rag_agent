@@ -1,0 +1,13 @@
+26349123
+OBJECTIVE	To evaluate the in situ caries performance and safety of two experimental fluoride dentifrice formulations ( 1450 ppm fluoride ) with and without 2 % isopentane as an excipient , in comparison to a positive control , currently marketed dentifrice ( 1450 ppm fluoride ) and a negative control dentifrice ( 0 ppm fluoride ) .
+METHODS	This was a single-center , examiner-blind , randomized , controlled , four-treatment cross-over study .
+METHODS	During each treatment period , the subject wore a modified mandibular partial denture fitted with two gauze-covered , partially demineralized human enamel specimens , and brushed at home for one timed minute , twice daily , for two weeks .
+METHODS	At the end of each treatment period , the enamel specimens were removed from the dentures for analysis .
+METHODS	During the week between treatment periods , subjects returned to their usual dental hygiene practices for four to five days , received a dental prophylaxis , and used a study-designated non-fluoride dentifrice for two to three days before starting the next treatment .
+METHODS	Treatment effect on enamel specimen remineralization was assessed by surface microhardness ( SMH ) .
+METHODS	Enamel fluoride uptake was assessed using microdrill enamel biopsy .
+RESULTS	All fluoride-containing dentifrices demonstrated significant , superior SMH recovery and levels of fluoride uptake compared to the negative control dentifrice .
+RESULTS	No significant differences were observed for either efficacy variable between the experimental dentifrice formulations and the positive control dentifrice .
+RESULTS	No significant difference was observed between the 2 % isopentane dentifrice and the 0 % isopentane dentifrice for SMH recovery .
+CONCLUSIONS	The addition of 2 % isopentane did not positively or negatively affect fluoride efficacy in this model .
+

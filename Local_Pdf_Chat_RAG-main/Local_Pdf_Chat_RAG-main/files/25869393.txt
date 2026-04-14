@@ -1,0 +1,14 @@
+25869393
+OBJECTIVE	Prucalopride is effective at alleviating symptoms of chronic constipation in women .
+OBJECTIVE	The aim of this study was to assess the efficacy of 12 weeks of prucalopride treatment compared with placebo in men with chronic constipation .
+METHODS	This was a multicenter , stratified , randomized , parallel-group , double-blind , placebo-controlled , phase 3 study ( ClinicalTrials.gov identifier : NCT01147926 ) .
+METHODS	The primary end point was the proportion of patients with a mean of three or more spontaneous complete bowel movements ( SCBMs ) per week across the treatment period .
+METHODS	Efficacy end points were assessed using daily electronic diaries , global assessment of the severity of constipation and efficacy of treatment , and Patient Assessment of Constipation-Symptoms ( PAC-SYM ) and Patient Assessment of Constipation-Quality of Life ( PAC-QOL ) questionnaires .
+RESULTS	In total , 374 patients were enrolled in the study .
+RESULTS	Significantly more patients achieved a mean of three or more SCBMs per week in the prucalopride group ( 37.9 % ) than in the placebo group ( 17.7 % , P < 0.0001 ) .
+RESULTS	The proportion of patients rating their constipation treatment as `` quite a bit '' to `` extremely '' effective at the final on-treatment visit was 46.7 and 30.4 % in the prucalopride and placebo groups , respectively .
+RESULTS	The difference between treatment groups was statistically significant ( P < 0.0001 ) .
+RESULTS	The proportion of patients with an improvement of at least 1 point in PAC-QOL satisfaction subscale score was 52.7 and 38.8 % in the prucalopride and placebo groups , respectively ( P = 0.0035 ) .
+RESULTS	Prucalopride had a good safety profile and was well tolerated .
+CONCLUSIONS	Prucalopride is effective , has a good safety profile , and is well tolerated for the treatment of men with chronic constipation .
+

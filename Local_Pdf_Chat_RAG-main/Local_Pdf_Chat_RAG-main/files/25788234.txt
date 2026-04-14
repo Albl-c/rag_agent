@@ -1,0 +1,16 @@
+25788234
+BACKGROUND	The Placement of Aortic Transcatheter Valves ( PARTNER ) trial showed that mortality at 1 year , 2 years , and 3 years is much the same with transcatheter aortic valve replacement ( TAVR ) or surgical aortic valve replacement ( SAVR ) for high-risk patients with aortic stenosis .
+BACKGROUND	We report here the 5-year outcomes .
+METHODS	We did this randomised controlled trial at 25 hospitals , in Canada ( two ) , Germany ( one ) , and the USA ( 23 ) .
+METHODS	We used a computer-generated randomisation sequence to randomly assign high-risk patients with severe aortic stenosis to either SAVR or TAVR with a balloon-expandable bovine pericardial tissue valve by either a transfemoral or transapical approach .
+METHODS	Patients and their treating physicians were not masked to treatment allocation .
+METHODS	The primary outcome of the trial was all-cause mortality in the intention-to-treat population at 1 year , we present here predefined outcomes at 5 years .
+METHODS	The study is registered with ClinicalTrials.gov , number NCT00530894 .
+RESULTS	We screened 3105 patients , of whom 699 were enrolled ( 348 assigned to TAVR , 351 assigned to SAVR ) .
+RESULTS	Overall mean Society of Thoracic Surgeons Predicted Risk of Mortality score was 117 % .
+RESULTS	At 5 years , risk of death was 678 % in the TAVR group compared with 624 % in the SAVR group ( hazard ratio 104 , 95 % CI 086-124 ; p = 076 ) .
+RESULTS	We recorded no structural valve deterioration requiring surgical valve replacement in either group .
+RESULTS	Moderate or severe aortic regurgitation occurred in 40 ( 14 % ) of 280 patients in the TAVR group and two ( 1 % ) of 228 in the SAVR group ( p < 00001 ) , and was associated with increased 5-year risk of mortality in the TAVR group ( 724 % for moderate or severe aortic regurgitation vs 566 % for those with mild aortic regurgitation or less ; p = 0003 ) .
+CONCLUSIONS	Our findings show that TAVR as an alternative to surgery for patients with high surgical risk results in similar clinical outcomes .
+BACKGROUND	Edwards Lifesciences .
+

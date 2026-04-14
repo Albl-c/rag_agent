@@ -1,0 +1,13 @@
+25048382
+OBJECTIVE	Blood pressure ( BP ) control for renal protection is essential for patients with type 2 diabetes .
+OBJECTIVE	Our objective in this analysis of Veterans Affairs Diabetes Trial ( VADT ) data was to learn whether on-study systolic BP ( SBP ) , diastolic BP ( DBP ) , and pulse pressure ( PP ) affected renal outcomes measured as albumin-to-creatinine ratio ( ACR ) and estimated glomerular filtration rate ( eGFR ) .
+METHODS	The VADT was a prospective , randomized study of 1,791 veterans with type 2 diabetes to determine whether intensive glucose control prevented major cardiovascular events .
+METHODS	In this post hoc study , time-varying covariate survival analyses and hazard ratios ( HR ) were used to determine worsening of renal outcomes .
+RESULTS	Compared with SBP 105-129 mmHg , the risk of ACR worsening increased significantly for SBP 130-139 mmHg ( HR 1.88 [ 95 % CI 1.28-2 .77 ] ; P = 0.001 ) and for SBP 140 mmHg ( 2.51 [ 1.66-3 .78 ] ; P < 0.0001 ) .
+RESULTS	Compared with a PP range of 40-49 mmHg , PP < 40 was associated with significantly lowered risk of worsening ACR ( 0.36 [ 0.15-0 .87 ] ; P = 0.022 ) and PP 60 with significantly increased risk ( 2.38 [ 1.58-3 .59 ] ; P < 0.0001 ) .
+RESULTS	Analyses of BP ranges associated with eGFR worsening showed significantly increased risk with rising baseline SBP and an interaction effect between SBP 140 mmHg and on-study A1C .
+RESULTS	These patients were 15 % more likely than those with SBP < 140 mmHg to experience eGFR worsening ( 1.15 [ 1.00-1 .32 ] ; P = 0.045 ) for each 1 % ( 10.9 mmol/mol ) A1C increase .
+CONCLUSIONS	SBP 130 mmHg and PP > 60 mmHg were associated with worsening ACR .
+CONCLUSIONS	The results suggest that treatment of SBP to < 130 mmHg may lessen ACR worsening .
+CONCLUSIONS	The interaction between SBP 140 mmHg and A1C suggests that the effect of glycemic control on reducing progression of renal disease may be greater in hypertensive patients .
+

@@ -1,0 +1,16 @@
+25158273
+OBJECTIVE	We compared the long-term success of desmopressin sublingual lyophilisate formulation and enuretic alarm therapy in children with primary monosymptomatic nocturnal enuresis , and determined predictive factors for treatment success .
+METHODS	A total of 142 children with primary monosymptomatic nocturnal enuresis were randomized to receive treatment consisting of desmopressin or enuretic alarm for 6 months .
+METHODS	Treatment compliance and response were reviewed monthly in each patient using a 30-day bed-wetting diary .
+METHODS	Outcomes were assessed according to International Children 's Continence Society criteria , and success rates at 6 and 12 months were compared for desmopressin and enuretic alarm .
+METHODS	Additional intention to treat analyses were performed , considering cases with missing data as failures .
+METHODS	Possible demographic factors predicting success were investigated by logistic regression analysis .
+RESULTS	Overall 4 children ( 5.2 % ) in the desmopressin group and 20 ( 30.7 % ) in the enuretic alarm group withdrew after randomization .
+RESULTS	Based on patients who completed 6 months of treatment , success ( more than 90 % reduction in wet nights per month ) was achieved in 76.8 % and 61.8 % of children in the desmopressin and enuretic alarm groups , respectively .
+RESULTS	At 12 months 77.8 % of those receiving desmopressin and 75 % of those treated with enuretic alarm had success .
+RESULTS	However , long-term success rate was significantly higher with desmopressin ( 68.8 % vs 46.2 % ) if intention to treat population was considered .
+RESULTS	Multivariate analysis revealed treatment group , severity of enuresis and monthly income as independent predictors of cure at 6 months .
+CONCLUSIONS	In compliant patients desmopressin lyophilisate and enuretic alarm provided equivalent success at the end of treatment and after extended followup .
+CONCLUSIONS	Alarm therapy had a high rate of early withdrawal from therapy and consequently lower rates of success on intention to treat analyses .
+CONCLUSIONS	Severe enuresis ( more than 5 wet nights weekly ) is an important predictive factor for cure after first-line treatment .
+

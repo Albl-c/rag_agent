@@ -1,0 +1,11 @@
+24527503
+BACKGROUND	A single session of left prefrontal rTMS has been shown to have analgesic effects , and to reduce post-operative morphine use .
+BACKGROUND	We sought to test these findings in a larger sample , and try and see if multiple sessions had additive analgesic benefit .
+METHODS	108 patients undergoing laparoscopic gastric bypass surgery received two sessions of 10 Hz rTMS ( 110 % of motor threshold ) over the left dorsolateral prefrontal cortex ( one immediately following surgery and one 4 h later ) .
+METHODS	Participants were randomly assigned to receive 2 sessions of real rTMS , 2 sessions of sham , 1 real then 1 sham , or 1 sham then 1 real rTMS treatments .
+METHODS	Patients and study staff were blind to rTMS conditions .
+RESULTS	Unlike previous rTMS trials for post-operative pain , no differences emerged between groups with respect to total patient-controlled analgesia usage ( IV hydromorphone ) .
+RESULTS	However , despite no difference in IV analgesic usage , subjects that received 2 real rTMS sessions rated both the affective and sensory dimensions of their pain significantly lower than those in the shamsham group at several time points during the post-surgical/post-rTMS period .
+CONCLUSIONS	This study suggests that left prefrontal rTMS may produce significant analgesic effects in the perioperative setting .
+CONCLUSIONS	However , further work is needed to understand this effect and attempt to make it clinically useful in light of the lack of effect on PCA hydromorphone use .
+

@@ -1,0 +1,8 @@
+25338241
+OBJECTIVE	To evaluate the safety of the performance of the traditional and protected collection techniques of tracheal aspirate and to identify qualitative and quantitative agreement of the results of microbiological cultures between the techniques .
+METHODS	Clinical , prospective , comparative , single-blind research .
+METHODS	The sample was composed of 54 patients of > 18 years of age , undergoing invasive mechanical ventilation for a period of 48 hours and with suspected Ventilator Associated Pneumonia .
+METHODS	The two techniques were implemented in the same patient , one immediately after the other , with an order of random execution , according to randomization by specialized software .
+RESULTS	No significant events occurred oxygen desaturation , hemodynamic instability or tracheobronchial hemorrhage ( p < 0.05 ) and , although there were differences in some strains , there was qualitative and quantitative agreement between the techniques ( p < 0.001 ) .
+CONCLUSIONS	Utilization of the protected technique provided no advantage over the traditional and execution of both techniques was safe for the patient .
+

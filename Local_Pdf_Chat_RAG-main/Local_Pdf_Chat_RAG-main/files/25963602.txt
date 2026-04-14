@@ -1,0 +1,17 @@
+25963602
+BACKGROUND	Reducing consumption of food away from home is often targeted during pediatric obesity treatment , given the associations with weight status and gain .
+BACKGROUND	However , the effects of this dietary change on weight loss are unknown .
+OBJECTIVE	Our aim was to evaluate associations between changes in dietary factors and child anthropometric outcomes after treatment .
+OBJECTIVE	It is hypothesized that reduced consumption of food away from home will be associated with improved dietary intake and greater reductions in anthropometric outcomes ( standardized body mass index [ BMI ] and percent body fat ) , and the relationship between food away from home and anthropometric outcomes will be mediated by improved child dietary intake .
+METHODS	We conducted a longitudinal evaluation of associations between dietary changes and child anthropometric outcomes .
+METHODS	Child diet ( three 24-hour recalls ) and anthropometric data were collected at baseline and 16 weeks .
+METHODS	Participants were 170 overweight and obese children ages 7 to 11 years who completed a 16-week family-based behavioral weight-loss treatment as part of a larger multi-site randomized controlled trial conducted in two cohorts between 2010 and 2011 ( clinical research trial ) .
+METHODS	Dietary treatment targets during family-based behavioral weight-loss treatment included improving diet quality and reducing food away from home .
+METHODS	The main outcome measures in this study were child relative weight ( standardized BMI ) and body composition ( percent body fat ) .
+METHODS	We performed t tests and bootstrapped single-mediation analyses adjusting for relevant covariates .
+RESULTS	As hypothesized , decreased food away from home was associated with improved diet quality and greater reductions in standardized BMI ( P < 0.05 ) and percent body fat ( P < 0.01 ) .
+RESULTS	Associations between food away from home and anthropometric outcomes were mediated by changes in diet quality .
+RESULTS	Specifically , change in total energy intake and added sugars mediated the association between change in food away from home and standardized BMI , and change in overall diet quality , fiber , added sugars , and added fats mediated the association between change in food away from home and percent body fat .
+RESULTS	Including physical activity as a covariate did not significantly impact these findings .
+CONCLUSIONS	These results suggest that reducing food away from home can be an important behavioral target for affecting positive changes in both diet quality and anthropometric outcomes during treatment .
+

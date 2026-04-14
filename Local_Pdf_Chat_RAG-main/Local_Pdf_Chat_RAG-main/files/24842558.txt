@@ -1,0 +1,11 @@
+24842558
+BACKGROUND	Individuals with heterozygous familial hypercholesterolemia ( heFH ) have higher levels of low-density lipoprotein cholesterol ( LDL-C ) and are predisposed to premature cardiovascular disease .
+BACKGROUND	Alirocumab is a fully-human , monoclonal antibody targeted to proprotein convertase subtilisin/kexin type 9 currently in Phase 3 development for the treatment of hypercholesterolemia .
+BACKGROUND	Described here are three ODYSSEY Phase 3 trials , FH I ( NCT01623115 ) , FH II ( NCT01709500 ) and HIGH FH ( patients with heFH and LDL-C levels 160mg/dL ) ( NCT01617655 ) , in which alirocumab is further evaluated in the heFH population .
+METHODS	Multicenter , multinational , randomized , double-blind , placebo-controlled studies have been designed to evaluate efficacy and safety of alirocumab in more than 800 patients with heFH who are not adequately controlled with a maximally-tolerated stable daily dose of statin for 4weeks prior to the screening visit , with or without other lipid-lowering therapy .
+METHODS	Patients are randomized ( 2:1 ) to receive alirocumab or placebo via a 1-mL subcutaneous auto-injection every 2weeks ( Q2W ) for 78weeks .
+METHODS	In studies FH I and II , if their Week 8 LDL-C level is 70mg/dL , patients will undergo a dose uptitration from 75 to 150mg alirocumab Q2W at Week 12 .
+METHODS	In HIGH FH , patients will receive alirocumab 150mg Q2W throughout the entire treatment period .
+METHODS	The primary efficacy endpoint in all three studies is the percent change in calculated LDL-C from baseline to Week 24 .
+CONCLUSIONS	The ODYSSEY FH studies are three Phase 3 studies aiming to further evaluate the efficacy and long-term safety of alirocumab as an effective therapeutic option for patients with heFH .
+

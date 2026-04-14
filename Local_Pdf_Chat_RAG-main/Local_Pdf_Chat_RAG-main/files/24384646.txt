@@ -1,0 +1,11 @@
+24384646
+OBJECTIVE	To determine whether smaller brain volumes in older women who had completed Women 's Health Initiative ( WHI ) - assigned conjugated equine estrogen-based hormone therapy ( HT ) , reported by WHI Memory Study ( WHIMS ) - MRI , correspond to a continuing increased rate of atrophy an average of 6.1 to 7.7 years later in WHIMS-MRI2 .
+METHODS	A total of 1,230 WHI participants were contacted : 797 ( 64.8 % ) consented , and 729 ( 59 % ) were rescanned an average of 4.7 years after the initial MRI scan .
+METHODS	Mean annual rates of change in total brain volume , the primary outcome , and rates of change in ischemic lesion volumes , the secondary outcome , were compared between treatment groups using mixed-effect models with adjustment for trial , clinical site , age , intracranial volumes , and time between MRI measures .
+RESULTS	Total brain volume decreased an average of 3.22 cm ( 3 ) / y in the active arm and 3.07 cm ( 3 ) / y in the placebo arm ( p = 0.53 ) .
+RESULTS	Total ischemic lesion volumes increased in both arms at a rate of 0.12 cm ( 3 ) / y ( p = 0.88 ) .
+CONCLUSIONS	Conjugated equine estrogen-based postmenopausal HT , previously assigned at WHI baseline , did not affect rates of decline in brain volumes or increases in brain lesion volumes during the 4.7 years between the initial and follow-up WHIMS-MRI studies .
+CONCLUSIONS	Smaller frontal lobe volumes were observed as persistent group differences among women assigned to active HT compared with placebo .
+CONCLUSIONS	Women with a history of cardiovascular disease treated with active HT , compared with placebo , had higher rates of accumulation in white matter lesion volume and total brain lesion volume .
+CONCLUSIONS	Further study may elucidate mechanisms that explain these findings .
+

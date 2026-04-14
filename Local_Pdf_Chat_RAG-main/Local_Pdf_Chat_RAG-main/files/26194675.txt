@@ -1,0 +1,14 @@
+26194675
+OBJECTIVE	In the European HIT-SIOP PNET4 randomized controlled trial , children with standard risk medulloblastoma were allocated to hyperfractionated radiation therapy ( HFRT arm , including a partially focused boost ) or standard radiation therapy ( STRT arm ) , followed , in both arms , by maintenance chemotherapy .
+OBJECTIVE	Event-free survival was similar in both arms .
+OBJECTIVE	Previous work showed that the HFRT arm was associated with worse growth and better questionnaire-based executive function , especially in children < 8years of age at diagnosis .
+OBJECTIVE	Therefore , the aim of this study was to compare performance-based cognitive outcomes between treatment arms .
+METHODS	Neuropsychological data were collected prospectively in 137 patients .
+METHODS	Using the Wechsler Intelligence Scales , Kaufman Assessment Battery for Children , and Raven 's Progressive Matrices , we estimated full-scale intelligence quotient ( FSIQ ) and , when available , verbal IQ ( VIQ ) , performance IQ ( PIQ ) , working memory index ( WMI ) , and processing speed index ( PSI ) .
+RESULTS	Among the 137 participants ( HFRT arm n = 71 , STRT arm n = 66 , 63.5 % males ) , mean ( SD ) ages at diagnosis and assessment respectively were 9.3 ( 3.2 ) years of age ( 40.8 % < 8years of age at diagnosis ) and 14.6 ( 4.3 ) years of age .
+RESULTS	Mean ( SD ) FSIQ was 88 ( 19 ) , and mean intergroup difference was 3.88 ( 95 % confidence interval : -2.66 to 10.42 , P = .24 ) .
+RESULTS	No significant differences were found in children > 8years of age at diagnosis .
+RESULTS	In children < 8years of age at diagnosis , a marginally significant trend toward higher VIQ was found in those treated in the HFRT arm ; a similar trend was found for PSI but not for PIQ , WMI , or FSIQ ( mean intergroup differences were : 12.02 for VIQ [ 95 % CI : 2.37-21 .67 ; P = .02 ] ; 3.77 for PIQ [ 95 % CI : -5.19 to 12.74 ; P > .10 ] ; 5.20 for WMI [ 95 % CI : -2.07 to 12.47 ; P > .10 ] ; 10.90 for PSI [ 95 % CI : -1.54 to 23.36 ; P = .08 ] ; and 5.28 for FSIQ [ 95 % CI : -4.23 to 14.79 ; P > .10 ] ) .
+CONCLUSIONS	HFRT was associated with marginally higher VIQ in children < 8years of age at diagnosis , consistent with a previous report using questionnaire-based data .
+CONCLUSIONS	However , overall cognitive ability was not significantly different .
+

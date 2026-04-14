@@ -1,0 +1,17 @@
+25096690
+OBJECTIVE	The United States has invested substantially in screening and brief intervention for illicit drug use and prescription drug misuse , based in part on evidence of efficacy for unhealthy alcohol use .
+OBJECTIVE	However , it is not a recommended universal preventive service in primary care because of lack of evidence of efficacy .
+OBJECTIVE	To test the efficacy of 2 brief counseling interventions for unhealthy drug use ( any illicit drug use or prescription drug misuse ) - a brief negotiated interview ( BNI ) and an adaptation of motivational interviewing ( MOTIV ) - compared with no brief intervention .
+METHODS	This 3-group randomized trial took place at an urban hospital-based primary care internal medicine practice ; 528 adult primary care patients with drug use ( Alcohol , Smoking , and Substance Involvement Screening Test [ ASSIST ] substance-specific scores of 4 ) were identified by screening between June 2009 and January 2012 in Boston , Massachusetts .
+METHODS	Two interventions were tested : the BNI is a 10 - to 15-minute structured interview conducted by health educators ; the MOTIV is a 30 - to 45-minute intervention based on motivational interviewing with a 20 - to 30-minute booster conducted by master 's - level counselors .
+METHODS	All study participants received a written list of substance use disorder treatment and mutual help resources .
+METHODS	Primary outcome was number of days of use in the past 30 days of the self-identified main drug as determined by a validated calendar method at 6 months .
+METHODS	Secondary outcomes included other self-reported measures of drug use , drug use according to hair testing , ASSIST scores ( severity ) , drug use consequences , unsafe sex , mutual help meeting attendance , and health care utilization .
+RESULTS	At baseline , 63 % of participants reported their main drug was marijuana , 19 % cocaine , and 17 % opioids .
+RESULTS	At 6 months , 98 % completed follow-up .
+RESULTS	Mean adjusted number of days using the main drug at 6 months was 12 for no brief intervention vs 11 for the BNI group ( incidence rate ratio [ IRR ] , 0.97 ; 95 % CI , 0.77-1 .22 ) and 12 for the MOTIV group ( IRR , 1.05 ; 95 % CI , 0.84-1 .32 ; P = .81 for both comparisons vs no brief intervention ) .
+RESULTS	There were also no significant effects of BNI or MOTIV on any other outcome or in analyses stratified by main drug or drug use severity .
+CONCLUSIONS	Brief intervention did not have efficacy for decreasing unhealthy drug use in primary care patients identified by screening .
+CONCLUSIONS	These results do not support widespread implementation of illicit drug use and prescription drug misuse screening and brief intervention .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00876941 .
+

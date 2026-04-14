@@ -1,0 +1,14 @@
+25194408
+BACKGROUND	Clinical studies of recent years have shown that hyperuricemia is associated with poor outcomes such as cardiovascular mortality and dialysis inadequacy in patients undergoing hemodialysis .
+BACKGROUND	Our study investigated the effect of vitamin C supplementation on serum uric acid levels in hemodialysis patients .
+METHODS	This randomized placebo-controlled trial was conducted on 172 hemodialysis patients .
+METHODS	They were randomly divided into the intervention group , to receive 250 mg of vitamin C , three times per week , for 8 weeks , and control groups 1 and 2 , to receive placebo injection ( saline ) and no intervention , respectively .
+METHODS	Serum levels of uric acid and creatinine were measured at the start of the study and also after 8 weeks .
+RESULTS	The mean of serum levels of uric acid was 6.02 1.08 mg/dL ( reference range , 2.6 mg/dL to 6 mg/dL ) .
+RESULTS	Nearly , half of the patients ( 46.7 % ) had a serum level of uric acid greater than 6 mg/dL .
+RESULTS	The median baseline serum levels of uric acid were 6.2 mg/dL , 5.9 mg/dL , and 6 mg/dL in the intervention , control 1 , and control 2 groups , respectively ( P = .19 ) .
+RESULTS	After 2 months , median levels reduced significantly in the vitamin C group to 5.8 mg/dL as compared to 6.4 mg/dL and 6.3 mg/dL in control groups ( P = .02 ) .
+RESULTS	The mean serum creatinine level had no significant changes during the study .
+CONCLUSIONS	Our results demonstrated the existence of a significant negative relationship between vitamin C and serum uric acid levels .
+CONCLUSIONS	Detailed investigations with larger sample sizes and longer-term use of vitamin C are recommended .
+

@@ -1,0 +1,17 @@
+25265449
+OBJECTIVE	No effective pharmaceutical agents have yet been identified to treat acute kidney injury after cardiac surgery .
+OBJECTIVE	To determine whether fenoldopam reduces the need for renal replacement therapy in critically ill cardiac surgery patients with acute kidney injury .
+METHODS	Multicenter , randomized , double-blind , placebo-controlled , parallel-group study from March 2008 to April 2013 in 19 cardiovascular intensive care units in Italy .
+METHODS	We randomly assigned 667 patients admitted to intensive care units after cardiac surgery with early acute kidney injury ( 50 % increase of serum creatinine level from baseline or oliguria for 6 hours ) to receive fenoldopam ( 338 patients ) or placebo ( 329 patients ) .
+METHODS	We used a computer-generated permuted block randomization sequence for treatment allocation .
+METHODS	All patients completed their follow-up 30 days after surgery , and data were analyzed according to the intention-to-treat principle .
+METHODS	Continuous infusion of fenoldopam or placebo for up to 4 days with a starting dose of 0.1 g/kg/min ( range , 0.025-0 .3 g/kg/min ) .
+METHODS	The primary end point was the rate of renal replacement therapy .
+METHODS	Secondary end points included mortality ( intensive care unit and 30-day mortality ) and the rate of hypotension during study drug infusion .
+RESULTS	The study was stopped for futility as recommended by the safety committee after a planned interim analysis .
+RESULTS	Sixty-nine of 338 patients ( 20 % ) allocated to the fenoldopam group and 60 of 329 patients ( 18 % ) allocated to the placebo group received renal replacement therapy ( P = .47 ) .
+RESULTS	Mortality at 30 days was 78 of 338 ( 23 % ) in the fenoldopam group and 74 of 329 ( 22 % ) in the placebo group ( P = .86 ) .
+RESULTS	Hypotension occurred in 85 ( 26 % ) patients in the fenoldopam group and in 49 ( 15 % ) patients in the placebo group ( P = .001 ) .
+CONCLUSIONS	Among patients with acute kidney injury after cardiac surgery , fenoldopam infusion , compared with placebo , did not reduce the need for renal replacement therapy or risk of 30-day mortality but was associated with an increased rate of hypotension .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00621790 .
+

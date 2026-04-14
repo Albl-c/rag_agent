@@ -1,0 +1,10 @@
+25440798
+BACKGROUND	The tradeoff between stent thrombosis ( ST ) and major bleeding ( MB ) of 12 - versus 6-month dual antiplatelet therapy ( DAPT ) after coronary stent implantation has not been clearly defined .
+METHODS	Definite/probable ST and MB ( TIMI major and Bleeding Academic Research Consortium ( BARC ) 3 ) were compared in 2 subsequent trials with similar inclusion criteria but different DAPT duration , that is , BASKET ( 6 months ; n = 557 ) and BASKET-PROVE ( 12 months ; n = 2,314 ) , between months 0 to 6 ( DAPT in both trials ) , 7 to 12 ( DAPT in BASKET-PROVE only ) , and 13 to 24 ( aspirin in both trials ) using propensity score-adjusted , time-stratified Cox proportional hazard models .
+RESULTS	Overall , event rates were low with fewer ST but similar MB in prolonged DAPT .
+RESULTS	Analysis of the 3 periods showed a uniform pattern for ST ( interaction DAPT/period ; P = .145 ) but an inconsistent pattern for MB ( interaction DAPT/period ; P < .001 for TIMI major and P = .046 for BARC 3 ) , with more MB occurring during months 7 to 12 with prolonged DAPT .
+RESULTS	Considering observed case fatality rates of 31 % with ST and 11 % with MB , the extrapolated prevention of 27 ST deaths and the excess of 5 MB deaths resulted in an expected benefit of 22 survivors/10 ,000 patients treated over 2 years with prolonged DAPT .
+CONCLUSIONS	Despite overall low event rates , prolonged DAPT was associated with more MB during months 7 to 12 according to the interaction DAPT/period .
+CONCLUSIONS	Given the higher observed case fatality rates of ST versus MB , 12 - versus 6-month DAPT was associated with an extrapolated reduction in mortality .
+CONCLUSIONS	Effective treatment periods and case fatality rates seem important in the analysis of different DAPT durations , specifically with regard to ongoing trials .
+

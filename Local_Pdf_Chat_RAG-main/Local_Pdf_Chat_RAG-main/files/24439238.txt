@@ -1,0 +1,20 @@
+24439238
+BACKGROUND	In-patient treatment ( IP ) is the treatment setting of choice for moderately-to-severely ill adolescents with anorexia nervosa , but it is costly , and the risks of relapse and readmissions are high .
+BACKGROUND	Day patient treatment ( DP ) is less expensive and might avoid problems of relapse and readmission by easing the transition from hospital to home .
+BACKGROUND	We investigated the safety and efficacy of DP after short inpatient care compared with continued IP .
+METHODS	For this multicentre , randomised , open-label , non-inferiority trial , we enrolled female patients ( aged 11-18 years ) with anorexia nervosa from six centres in Germany .
+METHODS	Patients were eligible if they had a body-mass index ( BMI ) below the tenth percentile and it was their first admission to hospital for anorexia nervosa .
+METHODS	We used a computer-generated randomisation sequence to randomly assign patients to continued IP or DP after 3 weeks of inpatient care ( 1:1 ; stratified for age and BMI at admission ) .
+METHODS	The treatment programme and treatment intensity in both study groups were identical .
+METHODS	The primary outcome was the increase in BMI between the time of admission and a 12-month follow-up adjusted for age and duration of illness ( non-inferiority margin of 075 kg/m ( 2 ) ) .
+METHODS	Analysis was done by modified intention to treat .
+METHODS	This trial is registered with the International Standard Randomised Controlled Trial Number Register , number ISRCTN67783402 , and the Deutsches Register Klinischer Studien , number DRKS00000101 .
+RESULTS	Between Feb 2 , 2007 , to April 27 , 2010 , we screened 660 patients for eligibility , 172 of whom we randomly allocated to treatment : 85 to IP and 87 to DP .
+RESULTS	DP was non-inferior to IP with respect to the primary outcome , BMI at the 12-month follow-up ( mean difference 046 kg/m ( 2 ) in favour of DP ( 95 % CI , -011 to 102 ; pnon-inferiority < 00001 ) .
+RESULTS	The number of treatment-related serious adverse events was similar in both study groups ( eight in the IP group , seven in the DP group ) .
+RESULTS	Three serious adverse events in the IP group and two in the DP group were related to suicidal ideation ; one patient in the DP attempted suicide 3 months after she was discharged .
+CONCLUSIONS	DP after short inpatient care in adolescent patients with non-chronic anorexia nervosa seems no less effective than IP for weight restoration and maintenance during the first year after admission .
+CONCLUSIONS	Thus , DP might be a safe and less costly alternative to IP .
+CONCLUSIONS	Our results justify the broad implementation of this approach .
+BACKGROUND	German Ministry for Education and Research .
+

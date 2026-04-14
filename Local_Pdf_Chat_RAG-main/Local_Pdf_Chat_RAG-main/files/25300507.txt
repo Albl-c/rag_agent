@@ -1,0 +1,13 @@
+25300507
+OBJECTIVE	The aim of this study was to evaluate the cost effectiveness of ranibizumab compared with verteporfin photodynamic therapy ( vPDT ) or no treatment ( observation ) in patients with visual impairment due to myopic choroidal neovascularization ( CNV ) .
+METHODS	A Markov model with health states defined by best-corrected visual acuity and a 3-month cycle length was developed .
+METHODS	It had a healthcare provider ( UK National Health Service and personal social services ) perspective , a lifetime time horizon , and was based on 2011 prices ; future costs and health outcomes were discounted at 3.5 % per annum .
+METHODS	Baseline characteristics were based on the phase III RADIANCE ( Ranibizumab and vPDT Evaluation in Myopic CNV ) study , and year 1 health-state transitions were based on this and the VIP ( Verteporfin in Photodynamic Therapy ) study .
+METHODS	Extensive sensitivity analyses tested the robustness of the model .
+RESULTS	The lifetime cost of treating myopic CNV with ranibizumab was 12,866 , whereas vPDT and observation were associated with total costs of 14,421 and 8,163 , respectively .
+RESULTS	Ranibizumab treatment produced higher cumulative quality-adjusted life-years ( QALYs ; 12.99 ) than vPDT ( 12.60 ) or observation ( 12.45 ) .
+RESULTS	Ranibizumab treatment was therefore dominant , with greater health gains and lower overall costs than vPDT .
+RESULTS	Ranibizumab was cost effective compared with observation , with an incremental cost-effectiveness ratio of 8,778 / QALY .
+RESULTS	In the probabilistic sensitivity analysis , ranibizumab had a 100 % and 88 % probability of being cost effective compared with vPDT and observation , respectively , at a willingness-to-pay threshold of 20,000 / QALY .
+CONCLUSIONS	This study indicates that ranibizumab therapy is dominant over vPDT for the treatment of visual impairment due to CNV secondary to pathologic myopia in the UK healthcare setting and cost effective compared with observation .
+

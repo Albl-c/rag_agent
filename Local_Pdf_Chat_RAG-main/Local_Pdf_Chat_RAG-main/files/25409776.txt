@@ -1,0 +1,19 @@
+25409776
+BACKGROUND	Depression accounts for the greatest disease burden of all mental health disorders , contributes heavily to healthcare costs , and by 2020 is set to become the second largest cause of global disability .
+BACKGROUND	Although 10 % to 16 % of people aged 65 years and over are likely to experience depressive symptoms , the condition is under-diagnosed and often inadequately treated in primary care .
+BACKGROUND	Later-life depression is associated with chronic illness and disability , cognitive impairment and social isolation .
+BACKGROUND	With a progressively ageing population it becomes increasingly important to refine strategies to identity and manage depression in older people .
+BACKGROUND	Currently , management may be limited to the prescription of antidepressants where there may be poor concordance ; older people may lack awareness of psychosocial interventions and general practitioners may neglect to offer this treatment option .
+METHODS	CASPER Plus is a multi-centre , randomised controlled trial of a collaborative care intervention for individuals aged 65 years and over experiencing moderate to severe depression .
+METHODS	Selected practices in the North of England identify potentially eligible patients and invite them to participate in the study .
+METHODS	A diagnostic interview is carried out and participants with major depressive disorder are randomised to either collaborative care or usual care .
+METHODS	The recruitment target is 450 participants .
+METHODS	The intervention , behavioural activation and medication management in a collaborative care framework , has been adapted to meet the complex needs of older people .
+METHODS	It is delivered over eight to 10 weekly sessions by a case manager liaising with general practitioners .
+METHODS	The trial aims to evaluate the clinical and cost effectiveness of collaborative care in addition to usual GP care versus usual GP care alone .
+METHODS	The primary clinical outcome , depression severity , will be measured with the Patient Health Questionnaire-9 ( PHQ-9 ) at baseline , 4 , 12 and 18 months .
+METHODS	Cost effectiveness analysis will assess health-related quality of life using the SF-12 and EQ-5D and will examine cost-consequences of collaborative care .
+METHODS	A qualitative process evaluation will be undertaken to explore acceptability , gauge the extent to which the intervention is implemented and to explore sustainability beyond the clinical trial .
+CONCLUSIONS	Results will add to existing evidence and a positive outcome may lead to the commissioning of this model of service in primary care .
+BACKGROUND	ISRCTN45842879 ( 24 July 2012 ) .
+

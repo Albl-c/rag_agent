@@ -1,0 +1,14 @@
+25514079
+OBJECTIVE	This study aimed to compare the clinical and radiographic success of preveneered posterior NuSmile and Kinder Krowns over one year and to assess the level of parental satisfaction with their esthetics .
+METHODS	Three trained operators placed 120 crowns in a split-mouth design with a random allocation for 36 participants ( mean age : 5.8 years ) who received two , four , six , or eight crowns .
+METHODS	Blind assessment of the clinical and radiographic performance of the restorations was performed by four calibrated examiners after one year .
+METHODS	Results were analyzed by Fisher 's exact test and McNemar test .
+METHODS	Examiner reliability was determined by Cohen 's kappa score .
+METHODS	Visual analogue scale ( VAS ) was used to assess the level of parental satisfaction .
+RESULTS	All crowns but one were retained , and the majority ( 83 percent ) had no facing fractures .
+RESULTS	Parental satisfaction was high ( 9.4 / 10 on the VAS ) .
+RESULTS	Primary maxillary first molar crowns had more occlusal facing fractures than their mandibular counterparts ( P = .02 ) .
+RESULTS	Primary mandibular second molar crowns showed more facing fractures than their maxillary counterparts ( P = .008 ) .
+RESULTS	Both types showed no statistical difference in most categories , but Kinder Krowns had more facing fractures ( P < .02 ) .
+CONCLUSIONS	Posterior preveneered crowns have predictable durability at 12 months while offering natural appearance to restored teeth .
+

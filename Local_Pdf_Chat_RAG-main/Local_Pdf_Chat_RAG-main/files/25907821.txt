@@ -1,0 +1,18 @@
+25907821
+BACKGROUND	The simultaneous presence of cancer and other medical conditions ( comorbidity ) is frequent .
+BACKGROUND	Cigarette smoking is the major risk factor for as well head and neck cancer ( HNC ) and lung cancer ( LC ) as chronic obstructive pulmonary disease ( COPD ) .
+BACKGROUND	COPD is the most common comorbidity in LC patients , and presence of COPD worsens the prognosis of HNC and LC .
+BACKGROUND	COPD is under-diagnosed and under-treated in the Danish population .
+BACKGROUND	The aims of this study were to determine the prevalence of COPD in a HNC and LC population , and to determine the need and feasibility of a randomized controlled phase II trial comparing usual care with optimized medical treatment of COPD in cancer patients .
+METHODS	All patients with HNC or LC referred for oncologic treatment in a university hospital during a 10-month period were invited to attend a pulmonary clinic for evaluation of lung function .
+METHODS	Patients who were found to have concomitant COPD were randomized to intervention or usual care .
+METHODS	Primary endpoints were prevalence of COPD among the referred patients with either LC or HNC , and further whether the patients that were diagnosed with COPD already received treatment in accordance with Danish COPD guidelines .
+METHODS	Secondary outcome was feasibility , i.e. the proportion of eligible patients that accepted follow-up in the pulmonary clinic for 24 weeks in addition to oncological treatment .
+METHODS	The design of the randomized trail is described in detail .
+RESULTS	In total 130 patients of whom 65 % had LC and 35 % HNC have been screened during the first seven months of this ongoing trial .
+RESULTS	Sixty-eight percent of LC patients and 22 % of HNC patients had COPD .
+RESULTS	All but one of 68 eligible patients accepted randomization .
+RESULTS	Nearly one third ( 31 % ) of the LC and HNC patients with COPD were diagnosed prior to study entry , and of these , only 33 % were receiving correct treatment according to current guidelines .
+CONCLUSIONS	For patients with LC , and to a lesser extend HNC , there is a need for improved diagnosis and treatment of concomitant COPD .
+CONCLUSIONS	Furthermore , patients found it acceptable to be scheduled for a 24-week follow-up in a pulmonary clinic along with their oncological treatment .
+

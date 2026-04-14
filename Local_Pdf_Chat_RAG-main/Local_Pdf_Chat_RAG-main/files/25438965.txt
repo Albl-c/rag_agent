@@ -1,0 +1,14 @@
+25438965
+OBJECTIVE	Completion rate for the three-dose series of the human papillomavirus ( HPV ) vaccine has generally been low .
+OBJECTIVE	This study evaluated the effectiveness of a reminder letter intervention on HPV vaccine three-dose series completion .
+METHODS	Female members of Kaiser Permanente Southern California Health Plan who received at least one dose , but not more than two doses , of the HPV vaccine by February 13 , 2013 , and who were between ages 9 and 26 years at the time of first HPV vaccination were included .
+METHODS	Eighty percent of these females were randomized to receive the reminder letter , and 20 % were randomized to receive standard of care ( control ) .
+METHODS	The reminder letters were mailed quarterly to those who had not completed the series .
+METHODS	The proportion of series completion at the end of the 12-month evaluation period was compared using chi-square test .
+RESULTS	A total of 9,760 females were included in the intervention group and 2,445 in the control group .
+RESULTS	HPV vaccine series completion was 56.4 % in the intervention group and 46.6 % in the control groups ( p < .001 ) .
+RESULTS	The effect of the intervention appeared to be stronger in girls aged 9-17years compared with young women aged 18-26years at the first dose and in blacks compared with whites .
+CONCLUSIONS	Reminder letters scheduled quarterly were effective to enhance HPV vaccine series completion among those who initiated the vaccine .
+CONCLUSIONS	However , a large gap in series completion remained despite the intervention .
+CONCLUSIONS	Future studies should address other barriers to series completion , including those at the providers and the health care system level .
+

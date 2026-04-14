@@ -1,0 +1,14 @@
+25419883
+BACKGROUND	Exercise-induced cough ( EIC ) is frequently reported by winter athletes , but this symptom is not always associated with exercise-induced bronchoconstriction ( EIB ) .
+BACKGROUND	The aims of this study were to determine if EIC can be inhibited or reduced with the inhalation of ipratropium , and if EIC in winter athletes is associated with EIB .
+METHODS	On 2 visits , 24 cross-country skiers ( 10 males and 12 females , mean age 17 3 years ) performed an outdoor exercise in the winter ( 30-minute warm-up , followed by a 3-minute sprint ) , randomly preceded by the inhalation of ipratropium or a placebo .
+METHODS	A spirometry was done at baseline and 20 minutes after inhalation of ipratropium or placebo .
+METHODS	Exercise was then performed , followed by the measurement of forced expiratory volume in 1 second and the recording of the number of coughs until 60 minutes after exercise .
+METHODS	Before and after exercise , the perception of cough intensity was evaluated using a modified Borg scale .
+RESULTS	Twelve of 16 athletes who completed the study ( 75 % ) were symptomatic following exercise with placebo ( number of coughs 5 ) , but none developed EIB .
+RESULTS	For these athletes , the number of coughs after exercise ( mean number of coughs standard deviation : placebo , 26 14 ; ipratropium , 25 23 ; P value , nonsignificant ) and the maximal perception score for cough intensity ( mean Borg score standard deviation : placebo , 1.9 1.2 ; ipratropium , 2.0 1.1 ; P value , nonsignificant ) were not significantly different between ipratropium and placebo .
+RESULTS	A decrease in the number of coughs was observed in 6 of the symptomatic athletes and an increase was observed in the other 6 , resulting in a nonsignificant mean effect .
+CONCLUSIONS	Ipratropium does not appear to significantly influence the number and the perception of cough following exercise .
+CONCLUSIONS	Moreover , these results suggest that EIC is not mainly associated with EIB .
+CONCLUSIONS	However , a subgroup of athletes seems to show a beneficial response to ipratropium , suggesting different cough responses in this population .
+

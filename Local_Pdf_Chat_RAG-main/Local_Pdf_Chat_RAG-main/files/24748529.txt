@@ -1,0 +1,11 @@
+24748529
+OBJECTIVE	Exercise at 50-60 % of peak oxygen consumption ( VO2 peak ) stimulates maximal fat oxidation rates .
+OBJECTIVE	Despite a lower estimated work performed ; high-intensity intermittent exercise ( HIIE ) training produces greater fat mass reductions when compared with workload-matched continuous ( CON ) steady state exercise .
+OBJECTIVE	No metabolic basis has been documented nor mechanisms offered to explain this anomaly .
+OBJECTIVE	This study investigated the physiological and metabolic responses of two different workload-matched exercise protocols .
+METHODS	On separate occasions and at least 1week apart , eight apparently healthy males cycled for 30min at either 50 % VO2 peak ( CON ) or performed repeated 20s bouts of supramaximal exercise at 150 % VO2 peak separated by 40s rest ( HIIE ) .
+RESULTS	The average heart rate , oxygen consumption , plasma glycerol and free fatty acid concentrations were not different during exercise and recovery between the trials .
+RESULTS	Plasma lactate and hypoxanthine ( Hx ) concentrations were elevated and urinary excretion rates of Hx and uric acid were greater following HIIE as compared to CON ( P < 0.05 ) .
+CONCLUSIONS	Exercise-induced plasma Hx accumulation and urinary purine excretion are greater following HIIE and indirectly represents a net loss of adenosine triphosphate ( ATP ) from the muscle .
+CONCLUSIONS	The subsequent restorative processes required for intramuscular de novo replacement of ATP may contribute to a negative energy balance and in part , account for the potential accelerated fat loss observed with HIIE when compared with CON training programs .
+

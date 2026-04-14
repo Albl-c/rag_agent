@@ -1,0 +1,14 @@
+24603110
+OBJECTIVE	To evaluate the safety and feasibility of percutaneous tract dilation by the one-stage method in preschool children .
+METHODS	Between April 2009 and February 2013 , all preschool ( < 6 years ) children who were candidates for percutaneous nephrolithotomy were enrolled in this prospective study .
+METHODS	Patients were randomly assigned to dilation by serial metallic dilators ( group I , 31 patients ) or dilation by one-stage Amplatz according to Frattini et al. [ J Endourol 2001 ; 15:919 -923 ] ( group II , 31 patients ) .
+METHODS	The primary endpoint of interest was fluoroscopy time .
+METHODS	Secondary endpoints included tract creation and dilation time , success rate and complications .
+METHODS	Stone-free status was defined as residuals 3 mm .
+RESULTS	Age , stone size , operation success and operation time were not significantly different between the studied groups .
+RESULTS	The most common stone composition was calcium oxalate in both groups .
+RESULTS	The mean standard deviation of access and fluoroscopy times in groups I and II were 7.3 1.2 min vs. 5.9 1.5 min ( p > 0.05 ) and 70.0 8.9 s vs. 22.0 5.6 s ( p < 0.001 ) , respectively .
+RESULTS	Postoperative complications included one case of postoperative fever lasting less than 48 h in group I.
+CONCLUSIONS	Percutaneous tract dilation by the one-stage method is safe and effective .
+CONCLUSIONS	Also , it is associated with considerably less radiation exposure in preschool children .
+

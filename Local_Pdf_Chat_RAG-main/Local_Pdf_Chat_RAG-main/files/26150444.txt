@@ -1,0 +1,15 @@
+26150444
+OBJECTIVE	To determine the efficacy of consolidation chemotherapy ( CC ) with docetaxel and cisplatin ( DP ) after concurrent chemoradiotherapy ( CCRT ) with the same agents in locally advanced non-small-cell lung cancer ( LA-NSCLC ) .
+METHODS	Patients were randomly assigned to either CCRT alone ( observation arm ) or CCRT followed by CC ( consolidation arm ) .
+METHODS	CCRT with docetaxel ( 20 mg/m ( 2 ) ) and cisplatin ( 20 mg/m ( 2 ) ) was administered every week for 6 weeks with a total dose of 66 Gy of thoracic radiotherapy in 33 fractions .
+METHODS	In the consolidation arm , patients were further treated with three cycles of DP ( 35 mg/m ( 2 ) each on days 1 and 8 , every 3 weeks ) .
+METHODS	The primary end point was 40 % improvement in progression-free survival ( PFS ) compared with observation .
+RESULTS	From October 2005 to April 2011 , 437 patients were randomly assigned .
+RESULTS	Seventeen patients did not start CCRT as a result of consent withdrawal or ineligibility reasons after random assignment , leaving 420 patients for this analysis ( n = 211 for observation ; n = 209 for consolidation ) .
+RESULTS	Patient characteristics were similar in both arms .
+RESULTS	In the consolidation arm , 143 patients ( 68 % ) received CC , of whom 88 ( 62 % ) completed three planned cycles .
+RESULTS	The median PFS was 8.1 months in the observation arm and 9.1 months in the consolidation arm ( hazard ratio , 0.91 ; 95 % CI , 0.73 to 1.12 ; P = .36 ) .
+RESULTS	Median overall survival times were 20.6 and 21.8 months in the observation and consolidation arms , respectively ( HR , 0.91 ; 95 % CI , 0.72 to 1.25 ; P = .44 ) .
+CONCLUSIONS	CC with DP after CCRT with weekly DP in LA-NSCLC failed to further prolong PFS .
+CONCLUSIONS	CCRT alone should remain the standard of care .
+

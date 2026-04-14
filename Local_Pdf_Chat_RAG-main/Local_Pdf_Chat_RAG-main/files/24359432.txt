@@ -1,0 +1,13 @@
+24359432
+BACKGROUND	Diabetes mellitus is an increasingly prevalent metabolic disorder that is associated with substantial disease burden .
+BACKGROUND	Australia has an opportunity to improve ways of caring for the growing number of people with diabetes , but this may require changes to the way care is funded , organised and delivered .
+BACKGROUND	To inform how best to care for people with diabetes , and to identify the extent of change that is required to achieve this , the Diabetes Care Project ( DCP ) will evaluate the impact of two different , evidence-based models of care ( compared to usual care ) on clinical quality , patient and provider experience , and cost .
+METHODS	The DCP uses a pragmatic , cluster randomised controlled trial design .
+METHODS	Accredited general practices that are situated within any of the seven Australian Medicare Locals/Divisions of General Practice that have agreed to take part in the study were invited to participate .
+METHODS	Consenting practices will be randomly assigned to one of three treatment groups for approximately 18 to 22 months : ( a ) control group ( usual care ) ; ( b ) Intervention 1 ( which tests improvements that could be made within the current funding model , facilitated through the use of an online chronic disease management network ) ; or ( c ) Intervention 2 ( which includes the same components as Intervention 1 , as well as altered funding to support voluntary patient registration with their practice , incentive payments and a care facilitator ) .
+METHODS	Adult patients who attend the enrolled practices and have established ( 12 month 's duration ) type 1 diabetes mellitus or newly diagnosed or established type 2 diabetes mellitus are invited to participate .
+METHODS	Multiple outcomes will be studied , including changes in glycosylated haemoglobin ( primary outcome ) , changes in other biochemical and clinical metrics , incidence of diabetes-related complications , quality of life , clinical depression , success of tailored care , patient and practitioner satisfaction , and budget sustainability .
+CONCLUSIONS	This project responds to a need for robust evidence of the clinical and economic effectiveness of coordinated care for the management of diabetes in the Australian primary care setting .
+CONCLUSIONS	The outcomes of the study will have implications not only for diabetes management , but also for the management of other chronic diseases , both in Australia and overseas .
+BACKGROUND	Australian New Zealand Clinical Trials Registry ( ACTRN12612000363886 ) ; World Health Organisation ( U1111-1128-0481 ) .
+

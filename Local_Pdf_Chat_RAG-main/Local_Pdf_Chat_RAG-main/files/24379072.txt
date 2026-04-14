@@ -1,0 +1,13 @@
+24379072
+OBJECTIVE	To investigate biochemically whether total intravenous anesthesia ( TIVA ) using propofol creates a risk for Propofol Infusion Syndrome ( PRIS ) .
+METHODS	Forty patients scheduled for thyroid gland surgery were randomly assigned into Group T or C and premedicated 30 min before operation .
+METHODS	Group T received remifentanyl hydrochloride , propofol infusion following anesthesia induction with propofol , vecuronium bromide and intubation .
+METHODS	Group C received remifentanyl hydrochloride infusion , 1-1 .5 MAC desflurane inhalation following anesthesia induction with thiopental , vecuronium bromide and intubation .
+METHODS	Patients were respired 50 % O2-air mixture .
+METHODS	Blood gas , potassium , lactic acid , CK-MB , myoglobin , troponin I , total carnitine , triglyceride , creatinine concentrations were determined before operation , at intraoperative hour-2 , postoperative hour-6 .
+RESULTS	There were no significant differences between groups in potassium , lactic acid CK-MB , myoglobin , total carnitine or creatinine levels .
+RESULTS	Triglyceride level at intraoperative hour-2 increased in Group T , decreased at postoperative hour-6 .
+RESULTS	Troponin I was higher in Group C than Group T at intraoperative hour-2 ( p < 0.05 ) .
+RESULTS	No asystole , bradycardia , arrhythmia , hypotension or change in urine color was detected .
+CONCLUSIONS	The present biochemical findings suggest that TIVA using propofol is safe .
+

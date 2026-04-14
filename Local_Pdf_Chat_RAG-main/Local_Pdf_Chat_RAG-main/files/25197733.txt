@@ -1,0 +1,10 @@
+25197733
+OBJECTIVE	To examine the effect of chocobar ice cream containing bifidobacteria on salivary mutans streptococci and lactobacilli .
+METHODS	A double-blind , randomised controlled trial was conducted with 30 subjects ( 18 to 22 years of age ) divided into 2 groups , test ( chocobar ice cream with probiotics ) and control ( chocobar ice cream without probiotics ) .
+METHODS	The subjects were instructed to eat the allotted chocobar ice cream once daily for 18 days .
+METHODS	Saliva samples collected at intervals were cultured on Mitis Salivarius agar and Rogosa agar and examined for salivary mutans streptococci and lactobacilli , respectively .
+METHODS	The Mann-Whitney U-test , Friedman and Wilcoxon signed-rank tests were used for statistical analysis .
+RESULTS	Postingestion in the test group , a statistically significant reduction ( p < 0.05 ) of salivary mutans streptococci was recorded , but a non-significant trend was seen for lactobacilli .
+RESULTS	Significant differences were was also observed between follow-ups .
+CONCLUSIONS	Short-term daily ingestion of ice cream containing probiotic bifidobacteria may reduce salivary levels of mutans streptococci in young adults .
+

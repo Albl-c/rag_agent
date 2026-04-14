@@ -1,0 +1,10 @@
+24898680
+BACKGROUND	The purpose of the PROLUCA study is to investigate the efficacy of preoperative and early postoperative rehabilitation in a non-hospital setting in patients with operable lung cancer with special focus on exercise .
+METHODS	Using a 2 x 2 factorial design with continuous effect endpoint ( Maximal Oxygen Uptake ( VO2peak ) ) , 380 patients with non-small cell lung cancer ( NSCLC ) stage I-IIIa referred for surgical resection will be randomly assigned to one of four groups : ( 1 ) preoperative and early postoperative rehabilitation ( starting two weeks after surgery ) ; ( 2 ) preoperative and late postoperative rehabilitation ( starting six weeks after surgery ) ; ( 3 ) early postoperative rehabilitation alone ; ( 4 ) today 's standard care which is postoperative rehabilitation initiated six weeks after surgery .
+METHODS	The preoperative rehabilitation program consists of an individually designed , 30-minute home-based exercise program performed daily .
+METHODS	The postoperative rehabilitation program consists of a supervised group exercise program comprising cardiovascular and resistance training two-hour weekly for 12 weeks combined with individual counseling .
+METHODS	The primary study endpoint is VO2peak and secondary endpoints include : Six-minute walk distance ( 6MWD ) , one-repetition-maximum ( 1RM ) , pulmonary function , patient-reported outcomes ( PROs ) on health-related quality of life ( HRQoL ) , symptoms and side effects of the cancer disease and the treatment of the disease , anxiety , depression , wellbeing , lifestyle , hospitalization time , sick leave , work status , postoperative complications ( up to 30 days after surgery ) and survival .
+METHODS	Endpoints will be assessed at baseline , the day before surgery , pre-intervention , post-intervention , six months after surgery and one year after surgery .
+CONCLUSIONS	The results of the PROLUCA study may potentially contribute to the identification of the optimal perioperative rehabilitation for operable lung cancer patients focusing on exercise initiated immediately after diagnosis and rehabilitation shortly after surgery .
+BACKGROUND	NCT01893580 .
+

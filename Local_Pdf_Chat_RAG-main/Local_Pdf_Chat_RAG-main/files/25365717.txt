@@ -1,0 +1,19 @@
+25365717
+METHODS	A retrospective radiographical study .
+OBJECTIVE	To construct a predictive model for pelvic tilt ( PT ) based on the sacrofemoral-pubic ( SFP ) angle in patients with thoracolumbar kyphosis secondary to ankylosing spondylitis ( or AS ) .
+BACKGROUND	PT is a key pelvic parameter in the regulation of spine sagittal alignment that can be used to plan the appropriate osteotomy angle in patients with AS with thoracolumbar kyphosis .
+BACKGROUND	However , it could be difficult to measure PT in patients with femoral heads poorly visualized on lateral radiographs .
+BACKGROUND	Previous studies showed that the SFP angle could be used to evaluate PT in adult patients with scoliosis .
+BACKGROUND	However , this method has not been validated in patients with AS .
+METHODS	A total of 115 patients with AS with thoracolumbar kyphosis were included .
+METHODS	Full-length anteroposterior and lateral spine radiographs were all available , with spinal and pelvic anatomical landmarks clearly identified .
+METHODS	PT , SFP angle , and global kyphosis were measured .
+METHODS	The patients were randomly divided into group A ( n = 65 ) and group B ( n = 50 ) .
+METHODS	In group A , the predictive model for PT was constructed by the results of the linear regression analysis .
+METHODS	In group B , the predictive ability and accuracy of the predictive model were investigated .
+RESULTS	In group A , the Pearson correlation analysis revealed a strong correlation between the SFP angle and PT ( r = 0.852 ; P < 0.001 ) .
+RESULTS	The predictive model for PT was constructed as PT = 72.3-0 .82 ( SFP angle ) .
+RESULTS	In group B , PT was predicted by the model with a mean error of 4.6 ( SD = 4.5 ) with a predictive value of 78 % .
+CONCLUSIONS	PT can be accurately predicted by the SFP angle using the current model : PT = 72.3-0 .82 ( SFP angle ) , when the femur heads are poorly visualized on lateral radiographs in patients with AS with thoracolumbar kyphosis .
+METHODS	4 .
+

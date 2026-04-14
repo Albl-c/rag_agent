@@ -1,0 +1,14 @@
+25831464
+BACKGROUND	Few randomized clinical trials have investigated antiretroviral regimens in very advanced HIV-1-infected patients .
+BACKGROUND	The objective was to study the immune reconstitution in very immunosuppressed antiretroviral-naive , HIV-1-infected individuals by comparing an efavirenz-based regimen with 2 ritonavir-boosted protease inhibitor regimens .
+METHODS	Randomized , controlled , open-label , multicenter clinical trial .
+METHODS	Eighty-nine HIV-1-infected antiretroviral-naive patients with < 100 CD4 cells per cubic millimeter were randomly assigned in a 1:1:1 ratio to efavirenz ( n = 29 ) , atazanavir/ritonavir ( n = 30 ) , or lopinavir/ritonavir ( n = 30 ) combined with tenofovir plus emtricitabine .
+METHODS	The primary outcome was median increase in CD4 cell count at week 48 .
+METHODS	Secondary end points were the proportion of patients with HIV-1 RNA < 50 copies per milliliter , adverse events , disease progression , and death .
+RESULTS	In the on-treatment analysis , the median ( interquartile range ) increase in the CD4 count after 48 weeks was +193 ( 129-349 ) cells per microliter in the efavirenz arm , +197 ( 146-238 ) cells per microliter in the ritonavir-boosted atazanavir arm , and +205 ( 178-327 ) cells per microliter in the ritonavir-boosted lopinavir arm ( P = 0.73 ) .
+RESULTS	The percentage of patients achieving viral suppression was similar in all 3 treatment arms at 48 weeks { efavirenz , 85.71 % [ 95 % confidence interval ( CI ) : 68.5 to 94.3 ] ; atazanavir , 80 % [ 95 % CI : 62.7 to 90.5 ] ; and lopinavir , 82.8 % [ 95 % CI : 65.5 to 92.4 ] ; P = 0.88 } .
+RESULTS	Bacterial translocation , inflammation , immune activation , and apoptotic markers , but not D-dimer , declined significantly and similarly in the 3 treatment arms .
+RESULTS	Adverse events had a similar incidence in all 3 antiretroviral regimens .
+RESULTS	No patients died .
+CONCLUSIONS	The immune reconstitution induced by an efavirenz-based regimen in very advanced HIV-1-infected patients was similar to that induced by a ritonavir-boosted protease inhibitor-based regimen ( ClinicalTrials.gov registration number : NCT00532168 ) .
+

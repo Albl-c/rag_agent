@@ -1,0 +1,17 @@
+25127697
+OBJECTIVE	To measure choroidal thickness on spectral-domain optical coherence tomography ( SD OCT ) images using automated algorithms and to correlate choroidal pathology with retinal changes attributable to diabetic macular edema ( DME ) .
+METHODS	Post hoc analysis of multicenter clinical trial baseline data .
+METHODS	SD OCT raster scans/fluorescein angiograms were obtained from 284 treatment-nave eyes of 142 patients with clinically significant DME and from 20 controls .
+METHODS	Three-dimensional ( 3D ) SD OCT images were evaluated by a certified independent reading center analyzing retinal changes associated with diabetic retinopathy .
+METHODS	Choroidal thicknesses were analyzed using a fully automated algorithm .
+METHODS	Angiograms were assessed manually .
+METHODS	Multiple endpoint correction according to Bonferroni-Holm was applied .
+METHODS	Main outcome measures were average retinal/choroidal thickness on fovea-centered or peak of edema ( thickest point of edema ) - centered Early Treatment Diabetic Retinopathy Study grid , maximum area of leakage , and the correlation between retinal and choroidal thicknesses .
+RESULTS	Total choroidal thickness is significantly reduced in DME ( 175 23 m ; P = .0016 ) and nonedematous fellow eyes ( 177 20 m ; P = .009 ) of patients compared with healthy control eyes ( 190 23 m ) .
+RESULTS	Retinal/choroidal thickness values showed no significant correlation ( 1-mm : P = .27 , r ( 2 ) = 0.01 ; 3-mm : P = .96 , r ( 2 ) < 0.0001 ; 6-mm : P = .42 , r ( 2 ) = 0.006 ) .
+RESULTS	No significant difference was found in the 1 - or 3-mm circle of a retinal peak of edema-centered grid .
+RESULTS	All other measurements of choroidal/retinal thickness ( DME vs healthy , DME vs peak of edema-centered , DME vs fellow , healthy vs fellow , peak of edema-centered vs healthy , peak of edema-centered vs fellow eyes ) were compared but no statistically significant correlation was found .
+RESULTS	By tendency a thinner choroid correlates with larger retinal leakage areas .
+CONCLUSIONS	Automated algorithms can be used to reliably assess choroidal thickness in eyes with DME .
+CONCLUSIONS	Choroidal thickness was generally reduced in patients with diabetes if DME is present in 1 eye ; however , no correlation was found between choroidal/retinal pathologies , suggesting different pathogenetic pathways .
+

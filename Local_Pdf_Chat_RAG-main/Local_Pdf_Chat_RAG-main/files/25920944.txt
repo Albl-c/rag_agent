@@ -1,0 +1,12 @@
+25920944
+OBJECTIVE	To investigate whether different study-to-participant communication methods increase response , increase response from hard-to-engage individuals , and influence participants ' consent decisions .
+METHODS	A randomized controlled trial within the Avon Longitudinal Study of Parents and Children .
+METHODS	Cohort members were invited to re-enroll at age 18 and consent to linkage to their health and administrative records .
+METHODS	Participants were randomized to receive one of eight combinations of three interventions : a prior-notification postcard or no contact , a standard or professionally designed consent pack , and a phone or postal reminder .
+METHODS	The primary outcome was return of the consent form ( `` response '' ) , with consent decision being the secondary outcome .
+RESULTS	Of 1,950 participants , 806 ( 41 % ) responded .
+RESULTS	Response rates were 2.7 % higher ( 95 % confidence interval : -0.06 , 5.5 % ; P = 0.06 ) among those receiving designed packs than among those receiving standard packs and 6.4 % higher ( 2.3 , 10.6 % ; P = 0.002 ) among those receiving phone reminders ( compared with postal reminders ) .
+RESULTS	The prior-notification postcard did not influence response rates [ difference = 0 % ( -2.8 , 2.8 % ; P = 1.0 ) ] , and we found no evidence that the communication method influenced consent decision .
+CONCLUSIONS	This trial provides evidence that communication material design can influence response rates and that phone reminders have superior cost/benefit returns over designed materials .
+CONCLUSIONS	Experimental evaluation of communications strategies and dissemination of findings may benefit cohort studies .
+

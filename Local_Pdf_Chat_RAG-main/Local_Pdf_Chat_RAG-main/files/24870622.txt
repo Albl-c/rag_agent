@@ -1,0 +1,14 @@
+24870622
+OBJECTIVE	Autonomic nervous system dysfunction has been implicated in visceral hypersensitivity .
+OBJECTIVE	However , the specific contribution of the parasympathetic nervous system ( PNS ) is unclear .
+OBJECTIVE	We aimed to determine whether physiological and pharmacological manipulation of parasympathetic tone influences the development of hypersensitivity in a validated model of acid-induced oesophageal pain .
+METHODS	Prior to , and following , a 30-min distal oesophageal infusion of 0.15 M hydrochloric acid , pain thresholds to electrical stimulation were determined in the proximal non-acid exposed oesophagus in healthy subjects .
+METHODS	Validated sympathetic ( skin conductance response ) and parasympathetic ( cardiac vagal tone ) parameters were measured at baseline and continuously thereafter .
+METHODS	In study 1 , 55 subjects were randomised in a pragmatic blinded crossover design to receive deep breathing or un-paced breathing during acid infusion .
+METHODS	In study 2 , 32 subjects were randomised in a blinded , crossover design to receive intravenous atropine or placebo ( saline ) with deep breathing during acid infusion .
+RESULTS	Study 1 : Deep breathing increased cardiac vagal tone ( 2.12.3 vs -0.32.3 , p = 0.0006 ) with concomitant withdrawal of skin conductance response ( -0.64.9 vs 34.8 , p = 0.03 ) in comparison with un-paced breathing .
+RESULTS	Deep breathing prevented the development of acid-induced oesophageal hypersensitivity in comparison with sham breathing ( p = 0.0001 ) .
+RESULTS	Study 2 : Atropine , in comparison with placebo , blocked the attenuating effect of deep breathing on the development of acid-induced oesophageal hypersensitivity ( p = 0.046 ) .
+CONCLUSIONS	The development of oesophageal hyperalgesia is prevented by physiologically increasing parasympathetic tone .
+CONCLUSIONS	This effect is pharmacologically blocked with atropine , providing evidence that the PNS influences the development of oesophageal pain hypersensitivity .
+

@@ -1,0 +1,14 @@
+24385269
+OBJECTIVE	High rates of ischemic stroke and poor adherence to secondary prevention measures are observed in the Chinese population .
+METHODS	We used a national , multicenter , cluster-randomized controlled trial in which 47 hospitals were randomized to either a structured care program group ( n = 23 ) or a usual care group ( n = 24 ) .
+METHODS	The structured care program consisted of a specialist-administered , guideline-recommended pharmaceutical treatment and a lifestyle modification algorithm associated with written and Internet-accessed educational material for patients for the secondary prevention of ischemic stroke .
+METHODS	The primary efficacy outcome was the proportion of patients who adhered to the recommended measures at 12-month postdischarge .
+METHODS	This trial is registered with ClinicalTrial.gov ( NCT00664846 ) .
+RESULTS	At 12 months , 1287 ( 72.1 % ) patients in the Standard Medical Management in Secondary Prevention of Ischemic Stroke in China ( SMART ) group and 1430 ( 72 % ) patients in the usual care group had completed the 12-month follow-up ( P = 0.342 ) .
+RESULTS	Compared with the usual care group , those in the SMART group showed higher adherence to statins ( 56 % versus 33 % ; P = 0.006 ) but no difference in adherence to antiplatelet ( 81 % versus 75 % ; P = 0.088 ) , antihypertensive ( 67 % versus 69 % ; P = 0.661 ) , or diabetes mellitus drugs ( 73 % versus 67 % ; P = 0.297 ) .
+RESULTS	No significant difference in the composite end point ( new-onset ischemic stroke , hemorrhagic stroke , acute coronary syndrome , and all-cause death ) was observed ( 3.56 % versus 3.59 % ; P = 0.921 ) .
+CONCLUSIONS	The implementation of a program to improve adherence to secondary ischemic stroke prevention efforts in China is feasible , but these programs had only a limited impact on adherence and no impact on 1-year outcomes .
+CONCLUSIONS	Further development of a structured program to reduce vascular events after stroke is needed .
+CONCLUSIONS	Clinical Trial Registration-URL : http://www.clinicaltrials.gov .
+CONCLUSIONS	Unique identifier : NCT00664846 .
+

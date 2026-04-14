@@ -1,0 +1,23 @@
+25817472
+BACKGROUND	Misoprostol is established for the treatment of incomplete abortion but has not been systematically assessed when provided by midwives at district level in a low-resource setting .
+BACKGROUND	We investigated the effectiveness and safety of midwives diagnosing and treating incomplete abortion with misoprostol , compared with physicians .
+METHODS	We did a multicentre randomised controlled equivalence trial at district level at six facilities in Uganda .
+METHODS	Eligibility criteria were women with signs of incomplete abortion .
+METHODS	We randomly allocated women with first-trimester incomplete abortion to clinical assessment and treatment with misoprostol either by a physician or a midwife .
+METHODS	The randomisation ( 1:1 ) was done in blocks of 12 and was stratified for study site .
+METHODS	Primary outcome was complete abortion not needing surgical intervention within 14-28 days after initial treatment .
+METHODS	The study was not masked .
+METHODS	Analysis of the primary outcome was done on the per-protocol population with a generalised linear-mixed effects model .
+METHODS	The predefined equivalence range was -4 % to 4 % .
+METHODS	The trial was registered at ClinicalTrials.gov , number NCT01844024 .
+RESULTS	From April 30 , 2013 , to July 21 , 2014 , 1108 women were assessed for eligibility .
+RESULTS	1010 women were randomly assigned to each group ( 506 to midwife group and 504 to physician group ) .
+RESULTS	955 women ( 472 in the midwife group and 483 in the physician group ) were included in the per-protocol analysis .
+RESULTS	452 ( 958 % ) of women in the midwife group had complete abortion and 467 ( 967 % ) in the physician group .
+RESULTS	The model-based risk difference for midwife versus physician group was -08 % ( 95 % CI -29 to 14 ) , falling within the predefined equivalence range ( -4 % to 4 % ) .
+RESULTS	The overall proportion of women with incomplete abortion was 38 % ( 36/955 ) , similarly distributed between the two groups ( 42 % [ 20/472 ] in the midwife group , 33 % [ 16/483 ] in the physician group ) .
+RESULTS	No serious adverse events were recorded .
+CONCLUSIONS	Diagnosis and treatment of incomplete abortion with misoprostol by midwives is equally safe and effective as when provided by physicians , in a low-resource setting .
+CONCLUSIONS	Scaling up midwives ' involvement in treatment of incomplete abortion with misoprostol at district level would increase access to safe post-abortion care .
+BACKGROUND	The Swedish Research Council , Karolinska Institutet , and Dalarna University .
+

@@ -1,0 +1,12 @@
+24886338
+BACKGROUND	Vertigo is a common medical condition with a broad spectrum of diagnoses which requires an integrated approach to patients through a structured clinical interview and physical examination .
+BACKGROUND	The main cause of vertigo in primary care is benign paroxysmal positional vertigo ( BPPV ) , which should be confirmed by a positive D-H positional test and treated with repositioning maneuvers .
+BACKGROUND	The objective of this study is to evaluate the effectiveness of Epley 's maneuver performed by general practitioners ( GPs ) in the treatment of BPPV .
+METHODS	This study is a randomized clinical trial conducted in the primary care setting .
+METHODS	The study 's scope will include two urban primary care centers which provide care for approximately 49,400 patients .
+METHODS	All patients attending these two primary care centers , who are newly diagnosed with benign paroxysmal positional vertigo , will be invited to participate in the study and will be randomly assigned either to the treatment group ( Epley 's maneuver ) or to the control group ( a sham maneuver ) .
+METHODS	Both groups will receive betahistine .
+METHODS	Outcome variables will be : response to the D-H test , patients ' report on presence or absence of vertigo during the previous week ( dichotomous variable : yes/no ) , intensity of vertigo symptoms on a Likert-type scale in the previous week , total score on the Dizziness Handicap Inventory ( DHI ) and quantity of betahistine taken .
+CONCLUSIONS	Positive results from our study will highlight that treatment of benign paroxysmal positional vertigo can be performed by trained general practitioners ( GPs ) and , therefore , its widespread practice may contribute to improve the quality of life of BPPV patients .
+BACKGROUND	ClinicalTrials.gov Identifier : NCT01969513 .
+

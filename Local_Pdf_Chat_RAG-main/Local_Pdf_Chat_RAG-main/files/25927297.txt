@@ -1,0 +1,16 @@
+25927297
+BACKGROUND	Narrative exposure therapy ( NET ) is a brief , manualised treatment for Posttraumatic Stress Disorder ( PTSD ) .
+BACKGROUND	It has been shown to have therapeutic benefits for a wide range of individuals and settings .
+BACKGROUND	This study , following our previous work applying the original NET in earthquake survivors , aimed to revise NET to be adaptable for treating PTSD after a natural disaster .
+METHODS	A randomised waiting-list controlled study was conducted with 30 adult participants with PTSD who were randomly allocated to NET ( n = 10 ) , revised NET ( NET-R ; n = 10 ) or a waiting list condition ( WL ; n = 10 ) .
+METHODS	Participants in NET and NET-R received treatment immediately ; those in the WL condition received NET-R treatment after a waiting period .
+METHODS	All groups were assessed on PTSD , general distress , anxiety , depression , social support , coping and posttraumatic change before and after treatment and three-month follow-up .
+RESULTS	Compared with WL , both NET and NET-R groups showed significant reductions in PTSD and related symptoms .
+RESULTS	Significant increases were found in posttraumatic growth , active coping and perceived social support .
+RESULTS	The WL group showed similar improvements after treatment .
+RESULTS	Further reductions on PTSD symptoms were found at three months , showing that NET-R is as effective as the original NET in treating post-earthquake traumatic symptoms in adult Chinese earthquake survivors .
+CONCLUSIONS	NET-R is a feasible and cost-effective intervention for Chinese earthquake survivors .
+CONCLUSIONS	Further studies are needed to replicate these findings in other survivor populations , and with larger samples and over longer periods .
+CONCLUSIONS	This study highlighted the value of oral narrative approach , which is well-accepted and useful in the context of single natural disaster and lower - income area .
+BACKGROUND	Chinese Clinical Trial Registry : ChiCTR-TRC-12002931 .
+

@@ -1,0 +1,14 @@
+24875964
+METHODS	Multicenter , randomized , controlled trial on preoperative pain neuroscience education ( NE ) for lumbar radiculopathy .
+OBJECTIVE	To determine if the addition of NE to usual preoperative education would result in superior outcomes with regard to pain , function , surgical experience , and health care utilization postsurgery .
+BACKGROUND	One in 4 patients after lumbar surgery ( LS ) for radiculopathy experience persistent pain and disability , which is nonresponsive to perioperative treatments .
+BACKGROUND	NE focusing on the neurophysiology of pain has been shown to decrease pain and disability in populations with chronic low back pain .
+METHODS	Eligible patients scheduled for LS for radiculopathy were randomized to receive either preoperative usual care ( UC ) or a combination of UC plus 1 session of NE delivered by a physical therapist ( verbal one-on-one format ) and a NE booklet .
+METHODS	Sixty-seven patients completed the following outcomes prior to LS ( baseline ) , and 1 , 3 , 6 , and 12 months after LS : low back pain ( numeric rating scale ) , leg pain ( numeric rating scale ) , function ( Oswestry Disability Index ) , various beliefs and experiences related to LS ( 10-item survey with Likert scale responses ) , and postoperative utilization of health care ( utilization of health care questionnaire ) .
+RESULTS	At 1-year follow-up , there were no statistical differences between the experimental and control groups with regard to primary outcome measure of low back pain ( P = 0.183 ) , leg pain ( P = 0.075 ) , and function ( P = 0.365 ) .
+RESULTS	In a majority of the categories regarding surgical experience , the NE group scored significantly better : better prepared for LS ( P = 0.001 ) ; preoperative session preparing them for LS ( P < 0.001 ) and LS meeting their expectations ( P = 0.021 ) .
+RESULTS	Health care utilization post-LS also favored the NE group ( P = 0.007 ) resulting in 45 % less health care expenditure compared with the control group in the 1-year follow-up period .
+CONCLUSIONS	NE resulted in significant behavior change .
+CONCLUSIONS	Despite a similar pain and functional trajectory during the 1-year trial , patients with LS who received NE viewed their surgical experience more favorably and used less health care facility in the form of medical tests and treatments .
+METHODS	2 .
+

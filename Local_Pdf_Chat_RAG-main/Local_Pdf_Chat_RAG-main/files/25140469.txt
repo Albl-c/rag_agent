@@ -1,0 +1,13 @@
+25140469
+OBJECTIVE	To assess the patency of the pedicled right internal thoracic artery with an anteroaortic course and compare it to the patency of the left internal thoracic artery , in anastomosis to the left anterior descending artery in coronary artery bypass grafting by using coronary CT angiography at 6 months postoperatively .
+METHODS	Between December 2008 and December 2011 , 100 patients were selected to undergo a prospective coronary artery bypass grafting procedure without cardiopulmonary bypass .
+METHODS	The patients were randomly divided by a computer-generated list into Group-1 ( G-1 ) and Group-2 ( G-2 ) , comprising 50 patients each , the technique used was known at the beginning of the surgery .
+METHODS	In G-1 , coronary artery bypass grafting was performed using the left internal thoracic artery for the left anterior descending and the free right internal thoracic artery for the circumflex , and in G-2 , coronary artery bypass grafting was performed using the right internal thoracic artery pedicled to the left anterior descending and the left internal thoracic artery pedicled to the circumflex territory .
+RESULTS	The groups were similar with regard to the preoperative clinical data .
+RESULTS	A male predominance of 75.6 % and 88 % was observed in G-1 and G-2 , respectively .
+RESULTS	Five patients migrated from G-1 to G-2 because of atheromatous disease in the ascending aorta .
+RESULTS	The average number of distal anastomoses was 3.48 ( SD = 0.72 ) in G-1 and 3.20 ( SD = 0.76 ) in G-2 .
+RESULTS	Coronary CT angiography in 96 re-evaluated patients showed that all ITAs , right or left , used in situ for the left anterior descending were patent .
+RESULTS	There were no deaths in either group .
+CONCLUSIONS	Coronary artery bypass grafting surgery involving anastomosis of the anteroaortic right internal thoracic artery to the left anterior descending artery has an outcome similar to that obtained using the left internal thoracic artery for the same coronary site .
+

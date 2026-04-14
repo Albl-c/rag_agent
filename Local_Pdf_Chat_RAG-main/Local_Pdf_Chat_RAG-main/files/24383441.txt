@@ -1,0 +1,17 @@
+24383441
+BACKGROUND	Stress , depression , and anxiety affect 15 % to 25 % of pregnant women .
+BACKGROUND	However , substantial barriers to psychosocial assessment exist , resulting in less than 20 % of prenatal care providers assessing and treating mental health problems .
+BACKGROUND	Moreover , pregnant women are often reluctant to disclose their mental health concerns to a healthcare provider .
+BACKGROUND	Identifying screening and assessment tools and procedures that are acceptable to both women and service providers , cost-effective , and clinically useful is needed .
+METHODS	The primary objective of this randomized , parallel-group , superiority trial is to evaluate the feasibility and acceptability of a computer tablet-based prenatal psychosocial assessment ( e-screening ) compared to paper-based screening .
+METHODS	Secondary objectives are to compare the two modes of screening on : ( 1 ) the level of detection of prenatal depression and anxiety symptoms and psychosocial risk ; ( 2 ) the level of disclosure of symptoms ; ( 3 ) the factors associated with feasibility , acceptability , and disclosure ; ( 4 ) the psychometric properties of the e-version of the assessment tools ; and ( 5 ) cost-effectiveness .
+METHODS	A sample of 542 women will be recruited from large , primary care maternity clinics and a high-risk antenatal unit in an urban Canadian city .
+METHODS	Pregnant women are eligible to participate if they : ( 1 ) receive care at one of the recruitment sites ; ( 2 ) are able to speak/read English ; ( 3 ) are willing to be randomized to e-screening ; and ( 4 ) are willing to participate in a follow-up diagnostic interview within 1 week of recruitment .
+METHODS	Allocation is by computer-generated randomization .
+METHODS	Women in the intervention group will complete an online psychosocial assessment on a computer tablet , while those in the control group will complete the same assessment in paper-based form .
+METHODS	All women will complete baseline questionnaires at the time of recruitment and will participate in a diagnostic interview within 1 week of recruitment .
+METHODS	Research assistants conducting diagnostic interviews and physicians will be blinded .
+METHODS	A qualitative descriptive study involving healthcare providers from the recruitment sites and women will provide data on feasibility and acceptability of the intervention .
+METHODS	We hypothesize that mental health e-screening in primary care maternity settings and high-risk antenatal units will be as or more feasible , acceptable , and capable of detecting depression , anxiety , and psychosocial risk compared to paper-based screening .
+BACKGROUND	ClinicalTrials.gov Identifier : NCT01899534 .
+

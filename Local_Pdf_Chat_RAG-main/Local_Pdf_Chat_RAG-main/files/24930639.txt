@@ -1,0 +1,9 @@
+24930639
+OBJECTIVE	To evaluate the clinical and microbiological effects of the use of metronidazole ( MTZ ) + amoxicillin ( AMX ) as adjuncts to scaling and root planing ( SRP ) for the treatment of chronic periodontitis ( ChP ) in type 2 diabetic subjects .
+METHODS	Fifty-eight type 2 diabetic subjects ( n = 29/group ) with generalized ChP were randomly assigned to receive SRP alone or with MTZ [ 400mg/thrice a day ( TID ) ] + AMX ( 500mg/TID ) for 14days .
+METHODS	Subgingival biofilm samples were analyzed by qPCR for the presence of seven periodontal pathogens .
+METHODS	Subjects were monitored at baseline , 3 , 6 and 12months post-therapies .
+RESULTS	The group receiving SRP+MTZ+AMX presented greater mean probing depth ( PD ) reduction and clinical attachment gain , a lower number of sites with PD 5mm ( primary outcome variable ) and a reduced number of subjects with 9 of these residual pockets than the control group at 1-year post-therapy ( p < 0.05 ) .
+RESULTS	The antibiotic-treated group also presented reduced levels and greater decreases of the three red complex species , Eubacterium nodatum and Prevotella intermedia , compared to the control group at 1year ( p < 0.05 ) .
+CONCLUSIONS	The adjunctive use of MTZ+AMX significantly improved the clinical and microbiological outcomes of SRP in the treatment of type 2 diabetic subjects with ChP .
+

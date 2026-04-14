@@ -1,0 +1,14 @@
+24934544
+BACKGROUND	Oxidative stress and inflammation are two key mechanisms suggested to be involved in the pathogenesis of Alzheimer 's disease ( AD ) .
+BACKGROUND	Omega-3 fatty acids ( -3 FAs ) found in fish and fish oil have several biological properties that may be beneficial in AD .
+BACKGROUND	However , they may also auto-oxidize and induce in vivo lipid peroxidation .
+OBJECTIVE	The objective of this study was to evaluate systemic oxidative stress and inflammatory biomarkers following oral supplementation of dietary -3 FA .
+METHODS	Forty patients with moderate AD were randomized to receive 1.7 g DHA ( 22:6 ) and 0.6 g EPA ( 20:5 ) or placebo for 6 months .
+METHODS	Urinary samples were collected before and after supplementation .
+METHODS	The levels of the major F2-isoprostane , 8-iso-PGF2 , a consistent in vivo biomarker of oxidative stress , and 15-keto-dihydro-PGF2 , a major metabolite of PGF2 and biomarker of inflammatory response , were measured .
+RESULTS	F2-isoprostane in urine increased in the placebo group after 6 months , but there was no clear difference in treatment effect between supplemented and non-supplemented patients on the urinary levels of F2-isoprostanes and 15-keto-dihydro-PGF2 .
+RESULTS	At baseline , the levels of 15-keto-dihydro-PGF2 showed negative correlative relationships to -3 FAs , and a positive correlation to linoleic acid .
+RESULTS	8-iso-PGF2 correlated negatively to the -6 FA arachidonic acid .
+CONCLUSIONS	The findings indicate that supplementation of -3 FAs to patients with AD for 6 months does not have a clear effect on free radical-mediated formation of F2-isoprostane or cyclooxygenase-mediated formation of prostaglandin F2 .
+CONCLUSIONS	The correlative relationships to FAs indicate a potential role of FAs in immunoregulation .
+

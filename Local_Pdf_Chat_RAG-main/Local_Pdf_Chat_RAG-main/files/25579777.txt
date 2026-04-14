@@ -1,0 +1,14 @@
+25579777
+BACKGROUND	Streptococcus pneumoniae infections have periodically caused significant morbidity and outbreaks among military personnel , especially trainees .
+BACKGROUND	This study evaluated the effectiveness of the 23-valent polysaccharide pneumococcal vaccine ( PPV23 ) in reducing pneumonia in healthy military trainees .
+METHODS	From 2000-2003 , 152723 military trainees from 5 US training camps were enrolled in a double-blind , placebo-controlled trial of PPV23 .
+METHODS	Participants were closely monitored during basic training for radiographically confirmed pneumonia etiology and loss-of-training days .
+METHODS	Participants were also followed using electronic medical encounter data until 1 June 2007 for three additional outcomes : any-cause pneumonia , any acute respiratory disease , and meningitis .
+RESULTS	Comparison of demographic data by study arm suggested the randomization procedures were sound .
+RESULTS	During basic training , 371 study participants developed radiographically confirmed pneumonia .
+RESULTS	None had evidence of S. pneumoniae infection , but other etiologies included adenovirus ( 38 % ) , Chlamydophila pneumoniae ( 9 % ) , and Mycoplasma pneumoniae ( 8 % ) .
+RESULTS	During the follow-up period , many study participants , in both the vaccine and placebo groups , had clinical encounters for the medical outcomes of interest .
+RESULTS	However , Cox 's proportional hazard modeling revealed no evidence of a protective vaccine effect during recruit training ( radiographically confirmed pneumonia ) or up to 6.7 years after enrollment ( any-cause pneumonia , any acute respiratory disease , or meningitis ) .
+CONCLUSIONS	Data from this large , double-blind , placebo controlled trial do not support routine use of PPV23 among healthy new military trainees .
+CONCLUSIONS	This clinical trial was registered at clinicaltrials.gov ( registration number NCT02079701 , http://www.clinicaltrials.gov/ct2/show/NCT02079701?term=NCT02079701&rank=1 ) .
+

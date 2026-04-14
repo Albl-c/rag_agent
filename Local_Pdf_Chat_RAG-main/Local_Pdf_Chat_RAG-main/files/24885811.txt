@@ -1,0 +1,16 @@
+24885811
+BACKGROUND	Providing additional Saturday rehabilitation can improve functional independence and health related quality of life at discharge and it may reduce patient length of stay , yet the economic implications are not known .
+BACKGROUND	The aim of this study was to determine from a health service perspective if the provision of rehabilitation to inpatients on a Saturday in addition to Monday to Friday was cost effective compared to Monday to Friday rehabilitation alone .
+METHODS	Cost utility and cost effectiveness analyses were undertaken alongside a multi-center , single-blind randomized controlled trial with a 30-day follow up after discharge .
+METHODS	Participants were adults admitted for inpatient rehabilitation in two publicly funded metropolitan rehabilitation facilities .
+METHODS	The control group received usual care rehabilitation services from Monday to Friday and the intervention group received usual care plus an additional rehabilitation service on Saturday .
+METHODS	Incremental cost utility ratio was reported as cost per quality adjusted life year ( QALY ) gained and an incremental cost effectiveness ratio ( ICER ) was reported as cost for a minimal clinically important difference ( MCID ) in functional independence .
+RESULTS	996 patients ( mean age 74 ( standard deviation 13 ) years ) were randomly assigned to the intervention ( n = 496 ) or the control group ( n = 500 ) .
+RESULTS	Mean difference in cost of AUD$ 1,673 ( 95 % confidence interval ( CI ) -271 to 3,618 ) was a saving in favor of the intervention group .
+RESULTS	The incremental cost utility ratio found a saving of AUD$ 41,825 ( 95 % CI -2,817 to 74,620 ) per QALY gained for the intervention group .
+RESULTS	The ICER found a saving of AUD$ 16,003 ( 95 % CI -3,074 to 87,361 ) in achieving a MCID in functional independence for the intervention group .
+RESULTS	If the willingness to pay per QALY gained or for a MCID in functional independence was zero dollars the probability of the intervention being cost effective was 96 % and 95 % , respectively .
+RESULTS	A sensitivity analysis removing Saturday penalty rates did not significantly alter the outcome .
+CONCLUSIONS	From a health service perspective , the provision of rehabilitation to inpatients on a Saturday in addition to Monday to Friday , compared to Monday to Friday rehabilitation alone , is likely to be cost saving per QALY gained and for a MCID in functional independence .
+BACKGROUND	Australian and New Zealand Clinical Trials Registry November 2009 ACTRN12609000973213 .
+

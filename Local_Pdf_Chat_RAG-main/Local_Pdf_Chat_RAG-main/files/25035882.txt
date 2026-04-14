@@ -1,0 +1,11 @@
+25035882
+OBJECTIVE	Social media sites , such as Facebook , merge two factors that influence risk for eating disorders : media and peers .
+OBJECTIVE	Previous work has identified cross-sectional and temporal associations between Facebook use and disordered eating .
+OBJECTIVE	This study sought to replicate and extend these findings using an experimental design .
+METHODS	In Study 1 , 960 women completed self-report surveys regarding Facebook use and disordered eating .
+METHODS	In Study 2 , 84 women were randomly assigned to use Facebook or to use an alternate internet site for 20 min .
+RESULTS	More frequent Facebook use was associated with greater disordered eating in a cross-sectional survey .
+RESULTS	Facebook use was associated with the maintenance of weight/shape concerns and state anxiety compared to an alternate internet activity .
+CONCLUSIONS	Facebook use may contribute to disordered eating by maintaining risk for eating pathology .
+CONCLUSIONS	As such , targeting Facebook use may be helpful in intervention and prevention programs .
+

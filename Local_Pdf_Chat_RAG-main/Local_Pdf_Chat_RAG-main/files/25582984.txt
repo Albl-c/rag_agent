@@ -1,0 +1,14 @@
+25582984
+OBJECTIVE	Pregnancy rates in US contraceptive clinical trials are increasing due to decreased treatment compliance .
+OBJECTIVE	This study compared compliance with a new low-dose levonorgestrel ( LNG ) and ethinyl estradiol ( EE ) contraceptive patch ( CP , Twirla ) with that of a low-dose combination oral contraceptive ( COC ) in a demographically diverse population .
+METHODS	This analysis was part of an open-label , parallel-group , multicenter phase 3 study that randomized healthy sexually active women ( 17-40years ) to 13cycles of LNG/EE CP or 6cycles of COC , then 7cycles of LNG/EE CP .
+METHODS	We defined self-reported compliance as cycles that , according to diaries , show 21days of patch wear without missed days or any patch worn > 7days or 21days of pill-taking without missed pill days .
+METHODS	We verified compliance by detectable plasma presence of LNG and EE at cycles 2 , 6 , and 13 .
+RESULTS	Of the intention-to-treat population with diary information ( N = 1328 , mean age 26.4 years , 46 % minorities , 33 % obese ) , 10.0 % of the CP ( n = 998 ) versus 21.2 % of the COC group ( n = 330 ) self-reported noncompliance after 6cycles ( p < .001 ) .
+RESULTS	Laboratory assessments verified 10-14 % of participants in both groups as noncompliant .
+RESULTS	Self-reported perfect use did not vary between obese [ body mass index ( BMI ) 30kg/m ( 2 ) ] versus nonobese ( BMI < 30kg/m ( 2 ) ) participants in both groups or when stratified by age , education , or race/ethnicity in the CP group .
+CONCLUSIONS	Self-reported compliance was significantly greater in the CP than COC group and did not vary by obesity status .
+CONCLUSIONS	Discrepancies between self-reported and verified compliance question reliability of patient diaries .
+CONCLUSIONS	This paper , based on an analysis of a phase 3 trial , shows that compliance was significantly greater with a new weekly transdermal CP than with a once-daily COC in obese as well as nonobese participants .
+CONCLUSIONS	Discrepancies between self-reported compliance and laboratory-verified compliance raise questions regarding the reliability of patient diaries .
+

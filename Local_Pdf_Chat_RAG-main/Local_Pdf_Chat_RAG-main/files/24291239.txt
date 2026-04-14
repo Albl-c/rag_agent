@@ -1,0 +1,12 @@
+24291239
+OBJECTIVE	Patients with genotype 3 hepatitis C virus ( HCV ) infection and cirrhosis have poor response rates after 24 weeks treatment with pegylated interferon and ribavirin .
+OBJECTIVE	Treatment for 48 weeks is therefore recommended , although the benefits of this are untested .
+OBJECTIVE	We examined extended therapy in patients with genotype 3 HCV and advanced fibrosis .
+METHODS	Multicentre , open labelled randomized trial comparing therapy with 24 weeks pegylated interferon and ribavirin to 48 weeks of the same therapy .
+RESULTS	136 patients completed the study .
+RESULTS	67 received 24 weeks therapy and the SVR rate ( 48 % ) did not differ from that seen in the 69 patients who received 48 weeks therapy ( 42 % ) .
+RESULTS	The response rates in patients with biopsy proven cirrhosis ( 13 patients treated for 24 weeks , 18 patients treated for 48 weeks ) or cirrhosis proven on imaging ( 28 patients treated for 24 weeks and 25 patients treated for 48 weeks ) were 46 % in those treated for 24 weeks and 40 % in those treated for 48 weeks .
+RESULTS	The differences were not significantly different .
+RESULTS	Treatment failure was due to relapse in the majority of patients .
+CONCLUSIONS	Patients with genotype 3 HCV and advanced fibrosis do not benefit from extended therapy with pegylated interferon and ribavirin .
+

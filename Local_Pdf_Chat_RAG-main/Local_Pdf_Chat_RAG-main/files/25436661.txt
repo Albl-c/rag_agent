@@ -1,0 +1,12 @@
+25436661
+OBJECTIVE	In rheumatoid arthritis ( RA ) and osteoarthritis ( OA ) forefoot involvement causes disability and metatarsalgia .
+OBJECTIVE	Our objective was to evaluate , in RA and OA patients , the efficacy of two protocols combining insoles in polypropylene terephtalate ( PPT ) and custom silicone orthoses for toes on disability and metatarsalgia .
+METHODS	Twenty-four women ( 13 with OA , 11 with RA ) with metatarsalgia were treated with two protocols : group A ( protocol A ) wore PPT insoles ( T1 ) for 30 days and for another 30 days silicone orthosis for toes were added ( T2 ) .
+METHODS	Group B ( protocol B ) wore PPT insoles and silicone orthosis ( T1 ) for 30 days and in the following 30 days only insoles ( T2 ) .
+METHODS	At T0 , T1 and T2 , pain , disability and function ( Foot Function Index - FFI ) , pressure ( KPA ) and plantar contact areas ( cm2 ) ( baropodometer ) , and gait spatial-temporal parameters ( GAITRite ) were assessed .
+RESULTS	At T0 versus T2 , both protocols reduced FFI-pain , - disability and - functional limitation ( p < 0.05 ) , with better results of protocol A than protocol B ( p < 0.05 ) for FFI-pain and - disability .
+RESULTS	Both protocols reduced baropodometer foot plantar pressures ( p < 0.001 ) , with better results for protocol A for right foot pressures ( p < 0.05 ) and increased foot contact areas ( p < 0.05 ) , with no difference between them ( p = NS ) .
+RESULTS	Gait parameters were not significantly changed by both protocols ( p = NS ) .
+CONCLUSIONS	In patients with RA and OA with metatarsalgia , the synergic action of silicone toe orthosis and PPT insoles improves FFI , reduces foot plantar pressures and increases foot plantar contact areas .
+CONCLUSIONS	Protocol A , using firstly insoles and then adding silicone toe orthoses , is the more efficacious .
+

@@ -1,0 +1,16 @@
+25052238
+BACKGROUND	The results of preclinical studies suggest that baclofen may be useful in the treatment of stroke patients with persistent hiccups .
+BACKGROUND	This study was aimed to assess the possible efficacy of baclofen for the treatment of persistent hiccups after stroke .
+METHODS	In total , 30 stroke patients with persistent hiccups were randomly assigned to receive baclofen ( n = 15 ) or a placebo ( n = 15 ) in a double-blind , parallel-group trial .
+METHODS	Participants in the baclofen group received 10mg baclofen 3 times daily for 5days .
+METHODS	Participants assigned to the placebo group received 10mg placebo 3 times daily for 5days .
+METHODS	The primary outcome measure was cessation of hiccups .
+METHODS	Secondary outcome measures included efficacy in the two groups and adverse events .
+RESULTS	All 30 patients completed the study .
+RESULTS	The number of patients in whom the hiccups completely stopped was higher in the baclofen group than in the placebo group ( relative risk , 7.00 ; 95 % confidence interval , 1.91-25 .62 ; P = 0.003 ) .
+RESULTS	Furthermore , efficacy was higher in the baclofen group than in the placebo group ( P < 0.01 ) .
+RESULTS	No serious adverse events were documented in either group .
+RESULTS	One case each of mild transient drowsiness and dizziness was present in the baclofen group .
+CONCLUSIONS	Baclofen was more effective than a placebo for the treatment of persistent hiccups in stroke patients .
+BACKGROUND	Chinese Clinical Trials Register : ChiCTR-TRC-13004554 .
+

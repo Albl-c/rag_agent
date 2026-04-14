@@ -1,0 +1,18 @@
+24330449
+BACKGROUND	After renal transplantation , postoperative pain is usually mild to moderate .
+BACKGROUND	Postoperative pain is a concern and administration of systemic analgesic may be difficult because of underlying co-morbidities and variable responses of the graft .
+BACKGROUND	The transversus abdominis plane ( TAP ) block is one of the different approaches for postoperative pain relief following abdominal surgeries .
+BACKGROUND	We evaluated analgesic efficacy of TAP block on early postoperative pain by numeric rating scale ( NRS ) and morphine consumption during the first 24 hours after kidney transplantation .
+METHODS	Forty-four patients , scheduled as kidney recipients were randomized into two equal groups and were anesthetized with the same technique .
+METHODS	After the induction of anesthesia , 15mL of 0.25 % Bupivacaine plus 5/ml epinephrine or saline was deposited into the transversus abdominis neuro-fascial plane on the side of surgery by ultrasound guide .
+METHODS	Each patient was assessed by a blinded investigator using NRS at 1st , 4th , 8th , 12th , and 24th hour postoperatively .
+RESULTS	Demographic data were not significantly different between the study groups .
+RESULTS	There was significant difference in median of NRS score measured at all time points in the study groups ( P < 0.001 ) .
+RESULTS	The 24-hour morphine consumption ( meanSD ) was 10.89.5 mg in bupivacaine group compared with 41.23.8 mg in the saline group ( P = 0.001 ) .
+RESULTS	There was statistically significant reduction in intraoperative fentanyl consumption in the TAP group 12020g compared to the control group 35824g ( P = 0.001 ) .
+RESULTS	In study group 4 patients and in control group 90 patients received morphine titration for pain relief ( P = 0.03 ) .
+RESULTS	There was no complication in the study groups related to nerve block .
+RESULTS	Only two patients in saline group had nausea ( P = 0.07 ) .
+RESULTS	None of our patients received any other oral or IV rescue medication .
+CONCLUSIONS	Ultrasound TAP block can reduce postrenal transplantation pain and the amount of opioids consumption intraoperatively and during the first 24 hours after surgery in kidney recipients .
+

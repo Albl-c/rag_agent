@@ -1,0 +1,18 @@
+24443982
+BACKGROUND	Up to 30 % of patients suffer from long-term functional restrictions following conservative treatment of distal radius fractures .
+BACKGROUND	Whether duration of cast immobilisation influences functional outcome remains unclear .
+METHODS	The aim of the study is to evaluate whether the duration of immobilization of non or minimally displaced distal radial fractures can be safely reduced .
+METHODS	We will compare three weeks of plaster cast immobilization with five weeks of plaster cast immobilization in adult patient with non or minimally displaced distal radial fractures .
+METHODS	a prospective randomized clinical trial .
+METHODS	adult ( > 18 years ) ( independent in activities of daily living ) patients with a non/minimal displaced distal radius fracture ( dorsal angulation < 15 , volar tilt < 20 , radial inclination > 15 , ulnar positive variance < 5 mm and an articular step off < 2 mm ) .
+METHODS	three weeks of plaster cast immobilization versus five weeks of plaster cast immobilization.Main study parameters : primary outcome parameters : Patient related wrist evaluation ( PRWE ) Quick Disability of Arm , Shoulder and Hand ( QUICKDASH ) score after a one year follow-up , and secondary parameters : range of motion , pain level ( VAS ) and complications .
+CONCLUSIONS	The expectation of this study is that shorter duration of plaster cast immobilisation is beneficial for the patient with a distal radius fracture .
+CONCLUSIONS	This risk of specific complications is low and generally similar in both treatment options .
+CONCLUSIONS	Moreover , the burden of the study is not much higher compared to standard treatment .
+CONCLUSIONS	Follow-up is standardized according to current trauma guidelines .
+CONCLUSIONS	Literature indicates that both treatment options from the study are accepted for displaced distal radius fractures .
+CONCLUSIONS	No clear advantage for one treatment options is found at present in the literature , although there is no level I evidence present .
+CONCLUSIONS	This trial will provide level-1 evidence for the comparison of consolidation and functional outcome between two treatment options for non-displaced distal radial fractures .
+CONCLUSIONS	The gathered data may support the development of a clinical guideline for conservative treatment of distal radial fractures .
+BACKGROUND	Netherlands National Trial Register NTR3552 .
+

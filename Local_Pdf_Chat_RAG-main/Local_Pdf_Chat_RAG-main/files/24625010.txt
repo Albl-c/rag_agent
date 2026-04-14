@@ -1,0 +1,19 @@
+24625010
+BACKGROUND	Systematic use of observational pain tools has been advocated as a means to improve pain management for care home residents with dementia .
+BACKGROUND	Pain experts suggest that any observational tool should be used as part of a comprehensive pain management protocol , which should include score interpretation and verification with appropriately suggested treatments .
+BACKGROUND	The Observational Pain Management Protocol ( Protocol ) was therefore developed .
+BACKGROUND	This study aims to investigate the extent to which the implementation of this Protocol can improve pain management in care home residents with dementia .
+METHODS	In this two-group , single-blinded , cluster-randomized controlled trial , 122 care home residents with dementia and pain-related diagnoses will be recruited from eight care homes ( that is 15 to 16 residents from each care home ) .
+METHODS	Invitations will be sent to all local care homes who meet the home selection criteria .
+METHODS	The eight care homes will be randomly selected from all care homes that agree to join this trial .
+METHODS	They will then be randomized to either the control or experimental conditions .
+METHODS	Participants from each care home will be placed into their home 's corresponding group to avoid ` contamination ' effects across participants .
+METHODS	Each intervention cycle will take 16 weeks ( that is , baseline assessment and care home staff training for 4 weeks and Protocol implementation for 12 weeks ) .
+METHODS	The Protocol will guide the pain management of the participants in the experimental care homes .
+METHODS	Meanwhile , the control care homes will continue their usual pain management strategies .
+METHODS	Intervention effects will be measured weekly during the protocol implementation period and compared with the baseline measurements , as well as between the experimental and control conditions .
+CONCLUSIONS	Although similar pain protocols have been suggested previously , the recommendations were based on experts ' opinions rather than evaluation of research studies .
+CONCLUSIONS	The feasibility and effectiveness of this kind of pain management protocol , tailored to older people with dementia , remains unknown .
+CONCLUSIONS	The findings of this trial will offer strong evidence that better strategies for pain management should be used in the care home daily routine .
+BACKGROUND	The Chinese University of Hong Kong , Centre for Clinical Trials : CUHK-CCT00367 .
+

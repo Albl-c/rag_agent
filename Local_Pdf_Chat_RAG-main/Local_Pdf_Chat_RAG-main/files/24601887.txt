@@ -1,0 +1,10 @@
+24601887
+BACKGROUND	This prospective , observer-blinded , randomised , multicentre study aimed at determining the non-inferiority of 50 mg of plain 1 % 2-chloroprocaine vs. 10 mg of 0.5 % plain bupivacaine in terms of sensory block onset time at T10 after spinal injection .
+BACKGROUND	The study hypothesis was that the difference in onset times of sensory block to T10 between the two drugs is 4 min .
+METHODS	One hundred and thirty patients undergoing lower abdominal or lower limb procedures ( 40 min ) were randomised to receive one of two treatments : 50 mg of plain 1 % 2-chloroprocaine ( Group C , n = 66 ) or 10 mg of plain 0.5 % bupivacaine ( Group B , n = 64 ) .
+METHODS	Times to sensory and motor block onsets , maximum sensory block level , readiness for surgery , regression of sensory and motor blocks , first analgesic requirements , unassisted ambulation , home discharge , and side effects after 24 h and 7 days were registered blindly .
+RESULTS	Chloroprocaine was comparable with plain 0.5 % bupivacaine in terms of time to sensory block at T10 level .
+RESULTS	Group C showed faster onsets of motor block ( 5 vs. 6 min ) , maximum sensory block level ( 8.5 vs. 14 min ) , resolution of sensory ( 105 vs. 225 min ) and motor ( 100 vs. 210 min ) blocks , unassisted ambulation ( 142.5 vs. 290.5 min ) , first analgesic requirement ( 120 vs. 293.5 min ) , and home discharge ( 150 vs. 325 min ) ( all comparisons , P < 0.05 ) .
+RESULTS	No chloroprocaine patient developed transient neurological symptoms .
+CONCLUSIONS	Spinal anaesthesia with 50 mg of plain 1 % 2-chloroprocaine is similar to 10 mg of plain 0.5 % bupivacaine in terms of onset of sensory block at T10 but shows quicker recovery from anaesthesia than with 0.5 % bupivacaine .
+

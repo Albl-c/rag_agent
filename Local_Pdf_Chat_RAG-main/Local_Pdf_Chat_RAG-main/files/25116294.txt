@@ -1,0 +1,15 @@
+25116294
+OBJECTIVE	Although most intensive care unit ( ICU ) admissions originate in the emergency department ( ED ) , a substantial number of admissions arrive from hospital wards .
+OBJECTIVE	Patients transferred from the hospital ward often share clinical characteristics with those admitted from the ED , but family expectations may differ .
+OBJECTIVE	An understanding of the impact of ICU admission source on family perceptions of end-of-life care may help improve patient and family outcomes by identifying those at risk for poor outcomes .
+METHODS	This was a cohort study of patients with chronic illness and acute respiratory failure requiring mechanical ventilation who died after admission to an ICU in any of the 14 participating hospitals in the Seattle-Tacoma area between 2003 and 2008 ( n = 1,500 ) .
+METHODS	Using regression models adjusted for hospital site and patient - , nurse - and family-level characteristics , we examined associations between ICU admission source ( hospital ward vs. ED ) and ( 1 ) family ratings of satisfaction with ICU care ; ( 2 ) family and nurse ratings of quality of dying ; ( 3 ) chart-based indicators of palliative care .
+RESULTS	Admission from the hospital ward was associated with lower family ratings of quality of dying [ -0.90 , 95 % confidence interval ( CI ) -1.54 , -0.26 , p = 0.006 ] and satisfaction ( total score -3.97 , 95 % CI -7.89 , -0.05 , p = 0.047 ; satisfaction with care domain score -5.40 , 95 % CI -9.44 , -1.36 , p = 0.009 ) .
+RESULTS	Nurses did not report differences in quality of dying .
+RESULTS	Patients from hospital wards were less likely to have family conferences [ odds ratio ( OR ) 0.68 , 95 % CI 0.52 , 0.88 , p = 0.004 ] or discussion of prognosis in the first 72 h after ICU admission ( OR 0.72 , 95 % CI 0.56 , 0.91 , p = 0.007 ) but were more likely to receive spiritual care ( OR 1.48 , 95 % CI 1.14 , 1.93 , p = 0.003 ) or have life support withdrawn ( OR 1.38 , 95 % CI 1.04 , 1.82 , p = 0.025 ) .
+CONCLUSIONS	Admission from the hospital ward is associated with family perceptions of a lower quality of dying and less satisfaction with ICU care .
+CONCLUSIONS	Differences in receipt of palliative care suggest that family of patients from the hospital ward receive less communication .
+CONCLUSIONS	Nurse ratings of quality of dying did not significantly differ by ICU admission source , suggesting dissimilarities between family and nurse perspectives .
+CONCLUSIONS	This study identifies a patient population at risk for poor quality palliative and end-of-life care .
+CONCLUSIONS	Future studies are needed to identify interventions to improve care for patients who deteriorate on the wards following hospital admission .
+

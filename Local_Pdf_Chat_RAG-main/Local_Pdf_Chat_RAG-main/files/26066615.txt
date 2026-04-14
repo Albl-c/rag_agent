@@ -1,0 +1,12 @@
+26066615
+BACKGROUND	Acellular dermal matrix ( ADM ) has been used for antiadhesion formation along with wound healing in various surgical fields .
+OBJECTIVE	The aim is to assess the efficacy of ADM implantation in the prevention of postoperative scars and adhesions after conventional , open , total thyroidectomy .
+METHODS	Forty-four patients with papillary thyroid carcinoma undergoing thyroidectomy were randomly assigned to the study ( ADM implantation ) or control group ( without ADM ) .
+METHODS	Global photographic assessment , Vancouver scar scale ( VSS ) , objective scar assessment , and swallowing impairment index were assessed at baseline , immediately after surgery , and at 1 and 2 months after surgery .
+RESULTS	Nineteen control and 20 study group participants completed the study .
+RESULTS	The mean VSS score of the study group was significantly lower than the controls at both 1 month ( 3.06 1.25 vs 4.41 1.54 , respectively ) and 2 months ( 2.76 1.56 vs 4.35 1.58 , respectively ) after surgery .
+RESULTS	Scar quality measures ( mean melanin and erythema indexes ) were significantly lower in the study group compared with controls .
+RESULTS	Study group participants had significantly lower swallowing impairment scores than controls .
+RESULTS	The mean postoperative hospitalization of both groups was not significantly different .
+CONCLUSIONS	Acellular dermal matrix-assisted implants appear to improve post-thyroidectomy scar and swallowing impairments without delays in operation time .
+

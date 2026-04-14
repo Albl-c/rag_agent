@@ -1,0 +1,12 @@
+25001961
+BACKGROUND	Individuals with schizophrenia have functionally significant deficits in automatic and controlled social cognition , but no currently available pharmacologic treatments reduce these deficits .
+BACKGROUND	The neuropeptide oxytocin has multiple prosocial effects when administered intranasally in humans and there is growing interest in its therapeutic potential in schizophrenia .
+METHODS	We administered 40 IU of oxytocin and saline placebo intranasally to 29 male subjects with schizophrenia and 31 age-matched , healthy controls in a randomized , double-blind , placebo-controlled , cross-over study .
+METHODS	Social cognition was assessed with The Awareness of Social Inference Test ( TASIT ) and the Reading the Mind in the Eyes Test ( RMET ) .
+METHODS	We examined the effects of oxytocin administration on automatic social cognition ( the ability to rapidly interpret and understand emotional cues from the voice , face , and body ) ; controlled social cognition ( the ability to comprehend indirectly expressed emotions , thoughts , and intentions through complex deliberations over longer time periods ) ; and a control task ( the ability to comprehend truthful dialog and perform general task procedures ) in individuals with and without schizophrenia using mixed factorial analysis of variance models .
+RESULTS	Patients with schizophrenia showed significant impairments in automatic and controlled social cognition compared to healthy controls , and administration of oxytocin significantly improved their controlled , but not automatic , social cognition , F ( 1 , 58 ) = 8.75 ; p = 0.004 .
+RESULTS	Conversely , oxytocin administration had limited effects on social cognition in healthy participants .
+RESULTS	Patients and controls performed equally well and there were no effects of oxytocin administration on the control task .
+CONCLUSIONS	Intact social cognitive abilities are associated with better functional outcomes in individuals with schizophrenia .
+CONCLUSIONS	Our data highlight the potentially complex effects of oxytocin on some but not all aspects of social cognition , and support the exploration of intranasal oxytocin as a potential adjunct treatment to improve controlled social cognition in schizophrenia .
+

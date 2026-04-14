@@ -1,0 +1,14 @@
+24625502
+OBJECTIVE	Cutaneous telangiectases are a characteristic and psychologically distressing feature of SSc .
+OBJECTIVE	Our aim was to assess the efficacy of two light-based treatments : pulsed dye laser ( PDL ) and intense pulsed light ( IPL ) .
+METHODS	Nineteen patients with facial or upper limb telangiectases underwent three treatments with PDL and IPL ( randomly assigned to left - and right-sided lesions ) .
+METHODS	Outcome measures were clinical photography ( assessed by two clinicians ) , dermoscopy ( assessed by two observers ) , laser Doppler imaging ( LDI ) and observer and patient opinion , including patient self-assessment psychological questionnaires [ Hospital Anxiety and Depression Scale ( HADS ) , Adapted Satisfaction with Appearance Scale ( ASWAP ) ] .
+RESULTS	Comparison between 16-week follow-up and baseline photography scores ( from -2 to +2 on a Likert scale , with > 0 being improvement ) were a mean score for PDL of 1.7 ( 95 % CI 1.4 , 2.0 ) and for IPL 1.4 ( 0.9 , 1.8 ) , with a mean difference between PDL and IPL of -0.3 ( -0.5 , -0.1 ) ( P = 0.01 ) .
+RESULTS	Dermoscopy scores also improved with both therapies : PDL 1.3 ( 1.1 , 1.5 ) and IPL 0.8 ( 0.5 , 1.1 ) , again greater with PDL ( P = 0.01 ) .
+RESULTS	LDI showed decreases in blood flow at 16 weeks , indicating a response to both therapies .
+RESULTS	All patients reported benefit from treatment ( more preferred PDL at 16 weeks ) .
+RESULTS	Psychological questionnaires also indicated improvement after therapy with mean change in ASWAP of -13.9 ( 95 % CI -20.5 , -7.4 ) .
+RESULTS	No side effects were reported for IPL ; PDL caused transient bruising in most cases .
+CONCLUSIONS	Both PDL and IPL are effective treatments for SSc-related telangiectases .
+CONCLUSIONS	Outcome measures indicate that PDL has better outcomes in terms of appearance , although IPL had fewer side effects .
+

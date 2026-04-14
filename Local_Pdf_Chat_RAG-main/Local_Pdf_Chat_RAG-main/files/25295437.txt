@@ -1,0 +1,15 @@
+25295437
+OBJECTIVE	This work tested the hypothesis that patients with high negative affectivity ( NA ) would have a better response to a serotonergic agent ( escitalopram ) than to one not thought to act directly on serotonin ( bupropion ) .
+METHODS	Data from a study conducted between August 2007 and July 2011 were reanalyzed retrospectively .
+METHODS	Patients ( N = 245 ) meeting criteria for major depressive disorder ( MDD ) , diagnosed with DSM-IV-TR , were randomly assigned to double-blind treatment with bupropion extended-release , escitalopram , or the combination .
+METHODS	Negative affectivity score was estimated using the guilt , hostility/irritability , and fear/anxiety items of the Hamilton Depression Rating Scale , the Montgomery-Asberg Depression Rating Scale , the Quick Inventory of Depressive Symptoms , and the Social Adjustment Scale .
+METHODS	We felt that these items captured published descriptions of the NA construct .
+METHODS	A Clinical Global Impressions-Severity of Illness ( CGI-S ) score 2 defined response .
+METHODS	Because combined treatment addressed both serotonin and non-serotonin systems , patients treated with both medications did not test the hypothesis and so were excluded from the analyses .
+RESULTS	Analysis of covariance with treatment as a grouping variable , NA as covariate , and CGI-S as dependent variable showed a significant 2-way interaction between treatment and NA ( F , = 4.82 , P < .03 ) .
+RESULTS	In the low-NA group , response rates were similar between treatments ( escitalopram : 28/42 [ 67 % ] ; bupropion : 23/40 [ 58 % ] ; NS ) , while there was a significant advantage for escitalopram in patients with high NA ( escitalopram : 24/40 [ 60 % ] ; bupropion = 14/41 [ 34 % ] ; P = .017 ) .
+CONCLUSIONS	These data suggest that patients with high negative affectivity respond preferentially to antidepressants that selectively enhance serotonin neurotransmission .
+CONCLUSIONS	Although patients with low NA appear to benefit from serotonin enhancement as well , they also improved with bupropion , an antidepressant not thought to directly affect serotonin neurotransmission .
+CONCLUSIONS	These findings come from retrospective analyses using unproven approximation of NA , so no clinical inferences should be made before independent replication utilizing accepted NA measurement .
+BACKGROUND	ClinicalTrials.gov identifier : NCT00519428 .
+

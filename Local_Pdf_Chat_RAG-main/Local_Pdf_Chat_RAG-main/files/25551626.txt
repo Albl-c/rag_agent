@@ -1,0 +1,12 @@
+25551626
+OBJECTIVE	To examine whether hippotherapy has a clinically significant effect on gross motor function in children with cerebral palsy ( CP ) .
+METHODS	Randomized controlled trial .
+METHODS	Outpatient therapy center .
+METHODS	Ninety-two children with CP , aged 4-10 years , presenting variable function ( Gross Motor Function Classification System [ GMFCS ] levels I-IV ) .
+METHODS	Hippotherapy ( 30 minutes twice weekly for 8 consecutive weeks ) .
+METHODS	Gross Motor Function Measure ( GMFM ) -88 , GMFM-66 , and Pediatric Balance Scale .
+RESULTS	Pre - and post-treatment measures were completed by 91 children ( 45 in the intervention group and 46 in the control group ) .
+RESULTS	Differences in improvement on all three measures significantly differed between groups after the 8-week study period .
+RESULTS	Dimensions of GMFM-88 improved significantly after hippotherapy varied by GMFCS level : dimension E in level I , dimensions D and E in level II , dimensions C and D in level III , and dimensions B and C in level IV .
+CONCLUSIONS	Hippotherapy positively affects gross motor function and balance in children with CP of various functional levels .
+

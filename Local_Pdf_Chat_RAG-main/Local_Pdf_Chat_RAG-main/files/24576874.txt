@@ -1,0 +1,17 @@
+24576874
+OBJECTIVE	The Age-Related Eye Disease Study 1 ( AREDS 1 ) has shown that nutritional supplementation with antioxidants and zinc modifies the natural course of AMD .
+OBJECTIVE	It is presumed that the supplements exert their beneficial effects by ameliorating oxidative stress due to the scavenging of reactive oxygen species ( ROS ) .
+OBJECTIVE	We have shown in a human model that under oxidative stress induced by administration of lipopolysaccharide ( LPS ) the vasoconstrictor response of retinal vessels to oxygen breathing is diminished .
+OBJECTIVE	This reduced vascular response to hyperoxia was previously shown to be normalized by the AREDS 1 supplements .
+OBJECTIVE	In the present study , we tested the hypothesis that the response can also be restored by a different antioxidant formulation .
+METHODS	This randomized , double-masked , placebo-controlled parallel group study included 40 healthy volunteers .
+METHODS	On each study day , retinal red blood cell ( RBC ) flow and the reactivity of retinal RBC flow to hyperoxia were investigated in the absence and presence of 2 ng/kg LPS .
+METHODS	Between the two study days , subjects received either the supplement or placebo for 14 days .
+RESULTS	Before supplementation LPS reduced retinal arterial vasoconstriction ( P < 0.001 ) and reactivity of retinal RBC flow ( P = 0.03 ) in response to 100 % oxygen breathing .
+RESULTS	Two weeks of supplementation did not affect baseline retinal RBC flow , but normalized the LPS-induced change in the response to hyperoxia .
+RESULTS	The arterial vasoconstrictor response during LPS and 100 % oxygen breathing was 4.1 1.0 % after administration of placebo and 10.6 0.9 % after supplementation ( P = 0.005 ) .
+RESULTS	The response of RBC flow to 100 % oxygen breathing during LPS was 52.2 2.1 % after administration of placebo and 59.5 2.0 % after supplementation ( P = 0.033 ) .
+CONCLUSIONS	Our data show that the supplement used in the present study can normalize the response of retinal RBC flow to hyperoxia under LPS administration .
+CONCLUSIONS	This indicates that supplementation can prevent endothelial dysfunction induced by oxidative stress , which is assumed to play a role in the pathophysiology of AMD .
+CONCLUSIONS	( ClinicalTrials.gov number , NCT00914576 . )
+

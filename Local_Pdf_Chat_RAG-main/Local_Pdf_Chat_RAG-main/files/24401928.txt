@@ -1,0 +1,15 @@
+24401928
+BACKGROUND	Nonpegylated liposomal doxorubicin liposomal doxorubicin , ( Myocet ; Sopherion Therapeutics , Inc Canada , and Cephalon , Europe ) ( NPLD ; Myocet ( ) ) in combination with trastuzumabHerceptin ( ) ( Hoffmann-La Roche ) has shown promising activity and cardiac safety .
+BACKGROUND	We conducted a randomized phase III trial of first-line NPLD plus trastuzumab and paclitaxel ( Pharmachemie B.V. ) ( MTP ) versus trastuzumab plus paclitaxel ( TP ) in patients with human epidermal growth factor 2 receptor ( HER2 ) - positive metastatic breast cancer .
+METHODS	Patients were randomly assigned to NPLD ( M , 50 mg/m ( 2 ) every 3 weeks for six cycles ) , trastuzumab ( T , 4 mg/kg loading dose followed by 2 mg/kg weekly ) , and paclitaxel ( P , 80 mg/m ( 2 ) weekly ) or T + P at the same doses until progression or toxicity .
+METHODS	The primary efficacy outcome was progression-free survival ( PFS ) .
+RESULTS	One hundred and eighty-one patients were allocated to receive MTP , and 183 to TP .
+RESULTS	Median PFS was 16.1 and 14.5 months with MTP and TP , respectively [ hazard ratio ( HR ) 0.84 ; two-sided P = 0.174 ] .
+RESULTS	In patients with estrogen receptor ( ER ) - and progesterone receptor ( PR ) - negative tumors , PFS was 20.7 and 14.0 months , respectively [ HR 0.68 ; 95 % confidence interval ( CI ) 0.47-0 .99 ] .
+RESULTS	Median overall survival ( OS ) was 33.6 and 28.9 months with MTP and TP , respectively ( HR 0.79 ; two-sided P = 0.083 ) .
+RESULTS	In ER - and PR-negative tumors , OS was 38.2 and 27.9 months , respectively ( HR 0.63 ; 95 % CI 0.42-0 .93 ) .
+RESULTS	The frequency of adverse events was higher with MTP , but there was no significant difference in cardiac toxicity between treatment arms .
+CONCLUSIONS	The trial failed to demonstrate a significant clinical improvement with the addition of M to TP regimen .
+CONCLUSIONS	The clinical benefit observed in an exploratory analysis in the ER - and PR-negative population deserves consideration for further clinical trials .
+BACKGROUND	NCT00294996 .
+

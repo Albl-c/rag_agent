@@ -1,0 +1,17 @@
+25833970
+BACKGROUND	Efficient fat digestion requires fat processing within the stomach and fat sensing in the intestine .
+BACKGROUND	Both processes also control gastric emptying and gastrointestinal secretions .
+OBJECTIVE	We aimed to visualize the influence of the intragastric stability of fat emulsions on their dynamics of gastric processing and structuring and to assess the effect this has on gastrointestinal motor and secretory functions .
+METHODS	Eighteen healthy subjects with normal body mass index ( BMI ) were studied on 4 separate occasions in a double-blind , randomized , crossover design .
+METHODS	Magnetic resonance imaging ( MRI ) data of the gastrointestinal tract and blood triglycerides were recorded before and for 240 min after the consumption of the following 4 different fat emulsions : lipid emulsion 1 ( LE1 ; acid stable , 0.33 m ) , lipid emulsion 2 ( LE2 ; acid stable , 52 m ) , lipid emulsion 3 ( LE3 ; acid unstable , solid fat , 0.32 m ) , and lipid emulsion 4 ( LE4 ; acid unstable , liquid fat , 0.38 m ) .
+RESULTS	Intragastric emulsion instability was associated with a change in gastric emptying .
+RESULTS	Acid-unstable emulsions exhibited biphasic and faster emptying profiles than did the 2 acid-stable emulsions ( P 0.0001 ) .
+RESULTS	When combined with solid fat ( LE3 ) , different dynamics of postprandial gallbladder volume were induced ( P 0.001 ) .
+RESULTS	For acid-stable emulsions , a reduction of droplet size by 2 orders of magnitude [ LE1 ( 0.33 m ) compared with LE2 ( 52 m ) ] delayed gastric emptying by 38 min .
+RESULTS	Although acid-stable ( LE1 and LE2 ) and redispersible ( LE4 ) emulsions caused a constant increase in blood triglycerides , no increase was detectable for LE3 ( P < 0.0001 ) .
+RESULTS	For LE3 , MRI confirmed the generation of large fat particles during gastric processing , which emptied into and progressed through the small intestine .
+CONCLUSIONS	MRI allows the detailed characterization of the in vivo fate of lipid emulsions .
+CONCLUSIONS	The acute effects of lipid emulsions on gastric emptying , gallbladder volume , and triglyceride absorption are dependent on microstructural changes undergone during consumption .
+CONCLUSIONS	Gastric peristalsis and secretion were effective at redispersing pools of liquid fat in the stomach .
+CONCLUSIONS	This trial was registered at clinicaltrials.gov as NCT01253005 .
+

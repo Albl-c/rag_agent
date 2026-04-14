@@ -1,0 +1,14 @@
+24345601
+OBJECTIVE	This study examined the effectiveness of a fully automated web-based programme to increase physical activity in adults with Type 2 diabetes .
+METHODS	Between May and July 2010 , participants were randomly allocated into either a 12-week intervention ( n = 195 ) or a control ( n = 202 ) group .
+METHODS	Participants were adults diagnosed with Type 2 diabetes , residing in Australia .
+METHODS	Participants were assessed at baseline , 12 and 36weeks .
+METHODS	The primary physical activity outcome was self-reported minutes of total physical activity .
+METHODS	Secondary physical activity outcomes included minutes spent walking , and engaged in moderate , and vigorous physical activity .
+METHODS	Additional measures included website satisfaction and website usage .
+METHODS	The intervention consisted of a 12-week web-based physical activity intervention developed based on the Theory of Planned Behavior and self-management framework .
+METHODS	Data were analysed from 2011 to 2012 .
+RESULTS	There was a significant group-by-time interaction ( X ( 2 ) ( df = 1 ) = 6.37 , p < .05 ) for total physical activity favouring the intervention group d = 0.11 , for those who completed the intervention , however this was not significant in the intention-to-treat analysis d = 0.01 .
+RESULTS	The intervention yielded high website satisfaction and usage .
+CONCLUSIONS	In general , there is some evidence for the effectiveness of web-based interventions for improving physical activity levels ; however it is clear that maintaining improvements remains an issue .
+

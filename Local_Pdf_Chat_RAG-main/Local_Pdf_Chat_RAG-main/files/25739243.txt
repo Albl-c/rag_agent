@@ -1,0 +1,14 @@
+25739243
+OBJECTIVE	To compare the effect on surgical indicators and functional outcome between preoperative skeletal traction and skin traction for adult femoral fracture and guide the choice of preoperative traction method of adult femoral fractures .
+METHODS	From February 2008 to September 2012 , 68 patients aged greater than 18-year-old with femoral fractures were treated and randomly divided into two groups according hospitalization order , the odd with skeletal traction of tibial tubercle ( group A ) and the even with skin traction ( group B ) .
+METHODS	In group A , there were 25 males and 9 females with an average age of ( 36.39.9 ) years old , including 11 cases with transverse fracture , 15 cases with oblique fracture , 8 cases with spiral fracture .
+METHODS	In group B , there 26 males and 8 females with an average age of ( 37.111.0 ) years old , including 10 cases with transverse fracture , 13 cases with oblique fracture ,11 cases with spiral fracture .
+METHODS	The operative time , blood loss , the number and amount of blood transfusion , fracture healing time , hemoglobin , pain scores and functional scores between two groups were analyzed and compared .
+METHODS	Results : All patients were followed up , the follow-up time was ( 33.56.5 ) months in group A , ( 31.37.5 ) months in groupB .
+METHODS	In group A , the operation time was ( 108.814.2 ) min and the intraoperative blood loss was ( 383.1117.1 ) ml and the postoperative blood transfusion was 14 cases and the blood transfusion was ( 350.0122.5 ) ml and the average bone healing time was ( 15.03.3 ) weeks .
+METHODS	In group B , the operation time was ( 111.612.7 ) min and the intraoperative blood loss was ( 392.0 116.7 ) ml and the blood transfusion was 11 cases and the blood transfusion was ( 327.3129.1 ) ml and the average healing time was ( 15.53.4 ) weeks .
+METHODS	These obseration indicators had no significant difference between two groups .
+METHODS	There was no significant difference between two groups in terms of Hemoglobin , the pain scores before and after traction , the femoral fractures efficacy score , knee function score and knee range .
+CONCLUSIONS	Preoperative skeletal traction does not reduce surgery time , blood loss and pain and so on .
+CONCLUSIONS	The bone healing time and limb functional outcomes were also not significantly improved .
+

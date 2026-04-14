@@ -1,0 +1,17 @@
+24686107
+BACKGROUND	The IMMEDIATE ( Immediate Myocardial Metabolic Enhancement During Initial Assessment and Treatment in Emergency care ) Trial , a randomized controlled double-blind clinical effectiveness trial of glucose-insulin-potassium ( GIK ) administered in ambulances in the out-of-hospital setting , used the Exception from Informed Consent Requirements ( EFIC ) for Emergency Research under Title 21 of the Code of Federal Regulations .
+BACKGROUND	EFIC requirements include community consultation that typically involves using a variety of communication methods and venues to inform the public of the research and to receive their feedback .
+BACKGROUND	Although not the primary purpose of the community consultation process , a common concern to research sponsors , staff , and institutional review boards ( IRBs ) is whether there will be a sufficient number of participants to justify mounting a study in their community .
+BACKGROUND	Information from community consultation regarding the community acceptance might inform this question .
+OBJECTIVE	We evaluated the utility of telephone survey data done as part of the EFIC process as a way to project the ultimate rate of trial participant enrollment .
+METHODS	A telephone survey community consultation process was undertaken in nine communities planning to be IMMEDIATE Trial sites using a representative sampling of the target population in the areas covered by participating emergency medical service ( EMS ) agencies .
+METHODS	Survey respondents were read a description of the planned study and its informed consent approach that included the option for patients to decline participation in the trial while being transported for acute care in an ambulance .
+METHODS	Survey respondents were then asked whether they would object to participating in the study .
+METHODS	At the conclusion of actual trial enrollment , the Coordinating Center compared the survey results with the actual rates of enrollment at each site .
+RESULTS	Approximately 200 ( range = 200-271 ) respondents completed the survey in each of the study communities .
+RESULTS	Of 2079 survey respondents , 68 % ( range = 61 % -75 % ) said that they would not object to participating in the trial if experiencing a heart attack , and 85 % ( range = 79 % -89 % ) said that they would allow the study to be done in their community .
+RESULTS	During actual trial enrollment in the communities , 79 % ( range = 63 % -91 % ) of the 828 potential participants agreed in the ambulance to have the study drug started and provided informed consent at the hospital , an average of 13 percentage-points higher than projected by the survey ( 95 % confidence interval ( CI ) : 9 % -17 % ) , 19 % higher on a relative scale ( CI : 14 % -25 % ) .
+CONCLUSIONS	The survey-based approach to community consultation proved to be an efficient way to obtain representative input from potential clinical trial participants .
+CONCLUSIONS	The survey data generated a relatively good and conservative estimate of the ultimate rate of trial enrollment .
+CONCLUSIONS	This information could be useful to investigators and IRBs in projecting enrollment for clinical trials using EFIC .
+

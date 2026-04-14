@@ -1,0 +1,18 @@
+25751673
+OBJECTIVE	Use of hypotonic intravenous fluids for maintenance requirements is associated with increased risk of hyponatremia that results in morbidity and mortality in children .
+OBJECTIVE	Clinical trial data comparing isotonic and hypotonic maintenance fluids in nonsurgical hospitalized pediatric patients outside intensive care units are lacking .
+OBJECTIVE	To compare isotonic ( sodium chloride , 0.9 % , and dextrose , 5 % ) with hypotonic ( sodium chloride , 0.45 % , and dextrose , 5 % ) intravenous maintenance fluids in a hospitalized general pediatric population .
+METHODS	In this double-blind randomized clinical trial , we recruited 110 children admitted to a general pediatric unit of a tertiary care children 's hospital from March 1 , 2008 , through August 31 , 2012 ( age range , 1 month to 18 years ) , with normal baseline serum sodium levels who were anticipated to require intravenous maintenance fluids for 48 hours or longer ( intent-to-treat analyses ) .
+METHODS	Children with diagnoses that required specific fluid tonicity and volumes were excluded .
+METHODS	Patients were randomized to receive isotonic or hypotonic intravenous fluid at maintenance rates for 48 hours .
+METHODS	The primary outcome was mean serum sodium level at 48 hours .
+METHODS	The secondary outcomes were mean sodium level at 24 hours , hyponatremia and hypernatremia , weight gain , hypertension , and edema .
+METHODS	Confounding variables were included in multiple regression models .
+METHODS	Post hoc analyses included change from baseline sodium level at 24 and 48 hours and subgroup analysis of children with primary respiratory diagnosis .
+RESULTS	Of 110 enrolled patients , 54 received isotonic fluids and 56 received hypotonic fluids .
+RESULTS	The mean ( SD ) sodium level at 48 hours was 139.9 ( 2.7 ) mEq/L in the isotonic group and 139.6 ( 2.6 ) mEq/L in the hypotonic group ( 95 % CI of the difference , -0.94 to 1.74 mEq/L ; P = .60 ) .
+RESULTS	Two patients in the hypotonic group developed hyponatremia , 1 in each group developed hypernatremia , 2 in each group developed hypertension , and 2 in the isotonic group developed edema .
+RESULTS	Mean ( SD ) change from baseline to 48-hour sodium level was +1.3 ( 2.9 ) vs -0.12 ( 2.8 ) mEq/L , respectively ( absolute difference , 1.4 mEq/L ; 95 % CI of the difference , -0.01 to 2.8 mEq/L ; P = .05 ) .
+CONCLUSIONS	Our study results support the notion that isotonic maintenance fluid administration is safe in general pediatric patients and may result in fewer cases of hyponatremia .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00632775 .
+

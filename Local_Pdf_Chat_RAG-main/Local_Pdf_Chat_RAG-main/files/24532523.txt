@@ -1,0 +1,16 @@
+24532523
+OBJECTIVE	Although the analgesic effects of corticosteroids have been well documented , little information is available on periarticular injection ( PI ) containing corticosteroids for early postoperative pain management after total knee arthroplasty ( TKA ) .
+OBJECTIVE	We performed a prospective double-blind randomized trial to evaluate the efficacy and safety of an intraoperative corticosteroid PI in patients undergoing TKA .
+METHODS	Seventy-six consecutive female patients undergoing bilateral staged TKA were randomized to receive steroid or non-steroid PI , with 3 months separating the procedures .
+METHODS	The steroid group received PI with a mixture containing triamcinolone acetonide ( 40 mg ) .
+METHODS	The non-steroid group received the same injection mixture without corticosteroid .
+METHODS	During the postoperative period , nighttime pain , functional recovery [ straight leg raising ( SLR ) ability and maximal flexion ] , patient satisfaction , and complications were recorded .
+METHODS	Short-term postoperative clinical scores and patient satisfaction were evaluated at 6 months .
+RESULTS	The pain level was significantly lower in the PI steroid than the non-steroid group on the night of the operation ( VAS , 1.2 vs. 2.3 ; p = 0.021 ) .
+RESULTS	Rebound pain was observed in both groups at POD1 ( VAS , 3.2 vs. 3.8 ; p = 0.248 ) , but pain remained at a low level thereafter .
+RESULTS	No significant differences were seen in maximal flexion , frequency of acute rescuer , clinical scores , and patient satisfaction .
+RESULTS	The steroid group was able to perform SLR earlier than the non-steroid group ( p = 0.013 ) .
+RESULTS	The incidence of complications was similar between the groups .
+CONCLUSIONS	PI containing a corticosteroid provided an additional pain-relieving effect on the night of the operation .
+CONCLUSIONS	In addition , corticosteroid PI did not increase the perioperative complications of TKA .
+

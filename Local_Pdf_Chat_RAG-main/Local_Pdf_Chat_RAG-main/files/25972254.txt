@@ -1,0 +1,17 @@
+25972254
+OBJECTIVE	To assess the safety and effectiveness of the Hydrus Microstent ( Ivantis , Inc , Irvine , CA ) with concurrent cataract surgery ( CS ) for reducing intraocular pressure ( IOP ) in open-angle glaucoma ( OAG ) .
+METHODS	Prospective , multicenter , randomized , single-masked , controlled clinical trial .
+METHODS	One hundred eyes from 100 patients 21 to 80 years of age with OAG and cataract with IOP of 24 mmHg or less with 4 or fewer hypotensive medications and a washed-out diurnal IOP ( DIOP ) of 21 to 36 mmHg .
+METHODS	On the day of surgery , patients were randomized 1:1 to undergo CS with the microstent or CS alone .
+METHODS	Postoperative follow-up was at 1 day , 1 week , and 1 , 3 , 6 , 12 , 18 , and 24 months .
+METHODS	Washout of hypotensive medications was repeated at 12 and 24 months .
+METHODS	Response to treatment was defined as a 20 % or more decrease in washed out DIOP at 12 and 24 months of follow-up compared with baseline .
+METHODS	Mean DIOP at 12 and 24 months , the proportion of subjects requiring medications at follow-up , and the mean number of medications were analyzed .
+METHODS	Safety measures included change in visual acuity , slit-lamp observations , and adverse events .
+RESULTS	The proportion of patients with a 20 % reduction in washed out DIOP was significantly higher in the Hydrus plus CS group at 24 months compared with the CS group ( 80 % vs. 46 % ; P = 0.0008 ) .
+RESULTS	Washed out mean DIOP in the Hydrus plus CS group was significantly lower at 24 months compared with the CS group ( 16.93.3 mmHg vs. 19.24.7 mmHg ; P = 0.0093 ) , and the proportion of patients using no hypotensive medications was significantly higher at 24 months in the Hydrus plus CS group ( 73 % vs. 38 % ; P = 0.0008 ) .
+RESULTS	There were no differences in follow-up visual acuity between groups .
+RESULTS	The only notable device-related adverse event was focal peripheral anterior synechiae ( 1-2 mm in length ) .
+RESULTS	Otherwise , adverse event frequency was similar in the 2 groups .
+CONCLUSIONS	Intraocular pressure was clinically and statistically significantly lower at 2 years in the Hydrus plus CS group compared with the CS alone group , with no differences in safety .
+

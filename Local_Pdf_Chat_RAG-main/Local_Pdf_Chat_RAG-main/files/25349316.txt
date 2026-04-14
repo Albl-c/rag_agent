@@ -1,0 +1,11 @@
+25349316
+OBJECTIVE	To measure the effects of participating in structured oral presentation evaluation sessions early in pediatric clerkships on students ' subsequent presentations .
+METHODS	We conducted a single-blind , 3-arm , cluster randomized controlled trial during pediatric clerkships at Boston University School of Medicine , University of Maryland School of Medicine , Oregon Health & Science University , and Case Western Reserve University School of Medicine .
+METHODS	Blocks of students at each school were randomly assigned to experience either ( 1 ) no formal presentation feedback ( control ) or a small-group presentation feedback session early in pediatric clerkships in which students gave live presentations and received feedback from faculty who rated their presentations by using a ( 2 ) single-item ( simple ) or ( 3 ) 18-item ( detailed ) evaluation form .
+METHODS	At the clerkship end , overall quality of subjects ' presentations was rated by faculty blinded to randomization status , and subjects reported whether their presentations had improved .
+METHODS	Analyses included multivariable linear and logistic regressions clustered on clerkship block that controlled for medical school .
+RESULTS	A total of 476 participants were evenly divided into the 3 arms , which had similar characteristics .
+RESULTS	Compared with controls , presentation quality was significantly associated with participating in detailed ( coefficient : 0.38 ; 95 % confidence interval [ CI ] : 0.07-0 .69 ) but not simple ( coefficient : 0.16 ; 95 % CI : -0.12 -0.43 ) feedback sessions .
+RESULTS	Similarly , student self-report of presentation improvement was significantly associated with participating in detailed ( odds ratio : 2.16 ; 95 % CI : 1.11-4 .18 ] but not simple ( odds ratio : 1.89 ; 95 % CI : 0.91-3 .93 ) feedback sessions .
+CONCLUSIONS	Small-group presentation feedback sessions led by faculty using a detailed evaluation form resulted in clerkship students delivering oral presentations of higher quality compared with controls .
+

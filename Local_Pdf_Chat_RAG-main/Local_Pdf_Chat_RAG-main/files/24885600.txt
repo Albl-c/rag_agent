@@ -1,0 +1,12 @@
+24885600
+BACKGROUND	Acute myocardial infarction ( AMI ) is the leading cause of mortality worldwide .
+BACKGROUND	Oxidative stress has been involved in the ischemia-reperfusion injury in AMI .
+BACKGROUND	It has been suggested that reperfusion accounts for up to 50 % of the final size of a myocardial infarct , a part of the damage likely to be prevented.Therefore , we propose that antioxidant reinforcement through vitamins C and E supplementation should protect against the ischemia-reperfusion damage , thus decreasing infarct size.The PREVEC Trial ( Prevention of reperfusion damage associated with percutaneous coronary angioplasty following acute myocardial infarction ) seeks to evaluate whether antioxidant vitamins C and E reduce infarct size in patients subjected to percutaneous coronary angioplasty after AMI .
+METHODS	This is a randomized , 1:1 , double-blind , placebo-controlled clinical trial.The study takes place at two centers in Chile : University of Chile Clinical Hospital and San Borja Arriarn Clinical Hospital.The subjects will be 134 adults with acute myocardial infarction with indication for percutaneous coronary angioplasty.This intervention is being performed as a pilot study , involving high-dose vitamin C infusion plus oral administration of vitamin E ( Vitamin-treatment group ) or placebo ( Control group ) during the angioplasty procedure .
+METHODS	Afterward , the Vitamin-treatment group receives oral doses of vitamins C and E , and the Control group receives placebo for 84 days after coronary angioplasty.Primary outcome is infarct size , assessed by cardiac magnetic resonance ( CMR ) , measured 6 and 84 days after coronary angioplasty.Secondary outcomes are ejection fraction , measured 6 and 84 days after coronary angioplasty with CMR , and biomarkers for oxidative stress , antioxidant status , heart damage , and inflammation , which will be measured at baseline , at the onset of reperfusion , 6 to 8 hours after revascularization , and at hospital discharge .
+CONCLUSIONS	The ischemia-reperfusion event occurring during angioplasty is known to increase myocardial infarct size .
+CONCLUSIONS	The cardioprotective benefits of high doses of vitamin C combined with vitamin E have not been fully explored .
+CONCLUSIONS	The PREVEC Trial seeks to determine the suitability of the therapeutic use of vitamins C and E against the reperfusion damage produced during angioplasty.Patient recruitment opened in February 2013 .
+CONCLUSIONS	The trial is scheduled to end in March 2016 .
+BACKGROUND	ISRCTN56034553 .
+

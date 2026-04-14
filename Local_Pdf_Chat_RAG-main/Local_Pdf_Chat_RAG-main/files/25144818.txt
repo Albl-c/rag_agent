@@ -1,0 +1,11 @@
+25144818
+BACKGROUND	Isolated limb perfusion ( ILP ) is a treatment option most commonly used in the treatment of melanoma in-transit metastases of the extremities .
+BACKGROUND	The principle idea is to surgically isolate a region of the body and then deliver a high concentration of a chemotherapeutic agent together with hyperthermia .
+BACKGROUND	There have been three randomised trials exploring whether adjuvant ILP to patients with recurrent or high-risk primary melanomas increases survival ; one of these trials has now been updated with a 25-year follow-up .
+METHODS	The original study randomised 69 patients ( between 1981 and 1989 ) with their first satellite or in-transit recurrence to either wide excision ( WE group , n = 36 patients ) or to WE and adjuvant ILP ( WE+ILP group , n = 33 patients ) .
+METHODS	Follow-up data 25 years later concerning survival and cause of death was retrieved from the Swedish National Cause of Death Register .
+RESULTS	In the WE+ILP group there were 20 deaths ( 61 % ) due to melanoma compared with 26 deaths ( 72 % ) in the WE group ( p = 0.31 ) .
+RESULTS	Median melanoma-specific survival was 95 months for WE+ILP compared to 38 months for the WE group , an almost 5 year benefit without statistical significance ( p = 0.24 ) .
+CONCLUSIONS	There is no evidence that adjuvant ILP prolongs survival in patients with high-risk or recurrent melanoma ; however , the existing randomised trials are largely underpowered to detect such a difference .
+CONCLUSIONS	New studies are exploring systemic immunological effects of ILP , and a combination of regional therapy and immunotherapy may serve as a rationale for new trials using ILP in the future .
+

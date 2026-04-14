@@ -1,0 +1,12 @@
+25311881
+OBJECTIVE	Although many initiatives exist to improve the availability of healthy foods in corner stores , few randomized trials have assessed their effects .
+OBJECTIVE	This study evaluated , in a randomized controlled trial , the effects of a first-generation healthy corner store intervention on students ' food and beverage purchases over a 2-year period .
+METHODS	Participants ( n = 767 ) were fourth - , fifth - , and sixth-grade students .
+METHODS	Ten schools and their nearby corner stores ( n = 24 ) were randomly assigned to the healthy corner store intervention or an assessment-only control .
+METHODS	Intercept surveys directly assessed the nutritional characteristics of students ' corner store purchases at baseline , 1 and 2 years .
+METHODS	Students ' weight and heights were measured at baseline , 1 and 2 years .
+RESULTS	There were no differences in energy content per intercept purchased from control or intervention schools at year 1 ( P = 0.12 ) or 2 ( P = 0.58 ) .
+RESULTS	There were no differences between control and intervention students in BMI z score ( year 1 , P = 0.83 ; year 2 , P = 0.98 ) or obesity prevalence ( year 1 , P = 0.96 ; year 2 , P = 0.58 ) .
+CONCLUSIONS	A healthy corner store initiative did not result in significant changes in the energy content of corner store purchases or in continuous or categorical measures of obesity .
+CONCLUSIONS	These data will help to inform future interventions .
+

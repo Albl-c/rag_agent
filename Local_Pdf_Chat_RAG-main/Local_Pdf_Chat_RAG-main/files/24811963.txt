@@ -1,0 +1,21 @@
+24811963
+OBJECTIVE	Eye drops of aganirsen , an antisense oligonucleotide preventing insulin receptor substrate-1 expression , inhibited corneal neovascularization in a previous dose-finding phase II study .
+OBJECTIVE	We aimed to confirm these results in a phase III study and investigated a potential clinical benefit on visual acuity ( VA ) , quality of life ( QoL ) , and need for transplantation .
+METHODS	Multicenter , double-masked , randomized , placebo-controlled phase III study .
+METHODS	Analysis of 69 patients with keratitis-related progressive corneal neovascularization randomized to aganirsen ( 34 patients ) or placebo ( 35 patients ) .
+METHODS	Patients applied aganirsen eye drops ( 86 g/day/eye ) or placebo twice daily for 90 days and were followed up to day 180 .
+METHODS	The primary end point was VA. .
+METHODS	Secondary end points included area of pathologic corneal neovascularization , need for transplantation , risk of graft rejection , and QoL .
+RESULTS	Although no significant differences in VA scores between groups were observed , aganirsen significantly reduced the relative corneal neovascularization area after 90 days by 26.20 % ( P = 0.014 ) .
+RESULTS	This improvement persisted after 180 days ( 26.67 % , P = 0.012 ) .
+RESULTS	Aganirsen tended to lower the transplantation need in the intent-to-treat ( ITT ) population at day 180 ( P = 0.087 ) .
+RESULTS	In patients with viral keratitis and central neovascularization , a significant reduction in transplantation need was achieved ( P = 0.048 ) .
+RESULTS	No significant differences between groups were observed in the risk of graft rejection .
+RESULTS	However , aganirsen tended to decrease this risk in patients with traumatic/viral keratitis ( P = 0.162 ) at day 90 .
+RESULTS	The QoL analyses revealed a significant improvement with aganirsen in composite and near activity subscores ( P = 0.039 and 0.026 , respectively ) at day 90 in the per protocol population .
+RESULTS	Ocular and treatment-related treatment-emergent adverse events ( TEAEs ) were reported in a lower percentage with aganirsen compared with placebo .
+RESULTS	Only 3 serious TEAEs ( 2 with aganirsen and 1 with placebo ) were considered treatment-related .
+CONCLUSIONS	This first phase III study on a topical inhibitor of corneal angiogenesis showed that aganirsen eye drops significantly inhibited corneal neovascularization in patients with keratitis .
+CONCLUSIONS	The need for transplantation was significantly reduced in patients with viral keratitis and central neovascularization .
+CONCLUSIONS	Topical application of aganirsen was safe and well tolerated .
+

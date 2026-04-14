@@ -1,0 +1,16 @@
+24378475
+OBJECTIVE	An association of clinical and subclinical hypothyroidism with mild cognitive impairment ( MCI ) has not been established .
+OBJECTIVE	To evaluate the association of clinical and subclinical hypothyroidism with MCI in a large population-based cohort .
+METHODS	A cross-sectional , population-based study was conducted in Olmsted County , Minnesota .
+METHODS	Randomly selected participants were aged 70 to 89 years on October 1 , 2004 , and were without documented prevalent dementia [ CORRECTED ] .
+METHODS	A total of 2050 participants were evaluated and underwent in-person interview , neurologic evaluation , and neuropsychological testing to assess performance in memory , attention/executive function , and visuospatial and language domains .
+METHODS	Participants were categorized by consensus as being cognitively normal , having MCI , or having dementia according to published criteria .
+METHODS	Clinical and subclinical hypothyroidism were ascertained from a medical records linkage system .
+METHODS	Association of clinical and subclinical hypothyroidism with MCI .
+RESULTS	Among 1904 eligible participants , the frequency of MCI was 16 % in 1450 individuals with normal thyroid function , 17 % in 313 persons with clinical hypothyroidism , and 18 % in 141 individuals with subclinical hypothyroidism .
+RESULTS	After adjusting for covariates ( age , educational level , sex , apolipoprotein E 4 , depression , diabetes mellitus , hypertension , stroke , body mass index , and coronary artery disease ) we found no significant association between clinical or subclinical hypothyroidism and MCI ( odds ratio [ OR ] , 0.99 [ 95 % CI , 0.66-1 .48 ] and 0.88 [ 0.38-2 .03 ] , respectively ) .
+RESULTS	No effect of sex interaction was seen on these effects .
+RESULTS	In stratified analysis , the odds of MCI with clinical and subclinical hypothyroidism among men was 1.02 ( 95 % CI , 0.57-1 .82 ) and 1.29 ( 0.68-2 .44 ) and , among women , was 1.04 ( 0.66-1 .66 ) and 0.86 ( 0.37-2 .02 ) , respectively .
+CONCLUSIONS	In this population-based cohort of elderly people , neither clinical nor subclinical hypothyroidism was associated with MCI .
+CONCLUSIONS	Our findings need to be validated in a separate setting using the published criteria for MCI and confirmed in a longitudinal study .
+

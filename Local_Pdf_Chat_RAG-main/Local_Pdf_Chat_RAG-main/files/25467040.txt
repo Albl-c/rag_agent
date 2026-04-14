@@ -1,0 +1,20 @@
+25467040
+OBJECTIVE	To assess bacterial colonization following balloon uterine stent placement in the uterus for 30 days .
+METHODS	Prospective randomized controlled study .
+METHODS	Tertiary medical center .
+METHODS	Sixty-eight women scheduled for hysteroscopy .
+METHODS	Women who were undergoing hysteroscopic surgery were randomly assigned to receive a balloon uterine stent or not .
+METHODS	Before starting surgery , the uterine cavity was swabbed for bacterial culture .
+METHODS	The device was placed in the uterus after surgery in the stent group .
+METHODS	After 30 days , the stent was removed and sent for culture and the uterine cavity also swabbed and cultured .
+METHODS	The uterine cavities of the control patients were swabbed before and 30 days after surgery .
+METHODS	The primary outcome was the incidence of bacterial colonization of the uterus .
+METHODS	Secondary outcomes were pain intensity and species of colonizing bacteria .
+RESULTS	Excluding eight women , 30 women in each group were included in this analysis .
+RESULTS	In the stent group , three women ( 10.0 % ) demonstrated bacterial colonization before surgery compared with nine women ( 30.0 % ) after 30 days .
+RESULTS	In the control group , four ( 13.3 % ) and ten ( 33.3 % ) women had microorganisms detected in the uterus before and after 30 days after surgery , respectively .
+RESULTS	In neither group did the percentage of women with uterine microorganisms increase significantly after 30 days .
+RESULTS	The percentages of women with uterine bacterial colonization before and 30 days after surgery were similar between both groups .
+CONCLUSIONS	Balloon uterine stents may be placed after surgery for up to 30 days without increasing bacterial colonization .
+BACKGROUND	ClinicalTrials.gov ( www.clinicaltrials.gov ) NCT01167296 .
+

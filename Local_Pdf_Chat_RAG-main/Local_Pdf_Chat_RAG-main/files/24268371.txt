@@ -1,0 +1,10 @@
+24268371
+OBJECTIVE	This study aimed to compare the efficacy and safety of bismuth-included standard regimen and modified sequential treatments in Turkey , where the success rate of standard triple therapy is very low .
+METHODS	One-hundred and sixty patients with dyspeptic complaints and nave Helicobacter pylori infection were randomized into four groups : 41 patients received standard 14-day quadruple treatment ( STD ) ( Rabeprazole 20mg-bid , bismuth subcitrate ( 120 mg-qid ) , Tetracycline 500 mg-qid , Metronidazole 500 mg-tid ) for 2 weeks .
+METHODS	The modified sequential therapy groups received 20 mg rabeprazole and 1g amoxicillin , twice daily for the first 5 days , followed by Rabeprazole 20mg-bid , bismuth subcitrate ( 120 mg-qid ) , Tetracycline 500 mg-qid , Metronidazole 500 mg-tid for the remaining 5 ( 10 day sequential therapy group-10S ) ( 42 patients ) , 7 ( 12 day sequential therapy group-12S ) ( 42 patients ) and 9 ( 14 day sequential therapy group-14S ) ( 41 patients ) days .
+RESULTS	The overall compliance and H. pylori eradication rate among the 160 patients who completed the H. pylori eradication regimens were 86.9 % ( 139/160 ) and 78.1 % ( 125/160 ) , respectively .
+RESULTS	The results were not statistically different between groups in the eradication rates .
+RESULTS	Per-protocol eradication rates were 76.5 % in STD , 71.4 % in 10S , 82.4 % in 12S and 83.3 % in 14S groups ( p = 0.7 ) .
+RESULTS	Intention-to-treatment rates were 77.5 % in STD , 72.5 % in 10S , 82.5 % in 12S and 80.0 % in 14S groups ( p = 0.5 ) .
+CONCLUSIONS	The eradication rates of standard 14-day and different sequential quadruple treatment regimens are comparable and much more higher than with standard 14-day triple H. pylori eradication treatment that has been reported previously in Turkey .
+

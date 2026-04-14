@@ -1,0 +1,20 @@
+24977755
+BACKGROUND	Bone marrow ( BM ) dysfunction is common in severely injured trauma patients , resulting from elevated catecholamines and plasma granulocyte colony-stimulating factor ( G-CSF ) as well as prolonged mobilization of hematopoietic progenitor cells ( HPCs ) .
+BACKGROUND	We have previously shown that propranolol ( - blocker [ BB ] ) reduces HPC mobilization in a rodent model of injury and hemorrhagic shock .
+BACKGROUND	We hypothesize that BB would prevent BM dysfunction in humans following severe injury .
+METHODS	Forty-five severely injured trauma patients were studied in a prospective , randomized pilot trial .
+METHODS	Twenty-five patients received BB , and 20 served as untreated controls .
+METHODS	The dose of propranolol was adjusted to decrease the heart rate by 10 % to 20 % from baseline .
+METHODS	Blood was analyzed for the presence of HPC ( blast-forming unit erythroid cells [ BFU-E ] and colony-forming unit erythroid cells ) and G-CSF .
+METHODS	Demographic data , Injury Severity Score ( ISS ) , hemoglobin , reticulocyte number , and outcome data were obtained .
+RESULTS	The mean age of the study population was 33 years ; 87 % were male , with a mean ISS of 29 .
+RESULTS	There is a significant increase in BFU-E in peripheral blood immediately following traumatic injury , and this mobilization persists for 30 days .
+RESULTS	The use of BB significantly decreases BFU-E and colony-forming unit erythroid cells at all time points .
+RESULTS	G-CSF is significantly elevated in both groups on admission ; the use of BB decreases G-CSF levels by 51 % as compared with 37 % for controls .
+RESULTS	The average hemoglobin is nearly 1 g higher on the day of discharge with propranolol treatment ( BB , 9.9 0.4 g/dL vs. no BB , 9.1 0.6 g/dL ) .
+CONCLUSIONS	Following severe trauma , early treatment with propranolol following resuscitation is safe .
+CONCLUSIONS	The use of propranolol blunts early tachycardia , reduces HPC mobilization , and results in a faster return to baseline of the G-CSF peak seen after injury .
+CONCLUSIONS	There is also a trend toward faster recovery and resolution of anemia .
+CONCLUSIONS	Propranolol may be the first therapeutic agent to show improved BM function after severe injury .
+METHODS	Therapeutic study , level III .
+

@@ -1,0 +1,16 @@
+26075372
+OBJECTIVE	The aim of this study was to examine the effect of chitosan membrane on wound healing .
+METHODS	The effect of chitosan membranes was evaluated in an experimental rat model .
+METHODS	On day 0 , circular full-thickness skin sections were excised from the scalps of rats .
+METHODS	The wounds were then measured and the surrounding area tattooed .
+METHODS	Rats were sacrificed either immediately after excision , or randomised into control and chitosan groups and followed up on day 3 , 7 , 14 or 21 .
+METHODS	Control group wounds were covered with Aquacel ( wound dressing ) .
+METHODS	Chitosan group wounds were covered with chitosan membranes and the wound dressing .
+METHODS	Wounds and the distances between the tattooed marks were measured on follow-up , the wound sites were harvested and histologically examined , and serum interleukin ( IL-4 ) levels were analysed .
+RESULTS	A total of 54 rats were examined and all time points included 6 control and 6 chitosan treated animals , except for day 0 which consisted of control animals only .
+RESULTS	On day 3 , wounds in the chitosan group were significantly ( p < 0.05 ) smaller ( 606 % versus 7819 % of the original wound area ) than in the control group .
+RESULTS	Chitosan membranes were found to degrade at the wound sites between days 7 and 14 .
+RESULTS	Leukocyte counts were lower in the chitosan group than in the control group on day seven ( p < 0.05 ) .
+RESULTS	IL-4 levels were significantly higher on day 7 ( p < 0.001 ) and 14 ( p < 0.001 ) in the chitosan group .
+CONCLUSIONS	According to our results chitosan membrane may promote early wound healing , reduce inflammation and affect the IL-4 pathway , however , the membrane degrades at the wound site after day 7 .
+

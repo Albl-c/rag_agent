@@ -1,0 +1,16 @@
+24262278
+OBJECTIVE	We evaluated an all-oral regimen comprising the nucleotide polymerase inhibitor sofosbuvir ( SOF ) with the NS5A inhibitor ledipasvir ( LDV ) or the NS5B non-nucleoside inhibitor GS-9669 in patients with genotype 1 hepatitis C virus ( HCV ) infection .
+METHODS	A total of 113 patients were enrolled .
+METHODS	Sofosbuvir ( 400 mg once daily ) and LDV ( 90 mg once daily ) plus ribavirin ( RBV ) were given for 12 weeks to treatment-nave ( TN ) patients ( n = 25 ) and those who did not respond to previous therapy ( prior null responders , n = 9 ) .
+METHODS	Sofosbuvir and GS-9669 ( 500 mg once daily ) plus RBV were given for 12 weeks to TN patients ( n = 25 ) and prior null responders ( n = 10 ) .
+METHODS	Additionally , prior null responders with cirrhosis were randomly assigned to groups given a fixed-dose combination of SOF and LDV , with RBV ( n = 9 ) or without RBV ( n = 10 ) .
+METHODS	Finally , a group of TN patients received SOF , LDV , and RBV for 6 weeks ( n = 25 ) .
+METHODS	The primary efficacy end point was sustained virologic response 12 weeks after therapy ( SVR12 ) .
+RESULTS	SVR12 was achieved by 25 of 25 ( 100 % ) TN patients receiving SOF , LDV , and RBV and 23 of 25 ( 92 % ) of those receiving SOF , GS-9669 , and RBV .
+RESULTS	Of TN patients receiving 6 weeks of SOF , LDV , and RBV , 17 of 25 ( 68 % ) achieved SVR12 .
+RESULTS	All noncirrhotic prior null responders receiving 12 weeks of SOF along with another direct-acting antiviral agent plus RBV achieved SVR12-9 of 9 ( 100 % ) of those receiving SOF , LDV , and RBV and 10 of 10 ( 100 % ) of those receiving SOF , GS-9669 , and RBV .
+RESULTS	Among cirrhotic prior null responders , SVR12 was achieved by 9 ( 100 % ) of those receiving SOF , LDV , and RBV and 7 ( 70 % ) of those receiving SOF and LDVD without RBV .
+RESULTS	The most common reported adverse events were headache , fatigue , and nausea .
+CONCLUSIONS	The combination of SOF and a second direct-acting antiviral agent is highly effective in TN patients with HCV genotype 1 infection and in patients that did not respond to previous treatment .
+CONCLUSIONS	ClinicalTrials.gov ID NCT01260350 .
+

@@ -1,0 +1,18 @@
+25962601
+OBJECTIVE	Rheumatoid arthritis ( RA ) is a chronic autoimmune disease where TNF - is a central mediator of inflammation , and is cleaved from the cell surface by TACE/ADAM17 .
+OBJECTIVE	This metalloproteinase is also responsible for the release of soluble ( s ) CD163 .
+OBJECTIVE	Soluble CD163 reflects macrophage activation .
+OBJECTIVE	In RA , sCD163 has been suggested as a marker of disease activity and progression .
+OBJECTIVE	Our aim is to investigate sCD163 levels in early RA patients .
+METHODS	Soluble CD163 was measured by ELISA from 150 RA plasma samples from the OPERA trial .
+METHODS	Averaged disease duration was three months , prior to randomisation with methotrexate ( MTX ) and adalimumab ( DMARD+ADA ) or MTX and placebo ( DMARD+PLA ) .
+METHODS	Soluble CD163 levels were evaluated in relation to clinical disease parameters .
+RESULTS	Plasma sCD163 at baseline was 2.39 mg/l ( 1.74 mg/l -3.18 mg/l ) , mean ( 95 % CI ) , vs healthy controls : 1.63 mg/l ( 1.54 mg/l - 1.73 mg/l ) , ( p < 0.001 ) .
+RESULTS	After three months of treatment sCD163 levels decreased significantly ( average 23.5 % ) in both treatment groups .
+RESULTS	Significant incremental sCD163 levels followed withdrawal of ADA after 12 months of treatment .
+RESULTS	Baseline sCD163 correlated with CRP and all investigated disease activity markers ( = 0.16-0 .28 , p < 0.05 ) .
+RESULTS	In the DMARD+PLA group baseline sCD163 also correlated with CRP during the follow-up period .
+CONCLUSIONS	Soluble CD163 correlated with disease activity markers in early RA before treatment .
+CONCLUSIONS	Plasma sCD163 may add to currently available disease measures by specifically reflecting changes in macrophage activity as evidenced by increasing levels following anti-TNF withdrawal , despite maintenance of a stable clinical condition achieved by conventional remedies .
+CONCLUSIONS	It remains to be determined whether sCD163 is an early predictor of disease flare .
+

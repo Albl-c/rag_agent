@@ -1,0 +1,14 @@
+24864326
+OBJECTIVE	To compare the efficacy and safety outcomes of bimanual microincision cataract surgery ( MICS ) versus 2.2-mm coaxial phacoemulsification assisted by Femtosecond LenSx ( Alcon-LenSx Inc. , Aliso Viejo , CA ) .
+METHODS	This prospective , randomized , observational , comparative case series comprised 50 cataractous eyes of 50 patients receiving femtosecond laser refractive lens surgery followed by a bimanual MICS technique with two 1-mm incisions ( 25 patients ) ( FemtoMICS group ) and a coaxial phacoemulsification technique with a 1-mm paracentesis and a 2.2-mm principal incision ( 25 patients ) ( FemtoCoaxial group ) .
+METHODS	The main outcomes measures were : ultrasound power , effective phacoemulsification time , postoperative spherical equivalent , higher-order aberrations ( corneal and internal ) , corneal thickness , endothelial cell count , macular thickness , and complications during and after surgery .
+METHODS	Both groups were absolutely comparable for all variables preoperatively .
+RESULTS	Mean ultrasound power was 1.8 % 0.9 % for MICS and 14.7 % 4.9 % for 2.2-mm incisions ( P < .001 ) .
+RESULTS	Effective phacoemulsification time values for MICS and 2.2-mm incisions were 1.5 0.9 and 4.5 2.9 sec , respectively ( P = .002 ) .
+RESULTS	Mean postoperative spherical equivalent was 0.26 for FemtoMICS and 0.33 for FemtoCoaxial ( P > .05 ) .
+RESULTS	The efficacy index at 1 month postoperatively was 160.2 % for FemtoMICS and 149 % for FemtoCoaxial .
+RESULTS	No significant differences were found in corneal thickness , endothelial cell count , and macular thickness .
+RESULTS	Complications included posterior capsule rupture ( 4 % ) and anterior capsule rupture with no posterior capsule tear ( 4 % ) for FemtoMICS and bridges due to incomplete capsulorhexis ( 4 % ) for FemtoCoaxial .
+CONCLUSIONS	MICS and coaxial phacoemulsification techniques assisted by the Femtosecond LenSx achieved excellent safety and efficient outcomes .
+CONCLUSIONS	The FemtoMICS technique was surgically and statistically more efficient than the FemtoCoaxial technique .
+

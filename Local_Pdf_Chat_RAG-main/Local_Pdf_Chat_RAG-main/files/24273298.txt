@@ -1,0 +1,12 @@
+24273298
+BACKGROUND	Gait training for patients with hemiparesis is carried out independently overground or on a treadmill .
+BACKGROUND	Several studies have shown differences in hemiparetic gait parameters during overground versus treadmill walking .
+BACKGROUND	However , few studies have compared the effects of these 2 gait training conditions on gait parameters , and no study has compared the short-term effects of these techniques on all biomechanical gait parameters .
+OBJECTIVE	To determine whether a gait training session performed overground or on a treadmill induces specific short-term effects on biomechanical gait parameters in patients with hemiparesis .
+METHODS	Twenty-six subjects with hemiparesis were randomly assigned to a single session of either overground or treadmill gait training .
+METHODS	The short-term effects on spatiotemporal , kinematic , and kinetic gait parameters were assessed using gait analysis before and immediately after the training and after a 20-minute rest .
+RESULTS	Speed , cadence , percentage of single support phase , peak knee extension , peak propulsion , and braking on the paretic side were significantly increased after the gait training session .
+RESULTS	However , there were no specific changes dependent on the type of gait training performed ( overground or on a treadmill ) .
+CONCLUSIONS	A gait training session performed by subjects with hemiparesis overground or on a treadmill did not induce specific short-term effects on biomechanical gait parameters .
+CONCLUSIONS	The increase in gait velocity that followed a gait training session seemed to reflect specific modifications of the paretic lower limb and adaptation of the nonparetic lower limb .
+

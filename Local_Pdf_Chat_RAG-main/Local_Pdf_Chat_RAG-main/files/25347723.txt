@@ -1,0 +1,20 @@
+25347723
+OBJECTIVE	To determine whether a pharmacist-led medications review in primary care reduces the number of drugs and the number of drug-related problems .
+METHODS	Prospective randomized controlled trial .
+METHODS	Liljeholmen Primary Care Centre , Stockholm , Sweden .
+METHODS	209 patients aged 65 years with five or more different medications .
+METHODS	Intervention .
+METHODS	Patients answered a questionnaire regarding medications .
+METHODS	The pharmacist reviewed all medications ( prescription , non-prescription , and herbal ) regarding recommendations and renal impairment , giving advice to patients and GPs .
+METHODS	Each patient met the pharmacist before seeing their GP .
+METHODS	Control patients received their usual care .
+METHODS	Drug-related problems and number of drugs .
+METHODS	Secondary outcomes included health care utilization and self-rated health during 12 months of follow-up .
+RESULTS	No significant difference was seen when comparing change in drug-related problems between the groups .
+RESULTS	However , a significant decrease in drug-related problems was observed in the intervention group ( from 1.73 per patient at baseline to 1.31 at follow-up , p < 0.05 ) .
+RESULTS	The change in number of drugs was more pronounced in the intervention group ( p < 0.046 ) .
+RESULTS	Intervention group patients were not admitted to hospital on fewer occasions or for fewer days , and there was no significant difference between the two groups regarding utilization of primary care during follow-up .
+RESULTS	Self-rated health remained unchanged in the intervention group , whereas a drop ( p < 0.02 ) was reported in the control group .
+RESULTS	This resulted in a significant difference in change in self-rated health between the groups ( p < 0.047 ) .
+CONCLUSIONS	The addition of a skilled pharmacist to the primary care team may contribute to reductions in numbers of drugs and maintenance of self-rated health in elderly patients with polypharmacy .
+

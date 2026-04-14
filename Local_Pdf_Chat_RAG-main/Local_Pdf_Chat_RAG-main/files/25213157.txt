@@ -1,0 +1,10 @@
+25213157
+BACKGROUND	Despite evidence for the effectiveness of structured psychological therapies for bipolar disorder no psychological interventions have been specifically designed to enhance personal recovery for individuals with recent-onset bipolar disorder .
+OBJECTIVE	A pilot study to assess the feasibility and effectiveness of a new intervention , recovery-focused cognitive-behavioural therapy ( CBT ) , designed in collaboration with individuals with recent-onset bipolar disorder intended to improve clinical and personal recovery outcomes .
+METHODS	A single , blind randomised controlled trial compared treatment as usual ( TAU ) with recovery-focused CBT plus TAU ( n = 67 ) .
+RESULTS	Recruitment and follow-up rates within 10 % of pre-planned targets to 12-month follow-up were achieved .
+RESULTS	An average of 14.15 h ( s.d. = 4.21 ) of recovery-focused CBT were attended out of a potential maximum of 18 h. Compared with TAU , recovery-focused CBT significantly improved personal recovery up to 12-month follow-up ( Bipolar Recovery Questionnaire mean score 310.87 , 95 % CI 75.00-546 .74 ( s.e. = 120.34 ) , P = 0.010 , d = 0.62 ) and increased time to any mood relapse during up to 15 months follow-up ( 2 = 7.64 , P < 0.006 , estimated hazard ratio ( HR ) = 0.38 , 95 % CI 0.18-0 .78 ) .
+RESULTS	Groups did not differ with respect to medication adherence .
+CONCLUSIONS	Recovery-focused CBT seems promising with respect to feasibility and potential clinical effectiveness .
+CONCLUSIONS	Clinical - and cost-effectiveness now need to be reliably estimated in a definitive trial .
+

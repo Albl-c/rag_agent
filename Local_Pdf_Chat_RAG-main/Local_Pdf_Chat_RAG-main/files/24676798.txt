@@ -1,0 +1,11 @@
+24676798
+OBJECTIVE	To examine disordered eating and associations with health-related quality of life ( HRQOL ) in rural overweight/obese ( OW/OB ) children .
+METHODS	Cross-sectional analyses were conducted with 272 rural OW/OB children aged 8-12 years ( M = 10.36 ; SD = 1.39 ) .
+METHODS	Child anthropometrics , demographics , disordered eating attitudes , unhealthy weight control behaviors ( UWCBs ) , and HRQOL were measured .
+METHODS	Relationships between these variables were analyzed using bootstrapped multiple linear regressions .
+RESULTS	Clinically significant disordered eating attitudes were endorsed by 17 % of the sample , and the majority endorsed UWCBs .
+RESULTS	Disordered eating attitudes and weight status were the most common predictors of HRQOL .
+RESULTS	Disordered eating attitudes and UWCBs were negatively related to emotional HRQOL but were unrelated to social , school , or physical HRQOL .
+CONCLUSIONS	Disordered eating is a serious and relevant problem in OW/OB children living in rural areas and may be indicative of impairments in emotional functioning .
+CONCLUSIONS	Early intervention may reduce the risk for eating disorders and associated negative sequelae .
+

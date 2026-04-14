@@ -1,0 +1,12 @@
+25466509
+BACKGROUND	Patients with metastatic colorectal cancer ( mCRC ) previously-treated with oxaliplatin benefit significantly from the addition of aflibercept to FOLFIRI in relation to overall survival , progression-free survival and response rate .
+METHODS	The results for efficacy and safety over the time course of the VEGF Trap ( aflibercept ) with irinotecan in colorectal cancer after failure of oxaliplatin regimen trial were analysed based on data from 1226 patients randomised to receive FOLFIRI plus either aflibercept ( n = 612 ) or placebo ( n = 614 ) .
+METHODS	Hazard ratios ( HR ) by 6-month time period were estimated using a piecewise Cox proportional hazard model .
+METHODS	Severity of adverse events ( AEs ) was graded using National Cancer Institute Common Terminology Criteria , version 3.0 .
+RESULTS	The estimated probabilities of survival were 38.5 % versus 30.9 % at 18 months , 28.0 % versus 18.7 % at 24 months and 22.3 % versus 12.0 % at 30 months , for the aflibercept - and placebo-treated arms , respectively .
+RESULTS	The proportional improvement in the HR over time was consistent with the survival probability results ; survival at 24 months was improved by 50 % and almost doubled at 30 months .
+RESULTS	The majority of worst-grade AEs occurred within the first four cycles of treatment and in a small percent of treatment cycles and were mostly reversible .
+RESULTS	Common chemotherapy - and anti-vascular epithelial growth factor ( VEGF ) - associated AEs occurred rarely and in a small proportion of cycles with the majority being of single occurrence .
+CONCLUSIONS	The addition of aflibercept to FOLFIRI showed a continued and persistent improvement in overall survival over time in patients with mCRC .
+CONCLUSIONS	Although grade 3-4 AEs were more frequent in the aflibercept arm , they occurred in early treatment cycles and decreased sharply following initial presentation .
+

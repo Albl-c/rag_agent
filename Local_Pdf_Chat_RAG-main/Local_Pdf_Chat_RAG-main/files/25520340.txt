@@ -1,0 +1,15 @@
+25520340
+BACKGROUND	Attempts to improve proximal load transfer and minimize stress shielding have included reducing the stiffness of femoral stems and using alternative stem materials , including carbon fiber composites .
+BACKGROUND	An uncemented implant ( SR71 ) composed of a carbon-fiber-composite distal section and a porous-coated titanium-alloy proximal section , designed to improve proximal load transfer and provide good fixation , was clinically evaluated in a prospective randomized study .
+METHODS	Sixty patients were enrolled and randomized to receive either the SR71 stem or an all-metal stem ( Stability ) .
+METHODS	All patients received a cemented all-polyethylene acetabular component and a 28-mm metal femoral head .
+METHODS	All uncemented stems were implanted by the same surgeon .
+METHODS	Patients were followed for up to ten years with repeated assessments of bone mineral density , radiographs , Harris hip scores ( HHS ) , and visual analog scale ( VAS ) pain scores .
+RESULTS	Ten years postoperatively , nineteen patients who had been treated with the SR71 stem and not lost to follow-up showed a significantly greater increase in proximal bone mineral density ( Gruen zones 1 [ p = 0.003 ] and 7 [ p = 0.0007 ] ) from baseline than did the twenty-two who had been treated with the Stability stem and not lost to follow-up .
+RESULTS	In contrast , the Stability group showed a significantly greater increase in distal bone mineral density ( Gruen zones 2 [ p = 0.0004 ] , 3 [ p = 0.0001 ] , and 5 [ p = 0.0035 ] ) compared with the SR71 group .
+RESULTS	Radiographs demonstrated one case of progressive migration of an acetabular component used with an SR71 stem and one case of bone resorption in Gruen zones 7 and 14 in a patient treated with a Stability stem .
+RESULTS	There was no significant difference between the SR71 and Stability stems in terms of changes in the total HHS , HHS for pain , HHS for range of motion , or VAS pain scores ten years postoperatively relative to preoperative levels .
+RESULTS	There was one reported revision of an SR71 femoral stem at the ten-year review .
+CONCLUSIONS	The investigational SR71 implant provided increased proximal bone density and reduced distal bone density .
+CONCLUSIONS	The implant showed promising results at the time of early follow-up , and the clinical outcomes were similar to those of an all-metal stem at the time of a ten-year follow-up .
+

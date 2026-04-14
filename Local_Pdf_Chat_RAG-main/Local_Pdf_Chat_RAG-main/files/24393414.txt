@@ -1,0 +1,12 @@
+24393414
+BACKGROUND	The use of firocoxib in horses and its ability to affect performance and potential to allow a horse to compete when it otherwise should not , necessitates establishing appropriate withdrawal time guidelines prior to performance .
+OBJECTIVE	To describe plasma concentrations and characterise the pharmacokinetics of 3 firocoxib formulations following multiple administrations of the label dose , with respect to recommended plasma thresholds for performance horses .
+METHODS	Balanced 3-way crossover prospective study .
+METHODS	Nine healthy mature horses were administered firocoxib injectable solution ( 0.09 mg/kg bwt i.v. s.i.d. for 5 days ) , firocoxib paste ( 0.1 mg/kg bwt per os s.i.d. for 14 days ) and firocoxib tablets ( 57mg s.i.d. for 14 days ) .
+METHODS	Blood samples were collected at Time 0 and at various times post drug administration until plasma concentrations were below the limit of detection of the assay .
+METHODS	Plasma samples were analysed using liquid chromatography-mass spectrometry and data analysed using noncompartmental analysis .
+RESULTS	The mean plasma half-life was 1.64 0.737 , 1.70 0.800 and 1.73 0.767 days for injectable , paste and tablet formulations , respectively .
+RESULTS	Plasma concentrations fell below the Racing Medication and Testing Consortium 's recommended threshold for racehorses ( 20ng/ml ) by 7 days post administration of the final dose for all formulations .
+RESULTS	Plasma concentrations never exceeded the threshold concentration ( 240ng/ml ) for horse competing in US Equestrian Federation events for any of the formulations .
+CONCLUSIONS	This study extends current knowledge regarding the pharmacokinetics of firocoxib and provides information that can be used to establish appropriate withdrawal time guidelines following multiple administrations , with respect to already established plasma regulatory threshold concentrations .
+

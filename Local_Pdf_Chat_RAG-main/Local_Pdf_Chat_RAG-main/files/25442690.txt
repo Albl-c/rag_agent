@@ -1,0 +1,16 @@
+25442690
+BACKGROUND	In 2002-04 , we did a randomised controlled trial in southern Nepal , and reported that children born to mothers taking multiple micronutrient supplements during pregnancy had a mean birthweight 77 g greater than children born to mothers taking iron and folic acid supplements .
+BACKGROUND	Children born to mothers in the study group were a mean 204 g heavier at 25 years of age and their systolic blood pressure was a mean 25 mm Hg lower than children born to mothers in the control group .
+BACKGROUND	We aimed to follow up the same children to mid-childhood ( age 85 years ) to investigate whether these differences would be sustained .
+METHODS	For this follow-up study , we identified children from the original trial and measured anthropometry , body composition with bioelectrical impedance ( with population-specific isotope calibration ) , blood pressure , and renal dimensions by ultrasound .
+METHODS	We documented socioeconomic status , household food security , and air pollution .
+METHODS	Main outcomes of the follow-up at 8 years were Z scores for weight-for-age , height-for-age , and body-mass index ( BMI ) - for-age according to WHO Child Growth Standards for children aged 5-19 years , and blood pressure .
+METHODS	This study is registered with the International Standard Randomised Controlled Trial register , number ISRCTN88625934 .
+RESULTS	Between Sept 21 , 2011 , and Dec 7 , 2012 , we assessed 841 children ( 422 in the control group and 419 in the intervention group ) .
+RESULTS	Unadjusted differences ( intervention minus control ) in Z scores were 005 for weight-for-age ( 95 % CI -009 to 019 ) , 002 in height-for-age ( -010 to 015 ) , and 004 in BMI-for-age ( -009 to 018 ) .
+RESULTS	We recorded no difference in blood pressure .
+RESULTS	Adjusted differences were similar for all outcomes .
+CONCLUSIONS	We recorded no differences in phenotype between children born to mothers who received antenatal multiple micronutrient or iron and folate supplements at age 85 years .
+CONCLUSIONS	Our findings did not extend to physiological differences or potential longer-term effects .
+BACKGROUND	The Wellcome Trust .
+

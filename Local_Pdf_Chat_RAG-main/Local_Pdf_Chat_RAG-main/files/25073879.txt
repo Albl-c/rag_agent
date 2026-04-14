@@ -1,0 +1,15 @@
+25073879
+OBJECTIVE	A longitudinal integration approach evaluated all radiographic scores assessed over 10 years , rather than only completer data , from 2 studies of adalimumab ( ADA ) for rheumatoid arthritis ( RA ) .
+METHODS	The DE019 ( methotrexate [ MTX ] - inadequate responders , longstanding RA ) and PREMIER ( MTX-naive , early RA ) studies , respectively , had 1 - or 2-year double-blind periods followed by 9 - or 8-year open-label extensions ( OLEs ) .
+METHODS	Patients received ADA MTX in both OLEs .
+METHODS	Radiographic progression was assessed using change from baseline in modified total Sharp score ( mTSS ) .
+METHODS	A mixed-effects model was used post hoc to evaluate repeated measurements of different data campaigns and to estimate mTSS through up to 10 years of treatment based on original randomization groups ( placebo [ PBO ] + MTX or standard dose ADA + MTX ) .
+RESULTS	Data from patients with baseline and 1 postbaseline radiograph were included ( n = 327 for DE019 ; n = 452 for PREMIER ) .
+RESULTS	Integrated and 10-year completer mTSS progression curves differed slightly .
+RESULTS	In DE019 , for patients originally assigned PBO + MTX , accrued mTSS at year 10 was 6.6 units ( integrated model ) and 6.2 units ( completers ) .
+RESULTS	For patients originally assigned ADA + MTX , accrued mTSS was 0.9 units by integrated analysis and 0.7 units in completers .
+RESULTS	In PREMIER , for patients originally assigned PBO + MTX , accrued mTSS at year 10 was 11.2 units ( integrated analysis ) and 11.0 units ( completers ) .
+RESULTS	For patients originally assigned ADA + MTX , accrued mTSS was 5.1 units ( integrated analysis ) and 4.0 units ( completers ) .
+RESULTS	A higher radiographic progression rate was observed in patients who received delayed versus immediate ADA + MTX treatment .
+CONCLUSIONS	Longitudinal integrated analysis provided robust estimates of radiographic progression that only slightly differed from completers-only scores and confirmed the effects .
+

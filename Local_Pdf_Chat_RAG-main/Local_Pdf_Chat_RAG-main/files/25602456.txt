@@ -1,0 +1,19 @@
+25602456
+BACKGROUND	Deep sedation of surgical patients may be associated with hypoventilation , airway collapse , and hypercarbia , although the extent of hypercarbia is rarely quantified .
+BACKGROUND	In this prospective , randomized , controlled clinical pilot study , we assessed the efficacy of nasal continuous positive airway pressure ( nCPAP ) for reducing arterial partial pressure of carbon dioxide ( PaCO2 ) among deeply sedated , spontaneously ventilated patients undergoing total knee arthroplasty ( TKA ) under subarachnoid block ( SAB ) , versus standard airway management in a control group .
+METHODS	Forty ASA status I-III patients underwent deep sedation with propofol to level 2 on the Modified Observers Assessment of Alertness/Sedation Scale during TKA performed under SAB .
+METHODS	Nasal or oral airways were placed at the discretion of the anesthesia team , but they were not used in conjunction with nCPAP .
+METHODS	Baseline arterial blood gas analysis ( ABG-1 ) was performed after Modified Observers Assessment of Alertness/Sedation Scale level 2 was reached .
+METHODS	Patients were then randomized to receive nCPAP ( nCPAP group , N = 20 ) or standard oxygen mask management ( control group , N = 20 ) .
+METHODS	A second ABG ( ABG-2 ) was performed 30 minutes later to assess the effect of nCPAP on PaCO2 .
+METHODS	The primary efficacy end point was change in PaCO2 from baseline to the 30-minute time point .
+RESULTS	Baseline ( ABG-1 ) PaCO2 values were similar between nCPAP and control groups with median values of 54.5 and 56.1 mm Hg , respectively .
+RESULTS	There was a significant decline in PaCO2 in the nCPAP group ( median of -4.6 mm Hg [ 10th-90th quantile , -14.55 to 3.85 ] ) as compared with the control group ( median of 0.95 mm Hg [ -4.75 to 9.85 ] ; P = 0.015 ; 95 % confidence interval [ CI ] for location shift = -9.5 to -1.3 ) .
+RESULTS	Within the control group , PaCO2 was similar from ABG-1 to ABG-2 ( median [ 10th-90th quantile ] = 56.1 mm Hg [ 47.2-67 .0 ] vs 56.6 mm Hg [ 46-68 .8 ] ; P = 0.52 ; 95 % CI for the median = -3.4 to 3.4 ) .
+RESULTS	Forty percent of all patients received an airway before ABG-1 .
+RESULTS	The baseline PaCO2 value of patients receiving an airway was not different from that of patients without an airway ( median [ 10th-90th quantile ] = 56.0 mm Hg [ 46.0-68 .4 ] vs 54.1 mm Hg [ 45.6-65 .6 ] , respectively ; P = 0.33 ; 95 % CI for location shift = -2.30 to 7.20 ) .
+CONCLUSIONS	Deep sedation of TKA patients during SAB resulted in moderate hypercarbia ( mean and median PaCO2 = 55 ) .
+CONCLUSIONS	There was a trend showing that nCPAP treatment reduced PaCO2 versus treatment for control group patients receiving standard airway management ; however , estimated treatment difference varied widely , from 1.4 to 12.6 mm Hg .
+CONCLUSIONS	Among control group patients , the initial PaCO2 during deep sedation was similar to the PaCO2 when measured after a 30-minute period of continued deep sedation .
+CONCLUSIONS	Finally , baseline PaCO2 among deeply sedated patients who received an airway was not different from that of patients who did not receive an airway .
+

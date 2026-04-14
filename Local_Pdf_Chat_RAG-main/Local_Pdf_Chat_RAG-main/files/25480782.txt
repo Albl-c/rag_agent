@@ -1,0 +1,14 @@
+25480782
+BACKGROUND	Characteristics and outcomes of patients with heart failure and reduced ejection fraction receiving care at Veterans Affairs ( VA ) versus non-VA hospitals have not been previously reported .
+RESULTS	In the randomized controlled Beta-blocker Evaluation of Survival Trial ( BEST ; 1995-1999 ) , of the 2707 ( bucindolol = 1353 ; placebo = 1354 ) patients with heart failure and left ventricular ejection fraction 35 % , 918 received care at VA hospitals , of which 98 % ( n = 898 ) were male .
+RESULTS	Of the 1789 receiving care at non-VA hospitals , 68 % ( n = 1216 ) were male .
+RESULTS	Our analyses were restricted to these 2114 male patients .
+RESULTS	VA patients were older with higher symptom and comorbidity burdens .
+RESULTS	There was no significant between-group difference in unadjusted primary end point of 2-year all-cause mortality ( 35 % VA versus 32 % non-VA ; hazard ratio associated with VA hospitals , 1.09 ; 95 % confidence interval , 0.94-1 .26 ) , which remained unchanged after adjustment for age and race ( hazard ratio , 1.00 ; 95 % confidence interval , 0.86-1 .16 ) or multivariable adjustment , including cardiovascular morbidities ( hazard ratio , 0.94 ; 95 % confidence interval , 0.80-1 .10 ) .
+RESULTS	There was no between-group difference in cause-specific mortalities or hospitalizations .
+RESULTS	Chronic kidney disease , pulmonary edema , left ventricular ejection fraction < 20 % , and peripheral arterial disease were significant predictors of mortality for both groups .
+RESULTS	African America race , New York Heart Association class IV symptoms , atrial fibrillation , and right ventricular ejection fraction < 20 % were associated with higher mortality among non-VA hospital patients only ; however , these differences from VA patients were not significant .
+CONCLUSIONS	Patients with heart failure and reduced ejection fraction receiving care at VA hospitals were older and sicker ; yet their risk of mortality and hospitalization was similar to younger and healthier patients receiving care at non-VA hospitals .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00000560 .
+

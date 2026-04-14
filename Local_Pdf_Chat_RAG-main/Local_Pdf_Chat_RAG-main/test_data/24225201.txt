@@ -1,0 +1,14 @@
+24225201
+BACKGROUND	Heart failure ( HF ) and chronic obstructive pulmonary disease ( COPD ) frequently coexist , with undefined prognostic and therapeutic implications .
+BACKGROUND	We investigated clinical profile and outcomes of patients with chronic HF and COPD , notably the efficacy and safety of ivabradine , a heart rate-reducing agent .
+METHODS	6505 ambulatory patients , in sinus rhythm , heart rate 70 bpm and stable systolic HF were randomised to placebo or ivabradine ( 2.5 to 7.5 mg bid ) .
+METHODS	Multivariate Cox model analyses were performed to compare the COPD ( n = 730 ) and non-COPD subgroups , and the ivabradine and placebo treatment effects .
+RESULTS	COPD patients were older and had a poorer risk profile .
+RESULTS	Beta-blockers were prescribed to 69 % of COPD patients and 92 % of non-COPD patients .
+RESULTS	The primary endpoint ( PEP ) and its component , hospitalisation for worsening HF , were more frequent in COPD patients ( HRs f , 1.22 [ p = 0.006 ] ; and 1.34 [ p < 0.001 ] ) respectively , but relative risk was reduced similarly by ivabradine in both COPD ( 14 % , and 17 % ) and non-COPD ( 18 % and 27 % ) patients ( p interaction = 0.82 , and 0.53 , respectively ) .
+RESULTS	Similar effect was noted also for cardiovascular death .
+RESULTS	Adverse events were more common in COPD patients , but similar in treatment subgroups .
+RESULTS	Bradycardia occurred more frequently in ivabradine subgroups , with similar incidence in patients with or without COPD .
+CONCLUSIONS	The association of COPD and HF results in a worse prognosis , and COPD represents a barrier to optimisation of beta-blocker therapy .
+CONCLUSIONS	Ivabradine is similarly effective and safe in chronic HF patients with or without COPD , and can be safely combined with beta-blockers in COPD .
+

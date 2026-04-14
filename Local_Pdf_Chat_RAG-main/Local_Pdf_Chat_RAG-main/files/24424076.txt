@@ -1,0 +1,13 @@
+24424076
+OBJECTIVE	The current study was performed to investigate the effects of the Dietary Approaches to Stop Hypertension ( DASH ) eating plan on pregnancy outcomes in pregnant women with gestational diabetes mellitus ( GDM ) .
+METHODS	This randomized controlled clinical trial was performed among 52 women diagnosed with GDM .
+METHODS	Participants were randomly assigned to consume either the control ( n = 26 ) or the DASH diet ( n = 26 ) for 4 weeks .
+METHODS	The control diet was designed to contain 45-55 % carbohydrates , 15-20 % protein and 25-30 % total fat .
+METHODS	The DASH diet was rich in fruits , vegetables , whole grains and low-fat dairy products , and contained lower amounts of saturated fats , cholesterol and refined grains with a total of 2400 mg/day sodium .
+METHODS	The numbers of women who commenced insulin therapy after dietary intervention , the mode of delivery and prevalence of polyhydramnios were assessed .
+METHODS	The length , weight and head circumference of infants were measured during the first 24 h after birth .
+RESULTS	Whereas 46.2 % of women in the DASH diet needed to have a cesarean section , this percentage for the control group was 80.8 % ( P = 0.01 ) .
+RESULTS	The percentage of those who needed to commence insulin therapy after intervention was also significantly different between the two groups ( 23 % for DASH vs 73 % for control group , P < 0.0001 ) .
+RESULTS	Infants born to mothers on the DASH diet had significantly lower weight ( 3222.7 vs 3818.8 g , P < 0.0001 ) , head circumference ( 34.2 vs 35.1 cm , P = 0.01 ) and ponderal index ( 2.50 vs 2.87 kg/m ( 3 ) , P < 0.0001 ) compared with those born to mothers on the control diet .
+CONCLUSIONS	In conclusion , consumption of DASH diet for 4 weeks among pregnant women with GDM resulted in improved pregnancy outcomes .
+

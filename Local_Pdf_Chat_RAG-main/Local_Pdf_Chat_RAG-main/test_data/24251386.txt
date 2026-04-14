@@ -1,0 +1,13 @@
+24251386
+OBJECTIVE	To conduct a cost-effectiveness analysis comparing two different tooth replacement strategies for partially dentate older patients , namely partial removable dental prostheses ( RDP ) and functionally orientated treatment based on the shortened dental arch concept ( SDA ) .
+METHODS	Ninety-two partially dentate older patients completed a randomized controlled clinical trial .
+METHODS	Patients were randomly allocated to two treatment groups : the RDP group and the SDA group .
+METHODS	Treatment effect was measured using impact on oral health-related quality of life ( OHrQOL ) , and the costs involved in providing and maintaining care were recorded for all patients .
+METHODS	Patients were followed for 12 months after treatment intervention .
+METHODS	All treatment was provided by a single operator .
+RESULTS	The total cost of achieving the minimally important clinical difference ( MID ) in OHrQOL for an average patient in the RDP group was 464.64 .
+RESULTS	For the SDA group , the cost of achieving the MID for an average patient was 252.00 .
+RESULTS	The cost-effectiveness ratio was therefore 1:1.84 in favour of SDA treatment .
+CONCLUSIONS	With an increasingly ageing population , many patients will continue to benefit from removable prostheses to replace their missing natural teeth .
+CONCLUSIONS	From a purely economic standpoint , the results from this analysis suggest that the treatment of partially dentate older adults should be focused on functionally orientated treatment because it is simply more cost-effective .
+

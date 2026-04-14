@@ -1,0 +1,10 @@
+25236187
+BACKGROUND	The American College of Surgeons Oncology Group Z0011 trial has been lauded as practice changing .
+BACKGROUND	We sought to identify its impact on breast cancer surgery in the community hospital setting .
+METHODS	A retrospective review was performed from 8 community hospitals identifying patients with invasive breast cancer meeting the Z0011 criteria .
+METHODS	The primary outcome measures were the rate of completion axillary lymph node dissection ( ALND ) and performance of intraoperative sentinel lymph node ( SLN ) analysis over time .
+RESULTS	A total of 1,125 lumpectomies with SLN biopsies were performed with 180 subjects meeting inclusion criteria .
+RESULTS	Performance of ALND ( P < .0001 ) and intraoperative SLN analysis ( P < .0001 ) declined during each time period .
+RESULTS	Patients more likely to undergo ALND included those with extracapsular extension ( odds ratio [ OR ] 12.8 , 95 % confidence interval [ CI ] 2.5 to 67.1 ) and those who underwent reoperative surgery ( OR 10.8 , 95 % CI 2.6 to 44.4 ) or intraoperative SLN analysis ( OR 5.1 , 95 % CI 1.2 to 21.9 ) .
+CONCLUSIONS	American College of Surgeons Oncology Group Z0011 trial has been rapidly practice changing in the community hospital setting .
+

@@ -1,0 +1,11 @@
+24629504
+OBJECTIVE	This randomized controlled trial of outpatients with breast cancer ( stage I or II ) evaluated the effects of a 3-week educational intervention on patient levels of fatigue .
+METHODS	Norwegian outpatients were randomized into an intervention group ( n = 79 ) and a control group ( n = 81 ) .
+METHODS	Women with fatigue ( > 2.5 on a 0-10 numeric rating scale , NRS ) completed the Fatigue Questionnaire ( FQ ) and the Lee Fatigue Scale ( LFS ) at baseline ( after treatment ) ( T1 ) , immediately after intervention ( T2 ) and 3 months after intervention ( T3 ) .
+RESULTS	The mean fatigue score ( NRS ) at study entry was 6.1 ( SD 1.7 ) and 36 % ( n = 57 ) had a score 7 .
+RESULTS	There were no statistically significant differences between the fatigue measures of women in the intervention and control group at T2 or T3 in the overall sample after the intervention .
+RESULTS	Using an NRS cut-off of 5 , there was a borderline difference for women who scored < 5 for chronic fatigue on FQ ( p = 0.062 ) and a significant difference for energy on LFS ( p = 0.042 ) where the women in the intervention group had less fatigue .
+RESULTS	Using an NRS cut-off score of 6 , there was a borderline difference for women who scored < 6 for fatigue on FQ ( p = 0.062 ) and a significant difference for energy on LFS ( p = 0.021 ) where women in the intervention group had more energy than those in the control group .
+CONCLUSIONS	Further research is needed to identify psycho-educational interventions to reduce levels of fatigue and to tailor an intervention based on the level of fatigue .
+CONCLUSIONS	Fatigue measurements should be chosen more carefully .
+

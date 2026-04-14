@@ -1,0 +1,11 @@
+24280999
+BACKGROUND	Head and neck cancer ( HNC ) patients are prone to have a poor health-related quality of life after cancer treatment .
+BACKGROUND	This study investigated the effect of the nurse counselling and after intervention ( NUCAI ) on the health-related quality of life and depressive symptoms of HNC patients between 12 and 24 months after cancer treatment .
+METHODS	Two hundred and five HNC patients were randomly allocated to NUCAI ( N = 103 ) or usual care ( N = 102 ) .
+METHODS	The 12-month nurse-led NUCAI is problem-focused and patient-driven and aims to help HNC patients manage with the physical , psychological and social consequences of their disease and its treatment .
+METHODS	Health-related quality of life was evaluated with the EORTC QLQ-C30 and QLQ H&N 35 .
+METHODS	Depressive symptoms were evaluated with the CES-D .
+RESULTS	At 12 months the intervention group showed a significant ( P < 0.05 ) improvement in emotional and physical functioning , pain , swallowing , social contact , mouth opening and depressive symptoms .
+RESULTS	At 18 months , global quality of life , role and emotional functioning , pain , swallowing , mouth opening and depressive symptoms were significantly better in the intervention group than in the control group , and at 24 months emotional functioning and fatigue were significantly better in the intervention group .
+CONCLUSIONS	The NUCAI effectively improved several domains of health-related quality of life and depressive symptoms in HNC patients and would seem a promising intervention for implementation in daily clinical practice .
+

@@ -1,0 +1,14 @@
+24405492
+BACKGROUND	The ASPIRE in-clinic study established that automatic suspension of insulin with the threshold suspend ( TS ) feature reduces the duration of induced hypoglycemia .
+BACKGROUND	The study 's crossover design allowed the effects of antecedent hypoglycemia to be studied .
+METHODS	The study enrolled 50 subjects who exercised until plasma glucose ( YSI glucose and lactate analyzer ; YSI , Inc. , Yellow Springs , OH ) reached 85 mg/dL .
+METHODS	Hypoglycemia was evaluated after the YSI value reached < 70 mg/dL .
+METHODS	In TS experiments , insulin was stopped for 2 h once a sensor glucose ( SG ) value of 70 mg/dL was detected ; in control experiments , basal insulin delivery continued .
+METHODS	Subjects were randomly assigned to Group A ( TS in Period 1 ; control in Period 2 ) or Group B ( control in Period 1 ; TS in Period 2 ) .
+METHODS	Experiments were separated by 3-10 days .
+RESULTS	Hypoglycemia was 63.7 min shorter in Period 1 TS experiments ( no preceding control experiment ) than in Period 2 TS experiments ( one or more preceding control experiment ( s ) ) ( P < 0.01 ) .
+RESULTS	The number of experiments prior to a successful TS experiment was lower for Period 1 than for Period 2 ( 0.36 0.64 vs. 1.57 0.84 ; P < 0.001 ) , as was the cumulative duration of antecedent hypoglycemia ( 16.6 min vs. 204.6 min ; P < 0.001 ) .
+RESULTS	The between-groups difference in hypoglycemia duration was not attributable to differences in SG rates of change , the duration of exercise , or area under the curve of < 70 mg/dL min in the 2 days before the successful experiment ( all P > 0.3 ) .
+CONCLUSIONS	The TS feature 's ability to mitigate hypoglycemia was decreased by an episode or episodes of prolonged antecedent hypoglycemia , suggesting hypoglycemia begets hypoglycemia .
+CONCLUSIONS	The effect of antecedent hypoglycemia should be taken into consideration in the design of future experiments assessing strategies to reduce hypoglycemia .
+

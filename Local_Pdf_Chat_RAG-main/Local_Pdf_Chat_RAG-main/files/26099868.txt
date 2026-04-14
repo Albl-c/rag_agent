@@ -1,0 +1,12 @@
+26099868
+OBJECTIVE	To evaluate the efficacy of tramadol , lidocaine , and a combination of tramadol with lidocaine in pain relief using periprostatic nerve block technique by guidance of transrectal ultrasound ( TRUS ) before the prostate biopsy ( PBx ) .
+METHODS	For the indication of TRUS-PBx , the patients with a prostate-specific antigen ( PSA ) level > 4.0 ng/mL or abnormal digital examination findings were selected .
+METHODS	The patients were randomized through random method .
+METHODS	Group 1 : patients were administered 5 mL of 2 % lidocaine ; group 2 : patients were administered 5 mL of 25-mg tramadol ; and group 3 : patients were administered 5 mL of 2 % lidocaine + 25-mg tramadol .
+METHODS	The procedures were completed in 10 minutes , and a visual pain scale was administered to the patients to question the pain severity .
+RESULTS	TRUS-guided PBx was performed in 60 patients with an age range of 57-77 years ( mean age , 66.2 7.49 years ) and a PSA range of 1-1000 ng/mL .
+RESULTS	The mean PSA level of the groups was 28.5 ( 7.5 ) , 16.1 ( 5.0 ) , and 14.9 ( 2.9 ) ng/mL , respectively .
+RESULTS	The postprocedural pain scores by visual pain scale were 4.6 1.2 , 5.4 1.2 , and 3.6 0.9 in lidocaine , tramadol , and lidocaine + tramadol groups , respectively .
+CONCLUSIONS	Periprostatic nerve block is the current golden standard method owing to pain management and comfort provided , independent of the patient age and the number of core biopsies .
+CONCLUSIONS	We suggest that tramadol may also be used in this field to achieve better pain management by improving lidocaine 's effect or as an alternative to lidocaine .
+

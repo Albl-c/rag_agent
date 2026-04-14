@@ -1,0 +1,18 @@
+24231627
+BACKGROUND	Available preclinical and phase 2 clinical data suggest that the addition of cetuximab , a monoclonal antibody directed against the epidermal growth factor receptor ( EGFR ) , to chemotherapy might improve outcome in patients with advanced non-small-cell lung cancer ( NSCLC ) .
+BACKGROUND	We aimed to assess whether the addition of cetuximab to chemotherapy improved progression-free survival in patients with recurrent or progressive NSCLC after platinum-based therapy .
+METHODS	In this unmasked , open-label randomised phase 3 trial we enrolled patients with metastatic , unresectable , or locally advanced NSCLC from 121 sites in Canada and the USA .
+METHODS	Eligible patients were those aged 18 years or older who had experienced progressive disease during or after one previous platinum-based regimen .
+METHODS	Initially , patients were randomly assigned to receive either pemetrexed ( 500 mg/m ( 2 ) ) or docetaxel ( 75 mg/m ( 2 ) ) and then randomly assigned within each group to receive their chemotherapy with or without cetuximab ( 400 mg/m ( 2 ) at first dose and 250 mg/m ( 2 ) weekly thereafter ) until disease progression or unacceptable toxicity .
+METHODS	However , after a change in the standard of care , investigators chose whether to treat with pemetrexed or docetaxel on a patient-by-patient basis .
+METHODS	The primary analysis was changed to compare progression-free survival with cetuximab plus pemetrexed versus pemetrexed , on an intention-to-treat basis .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT00095199 .
+RESULTS	Between Jan 10 , 2005 , and Feb 10 , 2010 , we enrolled 939 patients ; data for one patient was accidentally discarded .
+RESULTS	Of the remaining 938 patients , 605 received pemetrexed ( 301 patients with cetuximab and 304 alone ) and 333 received docetaxel ( 167 in combination with cetuximab and 166 alone ) .
+RESULTS	Median progression-free survival with cetuximab plus pemetrexed was 29 months ( 95 % CI 27-32 ) versus 28 months ( 25-33 ) with pemetrexed ( HR 103 , 95 % CI 087-121 ; p = 076 ) .
+RESULTS	The most common grade 3-4 adverse events with cetuximab plus pemetrexed were fatigue ( 33 [ 11 % ] of 292 patients ) , acneiform rash ( 31 [ 11 % ] ) , dyspnoea ( 29 [ 10 % ] ) , and decreased neutrophil count ( 28 [ 10 % ] ) , and with pemetrexed alone were dyspnoea ( 35 [ 12 % ] of 289 patients ) , decreased neutrophil count ( 26 [ 9 % ] ) , and fatigue ( 23 [ 8 % ] ) .
+RESULTS	A significantly higher proportion of patients in the cetuximab plus pemetrexed group ( 119 [ 41 % ] of 292 patients ) experienced at least one serious adverse event than those patients in the pemetrexed group ( 85 [ 29 % ] of 289 patients ; p = 00054 ) .
+RESULTS	Nine ( 3 % ) of 292 treated patients in the cetuximab and pemetrexed group died of adverse events compared with five ( 2 % ) of 289 treated patients in the pemetrexed alone group .
+CONCLUSIONS	The use of cetuximab is not recommended in combination with chemotherapy in patients previously treated with platinum-based therapy .
+BACKGROUND	Eli Lilly and Company and ImClone Systems LLC , a wholly owned subsidiary of Eli Lilly and Company .
+

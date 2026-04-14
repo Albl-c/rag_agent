@@ -1,0 +1,11 @@
+24639421
+OBJECTIVE	To determine the costs and cost-effectiveness of an early childhood home visiting program delivered to families in socio-economically disadvantaged areas of Sydney , Australia during 2007-2010 .
+METHODS	Economic evaluation of a randomized controlled trial , the healthy beginnings ( HB ) trial , from the perspective of the health funder .
+METHODS	Intervention resources were determined from local health district records in 2012 $ AUD .
+METHODS	Health-care resource utilization was determined through patient-level data linkage .
+RESULTS	The cost of HB intervention in the clinical trial over 2 years was $ 1309 per child ( 2012 $ AUD ) .
+RESULTS	The incremental cost-effectiveness ratio was $ 4230 per unit BMI avoided and $ 631 per 0.1 reduction in BMI z-score .
+RESULTS	It was estimated that the program could be delivered in practice for $ 709 per child ; with incremental cost-effectiveness ratios of $ 2697 per unit BMI avoided and $ 376 per 0.1 reduction in BMI z-score .
+CONCLUSIONS	We present the first economic evaluation of an effective obesity prevention initiative in early childhood .
+CONCLUSIONS	HB is a moderately priced intervention with demonstrated effectiveness that offers similar or better value for money than existing obesity prevention or treatment interventions targeted at older children .
+

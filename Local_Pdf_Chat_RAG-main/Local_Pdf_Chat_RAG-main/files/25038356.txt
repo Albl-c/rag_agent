@@ -1,0 +1,16 @@
+25038356
+OBJECTIVE	Self-testing for HIV infection may contribute to early diagnosis of HIV , but without necessarily increasing antiretroviral therapy ( ART ) initiation .
+OBJECTIVE	To investigate whether offering optional home initiation of HIV care after HIV self-testing might increase demand for ART initiation , compared with HIV self-testing accompanied by facility-based services only .
+METHODS	Cluster randomized trial conducted in Blantyre , Malawi , between January 30 and November 5 , 2012 , using restricted 1:1 randomization of 14 community health worker catchment areas .
+METHODS	Participants were all adult ( 16 years ) residents ( n = 16,660 ) who received access to home HIV self-testing through resident volunteers .
+METHODS	This was a second-stage randomization of clusters allocated to the HIV self-testing group of a parent trial .
+METHODS	Clusters were randomly allocated to facility-based care or optional home initiation of HIV care ( including 2 weeks of ART if eligible ) for participants reporting positive HIV self-test results .
+METHODS	The preplanned primary outcome compared between groups the proportion of all adult residents who initiated ART within the first 6 months of HIV self-testing availability .
+METHODS	Secondary outcomes were uptake of HIV self-testing , reporting of positive HIV self-test results , and rates of loss from ART at 6 months .
+RESULTS	A significantly greater proportion of adults in the home group initiated ART ( 181/8194 , 2.2 % ) compared with the facility group ( 63/8466 , 0.7 % ; risk ratio [ RR ] , 2.94 , 95 % CI , 2.10-4 .12 ; P < .001 ) .
+RESULTS	Uptake of HIV self-testing was high in both the home ( 5287/8194 , 64.9 % ) and facility groups ( 4433/8466 , 52.7 % ; RR , 1.23 ; 95 % CI , 0.96-1 .58 ; P = .10 ) .
+RESULTS	Significantly more adults reported positive HIV self-test results in the home group ( 490/8194 [ 6.0 % ] vs the facility group , 278/8466 [ 3.3 % ] ; RR , 1.86 ; 95 % CI , 1.16-2 .97 ; P = .006 ) .
+RESULTS	After 6 months , 52 of 181 ART initiators ( 28.7 % ) and 15 of 63 ART initiators ( 23.8 % ) in the home and facility groups , respectively , were lost from ART ( adjusted incidence rate ratio , 1.18 ; 95 % CI , 0.62-2 .25 , P = .57 ) .
+CONCLUSIONS	Among Malawian adults offered HIV self-testing , optional home initiation of care compared with standard HIV care resulted in a significant increase in the proportion of adults initiating ART .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01414413 .
+

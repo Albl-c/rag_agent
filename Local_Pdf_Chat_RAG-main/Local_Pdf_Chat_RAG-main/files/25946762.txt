@@ -1,0 +1,11 @@
+25946762
+BACKGROUND	The familial Mediterranean fever 50 score ( FMF50 ) score was recently devised to define response to treatment and as an outcome measure for clinical trials of FMF .
+OBJECTIVE	To examine the performance of the FMF50 score in a previously published trial of rilonacept for patients whose FMF was resistant or intolerant to colchicine .
+METHODS	We re-analyzed the data from our controlled trial of rilonacept vs. placebo in 14 patients with colchicine-resistant or intolerant FMF using the FMF50 score as the primary outcome .
+METHODS	The FMF50 score required improvement by 50 in five of six criteria ( attack frequency , attack duration , global patient assessment , global physician assessment , frequency of attacks with arthritis , and levels of acute-phase reactants ) without worsening of the sixth criterion .
+RESULTS	In the original trial rilonacept was considered effective according to the primary outcome measure ( differences in the attack frequency ) with eight analyzable patients considered responders and four as non-responders .
+RESULTS	According to the FMF50 score , only two participants would have been considered respondersto rilonacept , and one to placebo .
+RESULTS	Only two participants had 50 % differences between rilonacept and placebo in five criteria .
+RESULTS	The major explanation for non-response to treatment was that with rilonacept the duration of attack decreased by 50 % in only 2 participants and 5 participants had no attacks of arthritis either during screening ( before randomization ) or during treatment with rilonacept .
+CONCLUSIONS	The proposed FMF50 score did not differentiate well between responders and non-responders compared to the a priori defined primary outcome measure in this successful controlled study .
+

@@ -1,0 +1,13 @@
+24418351
+OBJECTIVE	Intensive lifestyle change prevents type 2 diabetes but is difficult to sustain .
+OBJECTIVE	Preliminary evidence suggests that yoga may improve metabolic factors .
+OBJECTIVE	We tested a restorative yoga intervention vs. active stretching for metabolic outcomes .
+METHODS	In 2009-2012 , we conducted a 48-week randomized trial comparing restorative yoga vs. stretching among underactive adults with the metabolic syndrome at the Universities of California , San Francisco and San Diego .
+METHODS	We provided lifestyle counseling and a tapering series of 90-min group classes in the 24-week intervention period and 24-week maintenance period .
+METHODS	Fasting and 2-h glucose , HbA1c , triglycerides , HDL-cholesterol , insulin , systolic blood pressure , visceral fat , and quality of life were assessed at baseline , 6 - and 12-months .
+RESULTS	180 participants were randomized and 135 ( 75 % ) completed the trial .
+RESULTS	At 12 months , fasting glucose decreased more in the yoga group than in the stretching group ( -0.35 mmol/L vs. -0.03 mmol/L ; p = 0.002 ) ; there were no other significant differences between groups .
+RESULTS	At 6 months favorable changes within the yoga group included reductions in fasting glucose , insulin , and HbA1c and an increase in HDL-cholesterol that were not sustained at 1 year except changes in fasting glucose .
+RESULTS	The stretching group had a significant reduction in triglycerides at 6 months which was not sustained at 1 year but had improved quality of life at both time-points .
+CONCLUSIONS	Restorative yoga was marginally better than stretching for improving fasting glucose but not other metabolic factors .
+

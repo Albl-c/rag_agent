@@ -1,0 +1,16 @@
+24863954
+OBJECTIVE	Poor patient understanding of their diagnosis and treatment plan can adversely impact clinical outcome following hospital discharge .
+OBJECTIVE	Discharge summaries are primarily written for the doctor rather than the patient .
+OBJECTIVE	We determined patient understanding of the reasons for hospitalisation , in-hospital tests , treatments and post-discharge recommendations , and whether a brief patient-directed discharge letter ( PADDLE ) delivered during a brief discussion prior to discharge would improve understanding .
+METHODS	A prospective randomised controlled trial was conducted , including 67 hospitalised patients .
+METHODS	After a baseline questionnaire , patients were randomised to receive the PADDLE letter or usual care .
+METHODS	Those receiving the letter had an immediate follow-up questionnaire .
+METHODS	Patient understanding was compared with a summary letter written by the treating clinician , using a 5-point Likert scale ranging from none to full understanding .
+METHODS	A questionnaire was administered at 3 and 6 months .
+RESULTS	At baseline , patients had almost full understanding ( median score 4 ) of reasons for hospitalisation and treatments .
+RESULTS	However , despite high self-appraisal , patients objectively had very little understanding of tests performed and post-discharge recommendations ( median 2 ) .
+RESULTS	Those receiving the letter had an immediate increase to almost full understanding ( median 4 ) of tests performed ( P < 0.001 ) and to full understanding ( median 5 ) of post-discharge recommendations .
+RESULTS	This increase did not persist at 3 or 6 months .
+CONCLUSIONS	A simple patient-directed letter delivered during a brief discussion improves patient understanding of their hospitalisation and post-discharge recommendations , which is otherwise limited .
+CONCLUSIONS	Further evaluation of this brief and well-received intervention is indicated , with the goal of improving patient understanding , satisfaction and clinical outcomes .
+

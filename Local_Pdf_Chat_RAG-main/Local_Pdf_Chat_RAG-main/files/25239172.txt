@@ -1,0 +1,14 @@
+25239172
+OBJECTIVE	To evaluate the effect of a hamstring block for postoperative pain management using 20 mL of 0.25 % bupivacaine compared with placebo after anterior cruciate ligament ( ACL ) reconstruction with a hamstring autograft .
+METHODS	In a 3-month period , 45 patients undergoing ACL reconstruction with a hamstring autograft who all received a femoral nerve block were randomized to receive either 20 mL of 0.25 % bupivacaine or 20 mL of saline water administered through a catheter into the donor-site space .
+METHODS	The patients and recovery staff were blinded to the treatment .
+METHODS	Postoperative donor-site pain was evaluated subjectively by the patients using a pain score ( Likert scale from 0 to 10 ) .
+METHODS	The pain was registered for each hour in the first 6 hours and thereafter once daily for 8 days .
+METHODS	Furthermore , the requirement for postoperative analgesic medicine was registered .
+RESULTS	The hamstring block group ( n = 23 ) had significantly less pain for each of the first 6 postoperative hours .
+RESULTS	The pain score was reduced from 4.2 to 2.3 ( 95 % confidence interval , 1.3 to 3.3 ) ( P = .01 ) in the first hour and from 2.8 to 1.3 ( 95 % confidence interval , 0.6 to 1.9 ) in the sixth hour , and there was a significantly lower overall requirement for early postoperative fentanyl , reduced from a mean of 58 to 35 g ( P = .02 ) , and morphine , reduced from a mean of 10 to 6 mg ( P = .04 ) .
+RESULTS	After 6 hours , there was no difference in the pain level and use of analgesics between the 2 groups .
+CONCLUSIONS	With the use of a donor-site block in hamstring ACL reconstruction , the donor-site pain level , as well as the overall requirement for fentanyl and morphine , was significantly reduced in the first 6 postoperative hours .
+CONCLUSIONS	No effect of the donor-site block was seen after 6 hours .
+METHODS	Level I , therapeutic , randomized controlled study .
+

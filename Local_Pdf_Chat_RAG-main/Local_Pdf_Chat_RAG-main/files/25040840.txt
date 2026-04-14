@@ -1,0 +1,16 @@
+25040840
+OBJECTIVE	This randomized double-blind study was conducted to evaluate the analgesic efficacy and safety of addition of three different doses of dexmedetomidine in caudal ropivacaine compared with plain ropivacaine for postoperative analgesia in pediatric day care patients .
+METHODS	Eighty children of American Society of Anesthesiologists grade I-II , aged 1-8 years , undergoing lower abdominal and perineal surgery were included .
+METHODS	Children were randomly allocated into four groups .
+METHODS	Group 1 received 0.2 % plain ropivacaine 0.75 mlkg ( -1 ) , while group 2 , 3 , and 4 received dexmedetomidine 0.5 , 1.0 , and 1.5 gkg ( -1 ) , respectively , along with 0.2 % ropivacaine 0.75 mlkg ( -1 ) .
+METHODS	Anesthesia was induced and maintained with sevoflurane and 50 % N2O in oxygen .
+METHODS	Children were observed for postoperative pain , nausea-vomiting , agitation , sedation , and adverse effects .
+METHODS	Rescue analgesia was provided with oral paracetamol .
+RESULTS	Postoperative analgesia was significantly prolonged in all dexmedetomidine groups as compared to plain ropivacaine group ( P < 0.001 ) .
+RESULTS	All patients in the plain ropivacaine group required rescue analgesia within first 6 postoperative hours , while none in the other three groups .
+RESULTS	None of the patients showed delayed anesthetic emergence .
+RESULTS	Four patients in the plain ropivacaine group developed agitation , while none in the dexmedetomidine groups .
+RESULTS	Patients receiving dexmedetomidine 1.5 gkg ( -1 ) were more sedated as compared to the other groups ( P < 0.01 ) , but it did not delay discharge of the patients .
+CONCLUSIONS	All three doses of caudal dexmedetomidine appear to be effective for preventing postoperative pain in pediatric day care patients .
+CONCLUSIONS	Caudal dexmedetomidine used in these doses seems to be safe for day care surgery .
+

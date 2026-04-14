@@ -1,0 +1,15 @@
+25347623
+BACKGROUND	The analgesic efficacy of the transversus abdominis plane peripheral nerve block following abdominal tissue breast reconstruction has not been studied in a randomized controlled trial .
+METHODS	The authors conducted a double-blind , placebo-controlled , 1:1 allocation , two-arm parallel group , superiority design , randomized controlled trial in patients undergoing microsurgical abdominally based breast reconstruction .
+METHODS	Intraoperatively , epidural catheters were inserted under direct vision through the triangle of Petit on both sides of the abdomen into the transversus abdominis plane just before rectus fascial closure .
+METHODS	Patients received either bupivacaine ( study group ) or saline ( placebo group ) through the catheters for 2 postoperative days .
+METHODS	All patients received hydromorphone by means of a patient-controlled analgesic pump .
+METHODS	The primary outcome was the difference in the parenteral opioid consumption on each postoperative day between the groups .
+METHODS	The secondary outcome measures included the following : total in-hospital opioid ; antinausea medication ; pain , nausea , and sedation scores ; Quality of Recovery Score ; time to ambulation ; and hospital stay duration .
+RESULTS	Between September of 2011 and June of 2013 , 93 patients were enrolled : 49 received bupivacaine and 44 received saline .
+RESULTS	There were 11 postoperative complications ( 13 percent ) ; none were related to the catheter .
+RESULTS	Primary outcomes were completed by 85 of 93 patients ( 91.3 percent ) ; the mean parenteral morphine consumption was significantly reduced on postoperative day 1 in the bupivacaine group ( 20.720.1 mg ) compared with 30.019.1 mg in the control group ( p = 0.02 ) .
+RESULTS	There were no significant differences in secondary outcomes .
+CONCLUSIONS	Following abdominally based breast reconstruction , transversus abdominis plane peripheral nerve block is safe and significantly reduces morphine consumption in the early postoperative period .
+METHODS	Therapeutic , II .
+

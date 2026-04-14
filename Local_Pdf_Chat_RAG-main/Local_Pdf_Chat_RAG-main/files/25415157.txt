@@ -1,0 +1,16 @@
+25415157
+OBJECTIVE	The comparative risks and benefits of early compared with delayed cord clamping in the preterm neonate remain unclear .
+OBJECTIVE	Our objective was to evaluate the short-term effects of delayed clamping of the umbilical cord in preterm neonates .
+METHODS	We conducted a randomized controlled trial comparing immediate with delayed cord clamping among preterm neonates born between 24 and 34 weeks of gestation .
+METHODS	The primary study outcome was the need for blood transfusion .
+METHODS	To detect a 33 % reduction in this outcome ( from 65 to 43.5 % ) with a two-tailed of 0.5 and of 0.8 required 178 patients equally divided into two groups .
+RESULTS	A total of 200 women were randomized , 99 to the delayed and 101 to the immediate clamp group .
+RESULTS	The groups were similar with respect to baseline characteristics .
+RESULTS	The mean gestational age at delivery was 30.83.1 weeks in the delayed compared with 30.72.8 weeks in the immediate clamp group ( P = .64 ) .
+RESULTS	There was no statistically significant difference between groups with regard to the need for blood transfusion : 25 of 99 ( 25.3 % ) in the delayed cord clamp group received one or more blood transfusion compared with 24 of 101 ( 23.7 % ) in the immediate clamp group ( P = .8 ) .
+RESULTS	The rates of various neonatal outcomes including respiratory distress syndrome , periventricular leukomalacia , necrotizing enterocolitis , anemia of prematurity , and neonatal morality did not differ significantly between the groups .
+RESULTS	However , the mean initial hemoglobin ( 17.42.5 compared with 16.32.3 g/dL , P = .001 ) and hematocrit ( 51.37.3 compared with 47.47.3 , P = .001 ) was significantly higher in the delayed group .
+RESULTS	In the delayed clamp group , 11.1 % ( 11/99 ) of neonates had intraventricular hemorrhage compared with 19.8 % ( 20/101 ) in the immediate clamp group ( P = .09 ) .
+CONCLUSIONS	Delayed cord clamping for 30 seconds did not decrease the need for blood transfusion among preterm neonates .
+BACKGROUND	ClinicalTrials.gov , www.clinicaltrials.gov , NCT00579839 .
+

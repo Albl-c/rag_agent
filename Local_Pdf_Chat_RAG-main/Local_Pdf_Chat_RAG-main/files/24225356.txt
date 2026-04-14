@@ -1,0 +1,15 @@
+24225356
+BACKGROUND	Haiti has experienced rapid urbanization that has exacerbated poverty and undernutrition in large slum areas .
+BACKGROUND	Stunting affects 1 in 5 young children .
+OBJECTIVE	We aimed to test the efficacy of a daily lipid-based nutrient supplement ( LNS ) for increased linear growth in young children .
+METHODS	Healthy , singleton infants aged 6-11 mo ( n = 589 ) were recruited from an urban slum of Cap Haitien and randomly assigned to receive : 1 ) a control ; 2 ) a 3-mo LNS ; or 3 ) a 6-mo LNS .
+METHODS	The LNS provided 108 kcal and other nutrients including vitamin A , vitamin B-12 , iron , and zinc at 80 % of the recommended amounts .
+METHODS	Infants were followed monthly on growth , morbidity , and developmental outcomes over a 6-mo intervention period and at one additional time point 6 mo postintervention to assess sustained effects .
+METHODS	The Bonferroni multiple comparisons test was applied , and generalized least-squares ( GLS ) regressions with mixed effects was used to examine impacts longitudinally .
+RESULTS	Baseline characteristics did not differ by trial arm except for a higher mean age in the 6-mo LNS group .
+RESULTS	GLS modeling showed LNS supplementation for 6 mo significantly increased the length-for-age z score ( SE ) by 0.13 0.05 and the weight-for-age z score by 0.12 0.02 compared with in the control group after adjustment for child age ( P < 0.001 ) .
+RESULTS	The effects were sustained 6 mo postintervention .
+RESULTS	Morbidity and developmental outcomes did not differ by trial arm .
+CONCLUSIONS	A low-energy , fortified product improved the linear growth of young children in this urban setting .
+CONCLUSIONS	The trial was registered at clinicaltrials.gov as NCT01552512 .
+

@@ -1,0 +1,14 @@
+25566977
+OBJECTIVE	The effectiveness of antimicrobial prophylaxis ( AMP ) in the prevention of surgical site infection ( SSI ) following thyroid and parathyroid surgery remains uncertain .
+OBJECTIVE	The objective of this prospective randomized controlled trial ( Ito-RCT1 ) was to assess the effectiveness of AMP in clean neck surgery performed to treat thyroid and parathyroid disease .
+METHODS	Participants comprised patients scheduled for clean neck surgery for thyroid and parathyroid disease at Ito Hospital .
+METHODS	Patients whose surgery included sternotomy or resection of the trachea , larynx , pharynx , or esophagus were excluded .
+METHODS	AMP consisted of 2 g of piperacillin ( PIPC ) ( group A , n = 541 ) or 1 g of cefazolin ( CEZ ) ( group B , n = 541 ) administered intravenously immediately after endotracheal intubation .
+METHODS	Patients in the control group ( Group C , n = 1,082 ) did not receive AMP .
+RESULTS	Statistical analysis was performed to compare the AMP group ( Group A + Group B ) with the control group ( Group C ) .
+RESULTS	Drug-induced acute reactions correlated to PIPC or CEZ did not occur in the AMP group .
+RESULTS	No significant differences in the postoperative incidence of liver or renal dysfunction were seen between the AMP and control groups .
+RESULTS	Postoperative incidence of urinary tract infection was significantly higher in the control group ( p = 0.002 ) .
+RESULTS	The incidence of SSI events was very low , with only 1 event ( 0.09 % ) in the AMP group and 3 events ( 0.28 % ) in the control group , and this difference between groups was not significant ( p = 0.371 ) .
+CONCLUSIONS	AMP is not necessary to prevent SSI after clean thyroid or parathyroid surgery .
+

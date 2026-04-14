@@ -1,0 +1,14 @@
+25457926
+OBJECTIVE	Neurodevelopmental theories of psychosis highlight the potential benefits of early intervention , prevention , and/or preemption .
+OBJECTIVE	How early intervention should take place has not been established , nor whether interventions based on social learning principles can have preemptive effects .
+OBJECTIVE	The objective was to test whether a comprehensive psychosocial intervention can significantly alter psychotic symptom trajectories during adolescence-a period of heightened risk for a wide range of psychopathology .
+METHODS	This study was a randomized controlled trial ( RCT ) of Multidimensional Treatment Foster Care ( MTFC ) for delinquent adolescent girls .
+METHODS	Assessment of psychotic symptoms took place at baseline and then 6 , 12 , 18 , and 24 months post-baseline using a standardized self-report instrument ( Brief Symptom Inventory ) .
+METHODS	A second source of information about psychotic symptoms was obtained at baseline or 12 months , and again at 24 months using a structured diagnostic interview ( the Diagnostic Interview Schedule for Children [ DISC ] ) .
+RESULTS	Significant benefits for MTFC over treatment as usual for psychosis symptoms were observed over a 24-month period .
+RESULTS	Findings were replicated across both measures .
+RESULTS	Effects were independent of substance use and initial symptom severity and persisted beyond the initial intervention period .
+CONCLUSIONS	Ameliorating nonclinical psychotic symptoms trajectories beginning in mid-adolescence via a multifaceted psychosocial intervention is possible .
+CONCLUSIONS	Developmental research on nonclinical psychotic symptoms and their prognostic value should be complemented by more psychosocial intervention research aimed at modifying these symptom trajectories early in their natural history .
+CONCLUSIONS	Clinical trial registration information-Juvenile Justice Girls Randomized Control Trial : Young Adult Follow-up ; http://clinicaltrials.gov; NCT01341626 .
+

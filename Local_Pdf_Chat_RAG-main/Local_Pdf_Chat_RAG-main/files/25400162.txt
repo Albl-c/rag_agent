@@ -1,0 +1,16 @@
+25400162
+OBJECTIVE	The SYMPLICITY HTN-3 randomized , blinded , sham-controlled trial confirmed the safety of renal denervation ( RDN ) , but did not meet its primary efficacy endpoint .
+OBJECTIVE	Prior RDN studies have demonstrated significant and durable reductions in blood pressure .
+OBJECTIVE	This analysis investigated factors that may help explain these disparate results .
+RESULTS	Patients with resistant hypertension were randomized 2 : 1 to RDN ( n = 364 ) or sham ( n = 171 ) .
+RESULTS	The primary endpoint was the difference in office systolic blood pressure ( SBP ) change at 6 months .
+RESULTS	A multivariable analysis identified predictors of SBP change .
+RESULTS	Additional analyses examined the influence of medication changes , results in selected subgroups and procedural factors .
+RESULTS	Between randomization and the 6-month endpoint , 39 % of patients underwent medication changes .
+RESULTS	Predictors of office SBP reduction at 6 months were baseline office SBP 180 mmHg , aldosterone antagonist use , and non-use of vasodilators ; number of ablations was a predictor in the RDN group .
+RESULTS	Non-African-American patients receiving RDN had a significantly greater change in office SBP than those receiving sham ; -15.2 23.5 vs. -8.6 24.8 mmHg , respectively ( P = 0.012 ) .
+RESULTS	Greater reductions in office and ambulatory SBP , and heart rate were observed with a higher number of ablations and energy delivery in a four-quadrant pattern .
+CONCLUSIONS	Post hoc analyses , although derived from limited patient cohorts , reveal several potential confounding factors that may partially explain the unexpected blood pressure responses in both the sham control and RDN groups .
+CONCLUSIONS	These hypothesis-generating data further inform the design of subsequent research to evaluate the potential role of RDN in the treatment of resistant hypertension .
+CONCLUSIONS	CLINICALTRIALS.GOV IDENTIFIER : NCT01418261 .
+

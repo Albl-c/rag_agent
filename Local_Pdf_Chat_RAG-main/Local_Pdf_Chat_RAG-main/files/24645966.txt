@@ -1,0 +1,12 @@
+24645966
+OBJECTIVE	To compare the efficacy and tolerability of a low-volume ( 2-L ) polyethylene glycol ( PEG ) regimen for colonoscopy compared to single ( 4-L ) or split-dose ( 2-L +2 - L ) regimens .
+METHODS	In-hospital patients who were candidates for colonoscopy were randomly assigned to : group 1 single-dose ( PEG 4L the day before the study , n = 60 ) ; group 2 : split-dose ( 2L the day before and 2L on the day of the procedure , n = 61 ) ; and group 3 : low-volume 2-L PEG solution ( the day of the procedure , n = 59 ) .
+METHODS	A blinded evaluation of the quality of colonic preparation was assessed by the Boston bowel preparation scale .
+RESULTS	Satisfactory bowel preparation of the right colon was more frequently reported for group 3 than for group 1 ( 70 % vs 53 % , P = 0.045 ) , in the transverse colon it was 82 % versus 69 % ( P = 0.032 ) , and on the left side of the colon it was 80 % versus 67.7 % ( P = 0.028 ) .
+RESULTS	Compared to group 2 , satisfactory bowel preparation in group 3 was similar in the transverse colon and left colon .
+RESULTS	Nausea , vomiting , and abdominal discomfort were less frequent in patients of group 3 .
+RESULTS	Patients in group 3 had fewer sleep disorders and fewer hours of sleep loss compared to patients in the other groups .
+CONCLUSIONS	Preparation with 2L caused less abdominal discomfort and fewer sleep disorders .
+CONCLUSIONS	The split dose had a better quality of preparation in the right colon .
+CONCLUSIONS	Both preparations were clearly better than the 4-L preparation .
+

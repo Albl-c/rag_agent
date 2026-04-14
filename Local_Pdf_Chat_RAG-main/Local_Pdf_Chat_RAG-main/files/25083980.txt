@@ -1,0 +1,14 @@
+25083980
+OBJECTIVE	To compare the effectiveness and safety of the hemoglobin-based nitric oxide scavenger , pyridoxalated hemoglobin polyoxyethylene , against placebo in patients with vasopressor-dependent distributive shock .
+METHODS	Multicenter , randomized , placebo-controlled , open-label study .
+METHODS	Sixty-one participating ICUs in six European countries ( Austria , Belgium , Germany , the Netherlands , Spain , and United Kingdom ) .
+METHODS	All patients admitted with distributive shock , defined as the presence of at least two systemic inflammatory response syndrome criteria , persisting norepinephrine dependence and evidence of organ dysfunction/hypoperfusion despite adequate fluid resuscitation .
+METHODS	Patients were randomized to receive 0.25 mL/kg/hr pyridoxalated hemoglobin polyoxyethylene ( 20 mg Hb/kg/hr ) or an equal volume of placebo , infused for up to 150 hours , in addition to conventional vasopressor therapy .
+RESULTS	The study was stopped after interim analysis showed higher mortality in the pyridoxalated hemoglobin polyoxyethylene group and an increased prevalence of adverse events .
+RESULTS	At this time , 377 patients had been randomized to pyridoxalated hemoglobin polyoxyethylene ( n = 183 ) or placebo ( n = 194 ) .
+RESULTS	Age , gender , type of patient ( medical/surgical ) , and Acute Physiology and Chronic Health Evaluation II scores were similar between groups .
+RESULTS	Twenty-eight-day mortality rate was 44.3 % in the pyridoxalated hemoglobin polyoxyethylene group versus 37.6 % in the placebo group ( OR , 1.29 ; 95 % CI , 0.85-1 .95 ; p = 0.227 ) .
+RESULTS	In patients with higher organ dysfunction scores ( Sepsis-related Organ Failure Assessment > 13 ) , mortality rates were significantly higher in the pyridoxalated hemoglobin polyoxyethylene group when compared with those in placebo-treated patients ( 60.9 % vs 39.2 % ; p = 0.014 ) .
+RESULTS	Survivors who received pyridoxalated hemoglobin polyoxyethylene had a longer vasopressor-free time ( 21.3 vs 19.7 d ; p = 0.035 ) .
+CONCLUSIONS	In this randomized , controlled phase III trial in patients with vasopressor-dependent distributive shock , administration of a pyridoxalated hemoglobin solution decreased the need for vasopressors but was associated with a trend to increased mortality .
+

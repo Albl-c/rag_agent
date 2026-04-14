@@ -1,0 +1,18 @@
+24509504
+BACKGROUND	Obesity in youth remains a major public health issue .
+BACKGROUND	Yet no effective long-term preventive strategy exists .
+BACKGROUND	We previously showed that a school-based socio-ecological approach targeting behavior and social/environmental influences on physical activity ( PA ) prevented 4-year excessive weight gain in 12-year olds .
+BACKGROUND	In this study , we investigated if this efficacy persists 30 months after intervention cessation .
+RESULTS	The program targeted students , family , school and the living environment to promote/support PA and prevent sedentary behavior ( SB ) .
+RESULTS	A total of 732 students from eight randomized middle schools completed the 4-year trial .
+RESULTS	At the 30-month post-trial follow-up , body mass index ( BMI ) , fat mass index ( FMI ) , leisure PA ( LPA ) , home/school/workplace active commuting , TV/video time ( TVT ) , and attitudes toward PA were measured in 531 adolescents .
+RESULTS	The beneficial effects of the intervention on the excess BMI increase ( +0.01 vs +0.34 kgm ( -2 ) in the intervention and control groups , respectively ) and on the overweight incidence in initially non-overweight students ( 4.3 % vs 8.6 % ; odds ratio = 0.48 ( 95 % confidence interval : 0.23-1 .01 ) ) were maintained at the post-trial follow-up .
+RESULTS	LPA was not maintained at the level achieved during the trial .
+RESULTS	However , we still observed a prevention of the age-related decrease of the adolescents ' percentage reporting regular LPA ( -14.4 % vs -26.5 % ) and a higher intention to exercise in the intervention group .
+RESULTS	The intervention promoted lower TVT ( -14.0 vs +13.6 min per day ) and higher active commuting changes ( +11.7 % vs -4.8 % ) .
+RESULTS	Trends in higher BMI reduction in students with high initial TVT and in the least wealthy group were noted .
+RESULTS	TVT changes throughout the follow-up predicted excess BMI and FMI changes .
+CONCLUSIONS	Long-term multilevel approach targeting PA and SB prevents excessive weight gain up to 30 months after intervention cessation .
+CONCLUSIONS	The efficacy may be higher in the most sedentary and least wealthy adolescents .
+CONCLUSIONS	Healthy PA-related behavior inducing long-lasting weight effects can be promoted in youth providing that an ecological approach is introduced in the prevention strategy .
+

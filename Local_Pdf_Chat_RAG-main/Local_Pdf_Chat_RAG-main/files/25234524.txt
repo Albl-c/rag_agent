@@ -1,0 +1,16 @@
+25234524
+OBJECTIVE	The surgical removal of mandibular third molars is frequently accompanied by significant postsurgicalsequelae , and different protocols have been described to decrease such adverse events .
+OBJECTIVE	The aim of this study was to investigate the performance of piezosurgery compared with traditional rotating instrumentsduring mandibular third molar removal .
+METHODS	A single-center , randomized , split-mouth study was performed using a consecutive series of unrelated healthy patients attending the Oral Surgery Unit of the University of Turin for surgical removal of bilateral mandibular third molar teeth .
+METHODS	Each patient was treated , at the same appointment , using bur removal on 1 side of the mandible and a piezoelectric device on the contralateral side .
+METHODS	The primaryoutcomes reported were postoperative pain , objective orofacial swelling , and surgical duration ; secondary outcomes were gender , age , and possible adverse events .
+METHODS	Analysis of variance or paired t test was used as appropriate to test any significant differences at baseline according to each treatment subgroup , and categorical variables were analyzed by ( 2 ) test .
+RESULTS	The study sample consisted of 100 otherwise healthy patients .
+RESULTS	The mean pain evaluation reportedby patients who underwent surgery with piezosurgery was significantly lower than that reported after bur ( conventional ) removal , reaching statistical difference after 4 days ( P = .043 ) .
+RESULTS	The clinical value oforofacial swelling at day 7 , normalized to baseline , was lower in the piezosurgery group ( P < .005 ) .
+RESULTS	Theaverage surgical duration was significantly shorter in the bur group than in the piezosurgery group ( P < .05 ) .
+RESULTS	Three patients having bur removal developed short-term complications ( 2 dry sockets and 1temporaryparaesthesia ) , which totally resolved by 4 weeks .
+CONCLUSIONS	To date , this prospective investigation is the largest reported split-mouth study on piezosurgeryfor lower third molar tooth removal .
+CONCLUSIONS	This study also compared surgeons with different degreesof experience .
+CONCLUSIONS	It is evident that using a piezoelectric device can enhance the patient experience and decrease postoperative pain and swelling .
+

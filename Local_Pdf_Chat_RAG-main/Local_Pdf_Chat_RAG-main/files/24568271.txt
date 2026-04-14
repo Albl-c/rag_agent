@@ -1,0 +1,14 @@
+24568271
+BACKGROUND	Antisocial behaviour and adult criminality often have their origins in childhood and are best addressed early in the child 's life using evidence-based treatments such as the ` Incredible Years Parent Programme ' .
+BACKGROUND	However , families with additional risk factors who are at highest risk for poor outcomes do not always make sufficient change while attending such programmes .
+BACKGROUND	Additional support to address barriers and improve implementation of positive parenting strategies while these families attend the Incredible Years Programme may improve overall outcomes.The study aims to evaluate the efficacy of adding a structured home visiting intervention ( Home Parent Support ) to improve outcomes in families most at risk of poor treatment response from the Incredible Years intervention .
+BACKGROUND	This study will inform the design of a larger prospective randomised controlled trial .
+METHODS	A pilot single-blind , parallel , superiority , randomised controlled trial .
+METHODS	Randomisation will be undertaken using a computer-generated sequence in a 1:1 ratio to the two treatments arranged in permuted blocks with stratification by age , sex , and ethnicity .
+METHODS	One hundred and twenty six participants enrolled in the Incredible Years Parent Programme who meet the high-risk criteria will be randomly allocated to receive either Incredible Years Parent Programme and Home Parent Support , or the Incredible Years Parent Programme alone .
+METHODS	The Home Parent Support is a 10-session structured home visiting intervention provided by a trained therapist , alongside the usual Incredible Years Parent Programme , to enhance the adoption of key parenting skills .
+METHODS	The primary outcome is the change in child behaviour from baseline to post-intervention in parent reported Eyberg Child Behavior Inventory Problem Scale .
+CONCLUSIONS	This is the first formal evaluation of adding Home Parent Support alongside Incredible Years Parent Programme for families with risk factors who typically have poorer treatment outcomes .
+CONCLUSIONS	We anticipate that the intervention will help vulnerable families stay engaged , strengthen the adoption of effective parenting strategies , and improve outcomes for both the children and families .
+BACKGROUND	Australian New Zealand Clinical Trials Registry ACTRN12612000878875 .
+

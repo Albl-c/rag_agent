@@ -1,0 +1,17 @@
+24799543
+OBJECTIVE	Previous studies have focused on the effect of food advertisements on the caloric intake of children .
+OBJECTIVE	However , the role of individual susceptibility in this effect is unclear .
+OBJECTIVE	The aim of this study was to examine the role of impulsivity in the effect of advergames that promote energy-dense snacks on children 's snack intake .
+METHODS	First , impulsivity scores were assessed with a computer task .
+METHODS	Then a randomized between-subject design was conducted with 261 children aged 7 to 10 years who played an advergame promoting either energy-dense snacks or nonfood products .
+METHODS	As an extra manipulation , half of the children in each condition were rewarded for refraining from eating , the other half were not .
+METHODS	Children could eat freely while playing the game .
+METHODS	Food intake was measured .
+METHODS	The children then completed questionnaire measures , and were weighed and measured .
+RESULTS	Overall , playing an advergame containing food cues increased general caloric intake .
+RESULTS	Furthermore , rewarding children to refrain from eating decreased their caloric intake .
+RESULTS	Finally , rewarding impulsive children to refrain from eating had no influence when they were playing an advergame promoting energy-dense snacks , whereas it did lead to reduced intake among low impulsive children and children who played nonfood advergames .
+CONCLUSIONS	Playing an advergame promoting energy-dense snacks contributes to increased caloric intake in children .
+CONCLUSIONS	The advergame promoting energy-dense snacks overruled the inhibition task to refrain from eating among impulsive children , making it more difficult for them to refrain from eating .
+CONCLUSIONS	The findings suggest that impulsivity plays an important role in susceptibility to food advertisements .
+

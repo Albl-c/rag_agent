@@ -1,0 +1,18 @@
+24326593
+BACKGROUND	Proximal humeral fractures are mainly associated with osteoporosis and are becoming more common with the aging of our society .
+BACKGROUND	The best surgical approach for internal fixation of displaced proximal humeral fractures is still being debated .
+OBJECTIVE	In this prospective randomized study , we aimed to investigate whether the deltoid-split approach is superior to the deltopectoral approach with regard to ( 1 ) complication rate ; ( 2 ) shoulder function ( Constant score ) ; and ( 3 ) pain ( visual analog scale [ VAS ] ) for internal fixation of displaced humeral fractures with a polyaxial locking plate .
+METHODS	We randomized 120 patients with proximal humeral fractures to receive one of these two approaches ( 60 patients for each approach ) .
+METHODS	We prospectively documented demographic and perioperative data ( sex , age , fracture type , hospital stay , operation time , and fluoroscopy time ) as well as complications .
+METHODS	Followup examinations were conducted at 6 weeks , 6 months , and 12 months postoperatively , including radiological and clinical evaluations ( Constant score , activities of daily living , and pain [ VAS ] ) .
+METHODS	Baseline and perioperative data were comparable for both approaches .
+METHODS	The sample size was chosen to provide 80 % power , but it reached only 68 % as a result of the loss of followups to detect a 10-point difference on the Constant score , which we considered the minimum clinically important difference .
+RESULTS	Complications or reoperations between the approaches were not different .
+RESULTS	Eight patients in the deltoid-split group ( 14 % ) needed surgical revisions compared with seven patients in the deltopectoral group ( 13 % ; p = 1.00 ) .
+RESULTS	Deltoid-split and deltopectoral approaches showed similar Constant scores 12 months postoperatively ( Deltoid-split 81 ; 95 % confidence interval [ CI ] , 74-87 versus deltopectoral 73 ; 95 % CI , 64-81 ; p = 0.13 ) , and there were no differences between the groups in terms of pain at 1 year ( deltoid-split 1.8 ; 95 % CI , 1.2-1 .4 versus deltopectoral 2.5 ; 95 % CI , 1.7-3 .2 ; p = 0.14 ) .
+RESULTS	No learning-curve effects were noted ; fluoroscopy use during surgery and function and pain scores during followups were similar among the first 30 patients and the next 30 patients treated in each group .
+CONCLUSIONS	The treatment of proximal humeral fractures with a polyaxial locking plate is reliable using both approaches .
+CONCLUSIONS	For a definitive recommendation for one of these approaches , further studies with appropriate sample size are necessary .
+METHODS	Level II , therapeutic study .
+METHODS	See the Guidelines for Authors for a complete description of levels of evidence .
+

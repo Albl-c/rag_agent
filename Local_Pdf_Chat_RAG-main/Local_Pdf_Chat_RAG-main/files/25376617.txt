@@ -1,0 +1,14 @@
+25376617
+OBJECTIVE	To investigate safety and evidence of efficacy of IBI-20089 , an intravitreal , liquid , sustained drug delivery system formulated with triamcinolone acetonide ( TA ) in combination with ranibizumab ( Lucentis ) for neovascular age related macular degeneration .
+METHODS	Patients received a single intravitreal injection of IBI-20089 containing either 6.9 mg ( 25L ) TA or 13.8 mg ( 50L ) TA followed a week later by intravitreal injection of 0.5 mg ranibizumab .
+METHODS	Patients were followed monthly and underwent best corrected visual acuity testing , slit lamp biomicroscopy , dilated ophthalmoscopy , fundus photos and optical coherence tomography .
+METHODS	Patients received pro re nata dosing of ranibizumab .
+RESULTS	Patients ranged in age from 59 years to 81years ( mean 73.4 years ) and all completed 1year follow-up .
+RESULTS	No serious related adverse events occurred .
+RESULTS	Ocular adverse events included mild , transient , elevated intraocular pressure in eight patients and cataract progression in three of the five phakic patients .
+RESULTS	At 1year , 30 of a total 120 ( 25 % ) possible pro re nata re-Rx 's had been given .
+RESULTS	Combination therapy resulted in a median number of 3.5 re-treatments at and including month 12 .
+CONCLUSIONS	Combination therapy IBI-20089 and ranibizumab was well-tolerated and resulted in fewer ranibizumab retreatments .
+CONCLUSIONS	Transient intraocular pressure elevation and cataract progression occurred .
+BACKGROUND	NCT01175395 .
+

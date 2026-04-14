@@ -1,0 +1,14 @@
+25006633
+OBJECTIVE	To compare gadobenate dimeglumine-enhanced magnetic resonance imaging ( MRI ) with gadopentetate dimeglumine-enhanced MRI , mammography , and ultrasound for breast cancer detection across different malignant lesion types and across different densities of breast tissue .
+METHODS	In all , 153 women with Breast Imaging Reporting and Data System ( BI-RADS ) 35 findings on mammography and/or ultrasound underwent identical breast MRI exams at 1.5 T with gadobenate dimeglumine and gadopentetate dimeglumine .
+METHODS	Images were evaluated by three independent blinded radiologists .
+METHODS	Mammography , ultrasound , and combined mammography and/or ultrasound findings were available for 108 , 109 , and 131 women .
+METHODS	Imaging findings were matched with histology data by a fourth , independent , blinded radiologist .
+METHODS	Malignant lesion detection rates and diagnostic performance were compared .
+RESULTS	In all , 120 , 120 , and 140 confirmed malignant lesions were present in patients undergoing MRI + mammography , MRI + ultrasound , and MRI + mammography and/or ultrasound , respectively .
+RESULTS	Significantly greater cancer detection rates were noted by all three readers for comparisons of gadobenate dimeglumine-enhanced MRI with mammography ( 15.817.5 % ; P < 0.0001 ) , ultrasound ( 18.320.0 % ; P < 0.0001 ) , and mammography and/or ultrasound ( 8.610.7 % ; P 0.0105 ) but not for comparisons of gadopentetate dimeglumine-enhanced MRI with conventional techniques ( P > 0.05 ) .
+RESULTS	The false-positive detection rates were lower on gadobenate dimeglumine-enhanced MRI than on conventional imaging ( 4.05.5 % vs. 11.1 % at mammography ; 6.38.4 % vs. 15.5 % at ultrasound ) .
+RESULTS	Significantly improved cancer detection on MRI was noted in heterogeneously dense breast ( 91.297.3 % on gadobenate dimeglumine-enhanced MRI vs. 77.284.9 % on gadopentetate dimeglumine-enhanced MRI vs. 71.9-84 .9 % with conventional techniques ) and for invasive cancers ( 93.296.2 % for invasive ductal carcinoma [ IDC ] on gadobenate dimeglumine-enhanced MRI vs. 79.788.5 % on gadopentetate dimeglumine-enhanced MRI vs. 77.084.4 % with conventional techniques ) .
+RESULTS	Overall diagnostic performance for the detection of cancer was superior on gadobenate dimeglumine-enhanced MRI than on conventional imaging or gadopentetate dimeglumine-enhanced MRI .
+CONCLUSIONS	Gadobenate dimeglumine-enhanced MRI significantly improves cancer detection compared to gadopentetate dimeglumine-enhanced MRI , mammography , and ultrasound in a selected group of patients undergoing breast MRI for preoperative staging or because of inconclusive findings at conventional imaging .
+

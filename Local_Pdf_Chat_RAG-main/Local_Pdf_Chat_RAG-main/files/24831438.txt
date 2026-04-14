@@ -1,0 +1,14 @@
+24831438
+BACKGROUND	Threshold levels for peanut allergy determined by using oral challenges are important for the food industry with regard to allergen labeling .
+BACKGROUND	Moreover , the utility of biological markers in predicting threshold levels is uncertain .
+OBJECTIVE	We sought to use a modified oral food challenge regimen that might determine threshold levels for peanut allergy mimicking a more real-life exposure and to correlate the eliciting dose ( ED ) and severity of clinical reaction in children with peanut allergy with B-cell , T-cell , and effector cell markers .
+METHODS	A modified food challenge procedure with doses scheduled 2 hours apart was used in 63 children with peanut allergy .
+METHODS	All children received a maximum of 8 semi-log increasing titration steps of roasted peanuts ranging from 3 to 4500 mg of peanut protein until objective allergic reactions occurred .
+METHODS	Severity of symptoms was graded from I to V. Biological markers were measured before challenge .
+RESULTS	Forty-five of 63 patients showed objective symptoms after greater than 30 minutes , with a median latency of clinical reaction of 55 minutes .
+RESULTS	By using a log-normal dose-distribution model , the ED5 was calculated to be 1.95 mg of peanut protein .
+RESULTS	The ED was significantly and inversely correlated with peanut - and Ara h 2-specific IgE levels , skin prick test responses , basophil activation , and TH2 cytokine production by PBMCs .
+RESULTS	Symptom severity did not correlate with any of the markers or the ED .
+CONCLUSIONS	This modified food challenge procedure might better reflect threshold levels for peanut allergy than the standard procedure because most of the patients reacted at a time interval of greater than 30 minutes .
+CONCLUSIONS	By using this model , threshold levels , but not severity , could be correlated with biological markers .
+

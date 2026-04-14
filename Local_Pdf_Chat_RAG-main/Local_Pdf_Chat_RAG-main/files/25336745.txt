@@ -1,0 +1,13 @@
+25336745
+OBJECTIVE	We aim to characterize the effects on total body fat and distribution of a 1-year intensive lifestyle intervention ( ILI ) for weight loss in overweight and obese adults with type 2 diabetes and to examine whether changes in adipose tissue ( AT ) depots were associated with changes in metabolic biomarkers .
+METHODS	Participants were 54 females and 38 males ( age 57.8 6.7 years [ mean SD ] ; BMI 31.7 3.5 kg/m ( 2 ) ) enrolled in the Look AHEAD ( Action for Health in Diabetes ) trial randomized to ILI or diabetes support and education ( DSE ) from whom baseline and 1-year MRI measures of total AT ( TAT ) and regional ( arm , trunk , leg ) AT , including subcutaneous AT ( SAT ) , visceral AT ( VAT ) , and intermuscular AT ( IMAT ) , were acquired .
+METHODS	We tested whether mean changes in ILI and DSE were equal and , within groups , whether changes were different from zero .
+METHODS	Regression models tested whether changes in AT compartments were associated with metabolic variable changes .
+RESULTS	Body weight changed -0.52 3.62 kg ( P = 0.31 ) in DSE and -7.24 5.40 kg ( P < 0.0001 ) in ILI .
+RESULTS	Mean ILI changes were different from DSE ( P < 0.001 for TAT , SAT , and IMAT and P < 0.01 for VAT in females ) .
+RESULTS	Within ILI , SAT and VAT decreased in males and females ( P < 0.0001 ) , but IMAT was unchanged ( 0.00 0.54 kg ; P = 0.99 ) .
+RESULTS	In DSE , SAT and VAT did not change , but IMAT increased by 0.46 0.55 kg ( P < 0.001 ) .
+RESULTS	Controlling for weight loss , reduction of specific AT depots was associated with improvement in metabolic biomarkers .
+CONCLUSIONS	Weight loss of 7-10 % from an ILI over 1 year reduced SAT and VAT and prevented an increase in IMAT .
+CONCLUSIONS	Reductions in AT depots were associated with improvements in biomarkers .
+

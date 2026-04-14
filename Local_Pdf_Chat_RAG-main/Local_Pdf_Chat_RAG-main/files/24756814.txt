@@ -1,0 +1,13 @@
+24756814
+BACKGROUND	This update of a randomized , prospective study presents the effect of external beam radiation therapy ( EBRT ) on long-term overall survival , local control , and limb function following limb-sparing surgery ( LSS ) for the treatment extremity soft tissue sarcoma ( STS ) .
+METHODS	Following LSS , patients with extremity STS were randomized to receive EBRT or surgery alone .
+METHODS	All patients with high-grade STS received adjuvant chemotherapy .
+METHODS	Long-term follow-up was obtained through telephone interviews using a questionnaire based on validated methods .
+METHODS	Overall survival ( OS ) was determined by Kaplan-Meier method .
+RESULTS	A total of 141 patients with extremity STS were randomized to receive adjuvant EBRT ( n = 70 ) or LSS alone ( n = 71 ) .
+RESULTS	Median follow-up was 17.9 years .
+RESULTS	The 10 - and 20-year survival was 77 % ( 95 % CI 66-85 % ) and 64 % ( 95 % CI 52-75 % ) for patients receiving LSS alone and 82 % ( 95 % CI 72-90 % ) and 71 % ( 95 % CI 59-81 % ) for patients receiving EBRT ( p = 0.22 ) .
+RESULTS	Of the 54 patients who completed telephone interviews , the incidence of local recurrence during the follow-up period was 4 % ( 1 of 24 ) in the LSS alone cohort compared with 0 % ( 0 of 30 ) in those who received EBRT ( p = 0.44 ) .
+RESULTS	Patients treated with EBRT tended to have more wound complications ( 17 vs. 12.5 % , p = 0.72 ) , clinically significant edema ( 25 vs. 12 % , p = 0.31 ) , and functional limb deficits ( 15 vs. 12 % , p = 0.84 ) .
+CONCLUSIONS	Adjuvant EBRT following surgery for STS of the extremity provides excellent local control with acceptable treatment-related morbidity and no statistically significant improvement in overall survival .
+

@@ -1,0 +1,14 @@
+24594421
+OBJECTIVE	To compare in dual-energy CT ( DECT ) conventionally reconstructed polyenergetic images ( PEI ) at 120 kVp to virtual monoenergetic images ( MEI ) at different kiloelectron volt ( keV ) levels for evaluation of liver and gastrointestinal stromal tumor ( GIST ) hepatic metastases with regard to objective ( IQob ) and subjective image quality ( IQsub ) assessed by two readers of varying experience .
+OBJECTIVE	Image quality was correlated to patient size and compared between PEI and MEI .
+METHODS	From 50 examinations of 17 GIST patients ( 12 with hepatic metastases ) undergoing abdominal dual-source DECT for staging , therapy monitoring or follow-up , PEI and nine MEI in 10-keV intervals from 40 to 120 keV were reconstructed .
+METHODS	Liver contrast-to-noise ratios ( CNR ) and metastasis-to-liver ratios were calculated .
+METHODS	MEI reconstructions with the highest IQob were compared to PEI for IQsub by one experienced reader ( ER ) and one inexperienced reader ( IR ) .
+METHODS	Patients ' diameters were correlated to IQob and IQsub ratings .
+RESULTS	MEI at 70 keV had the highest IQob with equal liver CNR and metastasis-to-liver ratio compared to PEI .
+RESULTS	The ER rated 70-keV MEI and PEI equally high ( median 4 ) , whereas the IR rated IQsub best in 70-keV MEI ( median 5 ) .
+RESULTS	Unlike in PEI , IQsub ratings in 70-keV MEI were not correlated to patient size .
+CONCLUSIONS	MEI at 70 keV provided an IQob equivalent to PEI .
+CONCLUSIONS	Regarding the IR , IQsub was improved in 70-keV MEI compared to PEI and less dependent on patient size .
+CONCLUSIONS	Therefore , IRs might improve their diagnostic confidence in the assessment of hepatic GIST metastases by evaluating MEI reconstructions at 70 keV .
+

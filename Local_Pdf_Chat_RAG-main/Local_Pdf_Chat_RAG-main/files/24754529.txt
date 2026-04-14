@@ -1,0 +1,14 @@
+24754529
+BACKGROUND	Actinic damage is responsible for the development of multiple , recurrent non-melanoma skin cancers ( NMSCs ) , including actinic keratoses ( AKs ) .
+BACKGROUND	Photodynamic therapy ( PDT ) and imiquimod cream ( IMIQ ) 5 % are recommended as field-directed treatment options .
+OBJECTIVE	To compare efficacy and safety of methyl aminolevulinate ( MAL ) - PDT vs. IMIQ 5 % in the prevention of new NMSCs development patients with field changes .
+METHODS	Patients with field cancerization of the face or scalp were randomized to receive MAL-PDT on one side , and IMIQ 5 % on the mirror field .
+METHODS	The primary endpoint was the number of new lesions on the treated fields during a 12-month follow-up period .
+METHODS	Secondary assessments included adverse events and patient preference .
+RESULTS	Forty-four patients completed the study .
+RESULTS	MAL-PDT and IMIQ did not differ concerning the primary endpoint , as there was no statistically significant difference in terms of development of new NMSCs at any point of follow-up .
+RESULTS	Both treatment regimens were safe and well tolerated .
+RESULTS	Patients ' preference based on the procedure , response rates and future choice favoured MAL-PDT .
+CONCLUSIONS	MAL-PDT and IMIQ 5 % are safe and well-tolerated treatments that equally prevent development of new AKs in patients suffering from field changes .
+CONCLUSIONS	MAL-PDT treatment appears to be superior in terms of patients ' preference .
+

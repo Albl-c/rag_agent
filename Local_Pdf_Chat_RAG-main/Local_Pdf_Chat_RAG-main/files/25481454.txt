@@ -1,0 +1,11 @@
+25481454
+OBJECTIVE	To assess the effectiveness of the Healthy School and Drugs ( HSD ) program for secondary schools on the development of substance use among Dutch early adolescents and to explore whether boys , adolescents of lower educational backgrounds , or adolescents high on personality risk traits , would benefit more from the HSD program than others .
+METHODS	Randomized clustered trial with two intervention conditions ( i.e. , lessons and integral ) among a general population of adolescents in the Netherlands .
+METHODS	A total of 3784 students of 23 Dutch secondary schools .
+METHODS	Structured digital questionnaires were administered pre-intervention and at 8 , 20 , and 32months follow-ups .
+METHODS	The outcome measure was the rate of change in substance use across follow-ups .
+METHODS	Differential effectiveness of the HSD program was examined for sex , educational level , and personality traits .
+RESULTS	Our results show no HSD intervention effects on the development of substance use .
+RESULTS	Sex , education level , and personality characteristics of the participants did not moderate the intervention effects .
+CONCLUSIONS	The absence of effects of the Healthy School and Drugs program on the development of substance use indicates that the program should be renewed and redeveloped .
+

@@ -1,0 +1,13 @@
+24231639
+OBJECTIVE	The aim of the study was to evaluate the relation between nutritional intake ( kilocalories , protein ) and weight and length growth in preterm infants , and to describe their metabolic tolerance with a focus on those with high protein intake ( 4.6 g kg ( -1 ) day ( -1 ) ) .
+METHODS	Secondary analysis of data from appropriate-for-gestational age preterm infants in a 28-day randomized clinical trial that evaluated growth , tolerance , and safety of a new ultraconcentrated liquid human milk fortifier ( original study n = 150 ) .
+METHODS	This subset of 56 infants had complete growth and nutrition data and met criteria for the original study 's `` efficacy analysis '' ( eg , > 80 % of kilocalorie intake from study diet ) .
+METHODS	Nutritional intake was estimated , not actual .
+METHODS	Regressions were used to test cumulative kilocalories and protein as the predictors of 28-day change in weight and length z scores ( growth status ) , and to evaluate protein tolerance .
+RESULTS	Average intake was 118 8 kcal kg ( -1 ) day ( -1 ) and 4.3 0.4 g protein kg ( -1 ) day ( -1 ) , with 16 3 g kg ( -1 ) day ( -1 ) and 1.1 0.2 cm/week growth for 28 days .
+RESULTS	Cumulative total kilocalories and protein were significant predictors of improved length z score ( P = 0.0054 , 0.0005 ) but not weight z score change .
+RESULTS	Regression models indicated that protein not kilocalories explained the improvement in length z score , with protein explaining 19 % of the variability .
+RESULTS	The high protein group averaged 4.6 to 5.5 g kg ( -1 ) day ( -1 ) ( n = 16 ) .
+RESULTS	Protein tolerance was adequate for all of the study infants based on metabolic measures ( blood urea nitrogen , serum carbon dioxide , pH ) .
+CONCLUSIONS	Higher cumulative protein intake was tolerated and overall lessened the commonly occurring decline in the length but not weight growth status in a 28-day study of preterm infants .
+

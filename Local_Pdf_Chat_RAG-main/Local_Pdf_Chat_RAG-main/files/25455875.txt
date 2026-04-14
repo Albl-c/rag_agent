@@ -1,0 +1,11 @@
+25455875
+OBJECTIVE	To conduct a follow-up association mapping to independent genome-wide linkage and admixture mapping studies of uterine leiomyoma .
+METHODS	Case-control , cross-sectional study .
+METHODS	Not applicable .
+METHODS	A total of 1,045 premenopausal North American participants in the National Institute of Environmental Health Sciences Uterine Fibroid Study .
+METHODS	None .
+METHODS	We genotyped 2,772 single-nucleotide polymorphisms from candidate genes located in peaks of linkage ( 2q37 , 3p21 , 5p13 , 10p11 , 11p15 , 12q14 , and 17q25 ) or admixture linkage disequilibrium ( 2q37 , 4p16 .1 , and 10q26 ) mapping and reported to have regulated expression in uterine fibroids .
+RESULTS	We report significant associations of variant members of the collagen gene family with risk and tumor size , including missense variants in COL6A3 and COL13A , with replications in African American and European American study groups .
+RESULTS	Furthermore , the cell-matrix Rho GTPase-encoding ARHGAP26 gene , and MAN1C1 , a gene encoding a Golgi mannosidase involved in the maturation of procollagens , emerged as new candidate uterine leiomyoma genes affecting both risk and tumor size .
+CONCLUSIONS	Our data converge onto a possible model of uterine leiomyoma pathogenesis resulting from altered regulation , maintenance , and/or renewal of the extracellular matrix .
+

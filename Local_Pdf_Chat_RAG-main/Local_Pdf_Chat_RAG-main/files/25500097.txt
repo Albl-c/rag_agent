@@ -1,0 +1,17 @@
+25500097
+BACKGROUND	Evidence-based preventive services for early detection of cancer and other health conditions offer profound health benefits , yet Americans receive only half of indicated services .
+BACKGROUND	Policy initiatives promote the adoption of information technologies to engage patients in care .
+BACKGROUND	We developed a theory-driven interactive preventive health record ( IPHR ) to engage patients in health promotion .
+BACKGROUND	The model defines five levels of functionality : ( 1 ) collecting patient information , ( 2 ) integrating with electronic health records ( EHRs ) , ( 3 ) translating information into lay language , ( 4 ) providing individualized , guideline-based clinical recommendations , and ( 5 ) facilitating patient action .
+BACKGROUND	It is hypothesized that personal health records ( PHRs ) with these higher levels of functionality will inform and activate patients in ways that simpler PHRs can not .
+BACKGROUND	However , realizing this vision requires both technological advances and effective implementation based upon clinician and practice engagement .
+METHODS	We are starting a two-phase , mixed-method trial to evaluate whether the IPHR is scalable across a large number of practices and how its uptake differs for minority and disadvantaged patients .
+METHODS	In phase 1 , 40 practices from three practice-based research networks will be randomized to add IPHR functionality to their PHR versus continue to use their existing PHR .
+METHODS	Throughout the study , we will engage intervention practices to locally tailor IPHR content and learn how to integrate new functions into their practice workflow .
+METHODS	In phase 2 , the IPHR to all nonintervention practices to observe whether the IPHR can be implemented more broadly ( Scalability ) .
+METHODS	Phase 1 will feature an implementation assessment in intervention practices , based on the RE-AIM model , to measure Reach ( creation of IPHR accounts by patients ) , Adoption ( practice decision to use the IPHR ) , Implementation ( consistency , fidelity , barriers , and facilitators of use ) , and Maintenance ( sustained use ) .
+METHODS	The incremental effect of the IPHR on receipt of cancer screening tests and shared decision-making compared to traditional PHRs will assess Effectiveness .
+METHODS	In phase 2 , we will assess similar outcomes as phase 1 except for effectiveness .
+CONCLUSIONS	This study will yield information about the effectiveness of new health information technologies designed to actively engage patients in their care as well as information about how to effectively implement and disseminate PHRs by engaging clinicians .
+BACKGROUND	ClinicalTrials.gov : NCT02138448 .
+

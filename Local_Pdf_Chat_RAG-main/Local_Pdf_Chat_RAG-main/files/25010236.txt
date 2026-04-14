@@ -1,0 +1,19 @@
+25010236
+BACKGROUND	According to the literature , 40 % of injuries affecting school-age children are sports related .
+BACKGROUND	The role of physical education students , as future teachers , seems to be of high importance in terms of protecting children 's safety during sports classes .
+OBJECTIVE	The aim is to evaluate the level of basic life support ( BLS ) knowledge and skills in physical education students instructed with the use of different methods .
+METHODS	Second-year physical education students ( n = 104 , M age = 200.6 years ) were randomly assigned to three groups : experimental 1 ( E1 ) , experimental 2 ( E2 ) , and control ( C ) .
+METHODS	Group E1 students participated in a 2-hour BLS course based on computer-assisted presentations .
+METHODS	Group E2 trainees practiced BLS algorithm in pairs during a 2-hour course .
+METHODS	No manikins were used in both intervention groups .
+METHODS	Students of Group C were asked to learn BLS algorithm on their own .
+METHODS	All groups fulfilled a 10-question multiple-choice test on BLS at the beginning and the end of the experiment .
+METHODS	After completing the course participants performed BLS on a manikin .
+RESULTS	The results of knowledge test were not significant before an experiment but differed essentially among the groups afterward ( analysis of variance contrast analysis , p < .05 ) .
+RESULTS	Regardless of teaching method used , no significant differences were found among the students in preparatory BLS actions and cardiopulmonary resuscitation ( CPR ) performance on a manikin .
+RESULTS	The level of CPR performance was very low in all groups .
+CONCLUSIONS	Students of both intervention groups improved their BLS knowledge after the training .
+CONCLUSIONS	Teaching methods used in the current study seemed to be ineffective in terms of practical CPR skills .
+CONCLUSIONS	Access to greater number of modern manikins should improve the BLS training in physical education students .
+CONCLUSIONS	Moreover , permanent consultation on instructional methods with emergency medicine experts is recommended for university teachers .
+

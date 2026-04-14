@@ -1,0 +1,19 @@
+25027170
+OBJECTIVE	Evaluation of the efficacy and toxicity of split-course accelerated hyperfractionated irradiation ( CHA-CHA ) as a sole treatment for advanced head and neck ( H&N ) cancer patients .
+METHODS	We enrolled 101 patients ( 39 in CHA-CHA and 37 in conventional ( Conv . )
+METHODS	arm completed the treatment ) .
+METHODS	The CHA-CHA arm patients were irradiated twice a day , 7 days a week , using a fraction dose ( fd ) of 1.6 Gy up to 64 Gy with an 8-day gap in midterm .
+METHODS	Patients in the control ( Conv . )
+METHODS	arm group were irradiated with a fd of 2 Gy , five times a week to a total dose of 72-74 Gy in the overall treatment time of 50-53 days .
+METHODS	Quality of life ( QOL ) and acute mucosal reaction were evaluated during radiotherapy ( RT ) .
+METHODS	After RT , we followed the effect of treatment , QOL , performance status and adverse effects of radiation .
+METHODS	For statistical analysis mainly a hierarchical multilevel modelling was used .
+RESULTS	QOL was most deteriorated in the CHA-CHA arm ; the CHA-CHA scheme also caused a relatively stronger acute injury .
+RESULTS	There were no significant differences in late adverse effects .
+RESULTS	In the CHA-CHA arm in 35 % and in Conv .
+RESULTS	arm in 30 % of patients , disease was controlled during follow-up .
+RESULTS	Tumour regression 1 year after the treatment was significantly better in the CHA-CHA arm .
+RESULTS	However , the overall survival rate analysis did not show significant difference between both arms .
+CONCLUSIONS	Despite differences in treatment results , we can not conclude that split-course accelerated hyperfractionated irradiation is superior to conventionally fractionated RT as a sole treatment for advanced H&N cancer patients .
+CONCLUSIONS	Obtained results in the context of published data support the statement that altered fractionations alone do not give an advantage for advanced H&N cancer patients .
+

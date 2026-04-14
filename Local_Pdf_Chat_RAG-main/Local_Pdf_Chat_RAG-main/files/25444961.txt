@@ -1,0 +1,17 @@
+25444961
+OBJECTIVE	We determined the feasibility of a definitive trial comparing the effectiveness of group vs individual urotherapy for children with bladder-bowel dysfunction .
+METHODS	Children 6 to 10 years old with bladder-bowel dysfunction were recruited during the course of 1 year .
+METHODS	Feasibility data on screening , eligibility , recruitment and protocol compliance rates were collected .
+METHODS	Patients with high grade hydronephrosis , vesicoureteral reflux or learning disabilities and those who had previously undergone urotherapy were excluded .
+METHODS	Patients were randomized to 1-hour group urotherapy or 15-minute individual urotherapy .
+METHODS	Symptoms and quality of life were measured using the Vancouver Nonneurogenic Lower Urinary Tract Dysfunction/Dysfunctional Elimination Syndrome Questionnaire and the Pediatric Incontinence Questionnaire at baseline and at 3 to 6 months of followup .
+METHODS	Within/between group comparisons were conducted using t-tests .
+RESULTS	Of 455 screened children 79 were eligible and 60 were recruited to participate .
+RESULTS	A total of 24 patients randomized to group urotherapy and 25 randomized to individual urotherapy completed the pilot trial ( 6 undergoing group and 5 undergoing individual urotherapy withdrew from the study ) .
+RESULTS	Symptomology scores between group and individual urotherapy were not different at followup ( mean SD 14.7 7.9 vs 13.4 6.3 , p = 0.54 , 95 % CI -5.4 -2.8 ) .
+RESULTS	Quality of life scores between patients undergoing group and individual urotherapy at baseline differed ( mean SD 21.1 10.8 vs 31.0 14.3 , p < 0.01 , 95 % CI 2.7-7 .3 ) but became similar at followup ( 21.0 14.2 vs 20.1 15.3 , p = 0.84 , 95 % CI -9.4 -7.6 ) .
+RESULTS	Within group analyses demonstrated improvement in symptomology from baseline to followup in patients undergoing group ( mean SD 3.6 7.6 , p = 0.03 , 95 % CI 0.4-6 .8 ) and individual urotherapy ( 6.0 5.4 , p < 0.01 , 95 % CI 3.8-8 .3 ) .
+RESULTS	Within group quality of life analyses revealed improvement in Pediatric Incontinence Questionnaire scores from baseline to followup in patients undergoing individual urotherapy ( p < 0.01 , 95 % CI 5.0-16 .9 ) only .
+CONCLUSIONS	Urotherapy , regardless of modality , effectively improved bladder-bowel dysfunction symptoms .
+CONCLUSIONS	A definitive randomized controlled trial is feasible , considering that a high recruitment rate ( 76 % ) for this population has been established .
+

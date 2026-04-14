@@ -1,0 +1,27 @@
+25549639
+OBJECTIVE	To explore the possible mechanisms for improving lower extremity motor function in patients with early stroke through combining magnetic resonance diffusion tensor imaging ( DTI ) technology and functional electrical stimulation ( FES ) based on human walking patterns .
+METHODS	From August 2012 to September 2013 , a total of 48 eligible patients were stratified according to age , gender , disease course , Brunnstrom staging and types of stroke .
+METHODS	And the Minimize software was used to divided them randomly into four-channel FES group ( n = 18 ) , dual-channel FES group ( n = 15 ) and comfort stimulation group ( n = 15 ) .
+METHODS	For all three groups , general medication and standard rehabilitation were provided .
+METHODS	Based on normal walking pattern design of FES treatment , four-channel FES groups received the stimulations of quadriceps , hamstring , anterior tibialis and medial gastrocnemius .
+METHODS	For the dual-channel FES group , the stimulations of tibialis anterior , peroneus longus and peroneus brevis muscles were applied .
+METHODS	In comfort electrical stimulation group , the electrode positions were identical to the stimulation group , but there was no current output during stimulation .
+METHODS	Before and after 3-week treatment , three groups received weekly rehabilitation evaluations of Fugl-Meyer assessment ( FMA ) , posture assessment of stroke scale ( PASS ) , Brunel balance assessment ( BBA ) , Berg balance scale ( BBS ) and modified Barthel index ( MBI ) .
+METHODS	Before and after treatment , DTI examination was performed for some patients .
+RESULTS	Among three groups , general patient profiles and pre-treatment evaluations showed no significant difference .
+RESULTS	For intra-group comparisons versus pre-treatment , at week 1 , 2 and 3 , the scores of PASS , BBA , BBS , FMA and MBI had statistically significant differences ( P < 0.05 ) ; At week 3 post-treatment , when four-channel and double-channel FES groups were compared versus pre-treatment , the scores of ipsilateral FA had statistically significant differences ( P < 0.05 ) .
+RESULTS	At week 1 post-treatment , MBI had statistically significant difference among 3 groups ( P = 0.037 ) .
+RESULTS	As compared with placebo , four-channel group had statistically significant difference [ ( 52 12 ) vs ( 38 18 ) , P < 0.05 ] ; At week 2 post-treatment , the scores of PASS and MBI were ( 29 3 , 73 13 ) in four-channel FES group versus ( 24 8 , 60 17 ) in dual-channel FES group .
+RESULTS	And the scores of PASS , BBA , BBS , FMA and MBI were ( 9 3 , 8.3 2.4 , 37 7 , 22 5 , 73 13 ) in four-channel FES group versus ( 21 7 , 6.2 3.1 , 24 16 , 15 8 , 47 20 ) in comfort electrical stimulation group .
+RESULTS	When dual-channel FES and comfort stimulation groups were compared , MBI had significant statistical difference [ ( 60 17 ) vs ( 47 20 ) , P < 0.05 ] .
+RESULTS	At week 3 post-treatment , four-channel and dual-channel FES groups were compared , there was also statistical significance in FMA [ ( 25 5 ) vs ( 20 7 ) , P = 0.055 ] .
+RESULTS	The scores of PASS , BBS , FMA and MBI were ( 31 3 , 43 8 , 25 5 , 81 13 ) in four-channel FES group versus ( 25 8 , 29 17 , 17 9 , 54 25 ) in comfort stimulation group respectively .
+RESULTS	When dual-channel FES and comfort stimulation groups were compared , the scores of MBI were ( 71 15 ) and ( 54 25 ) respectively .
+RESULTS	And the difference was statistically significant ( P < 0.05 ) .
+RESULTS	At week 3 post-treatment , the scores of FA significantly increased [ four-channel FES group ( 0.321 0.172 ) vs comfort stimulation group ( 0.217 0.135 ) ( P = 0.020 ) ] .
+RESULTS	When dual-channel FES group ( 0.333 0.164 ) and comfort stimulation group ( 0.217 0.135 ) ( P = 0.049 ) were compared , the differences were statistically significant .
+RESULTS	DTI showed that four-channel FES group increased significantly , but contralateral fiber bundle was not obvious .
+RESULTS	And the improvements of dual-channel FES and comfort stimulation groups were insignificant .
+CONCLUSIONS	Compared with traditional dual-channel FES , functional electrical stimulation based on human walking patterns is more efficacious .
+CONCLUSIONS	And it helps to restore brain structure and function and promote motor function recovery in patients with early stroke .
+

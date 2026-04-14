@@ -1,0 +1,13 @@
+25012446
+BACKGROUND	Diminished quality of life ( QOL ) is associated with major depressive disorder ( MDD ) .
+METHODS	QOL was assessed in a post-hoc analysis of a double-blind , placebo-controlled trial .
+METHODS	Employed adult outpatients with MDD were randomly assigned to 12 weeks of treatment with desvenlafaxine 50mg/d or placebo .
+METHODS	Changes from baseline in the Short Form of the Quality of Life Enjoyment and Satisfaction Questionnaire ( Q-LES-Q ) item scores at week 12 were analyzed using analysis of covariance with treatment , region , and baseline in the model .
+METHODS	Correlations between change from baseline in the 17-item Hamilton Rating Scale for Depression ( HAM-D17 ) total score and Q-LES-Q scores were computed .
+RESULTS	The intent-to-treat population included 427 patients .
+RESULTS	There were statistically significant improvements from baseline for desvenlafaxine vs placebo in 10 of 16 Q-LES-Q item scores ( P values 0.0441 ) .
+RESULTS	The percentage of patients with severe QOL impairment ( 2 SD below community norm ) at week 12 was significantly lower for desvenlafaxine ( 46 % ) vs placebo ( 62 % ; P = 0.0024 ; baseline : 95 % and 94 % , respectively ) .
+RESULTS	Change in Q-LES-Q total score was highly correlated with change in HAM-D17 score at week 12 , LOCF ( P < 0.0001 ) , and improvement in HAM-D17 total score at week 2 predicted change in Q-LES-Q total score at week 12 for the desvenlafaxine group ( F = 24.89 ; P < 0.0001 ) but not placebo .
+CONCLUSIONS	This analysis excluded patients who were unemployed , had severe comorbidities , and those taking multiple , concomitant medications .
+CONCLUSIONS	Improvement in QOL and depressive symptoms was significantly greater for employed depressed patients treated with desvenlafaxine vs placebo .
+

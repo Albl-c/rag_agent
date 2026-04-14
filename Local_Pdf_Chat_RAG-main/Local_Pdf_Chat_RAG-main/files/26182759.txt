@@ -1,0 +1,17 @@
+26182759
+BACKGROUND	Transurethral resection of prostate ( TURP ) is considered the gold standard for the surgical treatment of BPH .
+BACKGROUND	Irrigant fluid absorption by the patient is a potentially serious complication of TURP and can lead to dilutional hyponatremia and TURP syndrome .
+BACKGROUND	Other common complications of TURP include urinary tract infection and secondary haemorrhage .
+BACKGROUND	The objective of this study was to compare the frequency of postoperative complications ( Urinary Tract infection and dilutional hyponatremia ) between 1.5 % glycine and sterile distilled water used as irrigant in BPH patients after TURP .
+METHODS	This randomized controlled trial was conducted in department of Urology , PIMS Islamabad , from August 2013 to February 2014 .
+METHODS	A total of 170 adult male patients between 50-80 years of age undergoing TURP with prostate volume more than 30cc on ultrasound .
+METHODS	85 patients each were randomly allocated to two groups .
+METHODS	In group-A , glycine was used as irrigan , t solution during TURP while in group-B distilled water was used .
+METHODS	Serum sodium levels were measured at 6th postoperative hour to look for dilutional hyponatremia .
+METHODS	On the 15th postoperative day they were inquired about any clinical features of urinary tract infection .
+METHODS	Also urine routine examination was performed to look for the presence of WBCs in the urine .
+RESULTS	Post-operative dilutional hyponatremia was observed in 13 ( 15.3 % ) patients in Group A and in 10 ( 11.8 % ) patients in group-B .
+RESULTS	The difference between both the groups being nonsignificant ( p-value = 0.501 ) .
+RESULTS	Frequency of postoperative urinary tract infection on 15th postoperative day in group-A was 23 ( 27.1 % ) while in group-B it was 16 ( 18.8 % ) , the difference among both the groups being insignificant ( p-value = 0.202 ) .
+CONCLUSIONS	Although the frequency of postoperative complications like UTI and dilutional hyponatremia was less with sterile distilled water , yet , the difference was statistically not significant .
+

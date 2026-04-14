@@ -1,0 +1,13 @@
+25262259
+BACKGROUND	Discontinuations and/or interruptions in aspirin therapy for secondary cardioprotection due to upper gastrointestinal ( UGI ) complications or symptoms have been shown to increase the risk for subsequent cardiovascular events .
+BACKGROUND	PA32540 is a coordinated-delivery , combination tablet consisting of enteric-coated aspirin ( EC-ASA ) 325 mg and immediate-release ( IR ) omeprazole 40 mg .
+METHODS	Two identically-designed , 6-month , randomized , double-blind trials evaluated PA32540 vs. EC-ASA 325 mg in a secondary cardiovascular disease prevention population taking aspirin 325 mg daily for 3 months and at risk for ASA-associated gastric ulcers ( GUs ) .
+METHODS	The combined study population was 1049 subjects ( 524 randomized to PA32540 , 525 to EC-ASA 325 mg ) .
+METHODS	The primary endpoint was the occurrence of endoscopically-determined gastric ulceration over 6 months .
+METHODS	Safety outcomes included the rates of major adverse cardiovascular events ( MACE ) and UGI symptoms .
+RESULTS	Significantly fewer PA32540-treated subjects ( 3.2 % ) developed endoscopic GUs vs. EC-ASA 325 mg-treated subjects ( 8.6 % ) ( P < .001 ) .
+RESULTS	Overall occurrence of MACE was low ( 2.1 % ) , with no significant differences between treatments in types or incidence of MACE .
+RESULTS	PA32540-treated subjects had significantly fewer UGI symptoms ( P < .001 ) and significantly fewer discontinuations due to pre-specified UGI adverse events ( 1.5 % vs. 8.2 % , respectively ; P < .001 ) .
+CONCLUSIONS	PA32540 reduced the incidence of endoscopic GUs compared to EC-ASA 325 mg , but with a similar cardiovascular event profile .
+CONCLUSIONS	Due to fewer UGI symptoms , continuation on aspirin therapy was greater in the PA32540 treatment arm .
+

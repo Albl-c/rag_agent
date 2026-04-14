@@ -1,0 +1,12 @@
+25014057
+BACKGROUND	Antihypertensive drugs are used to control blood pressure ( BP ) and reduce macro - and microvascular complications in hypertensive patients with diabetes .
+OBJECTIVE	The present study aimed to compare the functional vascular changes in hypertensive patients with type 2 diabetes mellitus after 6 weeks of treatment with amlodipine or losartan .
+METHODS	Patients with a previous diagnosis of hypertension and type 2 diabetes mellitus were randomly divided into 2 groups and evaluated after 6 weeks of treatment with amlodipine ( 5 mg/day ) or losartan ( 100 mg/day ) .
+METHODS	Patient evaluation included BP measurement , ambulatory BP monitoring , and assessment of vascular parameters using applanation tonometry , pulse wave velocity ( PWV ) , and flow-mediated dilation ( FMD ) of the brachial artery .
+RESULTS	A total of 42 patients were evaluated ( 21 in each group ) , with a predominance of women ( 71 % ) in both groups .
+RESULTS	The mean age of the patients in both groups was similar ( amlodipine group : 54.9 4.5 years ; losartan group : 54.0 6.9 years ) , with no significant difference in the mean BP [ amlodipine group : 145 14 mmHg ( systolic ) and 84 8 mmHg ( diastolic ) ; losartan group : 153 19 mmHg ( systolic ) and 90 9 mmHg ( diastolic ) ] .
+RESULTS	The augmentation index ( 30 % 9 % and 36 % 8 % , p = 0.025 ) and augmentation pressure ( 16 6 mmHg and 20 8 mmHg , p = 0.045 ) were lower in the amlodipine group when compared with the losartan group .
+RESULTS	PWV and FMD were similar in both groups .
+CONCLUSIONS	Hypertensive patients with type 2 diabetes mellitus treated with amlodipine exhibited an improved pattern of pulse wave reflection in comparison with those treated with losartan .
+CONCLUSIONS	However , the use of losartan may be associated with independent vascular reactivity to the pressor effect .
+

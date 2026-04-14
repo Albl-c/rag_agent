@@ -1,0 +1,11 @@
+24515619
+OBJECTIVE	The aim of the article was to investigate the effect of ondansetron preloading with crystalloid infusion after spinal anesthesia during cesarean delivery .
+METHODS	A total of 66 parturient women scheduled for elective caesarean sections were randomly assigned to two groups .
+METHODS	Five minutes before spinal anesthesia , Group O patients were injected with 4 mg of ondansetron , while Group S patients were injected with 5 mL physiological saline .
+METHODS	Maternal blood pressure and heart rate were measured at 2 minute intervals for 30 minutes .
+METHODS	After delivery , umbilical cord blood samples were analyzed .
+RESULTS	Maternal hypotension and nausea were significantly lower in ondansetron-treated patients versus placebo ( p = 0.011 vs. 0.004 ) .
+RESULTS	Umbilical venous pH was significantly higher in ondansetron-treated patients ( p = 0.006 ) , while partial pressure of carbon dioxide ( Pco 2 ) was significantly lower ( p = 0.002 ) .
+RESULTS	Decreases in maternal systolic and mean arterial blood pressures were significantly lower in ondansetron-treated patients ( p = 0.008 vs. 0.025 ) , with less requirement for phenylephrine administration compared with controls ( p = 0.029 ) .
+CONCLUSIONS	Ondansetron preloading combined with crystalloid infusion significantly reduced hypotension and nausea , while improving acid-base status , as well as reducing vasoconstrictor use .
+

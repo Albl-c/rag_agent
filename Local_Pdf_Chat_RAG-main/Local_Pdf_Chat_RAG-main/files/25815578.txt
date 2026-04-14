@@ -1,0 +1,12 @@
+25815578
+OBJECTIVE	To determine the pharmacokinetics of doxycycline hyclate administered orally in the form of experimental formulations with different proportions of acrylic acid-polymethacrylate-based matrices .
+METHODS	30 healthy adult dogs .
+METHODS	In a crossover study , dogs were randomly assigned ( in groups of 10 ) to receive a single oral dose ( 20 mg/kg ) of doxycycline hyclate without excipients ( control ) or extended-release formulations ( ERFs ) containing doxycycline , acrylic acid polymer , and polymethacrylate in the following proportions : 1:0.5:0.0075 ( ERF1 ) or 1:1:0.015 ( ERF2 ) .
+METHODS	Serum concentrations of doxycycline were determined for pharmacokinetic analysis before and at several intervals after each treatment .
+RESULTS	Following oral administration to the study dogs , each ERF resulted in therapeutic serum doxycycline concentrations for 48 hours , whereas the control treatment resulted in therapeutic serum doxycycline concentrations for only 24 hours .
+RESULTS	All pharmacokinetic parameters for ERF1 and ERF2 were significantly different ; however , findings for ERF1 did not differ significantly from those for the control treatment .
+CONCLUSIONS	Results indicated that both ERFs containing doxycycline , acrylic acid polymer , and polymethacrylate had an adequate pharmacokinetic-pharmacodynamic relationship for a time-dependent drug and a longer release time than doxycycline alone following oral administration in dogs .
+CONCLUSIONS	Given the minimum effective serum doxycycline concentration of 0.26 g/mL , a dose interval of 48 hours can be achieved for each tested ERF .
+CONCLUSIONS	This minimum inhibitory concentration has the potential to be effective against several susceptible bacteria involved in important infections in dogs .
+CONCLUSIONS	Treatment of dogs with either ERF may have several benefits over treatment with doxycycline alone .
+

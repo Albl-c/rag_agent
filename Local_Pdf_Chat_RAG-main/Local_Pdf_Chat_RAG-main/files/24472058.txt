@@ -1,0 +1,12 @@
+24472058
+BACKGROUND	Many physicians believe that the most effective way to treat chronic urticaria is to take a nonsedating second-generation H1 - antihistamine in the morning and a sedating first-generation H1 - antihistamine , usually hydroxyzine , at night to enhance sleep .
+BACKGROUND	But is this belief well founded ?
+OBJECTIVE	To test this belief by comparing the effectiveness and prevalence of unwanted sedative effects when treating patients with chronic spontaneous urticaria ( CSU ) with levocetirizine 15 mg daily plus hydroxyzine 50 mg at night ( levocetirizine plus hydroxyzine ) vs. levocetirizine 20 mg daily ( levocetirizine monotherapy ) .
+METHODS	In this randomized , double-blind , cross-over study , 24 patients with difficult-to-treat CSU took levocetirizine plus hydroxyzine or levocetirizine monotherapy for periods of 5 days each .
+METHODS	At the end of each treatment period , assessments were made of quality of life ( Chronic Urticaria Quality of Life Questionnaire , CU-Q2 oL ) , severity of urticaria symptoms ( Urticaria Activity Score , UAS ) , sleep disturbance during the night and daytime somnolence .
+RESULTS	Both treatments significantly decreased UAS , night-time sleep disturbances and CU-Q2 oL scores ( P < 0001 ) without significant differences between the two .
+RESULTS	Compared with baseline , daytime somnolence was significantly reduced by levocetirizine monotherapy ( P = 0006 ) but not by levocetirizine plus hydroxyzine ( P = 0218 ) .
+RESULTS	Direct comparison of the two treatment modalities in terms of daytime somnolence favoured levocetirizine monotherapy ( P = 0026 ) .
+CONCLUSIONS	The widespread belief that sleep is aided by the addition of a sedating first-generation H1 - antihistamine , usually hydroxyzine , at night is not supported .
+CONCLUSIONS	These results are in line with the urticaria guidelines , which state that first-line treatment for urticaria should be new-generation , nonsedating H1 - antihistamines only .
+

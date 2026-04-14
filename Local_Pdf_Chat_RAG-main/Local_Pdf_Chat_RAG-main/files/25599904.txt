@@ -1,0 +1,14 @@
+25599904
+BACKGROUND	With increasing evidence demonstrating the effectiveness of Web-based interventions and mindfulness-based training in improving health , delivering mindfulness training online is an attractive proposition .
+OBJECTIVE	The aim of this study was to evaluate the efficacy of two Internet-based interventions ( basic mindfulness and Health Action Process Approach enhanced mindfulness ) with waitlist control .
+OBJECTIVE	Health Action Process Approach ( HAPA ) principles were used to enhance participants ' efficacy and planning .
+METHODS	Participants were recruited online and offline among local universities ; 321 university students and staff were randomly assigned to three conditions .
+METHODS	The basic and HAPA-enhanced groups completed the 8-week fully automated mindfulness training online .
+METHODS	All participants ( including control ) were asked to complete an online questionnaire pre-program , post-program , and at 3-month follow-up .
+RESULTS	Significant group by time interaction effect was found .
+RESULTS	The HAPA-enhanced group showed significantly higher levels of mindfulness from pre-intervention to post-intervention , and such improvement was sustained at follow-up .
+RESULTS	Both the basic and HAPA-enhanced mindfulness groups showed better mental well-being from pre-intervention to post-intervention , and improvement was sustained at 3-month follow-up .
+CONCLUSIONS	Online mindfulness training can improve mental health .
+CONCLUSIONS	An online platform is a viable medium to implement and disseminate evidence-based interventions and is a highly scalable approach to reach the general public .
+BACKGROUND	Chinese Clinical Trial Registry ( ChiCTR ) : ChiCTR-TRC-12002954 ; http://www.chictr.org/en/proj/show.aspx?proj=3904 ( Archived by WebCite at http://www.webcitation.org/6VCdG09pA ) .
+

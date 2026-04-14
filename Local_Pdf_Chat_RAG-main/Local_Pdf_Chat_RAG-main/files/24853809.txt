@@ -1,0 +1,13 @@
+24853809
+OBJECTIVE	Determine prevalence of diabetes , and describe use of blood glucose lowering ( BGL ) drugs and glycemic control in Norwegian nursing homes .
+METHODS	In this cross-sectional study we collected details of BGL drugs , capillary blood glucose measurements ( CBGM ) in the last four weeks and HbA1c measurements in the last 12 months from the medical records of patients with diabetes , within a population of 742 long-term care patients from 19 randomly selected nursing homes in Western Norway .
+METHODS	Descriptive statistics were applied , and Pearson 's chi-squared ( P0 .05 ) or non-overlapping 95 % confidence intervals were interpreted as significant effects .
+RESULTS	116 patients ( 16 % ) had diabetes , 100 of these gave informed consent and medical data were available .
+RESULTS	BGL treatment was as follows : ( 1 ) insulin only ( 32 % ) , ( 2 ) insulin and oral antidiabetics ( OADs ) ( 15 % ) , ( 3 ) OADs only ( 27 % ) and ( 4 ) no drugs ( 26 % ) .
+RESULTS	Patients with cognitive impairment were less likely to receive medical treatment ( P = 0.04 ) .
+RESULTS	CBGM and HbA1c measurements were performed for 73 % and 77 % of patients , respectively .
+RESULTS	Mean HbA1c was 7.3 % ( 57 mmol/mol ) , 46 % of patients had an HbA1c < 7.0 % ( 53 mmol/mol ) , and CBGM consistent with risk of hypoglycemia was found for 60 % of these patients .
+CONCLUSIONS	Prevalence of diabetes and BGL treatment in Norwegian nursing homes is comparable to other European countries .
+CONCLUSIONS	Although special care seems to be taken when choosing treatment for patients with cognitive impairment , there are signs of overtreatment in the population as a whole .
+CONCLUSIONS	The strict glycemic control unveiled may negatively affect these frail patients ' quality of life and increase the risk of early death .
+

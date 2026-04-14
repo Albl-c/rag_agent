@@ -1,0 +1,14 @@
+25127208
+BACKGROUND	We assessed the efficacy , safety , and tolerability of ponesimod , an oral , selective , reversible modulator of sphingosine 1-phosphate receptor 1 , in patients with moderate to severe chronic plaque psoriasis .
+METHODS	Between Sept 22 , 2010 , and Oct 24 , 2012 , patients with psoriasis area and severity index ( PASI ) scores higher than 10 were enrolled into this multicentre double-blind , phase 2 study .
+METHODS	They received 20 mg or 40 mg ponesimod or placebo once daily for 16 weeks .
+METHODS	Those with at least 50 % reduction in PASI score at 16 weeks and who were receiving ponesimod were rerandomised to receive maintenance ponesimod therapy or placebo until week 28 .
+METHODS	The primary endpoint was reduction in PASI score from baseline of at least 75 % ( PASI75 ) at week 16 .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT01208090 .
+RESULTS	Of 326 patients initially randomised ( 20 mg ponesimod n = 126 , 40 mg ponesimod n = 133 , and placebo n = 67 ) PASI75 was achieved at week 16 in 58 ( 460 % ) , 64 ( 481 % ) , and nine ( 134 % ) , respectively .
+RESULTS	The treatment effect was significant for the two ponesimod doses ( both p < 00001 ) .
+RESULTS	Of 219 patients who entered the maintenance period , PASI75 was achieved by week 28 in 35 ( 714 % ) of 49 who continued on 20 mg ponesimod and 41 ( 774 % ) of 53 on 40 mg ponesimod , and in 19 ( 422 % ) of 45 who swapped from 20 mg to placebo and 19 ( 404 % ) of 47 from 40 mg to placebo .
+RESULTS	Ponesimod was associated with dyspnoea , raised liver enzyme concentrations , and dizziness .
+CONCLUSIONS	Significant clinical benefit was seen at week 16 that increased with maintenance therapy .
+BACKGROUND	Actelion Pharmaceuticals .
+

@@ -1,0 +1,16 @@
+24491874
+BACKGROUND	Regular exercise is an effective intervention to decrease blood pressure ( BP ) in hypertension , but no data are available concerning the effects of heated water-based exercise ( HEx ) .
+BACKGROUND	This study examines the effects of HEx on BP in resistant hypertensive patients .
+METHODS	This is a parallel , randomized controlled trial .
+METHODS	125 nonconsecutive sedentary patients with resistant hypertension from a hypertension outpatient clinic in a university hospital were screened ; 32 patients fulfilled the study requirements .
+METHODS	The training was performed for 60-minute sessions in a heated pool ( 32C ) , three times a week for 12 weeks .
+METHODS	The HEx protocol consisted of callisthenic exercises and walking inside the pool .
+METHODS	The control group was asked to maintain habitual activities .
+METHODS	The main outcome measure was change in mean 24-hour ambulatory BP ( ABPM ) .
+RESULTS	32 patients ( HEx n = 16 ; control n = 16 ) were randomized ; none were lost to follow-up .
+RESULTS	Office BPs decreased significantly after heated water exercise ( 36/12 mmHg ) .
+RESULTS	HEx decreased 24-hour systolic ( from 13723 to 12012 mmHg , p = 0.001 ) and diastolic BPs ( from 8113 to 7210 mmHg , p = 0.009 ) ; daytime systolic ( from 14124 to 12013 mmHg , p < 0.0001 ) and diastolic BPs ( from 8414 to 7311 mmHg , p = 0.003 ) ; and nighttime systolic ( from 12922 to 11412 mmHg , p = 0.006 ) and diastolic BPs ( from 7411 to 6610 mmHg , p < 0.0001 ) .
+RESULTS	The control group after 12 weeks significantly increased in 24-hour systolic and diastolic BPs , and daytime and nighttime diastolic BPs .
+CONCLUSIONS	HEx reduced office BPs and 24-hour ABPM levels in resistant hypertensive patients .
+CONCLUSIONS	These effects suggest that HEx may be a potential new therapeutic approach in these patients .
+

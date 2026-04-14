@@ -1,0 +1,15 @@
+25622666
+OBJECTIVE	To explore the application of optimal monochromatic images according to computed tomography ( CT ) values of conventional CT scans with high concentration contrast agent and the feasibility in guiding abdominal arteries imaging with low concentration contrast .
+METHODS	From March 2013 to February 2014 , 160 patients of suspected celiac disease with a body mass index ( BMI ) of > 25 kg/m ( 2 ) underwent spectral CT scan .
+METHODS	And they were randomly divided into two groups .
+METHODS	In group A ( n = 61 ) , 270 mgI/ml low concentrations of contrast agents and spectral CT imaging ; in group B ( n = 99 ) , 350 mgI/ml high concentrations of contrast agents and 120 kVp scan .
+METHODS	For CT values of the first measurement of abdominal aorta B group of patients , the average CT value was calculated .
+METHODS	The optimal monochromatic images of group A according to CT values of group B were reconstructed and 70 keV images ( group C ) also reconstructed .
+METHODS	The CT values of hepatic , splenic , right renal and superior mesenteric arteries were measured and contrast to noise ratios ( CNRs ) calculated .
+METHODS	CT values and CNR were compared through t test on independent samples .
+METHODS	P > 0.05 indicated no significant difference .
+RESULTS	Mean CT value of abdominal aorta was ( 422 65 ) HU in group B. And optimal keV was ( 67 5 ) keV in group A. CT values of abdominal aorta and its branches showed no statistical significance ; the CNRs of abdominal aorta and its branches showed statistical significance .
+RESULTS	The scoring consistency between two observers was excellent and the score ( 4.1 0.9 vs 4.2 0.7 ) showed no significant difference ( P > 0.05 ) .
+CONCLUSIONS	GSI abdominal scans with low concentration contrast may obtain better image qualities compared to conventional CTA of high concentration .
+CONCLUSIONS	And ( 67 5 ) keV is recommended .
+

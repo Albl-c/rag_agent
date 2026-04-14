@@ -1,0 +1,9 @@
+24268387
+OBJECTIVE	This study assessed the effects of systemic omega-3 on the treatment of recurrent aphthous stomatitis and on the improvement of quality of life .
+METHODS	Fifty participants were randomly assigned to receive either omega-3 ( 1 g , 3 times daily ) or placebo for 6 months .
+METHODS	Assessment of outcome measures including monthly number of new ulcers , average duration of ulcer episodes , and pain level of ulcers was carried out at baseline and monthly for 6 months .
+METHODS	Analysis of potential impact on quality of life using the Oral Health Impact Profile 14 was carried out at baseline and 6 months .
+RESULTS	Daily omega-3 treatment achieved a significant reduction in number of ulcers , duration of ulcers , and level of pain by 3 months that persisted for 6 months .
+RESULTS	Mean score on Oral Health Impact Profile 14 also significantly improved by 6 months .
+CONCLUSIONS	A daily omega-3 regimen shows promise as therapy for treatment and management of patients with recurrent aphthous stomatitis .
+

@@ -1,0 +1,14 @@
+24901635
+BACKGROUND	The threshold values of rapid shallow breathing index ( RSBI ) were compared in pressure support ventilation ( PSV ) and T-piece assessments for spontaneous breathing trials ( SBT ) .
+BACKGROUND	The ability of RSBI to also predict successful weaning was evaluated .
+METHODS	Two hundred eight patients were weaned from mechanical ventilation through oral intubation .
+METHODS	They were randomly divided into PSV group ( n = 93 ) and T-piece group ( n = 115 ) .
+METHODS	The RSBI was calculated as f/VT at SBT of 3 and 30 minutes .
+METHODS	Receiver operating characteristic curves of RSBI were also generated , cutoff values were determined and the changes in the RSBI were calculated .
+RESULTS	Of the 208 patients , 168 ( 80.77 % ) were successfully weaned from mechanical ventilation , 78/93 ( 83.9 % ) in the PSV group and 90/115 ( 78.3 % ) in the T-piece group ( P > 0.05 ) .
+RESULTS	In the PSV and T-piece groups , the average RSBI at 30-minute SBT was 67.18 11.55 breaths per min/L and 99.11 15.53 breaths per min/L , respectively ( P < 0.01 ) , and the average RSBI was 69 33 % and 119 35 % , respectively ( P < 0.01 ) .
+RESULTS	Additionally , in the 2 groups , an RSBI of 75 breaths per min/L ( PSV ) and 100 breaths per min/L ( T-piece ) yielded a diagnostic accuracy of 87 % and 82 % respectively .
+RESULTS	However , a RSBI of 90 % ( PSV ) and 130 % ( T-piece ) yielded a diagnostic accuracy of 82 % and 77 % respectively .
+CONCLUSIONS	The threshold values of RSBI , thus 75 breaths per min/L ( PSV ) and 100 breaths per min/L ( T-piece ) , for predicting successful weaning were more accurate than other values .
+CONCLUSIONS	Similarly , the change in the RSBI could also predict such successes .
+

@@ -1,0 +1,13 @@
+25944606
+OBJECTIVE	The aim of our study was to measure the volume of gestational sac and amniotic sac in physiological pregnancies and missed abortion .
+OBJECTIVE	We wanted to create nomograms for individual weeks of gestation .
+METHODS	Retrospective cohort study .
+METHODS	Institute for the Care of Mother and Child , Prague .
+METHODS	The study randomized 413 women after spontaneous conception .
+METHODS	The patients were divided into two groups : women with physiological pregnancy and childbirth in the period ( 374 ) , and women with pregnancy terminated by missed abortion .
+METHODS	Both groups were performed measurement volume of gestational and amniotic sac in the first trimester of pregnancy .
+METHODS	Analysis was performed using 4D View software applications , and volume calculations were performed using VOCAL ( Virtual Organ Computer Aided anaLysis ) .
+RESULTS	We have created the first in the Czech Republic nomograms volumes of gestational and amniotic sac in physiological pregnancies and missed abortion .
+RESULTS	We performed a correlation between the size of gestational sac and prosperity pregnancy .
+CONCLUSIONS	In our study we found no correlation between the volume of gestational sac and the development of the pregnancy .
+

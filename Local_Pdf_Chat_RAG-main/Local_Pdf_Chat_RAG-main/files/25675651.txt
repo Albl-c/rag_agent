@@ -1,0 +1,13 @@
+25675651
+OBJECTIVE	To describe the profile of patients who participated in the Randomised Clinical Trial for Uniform Multidrug Therapy for Leprosy Patients in Brazil ( U-MDT/CT-BR ) and determine the level of satisfaction with a uniform therapy regimen , especially among paucibacillary patients .
+METHODS	This is a descriptive cross-sectional epidemiologic study nested in the wider U-MDT/CT-BR .
+METHODS	The study was conducted using a convenience sample composed of patients from the Dona Libnia Dermatology Centre in Fortaleza , Cear and from the Alfredo da Matta Foundation in Manaus , Amazonas in Brazil .
+METHODS	The absolute and relative frequencies of categorical variables and the median age were calculated .
+METHODS	Hypothesis testing was done using the Chi-squared and Mann-Whitney tests with a 0.05 level of significance .
+RESULTS	Of the 859 patients included in the clinical trial , 342 were interviewed .
+RESULTS	The majority of patients were male ( 58.2 % ) and multibacillary ( 78.3 % ) with a median age of 42 ( 7-65 ) years .
+RESULTS	Most of the interviewees had not completed primary education ( 48.0 % ) , earned an income below three times the minimum wage ( 53.8 % ) , were non-smokers ( 85.1 % ) , did not regularly consume alcohol ( 88.3 % ) , had not experienced any leprosy-related discrimination ( 69.2 % ) and showed a basic knowledge of the disease .
+RESULTS	With regards to paucibacillary patients , 87.8 % and 90.9 % of the PB U-MDT and PB R-MDT groups , respectively , indicated that they had not thought of defaulting treatment at any time .
+RESULTS	On a satisfaction scale of 1-5 ( with five as the highest score ) , 92.7 % of PB U-MDT and 100.0 % of PB R-MDT patients gave a mark between three and five .
+CONCLUSIONS	The data suggest that the introduction of clofazimine into the therapeutic regimen did not diminish the level of treatment satisfaction among PB patients .
+

@@ -1,0 +1,13 @@
+24973836
+OBJECTIVE	To evaluate the safety and efficacy of various initial strategies of loop diuretic administration in patients with acute decompensated heart failure ( ADHF ) on diuresis , renal function , electrolyte balance and clinical outcomes .
+METHODS	Consecutive patients admitted with ADHF were randomized into three groups - intravenous furosemide infusion + intravenous dopamine , intravenous furosemide bolus in two divided doses and intravenous furosemide continuous infusion alone .
+METHODS	At 48h , the treating physician could adjust the diuretic strategy .
+METHODS	Primary endpoint was negative fluid balance at 24h after admission .
+METHODS	Secondary end points were duration of hospital stay , negative fluid balance at 48 , 72 , 96h , the trend of serum electrolytes , and renal function and 30 day clinical outcome ( death and emergency department visits ) .
+RESULTS	Overall ninety patients ( thirty in each group ) were included in the study .
+RESULTS	There was a greater diuresis in first 24h ( p = 0.002 ) and a shorter hospital stay ( p = 0.023 ) with the bolus group .
+RESULTS	There was no significant difference in renal function and serum sodium and serum potassium levels .
+RESULTS	There was no difference in the number of emergency department visits among the three groups .
+CONCLUSIONS	All three modes of diuretic therapies can be practiced with no difference in worsening of renal function and electrolyte levels .
+CONCLUSIONS	Bolus dose administration with itsrapid volume loss and shorter hospital stay might be a more effective diuretic strategy .
+

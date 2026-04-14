@@ -1,0 +1,20 @@
+24439932
+BACKGROUND	Parents of children with special needs are vigilant as their child may have difficulty independently escaping a burning home .
+BACKGROUND	The purpose of this study was to evaluate if providing home fire safety information via a digital video disc ( DVD ) increases families ' knowledge , behavior and ability regarding home fire safety .
+METHODS	A school based classroom intervention ( using a home fire safety DVD ) was provided to parents ( n = 40 ) of children with and without special needs to improve home fire safety knowledge , behavior and ability .
+METHODS	In addition , parents seen at the Kentucky Commission for Children with Special Health Care Needs clinics ( n = 47 ) received the same intervention in cohorts of 1-2 children .
+METHODS	For both groups , knowledge , and behavior were measured before and after intervention .
+METHODS	Repeated measures ANOVA were used to test for differences between groups and over time .
+METHODS	Significance was set at p < 0.05 .
+RESULTS	No difference in scores between pre - and post-test scores existed between groups ( with special needs vs. without special needs , or classroom vs. individualized instruction ) .
+RESULTS	However , some differences were noted for some individual survey questions during post-hoc comparisons .
+RESULTS	Having a smoke alarm in the home ( 90 % vs. 95 % , p = 0.029 ) and having a smoke alarm outside of where everyone sleeps ( 75 % vs. 95 % , p = 0.005 ) increased over time and was retained .
+RESULTS	Having a fire escape plan increased at post intervention ( 58 % vs. 79 % , p = 0.033 ) , but returned to pre levels at follow-up ( 58 % ) .
+RESULTS	Perceived knowledge ( 7.7 vs. 9.3 , p < 0.001 ) and ability ( 8.7 vs. 9.1 , p = 0.069 ) increased over time .
+CONCLUSIONS	Parents of children with special needs had a significant increase in knowledge and behavior over those parents of children without special needs .
+CONCLUSIONS	They also perceived having a high fire safety ability .
+CONCLUSIONS	Many of the post-test questions/behaviors ( e.g. , capable of exiting home during a fire , etc. ) were reported at 100 % .
+CONCLUSIONS	The intervention was well received , but may not necessarily be needed .
+CONCLUSIONS	Focus for home fire safety may need to look at younger children and smaller families .
+CONCLUSIONS	Parents of special needs children may have had frequent interaction with health care professionals .
+

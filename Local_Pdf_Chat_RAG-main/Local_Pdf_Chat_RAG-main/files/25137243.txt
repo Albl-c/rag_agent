@@ -1,0 +1,12 @@
+25137243
+OBJECTIVE	Sleep disturbances are common among women in midlife ; prevalence increases among perimenopausal/postmenopausal women with vasomotor symptoms .
+OBJECTIVE	Paroxetine 7.5 mg is the only nonhormonal treatment that has been approved in the United States for moderate to severe vasomotor symptoms associated with menopause .
+OBJECTIVE	In two pivotal phase 3 studies evaluating its efficacy and safety , improvements in sleep disturbances were also prospectively evaluated .
+METHODS	Postmenopausal women with moderate to severe vasomotor symptoms were randomly assigned to paroxetine 7.5 mg ( n = 591 ) or placebo ( n = 593 ) once daily for 12 weeks ( both studies ) or 24 weeks ( 24-wk study ) .
+METHODS	Predefined assessments on weeks 4 , 12 , and 24 included number of nighttime awakenings attributed to vasomotor symptoms , sleep-onset latency , sleep duration , and sleep-related adverse events .
+METHODS	The two studies ' data for weeks 1 to 12 were pooled .
+RESULTS	At baseline , participants reported a mean of 3.6 awakenings/night attributed to vasomotor symptoms .
+RESULTS	Nighttime awakenings attributed to vasomotor symptoms were significantly reduced within 4 weeks of initiating paroxetine 7.5 mg treatment ( 39 % reduction vs 28 % for placebo ; P = 0.0049 ) , and reductions were sustained through 12 or 24 weeks of treatment .
+RESULTS	Paroxetine 7.5 mg treatment also significantly increased nighttime sleep duration ( week 4 , +31 vs +16 min for placebo ; P = 0.0075 ) , but no significant between-group differences in sleep-onset latency or sleep-related adverse events such as sedation were observed .
+CONCLUSIONS	In postmenopausal women treated for menopausal vasomotor symptoms , paroxetine 7.5 mg significantly reduces the number of nighttime awakenings attributed to vasomotor symptoms and increases sleep duration without differentially affecting sleep-onset latency or sedation .
+

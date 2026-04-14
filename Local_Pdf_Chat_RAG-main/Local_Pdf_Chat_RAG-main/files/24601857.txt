@@ -1,0 +1,21 @@
+24601857
+OBJECTIVE	Several field triage systems have been developed to rapidly sort patients following a mass casualty incident ( MCI ) .
+OBJECTIVE	JumpSTART ( Simple Triage and Rapid Transport ) is a pediatric-specific MCI triage system .
+OBJECTIVE	SALT ( Sort , Assess , Lifesaving interventions , Treat/Transport ) has been proposed as a new national standard for MCI triage for both adult and pediatric patients , but it has not been tested in a pediatric population .
+OBJECTIVE	This pilot study hypothesizes that SALT is at least as good as JumpSTART in triage accuracy , speed , and ease of use in a simulated pediatric MCI .
+METHODS	Paramedics were invited and randomly assigned to either SALT or JumpSTART study groups .
+METHODS	Following randomization , subjects viewed a 15-minute PowerPoint lecture on either JumpSTART or SALT .
+METHODS	Subjects were provided with a triage algorithm card for reference and were asked to assign triage categories to 10 pediatric patients in a simulated building collapse .
+METHODS	The scenario consisted of 4 children in moulage and 6 high-fidelity pediatric simulators .
+METHODS	Injuries and triage categories were based on a previously published MCI scenario .
+METHODS	One investigator followed each subject to record time and triage assignment .
+METHODS	All subjects completed a post-test survey and structured interview following the simulated disaster .
+RESULTS	Forty-three paramedics were enrolled .
+RESULTS	Seventeen were assigned to the SALT group with an overall triage accuracy of 66 % 15 % , an overtriage mean rate of 22 16 % , and an undertriage rate of 10 9 % .
+RESULTS	Twenty-six participants were assigned to the JumpSTART group with an overall accuracy of 66 12 % , an overtriage mean of 23 16 % , and an undertriage rate of 11.2 11 % .
+RESULTS	Ease of use was not statistically different between the two systems ( median Likert value of both systems = 2 , p = 0.39 ) Time to triage per patient was statistically faster in the JumpSTART group ( SALT = 34 23 seconds , JumpSTART = 26 19 seconds , p = 0.02 ) .
+RESULTS	Both systems were prone to cognitive and affective error .
+CONCLUSIONS	SALT appears to be at least as good as JumpSTART in overall triage accuracy , overtriage , or undertriage rates in a simulated pediatric MCI .
+CONCLUSIONS	Both systems were considered easy to use .
+CONCLUSIONS	However , JumpSTART was 8 seconds faster per patient in time taken to assign triage designations .
+

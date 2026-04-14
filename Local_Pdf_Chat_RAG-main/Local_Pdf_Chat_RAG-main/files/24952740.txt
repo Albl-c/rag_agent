@@ -1,0 +1,17 @@
+24952740
+BACKGROUND	Care management interventions in the German health-care system have been evaluated with promising results , but further research is necessary to explore their full potential in the context of multi-morbidity .
+BACKGROUND	Our aim in this trial is to assess the efficacy of a primary care practice network-based care management intervention in improving self-care behaviour among patients with type 2 diabetes mellitus and multiple co-occurring chronic conditions .
+METHODS	The study is designed as a prospective , 18-month , multicentre , investigator-blinded , two-arm , open-label , individual-level , randomized parallel-group superiority trial .
+METHODS	We will enrol 582 patients with type 2 diabetes mellitus and at least two severe chronic conditions and one informal caregiver per patient .
+METHODS	Data will be collected at baseline ( T0 ) , at the primary endpoint after 9months ( T1 ) and at follow-up after 18months ( T2 ) .
+METHODS	The primary outcome will be the differences between the intervention and control groups in changes of diabetes-related self-care behaviours from baseline to T1 using a German version of the revised Summary of Diabetes Self-Care Activities ( SDSCA-G ) .
+METHODS	The secondary outcomes will be the differences between the intervention and control groups in : changes in scores on the SDSCA-G subscales , glycosylated haemoglobin A level , health-related quality of life , self-efficacy , differences in ( severe ) symptomatic hypoglycaemia , cost-effectiveness and financial family burden .
+METHODS	The intervention will be delivered by trained health-care assistants as an add-on to usual care and will consist of three main elements : ( 1 ) three home visits , including structured assessment of medical and social needs ; ( 2 ) 24 structured telephone monitoring contacts ; and ( 3 ) self-monitoring of blood glucose levels after T1 in 3-month intervals .
+METHODS	The control group will receive usual care .
+METHODS	The confirmatory primary analysis will be performed following the intention-to-treat ( ITT ) principle .
+METHODS	The efficacy of the intervention will be quantified using two-level linear regression stratified by type of medical treatment adjusted for baseline values on the SDSCA-G .
+METHODS	Secondary analyses will be performed according to the ITT principle .
+METHODS	In health economic evaluations , we will estimate the incremental cost-effectiveness ratios .
+CONCLUSIONS	We hope that the results of this study will provide insights into the efficacy of practice network-based care management among patients with complex health-care needs .
+BACKGROUND	Current Controlled Trials ISRCTN 83908315 ( ISRCTN assigned 25 February 2014 ) .
+

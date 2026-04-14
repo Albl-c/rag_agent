@@ -1,0 +1,14 @@
+24877146
+BACKGROUND	NK cells have anti-HIV activity mediated through killer cell immunoglobulin-like receptors ( KIRs ) .
+BACKGROUND	The current prospective cohort study evaluated whether variation in KIR genes is associated with HIV infection in discordant couples ( DCs ) , where one spouse remains seronegative ( HSN ) despite repeated exposure to the HIV .
+METHODS	KIR was genotyped using PCR SSP .
+METHODS	Viral load and CD4 counts were estimated using commercially available reagents .
+METHODS	Data were analyzed using SPSS software .
+RESULTS	Among the 47 DCs , HSN spouses had significantly ( P = 0.006 ) higher frequencies of KIR3DS1 .
+RESULTS	Regression analysis revealed significant ( P = 0.009 ) association of KIR2DS1 with low viral load .
+RESULTS	KIR2DS4 variant was associated ( P = 0.032 ) with high viral load .
+RESULTS	Three pairs of KIR genes were in strong LD in HSNs and two pairs in HSPs .
+RESULTS	There were 60 KIR genotypes , and 16 are reported the first time in the Indian population .
+RESULTS	Exclusive genotypes were present either in HSPs ( N = 22 , 11 unique genotypes ) or in HSNs ( n = 27 , 9 unique genotypes ) .
+CONCLUSIONS	This study highlights for the first time in the Indian population an association of KIR genes in HIV infection where presence of exclusive and unique genotypes indicates possible association with either HIV infection or with protection .
+

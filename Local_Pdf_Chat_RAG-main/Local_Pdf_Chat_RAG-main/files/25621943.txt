@@ -1,0 +1,10 @@
+25621943
+OBJECTIVE	To evaluate retinal sensitivity in patients with diabetic macular edema who received intravitreal aflibercept injection ( IAI ) or laser .
+METHODS	A substudy included 46 patients from DA VINCI ( a randomized , double-masked Phase 2 study ) receiving either laser , 0.5 mg IAI every 4 weeks , 2 mg IAI every 4 weeks , 2 mg IAI every 8 weeks after 3 monthly doses ( 2q8 ) , or 2 mg IAI as-needed after 3 monthly doses for 52 weeks .
+METHODS	Retinal sensitivity was measured in one ( central ) , five ( one central and four inner ) , and eight ( four inner and four outer ) optical coherence tomography subfields .
+RESULTS	Mean best-corrected visual acuity improvement in the subgroup at Week 52 was 3.3 letters with laser and ranged from 5.4 to 16.3 letters in the IAI groups .
+RESULTS	Retinal sensitivity of laser patients at Week 52 was comparable with baseline in the central optical coherence tomography subfield but decreased in the five and eight optical coherence tomography subfields .
+RESULTS	Compared with laser , retinal sensitivity significantly increased with IAI in the 2q8 and pooled IAI groups in the 5 and 8 optical coherence tomography subfields at Week 52 ( P < 0.05 ) .
+CONCLUSIONS	Intravitreal aflibercept injection improved best-corrected visual acuity and retinal sensitivity in this subgroup of patients .
+CONCLUSIONS	Laser may cause a deterioration of macular function that is not detectable with best-corrected visual acuity testing .
+

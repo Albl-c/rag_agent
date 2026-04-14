@@ -1,0 +1,11 @@
+25872802
+BACKGROUND	Because of limited impact on infant morbidity , mortality , and vitamin A status , the new guideline of the World Health Organization ( WHO ) does not recommend postpartum vitamin A supplementation ( VAS ) as a public health intervention in developing countries .
+BACKGROUND	However , breast milk contains numerous immune-protective components that are important for infant immune development , and several of these components are regulated by vitamin A.
+METHODS	Postpartum women are being enrolled within 3days ( d ) of delivery at a maternity clinic located in a slum area of Dhaka city and randomized to one of four postpartum VAS regimens ( 32/group , total 128 ) .
+METHODS	The regimens are as follows : Group 1 : 200,000 IU VAS at < 3 d and placebo at 6weeks postpartum ; Group 2 : placebo at < 3 d and 200,000 IU VAS at 6weeks postpartum ; Group 3 : 200,000 IU VAS , both at < 3 d and 6weeks postpartum ; Group 4 : placebo , both at < 3 d and 6weeks postpartum .
+METHODS	Breast milk samples at < 3 d ( before supplementation ) and 4months postpartum will be used to measure vitamin A and bioactive compounds .
+METHODS	Infant blood samples at 2 and 4months of age will be used to measure vitamin A , as well as innate and vaccine-specific immune responses .
+METHODS	Dietary , anthropometric , and morbidity data are also being collected .
+CONCLUSIONS	This is the first placebo-controlled randomized clinical trial of postnatal vitamin A supplementation to investigate the key bioactive compounds in breast milk , important for infant immunity , in relation to dose and time point of postpartum supplementation and whether such maternal supplementation improves infant immune status during the critical period of early infancy .
+BACKGROUND	ClinicalTrials.gov : NCT02043223 , 5 December 2013 .
+

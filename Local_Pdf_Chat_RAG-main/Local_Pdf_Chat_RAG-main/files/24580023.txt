@@ -1,0 +1,22 @@
+24580023
+OBJECTIVE	To determine long-term safety and efficacy of adjunctive clobazam for patients with Lennox-Gastaut syndrome ( LGS ) .
+METHODS	Eligible patients from two randomized controlled trials ( Phase II OV-1002 and Phase III OV-1012 ) were able to enroll in open-label extension ( OLE ) study OV-1004 beginning in December 2005 and received clobazam until they discontinued ( mandatory at 2years for patients outside the United States ) or until study completion in March 2012 .
+METHODS	Patients in the United States could have received clobazam for 6years before it became commercially available .
+METHODS	Efficacy assessments included changes in rates of drop seizures and total seizures , responder rates ( 50 % , 75 % , or 100 % decreases in seizure frequency vs. baseline ) , sustained efficacy over time , concomitant antiepileptic drug ( AED ) use , and global evaluations .
+METHODS	Safety assessments included exposure to clobazam , laboratory assessments , physical and neurologic examinations , vital sign monitoring , electrocardiography monitoring , and adverse event reporting .
+RESULTS	Of 267 patients who enrolled in the OLE , 188 ( 70 % ) completed the trial .
+RESULTS	Two hundred seven patients were from the United States , which was the only country in which patients could be treated with clobazam for > 2years .
+RESULTS	Forty-four patients were treated with clobazam for 5years , and 11 for 6years .
+RESULTS	Because of the low number of Year 6 patients , this group is not reported separately .
+RESULTS	Improvements in baseline seizure rates were very stable over the course of the study , with a median 85 % decrease in drop seizures at Year 1 , 87 % at Year 2 , 92 % at Year 3 , 97 % at Year 4 , and a 91 % decrease for patients who had reached Year 5 .
+RESULTS	Similar results were observed for total seizures ( 79 % decrease at both Years 1 and 2 , 82 % decrease at Year 3 , 75 % decrease at Year 4 , and 85 % decrease at Year 5 ) .
+RESULTS	Responder rates were also stable for the duration of the trial .
+RESULTS	Of patients who had achieved a 50 % decrease in median drop-seizure frequency from baseline to Month 3 , 86 % still had that degree of drop-seizure reduction at Year 3 ( and 14 % lost their initial responses ) , and 47 % were drop-seizure-free .
+RESULTS	Most patients who had achieved drop-seizure freedom in the original controlled trials remained drop-seizure-free in the OLE .
+RESULTS	Based on parents ' and physicians ' ratings of global evaluations , 80 % of patients were `` very much improved '' or `` much improved '' after 3years .
+RESULTS	Of the 43 patients with concomitant AED data who were treated for 5years , 30 % increased , 19 % decreased , and 51 % had no change in numbers of AEDs versus their Week 4 regimens .
+RESULTS	The mean modal clobazam dosage was 0.90 mg/kg/day at Year 1 and 0.97 mg/kg/day at Year 5 , suggesting that study patients did not need significant increases in dosage over time .
+RESULTS	The safety profile was what would be expected for clobazam for LGS patients over a 5-year span , and no new safety concerns developed over time .
+CONCLUSIONS	In this largest and longest-running trial in LGS , adjunctive clobazam sustained seizure freedom and substantial seizure improvements at stable dosages through 3years of therapy in this difficult - to-treat patient population .
+CONCLUSIONS	A PowerPoint slide summarizing this article is available for download in the Supporting Information section here .
+

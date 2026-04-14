@@ -1,0 +1,16 @@
+25199526
+BACKGROUND	Knee osteoarthritis ( OA ) causes pain and long-term disability with annual healthcare costs exceeding $ 185 billion in the United States .
+BACKGROUND	Few medical remedies effectively influence the course of the disease .
+BACKGROUND	Finding effective treatments to maintain function and quality of life in patients with knee OA is one of the national priorities identified by the Institute of Medicine .
+BACKGROUND	We are currently conducting the first comparative effectiveness and cost-effectiveness randomized trial of Tai Chi versus a physical-therapy regimen in a sample of patients with symptomatic and radiographically confirmed knee OA .
+BACKGROUND	This article describes the design and conduct of this trial .
+METHODS	A single-center , 52-week , comparative effectiveness randomized controlled trial of Tai Chi versus a standardized physical-therapy regimen is being conducted at an urban tertiary medical center in Boston , Massachusetts .
+METHODS	The study population consists of adults40 years of age with symptomatic and radiographic knee OA ( American College of Rheumatology criteria ) .
+METHODS	Participants are randomly allocated to either 12 weeks of Tai Chi ( 2x/week ) or Physical Therapy ( 2x/week for 6 weeks , followed by 6 weeks of rigorously monitored home exercise ) .
+METHODS	The primary outcome measure is pain ( Western Ontario and McMaster Universities WOMAC ) subscale at 12 weeks .
+METHODS	Secondary outcomes include WOMAC stkiffness and function domain scores , lower extremity strength and power , functional balance , physical performance tests , psychological and psychosocial functioning , durability effects , health related quality of life , and healthcare utilization at 12 , 24 and 52 weeks .
+CONCLUSIONS	This study will be the first randomized comparative-effectiveness and cost-effectiveness trial of Tai Chi versus Physical Therapy in a large symptomatic knee OA population with long-term follow up .
+CONCLUSIONS	We present here a robust and well-designed randomized comparative-effectiveness trial that also explores multiple outcomes to elucidate the potential mechanisms of mind-body effect for a major disabling disease with substantial health burdens and economic costs .
+CONCLUSIONS	Results of this study are expected to have important public health implications for the large and growing population with knee OA .
+BACKGROUND	ClinicalTrials.gov identifier : NCT01258985 .
+

@@ -1,0 +1,14 @@
+24508922
+BACKGROUND	Sarcopenia is currently best described as an age-related decline in skeletal muscle mass and function .
+BACKGROUND	However , no consensus exists as to how to best quantify muscle function in older adults .
+BACKGROUND	The muscle quality index ( MQI ) was recently recommended as an ideal evidence-based assessment of functional status in older adults .
+BACKGROUND	Nevertheless , the usefulness of MQI to assess physical function is limited by whether it is reflective of muscle qualitative changes to an intervention .
+BACKGROUND	Thus , the purpose of this investigation was to determine whether MQI changes in response to resistance exercise training and detraining and how such changes correspond to other recommended measures of physical function proposed by suggested definitions of sarcopenia .
+METHODS	Twenty-five older adults ( 70.66.1 y ; BMI = 28.15.4 kgm ( -2 ) ) completed a 6-week resistance training program in a wait-list controlled , cross-over design .
+METHODS	MQI was determined as power output from timed sit to stand ( STS ) , body mass , and leg length .
+METHODS	Gait speed , hand grip strength , get-up-and-go and lean body mass ( LBM ) were evaluated before and after exercise training and detraining .
+METHODS	MQI and functional changes to training and detraining were evaluated with repeated measures ANOVA and clinical interpretations of magnitude based inferences .
+RESULTS	Short term resistance training significantly and clinically improved MQI ( 203.464.31 to 244.382.92 W ) , gait time ( 1.850.36 to 1.660.27 s ) and sit to stand performance ( 13.212.51 to 11.051.58 s ) .
+RESULTS	Changes in LBM and hand grip strength were not significant or clinically meaningful .
+RESULTS	De-training for 6-weeks did not result in significant changes in any measure from post-training performance .
+

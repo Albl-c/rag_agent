@@ -1,0 +1,12 @@
+25281275
+BACKGROUND	The only subgroups of patients with heart failure and atrial fibrillation in which the efficacy of cardiac resynchronization therapy has been scientifically proven are patients with indications for right ventricular pacing and patients after atrioventricular junction ablation .
+BACKGROUND	However it is unlikely that atrioventricular junction ablation would be a standard procedure in the majority of the heart failure patients with cardiac resynchronization therapy and concomitant atrial fibrillation due to the irreversible character of the procedure and a spontaneous sinus rhythm resumption that occurs in about 10 % of these patients .
+METHODS	Pilot-CRAfT is the first randomized controlled trial evaluating the efficacy of a rhythm control strategy in atrial fibrillation patients with cardiac resynchronization therapy devices .
+METHODS	The aim of this prospective , single center randomized controlled pilot study is to answer the question whether the patients with cardiac resynchronization therapy and permanent atrial fibrillation would benefit from a strategy to restore and maintain sinus rhythm ( that is ` rhythm control ' strategy ) in comparison to rate control strategy .
+METHODS	The study population consists of 60 patients with heart failure and concomitant long-standing persistent or permanent atrial fibrillation who underwent a cardiac resynchronization therapy device implantation at least 3 months before qualification .
+METHODS	Study participants are randomly assigned to the rhythm control strategy ( including electrical cardioversion and pharmacotherapy ) or to the rate control group whose goal is to control ventricular rate .
+METHODS	The follow-up time is 12 months .
+METHODS	The primary endpoint is the ratio of effectively captured biventricular beats .
+METHODS	The secondary endpoints include peak oxygen consumption , six-minute walk test distance , heart failure symptom escalation , reverse remodelling of the heart on echo and quality of life .
+BACKGROUND	NCT01850277 registered on 22 April 2013 ( ClinicalTrails.gov ) .
+

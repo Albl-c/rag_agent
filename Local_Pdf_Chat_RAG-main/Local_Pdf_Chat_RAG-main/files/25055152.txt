@@ -1,0 +1,10 @@
+25055152
+OBJECTIVE	The aim of this study was to evaluate the treatment effect of diquafosol 3 % with preservative-free sodium hyaluronate 0.1 % eye drops in dry eye syndrome .
+METHODS	In total , 150 patients with dry eye syndrome were divided randomly into 3 groups .
+METHODS	Group 1 ( 50 patients ) was treated 4 times daily with preserved sodium hyaluronate 0.1 % , group 2 ( 50 patients ) was treated 4 times daily with diquafosol 3 % , and group 3 ( 50 patients ) was treated 4 times daily with diquafosol 3 % and preservative-free sodium hyaluronate 0.1 % eye drops for 3 months .
+METHODS	Ocular surface disease index ( OSDI ) score , tear film break-up time , Schirmer I test , corneal fluorescein staining , and impression cytology were evaluated .
+RESULTS	There were significant improvements in the OSDI score , tear film break-up time , Schirmer I score , fluorescein and Rose Bengal staining , goblet cell density , and impression cytological findings in groups 2 and 3 compared with those for group 1 in patients with dry eye syndrome at 1 , 2 , and 3 months ( P < 0.05 ) .
+RESULTS	There were statistically significant improvements in the OSDI score ( -8.48 0.97 , -5.69 0.78 ; P = 0.02 ) , fluorescein ( -1.43 0.21 , -1.02 0.18 ; P = 0.03 ) , and Rose Bengal staining ( -1.12 0.26 , -0.75 0.12 ; P = 0.03 ) , goblet cell density ( 89.65 14.39 , 70.36 16.75 ; P = 0.03 ) , and impression cytological findings ( -0.53 0.12 , -0.34 0.90 ; P = 0.01 ) in group 3 compared with those in group 2 at 3 months .
+CONCLUSIONS	Treatment with diquafosol 3 % with preservative-free sodium hyaluronate 0.1 % was more effective than diquafosol 3 % monotherapy or treatment with preserved sodium hyaluronate 0.1 % in dry eye syndrome .
+CONCLUSIONS	Preservative-free sodium hyaluronate 0.1 % eye drops can increase the effect of diquafosol 3 % in dry eye syndrome .
+

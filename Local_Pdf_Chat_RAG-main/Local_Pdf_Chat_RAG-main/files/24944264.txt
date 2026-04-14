@@ -1,0 +1,9 @@
+24944264
+OBJECTIVE	To determine whether allopregnanolone ( AP ) may mediate seizure reduction in progesterone-treated women with epilepsy .
+METHODS	The NIH Progesterone Trial compared the efficacy of adjunctive cyclic natural progesterone therapy vs placebo treatment of intractable seizures in 294 subjects , randomized 2:1 to progesterone or placebo , stratified by catamenial vs noncatamenial designation .
+METHODS	Treatments were compared on proportions of 50 % responders , and changes in seizure frequency from 3 baseline to 3 treatment cycles .
+METHODS	Serum AP levels were measured by radioimmunoassay from 155 women with intractable focal-onset seizures who had baseline and treatment-phase midluteal serum samples drawn each cycle for hormone measurements .
+RESULTS	There was no significant correlation between percentage changes in AP levels and seizure frequencies from baseline to treatment for either the catamenial or noncatamenial stratum .
+RESULTS	There was a significant correlation for the subset of subjects who showed a significantly greater responder rate in the post hoc analysis of the trial , i.e. , subjects who had a 3-fold or greater increase in average daily seizure frequency perimenstrually compared with the midfollicular and midluteal phases ( C1 3 : r = -0.442 , p = 0.013 , and specifically for C1 3 progesterone-treated subjects [ r = -0.452 , p = 0.035 ] , but not other groups [ C1 3 placebo : r = -0.367 ; C1 < 3 progesterone : r = 0.099 ; C1 < 3 placebo : r = 0.131 ; p = not significant ] ) .
+CONCLUSIONS	The findings support AP as a mediator of seizure reduction in progesterone-treated women who have a substantial level of perimenstrually exacerbated seizures .
+

@@ -1,0 +1,12 @@
+25440375
+BACKGROUND	Dyslipidemia is an established feature of metabolic syndrome ( MS ) that is associated with an increased risk of atherosclerotic cardiovascular disease .
+BACKGROUND	Curcuminoids are natural products with anti-atherosclerotic and lipid-modifying effects but their efficacy in patients with MS has not yet been tested .
+OBJECTIVE	To investigate the effects of bioavailability-enhanced curcuminoids , as adjunctive to standard of care , on serum lipid concentrations in patients with MS.
+METHODS	Patients diagnosed with MS according to the NCEP-ATPIII criteria who were receiving standard of care were assigned to either curcuminoids ( C3 complex ( ) ; 1000 mg/day ; n = 50 ) or placebo ( n = 50 ; matched with drug capsules in shape and color ) for 8 weeks .
+METHODS	In order to improve the oral bioavailability , curcuminoids were co-administered with piperine ( bioperine ( ) ) in a ratio of 100:1 .
+METHODS	Serum concentrations of total cholesterol , low-density lipoprotein cholesterol ( LDL-C ) , high-density lipoprotein cholesterol ( HDL-C ) , triglycerides , small dense LDL ( sdLDL ) , lipoprotein ( a ) [ Lp ( a ) ] , and non-HDL-C were determined at baseline and at the end of 8-week treatment period .
+RESULTS	Curcuminoids were more effective than placebo in reducing serum LDL-C , non-HDL-C , total cholesterol , triglycerides and Lp ( a ) , and elevating HDL-C concentrations .
+RESULTS	However , changes in serum sdLDL levels were found to be comparable between the study groups .
+RESULTS	The effects of curcuminoids on triglycerides , non-HDL-C , total cholesterol and Lp ( a ) remained significant after adjustment for baseline values of lipids and body mass index .
+CONCLUSIONS	Curcuminoids-piperine combination is an efficacious adjunctive therapy in patients with MS and can modify serum lipid concentrations beyond what is achieved with standard of care .
+

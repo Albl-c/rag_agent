@@ -1,0 +1,17 @@
+24949605
+OBJECTIVE	To compare the efficacy and tolerance of sodium picosulphate/magnesium citrate ( PMC ) and polyethylene glycol ( PEG ) in a single or split dose regimen for colonoscopy bowel preparation .
+METHODS	A prospective , randomized , endoscopist-blinded , multicenter study .
+METHODS	The patients were randomly assigned to receive PMC ( PMC4/0 ) or PEG ( PEG4/0 ) in a single dose 4L day before colonoscopy or a split dose 2 +2 L PMC ( PMC2/2 ) or 3 +1 L PEG ( PEG3/1 ) one day before and in the morning before the colonoscopy .
+METHODS	Each patient was interviewed to determine his/her subjective tolerance of the preparation before the procedure .
+METHODS	The quality of bowel cleansing was assessed in a blinded test performed by multiple endoscopists using the Aronchick scale .
+RESULTS	A total of 600 patients were enrolled , 88.2 % were included in the analysis .
+RESULTS	Satisfactory bowel cleansing ( Aronchick score 1 and 2 ) was significantly more frequent when a split dose was used irrespective of the solution type ( 81.6 % PMC2/2 , 87.3 % PEG3/1 vs. 73.0 % PEG4/0 , p = 0.024 ) .
+RESULTS	In single dose regimens , PMC performed better than PEG ( 82.6 % vs. 73.0 % ) .
+RESULTS	Single or split dose PMC preparations were comparable .
+RESULTS	A PMC based solution was generally better tolerated than PEG regardless of the regimen used ( p < 0.001 ) .
+RESULTS	Nausea was reported mostly after the 4L PEG ( 32.8 % , p < 0.001 ) , incontinence after a split PMC dose ( 34.4 % , p = 0.002 ) , and bloating after the 4L PEG ( 38.0 % , p < 0.001 ) .
+RESULTS	There was no significant difference in the prevalence of vomiting .
+CONCLUSIONS	Colonic preparation with PMC yields similar results as a split PEG dose , regardless of whether PMC is administered in single or separate doses .
+CONCLUSIONS	PMC is better tolerated than any PEG-based preparation .
+CONCLUSIONS	A single 4L PEG the day before the colonoscopy is less appropriate for bowel cleansing .
+

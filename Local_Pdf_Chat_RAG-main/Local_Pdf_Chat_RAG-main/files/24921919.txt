@@ -1,0 +1,13 @@
+24921919
+BACKGROUND	The optimal treatment for localised oesophageal squamous cell carcinoma ( SCC ) is uncertain .
+BACKGROUND	We assessed the feasibility of an RCT comparing neoadjuvant treatment and surgery with definitive chemoradiotherapy .
+METHODS	A feasibility RCT in three centres examined incident patients and reasons for ineligibility using multi-disciplinary team meeting records .
+METHODS	Eligible patients were offered participation in the RCT with integrated qualitative research involving audio-recorded recruitment appointments and interviews with patients to inform recruitment training for staff .
+RESULTS	Of 375 patients with oesophageal SCC , 42 ( 11.2 % ) were eligible .
+RESULTS	Reasons for eligibility varied between centres , with significantly differing proportions of patients excluded because of total tumour length ( P = 0.002 ) .
+RESULTS	Analyses of audio-recordings and patient interviews showed that recruiters had challenges articulating the trial design in simple terms , balancing treatment arms and explaining the need for randomisation .
+RESULTS	Before analyses of the qualitative data and recruiter training no patients were randomised .
+RESULTS	Following training in one centre 5 of 16 eligible patients were randomised .
+CONCLUSIONS	An RCT of surgical vs non-surgical treatment for SCC of the oesophagus is not feasible in the UK alone because of the low number of incident eligible patients .
+CONCLUSIONS	A trial comparing diverse treatment approaches may be possible with investment to support the recruitment process .
+

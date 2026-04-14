@@ -1,0 +1,20 @@
+25086490
+BACKGROUND	There is no consensus on what type of arthroplasty is best for the treatment of complex proximal humeral fractures in elderly patients .
+BACKGROUND	The purpose of this prospective study was to compare the outcomes of reverse shoulder arthroplasty ( RSA ) and hemiarthroplasty ( HA ) .
+METHODS	Sixty-two patients older than 70 years were randomized to RSA ( 31 patients ) and HA ( 31 patients ) .
+METHODS	One HA patient died at 1 year , and she was excluded .
+METHODS	The mean follow-up was 28.5 months ( range , 24-49 months ) .
+RESULTS	Compared with HA patients , RSA patients had significantly higher ( P = .001 ) mean University of California-Los Angeles ( 29.1 vs 21.1 ) and Constant ( 56.1 vs 40.0 ) scores , forward elevation ( 120.3 vs 79.8 ) , and abduction ( 112.9 vs 78.7 ) but no difference in internal rotation ( 2.7 vs 2.6 ; P = .91 ) .
+RESULTS	The Disabilities of the Arm , Shoulder , and Hand score was higher in the HA patients ( 17 vs 29 ; P = .001 ) .
+RESULTS	In the HA group , 56.6 % of tuberosities healed and 30 % resorbed .
+RESULTS	Patients with failure of tuberosities had significantly worse functional outcomes .
+RESULTS	There were 2 complications ( intraoperative humeral fracture and superficial infection ) .
+RESULTS	One patient was manipulated under general anesthesia because of postoperative stiffness .
+RESULTS	Six patients with HA had proximal migration that required revision to RSA .
+RESULTS	In the RSA group , 64.5 % of tuberosities healed and 13.2 % resorbed .
+RESULTS	Functional outcome was irrespective of healing of the tuberosities .
+RESULTS	Notching was observed in only 1 RSA patient .
+RESULTS	One patient developed a hematoma and another a deep infection requiring a 2-stage revision to another RSA .
+CONCLUSIONS	RSA resulted in better pain and function and lower revision rate .
+CONCLUSIONS	Revision from HA to RSA does not appear to improve outcomes .
+

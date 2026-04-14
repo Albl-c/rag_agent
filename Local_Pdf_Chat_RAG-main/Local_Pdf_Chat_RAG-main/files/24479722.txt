@@ -1,0 +1,15 @@
+24479722
+OBJECTIVE	To compare the safety and efficacy of a single subconjunctival injection of methylprednisolone and a standard postoperative steroid regimen in terms of intraocular inflammation and intraocular pressure ( IOP ) after uncomplicated phacoemulsification surgery .
+METHODS	Two groups of 25 patients each were included in this prospective randomized controlled trial .
+METHODS	Patients in the injection group were given a subconjunctival injection of 20 mg methylprednisolone and the topical group received the conventional postoperative care with steroid eye drops ( dexamethasone 1 mg/ml ) .
+METHODS	The patients were examined 1 week and 1 month after surgery .
+METHODS	Slit-lamp evaluation of anterior chamber inflammation and IOP were performed .
+METHODS	Changes in IOP of 2.4 mmHg were considered clinically relevant .
+RESULTS	In the injection group , mean IOP decreased from 15.4 2.2 mmHg ( baseline ) to 14.1 3.2 mmHg at 1 week ( p = 0.03 ) .
+RESULTS	The topical group had a stable IOP at 1 week ( 16.3 2.6 mmHg ) compared to baseline ( 16.1 2.7 mmHg ; p = 0.74 ) .
+RESULTS	At 1 month , mean IOP was 14.3 2.6 mmHg ( p = 0.03 ) in the injection group and 15.6 2.3 mmHg ( p = 0.2 ) in the topical group .
+RESULTS	The intragroup changes were neither statistically significant nor clinically relevant at any postoperative visit .
+RESULTS	Both groups had the highest values of intraocular inflammation at the 1-week postoperative visit , followed by a decline to barely traceable levels at 1 month .
+RESULTS	The difference was not clinically relevant at any postoperative visit .
+CONCLUSIONS	The subconjunctival injection of methylprednisolone appears to be as safe and effective as the conventional treatment , and it might therefore be considered for treatment of individuals with compliance issues .
+

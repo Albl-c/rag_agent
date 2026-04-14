@@ -1,0 +1,14 @@
+25468387
+BACKGROUND	Iron deficiency anemia and serum phosphate levels > 4.0 mg/dL are relatively common in chronic kidney disease stages 3 to 5 and are associated with higher risks of progressive loss of kidney function , cardiovascular events , and mortality .
+METHODS	Double-blind , placebo-controlled , randomized trial .
+METHODS	149 patients with estimated glomerular filtration rates < 60 mL/min/1 .73 m ( 2 ) , iron deficiency anemia ( hemoglobin , 9.0-12 .0 g/dL ; transferrin saturation [ TSAT ] 30 % , serum ferritin 300 ng/mL ) , and serum phosphate levels 4.0 to 6.0 mg/dL .
+METHODS	Use of intravenous iron or erythropoiesis-stimulating agents was prohibited .
+METHODS	Randomization to treatment for 12 weeks with ferric citrate coordination complex ( ferric citrate ) or placebo .
+METHODS	Coprimary end points were change in TSAT and serum phosphate level from baseline to end of study .
+METHODS	Secondary outcomes included change from baseline to end of treatment in values for ferritin , hemoglobin , intact fibroblast growth factor 23 ( FGF-23 ) , urinary phosphate excretion , and estimated glomerular filtration rate .
+RESULTS	Ferric citrate treatment increased mean TSAT from 22 % 7 % ( SD ) to 32 % 14 % and reduced serum phosphate levels from 4.5 0.6 to 3.9 0.6 mg/dL , while placebo exerted no effect on TSAT ( 21 % 8 % to 20 % 8 % ) and less effect on serum phosphate level ( 4.7 0.6 to 4.4 0.8 mg/dL ; between-group P < 0.001 for each ) .
+RESULTS	Ferric citrate increased hemoglobin levels ( from 10.5 0.8 to 11.0 1.0 g/dL ; P < 0.001 vs placebo ) , reduced urinary phosphate excretion 39 % ( P < 0.001 vs placebo ) , and reduced serum intact FGF-23 levels from a median of 159 ( IQR , 102-289 ) to 105 ( IQR , 65-187 ) pg/mL ( P = 0.02 vs placebo ) .
+RESULTS	The incidence and severity of adverse effects were similar between treatment arms .
+CONCLUSIONS	The study is limited by relatively small sample size and short duration and by having biochemical rather than clinical outcomes .
+CONCLUSIONS	Short-term use of ferric citrate repletes iron stores , increases hemoglobin levels , and reduces levels of serum phosphate , urinary phosphate excretion , and FGF-23 in patients with chronic kidney disease stages 3 to 5 .
+

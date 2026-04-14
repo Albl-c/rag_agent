@@ -1,0 +1,15 @@
+25742308
+BACKGROUND	Adaptive support ventilation ( ASV ) is a closed loop mode of mechanical ventilation ( MV ) that provides a target minute ventilation by automatically adapting inspiratory pressure and respiratory rate with the minimum work of breathing on the part of the patient .
+BACKGROUND	The aim of this study was to determine the effect of ASV on total MV duration when compared with pressure assist/control ventilation .
+METHODS	Adult medical patients intubated and mechanically ventilated for > 24 h in a medical ICU were randomized to either ASV or pressure assist/control ventilation .
+METHODS	Sedation and medical treatment were standardized for each group .
+METHODS	Primary outcome was the total MV duration .
+METHODS	Secondary outcomes were the weaning duration , number of manual settings of the ventilator , and weaning success rates .
+RESULTS	Two hundred twenty-nine patients were included .
+RESULTS	Median MV duration until weaning , weaning duration , and total MV duration were significantly shorter in the ASV group ( 67 [ 43-94 ] h vs 92 [ 61-165 ] h , P = .003 ; 2 [ 2-2 ] h vs 2 [ 2-80 ] h , P = .001 ; and 4 [ 2-6 ] days vs 4 [ 3-9 ] days , P = .016 , respectively ) .
+RESULTS	Patients in the ASV group required fewer total number of manual settings on the ventilator to reach the desired pH and Paco2 levels ( 2 [ 1-2 ] vs 3 [ 2-5 ] , P < .001 ) .
+RESULTS	The number of patients extubated successfully on the first attempt was significantly higher in the ASV group ( P = .001 ) .
+RESULTS	Weaning success and mortality at day 28 were comparable between the two groups .
+CONCLUSIONS	In medical patients in the ICU , ASV may shorten the duration of weaning and total MV duration with a fewer number of manual ventilator settings .
+BACKGROUND	ClinicalTrials.gov ; No. : NCT01472302 ; URL : www.clinicaltrials.gov .
+

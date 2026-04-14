@@ -1,0 +1,16 @@
+24665578
+OBJECTIVE	Physical activity is a common stimulus of asthmatic symptoms manifestation .
+OBJECTIVE	Airway hyperreactivity is a predisposing cause of exercise induced bronchial obstruction , diagnosed by histamine inhalation .
+OBJECTIVE	The aim of this study was to determine the relation between the amounts of histamine needed to induce non-specific airway hyperreactivity and exercise-induced bronchial obstruction .
+METHODS	This randomized cross-over study included 160 male patients ( age 19-27 years ) suffering from bronchial asthma who showed positive results as the reaction after the histamine bronchial provocation test .
+METHODS	Histamine concentrations were in a range of 0.03 to 4 mg/mL .
+METHODS	Each patient participated in the exercise stress test conducted on a conveyor belt .
+METHODS	The results of the exercise stress test were considered positive if the FEV1 level dropped by at least 15 % from its initial value , 5-10 minutes after the test .
+RESULTS	All the patients showed positive results as the reaction after the histamine bronchial provocation test , while 50 of them showed positive results after the exercise-induced stress test .
+RESULTS	There was a statistically highly significant difference in administrated histamine concentrations between the group of patients that had positive results on exercise stress test and those who did not ( 1 mg/mL vs 0.5 mg/mL ; U = 1678 ; p < 0.01 ) .
+RESULTS	Also , there was a statistically significant difference concerning the frequency of the positive results regarding histamine concentration after induced stress test ( chi2 = 10.885 ; p = 0.001 ) .
+RESULTS	Among the patients with positive results , there was a statistically highly significant number of patients with bronchial obstruction induced by less than 2 mg/mL of histamine ( p < 0.01 ) .
+RESULTS	A statistically significant relation between the amount of histamine needed to induce bronchial obstruction and the results of the exercise stress test ( p < 0.01 ) was also observed after the testing .
+CONCLUSIONS	In the group of patients with positive results after the exercise-induced stress test , there were significantly more patients with positive results to non-specific bronchial provocation test with lower histamine concentrations .
+CONCLUSIONS	Histamine concentrations needed to induce non-specific hyperreactivity of asthmatic airway were shown to be related to the reactivity to physical effort .
+

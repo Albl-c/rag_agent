@@ -1,0 +1,15 @@
+24338959
+BACKGROUND	Comparison of state-designated primary and comprehensive stroke centers ( PSCs and CSCs ) with regard to adherence to nationally accepted performance standards are scarce .
+BACKGROUND	The objective of this study was to examine if a significant association exists between level of designation and fulfillment of Joint Commission ( JC ) stroke core measures .
+METHODS	A retrospective comparative data analysis of the New Jersey acute stroke registry for the calendar years 2010 and 2011 was performed .
+METHODS	JC core measures were compared by hospital level ( PSCs vs CSCs ) .
+METHODS	Adjusted odds ratios ( aOR ) were estimated for association between hospital levels and fulfillment of JC core measures .
+METHODS	Median door-to-thrombolytic time was also compared .
+RESULTS	There were 36,892 acute stroke admissions .
+RESULTS	PSCs had 60 % of the patients , whereas CSCs had 40 % .
+RESULTS	Hemorrhagic stroke admissions were about 2 times more frequent at CSCs than PSCs ( 13.3 % and 7.1 % , respectively ) .
+RESULTS	CSCs adhered better to 6 of the 8 JC measures than PSCs .
+RESULTS	Of eligible patients , 19.5 % received thrombolytic therapy at CSCs compared to 9.6 % at PSCs , with a 44 % difference in provision of thrombolytic therapy ( aOR = 0.28 , 95 % confidence interval : 0.24-0 .34 ) .
+RESULTS	Median door-to-thrombolytic drug times was 65 minutes at CSCs compared to 74.0 minutes at PSCs ( P < 0.0001 ) .
+CONCLUSIONS	New Jersey state-designated CSCs are better at adhering to the JC core stroke measures and have shorter door-to-thrombolytic drug times .
+

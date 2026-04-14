@@ -1,0 +1,15 @@
+25875131
+OBJECTIVE	Although applying adhesive strips to a wound closure has been shown to have outcomes equivalent to those with cuticular suturing , it is unknown whether adhesive strips provide additional benefit compared with dermal suturing alone .
+OBJECTIVE	To determine whether the addition of adhesive strips to a wound closed with buried interrupted subcuticular sutures improves outcomes following wound closure .
+METHODS	A prospective , randomized split-wound intervention was conducted between November 14 , 2013 , and May 16 , 2014 , in patients who underwent cutaneous surgical procedures at the University of California , Davis , outpatient dermatology clinic .
+METHODS	Fifty-seven patients 18 years or older with postoperative defects of at least 3 cm , resulting from either Mohs micrographic surgical procedures or surgical excision , were screened for participation .
+METHODS	Nine patients were excluded and 48 were enrolled .
+METHODS	Half of each wound was randomized to receive buried interrupted subcuticular sutures and overlying adhesive strips and the other half received buried interrupted subcuticular sutures only .
+METHODS	At 3 months ' follow-up , each patient and 2 blinded observers evaluated the wound using the Patient Observer Scar Assessment Scale .
+RESULTS	The total mean ( SD ) Patient Observer Scar Assessment Scale score for observers for the side that received a combination of adhesive strips and buried interrupted subcuticular suturing ( 12.3 [ 4.8 ] ) and the side that received sutures only ( 12.9 [ 6.3 ] ) did not differ significantly at 3 months ( P = .32 ) .
+RESULTS	There was no significant difference in the total patient assessment scale score between the combination closure ( 14.0 [ 7.6 ] ) and sutures only ( 14.7 [ 7.6 ] ) sides at 3 months ( P = .39 ) .
+RESULTS	There was also no significant difference between the 2 closure methods in terms of mean ( SD ) scar width ( both methods : 1.1 [ 0.8 ] mm , P = .89 ) at follow-up .
+CONCLUSIONS	Combination closure with adhesive strips and buried interrupted subcuticular suturing was not significantly associated with improved overall scar assessment compared with buried interrupted subcuticular suturing alone when evaluated by blinded observers or the patients themselves .
+CONCLUSIONS	Our results do not support the use of adhesive strips as a means to improve cosmetic outcomes or reduce scar width .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01979497 .
+

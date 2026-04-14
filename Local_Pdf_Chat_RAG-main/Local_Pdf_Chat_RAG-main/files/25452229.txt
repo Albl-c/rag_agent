@@ -1,0 +1,7 @@
+25452229
+OBJECTIVE	To assess the long-term effects of an intensive lifestyle intervention on physical function using a randomized post-test design in the Look AHEAD trial .
+METHODS	Overweight and obese ( BMI 25 kg m ( -2 ) ) middle-aged and older adults ( aged 45-76 years at enrollment ) with type 2 diabetes ( n = 964 ) at four clinics in Look AHEAD , a trial evaluating an intensive lifestyle intervention ( ILI ) designed to achieve weight loss through caloric restriction and increased physical activity compared to diabetes support and education ( DSE ) , underwent standardized assessments of performance-based physical function including an expanded short physical performance battery ( SPPBexp ) , 20-m and 400-m walk , and grip and knee extensor strength 8 years post-randomization , during the trial 's weight maintenance phase .
+RESULTS	Eight years post-randomization , individuals randomized to ILI had better SPPBexp scores [ adjusted mean ( SE ) difference : 0.055 ( 0.022 ) , P = 0.01 ] and faster 20-m and 400-m walk speeds [ 0.032 ( 0.012 ) m s ( -1 ) , P = 0.01 , and 0.025 ( 0.011 ) m s ( -1 ) , P = 0.02 , respectively ] compared to those randomized to DSE .
+RESULTS	Achieved weight loss greatly attenuated the group differences in physical function , and the intervention effect was no longer significant .
+CONCLUSIONS	An intensive lifestyle intervention has long-term benefits for mobility function in overweight and obese middle-aged and older individuals with type 2 diabetes .
+

@@ -1,0 +1,11 @@
+24866279
+OBJECTIVE	The aim of this study was to investigate the degree of correlation between the Pelvic Organ Quantification system ( POP-Q ) measurements and symptom questionnaire scores before and after surgery .
+OBJECTIVE	This was a part of a randomized controlled study comparing conventional colporrhaphy with mesh repair surgery .
+METHODS	The correlation between POP-Q measurements and Pelvic Floor Impact Questionnaire ( PFIQ-7 ) and Pelvic Floor Distress Inventory ( PFDI-20 ) scores was investigated in 164 women 55 years or older scheduled for primary anterior vaginal wall prolapse surgery at baseline and the correlation between the change in point Ba and scores following surgery .
+METHODS	Statistical analyses used McNemar 's and Wilcoxon signed-rank tests , Spearman 's rank-order correlation , and multiple linear regression .
+RESULTS	Surgery significantly improved POP-Q , PFIQ-7 , and PFDI-20 scores , including subscales .
+RESULTS	We observed weak correlations between POP-Q and PFIQ-7 , including subscales ( r 0.173-0 .324 , p < 0.05 ) , and PFDI-20 , including the Pelvic Organ Prolapse Distress Inventory ( POPDI ) subscale ( r 0.180-0 .211 , p < 0.05 ) .
+RESULTS	Regression analysis demonstrated a significant relationship between point Ba and PFIQ-7 ( p = 0.001 ) and PFDI-20 ( p = 0.04 ) , respectively .
+RESULTS	Furthermore , we observed a significant relationship between the change in point Ba ( following surgery ) and change in scores ; point Ba following surgery was significantly correlated with symptoms of bulging ( r = 0.303 , p < 0.01 ) and bladder-emptying problems ( r = 0.213 , p < 0.01 ) .
+CONCLUSIONS	The weak correlation between POP-Q and urogenital symptoms based on questionnaire scores suggests that neither scoring system is optimal .
+

@@ -1,0 +1,11 @@
+25301457
+BACKGROUND	Transradial access ( TRA ) has been associated with reduced access site-related bleeding complications and mortality after percutaneous coronary intervention ( PCI ) .
+BACKGROUND	It is unclear , however , whether these observed benefits are influenced by baseline bleeding risk .
+OBJECTIVE	This study investigated the relationship between baseline bleeding risk , TRA utilization , and procedure-related outcomes in patients undergoing PCI enrolled in the British Cardiovascular Intervention Society database .
+METHODS	Baseline bleeding risk was calculated by using modified Mehran bleeding risk scores in 348,689 PCI procedures performed between 2006 and 2011 .
+METHODS	Four categories for bleeding risk were defined for the modified Mehran risk score ( MMRS ) : low ( < 10 ) , moderate ( 10 to 14 ) , high ( 15 to 19 ) , and very high ( 20 ) .
+METHODS	The impact of baseline bleeding risk on 30-day mortality and its relationship with access site were studied .
+RESULTS	TRA was independently associated with a 35 % reduction in 30-day mortality risk ( odds ratio [ OR ] : 0.65 [ 95 % confidence interval ( CI ) : 0.59 to 0.72 ] ; p < 0.0001 ) , with the magnitude of mortality reduction related to baseline bleeding risk ( MMRS < 10 , OR : 0.73 [ 95 % CI : 0.62 to 0.86 ] ; MMRS 20 , OR : 0.53 [ 95 % CI : 0.47 to 0.61 ] ) .
+RESULTS	In patients with an MMRS < 10 , TRA was used in 71,771 ( 43.2 % ) of 166,083 PCI procedures ; TRA was used in 8,655 ( 40.1 % ) of 21,559 PCI procedures in patients with an MMRS 20 , illustrating that TRA was used less in those at highest risk from bleeding complications ( p < 0.0001 ) .
+CONCLUSIONS	TRA was independently associated with reduced 30-day mortality , and the magnitude of this effect was related to baseline bleeding risk ; those at highest risk of bleeding complications gained the greatest benefit from adoption of TRA during PCI .
+

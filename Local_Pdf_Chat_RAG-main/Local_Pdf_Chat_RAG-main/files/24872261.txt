@@ -1,0 +1,13 @@
+24872261
+BACKGROUND	The management of open tibia fractures remains controversial despite increase in its incidence .
+BACKGROUND	Some surgeons avoid internal fixations for fear of infection while others have demonstrated its superiority .
+BACKGROUND	Identifying an optimal management modality is of utmost benefit to our patients .
+BACKGROUND	Study objectives were to compare the rate of infection and mean duration to healing in the management of open tibia fractures using unreamed interlocking intramedullary nail and external fixation .
+METHODS	The study was an interventional study comparing two known standard methods of managing open tibia fractures conducted in the orthopaedic and trauma department of a tertiary health institution in South west , Nigeria .
+METHODS	Forty patients who presented with open tibia fractures were allocated alternately into primary interlocking nailing group and external fixation group .
+METHODS	Follow-up was for two years .
+RESULTS	Incidences of deep wound infection in both groups were 35 % ( external fixation ) and 11.1 % ( interlocking nailing ) respectively .
+RESULTS	The relative risk of developing infection in external fixation group was 3.2 .
+RESULTS	Mean duration to union was 14.8 weeks and 14.4 weeks in the external fixation and interlocking nailing groups respectively , difference in mean was not statistically significant , ( t = 0.133 , p = 0.895 ) .
+CONCLUSIONS	The risk of wound infection was observed to be higher in this study with the use of external fixation in the management of open tibia fractures compared with unreamed interlocking intramedullary nail .
+

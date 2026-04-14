@@ -1,0 +1,14 @@
+25460259
+OBJECTIVE	The current study is the first to examine whether reactivation of fear memory prior to exposure therapy reduces relapse in a randomized clinical sample .
+METHODS	In a standardized treatment protocol combining virtual reality and in-vivo exposure , patients underwent a fear reactivation procedure using a virtual spider 10 min prior to a virtual reality ( VR ) exposure ( reactivation group : RG , n = 15 ) .
+METHODS	A control group ( CG , n = 17 ) was exposed to a virtual plant 10 min prior to the VR exposure .
+METHODS	Outcome measures were a VR spontaneous recovery test ( SRT ) and in-vivo a behavioral avoidance test assessed 24 h after VR exposure .
+METHODS	One week later an in-vivo exposure session followed .
+METHODS	Additionally , a follow-up using psychometric assessment was conducted six months after the first session .
+RESULTS	Both groups benefitted significantly and equally from the combined treatment , and importantly , the SRT revealed no return of fear in both groups .
+RESULTS	Furthermore , follow-up tests showed long-term treatment effects with no group differences .
+CONCLUSIONS	Due to different study components ( VR treatment and in-vivo ) , we were not able to determine which treatment module was mainly responsible for the long-term treatment effect .
+CONCLUSIONS	Furthermore , no direct measure of memory destabilization was possible in this study .
+CONCLUSIONS	Our treatment package was highly effective in reducing phobic fear up to 6 months following treatment .
+CONCLUSIONS	Explicit fear reactivation prior to exposure was not beneficial in VR exposure treatment , possibly due to a failure to induce a memory destabilization or due to an implicit fear reactivation prior to treatment in both groups .
+

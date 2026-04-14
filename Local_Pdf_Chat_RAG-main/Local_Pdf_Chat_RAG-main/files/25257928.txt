@@ -1,0 +1,14 @@
+25257928
+BACKGROUND	Clustering of outcomes at centers involved in multicenter trials is a type of center effect .
+BACKGROUND	The Consolidated Standards of Reporting Trials Statement recommends that multicenter randomized controlled trials ( RCTs ) should account for center effects in their analysis , however most do not .
+BACKGROUND	The Early External Cephalic Version ( EECV ) trials published in 2003 and 2011 stratified by center at randomization , but did not account for center in the analyses , and due to the nature of the intervention and number of centers , may have been prone to center effects .
+BACKGROUND	Using data from the EECV trials , we undertook an empirical study to compare various statistical approaches to account for center effect while estimating the impact of external cephalic version timing ( early or delayed ) on the outcomes of cesarean section , preterm birth , and non-cephalic presentation at the time of birth .
+METHODS	The data from the EECV pilot trial and the EECV2 trial were merged into one dataset .
+METHODS	Fisher 's exact method was used to test the overall effect of external cephalic version timing unadjusted for center effects .
+METHODS	Seven statistical models that accounted for center effects were applied to the data .
+METHODS	The models included : i ) the Mantel-Haenszel test , ii ) logistic regression with fixed center effect and fixed treatment effect , iii ) center-size weighted and iv ) un-weighted logistic regression with fixed center effect and fixed treatment-by-center interaction , iv ) logistic regression with random center effect and fixed treatment effect , v ) logistic regression with random center effect and random treatment-by-center interaction , and vi ) generalized estimating equations .
+RESULTS	For each of the three outcomes of interest approaches to account for center effect did not alter the overall findings of the trial .
+RESULTS	The results were similar for the majority of the methods used to adjust for center , illustrating the robustness of the findings .
+CONCLUSIONS	Despite literature that suggests center effect can change the estimate of effect in multicenter trials , this empirical study does not show a difference in the outcomes of the EECV trials when accounting for center effect .
+BACKGROUND	The EECV2 trial was registered on 30 July 30 2005 with Current Controlled Trials : ISRCTN 56498577 .
+

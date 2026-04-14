@@ -1,0 +1,15 @@
+24382088
+BACKGROUND	The IAPT services provide high and low intensity psychological treatments for adults suffering from depression and anxiety disorders using a stepped care model .
+BACKGROUND	The latest national evaluation study reported an average recovery rate of 42 % .
+BACKGROUND	However , this figure varied widely between services , with better outcomes associated with higher `` step-up '' rates between low and high intensity treatments .
+OBJECTIVE	This study aimed to compare the two intensity groups in an IAPT service in Suffolk .
+METHODS	This study adopted a between groups design .
+METHODS	A sample of 100 service users was randomly selected from the data collected from an IAPT service in Suffolk between May 2008 and February 2011 .
+METHODS	The treatment outcomes , drop-out rate , and other characteristics were compared between those who received high and low intensity treatments .
+RESULTS	The high intensity group received , on average , more sessions and contact time .
+RESULTS	They received more CBT sessions and less guided self-help .
+RESULTS	There were no group differences in terms of the drop-out and appointment cancellation rates .
+RESULTS	Analyses on clinical outcomes suggested no group difference but demonstrated an overall recovery rate of 52.6 % and significant reduction in both depression and anxiety symptoms .
+CONCLUSIONS	Despite methodological limitations , this study concludes that the service as a whole achieved above-average clinical outcomes .
+CONCLUSIONS	Further research building upon the current study in unpacking the relative strengths and weaknesses for the high and low intensity treatments would be beneficial for service delivery .
+

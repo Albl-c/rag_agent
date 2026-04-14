@@ -1,0 +1,17 @@
+25027257
+BACKGROUND	Tracheal intubation with Macintosh laryngoscope is taught to medical students as it is a lifesaving procedure .
+BACKGROUND	However , it is a difficult technique to learn and the consequences of intubation failure are potentially serious .
+BACKGROUND	The Airtraq optical laryngoscope is a relatively novel intubation device , which allows visualization of the glottic plane without alignment of the oral , pharyngeal , and tracheal axes , possessing advantages over Macintosh for novice personnel .
+BACKGROUND	We introduced a teaching mode featured with a progressive evaluation scheme for preparation and performance of tracheal intubation with medical students in this prospective randomized crossover trial who had no prior airway management experience to find the superior one .
+METHODS	Twenty-six medical students of the 8-year programme in the 6th year participated in this trial , when they did their one-week rotation in the department of anaesthesiology .
+METHODS	Each of the students intubated 6 patients , who were scheduled for surgeries under general anaesthesia , each laryngoscope for 3 patients respectively .
+METHODS	One hundred and forty-nine consecutive patients scheduled for surgical procedures requiring tracheal intubation were enrolled .
+METHODS	Patients were randomly allocated to undergo tracheal intubation using Macintosh ( n = 75 ) or Airtraq ( n = 74 ) laryngoscope .
+METHODS	The progressive evaluation scheme was applied to each intubation attempt .
+RESULTS	Intubation success rate was significantly higher in Airtraq group than Macintosh group ( 87.8 % vs. 66.7 % , P < 0.05 ) .
+RESULTS	Duration of glottis exposure was significantly shorter in Airtraq group compared to Macintosh group ( 50 19 s vs. 81 27 s , P < 0.001 ) .
+RESULTS	A grade I Cormack and Lehane glottic view was obtained in 94.6 % of patients in the Airtraq group versus 32 % of patients in the Macintosh group ( P < 0.001 ) .
+RESULTS	Duration of intubation in Airtraq group was significantly shorter ( 68 21 s vs. 96 22 s , P < 0.05 ) compared to Macintosh group .
+CONCLUSIONS	Airtraq laryngoscope is easier to master for novice personnel with a higher intubation success rate and shorter intubation duration compared with the Macintosh laryngoscope .
+BACKGROUND	Trial registration number is ChiCTR-TRC-13003987 , approval date Dec 12 , 2013 .
+

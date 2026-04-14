@@ -1,0 +1,15 @@
+25738669
+BACKGROUND	The treatment of symptomatic congenital cytomegalovirus ( CMV ) disease with intravenous ganciclovir for 6 weeks has been shown to improve audiologic outcomes at 6 months , but the benefits wane over time .
+METHODS	We conducted a randomized , placebo-controlled trial of valganciclovir therapy in neonates with symptomatic congenital CMV disease , comparing 6 months of therapy with 6 weeks of therapy .
+METHODS	The primary end point was the change in hearing in the better ear ( `` best-ear '' hearing ) from baseline to 6 months .
+METHODS	Secondary end points included the change in hearing from baseline to follow-up at 12 and 24 months and neurodevelopmental outcomes , with each end point adjusted for central nervous system involvement at baseline .
+RESULTS	A total of 96 neonates underwent randomization , of whom 86 had follow-up data at 6 months that could be evaluated .
+RESULTS	Best-ear hearing at 6 months was similar in the 6-month group and the 6-week group ( 2 and 3 participants , respectively , had improvement ; 36 and 37 had no change ; and 5 and 3 had worsening ; P = 0.41 ) .
+RESULTS	Total-ear hearing ( hearing in one or both ears that could be evaluated ) was more likely to be improved or to remain normal at 12 months in the 6-month group than in the 6-week group ( 73 % vs. 57 % , P = 0.01 ) .
+RESULTS	The benefit in total-ear hearing was maintained at 24 months ( 77 % vs. 64 % , P = 0.04 ) .
+RESULTS	At 24 months , the 6-month group , as compared with the 6-week group , had better neurodevelopmental scores on the Bayley Scales of Infant and Toddler Development , third edition , on the language-composite component ( P = 0.004 ) and on the receptive-communication scale ( P = 0.003 ) .
+RESULTS	Grade 3 or 4 neutropenia occurred in 19 % of the participants during the first 6 weeks .
+RESULTS	During the next 4.5 months of the study , grade 3 or 4 neutropenia occurred in 21 % of the participants in the 6-month group and in 27 % of those in the 6-week group ( P = 0.64 ) .
+CONCLUSIONS	Treating symptomatic congenital CMV disease with valganciclovir for 6 months , as compared with 6 weeks , did not improve hearing in the short term but appeared to improve hearing and developmental outcomes modestly in the longer term .
+CONCLUSIONS	( Funded by the National Institute of Allergy and Infectious Diseases ; ClinicalTrials.gov number , NCT00466817 . )
+

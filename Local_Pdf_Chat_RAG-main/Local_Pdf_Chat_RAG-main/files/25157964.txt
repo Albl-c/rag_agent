@@ -1,0 +1,19 @@
+25157964
+OBJECTIVE	Up to 70 % of patients with treatment-resistant schizophrenia do not respond to clozapine .
+OBJECTIVE	Pharmacological augmentation to clozapine has been studied with unimpressive results .
+OBJECTIVE	The authors examined the use of ECT as an augmentation to clozapine for treatment-refractory schizophrenia .
+METHODS	In a randomized single-blind 8-week study , patients with clozapine-resistant schizophrenia were assigned to treatment as usual ( clozapine group ) or a course of bilateral ECT plus clozapine ( ECT plus clozapine group ) .
+METHODS	Nonresponders from the clozapine group received an 8-week open trial of ECT ( crossover phase ) .
+METHODS	ECT was performed three times per week for the first 4 weeks and twice weekly for the last 4 weeks .
+METHODS	Clozapine dosages remained constant .
+METHODS	Response was defined as 40 % reduction in symptoms based on the psychotic symptom subscale of the Brief Psychiatric Rating Scale , a Clinical Global Impressions ( CGI ) - severity rating < 3 , and a CGI-improvement rating 2 .
+RESULTS	The intent-to-treat sample included 39 participants ( ECT plus clozapine group , N = 20 ; clozapine group , N = 19 ) .
+RESULTS	All 19 patients from the clozapine group received ECT in the crossover phase .
+RESULTS	Fifty percent of the ECT plus clozapine patients met the response criterion .
+RESULTS	None of the patients in the clozapine group met the criterion .
+RESULTS	In the crossover phase , response was 47 % .
+RESULTS	There were no discernible differences between groups on global cognition .
+RESULTS	Two patients required the postponement of an ECT session because of mild confusion .
+CONCLUSIONS	The augmentation of clozapine with ECT is a safe and effective treatment option .
+CONCLUSIONS	Further research is required to determine the persistence of the improvement and the potential need for maintenance treatments .
+

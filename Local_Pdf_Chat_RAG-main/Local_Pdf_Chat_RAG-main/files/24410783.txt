@@ -1,0 +1,17 @@
+24410783
+BACKGROUND	Anaphylaxis is a life-threatening emergency .
+BACKGROUND	If promptly administered , adrenaline is potentially life-saving .
+BACKGROUND	Many food-allergic-children/carers are unsure when to use their adrenaline autoinjectors , contributing to a low quality of life and worse outcomes in the setting of an acute allergic reaction .
+OBJECTIVE	The aim of this study was to assess the effectiveness of 24-hour telephone access to specialist clinical advice on disease-specific quality of life .
+METHODS	A pragmatic two-arm , parallel-group randomized control trial was conducted .
+METHODS	Children/carers ( < 16years ) with food allergy , trained in adrenaline auto-injector use , were recruited from a hospital-based paediatric allergy clinic .
+METHODS	Baseline disease-specific quality of life was ascertained using the validated Food-Allergy-Related Quality-of-Life Questionnaire ( FAQLQ ) , either Parent Form , Child Form or Teenager Form depending on child 's age .
+METHODS	Participants were then centrally randomized for a 6-month period to 24-hour telephone specialist support line or to usual care .
+METHODS	The primary outcome measure was a change in FAQL scores , at one and 6months postrandomization , compared with baseline .
+METHODS	The minimum clinically important difference ( MCID ) in score is 0.5 .
+RESULTS	Fifty two children/carers were recruited .
+RESULTS	FAQL scores remained static in the control group across the three time points .
+RESULTS	Scores gradually improved in the intervention group , with a significant difference seen at 6months ( T1-T3 Mean difference = -1.5 , ( CI 0.87-2 .25 ) P < 0.005 ] Follow-up questionnaires , 6months after the intervention was removed , T4 , showed sustained significant difference between the groups ( control M = 3.0 ; intervention M = 1.1 [ t = -4.113 , P < 0.05 ] ) .
+CONCLUSIONS	The 24-hour helpline improved food-allergy-specific quality of life in children .
+CONCLUSIONS	Six-month intervention support resulted in sustained benefits for at least a further 6months .
+

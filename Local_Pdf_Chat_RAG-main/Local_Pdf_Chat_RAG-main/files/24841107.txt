@@ -1,0 +1,14 @@
+24841107
+BACKGROUND	Although coexisting obstructive sleep apnea ( OSA ) and Cheyne-Stokes respiration ( CSR ) occur frequently in patients with heart diseases , optimal treatment remains unclear .
+BACKGROUND	Positive airway pressure ( PAP ) effectively treats OSA and adaptive servo-ventilation ( ASV ) has been shown to improve CSR .
+BACKGROUND	We compared a new treatment algorithm combining automatic continuous positive airway pressure ( APAP ) and ASV ( anticyclic modulated ventilation , ACMV ) versus continuous positive airway pressure ( CPAP ) .
+METHODS	Thirty-nine patients ( 35 male , four female ; aged 65.59.7 years ; body mass index , 31.05.9 kg/m2 ) with underlying heart disease and coexisting OSA and CSR were enrolled .
+METHODS	After diagnostic polysomnography ( PSG ) and CPAP titration , patients were randomized either to CPAP or to ACMV for four weeks of treatment in a crossover design .
+RESULTS	Total apnea-hypopnea index ( AHI ) was 49.018.8 / h at baseline , 12.314.6 / h with CPAP ( P < 0.001 vs baseline ) , and 3.75.6 / h with ACMV ( P < 0.001 vs. baseline and vs. CPAP ) .
+RESULTS	Obstructive AHI was 20.714.4 / h at baseline , 5.19.3 / h with CPAP ( P < 0.001 vs. baseline ) , and 0.40.4 / h with ACMV ( P < 0.001 vs. baseline and vs. CPAP ) .
+RESULTS	Central AHI was 28.313.4 / h at baseline , 7.29.7 / h with CPAP ( P < 0.001 vs baseline ) and 3.35.4 / h with ACMV ( P < 0.001 vs. baseline and vs. CPAP ) .
+RESULTS	Ejection fraction was increased significantly ( from 38.615.6 to 44.412.2 % ) only with ACMV .
+RESULTS	Subjective sleepiness significantly improved only with CPAP whereas objective sleep quality and treatment adherence were not different between both treatment modalities .
+CONCLUSIONS	ACMV is an effective treatment option in patients with coexisting OSA and CSR .
+CONCLUSIONS	It is superior to CPAP in reducing total AHI as well as obstructive and central AHI .
+

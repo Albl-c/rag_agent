@@ -1,0 +1,19 @@
+24571855
+BACKGROUND	Chronic pain can disrupt the cortical representation of a painful body part .
+BACKGROUND	This disruption may play a role in maintaining the individual 's pain .
+BACKGROUND	Tactile acuity training has been used to normalise cortical representation and reduce pain in certain pain conditions .
+BACKGROUND	However , there is little evidence for the effectiveness of this intervention for chronic low back pain ( CLBP ) .
+BACKGROUND	The primary aim of this study was to inform the development of a fully powered randomised controlled trial ( RCT ) by providing preliminary data on the effect of tactile acuity training on pain and function in individuals with CLBP .
+BACKGROUND	The secondary aim was to obtain qualitative feedback about the intervention .
+METHODS	In this mixed-methods pilot RCT 15 individuals were randomised to either an intervention ( tactile acuity training ) or a placebo group ( sham tactile acuity training ) .
+METHODS	All participants received 3 sessions of acuity training ( intervention or sham ) from a physiotherapist and were requested to undertake daily acuity home training facilitated by an informal carer ( friend/relative ) .
+METHODS	All participants also received usual care physiotherapy .
+METHODS	The primary outcome measures were pain ( 0-100visual analogue scale ( VAS ) ) and function ( Roland Morris Disability Questionnaire ( RMDQ ) ) .
+METHODS	Participants and their informal carers were invited to a focus group to provide feedback on the intervention .
+RESULTS	The placebo group improved by the greatest magnitude for both outcome measures , but there was no statistically significant difference ( Mean difference ( 95 % CI ) , p-value ) between groups for change in pain ( 25.6 ( -0.7 to 51.9 ) , p = 0.056 ) or function ( 2.2 ( -1.6 to 6.0 ) , p = 0.237 ) .
+RESULTS	Comparing the number of individuals achieving a minimally clinically significant improvement , the placebo group had better outcomes for pain with all participants achieving 30 % improvement compared to only a third of the intervention group ( 6/6 vs. 3/9 , p = 0.036 ) .
+RESULTS	Qualitatively , participants reported that needing an informal carer was a considerable barrier to the home training component of the study .
+CONCLUSIONS	This pilot RCT found tactile acuity training to be no more effective than sham tactile acuity training for function and less effective for pain in individuals with CLBP .
+CONCLUSIONS	That the intervention could not be self-applied was a considerable barrier to its use .
+BACKGROUND	ISRCTN98118082 .
+

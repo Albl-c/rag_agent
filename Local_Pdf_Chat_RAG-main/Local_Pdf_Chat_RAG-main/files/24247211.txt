@@ -1,0 +1,16 @@
+24247211
+OBJECTIVE	The objective of this study was to investigate whether ingestion of fructose and fructans ( such as inulin ) can exacerbate irritable bowel syndrome ( IBS ) symptoms .
+OBJECTIVE	The aim was to better understand the origin of these symptoms by magnetic resonance imaging ( MRI ) of the gut .
+METHODS	A total of 16 healthy volunteers participated in a four-way , randomized , single-blind , crossover study in which they consumed 500ml of water containing 40g of either glucose , fructose , inulin , or a 1:1 mixture of 40g glucose and 40g fructose .
+METHODS	MRI scans were performed hourly for 5h , assessing the volume of gastric contents , small bowel water content ( SBWC ) , and colonic gas .
+METHODS	Breath hydrogen ( H2 ) was measured and symptoms recorded after each scan .
+RESULTS	Data are reported as mean ( s.d. ) ( 95 % CI ) when normally distributed and median ( range ) when not .
+RESULTS	Fructose increased area under the curve ( AUC ) from 0-5h of SBWC to 71 ( 23 ) l/min , significantly greater than for glucose at 36 ( 11-132 ) l/min ( P < 0.001 ) , whereas AUC SBWC after inulin , 33 ( 17-106 ) l/min , was no different from that after glucose .
+RESULTS	Adding glucose to fructose decreased AUC SBWC to 55 ( 28 ) l/min ( P = 0.08 ) vs. fructose .
+RESULTS	Inulin substantially increased AUC colonic gas to 33 ( 20 ) l/min , significantly greater than glucose and glucose + fructose ( both P < 0.05 ) .
+RESULTS	Breath H2 rose more with inulin than with fructose .
+RESULTS	Glucose when combined with fructose significantly reduced breath H2 by 7,700 ( 3,121-12 ,300 ) p.p.m. / min relative to fructose alone ( P < 0.01 , n = 13 ) .
+CONCLUSIONS	Fructose but not inulin distends the small bowel with water .
+CONCLUSIONS	Adding glucose to fructose reduces the effect of fructose on SBWC and breath hydrogen .
+CONCLUSIONS	Inulin distends the colon with gas more than fructose , but causes few symptoms in healthy volunteers .
+

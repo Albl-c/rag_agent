@@ -1,0 +1,12 @@
+25118967
+BACKGROUND	Rapid HIV testing in high-risk populations can increase the number of persons who learn their HIV status and avoid spending clinic resources to locate persons identified as HIV infected .
+METHODS	We determined the cost to sexually transmitted disease ( STD ) clinics of point-of-care rapid HIV testing using data from 7 public clinics that participated in a randomized trial of rapid testing with and without brief patient-centered risk reduction counseling in 2010 .
+METHODS	Costs included counselor and trainer time , supplies , and clinic overhead .
+METHODS	We applied national labor rates and test costs .
+METHODS	We calculated median clinic start-up costs and mean cost per patient tested , and projected incremental annual costs of implementing universal rapid HIV testing compared with current testing practices .
+RESULTS	Criteria for offering rapid HIV testing and methods for delivering nonrapid test results varied among clinics before the trial .
+RESULTS	Rapid HIV testing cost an average of US $ 22/patient without brief risk reduction counseling and US $ 46/patient with counseling in these 7 clinics .
+RESULTS	Median start-up costs per clinic were US $ 1100 and US $ 16,100 without and with counseling , respectively .
+RESULTS	Estimated incremental annual costs per clinic of implementing universal rapid HIV testing varied by whether or not brief counseling is conducted and by current clinic testing practices , ranging from a savings of US $ 19,500 to a cost of US $ 40,700 without counseling and a cost of US $ 98,000 to US $ 153,900 with counseling .
+CONCLUSIONS	Universal rapid HIV testing in STD clinics with same-day results can be implemented at relatively low cost to STD clinics , if brief risk reduction counseling is not offered .
+

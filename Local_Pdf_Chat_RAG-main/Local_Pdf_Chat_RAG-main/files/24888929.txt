@@ -1,0 +1,11 @@
+24888929
+OBJECTIVE	Oral feeding is likely to have an impact on early return of normal bowel function after uncomplicated surgery including cesarean section .
+OBJECTIVE	This study compared postoperative outcomes of early versus late oral feeding regimes after cesarean section .
+METHODS	In this clinical trial , 140 pregnant women who underwent elective cesarean section with regional anesthesia were randomized into two feeding groups .
+METHODS	In the early oral and delayed oral feeding groups , liquid diets were commenced 2 and 8 h after surgery , respectively .
+METHODS	Patients able to tolerate the liquid diet were then gradually introduced to the regular diet .
+METHODS	Main clinical outcomes included duration of hospital stay , time to return of normal bowel function and postoperative gastrointestinal complications .
+RESULTS	Time to return of bowel movement ( 7.8 2.9 vs 11.7 5 h , P < 0.0001 ) and time to mobilization ( 10.7 7.7 vs 13.5 5.9 h , P = 0.015 ) occurred significantly earlier in the early feeding group .
+CONCLUSIONS	Early oral feeding reduces the time required for return of normal bowel function .
+CONCLUSIONS	This is without significant detrimental effects on the incidence of gastrointestinal complications .
+

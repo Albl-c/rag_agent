@@ -1,0 +1,15 @@
+26072348
+OBJECTIVE	We sought to define normative visual field ( VF ) values for children using common clinical test protocols for kinetic and static perimetry .
+METHODS	Prospective , observational study .
+METHODS	We recruited 154 children aged 5 to 15 years without any ophthalmic condition that would affect the VF ( controls ) from pediatric clinics at Moorfields Eye Hospital .
+METHODS	Children performed perimetric assessments in a randomized order using Goldmann and Octopus kinetic perimetry , and Humphrey static perimetry ( Swedish Interactive Thresholding Algorithm [ SITA ] 24-2 FAST ) , in a single sitting , using standardized clinical protocols , with assessment by a single examiner .
+METHODS	Unreliable results ( assessed qualitatively ) were excluded from the normative data analysis .
+METHODS	Linear , piecewise , and quantile mixed-effects regression models were used .
+METHODS	We developed a method to display age-specific normative isopters graphically on a VF plot to aid interpretation .
+METHODS	Summary measures and graphical plots describing normative VF data for 3 common perimetric tests .
+RESULTS	Visual field area increased with age on testing with Goldmann isopters III4e , I4e , and I2e ( linear regression ; P < 0.001 ) and for Octopus isopters III4e and I4e ( linear regression ; P < 0.005 ) .
+RESULTS	Visual field development occurs predominately in the inferotemporal field .
+RESULTS	Humphrey mean deviation ( MD ) showed an increase of 0.3 decibels ( dB ; 95 % CI , 0.21-0 .40 ) MD per year up to 12 years of age , when adult MD values were reached and thereafter maintained .
+CONCLUSIONS	Visual field size and sensitivity increase with age in patterns that are specific to the perimetric approach used .
+CONCLUSIONS	These developmental changes should be accounted for when interpreting perimetric test results in children , particularly when monitoring change over time .
+

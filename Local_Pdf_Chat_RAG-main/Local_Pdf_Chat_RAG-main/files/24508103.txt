@@ -1,0 +1,20 @@
+24508103
+BACKGROUND	In the BRIM-3 trial , vemurafenib was associated with risk reduction versus dacarbazine of both death and progression in patients with advanced BRAF ( V600 ) mutation-positive melanoma .
+BACKGROUND	We present an extended follow-up analysis of the total population and in the BRAF ( V600E ) and BRAF ( V600K ) mutation subgroups .
+METHODS	Patients older than 18 years , with treatment-naive metastatic melanoma and whose tumour tissue was positive for BRAF ( V600 ) mutations were eligible .
+METHODS	Patients also had to have a life expectancy of at least 3 months , an Eastern Cooperative Oncology Group ( ECOG ) performance status of 0 or 1 , and adequate haematological , hepatic , and renal function .
+METHODS	Patients were randomly assigned by interactive voice recognition system to receive either vemurafenib ( 960 mg orally twice daily ) or dacarbazine ( 1000 mg/m ( 2 ) of body surface area intravenously every 3 weeks ) .
+METHODS	Coprimary endpoints were overall survival and progression-free survival , analysed in the intention-to-treat population ( n = 675 ) , with data censored at crossover .
+METHODS	A sensitivity analysis was done .
+METHODS	This trial is registered with ClinicalTrials.gov , NCT01006980 .
+RESULTS	675 eligible patients were enrolled from 104 centres in 12 countries between Jan 4 , 2010 , and Dec 16 , 2010.337 patients were randomly assigned to receive vemurafenib and 338 to receive dacarbazine .
+RESULTS	Median follow-up was 125 months ( IQR 77-160 ) on vemurafenib and 95 months ( 31-147 ) on dacarbazine .
+RESULTS	83 ( 25 % ) of the 338 patients initially randomly assigned to dacarbazine crossed over from dacarbazine to vemurafenib .
+RESULTS	Median overall survival was significantly longer in the vemurafenib group than in the dacarbazine group ( 136 months [ 95 % CI 120-152 ] vs 97 months [ 79-128 ] ; hazard ratio [ HR ] 070 [ 95 % CI 057-087 ] ; p = 00008 ) , as was median progression-free survival ( 69 months [ 95 % CI 61-70 ] vs 16 months [ 16-21 ] ; HR 038 [ 95 % CI 032-046 ] ; p < 00001 ) .
+RESULTS	For the 598 ( 91 % ) patients with BRAF ( V600E ) disease , median overall survival in the vemurafenib group was 133 months ( 95 % CI 119-149 ) compared with 100 months ( 80-140 ) in the dacarbazine group ( HR 075 [ 95 % CI 060-093 ] ; p = 00085 ) ; median progression-free survival was 69 months ( 95 % CI 62-70 ) and 16 months ( 16-21 ) , respectively ( HR 039 [ 95 % CI 033-047 ] ; p < 00001 ) .
+RESULTS	For the 57 ( 9 % ) patients with BRAF ( V600K ) disease , median overall survival in the vemurafenib group was 145 months ( 95 % CI 112-not estimable ) compared with 76 months ( 61-166 ) in the dacarbazine group ( HR 043 [ 95 % CI 021-090 ] ; p = 0024 ) ; median progression-free survival was 59 months ( 95 % CI 44-90 ) and 17 months ( 14-29 ) , respectively ( HR 030 [ 95 % CI 016-056 ] ; p < 00001 ) .
+RESULTS	The most frequent grade 3-4 events were cutaneous squamous-cell carcinoma ( 65 [ 19 % ] of 337 patients ) and keratoacanthomas ( 34 [ 10 % ] ) , rash ( 30 [ 9 % ] ) , and abnormal liver function tests ( 38 [ 11 % ] ) in the vemurafenib group and neutropenia ( 26 [ 9 % ] of 287 patients ) in the dacarbazine group .
+RESULTS	Eight ( 2 % ) patients in the vemurafenib group and seven ( 2 % ) in the dacarbazine group had grade 5 events .
+CONCLUSIONS	Inhibition of BRAF with vemurafenib improves survival in patients with the most common BRAF ( V600E ) mutation and in patients with the less common BRAF ( V600K ) mutation .
+BACKGROUND	F Hoffmann-La Roche-Genentech .
+

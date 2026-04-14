@@ -1,0 +1,19 @@
+24433609
+BACKGROUND	Despite the important role that health professionals have in reducing tobacco use , many have a smoking habit themselves .
+BACKGROUND	The prevalence of smoking is particularly high among nurses .
+OBJECTIVE	To test the efficacy , acceptability and feasibility of a motivational interviewing ( MI ) based smoking cessation intervention with nurses .
+METHODS	Two group parallel experimental design with random allocation to groups .
+METHODS	A large teaching hospital in the North of Spain .
+METHODS	Nurses who smoked ( n = 30 ) were randomised into two groups : motivational interviewing based intervention ( n = 15 ) and usual care ( n = 15 ) .
+METHODS	Motivational interviewing based intervention consisted of four individual MI sessions .
+METHODS	Usual care consisted of brief advice .
+METHODS	Variables considered to assess efficacy were biochemically verified smoking cessation , mean cigarettes smoked , stages of change , self-efficacy and depression score .
+METHODS	Variables to assess acceptability and feasibility included participant satisfaction , adherence to MI , and duration of sessions .
+METHODS	Data were collected at : baseline , end of intervention and three months after the end of the intervention .
+RESULTS	At three month follow up , compared with the control group , more nurses in the intervention group had quit ( absolute difference 33.3 % ; 95 % confidence interval [ CI ] 2.6-58 .2 ) .
+RESULTS	In the nurses who did not quit , there was no significant difference between the intervention and control groups in the number of cigarettes smoked per day , although progress in the stages of change was greater in the intervention group compared to the control group .
+RESULTS	Measures of acceptability and feasibility indicated good satisfaction with the intervention , with high levels of attendance and completion .
+CONCLUSIONS	This study found a beneficial effect of motivational interviewing on nurses ' smoking cessation .
+CONCLUSIONS	The intervention was acceptable for nurses and a number of aspects were identified that need to be considered prior to conducting a larger scale in order to optimise the intervention .
+CONCLUSIONS	Using MI might be a novel approach to the problem of health professionals who smoke .
+

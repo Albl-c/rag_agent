@@ -1,0 +1,15 @@
+24737198
+OBJECTIVE	We investigated the long-term effects of repetitive transcranial magnetic stimulation ( rTMS ) delivered to the temporoparietal junction and compared contralateral and ipsilateral application in patients with unilateral tinnitus .
+METHODS	Prospective study .
+METHODS	A total of 61 patients with asymmetric hearing loss and nonpulsatile chronic tinnitus localized to the poorer ear who were refractory to medical treatment were enrolled .
+METHODS	Patients were randomly assigned to one of two treatment groups : 1-Hz stimulation applied to the temporoparietal junction either ipsilaterally ( n = 30 ) or contralaterally ( n = 31 ) to the symptomatic ear .
+METHODS	Changes in the Tinnitus Handicap Inventory ( THI ) scores and self-rating visual analog scores ( VAS ) for loudness , awareness , and annoyance were analyzed before and after treatment for 6 months .
+METHODS	Improved patients were defined as those with decreases in their THI scores by > 10 points and 20 % .
+RESULTS	There were no major complications or worsening of hearing .
+RESULTS	When analyzing the THI scores and VAS pre-rTMS and 6 months after rTMS , significant decreases were observed in patients overall ( P < .001 ) .
+RESULTS	For the comparison of long-term outcomes between the ipsilateral and contralateral stimulation groups , there were no differences in the degree of decrease in THI scores or VAS ( P > .05 ) .
+RESULTS	In addition , there was no significant difference in the rate of patients who improved between the ipsilateral ( 14 of 30 ) and contralateral ( 16 of 31 ) stimulation groups ( P = .800 ) .
+RESULTS	The ipsilateral group showed a more rapid improvement than the contralateral group .
+CONCLUSIONS	Daily application of 1-Hz rTMS to the temporoparietal area is safe and has long-term beneficial effects .
+CONCLUSIONS	The laterality of stimulation is not the decisive factor .
+

@@ -1,0 +1,12 @@
+25046946
+OBJECTIVE	To study the efficacy of Xiaoyao Powder ( XYP ) combined with interferon alpha ( IFN-alpha ) in treating HBeAg positive chronic hepatitis B ( CHB ) patients and the effect on their quality of life ( QOL ) .
+METHODS	Totally 193 patients with HBeAg-positive CHB confirmed by liver biopsy were randomly assigned to 2 groups , Group A ( 94 cases ) and Group B ( 99 cases ) .
+METHODS	IFN-alpha1b was subcutaneously injected to patients in Group A at the dose of 50 microg , thrice per week .
+METHODS	Those in Group B additionally took XYP .
+METHODS	The therapeutic course for all was 24 weeks .
+METHODS	Clinical efficacy was observed by assessing ALT restoration rate , HBeAg negative rate , HBeAg conversion rate , HBV DNA negative rate , complete response rate , partial response rate , and symptoms integral .
+METHODS	The evaluation of QOL was performed by using chronic liver disease questionnaire ( CLDQ ) score .
+METHODS	Adverse reaction occurrence rate was observed in the two groups .
+RESULTS	Better effects were obtained in Group A on ALT restoration rate , HBeAg negative rate , HBV DNA negative rate , complete response rate , partial response rate , TCM symptoms integral , the total effective rate of TCM sysmptoms , CLDQ score , and adverse reaction rates , showing statistical difference when compared with Group B ( P < 0.05 , P < 0.01 ) .
+CONCLUSIONS	XYP could elevate the efficacy of TCM symptoms of HBeAg-positive CHB patients and anti-viral effect , improve their QOL , and reduce adverse reaction of IFN-alpha .
+

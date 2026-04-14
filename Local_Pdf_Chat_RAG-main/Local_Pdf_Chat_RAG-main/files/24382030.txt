@@ -1,0 +1,16 @@
+24382030
+BACKGROUND	Obstructive sleep apnea ( OSA ) and hypertension are well-known cardiovascular risk factors .
+BACKGROUND	Their control could reduce the burden of heart disease across populations .
+BACKGROUND	Several drugs are used to control hypertension , but the only consistently effective treatment of OSA is continuous positive airway pressure .
+BACKGROUND	The identification of a drug capable of improving OSA and hypertension simultaneously would provide a novel approach in the treatment of both diseases .
+METHODS	This is a randomized double-blind clinical trial , comparing the use of chlorthalidone with amiloride versus amlodipine as a first drug option in patients older than 40 years of age with stage I hypertension ( 140 to 159/90 to 99mmHg ) and moderate OSA ( 15 to 30 apneas/hour of sleep ) .
+METHODS	The primary outcomes are the variation of the number of apneas per hour and blood pressure measured by ambulatory blood pressure monitoring .
+METHODS	The secondary outcomes are adverse events , somnolence scale ( Epworth ) , ventilatory parameters and C reactive protein levels .
+METHODS	The follow-up will last 8 weeks .
+METHODS	There will be 29 participants per group .
+METHODS	The project has been approved by the ethics committee of our institution .
+CONCLUSIONS	The role of fluid retention in OSA has been known for several decades .
+CONCLUSIONS	The use of diuretics are well established in treating hypertension but have never been appropriately tested for sleep apnea .
+CONCLUSIONS	As well as testing the efficacy of these drugs , this study will help to understand the mechanisms that link hypertension and sleep apnea and their treatment .
+BACKGROUND	ClinicalTrials.gov : NCT01896661 .
+

@@ -1,0 +1,13 @@
+24256139
+BACKGROUND	The currently proven time window for thrombolysis in ischemic stroke is 4.5 h. Beyond this , the risks and benefits of thrombolysis are uncertain .
+OBJECTIVE	To determine whether thrombolysis and reperfusion were beneficial after 4.5 h , we examined clinical and radiological outcomes in patients treated with tissue plasminogen activator or placebo within 4.5-6h , using data from the Echoplanar Imaging Thrombolytic Evaluation Trial .
+METHODS	In the Echoplanar Imaging Thrombolytic Evaluation Trial , ischemic stroke patients presenting three to six-hours after stroke onset were randomized to tissue plasminogen activator or placebo , without knowledge of magnetic resonance imaging results .
+METHODS	This analysis was restricted to patients treated between 4.5 and 6h .
+METHODS	The effect of tissue plasminogen activator and reperfusion on infarct growth between baseline diffusion-weighted imaging and day 90 T2 imaging was assessed , along with good neurological outcome ( 8 point reduction or reaching 0-1 at 90 days on National Institutes of Health Stroke Scale ) and functional outcome ( modified Rankin scale ) .
+METHODS	The effect of tissue plasminogen activator on reperfusion was also analyzed .
+RESULTS	Sixty-nine patients were treated 4.5-6h after onset , and infarct growth was assessed in 63 .
+RESULTS	Tissue plasminogen activator was associated with lower relative growth ( 94 % vs. 168 % , P = 0.03 ) and a trend to lower absolute growth ( -0.17 ml versus 9.6 ml , P = 0.07 ) .
+RESULTS	Reperfusion was increased in the tissue plasminogen activator group ( 58 % versus 25 % , P = 0.03 ) and was associated with increased rates of good neurological ( 86 % versus 28 % P < 0.001 ) and functional ( modified Rankin scale 0-2 73 % versus 34 % , P = 0.01 ) outcomes .
+RESULTS	Reperfusion was strongly associated with lower relative ( 80 % versus 189 % , P < 0.001 ) and absolute ( -2.5 ml versus 40ml , P < 0.001 ) infarct growth .
+CONCLUSIONS	Thrombolysis 4.5-6h after stroke onset reduced infarct growth and increased the rate of reperfusion , which was associated with good neurological and functional outcome .
+

@@ -1,0 +1,9 @@
+24385637
+OBJECTIVE	The present study examined health and physical performance as mediators of the association between driving cessation and mortality among older residents of small and large cities .
+METHODS	Participants ( N = 2,793 ) were from the Advanced Cognitive Training for Independent and Vital Elderly ( ACTIVE ) study .
+METHODS	Participants ' driving status and health were measured at baseline , and mortality rates were observed across the subsequent 5 years .
+RESULTS	Overall , mortality risk was 1.68 times higher for nondrivers versus drivers ; this relationship was significantly mediated by physical performance and social , physical , and general health .
+RESULTS	For large-city residents , mediation effects for all mediators were significant and complete .
+RESULTS	For small-city residents , only physical and general health were significant mediators , and these effects were partial .
+CONCLUSIONS	Health difficulties that accompany or follow driving cessation may explain the association between driving cessation and mortality , particularly for residents of large cities , where alternative transportation options may be more numerous .
+

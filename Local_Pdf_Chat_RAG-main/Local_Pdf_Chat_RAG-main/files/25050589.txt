@@ -1,0 +1,16 @@
+25050589
+OBJECTIVE	NSAIDs , such as diclofenac , are the most commonly used medications to treat osteoarthritis ( OA ) , but they are associated with dose-related adverse events ( AEs ) .
+OBJECTIVE	Low-dose submicron diclofenac was developed using a new , proprietary dry milling process that creates submicron drug particles ( SoluMatrix Fine Particle Technology * ) , enabling effective treatment at lower doses than other commercially available diclofenac drug products .
+OBJECTIVE	This phase 3 study evaluated the efficacy and safety of low-dose submicron diclofenac 35mg three times daily ( tid ) and twice daily ( bid ) in patients with OA pain .
+METHODS	This double-blind study enrolled patients 40 years of age with clinically and radiographically confirmed ( Kellgren-Lawrence grade II-III ) hip or knee OA .
+METHODS	Eligible patients were chronic NSAID and/or acetaminophen ( APAP ) users with baseline Western Ontario and McMasters Universities Osteoarthritis Index ( WOMAC ) pain subscale scores 40mm by visual analog scale and an OA flare ( 15mm increase in WOMAC pain subscale score following discontinuation of NSAIDs/APAP at screening ) .
+METHODS	Patients were randomized to submicron diclofenac 35mg tid , submicron diclofenac 35mg bid , or placebo for 12 weeks .
+METHODS	ClinicalTrials.gov identifier : NCT01461369 .
+METHODS	Efficacy parameters included mean change from baseline in WOMAC pain subscale score at week 12 ( primary efficacy parameter ) and in average total WOMAC score over 12 weeks .
+RESULTS	Submicron diclofenac 35mg tid significantly improved WOMAC pain subscale scores from baseline at 12 weeks ( -44.1 ; p = 0.0024 ) compared with placebo ( -32.5 ) .
+RESULTS	Submicron diclofenac 35mg bid provided numerical improvement in pain at week 12 that did not reach statistical significance ( -39.0 ; p = 0.0795 ) compared with placebo .
+RESULTS	Submicron diclofenac 35mg tid ( -35.9 ; p = 0.0002 ) and 35mg bid ( -30.3 ; p = 0.0363 ) improved the average total WOMAC score in treated patients over 12 weeks compared with placebo ( -23.2 ) .
+RESULTS	The most frequent AEs in the submicron diclofenac-treated groups were diarrhea , headache , nausea , and constipation .
+RESULTS	The inclusion of patients with a documented requirement for analgesic therapy ( OA ` flare ' ) at baseline and the high rates of rescue medication usage in the placebo group may have impacted the study outcome for the submicron diclofenac treatment groups .
+CONCLUSIONS	Low-dose submicron diclofenac is an effective therapeutic option for the treatment of OA pain .
+

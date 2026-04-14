@@ -1,0 +1,20 @@
+25807399
+BACKGROUND	Optimal resuscitation of hypotensive trauma patients has not been defined .
+BACKGROUND	This trial was performed to assess the feasibility and safety of controlled resuscitation ( CR ) versus standard resuscitation ( SR ) in hypotensive trauma patients .
+METHODS	Patients were enrolled and randomized in the out-of-hospital setting .
+METHODS	Nineteen emergency medical services ( EMS ) systems in the Resuscitation Outcome Consortium participated .
+METHODS	Eligible patients had an out-of-hospital systolic blood pressure ( SBP ) of 90 mm Hg or lower .
+METHODS	CR patients received 250 mL of fluid if they had no radial pulse or an SBP lower than 70 mm Hg and additional 250-mL boluses to maintain a radial pulse or an SBP of 70 mm Hg or greater .
+METHODS	The SR group patients received 2 L initially and additional fluid as needed to maintain an SBP of 110 mm Hg or greater .
+METHODS	The crystalloid protocol was maintained until hemorrhage control or 2 hours after hospital arrival .
+RESULTS	A total of 192 patients were randomized ( 97 CR and 95 SR ) .
+RESULTS	The CR and SR groups were similar at baseline .
+RESULTS	The mean ( SD ) crystalloid volume administered during the study period was 1.0 L ( 1.5 ) in the CR group and 2.0 L ( 1.4 ) in the SR group , a difference of 1.0 L ( 95 % confidence interval [ CI ] , 0.6-1 .4 ) .
+RESULTS	Intensive care unit-free days , ventilator-free days , renal injury , and renal failure did not differ between the groups .
+RESULTS	At 24 hours after admission , there were 5 deaths ( 5 % ) in the CR group and 14 ( 15 % ) in the SR group ( adjusted odds ratio , 0.39 ; 95 % CI , 0.12-1 .26 ) .
+RESULTS	Among patients with blunt trauma , 24-hour mortality was 3 % ( CR ) and 18 % ( SR ) with an adjusted odds ratio of 0.17 ( 0.03-0 .92 ) .
+RESULTS	There was no difference among patients with penetrating trauma ( 9 % vs. 9 % ; adjusted odds ratio , 1.93 ; 95 % CI , 0.19-19 .17 ) .
+CONCLUSIONS	CR is achievable in out-of-hospital and hospital settings and may offer an early survival advantage in blunt trauma .
+CONCLUSIONS	A large-scale , Phase III trial to examine its effects on survival and other clinical outcomes is warranted .
+METHODS	Therapeutic study , level I.
+

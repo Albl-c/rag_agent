@@ -1,0 +1,14 @@
+25077420
+BACKGROUND	Neisseria meningitidis serogroup B ( MnB ) is a major cause of invasive meningococcal disease in infants .
+BACKGROUND	A conserved , surface-exposed lipoprotein , LP2086 ( a factor H-binding protein [ fHBP ] ) , is a promising MnB vaccine target .
+BACKGROUND	A bivalent , recombinant vaccine targeting the fHBP ( rLP2086 ) of MnB was developed .
+METHODS	This phase 1/2 clinical study was designed to assess the immunogenicity , safety , and tolerability of a 4-dose series of the rLP2086 vaccine at 20 - , 60 - , 120 - , or 200-g dose levels in vaccine-naive infants when given with routine childhood vaccines .
+METHODS	The study was to consist of two phases : a single-blind sentinel phase and an open-label full enrollment phase .
+METHODS	During the sentinel phase , randomization of subjects to the next higher dose was delayed pending a 14-day safety review of dose 1 of the preceding dose cohort .
+METHODS	The full enrollment phase was to occur after completion of the sentinel phase .
+RESULTS	Local reactions were generally mild and adverse events infrequent ; however , after only 46 infants were randomized into the study , fever rates were 64 % and 90 % in subjects receiving one 20 - or 60-g rLP2086 dose , respectively .
+RESULTS	Most fevers were < 39.0 C. Only 2 subjects in the 20-g group and 1 subject in the 60-g group experienced fevers > 39.0 C ; no fevers were > 40.0 C. Due to these high fever rates , the study was terminated early .
+RESULTS	No immunogenicity data were collected .
+RESULTS	This report discusses the safety and acceptability of rLP2086 in infants after one 20 - or 60-g dose .
+CONCLUSIONS	Due to the high fever rate experienced in the 20 - and 60-g groups , rLP2086 in the current formulation may not be acceptable for infants .
+

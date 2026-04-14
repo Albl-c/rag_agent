@@ -1,0 +1,16 @@
+24318410
+BACKGROUND	Acute appendicitis is the most common reason for abdominal surgery in young adults and children .
+BACKGROUND	Open appendectomy is still the treatment often chosen because it is simple , safe , and effective .
+BACKGROUND	Our aim was to study whether cosmetic results of appendectomy wounds are better after using continuous absorbable intradermal ( A ) sutures compared with wound closure with interrupted nonabsorbable ( NA ) sutures .
+METHODS	A total of 206 adult patients with clinically suspected appendicitis were allocated to the study and prospectively randomized into two wound-closure groups : the interrupted NA suture group and the A suture group .
+METHODS	Of these , 193 patients with sufficient data were invited to the outpatient clinic for cosmetic analysis .
+METHODS	Cosmetic results were evaluated after a median of 14 months .
+METHODS	For subjective scar assessment , the Vancouver scar scale , the patient and observer scar assessment scale ( POSAS ) , and a visual analog scale ( VAS ) were used .
+METHODS	Objective evaluation was carried out by measuring surface area , average width , and estimated concentration change ( ECC ) of hemoglobin and melanin in the scar using spectrocutometry .
+METHODS	For statistical analyses we used the Mann-Whitney test and Student 's t test .
+RESULTS	Both objective and subjective analyses showed better cosmetic results for absorbable intradermal suturing .
+RESULTS	The difference between the two groups was statistically significant as regards POSAS in both patient ( p = 0.032 ) and observer scales ( p = 0.001 ) , and VAS ( p = 0.002 ) .
+RESULTS	Scar surface area was significantly smaller in group A than in group NA ( p = 0.002 ) .
+RESULTS	ECC measurements showed higher values for melanin in group NA than in group A ( p = 0.034 ) .
+CONCLUSIONS	Continuous intradermal absorbable suturing yields a better cosmetic result than interrupted nonabsorbable suturing in lower abdominal transverse appendectomy .
+

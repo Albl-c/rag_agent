@@ -1,0 +1,17 @@
+25115430
+OBJECTIVE	To evaluate effects of preoperative high-dose glucocorticoid on the inflammatory response and recovery after endovascular aortic aneurysm repair ( EVAR ) .
+BACKGROUND	The postimplantation syndrome after EVAR may delay recovery due to the release of proinflammatory mediators .
+BACKGROUND	Glucocorticoids may reduce postoperative inflammatory responses and enhance recovery , but with limited information on EVAR .
+METHODS	A single-center , randomized , double-blind , placebo-controlled trial of 153 patients undergoing elective EVAR between November 2009 and January 2013 .
+METHODS	Patients received 30 mg/kg of methylprednisolone ( MP ) ( n = 77 ) or placebo ( n = 76 ) preoperatively .
+METHODS	Primary outcome was a modified version of the systemic inflammatory response syndrome .
+METHODS	Secondary outcome measures were the effect on inflammatory biomarkers , morbidity , and time to meet discharge criteria .
+RESULTS	Of 153 randomized patients , 150 ( 98 % ) were evaluated for the primary outcome .
+RESULTS	MP reduced systemic inflammatory response syndrome from 92 % to 27 % ( P < 0.0001 ) ( number needed to treat = 1.5 ) , maximal plasma interleukin 6 from 186 pg/mL [ interquartile range ( IQR ) = 113-261 pg/mL ] to 20 pg/mL ( IQR = 11-28 pg/mL ) ( P < 0.001 ) and fulfillment of discharge criteria was shorter [ 2 days ( IQR = 2-4 days ) vs 3 days ( IQR = 3-4 days ) ] ( P < 0.001 ) .
+RESULTS	C-reactive protein , temperature , interleukin 8 , and soluble tumor necrosis factor receptor were also reduced ( P < 0.001 ) by MP .
+RESULTS	Myeloperoxidase , D-dimer , and matrix metalloproteinase 9 were not modified .
+RESULTS	No differences in 30-day medical ( 23 % vs 36 % ) ( P = 0.1 ) or surgical ( 20 % vs 21 % ) morbidity were found in the active group versus the placebo group .
+CONCLUSIONS	Preoperative MP attenuates the inflammatory response with a faster recovery after EVAR for abdominal aortic aneurysms .
+CONCLUSIONS	Further safety and dose-response studies are required to allow recommendations for general practice .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00989729 .
+

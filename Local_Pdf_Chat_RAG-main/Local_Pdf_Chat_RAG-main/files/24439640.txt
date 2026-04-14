@@ -1,0 +1,13 @@
+24439640
+OBJECTIVE	To examine the effects of Reiki as an adjuvant therapy to opioid therapy for postoperative pain control in pediatric patients .
+METHODS	This was a double-blind , randomized controlled study of children undergoing dental procedures .
+METHODS	Participants were randomly assigned to receive either Reiki therapy or the control therapy ( sham Reiki ) preoperatively .
+METHODS	Postoperative pain scores , opioid requirements , and side effects were assessed .
+METHODS	Family members were also asked about perioperative care satisfaction .
+METHODS	Multiple linear regressions were used for analysis .
+RESULTS	Thirty-eight children participated .
+RESULTS	The blinding procedure was successful .
+RESULTS	No statistically significant difference was observed between groups on all outcome measures .
+CONCLUSIONS	Our study provides a successful example of a blinding procedure for Reiki therapy among children in the perioperative period .
+CONCLUSIONS	This study does not support the effectiveness of Reiki as an adjuvant therapy to opioid therapy for postoperative pain control in pediatric patients .
+

@@ -1,0 +1,12 @@
+24550580
+OBJECTIVE	To compare the effectiveness and safety of add on therapy of bromocriptine with metformin in type 2 diabetes mellitus ( DM ) patients .
+METHODS	Adult type 2 DM patients fulfilling the inclusion criteria were randomized in three groups .
+METHODS	Group A received metformin ( 1000 mg / day ) , while group B patients were treated with metformin ( 1000 mg/day ) plus bromocriptine ( 0.8 mg/day ) and group C received metformin ( 1000 mg/day ) plus bromocriptine ( 1.6 mg/day ) for 12 weeks .
+METHODS	Fasting plasma glucose ( FPG ) , postprandial plasma glucose ( PPPG ) , and body weight were measured at week 4 , 8 , and 12 visits and glycosylated hemoglobin ( HbA ( 1C ) ) at week 12 visit .
+RESULTS	Metformin alone and in combination with bromocriptine in escalating dose ( 0.8 mg/day and 1.6 mg/day ) significantly ( P < 0.05 ) decreased FPG and PPPG levels at weeks 4 , 8 , and 12 compared with pretreatment values .
+RESULTS	HbA ( 1C ) level in all three treatment groups significantly ( P < 0.05 ) decreased at week 12 as compared with pretreatment baseline value .
+RESULTS	HbA1C level in groups B and C significantly ( P < 0.05 ) decreased as compared with group A at week 12 .
+RESULTS	Addition of bromocriptine to metformin also significantly ( P < 0.05 ) decreased FPG and PPPG levels in a dose-dependent manner as compared with metformin alone .
+RESULTS	Intergroup analysis did not show any statistically significant change in weight of study subjects at different intervals .
+CONCLUSIONS	The combination of bromocriptine with metformin significantly decreased FPG , PPPG , and HbA1C compared with metformin alone in type 2 DM patients in a dose-dependent manner .
+

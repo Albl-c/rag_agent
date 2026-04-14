@@ -1,0 +1,11 @@
+24395492
+BACKGROUND	Charcot-Marie-Tooth ( CMT ) disease type 1A is the most common form of CMT .
+BACKGROUND	The main clinical features are distal weakness , sensory loss , and skeletal deformities .
+BACKGROUND	Although pain is a frequent complaint , small fiber involvement in CMT1A has not been studied extensively .
+METHODS	We assessed pain and small fiber involvement in 49 CMT1A patients using a variety of pain scales , pain questionnaires , and thermal thresholds .
+RESULTS	Forty-three of 49 patients ( 88 % ) complained of pain .
+RESULTS	The pain was localized to the feet in 61 % of patients .
+RESULTS	Only 18 % of patients had neuropathic pain .
+RESULTS	Cold and warm detection thresholds were elevated in 53 % and 12 % of patients , respectively .
+CONCLUSIONS	Our findings confirm that CMT1A patients have significant pain , which is more likely to be multifactorial in origin and suggests that a proportion of patients have small fiber dysfunction affecting mainly thinly myelinated A fibers .
+

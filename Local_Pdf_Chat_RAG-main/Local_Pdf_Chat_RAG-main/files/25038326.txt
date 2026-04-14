@@ -1,0 +1,13 @@
+25038326
+OBJECTIVE	To assess the safety and efficacy of dendritic cell vaccination in metastatic uveal melanoma .
+METHODS	Interventional case series .
+METHODS	We analyzed 14 patients with metastatic uveal melanoma treated with dendritic cell vaccination .
+METHODS	Patients with metastatic uveal melanoma received at least 3 vaccinations with autologous dendritic cells , professional antigen-presenting cells loaded with melanoma antigens gp100 and tyrosinase .
+METHODS	The main outcome measures were safety , immunologic response , and overall survival .
+RESULTS	Tumor-specific immune responses were induced with dendritic cell vaccination in 4 ( 29 % ) of 14 patients .
+RESULTS	Dendritic cell-vaccinated patients showed a median overall survival with metastatic disease of 19.2 months , relatively long compared with that reported in the literature .
+RESULTS	No severe treatment-related toxicities ( common toxicity criteria grade 3 or 4 ) were observed .
+CONCLUSIONS	Dendritic cell vaccination is feasible and safe in metastatic uveal melanoma .
+CONCLUSIONS	Dendritic cell-based immunotherapy is potent to enhance the host 's antitumor immunity against uveal melanoma in approximately one third of patients .
+CONCLUSIONS	Compared with other prospective studies with similar inclusion criteria , dendritic cell vaccination may be associated with longer than average overall survival in patients with metastatic uveal melanoma .
+

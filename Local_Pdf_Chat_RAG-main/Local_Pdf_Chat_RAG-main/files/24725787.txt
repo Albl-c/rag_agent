@@ -1,0 +1,10 @@
+24725787
+OBJECTIVE	To determine inter-rater reliability in identifying a knee extension lag using the sitting active and prone passive lag test ( SAPLT ) .
+METHODS	56 patients with a diagnosis of knee pain were randomly assigned and independently examined by two physical therapists at a time , to determine the presence of an active or a passive extension lag at the knee .
+METHODS	An active lag was determined by the inability of the erectly seated subject to actively extend the involved knee in maximal dorsiflexion of the ankle to the same level as the normal knee held in maximal extension and ankle in maximal dorsiflexion , as seen by the levels of the toes .
+METHODS	A passive lag was determined by placing the subject prone with the knees just past the edge of the table and determining the high position of the heel in a fully resting extension position compared to the heel on the normal side .
+RESULTS	For the sitting active lag test , the inter-rater reliability was ` good ' ( Kappa 0.792 , SE of kappa 0.115 , 95 % confidence interval ) .
+RESULTS	For the prone passive lag test , the inter-rater reliability was ` good ' ( Kappa 0.636 , SE of kappa 0.136 , 95 % confidence interval ) .
+CONCLUSIONS	The SAPLT may be incorporated as a simple yet effective test to determine the presence of a knee extension lag .
+CONCLUSIONS	It identifies the type of restraint , active , passive or both , and is suggestive of the most appropriate management .
+

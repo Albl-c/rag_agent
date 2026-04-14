@@ -1,0 +1,12 @@
+24524806
+OBJECTIVE	The PDY6797 study evaluated efficacy , safety and pharmacodynamics of lixisenatide in Japanese and Caucasian patients with type 2 diabetes mellitus ( T2DM ) insufficiently controlled with sulphonylureas with/without metformin .
+METHODS	This randomized , double-blind , placebo-controlled trial comprised a single-dose assessment of lixisenatide 5 and 10g , and a 5 - to 6-week repeated dose-escalation assessment of lixisenatide 5 to 30g once ( QD ) or twice daily ( BID ) .
+METHODS	The primary endpoint was change in postprandial plasma glucose ( PPG ) area under the curve ( AUC ) [ 0:29 -4:30 h ] after a standardized breakfast at the highest tolerated lixisenatide dose .
+METHODS	Change from baseline in glycated haemoglobin ( HbA1c ) , 2-h PPG and fasting plasma glucose ( FPG ) were assessed , as were adverse events .
+RESULTS	Change from baseline in PPG AUC [ 0:29 -4:30 h ] with lixisenatide QD and BID was significantly greater than placebo ( p < 0.0001 for all study populations ) , with particularly prominent effects in Japanese patients .
+RESULTS	Greater reductions in PPG AUC [ 0:29 -4:30 h ] were seen with lixisenatide QD versus BID , while the totality of evidence suggested that the lixisenatide 20g dose was optimal .
+RESULTS	In the overall population , changes from baseline for 2-h PPG , HbA1c and FPG were significant with lixisenatide QD and BID versus placebo ( p < 0.01 for all ) .
+RESULTS	Lixisenatide was well tolerated .
+CONCLUSIONS	Lixisenatide significantly reduced PPG AUC [ 0:29 -4:30 h ] versus placebo at the highest well-tolerated dose in patients with T2DM treated with sulphonylureas with/without metformin and had a good safety and tolerability profile .
+CONCLUSIONS	Japanese patients experienced particular benefits with lixisenatide in terms of reductions in PPG excursions .
+

@@ -1,0 +1,12 @@
+25079934
+OBJECTIVE	To determine the effectiveness of a single perioperative prophylactic 2g dose of cephalexin in preventing surgical site infection ( SSI ) following excision of skin lesions from the lower limb .
+METHODS	Prospective double-blinded placebo-controlled trial testing for difference in infection rates .
+METHODS	Primary care in regional North Queensland , Australia .
+METHODS	52 patients undergoing lower limb skin lesion excision .
+METHODS	2g dose of cephalexin 30-60min before excision .
+METHODS	Incidence of SSI .
+RESULTS	Incidence of SSI was 12.5 % ( 95 % CI 2.7 % to 32.4 % ) in the cephalexin group compared with 35.7 % ( 95 % CI 18.6 % to 55.9 % ) in the placebo group ( p = 0.064 ) .
+RESULTS	This represented an absolute reduction of 23.21 % ( 95 % CI -0.39 % to 46.82 % ) , relative reduction of 65.00 % ( 95 % CI -12.70 % to 89.13 % ) and number-needed-to-treat of 4.3 .
+CONCLUSIONS	Administration of a single 2g dose of cephalexin 30-60min before skin lesion excision from the lower limb may produce a reduction in the incidence of infection ; however , this study was underpowered to statistically determine this .
+BACKGROUND	ACTRN12611000595910 .
+

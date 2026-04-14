@@ -1,0 +1,19 @@
+24461364
+OBJECTIVE	The present study is a comparison of two point-of-care ( POC ) tests as endpoints of protamine titration after CPB .
+OBJECTIVE	The authors hypothesized that using the heparinase-kaolin thromboelastography ( TEG-HK ) R-time difference would more readily identify residual heparin necessitating additional protamine than when using activated coagulation time ( ACT ) .
+OBJECTIVE	The primary endpoint was the between-group difference in protamine dose .
+OBJECTIVE	Whether this approach would lessen postoperative bleeding and sequelae also was investigated .
+METHODS	Single center , blinded , prospective , randomized study .
+METHODS	University teaching hospital .
+METHODS	Eighty-two adult patients for on-pump coronary artery bypass and/or valve surgery .
+METHODS	Patients were randomized .
+METHODS	In the ACT group , protamine was titrated until ACT did not exceed baseline by more than 10 % .
+METHODS	In the TEG group , a TEG-HK R-time difference less than 20 % was targeted .
+METHODS	Protamine was repeated to achieve the endpoints .
+METHODS	Clinicians in the ACT group were blinded to TEG data and vice versa .
+RESULTS	There was no between-group difference in total protamine dose ( 3.9 0.6 and 4.2 0.7 ; 95 % CI of the difference between means : -0.544 to 0.008 mg/kg ; p = 0.057 ) or protamine : heparin ratios ( 1.3:1 and 1.4:1 ; 95 % CI of the difference between means : -0.05 to 0.03 mg/mg ; p = 0.653 ) .
+RESULTS	In the ACT group , 17 % of patients required a second protamine dose , and in the TEG group , 24 % of patients required a second protamine dose .
+RESULTS	No between-group differences in the postoperative transfusion requirements or intensive care unit length of stay were demonstrated .
+CONCLUSIONS	No difference was identified in protamine dosing using either ACT or TEG-HK R-time difference as endpoints .
+CONCLUSIONS	Heparinase TEG may be useful for monitoring heparin reversal .
+

@@ -1,0 +1,18 @@
+24269603
+OBJECTIVE	To assess post-operative pain in patients who underwent arthroscopic anterior cruciate ligament ( ACL ) reconstruction by the all-inside technique .
+METHODS	A prospective randomized comparative parallel trial was performed in 2010-2011 including all patients who underwent an ACL reconstruction in an orthopaedic department in accordance with the CONSORT statement 2010 .
+METHODS	Patients were randomized to the surgical procedure , all-inside or classical , and were blinded to the surgical technique .
+METHODS	Primary evaluation criterion was pain assessed on the Visual Analogical Scale 1 month after surgery .
+METHODS	Secondary parameters were analgesic consumption , tunnel positioning on X-ray according to Aglietti 's criteria and functional evaluation at six months with IKDC score .
+METHODS	None of the patients was lost to follow-up .
+RESULTS	46 consecutive patients were included , 23 in each group , mean age 29.39 years .
+RESULTS	Two patients were excluded due to postoperative complications that required early revision surgery .
+RESULTS	Forty-four patients were analyzed , 22 in each group .
+RESULTS	At one month , the pain level was 3.25.5 for the all-inside group and 8.610 for the classical group , p = 0.057 ( 95 % CI 0.5-10 .4 ) .
+RESULTS	Postoperative analgesic consumption was similar .
+RESULTS	The position of the tibial tunnels was better with the all-inside method , p = 0.002 ( 95 % CI 1.9-6 .6 % ) .
+RESULTS	There was no significant difference in the mean IKDC subjective score at six months , p = 0.92 ( 95 % CI-9 .7 to 9.2 ) .
+CONCLUSIONS	At one month , the pain level seemed lower in the all-inside group than in the classical group , at the limit of statistical significance because the study was underpowered .
+CONCLUSIONS	The all-inside technique is a reliable procedure with very good results for pain , stability and knee function .
+METHODS	I ; Therapeutic study .
+

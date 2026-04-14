@@ -1,0 +1,12 @@
+24582119
+OBJECTIVE	To determine clinical and demographic characteristics associated with antimuscarinic treatment response using a regression model .
+METHODS	Adults with overactive bladder ( OAB ) symptoms for > 3 months and 1 urgency urinary incontinence ( UUI ) episode and 8 micturitions per 24 hours at baseline were randomized to fesoterodine ( 8 mg ) , tolterodine extended-release ( 4 mg ) , or placebo in two 12-week , double-blind , head-to-head studies .
+METHODS	Fesoterodine-treated patients received 4 mg/d during the first week and 8 mg/d thereafter .
+METHODS	Patients completed 3-day bladder diaries and the Overactive Bladder Questionnaire at baseline and week 12 .
+METHODS	Pooled data for changes from baseline to week 12 in winsorized UUI episodes , micturitions , and urgency episodes per 24 hours and Overactive Bladder Questionnaire Symptom Bother and health-related quality of life scores were analyzed posthoc using a regression model that selects outcome predictors from baseline values and patient characteristics while retaining baseline values and treatment , with stepwise inclusion of significant covariates and assessment of treatment interactions .
+METHODS	Logistic regression was used for analysis of diary-dry rates .
+RESULTS	Younger age , lack of previous antimuscarinic treatment , shorter duration of OAB diagnosis , and female gender were common predictors of larger changes in outcomes from baseline to week 12 .
+RESULTS	Baseline measures often interacted with treatment , such that poorer baseline outcomes were predictive of larger treatment differences .
+RESULTS	Longer duration since OAB diagnosis predicted greater treatment differences for UUI episodes and in diary-dry rate , and increased age predicted greater treatment differences for micturitions .
+CONCLUSIONS	Symptom severity and duration , age , gender , and previous antimuscarinic pharmacotherapy impact the response to antimuscarinic treatment .
+

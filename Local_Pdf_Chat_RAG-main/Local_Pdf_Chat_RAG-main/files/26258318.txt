@@ -1,0 +1,17 @@
+26258318
+OBJECTIVE	To compare with antibiotics with methicillin-resistant microbial coverage in a prospective fashion .
+BACKGROUND	Current antibiotic prophylaxis for vascular procedures includes a first generation cephalosporin .
+BACKGROUND	No changes in recommendations have occurred despite changes in reports of incidence of MRSA related surgical site infections .
+BACKGROUND	Does supplemental anti-MRSA prophylactic coverage provide a significant reduction in Gram-positive or MRSA infections ?
+METHODS	Single center prospective double blinded randomized study of patients undergoing lower extremity vascular procedures from 2011 to 2014 .
+METHODS	One hundred seventy-eight ( 178 ) patients were evaluated at 90 days for surgical site infection .
+METHODS	Infections were categorized as early infections less than 30 days of the index procedure and late after 90 days .
+RESULTS	Early vascular surgical site infection occurred in 7 ( 8.24 % ) of patients in the Vancomycin arm , and 11 ( 11.83 % ) in the Daptomycin arm ( P = 0.43 ) .
+RESULTS	Gram-positive related infections and MRSA infections occurred in 1 ( 1.18 % ) / 0 ( 0 % ) of Vancomycin patients and 9 ( 9.68 % ) / 1 ( 1.08 % ) of Daptomycin patients , respectively ( P < 0.02 and P = 1.00 ) .
+RESULTS	Readmissions related to surgical site infections occurred in 4 ( 4.71 % ) in the Vancomycin group and 11 ( 11.8 % ) in the Daptomycin group ( P = 0.11 ) .
+RESULTS	Patients undergoing operative exploration occurred in 5 ( 5.88 % ) in the Vancomycin group and 10 ( 10.75 % ) of the Daptomycin group ( P = 0.17 ) .
+RESULTS	Late infections were reported in 3 patients , 2 of which were in the combined Daptomycin group .
+RESULTS	Median hospital charges related to readmissions due to a surgical site infection was $ 50,823 in the combination Vancomycin arm and $ 110,920 in the combination Daptomycin group ; however , no statistical significance was appreciated ( P = 0.11 ) .
+CONCLUSIONS	Vancomycin supplemental prophylaxis seems to reduce the incidence of Gram-positive infection compared with adding supplemental Daptomycin prophylaxis .
+CONCLUSIONS	The Incidence of MRSA-related surgical site infections is low with the addition of either anti-MRSA agents compared with historical incidence of MRSA-related infection .
+

@@ -1,0 +1,14 @@
+24491463
+BACKGROUND	It remains to be determined if perioperative systemic magnesium can improve postoperative quality of recovery of patients undergoing ambulatory procedures .
+BACKGROUND	The main objective of the current investigation was to evaluate the effect of systemic magnesium on postoperative quality of recovery in patients undergoing outpatient segmental mastectomies .
+METHODS	The study was a prospective randomized , double-blind , placebo-controlled , clinical trial .
+METHODS	Female subjects were randomized to receive intravenous magnesium ( MgSO4 50mg/kg in 100 mL of normal saline over 15 min before anesthesia induction , followed by an infusion of 15 mg/kg/hour ) or the same volume of saline .
+METHODS	The primary outcome was the Quality of Recovery 40 ( QOR-40 ) questionnaire at 24 hours after surgery .
+RESULTS	50 subjects were recruited and 46 completed the study .
+RESULTS	Patients in the magnesium group had better global Quality of Recovery scores compared with the saline group , with a median difference of 24 ( 99 % CI , 3 to 33 ) , P < 0.001 .
+RESULTS	After discharge from hospital , subjects in the magnesium group required less oral opioids , median ( IQR ) of 10 ( 0 to 20 ) ( oral milligrams of morphine equivalents ) than the saline group , 30 ( 20 to 40 ) ( P < 0.001 ) .
+RESULTS	The postoperative systemic magnesium concentrations were substantially higher in the magnesium group , 1.25 0.28 mmol/L compared to control , 0.71 0.11 mmol/L , P < 0.0001 .
+RESULTS	Simple linear regression demonstrated a direct linear relationship between the postoperative systemic magnesium concentrations and 24 hour postoperative quality of recovery scores ( P = 0.004 ) , and also an inverse relationship with pain burden in the postoperative care unit ( P = 0.01 ) .
+CONCLUSIONS	Systemic magnesium improves postoperative quality of recovery in patients undergoing outpatient segmental mastectomy .
+CONCLUSIONS	Systemic magnesium is a safe , inexpensive , efficacious strategy to improve quality of recovery after ambulatory surgery .
+

@@ -1,0 +1,15 @@
+25509730
+OBJECTIVE	To compare the clinical efficacy differences between medicinal vesiculation combined with quick cupping at Shenque ( CV 8 ) and regular medication for allergic rhinitis with syndrome of yang deficiency .
+METHODS	Eighty-two cases were randomly divided into an observation group ( 42 cases ) and a control group ( 40 cases ) .
+METHODS	The observation group was treated with medicinal vesiculation combined with quick cupping at Shenque ( CV 8 ) .
+METHODS	The medicinal vesiculation was applied at Feishu ( BL 13 ) , Gaohuang ( BL 43 ) , Fengmen ( BL 12 ) , Mingmen ( GV 4 ) on the dog days in the summer , one treatment on the 1st dog-day , 2nd dog-day and last dog-day respectively with an interval of 10 days between two treatments .
+METHODS	Three treatments were taken as one course , and totally one course was given .
+METHODS	The quick cupping was applied at Shenque ( CV 8 ) , once a day , ten treatments were taken as one course , and totally three courses was given .
+METHODS	The control group was treated with oral administration of loratadine and nasal spray of budesonide .
+METHODS	The loratadine was given 10 mg per time , once a day for continuous 14 days ; budesonide was given once a day , ten treatments were taken as one course , and totally three courses was given .
+METHODS	The clinical efficacy in two groups after treatment was observed , and the contents of immune globulin E ( IgE ) , interleukin-4 ( IL-4 ) , interleukin-5 ( IL-5 ) and tumor necrosis factor - ( TNF - ) in peripheral serum were measured before and after the treatments .
+RESULTS	Of all the 82 patients , 79 cases completed the treatment , and 1 patient in the observation group and 2 patients in the control group dropped out .
+RESULTS	The effective rate was 87.8 % ( 36/41 ) in the observation group , which was superior to 78.9 % ( 30/38 ) in the control group ( P < 0.05 ) .
+RESULTS	After treatment , both groups effectively reduced the contents of IgE , IL-4 , IL-5 and TNF - , and the observation group had superior effect on reducing IgE and IL-4 to the control group ( P < 0.05 ) .
+CONCLUSIONS	The medicinal vesiculation combined with quick cupping at Shenque ( CV 8 ) have better effect for allergic rhinitis with syndrome of yang deficiency than oral administration of loratadine and nasal spray of budesonide .
+

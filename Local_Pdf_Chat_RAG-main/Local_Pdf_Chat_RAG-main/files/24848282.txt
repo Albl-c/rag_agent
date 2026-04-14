@@ -1,0 +1,10 @@
+24848282
+OBJECTIVE	To investigate urine excretion of nephrin in patients with proteinuric nephropathies associated with rheumatoid arthritis ( RA ) .
+METHODS	We enrolled in the study 42 patients with seropositive RA and proteinuria , the control group ( 20 persons ) was formed from healthy blood donors , the comparison group ( 23 persons ) was formed from RA patients without proteinuria .
+METHODS	Kidney biopsy was performed in 26 patients ( glomerulonephritis was diagnosed in 14 patients , - amyloidosis in 7 patients and tubulointerstitial nephritis in 5 patients ) .
+RESULTS	Urine nephrin concentration in patients with RA and proteinuria was 6.2 ( 3.0 ; 8.8 ) ng/ml and significantly differed in its levels both in controls - 3.6 ( 2.4 ; 5.3 ) ng/ml ( p = 0.03 ) and RA patients without proteinuria - 3.2 ( 2.1 ; 5.1 ) ng / ml ( p = 0.015 ) group .
+RESULTS	In RA patients with proteinuria , we found a positive correlation between urine nephrin and protein concentrations ( r = 0.4 ; p = 0.04 ) .
+RESULTS	Urine nephrin levels in patients of the glomerulonephritis - 7.3 ( 5.9 ; 9.2 ) and amyloidosis groups - 6.9 ( 3.9 ; 9.8 ) ng/ml were higher than in the controls ( p = 0.001 ; p = 0.04 ) and in the group of patients without proteinuria ( p = 0.005 ; p = 0.03 ) .
+RESULTS	In the patients with tubulointerstitial nephritis urine nephrin concentration did not differ significantly with the values in both the control and the RA patients without proteinuria groups .
+CONCLUSIONS	According to our data , proteinuria in the overall cohort of patients with seropositive RA is associated with increased levels of urine nephrin excretion , the highest levels of nephrin excretion were registered in patients with glomerulonephritis and amyloidosis .
+

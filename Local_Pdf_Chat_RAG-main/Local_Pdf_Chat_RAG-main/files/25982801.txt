@@ -1,0 +1,12 @@
+25982801
+BACKGROUND	To investigate the ability of the prostate genetic score ( PGS-33 ) , a germ-line biomarker of prostate cancer ( PCa ) risk , to categorize men participating in the Prostate , Lung , Colorectal and Ovarian ( PLCO ) Cancer Screening Trial .
+METHODS	We obtained the genetic data from the Cancer Genetic Markers of Susceptibility ( CGEMS ) , a nested case control study examining germ-line DNA in the screened arm of the PLCO trial .
+METHODS	A PGS-33 was calculated based on their genotype at 33 PCa associated single nucleotide polymorphisms ( SNPs ) .
+METHODS	The primary outcome was the diagnosis of PCa and primary predictor was PGS-33 .
+RESULTS	We identified 2,244 subjects ( no cancer , N = 1017 ) and cases ( N = 1227 ) .
+RESULTS	The PGS-33 ( P < 0.001 ) , prostate specific antigen ( PSA ; P < 0.001 ) , family history of PCa ( < 0.001 ) , abnormal digital rectal exam ( DRE , P < 0.001 ) , and history of ever smoking ( P = 0.037 ) were associated with a PCa diagnosis .
+RESULTS	In multivariable analysis , the log ( PGS-33 ) was associated with PCa diagnosis with an odds ratio of 1.68 ( 95 % CI 1.36-2 .08 , P < 0.001 ) , log ( PSA ) ( OR 8.2 ; 95 % CI 6.75-10 .04 , P < 0.001 ) , and family history of PCa ( OR 2.01 ; 95 % CI 1.26-3 .20 , P = 0.003 ) .
+RESULTS	PGS-33 quartiles noted an increasing rate of PCa detection in addition to PSA : 43.2 % ( Q1 ) , 47.8 % ( Q2 ) , 58.8 % ( Q3 ) , and 69.4 ( Q4 ) ( P < 0.001 ) and improvement in PSA performance ( P < 0.001 ) .
+CONCLUSIONS	Germ-line DNA in the form of the PGS-33 is able to risk stratify men regarding their risk of PCa .
+CONCLUSIONS	The PGS-33 may have implications regarding who may benefit most from PCa screening and possibly add to PSA performance .
+

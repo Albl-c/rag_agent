@@ -1,0 +1,13 @@
+24300131
+BACKGROUND	To evaluate the efficacy of the surgical fat-filling procedure ( SFFP ) in the treatment of refractory cough and quality of life ( QOL ) after systematic mediastinal lymphadenectomy in patients with right lung cancer .
+METHODS	This is a blinded , randomized , controlled clinical trial to evaluate refractory cough and QOL in patients after mediastinal lymphadenectomy for lung cancer .
+METHODS	One hundred eligible lung cancer patients were randomly divided into two groups : the fat-filling group and non-filling group .
+METHODS	In the fat-filling group , post-lymphadenectomy residual cavities ( PLRCs ) were filled with fatty tissue autografts after lymph node dissection .
+METHODS	In the non-filling group , the PLRCs remained unfilled .
+METHODS	Clinical endpoints were postoperative cough score and QOL .
+RESULTS	The SFFP did not increase intraoperative bleeding , extend operation time , or hospital stay .
+RESULTS	Further , night cough was significantly improved after 4wk in the fat-filling group after the removal of a chest drainage tube .
+RESULTS	QOL issues , such as emotional condition , functional status , and additional concerns , demonstrated a remarkable improvement in the fat-filling group at postoperative 1mo compared with the non-filling ( control ) group .
+CONCLUSIONS	This study demonstrates that filling PLRCs with fatty tissue autografts is a safe and partially effective treatment for refractory cough after major pulmonary resection and mediastinal lymphadenectomy .
+CONCLUSIONS	This novel procedure significantly improved patient QOL and may prove useful as a relatively safe preventive surgical adjunct operation for refractory cough .
+

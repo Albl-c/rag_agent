@@ -1,0 +1,14 @@
+25879524
+BACKGROUND	A post-hoc analysis was performed on the data from a 54weeks phase III study ( ClinicalTrials.gov identifier : NCT00923091 ) to measure changes in the health-related quality of life ( HRQoL ) of 2,690 patients aged 18 with moderate-to-severe hypertension who received one of six doses of olmesartan/amlodipine/hydrochlorothiazide ( OLM/AML/HCTZ ) , using the MINICHAL and EQ-5D instruments .
+METHODS	Descriptive statistics were used to assess blood pressure and HRQoL scores over the study period .
+METHODS	Analysis of covariance ( ANCOVA ) was used to identify those factors that could possibly have influenced HRQoL .
+METHODS	Linear regression was used to assess the relationship between changes in blood pressure and HRQoL scores .
+RESULTS	Patients ' baseline MINICHAL mood and somatic domains scores were 5.5 and 2.6 .
+RESULTS	Over the study period HRQoL improved as both MINICHAL scores decreased by 31-33 % .
+RESULTS	Patients ' baseline EQ-5D index and VAS scores were 0.9 and 73.4 respectively , increasing by 6 % and 12 % over the study period .
+RESULTS	Patients ' QALY gain over the 54weeks study period was estimated to be 0.029 QALYs .
+RESULTS	The ANCOVA showed that changes in patients ' HRQoL was likely to have been influenced by patients ' achievement of blood pressure control , the amount of concomitant medication and patients ' last used dosage strength of antihypertensive .
+RESULTS	Linear regression showed that blood pressure improvement may have been associated with improved HRQoL .
+CONCLUSIONS	This study showed that OLM/AML/HCTZ reduced blood pressure and significantly increased blood pressure control whilst improving patients ' HRQoL .
+CONCLUSIONS	Achieving blood pressure control , amount of concomitant medication and dosage strength of antihypertensive impacted on patients ' HRQoL .
+

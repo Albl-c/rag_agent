@@ -1,0 +1,17 @@
+24329506
+BACKGROUND	Growth hormone deficiency ( GHD ) is associated with reduced bone mineral content and increased risk of osteoporotic fractures .
+BACKGROUND	Reduced peak bone mass might explain the low bone mineral density ( BMD ) among patients with childhood onset GHD ( CO-GHD ) whilst the cause of osteopenia in adult-onset GHD ( AO-GHD ) is not fully understood .
+OBJECTIVE	Prospective multicentric study to asses bone status in GHD adults after two years of recombinant growth hormone replacement treatment .
+METHODS	In 94 GHD adults ( 49 men ; 34.5 yrs ) we have measured BMD and bone markers ( CTX , osteocalcin ) during two years of rhGH treatment ( at baseline , after 3 and 6 months , and after 1 and 2 years ) .
+METHODS	Patients were adequately substituted for GHD and other pituitary deficiencies .
+RESULTS	We have observed an increase in BMD-lumbar spine : n = 42 , 0.8155 0.9418 g/cm2 , p < 0.0001 ; femoral neck n = 41 ; 0.8468 0.9031 ; p = 0.0004 ; BMD-whole body 1.0179 1.0774 ; p = 0.0003 .
+RESULTS	We have compared gender difference : BMD-L-spine by 15.8 % in men ( n = 21 ) and by 5.6 % in women ( n = 19 ) ( p = 0.008 ) ; BMD-femoral neck increased by 11.03 % in men and by about 3.0 % in women ( p = 0.032 ) .
+RESULTS	In women , the initial decrease in BMD was recorded after 3 months .
+RESULTS	CO-GHD adults yielded a higher increase in BMD - L-spine ( 16.6 % , p = 0.022 ) .
+RESULTS	A correlation exists between IGF-I levels and BMD in lumbar spine ( 1st year : R = 0.348 , p = 0.026 ; 2nd year : R = 0.33 , p = 0.0081 ) and between IGF-I and osteocalcin ( 1st year : R = 0.383 ; p = 0.0038 ) .
+CONCLUSIONS	Two-year therapy with recombinant human growth hormone improved bone status .
+CONCLUSIONS	IGF-I appears to be a good indicator of rhGH effect on bone ( Tab .
+CONCLUSIONS	3 , Fig. 9 , Ref .
+CONCLUSIONS	36 ) .
+CONCLUSIONS	Text in PDF www.elis.sk .
+

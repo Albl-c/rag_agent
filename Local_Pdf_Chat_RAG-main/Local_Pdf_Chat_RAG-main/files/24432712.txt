@@ -1,0 +1,14 @@
+24432712
+BACKGROUND	The EXAcerbations of Chronic Pulmonary Disease Tool ( EXACT ) is a patient-reported outcome measure to standardize the symptomatic assessment of chronic obstructive pulmonary disease exacerbations , including reported and unreported events .
+BACKGROUND	The instrument has been validated in a short-term study of patients with acute exacerbation and stable disease ; its performance in longer-term studies has not been assessed .
+OBJECTIVE	To test the EXACT 's performance in three randomized controlled trials and describe the relationship between resource-defined medically treated exacerbations ( MTEs ) and symptom ( EXACT ) - defined events .
+METHODS	Prespecified secondary analyses of data from phase II randomized controlled trials testing new drugs for the management of chronic obstructive pulmonary disease : one 6-month trial ( United States ) ( n = 235 ) and two 3-month , multinational trials ( AZ 1 [ n = 749 ] , AZ 2 [ n = 597 ] ) .
+METHODS	In each case , the experimental drugs were found to be ineffective , permitting assessment of the EXACT 's performance in three independent studies of moderate to severe high-risk patients on maintenance therapies .
+RESULTS	The mean age of subjects was 62 to 64 years ; 48 to 76 % were male .
+RESULTS	Mean FEV1 % predicted was 42 to 59 % .
+RESULTS	EXACT scores exhibited internal consistency ( Cronbach 's 0.90 ) , reproducibility ( intraclass correlation 0.70 ) , correlation with St. George 's Respiratory Questionnaire ( Spearman rho [ rs ] = 0.62 , 0.46 , 0.46 in the three trials ; P < 0.001 ) , and Breathlessness Cough and Sputum Scale ( AZ 1 , rs = 0.83 ; AZ 2 , rs = 0.83 ; P < 0.001 ) .
+RESULTS	EXACT-defined events had a high correspondence with alternative indicators of worsening ( 94 , 88 , and 93 % ) .
+RESULTS	In each trial , unreported events were similar in severity ( mean EXACT score , 56 , 57 , 61 vs. 53 , 54 [ P < 0.05 ] , 57 [ P < 0.05 ] , respectively ; 100-point scale ) and longer ( median , 9 , 8 , 7 vs. 8 , 7 [ P < 0.01 ] , 6 days , respectively ) than moderate MTEs .
+CONCLUSIONS	Data generated through the EXACT offers insight into the symptomatic nature of MTEs and the frequency , severity , and duration of unreported symptom-defined events .
+CONCLUSIONS	Clinical trials registered with www.clinicaltrials.gov ( MPEX : NCT00739648 ; AZ 1 : NCT00949975 ; AZ 2 : NCT01023516 ) .
+

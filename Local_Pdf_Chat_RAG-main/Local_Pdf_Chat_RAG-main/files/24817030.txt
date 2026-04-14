@@ -1,0 +1,11 @@
+24817030
+OBJECTIVE	The efficacy of noninvasive continuous positive airway pressure ( CPAP ) to improve outcomes in severe hypoxemic acute respiratory failure ( hARF ) due to pneumonia has not been clearly established .
+OBJECTIVE	The aim of this study was to compare CPAP vs. oxygen therapy to reduce the risk of meeting criteria for endotracheal intubation ( ETI ) .
+METHODS	In a multicenter randomized controlled trial conducted in four Italian centers patients with severe hARF due to pneumonia were randomized to receive helmet CPAP ( CPAP group ) or oxygen delivered with a Venturi mask ( control group ) .
+METHODS	The primary endpoint was the percentage of patients meeting criteria for ETI , including either one or more major criteria ( respiratory arrest , respiratory pauses with unconsciousness , severe hemodynamic instability , intolerance ) or at least two minor criteria ( reduction of at least 30 % of basal PaO2/FiO2 ratio , increase of 20 % of PaCO2 , worsening of alertness , respiratory distress , SpO2 less than 90 % , exhaustion ) .
+RESULTS	Between February 2010 and 2013 , 40 patients were randomized to CPAP and 41 to Venturi mask .
+RESULTS	The proportion of patients meeting ETI criteria in the CPAP group was significantly lower compared to those in the control group ( 6/40 = 15 % vs. 26/41 = 63 % , respectively , p < 0.001 ; relative risk 0.24 , 95 % CI 0.11-0 .51 ; number needed to treat , 2 ) two patients were intubated in the CPAP group and one in the control group .
+RESULTS	The CPAP group showed a faster and greater improvement in oxygenation in comparison to controls ( p < 0.001 ) .
+RESULTS	In either study group , no relevant adverse events were detected .
+CONCLUSIONS	Helmet CPAP reduces the risk of meeting ETI criteria compared to oxygen therapy in patients with severe hARF due to pneumonia .
+

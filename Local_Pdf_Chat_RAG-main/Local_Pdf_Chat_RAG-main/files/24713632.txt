@@ -1,0 +1,11 @@
+24713632
+BACKGROUND	Restrictive , very low-energy diets focused on rapid weight loss have proven to be effective in improving asthma outcome in obese patients , but their use in children and pubescents is controversial due its potential consequences in growth .
+BACKGROUND	More conservative , normocaloric schemes are suggested as a more suitable dietary approach for these patients .
+METHODS	A randomized clinical trial was run of 51 pubertal adolescents with asthma and obesity , who were allocated to either an interventional 28-week program of normocaloric diet based on normal requirements for height and meal planning ( n = 26 ) or a non-interventional ( free diet ) control group ( n = 25 ) .
+METHODS	Asthma-related quality of life ( AR-QOL , assessed by the Standardized Pediatric Asthma Quality of Life Questionnaire , PAQLQ [ S ] ) and clinical indicators of asthma control were measured before and after the intervention period .
+RESULTS	Diet intervention was associated with a significant improvement in AR-QOL in relation to baseline ( PAQLQ [ S ] scores ) compared with controls , both in overall score ( p < 0.001 ) and its subdomains ( activity limitation , p < 0.001 ; symptoms , p < 0.002 ; emotional function , p < 0.001 ) .
+RESULTS	The group with normocaloric diet observed a significant decrease in body mass index z-score , which correlated positively with the improvement in AR-QOL ( Spearman 's r = 0.51 , p < 0.01 ) , in addition to have significantly fewer events of acute attacks of asthma and nighttime awakenings , plus a non-significant reduction in the use of inhaled corticosteroids .
+RESULTS	No significant changes were observed in the pulmonary function tests .
+CONCLUSIONS	The normocaloric dietary intervention was associated with improvement of AR-QOL and some aspects of asthma control .
+CONCLUSIONS	Such structured dietary programs could probably have a role as a complementary non-pharmacological therapeutic strategy in obese pubertal adolescents with asthma .
+

@@ -1,0 +1,16 @@
+25225008
+BACKGROUND	The Creighton Model FertilityCare System ( CrMS ) teaches women to identify days when intercourse is likely to result in pregnancy .
+BACKGROUND	We sought to assess the impact of the CrMS on time to pregnancy ( TTP ) , via per-cycle pregnancy rates ( fecundability ) .
+METHODS	We conducted a parallel randomised trial at the University of Utah School of Medicine , 2003-06 .
+METHODS	Women ages 18-35 years , in a relationship of proven fertility , who desired to conceive , were block-randomised and stratified for age , with allocation concealment by opaque sequentially numbered sealed envelopes .
+METHODS	The control group received the advice to have intercourse 2-3 times per week , and the intervention group received CrMS instruction .
+METHODS	All women were asked to begin trying to conceive starting the second cycle in the study and were followed actively up to seven cycles , without blinding of research personnel .
+METHODS	We calculated descriptive statistics and fecundability , and estimated Cox models for TTP .
+METHODS	( Clinicaltrials.gov NCT00161395 ) .
+RESULTS	There were 143 women randomised : 71 to the control group ( all analysed ) and 72 to the CrMS group ( 69 analysed ) .
+RESULTS	The adjusted hazard ratio for the influence of CrMS on TTP was 0.86 [ 95 % confidence interval ( CI ) : 0.53 , 1.38 ] .
+RESULTS	Fecundability in cycles with intent to conceive was 31 % in controls and 36 % with CrMS ( P = 0.32 ) .
+RESULTS	By the first cycle , fecundability was 17 % in controls , and 4 % with CrMS ( P = 0.02 ) .
+RESULTS	No adverse events were reported .
+CONCLUSIONS	We found no significant impact of CrMS on TTP or fecundability , but fewer of the women receiving CrMS conceived by the first cycle .
+

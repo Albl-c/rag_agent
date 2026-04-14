@@ -1,0 +1,17 @@
+24463657
+OBJECTIVE	Laparoscopic and robotic sacrocolpopexy are widely used for pelvic organ prolapse ( POP ) treatment .
+OBJECTIVE	Evidence comparing outcomes and costs is lacking .
+OBJECTIVE	We compared costs and clinically relevant outcomes in women randomized to laparoscopic sacrocolpopexy compared with robotic sacrocolpopexy .
+METHODS	Participants with symptomatic stage POP II or greater , including significant apical support loss , were randomized to either laparoscopic or robotic sacrocolpopexy .
+METHODS	We compared surgical costs ( including costs for robot , initial hospitalization ) and rehospitalization within 6 weeks .
+METHODS	Secondary outcomes included postoperative pain , POP quantification , symptom severity and quality of life , and adverse events .
+RESULTS	We randomized 78 women ( mean age 59 years ) : laparoscopic ( n = 38 ) and robotic ( n = 40 ) .
+RESULTS	The robotic sacrocolpopexy group had higher initial hospital costs ( $ 19,616 compared with $ 11,573 , P < .001 ) and over 6 weeks , hospital costs remained higher for robotic sacrocolpopexy ( $ 20,898 compared with $ 12,170 , P < .001 ) .
+RESULTS	When we excluded costs of robot purchase and maintenance , we did not detect a statistical difference in initial day of surgery costs of robotic compared with laparoscopic ( $ 12,586 compared with $ 11,573 ; P = .160 ) or hospital costs over 6 weeks ( $ 13,867 compared with $ 12,170 ; P = .060 ) .
+RESULTS	The robotic group had longer operating room times ( 202.8 minutes compared with 178.4 minutes , P = .030 ) and higher pain scores 1 week after surgery ( 3.52.1 compared with 2.62.2 ; P = .044 ) .
+RESULTS	There were no group differences in symptom bother by Pelvic Floor Distress Inventory , POP stage , or rate of adverse events .
+CONCLUSIONS	Costs of robotic sacrocolpopexy are higher than laparoscopic , whereas short-term outcomes and complications are similar .
+CONCLUSIONS	Primary cost differences resulted from robot maintenance and purchase costs .
+BACKGROUND	Clinicaltrials.gov , www.clinicaltrials.gov , NCT01124916 .
+METHODS	I.
+

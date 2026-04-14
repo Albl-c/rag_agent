@@ -1,0 +1,15 @@
+24415509
+OBJECTIVE	Residents often teach medical students , other residents , and patients .
+OBJECTIVE	However , few residents get feedback about their teaching .
+OBJECTIVE	This study 's objective was to determine if feedback from medical students increases resident teaching identity .
+METHODS	This was a stratified , single blinded , randomized controlled trial of an educational intervention .
+METHODS	Residents were stratified based on year of residency and then randomized to receive feedback by medical students or not .
+METHODS	Medical students evaluated resident teaching effectiveness by ranking resident ability to apply the five microskills for clinical teaching and to role model being an effective clinician .
+METHODS	Residents were surveyed to determine their level of teacher identity before and after the intervention .
+METHODS	Allocation concealment and intention to treat principles were used .
+RESULTS	All residents ( n = 32 ) that met inclusion criteria participated with complete response rate to both pre-intervention and post-intervention surveys .
+RESULTS	There was no difference in teaching identity between residents who received feedback and those who did not , except in one subscale of the Teacher Identity Scale-global teaching identity , where residents who received medical student feedback scored lower .
+CONCLUSIONS	There was no difference between intervention and control group in resident teaching identity over time .
+CONCLUSIONS	The residents found feedback important .
+CONCLUSIONS	This was a randomized controlled trial with strong methodology that helps advance understanding of the importance of medical student feedback on resident teaching .
+

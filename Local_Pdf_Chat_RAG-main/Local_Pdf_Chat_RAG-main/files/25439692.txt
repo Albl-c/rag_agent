@@ -1,0 +1,22 @@
+25439692
+BACKGROUND	Dacomitinib is an irreversible pan-HER tyrosine-kinase inhibitor with preclinical and clinical evidence of activity in non-small-cell lung cancer .
+BACKGROUND	We designed BR .26 to assess whether dacomitinib improved overall survival in heavily pretreated patients with this disease .
+METHODS	In this double-blind , randomised , placebo-controlled , phase 3 trial , we enrolled adults ( aged 18 years ) with advanced or metastatic non-small-cell lung cancer from 75 centres in 12 countries .
+METHODS	Eligible patients had received up to three previous lines of chemotherapy and either gefitinib or erlotinib , and had assessable disease ( RECIST 1.1 ) and tumour tissue samples for translational studies .
+METHODS	Patients were stratified according to centre , performance status , tobacco use , best response to previous EGFR tyrosine-kinase inhibitor , weight loss within the previous 3 months , and ethnicity , and were then randomly allocated 2:1 to oral dacomitinib 45 mg once-daily or matched placebo centrally via a web-based system .
+METHODS	Treatment continued until disease progression or unacceptable toxicity .
+METHODS	The primary outcome was overall survival in the intention-to-treat population ; secondary outcomes included overall survival in predefined molecular subgroups , progression-free survival , the proportion of patients who achieved an objective response , safety , and quality of life .
+METHODS	This study is completed , although follow-up is ongoing for patients on treatment .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT01000025 .
+RESULTS	Between Dec 23 , 2009 , and June 11 , 2013 , we randomly assigned 480 patients to dacomitinib and 240 patients to placebo .
+RESULTS	At the final analysis ( January , 2014 ) , median follow-up was 234 months ( IQR 156-296 ) for patients in the dacomitinib group and 244 months ( 115-389 ) for those in the placebo group .
+RESULTS	Dacomitinib did not improve overall survival compared with placebo ( median 683 months [ 95 % CI 608-749 ] for dacomitinib vs 631 months [ 532-752 ] for placebo ; hazard ratio [ HR ] 100 [ 95 % CI 083-121 ] ; p = 0506 ) .
+RESULTS	However , patients in the dacomitinib group had longer progression-free survival than those in the placebo group ( median 266 months [ 191-332 ] vs 138 months [ 099-174 ] , respectively ; HR 066 [ 95 % CI 055-079 ] ; p < 00001 ) , and a significantly greater proportion of patients in the dacomitinb group achieved an objective response than in the placebo group ( 34 [ 7 % ] of 480 patients vs three [ 1 % ] of 240 patients , respectively ; p = 0001 ) .
+RESULTS	Compared with placebo , the effect of dacomitinib on overall survival seemed similar in patients with EGFR-mutation-positive tumours ( HR 098 , 95 % CI 067-144 ) and EGFR wild-type tumours ( 093 , 071-121 ; pinteraction = 069 ) .
+RESULTS	However , we noted qualitative differences in the effect of dacomitinib on overall survival for patients with KRAS-mutation-positive tumours ( 210 , 105-422 ) and patients with KRAS wild-type tumours ( 079 , 061-103 ; pinteraction = 008 ) .
+RESULTS	Compared with placebo , patients allocated dacomitinib had significantly longer time to deterioration of cough ( p < 00001 ) , dyspnoea ( p = 0049 ) , and pain ( p = 0041 ) .
+RESULTS	185 ( 39 % ) of 477 patients who received dacomitinib and 86 ( 36 % ) of 239 patients who received placebo had serious adverse events .
+RESULTS	The most common grade 3-4 adverse events were diarrhoea ( 59 [ 12 % ] patients on dacomitinib vs no controls ) , acneiform rash ( 48 [ 10 % ] vs one [ < 1 % ] ) , oral mucositis ( 16 [ 3 % ] vs none ) , and fatigue ( 13 [ 3 % ] vs four [ 2 % ] ) .
+CONCLUSIONS	Dacomitinib did not increase overall survival and can not be recommended for treatment of patients with advanced non-small-cell lung cancer previously treated with chemotherapy and an EGFR tyrosine-kinase inhibitor .
+BACKGROUND	Canadian Cancer Society Research Institute and Pfizer .
+

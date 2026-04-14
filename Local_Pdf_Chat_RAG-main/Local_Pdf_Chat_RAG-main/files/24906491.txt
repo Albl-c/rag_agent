@@ -1,0 +1,15 @@
+24906491
+BACKGROUND	We sought to determine whether empirical nesiritide or milrinone would improve the early postoperative course after Fontan surgery .
+BACKGROUND	We hypothesized that compared with milrinone or placebo , patients assigned to receive nesiritide would have improved early postoperative outcomes .
+RESULTS	In a single-center , randomized , double-blinded , placebo-controlled , multi-arm parallel-group clinical trial , patients undergoing primary Fontan surgery were assigned to receive nesiritide , milrinone , or placebo .
+RESULTS	A loading dose of study drug was administered on cardiopulmonary bypass followed by a continuous infusion for 12 hours and 5 days after cardiac intensive care unit admission .
+RESULTS	The primary outcome was days alive and out of the hospital within 30 days of surgery .
+RESULTS	Secondary outcomes included measures of cardiovascular function , renal function , resource use , and adverse events .
+RESULTS	Among 106 enrolled subjects , 35 , 36 , and 35 were randomized to the nesiritide , milrinone , and placebo groups , respectively , and all were analyzed based on intention to treat .
+RESULTS	Demographics , patient characteristics , and operative factors were similar among treatment groups .
+RESULTS	No significant treatment group differences were found for median days alive and out of the hospital within 30 days of surgery ( nesiritide , 20 [ minimum to maximum , 0-24 ] ; milrinone , 18 [ 0-23 ] ; placebo , 20 [ 0-23 ] ; P = 0.38 ) .
+RESULTS	Treatment groups did not significantly differ in cardiac index , arrhythmias , peak lactate , inotropic scores , urine output , duration of mechanical ventilation , intensive care or chest tube drainage , or adverse events .
+CONCLUSIONS	Compared with placebo , empirical perioperative nesiritide or milrinone infusions are not associated with improved early clinical outcomes after Fontan surgery .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00543309 .
+

@@ -1,0 +1,18 @@
+24850107
+BACKGROUND	Despite 30 years of clinical research , we still do not know the optimal dose of intrathecal morphine ( ITM ) when used alone .
+OBJECTIVE	A safety investigation and comparison of the analgesic efficacy of ITM 0.2 mg , 0.5 mg , and 1 mg in patients undergoing major abdominal cancer surgery .
+METHODS	A randomized , double-blind trial .
+METHODS	Academic medical center .
+METHODS	Ninety patients were randomly assigned to receive morphine intrathecally either 0.2 mg ( Group I , ITM 0.2 mg , n = 30 ) , 0.5 mg ( Group II , ITM 0.5 mg , n = 30 ) , or 1 mg ( Group III , ITM 1 mg , n = 30 ) dissolved in 5 mL physiological saline before general anesthesia .
+METHODS	Assessment parameters included hemodynamics , respiratory rate , peripheral arterial oxygenation , sedation score , pain severity , time of first analgesic request , total analgesic consumption , and side effects in the first 72 hours .
+RESULTS	The mean time to first request for rescue analgesia was significantly prolonged in Group II ( 22.13 5.21 hours , P < 0.001 ) and Group III ( 30.83 4.89 h , P < 0.001 ) , compared with Group I ( 0.50 0.66 hours ) .
+RESULTS	The mean tramadol consumption dose was significantly reduced in Group II ( 383.33 91.28 mg , P < 0.001 ) and Group III ( 300 69.48 mg , P < 0.001 ) compared with Group I ( 770 114.92 mg ) .
+RESULTS	Patients received 1 mg ITM showed lower VAS scores in the first 48 h postoperative ( P < 0.04 ) compared with Group I and Group II .
+RESULTS	No significant differences were observed in the mean systolic and diastolic blood pressure values , respiratory rate , and peripheral arterial oxygen saturation between groups .
+RESULTS	Lower mean heart rate values were observed in Group III patients at 6 hours ( P < 0.01 ) and 12 hours ( P < 0.03 ) postoperative compared with Group I and Group II patients .
+RESULTS	Six patients ( 20 % ) in Group II and 8 ( 26.7 % ) in Group III exhibited pruritus compared with 2 patients ( 6.66 % ) in Group I ( P < 0.01 ) .
+RESULTS	No intergroup statistical differences were observed for other studied side effects .
+CONCLUSIONS	This study is limited by its small sample size .
+CONCLUSIONS	One mg ITM provided superior analgesia for 48 hours postoperative compared with 0.2 mg and 0.5 mg ITM with a nonsignificant difference in the incidence of side effects .
+CONCLUSIONS	Further studies of larger sample size are recommended to confirm these findings .
+

@@ -1,0 +1,14 @@
+24296748
+OBJECTIVE	According to mathematical modeling , intradialytic exercise of sufficient intensity and duration implemented in the second half of dialysis should be as efficacious as increasing dialysis time for dialysis adequacy .
+OBJECTIVE	This assumption has not been tested in vivo .
+METHODS	In this controlled trial , 11 hemodialysis ( HD ) patients ( mean ( SD ) age 56 ( 13 ) years ) were recruited .
+METHODS	Each patient completed three trial arms in a randomized order : routine care ( CONT ) , increased HD time of 30 min ( TIME ) , and intradialytic exercise ( EXER ) , 60 min of cycling at 90 % of the lactate threshold in the last 90 min of HD .
+METHODS	The primary outcome was eKt/Vurea .
+METHODS	Secondary outcomes included reduction and rebound ratios of urea , creatinine , phosphate and 2-microglobulin .
+METHODS	Outcomes were calculated from blood sampling collected pre - , post - and 30 min post-HD and confirmed with dialysate sampling .
+RESULTS	Exercise was not as efficacious as increased HD time for eKt/Vurea ( EXER vs. CONT , mean change ( 95 % CI ) : 0.03 ( -0.05 to 0.12 ) ; TIME vs. CONT : 0.15 ( 0.05-0 .26 ) ) .
+RESULTS	Exercise was less efficacious at improving reduction ratios of urea and creatinine .
+RESULTS	However , exercise was more efficacious than increased dialysis time for phosphate reduction ratio ( EXER vs. CONT : 8.6 % ( 0.5-16 .7 ) ; TIME vs. CONT : 5.0 % ( -1.0 to 11.1 ) ) .
+CONCLUSIONS	This study utilized a rigorously controlled in vivo design to test mathematical models and assumptions regarding dialysis adequacy .
+CONCLUSIONS	Intradialytic exercise towards the end of HD can not replace the prescription of increased HD time for dialysis adequacy , but may be an adjunctive therapy for serum phosphate control .
+

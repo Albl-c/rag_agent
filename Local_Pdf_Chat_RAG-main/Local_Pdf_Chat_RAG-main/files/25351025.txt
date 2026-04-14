@@ -1,0 +1,17 @@
+25351025
+BACKGROUND	Internet-based applications are becoming more common in our modern world .
+BACKGROUND	While electronic health records ( EHR ) are available for patients and health care providers outside of Germany , most of the available data on EHR address only monetary advantages.This study explores whether or not internet-based communication between family physicians ( FP ) and patients is as safe as traditional oral communication and if it may lead to further benefits .
+METHODS	500 patients from 14 family doctors ' offices were included in this 6 months RCT .
+METHODS	Both groups were treated in the same manner by their respective physicians , but members of the study group ( SG ) were able to access an individual developed web-based software where they could view their diagnosis and medication , and send an electronic message to their doctors who would respond .
+METHODS	Their satisfication with the FP , certain health data and the FP 's workload were recorded .
+RESULTS	a ) Patients ' satisfaction : When e.g. asked about the organization of the family practice or trust in the doctor , there were no significant differences between the control ( CG ) and the SG ( p = 0.07 ; p = 0.53 ) .
+RESULTS	However , patients of the SG felt better informed ( p = 0.01 ) , and generally more satisfied with their FP ( p = 0.04 ) .
+RESULTS	b ) FP workload : Members of the CG had 8.44 contacts with their doctors during the study , while the SG only had 7.96 recorded contacts ( including web-based contacts , p = 0.32 ) .
+RESULTS	It took physicians 3:52 minutes less to read and respond to an electronic message than to see a patient during the consultation hours .
+RESULTS	c ) Changes in patients ' health : During the study the blood pressure ( BP ) in the CG rose 4.44 / 2.80 mmHg , while it dropped 3.13 / 4.36 mmHg in the SG ( p = 0.19 / 0.01 ) .
+RESULTS	The HbA ( 1C ) dropped in both groups ( p = 0.91 ) .
+RESULTS	One week after the first visit to the family doctor , patients of the SG rated their pain 0.28 points lower on a VAS than the CG ( p = 0.75 ) .
+RESULTS	91 % from the CG and 96 % from the SG requested the re-prescription of long-term medication on time ( p = 0.16 ) .
+CONCLUSIONS	Using an optional web-based communication platform is as safe as traditional consultations can be .
+CONCLUSIONS	Both patients and doctors may benefit from using the internet in this context .
+

@@ -1,0 +1,17 @@
+25616607
+OBJECTIVE	Ureaplasma urealyticum biovar 2 ( UU-2 ) , but not Ureaplasma parvum ( UP ) , has been associated with non-gonococcal urethritis ( NGU ) , but little is known about species-specific responses to standard therapies .
+OBJECTIVE	We examined species-specific treatment outcomes and followed men with treatment failure for 9weeks .
+METHODS	From May 2007 to July 2011 , men aged 16 attending a sexually transmitted disease ( STD ) clinic in Seattle , Washington , with NGU ( urethral discharge or urethral symptoms plus 5 polymorphonuclear leucocytes / high-powered field ) enrolled in a double-blind , randomised trial .
+METHODS	Participants received active azithromycin ( 1g ) + placebo doxycycline or active doxycycline ( 100mg twice a day 7days ) + placebo azithromycin .
+METHODS	Ureaplasma were detected in culture followed by species-specific PCR .
+METHODS	Outcomes were assessed at 3 , 6 and 9weeks .
+METHODS	At 3weeks , men with persistent Ureaplasma detection received ` reverse therapy ' ( e.g. , active doxycycline if they first received active azithromycin ) .
+METHODS	At 6weeks , persistently positive men received moxifloxacin ( 400mg7days ) .
+RESULTS	Of 490 men , 107 ( 22 % ) and 60 ( 12 % ) were infected with UU-2 and UP , respectively , and returned at 3weeks .
+RESULTS	Persistent detection was similar for UU-2-infected men initially treated with azithromycin or doxycycline ( 25 % vs. 31 % ; p = 0.53 ) , but differed somewhat for men with UP ( 45 % vs. 24 % ; p = 0.11 ) .
+RESULTS	At 6weeks , 57 % of UU-2-infected and 63 % of UP-infected men who received both drugs had persistent detection .
+RESULTS	Failure after moxifloxacin occurred in 30 % and 36 % , respectively .
+RESULTS	Persistent detection of UU-2 or UP was not associated with signs/symptoms of NGU .
+CONCLUSIONS	Persistent detection after treatment with doxycycline , azithromycin and moxifloxacin was common for UU and UP , but not associated with persistent urethritis .
+BACKGROUND	NCT00358462 .
+

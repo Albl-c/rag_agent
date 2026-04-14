@@ -1,0 +1,11 @@
+24281396
+BACKGROUND	Collaborative stepped care ( CSC ) may be an appropriate model to provide evidence-based treatment for anxiety disorders in primary care .
+METHODS	In a cluster randomised controlled trial , the effectiveness of CSC compared to care as usual ( CAU ) for adults with panic disorder ( PD ) or generalised anxiety disorder ( GAD ) in primary care was evaluated .
+METHODS	Thirty-one psychiatric nurses who provided their services to 43 primary care practices in the Netherlands were randomised to deliver CSC ( 16 psychiatric nurses , 23 practices ) or CAU ( 15 psychiatric nurses , 20 practices ) .
+METHODS	CSC was provided by the psychiatric nurses ( care managers ) in collaboration with the general practitioner and a consultant psychiatrist .
+METHODS	The intervention consisted of 3 steps , namely guided self-help , cognitive behavioural therapy and antidepressants .
+METHODS	Anxiety symptoms were measured with the Beck Anxiety Inventory ( BAI ) at baseline and after 3 , 6 , 9 and 12 months .
+RESULTS	We recruited 180 patients with a DSM-IV diagnosis of PD or GAD , of whom 114 received CSC and 66 received usual primary care .
+RESULTS	On the BAI , CSC was superior to CAU [ difference in gain scores from baseline to 3 months : -5.11 , 95 % confidence interval ( CI ) -8.28 to -1.94 ; 6 months : -4.65 , 95 % CI -7.93 to -1.38 ; 9 months : -5.67 , 95 % CI -8.97 to -2.36 ; 12 months : -6.84 , 95 % CI -10.13 to -3.55 ] .
+CONCLUSIONS	CSC , with guided self-help as a first step , was more effective than CAU for primary care patients with PD or GAD .
+

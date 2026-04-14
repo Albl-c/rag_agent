@@ -1,0 +1,12 @@
+25046949
+OBJECTIVE	To investigate the therapeutic effect of Yiqi Huaju Recipe ( YHR ) combined with routine therapy on the blood pressure , the blood pressure variability and other cardiovascular risk factors in hypertension patients complicated with metabolic syndrome ( MetS ) .
+METHODS	Totally 43 hypertension patients complicated with MetS were recruited in this study and randomly assigned to the treatment group ( 22 cases , treated with basic routine treatment + YHR ) and the control group ( 21 cases , treated with basic routine treatment + placebo ) .
+METHODS	The treatment course was 12 weeks .
+METHODS	Detected were parameters such as 24-h ambulatory blood pressure monitoring ( ABPM ) , body mass index ( BMI ) , waist circumference ( WC ) , waist to hip ratio ( WHR ) , homeostatic model assessment for insulin resistance ( HOMA-IR ) , fasting glycosylated hemoglobin A1c ( HbA1c ) , fasting plasma glucose ( FPG ) , 2 h postprandial plasma glucose ( 2 h PPG ) , fasting plasma insulin ( FPI ) , serum lipid , etc. .
+RESULTS	The anthropometric parameters and plasma glucose levels ( except HbAlc ) were obviously lowered after treatment than before treatment in the treatment group ( P < 0.01 , P < 0.05 ) .
+RESULTS	Besides , better effects were obtained in the WC , WHR , 2 h PPG , FPI and HOMA-IR ( P < 0.05 ) .
+RESULTS	The average blood pressure amplitude , the blood pressure variability , and blood pressure load at any time point were more obviously improved in the two groups after treatment than before treatment ( P < 0.01 , P < 0.05 ) .
+RESULTS	Besides , partial indices were better in the treatment group than in the control group ( P < 0.01 , P < 0.05 ) .
+CONCLUSIONS	YHR combined with routine therapy exhibited better effect on reducing the blood pressure amplitude , the blood pressure variability , and the blood pressure load in hypertension patients complicated with MetS .
+CONCLUSIONS	It could also effectively decrease the risk of other vascular disease .
+

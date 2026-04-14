@@ -1,0 +1,12 @@
+24335016
+BACKGROUND	Recent publications show that heat-mediated tissue tightening is a promising treatment for the lax abdomen and may provide better long-term outcomes than traditional suction-assisted liposuction ( SAL ) .
+OBJECTIVE	The author evaluates the degree and duration of skin surface area contraction , as well as the influence of anatomic location of the treatment region on the degree of tissue tightening , in a study comparing SAL alone vs SAL plus radiofrequency-assisted liposuction ( RFAL ) .
+METHODS	In this prospective , randomized , split abdominal study , 12 consecutive patients were treated with SAL alone on 1 side and with SAL plus RFAL on the other side .
+METHODS	Each patient had 4 ( 3 3-cm ) squares-2 per treatment type-tattooed in the lower abdominal region ( 2 on the right and 2 on the left ) .
+METHODS	The surface area of these squares was measured with the Vectra computerized measurement system ( Canfield , Inc , Fairfield , New Jersey ) at pretreatment , at 6 weeks posttreatment , and at 1 year posttreatment .
+METHODS	All measurements were subjected to statistical analysis using predictive analytic software and were evaluated for statistical significance .
+RESULTS	In regions treated with SAL alone , there was a 10.4 % mean skin surface area contraction at 6 weeks and 8.3 % at 1 year posttreatment .
+RESULTS	The mean skin surface area reduction was 25.8 % in regions treated with radiofrequency plus SAL at 6 weeks and at 1 year .
+RESULTS	The anatomic location of each square ( medial vs lateral ) did not statistically correlate with more or less tissue tightening .
+CONCLUSIONS	Radiofrequency-assisted tissue tightening , when applied in conjunction with SAL , is effective in achieving greater skin surface area reduction .
+

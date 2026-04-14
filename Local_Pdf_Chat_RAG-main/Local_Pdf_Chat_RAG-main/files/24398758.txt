@@ -1,0 +1,8 @@
+24398758
+OBJECTIVE	To compare the therapeutic effects and adverse reactions of pemetrexed and docetaxel as salvage chemotherapy in patients with nonsmall-cell lung cancer ( NSCLC ) after the failure of epidermal growth factor receptor-tyrosine kinase inhibitors ( EGFR-TKI ) .
+METHODS	In this randomized Phase 2 trial , patients with NSCLC who had previously failed EGFR-TKI therapy were randomized to receive intravenous pemetrexed ( 500mg/m ( 2 ) for 21 days [ one cycle ] ) or docetaxel ( 75mg/m ( 2 ) for 21 days [ one cycle ] ) .
+METHODS	Therapeutic effects were evaluated according to Response Evaluation Criteria in Solid Tumours standards and adverse effects were evaluated according to the US National Cancer Institute Common Terminology Criteria for Adverse Events .
+RESULTS	There was no statistically significant difference in disease control rate , response rate , median survival and 1-year survival between treatment groups .
+RESULTS	Rates of nausea , myelosuppression , renal damage and hair loss were significantly higher in the docetaxel group than the pemetrexed group .
+CONCLUSIONS	Pemetrexed is effective and well tolerated as salvage chemotherapy in patients with NSCLC after EGFR-TKI failure and may be a suitable therapeutic option in these patients .
+

@@ -1,0 +1,12 @@
+25200354
+BACKGROUND	In mainland China , peginterferon ( PEG-IFN ) alfa-2b 1.0 g/kg/wk for 24 weeks is the approved treatment for HBeAg-positive chronic hepatitis B.
+OBJECTIVE	This multicenter , randomized trial evaluated the safety and efficacy of regimens utilizing increased dose or treatment duration in treatment-naive Chinese patients with chronic hepatitis B.
+METHODS	670 HBeAg-positive patients from China , Malaysia , Taiwan area , Singapore , and Thailand were enrolled .
+METHODS	Patients received PEG-IFN alfa-2b 1.0 g/kg/wk ( arm A ) or 1.5 g/kg/wk ( arm B ) for 24 weeks , or 1.5 g/kg/wk for 48 weeks ( arm C ) .
+METHODS	The primary end point was loss of HBeAg 24 weeks after end of treatment .
+RESULTS	At the end of follow-up , HBeAg loss was significantly greater in arm C compared with arm A ( 31.3 % vs. 17.3 % ; P = 0.001 ) and arm B ( 31.3 % vs. 18.1 % ; P = 0.001 ) .
+RESULTS	No significant difference in the rate of HBeAg loss was observed between arms A and B.
+RESULTS	The proportions of patients with HBe seroconversion , HBV DNA levels < 20,000 IU/mL , and ALT normalization at the end of follow-up were significantly higher in arm C compared with arm A and arm B.
+RESULTS	In arms A , B , and C , rates of early treatment discontinuation were 6.3 % , 4.9 % , and 8.9 % ; of discontinuation due to an AE , 2 % , 3 % , and 3 % ; and of AEs requiring dose modification , 3 % , 6 % , and 10 % , respectively .
+CONCLUSIONS	In Chinese patients with HBeAg-positive chronic hepatitis B , PEG-IFN alfa-2b 1.5 g/kg/wk for 48 weeks is more efficacious compared with 1.0 and 1.5 g/kg/wk for 24 weeks .
+

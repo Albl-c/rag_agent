@@ -1,0 +1,18 @@
+25707624
+BACKGROUND	TAK-438 ( vonoprazan ) is a potassium-competitive acid blocker that reversibly inhibits gastric H ( + ) , K ( + ) - ATPase .
+OBJECTIVE	To evaluate the safety , tolerability , pharmacokinetics and pharmacodynamics of TAK-438 in healthy Japanese and non-Japanese men .
+METHODS	In two Phase I , randomised , double-blind , placebo-controlled studies , healthy men ( Japan N = 60 ; UK N = 48 ) received TAK-438 10-40mg once daily at a fixed dose level for 7 consecutive days .
+METHODS	Assessments included safety , tolerability , pharmacokinetics and pharmacodynamics ( intragastric pH ) .
+RESULTS	Plasma concentration-time profiles of TAK-438 at all dose levels showed rapid absorption ( median Tmax 2h ) .
+RESULTS	Mean elimination half-life was up to 9h .
+RESULTS	Exposure was slightly greater than dose proportional , with no apparent time-dependent inhibition of metabolism .
+RESULTS	There was no important difference between the two studies in AUC0-tau on Day 7 .
+RESULTS	TAK-438 caused dose-dependent acid suppression .
+RESULTS	On Day 7 , mean 24-h intragastric pH > 4 holding time ratio ( HTR ) with 40mg TAK-438 was 100 % ( Japan ) and 93.2 % ( UK ) , and mean night-time pH > 4 HTR was 100 % ( Japan ) and 90.4 % ( UK ) .
+RESULTS	TAK-438 was well tolerated .
+RESULTS	The frequency of adverse events was similar at all dose levels and there were no serious adverse events .
+RESULTS	There were no important increases in serum alanine transaminase activity .
+RESULTS	Serum gastrin and pepsinogen I and II concentrations increased with TAK-438 dose .
+CONCLUSIONS	TAK-438 in multiple rising oral dose levels of 10-40mg once daily for 7days was safe and well tolerated in healthy men and caused rapid , profound and sustained suppression of gastric acid secretion throughout each 24-h dosing interval .
+CONCLUSIONS	Clinicaltrials.gov identifiers : NCT02123953 and NCT02141711 .
+

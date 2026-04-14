@@ -1,0 +1,13 @@
+24411480
+BACKGROUND	To examine the effects of complex cognitive ( mahjong ) and physical ( Tai Chi ) activities on dementia severity in nursing home residents with dementia .
+METHODS	Cluster-randomized open-label controlled design .
+METHODS	110 residents were randomized by nursing home into three conditions : mahjong , Tai Chi , and simple handicrafts ( control ) .
+METHODS	Activities were conducted three times a week for 12 weeks .
+METHODS	Clinical Dementia Rating ( CDR ) was taken at 0 ( baseline ) , 3 ( post-treatment ) , 6 , and 9 months .
+METHODS	The outcome measure was CDR sum-of-box , which is a composite measure of both cognitive and functional deterioration in dementia .
+RESULTS	Intent-to-treat analyses were performed using multilevel regression models .
+RESULTS	Apolipoprotein E 4 allele and education were included as covariates .
+RESULTS	Neither treatments had effects on the cognitive and functional components of the CDR , but mahjong had a significant interaction with time on the CDR sum-of-box total , suggesting a slower rate of global deterioration in the mahjong group as compared with the control group .
+CONCLUSIONS	Mahjong led to a gradual improvement in global functioning and a slightly slower rate of dementia progression over time .
+CONCLUSIONS	The effect was generalized and was not specific to cognition or daily functioning .
+

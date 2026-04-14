@@ -1,0 +1,13 @@
+24907703
+OBJECTIVE	The guided outcomes in learned efficiency ( GOLE ) model emphasizes the use of evidence-based resources to understand the diagnosis , treatment , follow-up , and prevention of disease .
+OBJECTIVE	We seek to determine whether presentations created using the GOLE model are superior to an unstructured approach in achieving Accreditation Council for Graduate Medical Education ( ACGME ) Core Competencies .
+METHODS	Consenting medical students were randomized to GOLE or control groups to individually research a self-selected clinical topic .
+METHODS	A validated survey instrument was used prepresentation and postpresentation to assess perceived improvement in knowledge .
+METHODS	Subjects completed self-evaluations at enrollment and after presentation of their chosen clinical topic .
+METHODS	Other students , residents , and a faculty member also completed evaluations after each student presentation .
+METHODS	Standard statistical methods ( analysis of variance , 2-tailed t test ) were used to determine if a statistically significant difference existed between intervention and control groups .
+RESULTS	Self-assessments were similar in the GOLE and control groups .
+RESULTS	Externally perceived presentation scores were greater in the GOLE group ( ACGME global P < .0001 , presentation global P = .07 ) , which demonstrated a significant improvement in 5 core competencies .
+RESULTS	Time spent preparing the presentation and resources utilized did not differ between groups .
+CONCLUSIONS	The presentations prepared using the GOLE model were rated higher by observers than those prepared using traditional techniques .
+

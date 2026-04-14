@@ -1,0 +1,15 @@
+24671165
+OBJECTIVE	Patients leaving residential treatment for alcohol use disorders are not typically offered evidence-based continuing care , although research suggests that continuing care is associated with better outcomes .
+OBJECTIVE	A smartphone-based application could provide effective continuing care .
+OBJECTIVE	To determine whether patients leaving residential treatment for alcohol use disorders with a smartphone application to support recovery have fewer risky drinking days than control patients .
+METHODS	An unmasked randomized clinical trial involving 3 residential programs operated by 1 nonprofit treatment organization in the Midwestern United States and 2 residential programs operated by 1 nonprofit organization in the Northeastern United States .
+METHODS	In total , 349 patients who met the criteria for DSM-IV alcohol dependence when they entered residential treatment were randomized to treatment as usual ( n = 179 ) or treatment as usual plus a smartphone ( n = 170 ) with the Addiction-Comprehensive Health Enhancement Support System ( A-CHESS ) , an application designed to improve continuing care for alcohol use disorders .
+METHODS	Treatment as usual varied across programs ; none offered patients coordinated continuing care after discharge .
+METHODS	A-CHESS provides monitoring , information , communication , and support services to patients , including ways for patients and counselors to stay in contact .
+METHODS	The intervention and follow-up period lasted 8 and 4 months , respectively .
+METHODS	Risky drinking days -- the number of days during which a patient 's drinking in a 2-hour period exceeded 4 standard drinks for men and 3 standard drinks for women , with standard drink defined as one that contains roughly 14 g of pure alcohol ( 12 oz of regular beer , 5 oz of wine , or 1.5 oz of distilled spirits ) .
+METHODS	Patients were asked to report their risky drinking days in the previous 30 days on surveys taken 4 , 8 , and 12 months after discharge from residential treatment .
+RESULTS	For the 8 months of the intervention and 4 months of follow-up , patients in the A-CHESS group reported significantly fewer risky drinking days than did patients in the control group , with a mean of 1.39 vs 2.75 days ( mean difference , 1.37 ; 95 % CI , 0.46-2 .27 ; P = .003 ) .
+CONCLUSIONS	The findings suggest that a multifeatured smartphone application may have significant benefit to patients in continuing care for alcohol use disorders .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01003119 .
+

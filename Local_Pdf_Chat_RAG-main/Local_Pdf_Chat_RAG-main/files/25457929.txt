@@ -1,0 +1,14 @@
+25457929
+OBJECTIVE	Prior research has shown that youth with co-occurring tic disorders and obsessive-compulsive disorder ( OCD ) may differ from those with non-tic-related OCD in terms of clinical characteristics and treatment responsiveness .
+OBJECTIVE	A broad definition of `` tic-related '' was used to examine whether children with tics in the Pediatric OCD Treatment Study II differed from those without tics in terms of demographic and phenomenological characteristics and acute treatment outcomes .
+METHODS	Participants were 124 youth aged 7 to 17 years , inclusive , with a primary diagnosis of OCD who were partial responders to an adequate serotonin reuptake inhibitor ( SRI ) trial .
+METHODS	Participants were randomized to medication management , medication management plus instructions in cognitive-behavioral therapy ( CBT ) , or medication management plus full CBT .
+METHODS	Tic status was based on the presence of motor and/or vocal tics on the Yale Global Tic Severity Scale .
+RESULTS	Tics were identified in 53 % of the sample .
+RESULTS	Those with tic-related OCD did not differ from those with non-tic-related OCD in terms of age , family history of tics , OCD severity , OCD-related impairment , or comorbidity .
+RESULTS	Those with tics responded equally in all treatment conditions .
+CONCLUSIONS	Tic-related OCD was very prevalent using a broad definition of tic status .
+CONCLUSIONS	Results suggest that youth with this broad definition of tic-related OCD do not have increased OCD severity or inference , higher comorbidity rates or severity , or worsened functioning , and support the use of CBT in this population .
+CONCLUSIONS	This highlights the importance of not making broad assumptions about OCD symptoms most likely to occur in an individual with comorbid tics .
+CONCLUSIONS	Clinical trial registration information-Treatment of Pediatric OCD for SRI Partial Responders ; http://clinicaltrials.gov; NCT00074815 .
+

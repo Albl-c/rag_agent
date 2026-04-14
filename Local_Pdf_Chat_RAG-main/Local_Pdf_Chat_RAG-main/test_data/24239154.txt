@@ -1,0 +1,13 @@
+24239154
+BACKGROUND	Previous studies on cognitive and interpersonal interventions have yielded inconsistent results in ischemic heart disease patients .
+METHODS	101 patients aged 70 years , and enrolled one week after complete revascularization with urgent/emergent angioplasty for an AMI , were randomized to standard cardiological therapy plus short-term humanistic-existential psychotherapy ( STP ) versus standard cardiological therapy only .
+METHODS	Primary composite end point was : one-year incidence of new cardiological events ( re-infarction , death , stroke , revascularization , life-threatening ventricular arrhythmias , and the recurrence of typical and clinically significant angina ) and of clinically significant new comorbidities .
+METHODS	Secondary end points were : rates for individual components of the primary outcome , incidence of re-hospitalizations for cardiological problems , New York Heart Association class , and psychometric test scores at follow-up .
+RESULTS	94 patients were analyzed at one year .
+RESULTS	The two treatment groups were similar across all baseline characteristics .
+RESULTS	At follow-up , STP patients had had a lower incidence of the primary endpoint , relative to controls ( 21/49 vs. 35/45 patients ; p = 0.0006 , respectively ; NNT = 3 ) ; this benefit was attributable to the lower incidence of recurrent angina and of new comorbidities in the STP group ( 14/49 vs. 22/45 patients , p = 0.04 , NNT = 5 ; and 5/49 vs. 25/45 , p < 0.0001 , NNT = 3 , respectively ) .
+RESULTS	Patients undergoing STP also had statistically fewer re-hospitalizations , a better NYHA class , higher quality of life , and lower depression scores .
+CONCLUSIONS	Adding STP to cardiological therapy improves cardiological symptoms , quality of life , and psychological and medical outcomes one year post AMI , while reducing the need for re-hospitalizations .
+CONCLUSIONS	Larger studies remain necessary to confirm the generalizability of these results .
+BACKGROUND	ClinicalTrial.gov : NCT00769366 .
+

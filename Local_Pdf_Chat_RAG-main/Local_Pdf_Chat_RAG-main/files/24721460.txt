@@ -1,0 +1,16 @@
+24721460
+OBJECTIVE	To compare measurement properties of the P4 pain scale , Western Ontario and McMaster Universities Arthritis Index pain subscale ( WOMAC-pain ) , and Intermittent and Constant Osteoarthritis Pain ( ICOAP ) measure in patients with knee osteoarthritis ( OA ) .
+METHODS	A secondary analysis from a randomized controlled trial included participants ( n = 156 ) with knee OA that were consulting with a surgeon regarding knee arthroplasty .
+METHODS	They completed pain measures ( P4 , WOMAC-pain , ICOAP ) and WOMAC-function subscale ( WOMAC-function ) at baseline and 2 weeks .
+METHODS	Measurement properties assessed in various subgroups included floor/ceiling effects , test-retest reliability using intraclass correlation coefficients ( ICC2 ,1 ) , internal consistency using Cronbach 's , factorial structure of each pain measure combined with WOMAC-function using principal component analysis , and responsiveness using standardized response mean ( SRM ) .
+RESULTS	P4 had low floor and ceiling effects ( < 1 % ) .
+RESULTS	P4 test-retest reliability ( ICC2 ,1 = 0.72 ) , internal consistency ( Chronbach 's = 0.91 ) , and responsiveness ( SRM = 0.56 ) were similar to the values for WOMAC-pain and ICOAP .
+RESULTS	Factorial structure of P4 and ICOAP were separate from WOMAC-function items .
+RESULTS	WOMAC-pain and WOMAC-function items loaded on similar factors .
+RESULTS	ICOAP-constant subscale had a large floor effect ( 33 % ) .
+CONCLUSIONS	P4 should be used to measure pain in patients with knee OA .
+CONCLUSIONS	It had acceptable measurement properties which is comparable to more widely used pain measures .
+CONCLUSIONS	WOMAC-pain shared a factorial structure with WOMAC-function indicating these measures might be capturing the same construct , questioning its validity to measure pain separately from function .
+CONCLUSIONS	ICOAP had acceptable properties .
+CONCLUSIONS	More work should compare pain measures in less severely affected OA populations .
+

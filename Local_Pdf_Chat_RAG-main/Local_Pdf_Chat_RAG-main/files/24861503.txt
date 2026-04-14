@@ -1,0 +1,14 @@
+24861503
+BACKGROUND	Statin therapy is a cornerstone therapy for secondary prevention after acute coronary syndrome ( ACS ) .
+BACKGROUND	However , the use of these drugs can be limited by side effects , mainly muscular pain .
+BACKGROUND	Ezetimibe is a newer lipid-lowering agent , with fewer side effects .
+OBJECTIVE	The present study was designed to compare a commercially available association of ezetimibe and simvastatin ( E-S ) to high dose Rosuvastatin on cholesterol and muscular enzyme levels and occurrence of muscular pain .
+METHODS	All consecutive ACS statin-nave patients with LDL cholesterol ( LDL-C ) > 100mg/dL randomly received either high dose statin ( Rosuvastatin 20mg ) or E-S 10/40-mg .
+METHODS	All patients had one-month follow-up with biological testing and clinical examination .
+METHODS	We compared the two groups on the biological efficiency and incidence of muscular pain .
+RESULTS	One hundred and twenty-eight patients were randomized ; 64 received E-S and 64 Rosuvastatin .
+RESULTS	In the two groups , the lowering of LDL-C level ( = 51 % ) at one month was significant ( P < 0.01 ) without any difference in the rate of lowering on LDL-C or HDL-C suggesting that E-S is as effective as high dose Rosuvastatin ( P = 0.77 and P = 0.99 ) .
+RESULTS	The rate of patients reaching the objective of LDL-C < 100mg/dL ( 45 % ) and LDL-C < 70mg/dL ( 51 % ) was not different in the two clusters ( P = 0.65 ) .
+RESULTS	Incidence of muscular pain was 15 % higher in patients treated with Rosuvastatin ( P = 0.01 ) without any difference on CPK level ( P = 0.6 ) .
+CONCLUSIONS	Using an association of E-S in an effective alternative strategy to high dose Rosuvastatin with a lower incidence of muscular pain , which might impact adherence to medication after ACS .
+

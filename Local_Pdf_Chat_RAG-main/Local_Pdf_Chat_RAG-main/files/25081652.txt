@@ -1,0 +1,13 @@
+25081652
+BACKGROUND	Home mechanical ventilation ( HMV ) in the Netherlands is normally initiated in hospital , but this is expensive and often a burden for the patient .
+BACKGROUND	In this randomised controlled study we investigated whether initiation of HMV at home in patients with chronic respiratory failure is non-inferior to an in hospital based setting .
+METHODS	Seventy-seven patients were included , of which 38 patients started HMV at home .
+METHODS	All patients were diagnosed with chronic respiratory failure due to a neuromuscular or thoracic cage disease .
+METHODS	Primary outcome was the arterial carbon dioxide ( PaCO2 ) while quality of life and costs were secondary outcomes .
+METHODS	Telemonitoring was used in the home group to provide therapeutic information , for example ; transcutaneous carbon dioxide , oxygen saturation and ventilator information , to the caregivers .
+METHODS	Follow-up was six months .
+RESULTS	PaCO2 , improved by 0.72 ( SE0 .16 ) kPa in the hospital group and by 0.91 ( 0.20 ) in the home group , both improvements being significant and the latter clearly not inferior .
+RESULTS	There were also significant improvements in quality of life in both groups , again not being inferior with home treatment .
+CONCLUSIONS	This study is the first to show that initiation of HMV at home in a selective group of patients with chronic respiratory failure is as effective for gas exchange and quality of life as hospital initiation .
+CONCLUSIONS	In addition we found that it is safe , technically feasible and that more than 3000 per patient can be saved compared to our standard care .
+

@@ -1,0 +1,14 @@
+25062861
+BACKGROUND	Virtual visits through web-based video conferencing can increase access to specialty care for individuals with Huntington disease ( HD ) and facilitate research participation .
+OBJECTIVE	To determine the feasibility of conducting virtual visits directly into the homes of individuals with HD , to assess the reliability of conducting remote versus in-person motor assessments , and to determine the test-retest reliability of conducting motor assessments remotely .
+METHODS	Individuals with mild to moderate HD underwent baseline in-person clinic assessments and completed a HD care survey .
+METHODS	Participants were randomized to receive three virtual visits from one of two physicians over four months that included a modified Unified Huntington 's Disease Rating Scale motor examination ( excluding rigidity and balance assessments ) via web-based video conferencing .
+METHODS	Intraclass coefficients ( ICC ) were calculated to determine the level of agreement between remote and in-person assessments .
+METHODS	Participants also completed a survey on their interest in telemedicine .
+RESULTS	Thirteen individuals underwent baseline assessments , eleven ( 85 % ) participants completed at least one virtual visit , and 27 ( 82 % ) of 33 total virtual visits were completed .
+RESULTS	Remote motor scores demonstrated good reliability ( ICC = 0.78 ; n = 11 ) compared to in-person motor scores .
+RESULTS	Test-retest reliability of motor scores conducted remotely was excellent ( ICC = 0.90 ; n = 11 ) .
+RESULTS	Participants expressed moderate future interest in using virtual visits to participate in research and to receive care .
+CONCLUSIONS	In this pilot study , virtual visits into the home were feasible and reliable for conducting motor assessments in HD .
+CONCLUSIONS	Larger scale studies need to confirm and generalize these findings to a broader population of participants .
+

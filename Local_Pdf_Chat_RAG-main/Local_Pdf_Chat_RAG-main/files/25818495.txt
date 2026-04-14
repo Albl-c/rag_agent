@@ -1,0 +1,10 @@
+25818495
+BACKGROUND	The prognostic value of time from symptom onset to reperfusion may be enhanced by the identification of Q waves on the presenting electrocardiogram ( ECG ) in patients with ST-segment elevation myocardial infarction ( STEMI ) .
+BACKGROUND	We evaluated whether the relative prognostic utility of these 2 metrics was altered by sex .
+METHODS	Q waves in the distribution of the ST-segment elevation on the baseline ECG were evaluated by a blinded core laboratory in 2838 STEMI patients ( 2163 men and 675 women ) from the PLATelet inhibition and patient Outcomes ( PLATO ) trial who underwent percutaneous coronary intervention ( PCI ) within 12 hours of symptom onset .
+RESULTS	Women were older ( median 63 vs 57 years ) , more likely to be diabetic ( 24.1 % vs 15.5 % ) , hypertensive ( 69.2 % vs 50.9 % ) , and a higher Killip class > I ( 8.6 % vs 5.9 % ) , as compared with men .
+RESULTS	Whereas the Q waves frequency rose progressively over time to ECG in men , this relationship was attenuated in women ( P = .057 ) .
+RESULTS	Q waves on the baseline ECG were associated with a higher excess hazard of 1-year vascular death in men ( hazard ratio [ HR ] 2.03 ; 95 % confidence interval [ CI ] , 1.13-3 .72 ) , and a similar trend existed in women ( HR 1.97 ; 95 % CI , 0.86-4 .51 ) .
+RESULTS	Women with baseline Q waves tended to have higher risk of 1-year vascular death than men as continuous time from symptom onset to PCI increased ( P [ interaction ] = .182 ) .
+CONCLUSIONS	These differences in the evolution of baseline Q waves and relationship between time from symptom onset and vascular death in women and men deserve recognition in future studies of STEMI .
+

@@ -1,0 +1,11 @@
+25162362
+OBJECTIVE	The aim of the study was to evaluate the effectiveness and safety of 2 different polyethylene glycol ( PEG ) doses for the maintenance treatment of functional constipation in children .
+METHODS	Children with functional constipation according to the Rome III criteria were randomly assigned to receive PEG 4000 at a dose of either 0.7 g/kg ( high-dose group ; n = 45 ) or 0.3 g/kg ( low-dose group ; n = 47 ) for 6 weeks .
+METHODS	Adjustment of the therapy was recommended in the event of < 3 bowel movements ( BM ) per week or 3 BM per day .
+METHODS	The primary outcome measure was treatment success , defined as 3 BM per week with no fecal soiling during the last week of the intervention .
+RESULTS	A total of 90 of 92 randomized children , with a mean age of 3.72.1 years , completed the study .
+RESULTS	In the analysis based on allocated treatment , treatment success was similar in both groups ( relative risk 0.9 , 95 % confidence interval 0.78-1 .03 ) .
+RESULTS	Compared with the high-dose PEG group , the low-dose PEG group had an increased need for therapy adjustment of borderline significance ( relative risk 2.0 , 95 % confidence interval 1.0-4 .2 ) , an increased risk of painful defecation , a lower number of stools per week , and lower parental satisfaction .
+RESULTS	Adverse events were similar in both groups .
+CONCLUSIONS	To achieve treatment success , both tested doses of PEG were equally safe and effective in the treatment of children with functional constipation .
+

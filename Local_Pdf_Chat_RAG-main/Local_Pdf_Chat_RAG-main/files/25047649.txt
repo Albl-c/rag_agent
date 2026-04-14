@@ -1,0 +1,14 @@
+25047649
+OBJECTIVE	The combined IVGTT-hyperinsulinaemic-euglycaemic clamp ( Botnia clamp ) allows the assessment of insulin secretion and sensitivity in one experiment .
+OBJECTIVE	It remains unclear whether this clamp yields results comparable with those of the standard hyperinsulinaemic-euglycaemic clamp ( SHEC ) in diabetes patients .
+OBJECTIVE	We hypothesised that the IVGTT induces responses affecting insulin sensitivity assessment .
+METHODS	Of 22 randomised diet - or metformin-treated patients with well-controlled type 2 diabetes , 19 randomly underwent a Botnia clamp and an SHEC , spaced by 2 weeks , in one clinical research centre in a crossover study .
+METHODS	The main outcomes were whole-body and hepatic insulin sensitivity as measured by the clamp and [ 6,6 - ( 2 ) H2 ] glucose .
+METHODS	Substrate utilisation was assessed from indirect calorimetry and beta cell function from insulin dynamics during IVGTT .
+RESULTS	The values of whole-body insulin sensitivity obtained from Botnia clamp and SHEC were correlated ( r = 0.87 , p < 0.001 ) , but also revealed intra-individual variations .
+RESULTS	Hepatic insulin sensitivity did not differ between experiments during the clamp , but differed after IVGTT .
+RESULTS	The contribution of glucose oxidation to glucose disposal increased by 2.2 0.3 and 1.2 0.4 mg kg fat-free mass ( FFM ) ( -1 ) min ( -1 ) ( Botnia and SHEC , p < 0.05 ) , whereas lipid oxidation decreased by 0.8 0.1 and 0.4 0.1 mg kg FFM ( -1 ) min ( -1 ) ( p < 0.05 ) from baseline .
+RESULTS	Differences in NEFA ( r = -0.60 , p < 0.01 ) , but not C-peptide ( r = -0.16 , p = 0.52 ) or hepatic insulin sensitivity between IVGTT and placebo before the clamps correlated with individual variations of insulin sensitivity .
+CONCLUSIONS	The Botnia clamp provides similar estimates of insulin sensitivity as SHEC in patients with type 2 diabetes , but changes in NEFA during IVGTT may affect insulin sensitivity and thereby the discrimination between insulin-sensitive and insulin-resistant individuals .
+BACKGROUND	ClinicalTrials.gov NCT01397279 FUNDING : The study was funded by the Ministry of Science and Research of the State of North Rhine-Westphalia and the German Federal Ministry of Health , and supported in part by grants from the Federal Ministry for Research to the Centers for Diabetes Research , Helmholtz Alliance Imaging and Curing Environmental Metabolic Diseases and the Schmutzler-Stiftung .
+

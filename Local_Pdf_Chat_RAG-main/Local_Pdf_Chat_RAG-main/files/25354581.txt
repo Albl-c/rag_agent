@@ -1,0 +1,17 @@
+25354581
+BACKGROUND	Older individuals often have a reduced immune response to influenza vaccination , which might be improved by administering a higher vaccine dose .
+BACKGROUND	We compared the immune response to two single doses of the AS03A-adjuvanted H5N1 pandemic vaccine ( 3.75 g hemagglutinin of A/Vietnam/1194 / 2004 ) with that of two double vaccine doses ( 7.5 g hemagglutinin ) in adults aged 61 years .
+BACKGROUND	Here we report the 2-year persistence of the humoral and cellular immune response .
+METHODS	In this phase II , open-label study , healthy participants aged 61 to 88 years ( median 68 years ) were randomised ( 3:1:3:1 ) to receive two single doses of the AS03A-adjuvanted vaccine ( 1xH5N1-AS ) or the non-adjuvanted vaccine ( 1xH5N1 ) , or two double doses of the AS03A-adjuvanted vaccine ( 2xH5N1-AS ) or the non-adjuvanted vaccine ( 2xH5N1 ) , 21 days apart .
+METHODS	Serum haemagglutination inhibition antibodies and cellular immune responses against A/Vietnam/1194 / 2004 were measured in all groups at months 12 and 24 ; neutralising antibodies were assessed in a subset of the adjuvanted groups .
+METHODS	Serious adverse events and adverse events of specific interest were recorded .
+RESULTS	At month 24 , haemagglutination inhibition antibody seroprotection rates were 37.2 % ( 95 % CI 27.0 % to 48.3 % ) for 1xH5N1-AS , 30.9 % ( 95 % CI 21.1 % to 42.1 % ) for 2xH5N1-AS , 16.2 % ( 95 % CI 6.2 % to 32.0 % ) for 1xH5N1 , and 8.3 % ( 95 % CI 1.0 % to 27.0 % ) for 2xH5N1 .
+RESULTS	Haemagglutination inhibition antibody geometric mean titres were 17.6 ( 95 % CI 13.7 to 22.5 ) for 1xH5N1-AS , 18.4 ( 95 % CI 14.2 to 23.8 ) for 2xH5N1-AS , 12.3 ( 95 % CI 8.9 to 16.9 ) for 1xH5N1 and 9.8 ( 95 % CI 6.7 to 14.4 ) for 2xH5N1 .
+RESULTS	The median frequency of antigen-specific CD4 + T cells per 106 T cells ( 25th quartile ; 75th quartile ) was 852 ( 482 ; 1477 ) for 1xH5N1-AS , 1147 ( 662 ; 1698 ) for 2xH5N1-AS , 556 ( 343 ; 749 ) for 1x-H5N1 and 673 ( 465 ; 1497 ) for 2xH5N1 .
+RESULTS	Neutralising antibody geometric mean titres were 391.0 ( 95 % CI 295.5 to 517.5 ) in the 1xH5N1-AS group and 382.8 ( 95 % CI 317.4 to 461.6 ) in the 2xH5N1-AS group .
+CONCLUSIONS	Antibody levels declined substantially in all groups .
+CONCLUSIONS	Seroprotection rates , geometric mean titres for haemagglutination inhibition antibodies , and CD4 + T-cell responses tended to be higher in the AS03A-adjuvanted groups .
+CONCLUSIONS	There was no clear benefit , in terms of long-term persistence of the immune response , of doubling the dose of the adjuvanted vaccine .
+CONCLUSIONS	No safety concern was observed up to 24 months post-primary vaccination .
+BACKGROUND	NCT00397215 ( 7 November 2006 ) .
+

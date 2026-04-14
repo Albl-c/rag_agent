@@ -1,0 +1,12 @@
+25115507
+OBJECTIVE	In athletes , caffeine use is common although its effects on sleep have not been widely studied .
+OBJECTIVE	This randomised , double-blind , placebo-controlled crossover trial investigated the effects of late-afternoon caffeine and carbohydrate-electrolyte ( CEB ) co-ingestion on cycling performance and nocturnal sleep .
+METHODS	Six male cyclists/triathletes ( age 27.5 6.9 years ) completed an afternoon training session ( TS ; cycling 80 min ; 65 % VOmax ) followed by a 5 kJ kg ( -1 ) cycling time trial ( TT ) .
+METHODS	Caffeine ( split dose 2 3 mg kg ( -1 ) ) or placebo was administered 1 h prior and 40 min into the TS .
+METHODS	A 7.4 % CEB ( 3 ml kg ( -1 ) every 15 min ) was administered during the TS , followed 30 min after by a standardised evening meal .
+METHODS	Participants retired at their usual bedtime and indices of sleep duration and quality were monitored via polysomnography .
+METHODS	mean SD .
+RESULTS	All participants performed better in the caffeine TT ( caffeine 19.7 3.3 ; placebo 20.5 3.5 min ; p = 0.006 ) , while ratings of perceived exertion ( caffeine 12.0 0.6 ; placebo 12.9 0.7 ; p = 0.004 ) and heart rate ( caffeine 175 6 ; placebo 167 11 bpm ; p = 0.085 ) were lower in the caffeine TS .
+RESULTS	Caffeine intake induced significant disruptions to a number of sleep indices including increased sleep onset latency ( caffeine 51.1 34.7 ; placebo 10.2 4.2 min ; p = 0.028 ) and decreased sleep efficiency ( caffeine 76.1 19.6 ; placebo 91.5 4.2 % ; p = 0.028 ) , rapid eye movement sleep ( caffeine 62.1 19.6 ; placebo 85.8 24.7 min ; p = 0.028 ) and total sleep time ( caffeine 391 97 ; placebo 464 49 min ; p = 0.028 ) .
+CONCLUSIONS	This study supports a performance-enhancing effect of caffeine , although athletes ( especially those using caffeine for late-afternoon/evening training and competition ) should consider its deleterious effects on sleep .
+

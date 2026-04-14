@@ -1,0 +1,10 @@
+24732230
+BACKGROUND	Placing a central venous access device via the internal jugular or subclavian vein entails significant risks to both patient and healthcare worker .
+OBJECTIVE	The purpose of this randomized , prospective study was to determine whether the accelerated Seldinger technique ( AST ) offers significant safety advantages over the modified Seldinger technique ( MST ) for peripherally inserted central catheter insertion .
+METHODS	Patients were randomly assigned to undergo introducer sheath insertion by means of either MST or AST .
+METHODS	Primary outcome measures included time to completion of introducer sheath insertion , estimated blood loss , and success rate .
+METHODS	Secondary outcome measures included vessel-to-air exposure events and unprotected sharps exposure .
+CONCLUSIONS	While both insertion methods proved equivalent for successful vessel cannulation , AST was significantly faster ( P = 0.0048 ) and resulted in less blood loss ( P = 0.0295 ) than MST .
+CONCLUSIONS	Additionally , AST resulted in significantly fewer vessel-to-air exposure events ( P < 0.0001 ) and unprotected sharps exposures ( P < 0.0001 ) .
+CONCLUSIONS	Although this was a relatively small and unblinded study , the high degree of statistical significance of the study results suggests that , for both patients and healthcare workers , AST is faster and safer than MST for PICC peelable introducer sheath insertion .
+

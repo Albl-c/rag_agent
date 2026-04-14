@@ -1,0 +1,20 @@
+24556040
+BACKGROUND	An unmet medical need exists for patients with metastatic renal cell carcinoma who have progressed on VEGF-targeted and mTOR-inhibitor therapies .
+BACKGROUND	Fibroblast growth factor ( FGF ) pathway activation has been proposed as a mechanism of escape from VEGF-targeted therapies .
+BACKGROUND	Dovitinib is an oral tyrosine-kinase inhibitor that inhibits VEGF and FGF receptors .
+BACKGROUND	We therefore compared dovitinib with sorafenib as third-line targeted therapies in patients with metastatic renal cell carcinoma .
+METHODS	In this multicentre phase 3 study , patients with clear cell metastatic renal cell carcinoma who received one previous VEGF-targeted therapy and one previous mTOR inhibitor were randomly assigned through an interactive voice and web response system to receive open-label dovitinib ( 500 mg orally according to a 5-days-on and 2-days-off schedule ) or sorafenib ( 400 mg orally twice daily ) in a 1:1 ratio .
+METHODS	Randomisation was stratified by risk group and region .
+METHODS	The primary endpoint was progression-free survival ( PFS ) assessed by masked central review .
+METHODS	Efficacy was assessed in all patients who were randomly assigned and safety was assessed in patients who received at least one dose of study drug .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT01223027 .
+RESULTS	284 patients were randomly assigned to the dovitinib group and 286 to the sorafenib group .
+RESULTS	Median follow-up was 113 months ( IQR 79-146 ) .
+RESULTS	Median PFS was 37 months ( 95 % CI 35-39 ) in the dovitinib group and 36 months ( 35-37 ) in the sorafenib group ( hazard ratio 086 , 95 % CI 072-104 ; one-sided p = 0063 ) .
+RESULTS	280 patients in the dovitinib group and 284 in the sorafenib group received at least one dose of study drug .
+RESULTS	Common grade 3 or 4 adverse events included hypertriglyceridaemia ( 38 [ 14 % ] ) , fatigue ( 28 [ 10 % ] ) , hypertension ( 22 [ 8 % ] ) , and diarrhoea ( 20 [ 7 % ] ) in the dovitinib group , and hypertension ( 47 [ 17 % ] ) , fatigue ( 24 [ 8 % ] ) , dyspnoea ( 21 [ 7 % ] ) , and palmar-plantar erythrodysaesthesia ( 18 [ 6 % ] ) in the sorafenib group .
+RESULTS	The most common serious adverse event was dyspnoea ( 16 [ 6 % ] and 15 [ 5 % ] in the dovitinib and sorafenib groups , respectively ) .
+CONCLUSIONS	Dovitinib showed activity , but this was no better than that of sorafenib in patients with renal cell carcinoma who had progressed on previous VEGF-targeted therapies and mTOR inhibitors .
+CONCLUSIONS	This trial provides reference outcome data for future studies of targeted inhibitors in the third-line setting .
+BACKGROUND	Novartis Pharmaceuticals Corporation .
+

@@ -1,0 +1,12 @@
+24649784
+BACKGROUND	General anesthesia ( GA ) is considered the gold standard for external dacryocystorhinostomy ( DCR ) surgery .
+BACKGROUND	There are few reports about laryngeal mask airway ( LMA ) use in DCR surgery .
+BACKGROUND	The aim of this study was to compare the use of endotracheal intubation ( ETT ) vs LMA for airway management during DCR surgery .
+METHODS	Ninety patients were randomized to two groups .
+METHODS	In the group C , ETT and in the group L , classic LMA was used to maintain and protect the airway during the procedure .
+METHODS	Hemodynamic data before , after intubation or LMA insertion and after skin incisions were recorded .
+METHODS	Coughing and straining at the end of anesthesia and postoperative nausea and vomiting ( PONV ) were recorded .
+RESULTS	In the group L , the mean arterial pressure and the heart rate after LMA insertion and after the skin incisions were significantly lower than the group C ( p < 0.05 ) .
+RESULTS	Furthermore , incidence of coughing , straining at the end of anesthesia and PONV was lower in the group L than the group C ( p < 0.05 ) .
+CONCLUSIONS	LMA can be used in external DCR , to decrease the hemodynamic changes , to decrease coughing , straining at the end of anesthesia and the incidence of PONV .
+

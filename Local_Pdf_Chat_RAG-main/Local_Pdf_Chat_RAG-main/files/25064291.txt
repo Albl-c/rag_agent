@@ -1,0 +1,10 @@
+25064291
+OBJECTIVE	This study 's objective was to investigate whether use of an electronic dietary recording system improves nutrition knowledge , eating attitudes and habitual physical activity levels compared to use of a food diary and no self-monitoring .
+METHODS	Sixty adults aged 20-60 with a body mass index 25 were recruited and randomly assigned to one of three groups : a group using an electronic system ( EG ) , a group using a food diary ( FD ) and a control group using nothing ( CG ) to record food intake .
+METHODS	All participants took part in three 60-90 nutrition seminars and completed three questionnaires on general nutrition knowledge , habitual physical activity levels and eating attitudes at the beginning and end of the 12-week study .
+METHODS	The pre - and post-test scores for each questionnaire were analysed using a paired sample t-test .
+RESULTS	Significant improvements in the domain of ` dietary recommendations ' were found in the EG ( p = 0.009 ) and FD groups ( p = 0.046 ) .
+RESULTS	Great improvements were found in ` sources of nutrients ' , ` choosing everyday foods ' and ` diet-disease relationships ' in EG and FD groups .
+RESULTS	EG group showed greater improvement in the work index and sport index .
+CONCLUSIONS	An electronic dietary recording system may improve eating and exercise behaviour in a self-monitoring process .
+

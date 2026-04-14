@@ -1,0 +1,27 @@
+25335326
+OBJECTIVE	To observe the efficacy and safety of Qizhi Jiangtang Capsule ( QJC ) in treating stage 3b diabetic kidney disease ( DKD ) patients with macroalbuminuria .
+METHODS	Patients who conformed to the diagnostic criteria of stage 3b DKD were randomly assigned to two groups according to random digital table , the experiment group and the control group , 84 in each group .
+METHODS	All patients received a two-week elution period , and then were treated with basic Western therapy .
+METHODS	Patients in the experiment group took QJC , 5 pills per time , 3 times a day , while those in the control group took Valsartan Capsule 160 mg each time , once daily .
+METHODS	The observation period of follow-ups was limited within 6 months , and the time points were set as the baseline , 1st month , 3rd month , and 6th month .
+METHODS	Systolic blood pressure ( SBP ) , diastolic blood pressure ( DBS ) , 24 h urine protein quantitative ( 24 h UPQ ) , plasma albumin ( ALB ) , and serum creatinine ( SCr ) were detected and recorded , and estimated glomerular filtration rate ( eGFR ) was calculated .
+METHODS	The occurrence of hypoglycemic reaction , coagulation disorder , gastrointestinal tract reaction , allergy , hyperkalemia , doubling of creatinine , and overall adverse events were observed and recorded at same time .
+RESULTS	Finally 81 patients in the experiment group and 80 patients in the control group were effectively included .
+RESULTS	Compared with the baseline level , SBP and DBS obviously decreased in the control group at month 1 of treatment ( P < 0.05 ) , and more significantly decreased at month 6 of treatment ( P < 0.01 ) .
+RESULTS	SBP at month 1 , 3 , and 6 of follow-ups ; DBS at month 6 of follow-ups was lower in the control group than in the experiment group ( P < 0.05 ) .
+RESULTS	At month 1 , 3 , and 6 of follow-ups , 24 h UPQ of the experiment group was significantly lower than the baseline level ( P < 0.01 ) .
+RESULTS	It was also significantly lower than the level of the control group at the same time point ( P < 0.05 ) .
+RESULTS	There was no significant difference in 24 h UPQ at month 1 , 3 , and 6 of follow-ups between the control group and the baseline level ( P > 0.05 ) .
+RESULTS	ALB of the experiment group showed an increasing trend .
+RESULTS	It was significantly higher than the baseline level at month 6 ( P < 0.05 ) , which was also higher than that of the control group at same period ( P < 0.05 ) .
+RESULTS	There was no significant difference in the ALB level in the control group ( P > 0.05 ) .
+RESULTS	SCr of two groups showed an increasing trend .
+RESULTS	SCr of the experiment group was significantly higher at month 1 , 3 , and 6 follow-ups than the baseline level ( P < 0.05 ) .
+RESULTS	But the increment of SCr was higher in the control group than in the experimental group , and obviously higher than the baseline levels ( P < 0.05 ) .
+RESULTS	eGFR of both groups showed a decreasing trend .
+RESULTS	The decrement was higher in the control group than in the experimental group ( P < 0.05 ) .
+RESULTS	The proportion of progression of renal functions at month 1 , 3 , and 6 of follow-ups in the experimental group was 0.0 % ( 0 case ) , 9.55 % ( 8 cases ) , and 21.4 % ( 18 cases ) , while they were 8.3 % ( 7 cases ) , 21.4 % ( 18 cases ) , and 40.5 % ( 34 cases ) in the control group .
+RESULTS	There was no statistical difference in the proportion of progression of renal functions between the two groups at month 3 and 6 of follow-ups ( P < 0.05 ) .
+RESULTS	There was no statistical difference in the incidence of adverse reactions between two groups ( P > 0.05 ) .
+CONCLUSIONS	QJC could effectively reduce urinary protein of patients with stage 3b DKD , and delay the progression of renal functions .
+

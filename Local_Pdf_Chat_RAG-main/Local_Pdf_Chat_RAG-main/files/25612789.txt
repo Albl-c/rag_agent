@@ -1,0 +1,14 @@
+25612789
+OBJECTIVE	This pilot trial evaluated the feasibility and safety of an early discharge strategy ( EDS : 72 h , followed by outpatient lifestyle interventions ) , in comparison with a conventional discharge strategy ( CDS ) for low-risk ( Zwolle risk score 3 ) ST-elevation myocardial infarction ( STEMI ) patients treated with primary angioplasty .
+METHODS	One hundred patients were randomized to an EDS ( n = 54 ) or a CDS ( n = 46 ) .
+METHODS	The primary end point was the feasibility of the EDS : ( 1 ) 70 % of EDS patients discharged 72 h , ( 2 ) 70 % visited by a nurse 7 days after discharge , ( 3 ) 70 % with 3 visits by the nurse and ( 4 ) 70 % visited by a cardiologist 3 months .
+RESULTS	The mean age was 59.2 12.2 years and ejection fraction 54.0 7.1 % .
+RESULTS	Eighty-six percent were male ( 12 % diabetics ) .
+RESULTS	Vascular access was radial in 91 % .
+RESULTS	Ischemic time was 4 h in 75 % .
+RESULTS	Length of stay was shorter in EDS as compared with CDS ( 70.1 8.1 vs. 111.8 28.3 h , p < 0.001 ) .
+RESULTS	EDS feasibility was : ( 1 ) 72.2 % ; ( 2 ) 81.5 % ; ( 3 ) 76.9 % ; ( 4 ) 72.2 % .
+RESULTS	There were no adverse events or differences in intervention goals and quality of life between groups .
+CONCLUSIONS	An EDS in low-risk STEMI patients is feasible and seems to be safe .
+CONCLUSIONS	A shorter hospital stay could benefit patients and health care systems .
+

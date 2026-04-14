@@ -1,0 +1,15 @@
+24343370
+OBJECTIVE	Cardiopulmonary bypass ( CPB ) , utilized in on-pump coronary artery bypass graft procedures ( CABG ) induces generalized immune suppression , release of heat shock proteins ( HSP ) , inflammatory markers and apoptosis-specific proteins .
+OBJECTIVE	We hypothesized that continued mechanical ventilation during cardiopulmonary bypass attenuates immune response and HSP liberation .
+METHODS	Thirty patients undergoing conventional coronary artery bypass graft ( CABG ) operation were randomized into a ventilated on CPB ( VG ; N. = 15 ) and a non-ventilated CPB group ( NVG ; N. = 15 ) .
+METHODS	Blood samples were drawn at the beginning and end of surgery , as well as on the five consecutive postoperative days ( POD ) .
+METHODS	Molecular markers were measured by ELISA .
+METHODS	Data are given as mean ( SD ) .
+METHODS	Mann-Whitney-U-test was used for statistical analysis .
+RESULTS	Serum concentrations of HSP70 were significantly lower in VG compared to NVG on POD-1 ( VG : 1629608 vs. NVG : 52032128.6 pg/mL , P < 0.001 ) .
+RESULTS	HSP27 and HSP60 depicted a minor increase in both study groups at the end of surgery without any intergroup differences ( HSP27 : VG 6207.91252.5 vs. NVG 7424.12632.5 ; HSP60 : VG 1046.2478.8 vs. NVG 1223.5510.1 ) .
+RESULTS	IL-8 and CK-18 M30 evidenced the highest serum concentrations at the end of surgery ( IL-8 : VG 119.577.9 vs. NVG 148.0184.55 ; CK-18 M30 : VG 62.139.2 vs. NVG 67.533.9 ) with no differences between groups .
+RESULTS	Decreased ICAM-1 serum concentrations were detected postoperatively , however ICAM-1 concentrations on POD-1 to POD-5 showed slightly elevated concentrations in both study groups with no intergroup differences .
+CONCLUSIONS	Significantly less HSP70 was detectable in patients receiving uninterrupted mechanical lung ventilation on CPB , indicating either different inflammatory response , cellular stress or cell damage between the ventilated and non-ventilated group .
+CONCLUSIONS	These data suggest that continued mechanical ventilation has a modulatory effect on the immune response in patients after CABG surgery .
+

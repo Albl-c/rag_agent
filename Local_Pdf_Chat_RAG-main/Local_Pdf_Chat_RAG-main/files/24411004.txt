@@ -1,0 +1,17 @@
+24411004
+BACKGROUND	X-ray mammography remains the predominant test for screening for breast cancer , with the aim of reducing breast cancer mortality .
+BACKGROUND	In the English NHS Breast Screening Programme each woman 's mammograms are examined separately by two expert readers .
+BACKGROUND	The two readers read each batch in the same order and each indicates if there should be recall for further tests .
+BACKGROUND	This is a highly skilled , pressurised , repetitive and frequently intellectually unchallenging activity where readers examine one or more batches of 30-50 women 's mammograms in each session .
+BACKGROUND	A vigilance decrement or performance decrease over time has been observed in similar repetitive visual tasks such as radar operation .
+METHODS	The CO-OPS study is a pragmatic , multi-centre , two-arm , double blind cluster randomised controlled trial of a computer software intervention designed to reduce the effects of a vigilance decrement in breast cancer screening .
+METHODS	The unit of randomisation is the batch .
+METHODS	Intervention batches will be examined in the opposite order by the two readers ( one forwards , one backwards ) .
+METHODS	Control batches will be read in the same order as one another , as is current standard practice .
+METHODS	The hypothesis is that cancer detection rates will be higher in the intervention group because each readers ' peak performance will occur when examining different women 's mammograms .
+METHODS	The trial will take place in 44 English breast screening centres for 1 year and 4 months .
+METHODS	The primary outcome is cancer detection rate , which will be extracted from computer records after 1 year of the trial .
+METHODS	The secondary outcomes include rate of disagreement between readers ( a more statistically powerful surrogate for cancer detection rate ) , recall rate , positive predictive value , and interval cancer rate ( cancers found between screening rounds which will be measured three years after the end of the trial ) .
+CONCLUSIONS	This is the first trial of an intervention to ameliorate a vigilance decrement in breast cancer screening .
+BACKGROUND	ISRCTN46603370 ( submitted : 24 October 2012 , date of registration : 26 March 2013 ) .
+

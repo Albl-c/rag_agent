@@ -1,0 +1,13 @@
+25037883
+BACKGROUND	Diurnal variation in serum growth hormone ( s-GH ) levels after exogenous GH delivery has previously been reported in patients with no endogenous GH secretion .
+BACKGROUND	Changes in postural position or physical activity , leading to changes in blood flow and/or lymphatic drainage may be underlying explanations .
+OBJECTIVE	The primary aim of this study is to study a possible impact of exercise and supine rest on pharmacokinetics ( PK ) and day-to-day variation of subcutaneously ( s.c. ) administered GH in adult GH deficient ( AGHD ) patients .
+OBJECTIVE	The secondary aim of this study is to compare s-IGF-I , s-insulin , and plasma ( p ) - glucose profiles after a carbohydrate rich breakfast following s.c. GH injection vs. continuous infusion .
+METHODS	During supine rest eight AGHD males ( 59.88 years , BMI 29.74.9 kg/m ( 2 ) ) were treated with one daily s.c. GH injections of 3 mg/24 h for 48 h ( treatment sessions A , B ) or a continuous s.c. GH infusion of 3 mg/24 h for 60 h ( treatment sessions C , D ) .
+METHODS	Exercise comprised 1 h bicycling with 50 W load on two consecutive days during treatment sessions B and D.
+RESULTS	Administration of GH as a bolus injection , but not as a continuous GH infusion , resulted in about 32 % higher s-GH levels during exercise ( 60 min ) as well as 30 min after ( s-GH logAUC ( B-A ) difference was 0.28 ; 95 % CI : 0.14-0 .4 ; p < 0.001 ) .
+RESULTS	However , the total s-GH ( AUC 0-24 h ) ( p = 0.75 ) and s-IGF-I ( AUC0-48 h ) levels ( p = 0.51 ) remained unchanged between the two occasions .
+RESULTS	P-glucose and insulin profiles were significantly higher after carbohydrate rich breakfast before first and second dosing both following s.c. GH injection and continuous infusion ( p < 0.05 ) .
+CONCLUSIONS	Moderate exercise intermittently increased s-GH levels .
+CONCLUSIONS	These changes seem to have no clinical short-term relevance , since total s-GH ( 24 h ) and s-IGF-I ( 48 h ) levels were unaffected .
+

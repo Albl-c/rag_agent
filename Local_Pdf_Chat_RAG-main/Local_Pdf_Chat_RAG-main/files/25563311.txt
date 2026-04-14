@@ -1,0 +1,13 @@
+25563311
+BACKGROUND	The efficacy of montelukast ( MONT ) , a cysteinyl leukotriene receptor antagonist , in nonasthmatic eosinophilic bronchitis ( NAEB ) , especially its influence on cough associated life quality is still indefinite .
+BACKGROUND	We evaluated the efficacy of MONT combined with budesonide ( BUD ) as compared to BUD monotherapy in improving life quality , suppressing airway eosinophilia and cough remission in NAEB .
+METHODS	A prospective , open-labeled , multicenter , randomized controlled trial was conducted .
+METHODS	Patients with NAEB ( aged 18-75 years ) were randomized to inhaled BUD ( 200 g , bid ) or BUD plus oral MONT ( 10 g , qn ) for 4 weeks .
+METHODS	Leicester cough questionnaire ( LCQ ) life quality scores , cough visual analog scale ( CVAS ) scores , eosinophil differential ratio ( Eos ) , and eosinophil cationic protein ( ECP ) in induced sputum were monitored and compared .
+RESULTS	The control and MONT groups contained 33 and 32 patients , respectively , with similar baseline characteristics .
+RESULTS	Significant with-in group improvement in CVAS , LCQ scores , Eos , and ECP was observed in both groups during treatment .
+RESULTS	After 2-week treatment , add-on treatment of MONT was significantly more effective than BUD monotherapy for CVAS decrease and LCQ scores improvement ( both P < 0.05 ) .
+RESULTS	Similar results were seen at 4-week assessment ( both P < 0.05 ) .
+RESULTS	4-week add-on therapy of MONT also resulted in a higher percentage of patients with normal sputum Eos ( < 2.5 % ) and greater decrease of ECP ( both P < 0.05 ) .
+CONCLUSIONS	MONT combined with BUD was demonstrated cooperative effects in improvement of life quality , suppression of eosinophilic inflammation , and cough remission in patients with NAEB .
+

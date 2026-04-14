@@ -1,0 +1,18 @@
+25256368
+BACKGROUND	Our aim was to determine if a surgeon 's behaviors can encourage or discourage trainees from speaking up when they witness a surgical mistake .
+METHODS	A randomized clinical trial in which medical students ( n = 55 ) were randomly assigned to an `` encouraged '' ( n = 28 ) or `` discouraged '' ( n = 27 ) group .
+METHODS	Participants underwent personality tests to assess decision-making styles , and were then trained on basic tasks ( `` burn '' then `` cut '' ) on a laparoscopic surgery simulator .
+METHODS	After randomization , students assisted at a simulated laparoscopic salpingectomy .
+METHODS	The senior surgeon used either an `` encourage '' script ( eg , `` Your opinion is important . '' )
+METHODS	or a `` discourage '' script ( eg , `` Do what I say .
+METHODS	Save questions for next time . '' )
+METHODS	Otherwise , the surgery was conducted identically .
+METHODS	Subsequently , a surgical mistake was made by the senior surgeon when he instructed students to cut without burning .
+METHODS	Students were considered to have spoken up if they questioned the instruction and did not cut .
+METHODS	Potential personality bias was assessed with two validated personality tests before simulation .
+METHODS	Data were processed with Mann-Whitney and Fisher exact tests .
+RESULTS	The students in the encouraged group were significantly more likely to speak up ( 23 of 28 [ 82 % ] vs 8 of 27 [ 30 % ] ; p < 0.001 ) .
+RESULTS	There was no statistically significant difference between the two groups in personality traits , student training level ( p = 1.0 ) , or sex ( p = 0.53 ) .
+CONCLUSIONS	A discouraging environment decreases the frequency with which trainees speak up when witnessing a surgical error .
+CONCLUSIONS	The senior surgeon plays an important role in improving intraoperative communication between junior and senior clinicians and can enhance patient safety .
+

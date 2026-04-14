@@ -1,0 +1,12 @@
+25391382
+BACKGROUND	There is a lack of knowledge about antidementia drug treatment in community dwelling people with dementia in Germany .
+OBJECTIVE	To determine the frequency of treatment with antidementia drugs in patients in primary care , and the socio-demographic and clinical variables associated with antidementia drug treatment .
+METHODS	Present analyses are based on preliminary data from the DelpHi-trial , an ongoing GP-based , cluster-randomized , controlled intervention trial to implement and evaluate an innovative concept of collaborative dementia care management in Germany .
+METHODS	Our sample consists of n = 243 subjects who screened positive for dementia .
+RESULTS	29.6 % ( n = 72 ) of participants received antidementia drugs : memantine 44.5 % ( n = 32 ) ; donepezil 30.5 % ( n = 22 ) ; rivastigmine 13.9 % ( n = 10 ) ; galantamine 11.1 % ( n = 8 ) .
+RESULTS	A total of 46.4 % ( n = 45 ) of the subgroup of participants with a formal dementia diagnosis received antidementia drug treatment .
+RESULTS	Approximately 37.5 % ( n = 27 ) of our sample received treatment with antidementia drugs without having a formal diagnosis .
+RESULTS	Treatment with antidementia drugs was significantly associated with more severe cognitive impairment and having a formal dementia diagnosis .
+CONCLUSIONS	One in three people who screened positive for dementia in primary care received antidementia drug treatment , indicating the frequent use of this class of drugs .
+CONCLUSIONS	For those with a formal dementia diagnosis , these drug treatment rates are more than triple , compared to those in nursing homes .
+

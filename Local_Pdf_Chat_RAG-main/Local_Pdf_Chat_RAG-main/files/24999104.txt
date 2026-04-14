@@ -1,0 +1,13 @@
+24999104
+OBJECTIVE	To explore whether topical application of atropine gel controls epiphora secondary to submandibular gland ( SMG ) transplantion for severe keratoconjunctivitis sicca .
+METHODS	Eighteen patients with epiphora after SMG transplantation participated in a double-blind , controlled , crossover study .
+METHODS	Patients were treated with topical smear common atropine ( CA ) and modified atropine ( MA ) gels ( intervals 1 day ) .
+METHODS	The control effect of atropine gels was observed for 5 hours .
+METHODS	Tear flow was quantified in resting and stimulated ( after exercise ) states using the Schirmer I test .
+RESULTS	With the CA gel , tear flow decreased significantly at 10 , 30 , and 120 minutes .
+RESULTS	Average epiphora reduction rates ( AERRs ) were 22.37 % , 18.14 % , and 13.27 % , respectively ( P < .05 ) .
+RESULTS	With the MA gel , tear flow decreased significantly from 5 minutes to 5 hours ; AERRs increased from 24.06 % to 42.67 % ( P < .05 ) ; Maximum efficacy was maintained from 15 minutes to 3 hours ( P < .01 ) ; Tear flow gradually increased from 4 to 5 hours but was still lower than that before atropine use ( P < .05 ) .
+RESULTS	According to results of the Schirmer I test and AERRs , the control efficacy of the MA gel was significantly better than that of the CA gel ( P < .05 ) .
+CONCLUSIONS	Topical application of atropine gel could effectively control mild epiphora for patients with SMG transplantation for severe keratoconjunctivitis sicca .
+CONCLUSIONS	The efficacy of MA gel was much better than that of the CA gel .
+

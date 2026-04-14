@@ -1,0 +1,9 @@
+25525278
+OBJECTIVE	To analyze the effect of psychological intervention on reducing performance anxiety and the consequences of the intervention on first-year pharmacy students .
+METHODS	In this experimental study , 236 first-year undergraduate pharmacy students from a private university in Malaysia were approached between weeks 5 and 7 of their first semester to participate in the study .
+METHODS	The completed responses for the Westside Test Anxiety Scale ( WTAS ) , the Kessler Perceived Distress Scale ( PDS ) , and the Academic Motivation Scale ( AMS ) were received from 225 students .
+METHODS	Out of 225 students , 42 exhibited moderate to high test anxiety according to the WTAS ( score ranging from 30 to 39 ) and were randomly placed into either an experiment group ( n = 21 ) or a waiting list control group ( n = 21 ) .
+RESULTS	The prevalence of test anxiety among pharmacy students in this study was lower compared to other university students in previous studies .
+RESULTS	The present study 's anxiety management of psychoeducation and systematic education for test anxiety reduced lack of motivation and psychological distress and improved grade point average ( GPA ) .
+CONCLUSIONS	Psychological intervention helped significantly reduce scores of test anxiety , psychological distress , and lack of motivation , and it helped improve students ' GPA .
+

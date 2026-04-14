@@ -1,0 +1,15 @@
+24604881
+BACKGROUND	Evidence suggests depression increases hospital readmission risk .
+OBJECTIVE	Determine whether depressive symptoms are associated with unplanned readmission within 30 days of discharge of general medical patients .
+METHODS	Secondary analysis of the Project Re-Engineered Discharge ( RED ) randomized controlled trials .
+METHODS	Urban academic safety-net hospital .
+METHODS	A total of 1418 hospitalized adult English-speaking patients .
+METHODS	The 9-Item Patient Health Questionnaire ( PHQ-9 ) was used to screen patients for depressive symptoms .
+METHODS	Hospital readmission within 30 days of discharge .
+METHODS	Poisson regression was used to control for confounding variables .
+RESULTS	There were 225 ( 16 % ) patients who screened positive for mild depressive symptoms ( 5 PHQ-9 9 ) and 336 ( 24 % ) for moderate or severe depressive symptoms ( PHQ-9 10 ) .
+RESULTS	After controlling for confounders , a higher rate of readmission was observed in subjects with mild depressive symptoms compared to subjects with PHQ-9 < 5 , incidence rate ratio ( IRR ) 1.49 ( 95 % confidence interval [ CI ] : 1.11-2 .00 ) .
+RESULTS	The adjusted IRR of readmission for those with moderate-to-severe symptoms was 1.96 ( 95 % CI : 1.51-2 .49 ) compared to those with no depression .
+CONCLUSIONS	Screening positive for mild and moderate-to-severe depressive symptoms during a hospitalization on a general medical service is associated with an increased dose-dependent readmission rate within 30 days of discharge in an urban , academic , safety-net hospital .
+CONCLUSIONS	Further research is needed to determine whether treatments targeting the reduction of depressive symptoms reduce the risk of readmission .
+

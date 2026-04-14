@@ -1,0 +1,11 @@
+24392703
+OBJECTIVE	There have been no studies of the effect of continuous positive airway pressure ( CPAP ) therapy on erectile dysfunction ( ED ) and serum testosterone in men with type 2 diabetes and obstructive sleep apnoea ( OSA ) , a patient group at increased risk of ED and hypogonadism .
+OBJECTIVE	The aim of this study was to determine whether CPAP improves sexual and gonadal function in males with type 2 diabetes and a pre-CPAP apnoea-hypopnoea index > 15/h .
+METHODS	Substudy of a trial assessing the effect of 3 months of CPAP on cardiovascular risk in type 2 diabetes .
+METHODS	Of 35 males starting CPAP , 27 ( mean SD age 65.4 9.6 years , median [ interquartile range ] diabetes duration 12.1 [ 5.2-15 .3 ] years ) completed the trial .
+METHODS	Serum total and free testosterone , responses to the Androgen Deficiency in the Aging Aale ( ADAM ) and Sexual Health Inventory for Men ( SHIM ) questionnaires .
+RESULTS	There were no significant changes in mean total or free testosterone ( baseline concentrations 12.7 4.5 nm and 0.26 0.07 pm , respectively ) , or SHIM score ( baseline 13 [ 5-17 ] ) , after 3 months of CPAP ( P > 0.20 ) .
+RESULTS	The ADAM score ( baseline 6.2 2.1 ) fell after 1 month ( to 5.0 2.6 ) and was maintained at this level at 3 months ( P = 0.015 ) .
+RESULTS	The Epworth Sleepiness Scale score decreased and self-reported physical activity increased over 3 months ( P 0.017 ) without a change in body mass index ( P = 1.00 ) .
+CONCLUSIONS	These findings imply that CPAP therapy improves somnolence and promotes exercise in men with type 2 diabetes , but that there is no direct benefit for gonadal or sexual function .
+

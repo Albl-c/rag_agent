@@ -1,0 +1,15 @@
+24746254
+BACKGROUND	Laparoscopic common bile duct exploration ( LCBDE ) is now one of the main methods for treating choledocholithiasis accompanied with cholelithiasis .
+BACKGROUND	The objective of our study was to assess the safety and effectiveness of laparoscopic primary closure for the treatment of common bile duct ( CBD ) stones compared with T-tube drainage .
+METHODS	Patients who underwent CBD stones were studied prospectively from 2002-2012 in a single center .
+METHODS	A total of 194 patients were randomly assigned to group A ( LCBDE with primary closure ) with 101 cases and group B ( LCBDE with T-tube drainage ) with 93 cases .
+METHODS	Intraoperative cholangiography and choledochoscopy were performed in all patients .
+METHODS	Patient demographics , intraoperative findings , postoperative stay , complications , and hospital expenses were recorded and analyzed .
+RESULTS	There was no mortality in the two groups .
+RESULTS	Four patients ( 3.96 % ) of group A were converted to open surgery , and three patients ( 3.23 % ) in group B.
+RESULTS	The mean operating time was much shorter in group A than in group B ( 102.6 15.2 min versus 128.6 20.4 min , P < 0.05 ) .
+RESULTS	The length of postoperative hospital stay was longer in group B ( 4.9 3.2 d ) than in group A ( 3.2 2.1 d ) .
+RESULTS	The hospital expenses were significantly lower in group A. Three patients experienced postoperative complications , which were related to the usage of the T-tube in group B.
+RESULTS	The incidences of overall postoperative complications were insignificantly lower in group A.
+CONCLUSIONS	Laparoscopic primary closure of CBD is safe and effective for the management of CBD stones , and can be performed routinely as an alternative to T-tube drainage .
+

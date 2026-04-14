@@ -1,0 +1,18 @@
+24334216
+BACKGROUND	Sexual health problems such as unwanted pregnancy and sexually transmitted infection are important public health concerns and there is huge potential for health promotion using digital interventions .
+BACKGROUND	Evaluations of digital interventions are increasingly conducted online .
+BACKGROUND	Trial administration and data collection online offers many advantages , but concerns remain over fraudulent registration to obtain compensation , the quality of self-reported data , and high attrition .
+OBJECTIVE	This study addresses the feasibility of several dimensions of online trial design-recruitment , online consent , participant identity verification , randomization and concealment of allocation , online data collection , data quality , and retention at 3-month follow-up .
+METHODS	Young people aged 16 to 20 years and resident in the United Kingdom were recruited to the `` Sexunzipped '' online trial between November 2010 and March 2011 ( n = 2036 ) .
+METHODS	Participants filled in baseline demographic and sexual health questionnaires online and were randomized to the Sexunzipped interactive intervention website or to an information-only control website .
+METHODS	Participants were also randomly allocated to a postal request ( or no request ) for a urine sample for genital chlamydia testing and receipt of a lower ( 10/US $ 16 ) or higher ( 20/US $ 32 ) value shopping voucher compensation for 3-month outcome data .
+RESULTS	The majority of the 2006 valid participants ( 90.98 % , 1825/2006 ) were aged between 18 and 20 years at enrolment , from all four countries in the United Kingdom .
+RESULTS	Most were white ( 89.98 % , 1805/2006 ) , most were in school or training ( 77.48 % , 1545/1994 ) , and 62.81 % ( 1260/2006 ) of the sample were female .
+RESULTS	In total , 3.88 % ( 79/2036 ) of registrations appeared to be invalid and another 4.00 % ( 81/2006 ) of participants gave inconsistent responses within the questionnaire .
+RESULTS	The higher value compensation ( 20/US $ 32 ) increased response rates by 6-10 % , boosting retention at 3 months to 77.2 % ( 166/215 ) for submission of online self-reported sexual health outcomes and 47.4 % ( 118/249 ) for return of chlamydia urine samples by post .
+CONCLUSIONS	It was quick and efficient to recruit young people to this online trial .
+CONCLUSIONS	Our procedures for obtaining online consent , verifying participant identity , automated randomization , and concealment of allocation worked well .
+CONCLUSIONS	The optimal response rate for the online sexual health outcome measurement was comparable to face-to-face trials .
+CONCLUSIONS	Multiple methods of participant contact , requesting online data only , and higher value compensation increased trial retention at 3-month follow-up .
+BACKGROUND	International Standard Randomized Controlled Trial Number ( ISRCTN ) : 55651027 ; http://www.controlled-trials.com/ISRCTN55651027 ( Archived by WebCite at http://www.webcitation.org/6LbkxdPKf ) .
+

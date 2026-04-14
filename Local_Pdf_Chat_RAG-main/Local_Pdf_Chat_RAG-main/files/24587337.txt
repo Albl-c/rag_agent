@@ -1,0 +1,14 @@
+24587337
+OBJECTIVE	We studied the combined effects of wholegrain , fish and bilberries on serum metabolic profile and lipid transfer protein activities in subjects with the metabolic syndrome .
+METHODS	Altogether 131 subjects ( 40-70 y , BMI 26-39 kg/m ( 2 ) ) with impaired glucose metabolism and features of the metabolic syndrome were randomized into three groups with 12-week periods according to a parallel study design .
+METHODS	They consumed either : a ) wholegrain and low postprandial insulin response grain products , fatty fish 3 times a week , and bilberries 3 portions per day ( HealthyDiet ) , b ) wholegrain and low postprandial insulin response grain products ( WGED ) , or c ) refined wheat breads as cereal products ( Control ) .
+METHODS	Altogether 106 subjects completed the study .
+METHODS	Serum metabolic profile was studied using an NMR-based platform providing information on lipoprotein subclasses and lipids as well as low-molecular-weight metabolites .
+RESULTS	There were no significant differences in clinical characteristics between the groups at baseline or at the end of the intervention .
+RESULTS	Mixed model analyses revealed significant changes in lipid metabolites in the HealthyDiet group during the intervention compared to the Control group .
+RESULTS	All changes reflected increased polyunsaturation in plasma fatty acids , especially in n-3 PUFAs , while n-6 and n-7 fatty acids decreased .
+RESULTS	According to tertiles of changes in fish intake , a greater increase of fish intake was associated with increased concentration of large HDL particles , larger average diameter of HDL particles , and increased concentrations of large HDL lipid components , even though total levels of HDL cholesterol remained stable .
+CONCLUSIONS	The results suggest that consumption of diet rich in whole grain , bilberries and especially fatty fish causes changes in HDL particles shifting their subclass distribution toward larger particles .
+CONCLUSIONS	These changes may be related to known protective functions of HDL such as reverse cholesterol transport and could partly explain the known protective effects of fish consumption against atherosclerosis .
+BACKGROUND	The study was registered at ClinicalTrials.gov NCT00573781 .
+

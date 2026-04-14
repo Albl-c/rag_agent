@@ -1,0 +1,15 @@
+25782685
+OBJECTIVE	Concurrent chemoradiotherapy ( CRT ) is the standard treatment for advanced head and neck squamous cell carcinoma .
+OBJECTIVE	In this phase II randomized study , the efficacy and toxicity of docetaxel , cisplatin and 5-fluorouracil induction chemotherapy ( ICT ) followed by concurrent CRT was compared with those after standard CRT alone in patients with locally advanced , unresectable head and neck cancer .
+METHODS	Between January 2007 and June 2009 , 66 patients with advanced ( stage III or IV ) unresectable squamous cell carcinoma of the head and neck ( oral cavity , oropharynx , hypopharynx , and larynx ) were randomly assigned to two groups : one receiving two cycles of docetaxel , cisplatin , and 5-fluorouracil ICT followed by CRT with three cycles of cisplatin and one treated by CRT alone .
+METHODS	Response rate , local tumor control ( LTC ) , locoregional tumor control ( LRTC ) , overall survival ( OS ) , progression-free survival ( PFS ) , and toxicity results were assessed .
+RESULTS	Three patients from the ICT + CRT group did not appear at the first treatment , so a total of 63 patients were evaluated in the study ( 30 ICT + CRT group and 33 CRT group ) .
+RESULTS	Three patients died of febrile neutropenia after ICT .
+RESULTS	The median follow-up time for surviving patients was 63 months ( range 53-82 months ) .
+RESULTS	The rate of radiologic complete response was 63 % following ICT + CRT , whereas 70 % after CRT alone .
+RESULTS	There were no significant differences in the 3-year rates of LTC ( 56 vs. 57 % ) , LRTC ( 42 vs. 50 % ) , OS ( 43 vs. 55 % ) , and PFS ( 41 vs. 50 % ) in the ICT + CRT group and in the CRT group , respectively .
+RESULTS	The rate of grade 3-4 neutropenia was significantly higher in the ICT + CRT group than in the CRT group ( 37 and 12 % ; p = 0.024 ) .
+RESULTS	Late toxicity ( grade 2 or 3 xerostomia ) developed in 59 and 42 % in the ICT + CRT and CRT groups , respectively .
+CONCLUSIONS	The addition of ICT to CRT did not show any advantage in our phase II trial , while the incidence of adverse events increased .
+CONCLUSIONS	The three deaths as a consequence of ICT call attention to the importance of adequate patient selection if ICT is considered .
+

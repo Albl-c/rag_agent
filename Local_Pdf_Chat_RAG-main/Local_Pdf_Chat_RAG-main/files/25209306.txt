@@ -1,0 +1,17 @@
+25209306
+BACKGROUND	One important public health issue associated with opioid use today is the risk of hepatitis C ( HCV ) infection .
+BACKGROUND	Although methadone maintenance may help to decrease HCV-related risk practices , HCV risk behaviors persist and are strongly associated with specific substance use patterns , mental status and social context .
+BACKGROUND	The ANRS-Methaville study gave us the opportunity to better disentangle the different relationships between these various factors and HCV risk practices .
+METHODS	The ANRS-Methaville multisite randomized trial was designed to assess the feasibility of initiating methadone in primary care by comparing it with methadone initiation in specialized centers .
+METHODS	This study recruited 195 participants initiating methadone maintenance and followed up for 12months .
+METHODS	Longitudinal data from this trial was used to acquire a greater understanding of HCV risk practices and their pattern of correlates in this population .
+METHODS	We selected 176 patients who had data on HCV risk practices at M0 and M12 , accounting for 312 visits .
+METHODS	HCV risk practices were defined as follows : sharing needles or syringes , sharing drug paraphernalia , getting a tattoo or having a piercing in a non-professional context , sharing toiletry items .
+METHODS	To identify factors associated with HCV risk practices , we performed a mixed logistic regression analysis .
+RESULTS	HCV risk practices were reported by 19 % and 15 % of participants at baseline and M12 , respectively .
+RESULTS	After adjustment for age , cocaine use and alcohol dependence as well as suicidal risk , living in a couple with a non-drug user and in a couple with a drug user were both independent predictors of HCV risk practices ( OR [ CI95 % ] = 4.16 [ 1.42-12 .12 ] ; OR [ CI95 % ] = 9.85 [ 3.13-31 .06 ] , respectively ) .
+CONCLUSIONS	Identifying individuals at risk of HCV transmission during methadone treatment such as stimulant users , alcohol dependent individuals , and those at suicidal risk is necessary to optimize response to treatment .
+CONCLUSIONS	Innovative prevention approaches tailored to couples are also urgently needed and could decrease HCV-risk in this population .
+CONCLUSIONS	The trial is registered with the French Agency of Pharmaceutical Products ( ANSM ) under the number 2008-A0277-48 , the European Union Drug Regulating Authorities Clinical Trials .
+CONCLUSIONS	Number Eudract 2008-001338-28 , the ClinicalTrials.gov Identifier : NCT00657397 and the International Standard Randomised Controlled Trial Number Register ISRCTN31125511 .
+

@@ -1,0 +1,17 @@
+25980660
+OBJECTIVE	Noninvasive ventilation delivered as bilevel positive airway pressure ( BiPAP ) is often used to avoid reintubation and improve outcomes of patients with hypoxemia after cardiothoracic surgery .
+OBJECTIVE	High-flow nasal oxygen therapy is increasingly used to improve oxygenation because of its ease of implementation , tolerance , and clinical effectiveness .
+OBJECTIVE	To determine whether high-flow nasal oxygen therapy was not inferior to BiPAP for preventing or resolving acute respiratory failure after cardiothoracic surgery .
+METHODS	Multicenter , randomized , noninferiority trial ( BiPOP Study ) conducted between June 15 , 2011 , and January 15 , 2014 , at 6 French intensive care units .
+METHODS	A total of 830 patients who had undergone cardiothoracic surgery , of which coronary artery bypass , valvular repair , and pulmonary thromboendarterectomy were the most common , were included when they developed acute respiratory failure ( failure of a spontaneous breathing trial or successful breathing trial but failed extubation ) or were deemed at risk for respiratory failure after extubation due to preexisting risk factors .
+METHODS	Patients were randomly assigned to receive high-flow nasal oxygen therapy delivered continuously through a nasal cannula ( flow , 50 L/min ; fraction of inspired oxygen [ FiO2 ] , 50 % ) ( n = 414 ) or BiPAP delivered with a full-face mask for at least 4 hours per day ( pressure support level , 8 cm H2O ; positive end-expiratory pressure , 4 cm H2O ; FiO2 , 50 % ) ( n = 416 ) .
+METHODS	The primary outcome was treatment failure , defined as reintubation , switch to the other study treatment , or premature treatment discontinuation ( patient request or adverse effects , including gastric distention ) .
+METHODS	Noninferiority of high-flow nasal oxygen therapy would be demonstrated if the lower boundary of the 95 % CI were less than 9 % .
+METHODS	Secondary outcomes included mortality during intensive care unit stay , changes in respiratory variables , and respiratory complications .
+RESULTS	High-flow nasal oxygen therapy was not inferior to BiPAP : the treatment failed in 87 of 414 patients with high-flow nasal oxygen therapy ( 21.0 % ) and 91 of 416 patients with BiPAP ( 21.9 % ) ( absolute difference , 0.9 % ; 95 % CI , -4.9 % to 6.6 % ; P = .003 ) .
+RESULTS	No significant differences were found for intensive care unit mortality ( 23 patients with BiPAP [ 5.5 % ] and 28 with high-flow nasal oxygen therapy [ 6.8 % ] ; P = .66 ) ( absolute difference , 1.2 % [ 95 % CI , -2.3 % to 4.8 % ] .
+RESULTS	Skin breakdown was significantly more common with BiPAP after 24 hours ( 10 % vs 3 % ; 95 % CI , 7.3 % -13.4 % vs 1.8 % -5.6 % ; P < .001 ) .
+CONCLUSIONS	Among cardiothoracic surgery patients with or at risk for respiratory failure , the use of high-flow nasal oxygen therapy compared with intermittent BiPAP did not result in a worse rate of treatment failure .
+CONCLUSIONS	The findings support the use of high-flow nasal oxygen therapy in similar patients .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01458444 .
+

@@ -1,0 +1,20 @@
+24574085
+BACKGROUND	Nasal saline irrigation is a safe treatment for chronic rhinosinusitis ; however , its effect on olfaction is unclear .
+BACKGROUND	Cyclic adenosine monophosphate ( cAMP ) is a key second messenger in the mechanism of olfaction and has been shown to be associated with smell function .
+BACKGROUND	In animal studies , olfactory cilia may be harvested by simple saline preparations .
+BACKGROUND	This study aimed to characterize the effect of nasal saline irrigation on smell function .
+METHODS	Volunteers with normal olfaction were randomized into a control or irrigation cohort .
+METHODS	In the initial appointment , subjects completed a University of Pennsylvania Smell Identification Test ( UPSIT ) and nasal samples were obtained by 2 methods : the nasal curette and cytobrush .
+METHODS	The irrigation cohort performed daily nasal saline irrigations .
+METHODS	Both cohorts then returned in 1 week .
+METHODS	The UPSIT and nasal cell collection were repeated , and each subject completed a subjective olfactory transition scale .
+METHODS	Nasal samples were processed for cAMP levels using a commercial assay .
+RESULTS	Thirty-two subjects were enrolled and randomized into each cohort .
+RESULTS	Control and postirrigation mean UPSIT scores were 36.8 and 36.7 ( p = 0.48 ) .
+RESULTS	No subjects reported a subjective smell loss .
+RESULTS	Ten pairs of nasal samples were assayed .
+RESULTS	Using the curette , control and postirrigation cAMP levels were 509 and 490 fmol / ( mg/mL ) , respectively ( p = 0.94 ) .
+RESULTS	Using the cytobrush , respective cAMP levels were 424 and 449 fmol / ( mg/mL ) , respectively ( p = 0.94 ) .
+CONCLUSIONS	Nasal saline irrigation has no subjective or objective effect on olfaction .
+CONCLUSIONS	It also does not appear to affect cAMP levels , a potential marker of smell function .
+

@@ -1,0 +1,16 @@
+25248497
+BACKGROUND	Postnatal common mental disorders among women are an important public health problem internationally .
+BACKGROUND	Interventions to prevent postnatal depression have had limited success .
+BACKGROUND	What Were We Thinking ( WWWT ) is a structured , gender-informed , psychoeducational group programme for parents and their first infant that addresses two modifiable risks to postnatal mental health .
+BACKGROUND	This paper describes the protocol for a cluster randomised controlled trial to test the clinical effectiveness and cost-effectiveness of WWWT when implemented in usual primary care .
+METHODS	48 maternal and child health ( MCH ) centres from six diverse Local Government Areas , in Victoria , Australia are randomly allocated to the intervention group ( usual care plus WWWT ) or the control group ( usual care ) .
+METHODS	The required sample size is 184 women in each group .
+METHODS	English-speaking primiparous women receiving postpartum healthcare in participating MCH centres complete two computer-assisted telephone interviews : baseline at 4weeks and outcome at 6months postpartum .
+METHODS	Women attending intervention MCH centres are invited to attend WWWT in addition to usual care .
+METHODS	The primary outcome is meeting Diagnostic and Statistical Manual-IV ( DSM-IV ) diagnostic criteria for major depressive episode ; generalised anxiety disorder ; panic disorder with or without agoraphobia , agoraphobia with or without panic , social phobia , adult separation anxiety or adjustment disorder with depressed mood , anxiety or mixed depressed mood and anxiety within the past 30days at 6months postpartum .
+METHODS	Secondary outcomes are self-rated general and emotional health , infant sleep problems , method of infant feeding , quality of mother-infant relationship and intimate partner relationship , and healthcare costs and outcomes .
+BACKGROUND	Approval to conduct the study has been granted .
+BACKGROUND	A comprehensive dissemination plan has been devised .
+BACKGROUND	Australian New Zealand Clinical Trials Registry ACTRN12613000506796 .
+BACKGROUND	UTN : U1111-1125-8208 .
+

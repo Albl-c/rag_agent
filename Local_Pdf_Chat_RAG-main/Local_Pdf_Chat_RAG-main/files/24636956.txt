@@ -1,0 +1,14 @@
+24636956
+BACKGROUND	There is limited evidence supporting the podiatric treatment of children with juvenile idiopathic arthritis ( JIA ) .
+BACKGROUND	This multicentre randomised controlled trial aimed to determine whether preformed foot orthoses ( FOs ) impacted on pain and quality of life ( QoL ) in children with JIA .
+METHODS	Eligible children were randomised to receive either ` fitted ' FOs with customised chair-side corrections or ` control ' FOs made without corrections .
+METHODS	Changes in pain and QoL were measured using a visual analogue scale and Paediatric Quality of Life questionnaire , respectively .
+METHODS	JIA children were assessed at baseline , 3 months and 6 months .
+RESULTS	60 children were recruited .
+RESULTS	179 out of a possible 180 assessments ( 99.4 % ) were completed .
+RESULTS	A statistically significant greater difference in pain reduction ( baseline - 6 months ) was seen between the two groups favouring fitted FOs ( p = 0.029 ) .
+RESULTS	The reduction in pain in the fitted FOs group was clinically important ( 8 mm ) .
+RESULTS	Significant differences in QoL favouring fitted FOs were also identified as measured by the children and independently by their parents/carers .
+CONCLUSIONS	Fitted FOs may reduce pain and improve QoL in selected children with JIA .
+BACKGROUND	NCT02001844 .
+

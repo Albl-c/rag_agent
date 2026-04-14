@@ -1,0 +1,12 @@
+24661511
+OBJECTIVE	To evaluate the clinical effect of proton pump inhibitor-based triple therapy combined with Saccharomyces boulardii in the treatment of Helicobacter pylori ( Hp ) infection among children in terms of Hp eradication rate and incidence of adverse events .
+METHODS	A prospective randomised controlled study was conducted on 240 children with a confirmed diagnosis of Hp infection .
+METHODS	These patients were randomized into triple therapy ( n = 120 ) and probiotics groups ( n = 120 ) .
+METHODS	The triple therapy group received amoxicillin [ 40mg / ( kgd ) , Tid ] , clarithromycin [ 15mg / ( kgd ) , Bid ] and omeprazole [ 0.7-0 .8 mg / ( kgd ) , Qd ] , while the probiotics group received Saccharomyces boulardii ( 250mg , Bid ) in addition to triple therapy .
+METHODS	The course of treatment was 14 days in both groups .
+METHODS	The adverse events in subjects were recorded by their parents during treatment .
+METHODS	Hp eradiation was evaluated by ( 13 ) C breath test at 4 weeks after treatment , and the eradication rate and incidence of adverse events were compared between the two groups .
+RESULTS	The Hp eradication rates were 75.8 % ( 91/120 ) in the triple therapy group and 85 % ( 102/120 ) in the probiotics group ( P > 0.05 ) .
+RESULTS	Compared with the triple therapy group , the probiotics group had nonsignificantly lower incidence of nausea , vomiting , and abdominal pain ( P > 0.05 ) and significantly lower incidence of stomatitis , constipation and diarrhea ( P < 0.05 ) .
+CONCLUSIONS	Triple therapy combined with Saccharomyces boulardii can not significantly increase Hp eradication rate , but can significantly reduce the incidence of stomatitis , constipation , and diarrhea during treatment .
+

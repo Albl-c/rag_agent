@@ -1,0 +1,11 @@
+25565482
+OBJECTIVE	Increasing physical activity is an important public-health goal worldwide , but there are few published mediation analyses of physical-activity interventions in low-to-middle-income countries like South Africa undergoing a health transition involving markedly increased mortality from non-communicable diseases .
+OBJECTIVE	This article reports secondary analyses on the mediation of a theory-of-planned-behavior-based behavioral intervention that increased self-reported physical activity in a trial with 1181 men in Eastern Cape Province , South Africa .
+METHODS	Twenty-two matched-pairs of neighborhoods were randomly selected .
+METHODS	Within pairs , neighborhoods were randomized to a health-promotion intervention or an attention-matched control intervention with baseline , immediate-post , and 6 - and 12-month post-intervention assessments .
+METHODS	Theory-of-planned-behavior constructs measured immediately post-intervention were tested as potential mediators of the primary outcome , self-reported physical activity averaged over the 6 - and 12-month post-intervention assessments , using a product-of-coefficients approach in a generalized-estimating-equations framework .
+METHODS	Data were collected in 2007-2010 .
+RESULTS	Attitude , subjective norm , self-efficacy , and intention were significant mediators of intervention-induced increases in self-reported physical activity .
+RESULTS	The descriptive norm , not affected by the intervention , was not a mediator , but predicted increased self-reported physical activity .
+CONCLUSIONS	The results suggest that interventions targeting theory-of-planned-behavior constructs may contribute to efforts to increase physical activity to reduce the burden of non-communicable diseases among South African men .
+

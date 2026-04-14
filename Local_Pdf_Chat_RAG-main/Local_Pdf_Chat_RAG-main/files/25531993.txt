@@ -1,0 +1,17 @@
+25531993
+OBJECTIVE	Antibiotic resistance is the main reason for failure of Helicobacter pylori ( H. pylori ) treatment .
+OBJECTIVE	Currently , guidelines recommend a treatment guided by antimicrobial susceptibility testing after two failures .
+OBJECTIVE	However , microbial culture is not feasible everywhere , and the limited number of effective antibiotics against the bacterium narrows the options ; thus a rescue therapy combining antibiotics with a low resistance may be fitting .
+METHODS	Patients who have failed a first-line treatment ( either prolonged triple or sequential regimens ) and , successively , a levofloxacin-based triple therapy were considered for the study .
+METHODS	Subjects underwent urea breath test ( UBT ) , stool antigen test ( ST ) and endoscopy/histology to confirm the diagnosis .
+METHODS	Cytopenia and impaired liver and kidney function were exclusion criteria .
+METHODS	Fifty-four subjects were randomized 1:1 to two regimens : RMB Rabeprazole/Rifabutin/Minocycline / Bismuth sub-citrate or MTB Rabeprazole/Tinidazole/Minocycline / Bismuth sub-citrate both for 10 days .
+METHODS	The results were checked 6 weeks after the end of therapy with ST/UBT plus endoscopy when indicated .
+RESULTS	RMB eradicated the bacterium in 21 patients .
+RESULTS	Two subjects dropped out .
+RESULTS	The eradication rate was 77.7 % ( CI 62.0-93 .4 % ) at intention-to-treat and 84.0 % ( CI 69.6-98 .4 % ) at per-protocol analysis .
+RESULTS	MTB was successful in 14 patients ( 51.9 % , CI 33.1-70 .7 % ) .
+RESULTS	No patient withdrew from the treatment for adverse events .
+RESULTS	Drug-related side effects were reported only in 3 subjects , but in all cases the treatment was carried on .
+CONCLUSIONS	The association minocycline/rifabutin seems to have a synergic effect and a good therapeutic outcome in patients who have failed at least two previous regimens , although a trial on a large population is needed .
+

@@ -1,0 +1,18 @@
+24879143
+OBJECTIVE	Laparoscopic cholecystectomy ( LC ) , a gold standard procedure can be done without energized dissection ( ED ) .
+OBJECTIVE	We did a randomized study for the outcomes of LC done with ED or without ED , i.e. , with cold dissection ( CD ) .
+METHODS	At a tertiary level institution , open-ended prospective-randomized control study was conducted between September 2008 and June 2013 .
+METHODS	Consecutive , unselected , consenting candidates for LC were enrolled following standard ethics , informed consent , anesthesia , and clinical pathway protocol .
+METHODS	They were allocated to control group ( LC with ED ) or study group ( LC with CD , as per our published technique with the option for rescue ED ) .
+METHODS	The study points were based upon Clavien-Dindo grading of postoperative complications .
+METHODS	They were either , peri-operative events potentially affecting , hospital stay ( Grade I ) or Grade II-V , e.g. , peri-operative hemodynamic instability , needing intervention/blood transfusion , injury to biliary ducts/hollow viscous , postoperative biliary leak , postoperative re-intervention , re-hospitalization , mortality , and any adverse event during a 90-day follow-up period .
+METHODS	The data were prospectively collected in an integrated `` hospital information system '' that could be retrieved only by independent external coordinators .
+RESULTS	Demographics , co-morbidities , and gallbladder inflammation profile of the control group ( n = 361 ) and study group ( n = 384 ) were comparable .
+RESULTS	There was no rescue ED usage in the study group .
+RESULTS	Hospital stay ( Grade I adverse outcome dependent ) was longer , i.e. , 1.6 1.03 in the control versus 1.35 1.2 days in the study group ( p < 0.001 ) .
+RESULTS	Grade II-IV complications were significantly more ( p < 0.009 ) in control group .
+RESULTS	There was one common bile duct ( CBD ) injury in each group .
+RESULTS	The index bilio-enteric anastomosis for CBD injury in control group failed and needed a revision with multiple interventions .
+RESULTS	There was one grade V adverse outcome , i.e. , mortality in the control group .
+CONCLUSIONS	Avoiding the use of ED in LC is associated with better outcomes .
+

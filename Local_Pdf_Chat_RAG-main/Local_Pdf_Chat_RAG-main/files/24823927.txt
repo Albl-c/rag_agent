@@ -1,0 +1,11 @@
+24823927
+OBJECTIVE	Alternative drug therapies are needed for the treatment of portal hypertension .
+OBJECTIVE	The aim of this randomized study was to evaluate and compare the effects of carvedilol and nebivolol on the hepatic venous pressure gradient ( HVPG ) response in the patients with liver cirrhosis .
+METHODS	In total , 20 cirrhotic patients were randomized into 2 groups and treated with carvedilol ( n = 10 ) or nebivolol ( n = 10 ) .
+METHODS	HVPG was measured at baseline , 60 minutes after the administration of carvedilol ( 25 mg ) or nebivolol ( 5 mg ) , and after 14 days of carvedilol ( 25 mg ) or nebivolol ( 5 mg ) administered daily .
+METHODS	RESULTS .
+METHODS	Carvedilol significantly reduced HVPG from 22.2 mm Hg ( SD , 4.4 ) to 15.2 mm Hg ( SD , 3.7 ) after 60 minutes and to 16.4 mm Hg ( SD , 2.9 ) after 14 days ( P < 0.01 ) .
+METHODS	Nebivolol reduced HVPG from 19.7 mm Hg ( SD , 2.5 ) to 15.7 mm Hg ( SD , 2.6 ) and 16.7 mm Hg ( SD , 3.2 ) , respectively ( P < 0.02 ) .
+METHODS	Carvedilol effectively decreased HVPG in a greater proportion of the patients after an acute probe ( 88 % vs. 57 % ) and after 14 days of the treatment ( 88 % vs. 28 % , P < 0.05 ) in comparison with nebivolol .
+CONCLUSIONS	Carvedilol and nebivolol reduce HVPG in cirrhotic patients ; however , the effect of carvedilol on the HVPG reduction might be superior to that of nebivolol , especially after 14 days of treatment .
+

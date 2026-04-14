@@ -1,0 +1,11 @@
+25421015
+OBJECTIVE	To compare the pharmacodynamic effects of the highest approved doses of the sodium glucose co-transporter 2 ( SGLT2 ) inhibitors canagliflozin and dapagliflozin on urinary glucose excretion ( UGE ) , renal threshold for glucose excretion ( RTG ) and postprandial plasma glucose ( PPG ) excursion in healthy participants in a randomized , double-blind , two-period crossover study .
+METHODS	In each treatment period , participants ( n = 54 ) received canagliflozin 300mg or dapagliflozin 10mg for 4days ( 20min before breakfast ) .
+METHODS	A mixed-meal tolerance test ( 600kcal ; 75g glucose ) was performed at baseline and on day 4 of each treatment period to assess changes in incremental PPG ( PPGAUC0-2 h ) .
+METHODS	We measured 24-h UGE and plasma glucose on day 4 to determine 24-h mean RTG .
+RESULTS	Canagliflozin 300mg and dapagliflozin 10mg had similar effects on UGE and RTG for 4h after dosing , but canagliflozin was associated with higher UGE and greater RTG reductions for the remainder of the day .
+RESULTS	Mean 24-h UGE was 25 % higher with canagliflozin than with dapagliflozin ( 51.4 vs. 40.8 g ) , and 24-h mean RTG was 0.4 mmol/l ( 7 mg/dl ) lower with canagliflozin than with dapagliflozin ( 3.79 vs. 4.17 mmol/l ; p < 0.0001 ) .
+RESULTS	Dapagliflozin had no effect on PPG excursion ; canagliflozin delayed and reduced PPG excursion ( between-treatment difference in PPGAUC0-2 h from baseline expressed as a percentage of baseline mean , -10.2 % ; p = 0.0122 ) .
+RESULTS	Canagliflozin and dapagliflozin were generally well tolerated .
+CONCLUSIONS	In healthy participants , canagliflozin 300mg provided greater 24-h UGE , a lower RTG and smaller PPG excursions than dapagliflozin 10mg .
+

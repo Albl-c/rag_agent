@@ -1,0 +1,16 @@
+24428857
+OBJECTIVE	To determine whether single-dose tranexamic acid given intravenously immediately before surgery for presumed advanced ovarian cancer reduces perioperative blood loss and blood transfusions .
+METHODS	A randomized double-blind , placebo-controlled multicenter study .
+METHODS	Two university hospitals and two central hospitals in the southeast health region of Sweden .
+METHODS	One hundred women with presumed advanced ovarian cancer scheduled for radical debulking surgery between March 2008 and May 2012 who complied with inclusion/exclusion criteria were randomized ; 50 were allocated to receive tranexamic acid and 50 to receive placebo .
+METHODS	Analysis was performed according to intention-to-treat principles .
+METHODS	The volume of tranexamic acid ( 15mg/kg body weight , 100mg/mL tranexamic acid ) or the same volume of placebo ( 0.9 % NaCl ) was added to a 100-mL saline solution plastic bag .
+METHODS	The study medication was given immediately before the start of surgery .
+METHODS	Data were analyzed by means of non-parametric statistics and multivariate models adjusted for confounding factors .
+METHODS	Blood loss and red blood cell transfusions .
+RESULTS	The total blood loss volume and transfusion rate were significantly lower in the tranexamic acid group compared with the placebo group .
+RESULTS	Median total blood loss was 520 and 730mL , respectively ( p = 0.03 ) .
+RESULTS	Fifteen ( 30 % ) and 22 ( 44 % ) , respectively received transfusions ( odds ratio 0.44 ; upper 95 % CI 0.97 ; p = 0.02 ) .
+CONCLUSIONS	A single dose of tranexamic acid given immediately before surgery reduces blood loss and transfusion rates significantly in advanced ovarian cancer surgery .
+CONCLUSIONS	Tranexamic acid may be recommended as standard prophylactic treatment in advanced ovarian cancer surgery .
+

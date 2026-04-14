@@ -1,0 +1,12 @@
+25048383
+OBJECTIVE	To evaluate weekly subcutaneous albiglutide versus daily sitagliptin in renally impaired patients with type 2 diabetes and inadequately controlled glycemia on a regimen of diet and exercise and/or oral antihyperglycemic medications .
+METHODS	In this phase III , randomized , double-blind , multicenter , 52-week study , the primary study end point was HbA1c change from baseline at week 26 in patients with renal impairment , as assessed with estimated glomerular filtration rate and categorized as mild , moderate , or severe ( 60 to 89 , 30 to 59 , and 15 to 29 mL/min/1 .73 m ( 2 ) , respectively ) .
+METHODS	Secondary end points included fasting plasma glucose ( FPG ) , weight , achievement of treatment targets , hyperglycemic rescue , and safety .
+RESULTS	Baseline demographics were similar across treatment and renal impairment groups with overall mean age of 63.3 years , BMI of 30.4 kg/m ( 2 ) , HbA1c of 8.2 % ( 66 mmol/mol ) , and diabetes disease duration of 11.2 years .
+RESULTS	HbA1c change from baseline at week 26 was significantly greater for albiglutide than sitagliptin ( -0.83 % vs. -0.52 % , P = 0.0003 ) .
+RESULTS	Decreases in HbA1c , FPG , and weight were seen through week 52 .
+RESULTS	Time to hyperglycemic rescue through week 52 was significantly longer for albiglutide than sitagliptin ( P = 0.0017 ) .
+RESULTS	Results of safety assessments were similar between groups , and most adverse events ( AEs ) were mild or moderate .
+RESULTS	The incidences of gastrointestinal AEs for albiglutide and sitagliptin were as follows : overall , 31.7 % , 25.2 % ; diarrhea , 10.0 % , 6.5 % ; nausea , 4.8 % , 3.3 % ; and vomiting , 1.6 % , 1.2 % , respectively .
+CONCLUSIONS	Once-weekly albiglutide therapy in renally impaired patients with type 2 diabetes provided statistically superior glycemic improvement with almost similar tolerability compared with daily sitagliptin therapy .
+

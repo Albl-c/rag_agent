@@ -1,0 +1,17 @@
+25098195
+METHODS	Feasibility randomized controlled trial .
+OBJECTIVE	To assess the feasibility of a trial to investigate the effectiveness of a lumbopelvic monitor as a feedback device for modifying postural behavior during daily work-related activities .
+BACKGROUND	Frequent or sustained flexed postures play a role in the development or maintenance of nonspecific low back pain .
+BACKGROUND	The provision of postural feedback could help individuals with or at risk of nonspecific low back pain improve their postural awareness and avoid hazardous or pain-provoking postures .
+METHODS	Sixty-two participants employed in a health care organization were randomly allocated into 1 of 3 groups : a control group , an intermittent feedback group , and a constant feedback group .
+METHODS	Adherence and follow-up rates were assessed .
+METHODS	Differences in postural pattern between baseline and follow-up measurements were used to assess the effectiveness of the lumbopelvic monitor as a postural feedback device .
+RESULTS	Adherence was approximately 75 % .
+RESULTS	With the exception of 1 center , the follow-up overall rates exceeded the a priori desired threshold of 80 % .
+RESULTS	Within-group comparisons revealed no significant differences in postural pattern for the control group and intermittent feedback group .
+RESULTS	The constant feedback group showed a significant reduction in flexed posture at the follow-up period compared with the baseline period .
+RESULTS	Differences between groups did not reach statistical significance ; however , the constant feedback group , compared with the control group , demonstrated an effect size ( d ) of 0.60 .
+CONCLUSIONS	The provision of constant postural feedback seems promising for promoting changes in postural behavior .
+CONCLUSIONS	This feasibility trial identified adherence and follow-up rates and sample-size estimates important to the conduct of a fully powered efficacy trial .
+CONCLUSIONS	Level of Evidence Therapy , level 2b - .
+

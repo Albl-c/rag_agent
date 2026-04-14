@@ -1,0 +1,13 @@
+24393120
+BACKGROUND	Pulmonary embolism ( PE ) is the third most common cause of death from cardiovascular disease .
+BACKGROUND	Computed-tomographic pulmonary angiography ( CTPA ) is an accurate and safe test for diagnosing PE .
+BACKGROUND	The aim of this retrospective analysis was to evaluate the effects on image quality ( IQ ) of electrocardiogram ( ECG ) gating during CTPA .
+METHODS	Fifty consecutive patients presenting for CTPA were included in the study .
+METHODS	A single acquisition was performed , resulting in two reconstructions : one at 75 % of the R-R interval and the other without ECG influence .
+METHODS	IQ evaluation was undertaken by two radiologists , focusing on respiratory and cardiac motion , image noise , low-contrast resolution , vessel and lung clarity , contrast media opacification and artefacts .
+METHODS	Various regions of the lungs and vasculature were evaluated , and IQ scores were statistically compared .
+RESULTS	For the ECG-tagged reconstructions , IQ was noted to be better overall with regard to vessel clarity ( P < 0.05 ) and cardiac motion ( P < 0.05 ) , while lung clarity was better only in the left lower zone ( P < 0.05 ) .
+RESULTS	IQ was better with regard to image noise ( P < 0.05 ) and low-contrast resolution ( P < 0.05 ) in the non-ECG-tagged reconstructions .
+RESULTS	No statistical IQ difference between the two types of reconstruction was noted with regard to respiratory motion , contrast media opacification or presence of artefacts .
+CONCLUSIONS	The two types of reconstruction provide complementary information for evaluating CTPA results .
+

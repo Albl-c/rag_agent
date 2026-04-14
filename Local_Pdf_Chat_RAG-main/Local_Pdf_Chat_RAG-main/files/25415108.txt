@@ -1,0 +1,14 @@
+25415108
+BACKGROUND	There is no consensus on the efficacy of postoperative infusion of local anesthetics after radical mastectomy .
+METHODS	A randomized , double-blind , placebo-controlled , parallel-groups clinical trial was conducted in a tertiary hospital .
+METHODS	Eighty consecutive women with operable breast cancer with indications for modified radical mastectomy without breast reconstruction were assigned randomly to receive infusion of levobupivacaine ( 0.5 % ) or saline at 2 ml/hour for 48 hours through a wound catheter .
+METHODS	Seventy-three women finished the study ( intervention group , n = 34 ; control group , n = 39 ) .
+METHODS	During surgery , all patients received 0.25 % levobupivacaine ( 30 ml ) .
+RESULTS	The levobupivacaine group reported less pain ( p < 0.001 ) than controls in the postanesthesia care unit ( 1.6 1.3 versus 6.7 1.8 ) and on the ward at 24 ( 0.8 0.9 versus 4.2 1.9 ) and 48 ( 0.4 0.7 versus 3.3 2.3 ) hours .
+RESULTS	In the postanesthesia care unit , the levobupivacaine group consumed less metamizole ( 0.4 0.5 versus 0.8 0.4 ; p < 0.001 ) and dexketoprofen ( 0.1 0.3 versus 0.7 0.4 ; p < 0.001 ) , with differences in paracetamol use being insignificant ( 0.8 0.4 versus 0.9 0.3 ; p = 0.140 ) .
+RESULTS	On the ward , the levobupivacaine group used significantly less paracetamol ( 0.5 0.7 versus 2.0 2.0 ; p < 0.001 ) and metamizole ( 0.2 0.4 versus 1.2 1.4 ; p < 0.001 ) , but differences in dexketoprofen were not significant ( 0.03 0.2 versus 0.2 0.6 ; p = 0.074 ) .
+RESULTS	In the postanesthesia care unit , the levobupivacaine and control groups consumed 0 0 and 0.7 1.2 doses of opioids ( p = 0.001 ) , respectively .
+RESULTS	The authors observed no differences in nausea and vomiting at any stage in the postanesthesia care unit ( 0.2 0.4 versus 0.4 0.5 ; p = 0.081 ) or on the ward ( 0.3 0.5 versus 0.4 0.5 ; p = 0.563 ) .
+RESULTS	All participants reported high levels of satisfaction .
+CONCLUSIONS	Continuous infusion of local anesthetic reduces pain and analgesic consumption , with high satisfaction , but does not affect rates of nausea and vomiting .
+

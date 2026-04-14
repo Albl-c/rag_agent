@@ -1,0 +1,14 @@
+25482425
+BACKGROUND	Experimental data indicate that reducing factor XI levels attenuates thrombosis without causing bleeding , but the role of factor XI in the prevention of postoperative venous thrombosis in humans is unknown .
+BACKGROUND	FXI-ASO ( ISIS 416858 ) is a second-generation antisense oligonucleotide that specifically reduces factor XI levels .
+BACKGROUND	We compared the efficacy and safety of FXI-ASO with those of enoxaparin in patients undergoing total knee arthroplasty .
+METHODS	In this open-label , parallel-group study , we randomly assigned 300 patients who were undergoing elective primary unilateral total knee arthroplasty to receive one of two doses of FXI-ASO ( 200 mg or 300 mg ) or 40 mg of enoxaparin once daily .
+METHODS	The primary efficacy outcome was the incidence of venous thromboembolism ( assessed by mandatory bilateral venography or report of symptomatic events ) .
+METHODS	The principal safety outcome was major or clinically relevant nonmajor bleeding .
+RESULTS	Around the time of surgery , the mean ( SE ) factor XI levels were 0.380.01 units per milliliter in the 200-mg FXI-ASO group , 0.200.01 units per milliliter in the 300-mg FXI-ASO group , and 0.930.02 units per milliliter in the enoxaparin group .
+RESULTS	The primary efficacy outcome occurred in 36 of 134 patients ( 27 % ) who received the 200-mg dose of FXI-ASO and in 3 of 71 patients ( 4 % ) who received the 300-mg dose of FXI-ASO , as compared with 21 of 69 patients ( 30 % ) who received enoxaparin .
+RESULTS	The 200-mg regimen was noninferior , and the 300-mg regimen was superior , to enoxaparin ( P < 0.001 ) .
+RESULTS	Bleeding occurred in 3 % , 3 % , and 8 % of the patients in the three study groups , respectively .
+CONCLUSIONS	This study showed that factor XI contributes to postoperative venous thromboembolism ; reducing factor XI levels in patients undergoing elective primary unilateral total knee arthroplasty was an effective method for its prevention and appeared to be safe with respect to the risk of bleeding .
+CONCLUSIONS	( Funded by Isis Pharmaceuticals ; FXI-ASO TKA ClinicalTrials.gov number , NCT01713361 . )
+

@@ -1,0 +1,13 @@
+24854966
+BACKGROUND	Shebeens in South Africa are settings in which alcohol use and sexual behavior often co-occur .
+BACKGROUND	The prevalence of alcohol use disorder ( AUD ) , and the association between AUD , situations and settings , and sexual risk behavior , in shebeens remains unknown .
+METHODS	Men ( n = 763 ; mean age = 30 ; 98 % Black African ) were recruited from townships in Cape Town , South Africa and completed a self-administered survey that assessed alcohol use , sexual risk behaviors , and situations and settings of alcohol use .
+METHODS	The Alcohol Use Disorder and Associated Disabilities Interview Schedule DSV-IV Version ( AUDADIS-IV ) was used to identify the likelihood of AUD .
+METHODS	Bivariate regression analyses assessed whether screening for AUD predicted sexual risk behaviors .
+METHODS	Multivariate regression analyses examined whether AUD and/or situations/settings predicted risk behaviors .
+RESULTS	Nearly two-thirds of men ( 62 % ) endorsed sufficient criteria for AUD ; 25 % , 17 % , and 20 % were classified as having a mild , moderate , or severe AUD , respectively .
+RESULTS	AUD was associated with HIV risk such that men with AUD reported more unprotected sex than men without AUD .
+RESULTS	Analyses indicated that ( a ) individual ( i.e. , AUD ) and ( b ) settings ( i.e. , frequency of having sex with a partner in a shebeen , tavern , or bottle store ) interacted to predict unprotected sex .
+CONCLUSIONS	The prevalence of AUD among shebeen patrons was high and was associated with unprotected sex .
+CONCLUSIONS	Findings suggest the need to integrate both individual and situational/setting factors to prevent HIV among patrons of shebeens .
+

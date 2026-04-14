@@ -1,0 +1,15 @@
+25269512
+OBJECTIVE	Animal-assisted therapy ( AAT ) , most frequently used with dogs , is being used increasingly as an adjunctive alternative treatment for psychiatric patients .
+OBJECTIVE	AAT with larger animals , such as horses , may have unique benefits .
+OBJECTIVE	In this randomized controlled study , equine and canine forms of AAT were compared with standard treatments for hospitalized psychiatric patients to determine AAT effects on violent behavior and related measures .
+METHODS	The study included 90 patients with recent in-hospital violent behavior or highly regressed behavior .
+METHODS	Hospitalization at the 500-bed state psychiatric hospital was two months or longer ( mean 5.4 years ) .
+METHODS	Participants were randomly selected to receive ten weekly group therapy sessions of standardized equine-assisted psychotherapy ( EAP ) , canine-assisted psychotherapy ( CAP ) , enhanced social skills psychotherapy , or regular hospital care .
+METHODS	Participants ' mean age was 44 , 37 % were female , 76 % had diagnoses of schizophrenia or schizoaffective disorder , and 56 % had been committed involuntarily for civil or forensic reasons .
+METHODS	Violence-related incident reports filed by staff in the three months after study intake were compared with reports two months preintake .
+RESULTS	Interventions were well tolerated .
+RESULTS	Analyses revealed an intervention group effect ( F = 3.00 , df = 3 and 86 , p = .035 ) ; post hoc tests showed specific benefits of EAP ( p < .05 ) .
+RESULTS	Similar AAT effects were found for the incidence of 1:1 clinical observation ( F = 2.70 , df = 3 and 86 , p = .051 ) ; post hoc tests suggested benefits of CAP ( p = .058 ) as well as EAP ( p = .082 ) .
+RESULTS	Covariance analyses indicated that staff can predict which patients are likely to benefit from EAP ( p = .01 ) .
+CONCLUSIONS	AAT , and perhaps EAP uniquely , may be an effective therapeutic modality for long-term psychiatric patients at risk of violence .
+

@@ -1,0 +1,15 @@
+24985779
+BACKGROUND	Whether early antiretroviral therapy ( ART ) initiation could impact sexual risk behaviours remains to be documented .
+BACKGROUND	We aimed to investigate changes in sexual behaviours within the 24 months following an early versus standard ART initiation in HIV-positive adults with high CD4 counts .
+METHODS	We used data from a prospective behavioural study nested in a randomized controlled trial of early ART ( Temprano-ANRS12136 ) .
+METHODS	Time trends in sexual behaviours from enrolment in the trial ( M0 ) to 12-month ( M12 ) and 24-month ( M24 ) visits were measured and compared , using Generalized Estimating Equations models , between participants randomly assigned either to initiate ART immediately ( early ART ) or to defer ART initiation until on-going WHO starting criteria are met ( standard ART ) .
+METHODS	Indicators of sexual behaviours included 1 ) sexual activity in the past year , 2 ) multiple partnership in the past year , 3 ) unprotected sex at last intercourse and 4 ) risky sex ( i.e. unprotected sex with a partner of HIV negative/unknown status ) at last intercourse .
+RESULTS	Analyses included 1952 participants ( 975 with early ART and 977 with standard ART ; overall median baseline CD4 count : 469/mm ( 3 ) ) .
+RESULTS	Among participants with early ART , significant decreases were found between M0 and M24 in sexual activity ( Odds Ratio [ OR ] 0.72 , 95 % Confidence Interval [ 95 % CI ] 0.57-0 .92 ) , multiple partnership ( OR 0.57 , 95 % CI 0.41-0 .79 ) , unprotected sex ( OR 0.59 , 95 % CI 0.47-0 .75 ) and risky sex ( OR 0.58 , 95 % CI 0.45-0 .76 ) .
+RESULTS	Among participants with standard ART , sexual behaviours showed similar trends over time .
+RESULTS	These decreases mostly occurred within the 12 months following enrolment in the trial in both groups and prior to ART initiation in participants with standard ART .
+RESULTS	For unprotected sex and risky sex , decreases were or tended to be more pronounced among patients reporting that their last sexual partner was non-cohabiting .
+CONCLUSIONS	In these sub-Saharan adults with high CD4 counts , entry into HIV care , rather than ART initiation , resulted in decreased sexual activity and risky sexual behaviours .
+CONCLUSIONS	We did not observe any evidence of a risk compensation phenomenon associated with early ART initiation .
+CONCLUSIONS	These results illustrate the potential behavioural preventive effect of early entry into care , which goes hand in hand with early ART initiation .
+

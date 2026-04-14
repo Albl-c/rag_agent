@@ -1,0 +1,18 @@
+25238874
+BACKGROUND	Functional decline and frailty are common in community dwelling older adults , increasing the risk of adverse outcomes .
+BACKGROUND	Given this , we investigated the prevalence of frailty-associated risk factors and their distribution according to the severity of perceived risk in a cohort of community dwelling older adults , using the Risk Instrument for Screening in the Community ( RISC ) .
+METHODS	A cohort of 803 community dwelling older adults were scored for frailty by their public health nurse ( PHN ) using the Clinical Frailty Scale ( CFS ) and for risk of three adverse outcomes : i ) institutionalisation , ii ) hospitalisation and iii ) death , within the next year , from one ( lowest ) to five ( highest ) using the RISC .
+METHODS	Prior to scoring , PHNs stated whether they regarded patients as frail .
+RESULTS	The median age of patients was 80years ( interquartile range 10 ) , of whom 64 % were female and 47.4 % were living alone .
+RESULTS	The median Abbreviated Mental Test Score ( AMTS ) was 10 ( 0 ) and Barthel Index was 18/20 ( 6 ) .
+RESULTS	PHNs regarded 42 % of patients as frail , while the CFS categorized 54 % ( scoring 5 ) as frail .
+RESULTS	Dividing patients into low-risk ( score one or two ) , medium-risk ( score three ) and high-risk ( score four or five ) using the RISC showed that 4.3 % were considered high risk of institutionalization , 14.5 % for hospitalization , and 2.7 % for death , within one year of the assessment .
+RESULTS	There were significant differences in median CFS ( 4/9 versus 6/9 versus 6/9 , p < 0.001 ) , Barthel Index ( 18/20 versus 11/20 versus 14/20 , p < 0.001 ) and mean AMTS scores ( 9.51 versus 7.57 versus 7.00 , p < 0.001 ) between those considered low , medium and high risk of institutionalisation respectively .
+RESULTS	Differences were also statistically significant for hospitalisation and death .
+RESULTS	Age , gender and living alone were inconsistently associated with perceived risk .
+RESULTS	Frailty most closely correlated with functional impairment , r = -0.80 , p < 0.001 .
+CONCLUSIONS	The majority of patients in this community sample were perceived to be low risk for adverse outcomes .
+CONCLUSIONS	Frailty , cognitive impairment and functional status were markers of perceived risk .
+CONCLUSIONS	Age , gender and social isolation were not and may not be useful indicators when triaging community dwellers .
+CONCLUSIONS	The RISC now requires validation against adverse outcomes .
+

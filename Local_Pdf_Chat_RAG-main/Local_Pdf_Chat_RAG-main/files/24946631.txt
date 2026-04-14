@@ -1,0 +1,17 @@
+24946631
+OBJECTIVE	To compare the differences in the clinical function and lumbar and abdominal myodynamia in patiants of lumbar disc herniation treated with moxibustion at Dazhui ( GV 14 ) and Guanyuan ( CV 4 ) and acupuncture .
+METHODS	Forty cases were randomized into a moxibustion group and an acupuncture group , 20 cases in each group .
+METHODS	In the moxibustion group , the warm moxibustion was applied alternatively at Dazhui ( GV 14 ) and Guanyuan ( CV 4 ) once every other day , 1 h each time , once every day .
+METHODS	In the acupuncture group , acupuncture was applied to the corresponding acupoints based on the affected lumbar vertebras , such as Jiaji ( EX-B 2 ) , Shens-hu ( BL 23 ) , Dachangshu ( BL 25 ) and Huantiao ( GB 30 ) , etc. , once evey day 30 min each time .
+METHODS	The treatment for 3 weeks was taken as one session in each group .
+METHODS	Totally , one session treatment was required .
+METHODS	Surface electromyography ( SEMG ) of bilateral paraspinal muscle and rectus muscle , and JOA score of low back pain were observed in the two groups .
+RESULTS	( 1 ) JOA score : the score of subjective symptoms , score of activity of daily living ( ADL ) and total score were improved obviously as compared with those before treatment in the two groups ( P < 0.01 , P < 0.05 ) .
+RESULTS	The results of subjective symptoms score , score of ADL and total score in the acupuncture group were superior to those in the moxibustion group after treatment ( 6.95 + / -0.94 vs 5.50 + / -0.89,10.90 + / -1.86 vs 8.90 + / - 1.92,22.50 + / - 2.82 vs 19.35 + / - 2.70 , all P < 0.05 ) .
+RESULTS	( 2 ) SEMG comparison : root-mean-square value ( RMS ) was all reduced in SEMG of the anteflexion , rear protraction , orthostatism , bilateral bending and neck and leg rear flexion for strengthening lumbar muscle as compared with those before treatment in the two groups ( P < 0.05 , P < 0.01 ) .
+RESULTS	RMS of the anteflexion and bilateral bending in the acupunture group were reduced much obviously as compared with the moxibustion group .
+RESULTS	In terms of sitting position anteflexion , rear protraction , orthostatism , bilateral bending and neck and leg rear flexion for strengthening lumbar muscle , median frequency ( MF ) after treatment was all improved as compared with that before treatment in the two groups ( P < 0.05 , P < 0.01 ) .
+RESULTS	In terms of anteflexion , the electrode MF after treatment was improved much obviously in the acupuncture group ( P < 0.05 ) .
+CONCLUSIONS	Moxibustion at Dazhui ( GV 14 ) and Guanyuan ( CV 4 ) and conventional acupuncture all improve muscle function , relieve muscle fatigue , increase the ability of anti-muscle fatigue , strengthen lumbar vertebral stability , release subjective symptoms and improve ADL .
+CONCLUSIONS	But , the effects of moxibustion are slightly lower than those of acupuncture .
+

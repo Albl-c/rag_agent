@@ -1,0 +1,11 @@
+24773418
+OBJECTIVE	This study investigated the effect of exposure to television food advertising on accessibility of food-related cognitions and motivation to eat .
+METHODS	We initially developed a word stem completion task to measure accessibility of food-related cognitions .
+METHODS	In two subsequent experiments , 160 female undergraduate students ( Experiment 1 ) and 124 overweight or obese community-dwelling women ( Experiment 2 ) viewed a series of television commercials advertising either food or non-food products .
+METHODS	They then completed the word stem task and also rated their desire to eat .
+RESULTS	Exposure to televised food advertisements led to the completion of word stems with more food - and eating-related words in both experiments .
+RESULTS	It also increased self-reported desire to eat , but only for overweight and obese individuals ( Experiment 2 ) .
+RESULTS	In both samples , there was a positive association between accessibility of food-related cognitions and reported desire to eat , following priming with television food advertisements .
+CONCLUSIONS	We conclude that an increased activation of food-related cognitions may provide a mechanism for the link between food advertising and consumption .
+CONCLUSIONS	This has implications for tackling pathological ( over ) eating .
+

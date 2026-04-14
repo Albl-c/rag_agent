@@ -1,0 +1,9 @@
+24596360
+OBJECTIVE	To investigate whether the negative quality of life result of a large randomized exercise intervention study ( BREX ) was due to considerable spontaneous recovery after adjuvant treatments .
+METHODS	The change in QoL was studied in the control patients of the BREX study ( Group 1 ) and a group of similar follow-up patients that did not participate in any intervention study ( Group 2 ) .
+METHODS	QoL was measured by the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-C30 with the breast cancer module supplement 6 and 12 months after surgery .
+RESULTS	QoL improved in both groups between 6 and 12 months after surgery .
+RESULTS	The improvement was similar in both groups for global QoL and for most of the QoL sub-scales .
+CONCLUSIONS	No evidence was found to support the hypothesis that participation in an exercise intervention per se significantly improves QoL .
+CONCLUSIONS	Spontaneous improvement in QoL began during the first six months after the primary treatments , which might have confounded the results of the intervention of the BREX study .
+

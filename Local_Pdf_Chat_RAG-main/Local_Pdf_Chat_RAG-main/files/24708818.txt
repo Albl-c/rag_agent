@@ -1,0 +1,13 @@
+24708818
+BACKGROUND	Dietary sodium restriction is a key management strategy in chronic kidney disease ( CKD ) .
+BACKGROUND	Recent evidence has demonstrated short-term reduction in blood pressure ( BP ) and proteinuria with sodium restriction , however the effect on other cardiovascular-related risk factors requires investigation in CKD .
+METHODS	The LowSALT CKD study involved 20 hypertensive Stage III-IV CKD patients counselled by a dietitian to consume a low-sodium diet ( < 100mmol/day ) .
+METHODS	The study was a randomised crossover trial comparing 2weeks of high-sodium ( additional 120mmol sodium tablets ) and low-sodium intake ( placebo ) .
+METHODS	Measurements were taken after each crossover arm including BP ( peripheral and central ) , adipokines ( inflammation markers and adiponectin ) , volume markers ( extracellular-to-intracellular [ E/I ] fluid ratio ; N-terminal pro-brain natriuretic peptide [ NT-proBNP ] ) , kidney function ( estimated Glomerular Filtration Rate [ eGFR ] ) and proteinuria ( urine protein-creatinine ratio [ PCR ] and albumin-creatinine ratio [ ACR ] ) .
+METHODS	Outcomes were compared using paired t-test for each cross-over arm .
+RESULTS	BP-lowering benefits of a low-sodium intake ( peripheral BP ( meanSD ) 148/8221/12mmHg ) from high-sodium ( 159/8715/10mmHg ) intake were reflected in central BP and a reduction in eGFR , PCR , ACR , NTproBNP and E/I ratio .
+RESULTS	There was no change in inflammatory markers , total or high molecular weight adiponectin .
+CONCLUSIONS	Short-term benefits of sodium restriction on BP were reflected in significant change in kidney function and fluid volume parameters .
+CONCLUSIONS	Larger , long-term adequately powered trials in CKD are necessary to confirm these results .
+BACKGROUND	Universal Trial Number U1111-1125-2149 registered on 13/10/2011 ; Australian New Zealand Clinical Trials Registry Number ACTRN12611001097932 registered on 21/10/2011 .
+

@@ -1,0 +1,17 @@
+24494737
+OBJECTIVE	To investigate the immediate effects of manipulation of bilateral sacroiliac joints ( SIJs ) on the plantar pressure distribution in asymptomatic participants in the standing position .
+METHODS	Randomized , controlled , double-blind clinical trial .
+METHODS	Sixty-two asymptomatic men and women ( mean age , 20.662.56 years ) randomly assigned to 2 groups .
+METHODS	The experimental group underwent mobilization without tension of the hips in the supine position and high-velocity , low-amplitude manipulation in the SIJs bilaterally .
+METHODS	The control group underwent only mobilization , without tension of the hips in supine position .
+METHODS	Pre - and postintervention outcomes measured by an assessor blinded to the treatment allocation of the participants included a baropodometric analysis performed by using a force platform .
+METHODS	Baseline between-group differences were examined with a Kolmogorov-Smirnov test .
+METHODS	A chi-square test was used for categorical data .
+METHODS	Analysis of covariance ( ANCOVA ) was used to assess differences between groups , with the preintervention value as covariant ( 95 % confidence level ) .
+RESULTS	At baseline , no variables significantly differed between groups .
+RESULTS	Baropodometric analysis showed statistically significant differences in the location of the maximum pressure point in the experimental group ( p = 0.028 ) .
+RESULTS	Pre - and postintervention analysis with ANCOVA showed statistically significant differences between both groups in the left hindfoot load percentage ( interaction p = 0.0259 ; ANCOVA p = 0.0277 ) , right foot load percentage ( ANCOVA p = 0.0380 ) , and surface of the right forefoot ( interaction p = 0.0038 ) .
+RESULTS	There was also a significant effect in the variables that analyze the entire foot ( left foot : surface [ interaction p = 0.0452 ] , percentage of load [ ANCOVA p = 0.0295 ] ) and between both groups ( right foot : weight [ interaction p = 0.0070 ; ANCOVA p = 0.0296 ] ) .
+CONCLUSIONS	Sacroiliac joint manipulation applied bilaterally in asymptomatic persons resulted in immediate changes in load distribution on plantar support in the standing position .
+CONCLUSIONS	Study limitations and suggestions for future studies are discussed .
+

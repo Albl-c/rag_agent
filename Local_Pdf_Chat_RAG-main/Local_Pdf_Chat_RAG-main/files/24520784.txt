@@ -1,0 +1,10 @@
+24520784
+OBJECTIVE	To observe the effect of qi benefiting stasis removing method ( QBSRM ) on systemic inflammatory response and coagulation function in multiple organ dysfunction syndrome ( MODS ) patients .
+METHODS	Totally 40 MODS patients who were admitted to Affiliated Hospital of Nanjing University of Traditional Chinese Medicine between May 2010 to December 2011 were randomly assigned to two groups , the experimental group ( 21 cases ) and the control group ( 19 cases ) .
+METHODS	Patients in the control group were treated with routine Western therapy , while those in the experimental group additionally took decoction for benefiting qi removing stasis .
+METHODS	Inflammatory factors ( including interleukin-1 , interleukin-6 , tumor necrosis factor-alpha ) and coagulation parameters [ including prothrombin time ( PT ) , activated partial thromboplastin time ( APTT ) , fibrinogen ( FIB ) , and D-dimer ( DD ) ] were observed before treatment , and 3 , 7 , and 14 days after treatment in the two groups .
+RESULTS	At day 7 after treatment , levels of interleukin-1 , interleukin-6 , and PT were significantly lower in the experimental group than in the control group ( P < 0.05 ) .
+RESULTS	At day 14 after treatment , tumor necrosis factor-x and DD were significantly lower in the experimental group than in the control group ( P < 0.05 ) .
+RESULTS	There was no statistical difference in APTT or FIB at day 3 , 7 and 14 after treatment ( P > 0.05 ) .
+CONCLUSIONS	QBSRM could relieve systemic inflammatory response and improve coagulation functions .
+

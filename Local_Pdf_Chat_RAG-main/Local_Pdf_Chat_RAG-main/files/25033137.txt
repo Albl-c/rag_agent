@@ -1,0 +1,11 @@
+25033137
+OBJECTIVE	We examined whether and how an HIV prevention diffusion-based intervention spread throughout participants ' online social networks and whether changes in social network ties were associated with increased HIV prevention and testing behaviors .
+METHODS	We randomly assigned 112 primarily racial/ethnic minority men who have sex with men ( MSM ) to receive peer-delivered HIV ( intervention ) or general health ( control ) information over 12 weeks through closed Facebook groups .
+METHODS	We recorded participants ' public Facebook friend networks at baseline ( September 2010 ) and follow-up ( February 2011 ) , and assessed whether changes in network growth were associated with changes in health engagement and HIV testing .
+RESULTS	Within-group ties increased in both conditions from baseline to follow-up .
+RESULTS	Among the intervention group , we found a significant positive relation between increased network ties and using social media to discuss sexual behaviors .
+RESULTS	We found a positive trending relationship between increased network ties and likelihood of HIV testing , follow-up for test results , and participation in online community discussions .
+RESULTS	No significant differences were seen within control groups .
+CONCLUSIONS	Among high-risk MSM , peer-led social media HIV prevention interventions can increase community cohesion .
+CONCLUSIONS	These changes appear to be associated with increased HIV prevention and testing behaviors .
+

@@ -1,0 +1,12 @@
+24484688
+BACKGROUND	The subcutaneous ( SC ) route has recently emerged as a rehydration method with potential advantages in the geriatric population .
+BACKGROUND	Nevertheless , little is known about its application during hospitalization .
+BACKGROUND	The objective of the present study is to evaluate the subcutaneous non-inferiority efficacy in hydration against the intravenous ( IV ) route in elderly patients with dehydration .
+METHODS	A prospective , randomized and controlled interventional trial of patients 65 years and older admitted to an Acute Geriatric Unit with mild to moderate dehydration and oral intolerance , evaluating the non-inferiority of subcutaneous fluid therapy versus the intravenous route .
+METHODS	The intervention consisted of the administration of up to 1.5 l/day/route for 72 hours subcutaneous vs. intravenous , evaluating the variations in biochemical parameters ( urea , creatinine , osmolarity ) , clinical outcome , and route related complications .
+RESULTS	Sixty seven patients completed the study ( 34 SC , age 86.4 8.5 years , 41 % women , vs. 33 IV , 84.3 6.6 , 54.5 % women , with no significant differences ) .
+RESULTS	The amount of fluid administered per day by route was 1.320 ml 400 SC vs. 1.480 ml 340 IV , P = .092 .
+RESULTS	During follow similar reductions were observed between groups without any statistical significance , with mean differences pre-postintervention of urea ( 49.6 52.3 SC vs. 50.3 52.3 IV , P = .96 ) ; creatinine ( 0.68 0.66 SC vs. 0.60 0.49 IV , P = .58 ) , and osmolarity ( 15.6 24.4 SC vs. 21.1 31 IV , P = .43 ) .
+RESULTS	Fewer catheter extraction episodes were observed in the SC group , which also was the group most prone to peri-clysis edema .
+CONCLUSIONS	The efficacy of subcutaneous rehydration in elderly hospitalized patients with mild-moderate dehydration is not inferior to that obtained intravenously , and may even have additional advantages .
+

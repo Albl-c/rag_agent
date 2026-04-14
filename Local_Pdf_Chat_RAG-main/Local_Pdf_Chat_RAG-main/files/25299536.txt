@@ -1,0 +1,10 @@
+25299536
+OBJECTIVE	The purpose of this study was to determine whether whole-body vibration training could improve standing balance and muscle strength in children with Down syndrome .
+METHODS	This study was a randomized controlled trial studying 30 children ( 8-10 yrs old ) with Down syndrome .
+METHODS	They were assigned randomly using sealed envelopes , with 15 children allocated to the control group ( 9 boys , 6 girls ) and another 15 children allocated to the study group ( 8 boys , 7 girls ) .
+METHODS	The control group received a designed physical therapy program , whereas the study group received the same program given to the control group in addition to whole-body vibration training .
+METHODS	Both groups received the treatment sessions three times per week for 6 successive months .
+METHODS	Measurement of stability indices by using the Biodex Stability System as well as muscle strength of the knee flexors and extensors by using a handheld dynamometer was done before and after the 6 mos of the treatment program .
+RESULTS	Each group demonstrated significant improvements in stability indices and muscle strength after treatment ( P < 0.05 ) , with significantly greater improvements seen in the study group when compared with the control group ( P < 0.05 ) .
+CONCLUSIONS	Whole-body vibration may be a useful intervention modality to improve balance and muscle strength in children with Down syndrome .
+

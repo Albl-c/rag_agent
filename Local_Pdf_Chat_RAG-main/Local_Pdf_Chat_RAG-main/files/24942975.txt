@@ -1,0 +1,12 @@
+24942975
+BACKGROUND	Beta-palmitate ( sn-2 palmitate ) mimics human milk fat , enabling easier digestion.Therefore , we hypothesized that infants consuming high beta-palmitate formula would have more frequent , softer stools and reduced crying compared to infants consuming low beta-palmitate formula .
+METHODS	Formula-fed infants were randomly assigned to receive either ( 1 ) formula with high beta-palmitate ( HBP , n = 21 ) or ( 2 ) regular formula with a standard vegetable oil mix ( LBP , n = 21 ) .
+METHODS	A matched group of breastfed infants served as a reference ( BF , n = 21 ) .
+METHODS	Crying and stool characteristics data were recorded by the parents for 3 days before the 6 - and 12-week visits .
+RESULTS	We found no significant differences in the stool frequency or consistency between the two formula groups .
+RESULTS	The percentage of crying infants in the LBP group was significantly higher than that in the HBP and BF groups during the evening at 6 weeks ( 88.2 % vs. 56.3 % and 55.6 % , p < 0.05 ) and during the afternoon at 12 weeks ( 91.7 % vs. 50.0 % and 40 % , p < 0.05 ) .
+RESULTS	The infants fed HBP had significantly shorter crying durations when compared with infants fed LBP formula ( 14.90 3.85 vs. 63.96 21.76 min/day , respectively ; p = 0.047 ) .
+CONCLUSIONS	Our study indicates that consumption of a high beta-palmitate formula affects infant crying patterns during the first weeks of life .
+CONCLUSIONS	Comparable to breastfeeding , it reduced crying duration and frequency , primarily during the afternoon and evening hours , thereby improving the well-being of formula-fed infants and their parents .
+BACKGROUND	NCT00874068.Registration date March 31 , 2009 .
+

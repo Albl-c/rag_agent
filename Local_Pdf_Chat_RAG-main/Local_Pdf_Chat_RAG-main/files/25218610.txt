@@ -1,0 +1,12 @@
+25218610
+OBJECTIVE	To evaluate the long-term safety and efficacy of prolonged-release oxycodone/naloxone ( OXN PR ) and its impact on quality of life ( QoL ) , in patients with moderate-to-severe cancer pain .
+METHODS	This was an open-label extension ( OLE ) of a 4 week , randomized , double-blind ( DB ) study in which patients with moderate-to-severe cancer pain had been randomized to OXN PR or oxycodone PR ( OxyPR ) .
+METHODS	During the OLE phase , patients were treated with OXN PR capsules ( 20/60 mg/day ) for 24 weeks .
+METHODS	Outcome measures included safety , efficacy and QoL .
+RESULTS	One hundred and twenty-eight patients entered the OLE , average pain scores based on the modified Brief Pain Inventory-Short Form were low and stable over the 24-week period .
+RESULTS	The improvement in bowel function and constipation symptoms as measured by the Bowel Function Index and patient assessment of constipation in patients treated with OXN PR during the 4-week DB study was maintained .
+RESULTS	In patients treated with OxyPR during the DB phase , bowel function and constipation symptoms were improved during the OLE .
+RESULTS	In the DB and in the OLE , health status and QoL were similar for patients treated with OXN PR and OxyPR .
+RESULTS	There were no unexpected safety or tolerability issues .
+CONCLUSIONS	In patients with moderate-to-severe cancer pain , long-term use of OXN PR is well tolerated and effective , resulting in sustained analgesia , improved bowel function and improved symptoms of constipation .
+

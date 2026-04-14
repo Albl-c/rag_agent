@@ -1,0 +1,13 @@
+25122150
+BACKGROUND	Pulmonary arterial hypertension ( PAH ) is a progressive disease with high rates of morbidity and mortality .
+BACKGROUND	Current therapies improve symptoms , functional capacity , and , in select cases , survival .
+BACKGROUND	Little is known about patient factors that may predict the likelihood of patient-important , clinically relevant responses to therapy such as the 6-min walk distance ( 6MWD ) and health-related quality of life ( HRQoL ) .
+METHODS	Data from the randomized clinical trial of tadalafil in PAH were used .
+METHODS	Adjusted logistic regression models were created to examine the relationship between baseline characteristics and odds of achieving the minimal important difference ( MID ) in three parameters , defined as either a > 33-m increase in 6MWD , a > 5-unit increase in physical component summary score of the Medical Outcomes Study Short Form-36 ( SF-36 ) , or a > 5-unit increase in mental component summary score of the SF-36 .
+RESULTS	The study included 405 subjects .
+RESULTS	Younger age , male sex , lower baseline 6MWD , and disease etiology were associated with greater odds of achieving the MID for the 6-min walk test .
+RESULTS	Active treatment , younger age , and male sex were associated with greater odds of achieving the MID for the physical component summary score .
+RESULTS	Male sex was associated with greater odds of achieving the MID for the mental component summary score .
+CONCLUSIONS	Age , sex , baseline functional capacity , and disease etiology are variably associated with the likelihood of achieving clinically relevant responses in patient-important outcomes to PAH-specific therapy such as 6MWD and HRQoL .
+CONCLUSIONS	The increased likelihood of response in men compared with women is a novel finding and may reflect pathophysiologic differences between sexes .
+

@@ -1,0 +1,14 @@
+24529654
+BACKGROUND	Contrasting results have been reported regarding the influence of the use of adhesive on biofilm formation .
+OBJECTIVE	The purpose of this study was to evaluate the influence of the use of adhesive on the formation of biofilm on the internal surface of complete dentures and the palatal mucosa of denture wearers .
+METHODS	Thirty participants with well-fitting complete dentures were randomly divided according to the experimental design : protocol 1 , adhesive use during the first 15 days , followed by no use of adhesive over the next 15 days ; protocol 2 , no use of adhesives during the first 15 days , followed by adhesive use over the next 15 days .
+METHODS	After each period , material from the mucosa and intaglio of the maxillary dentures was collected .
+METHODS	Replicate aliquots were plated onto Petri dishes containing selective media for Candida spp , Streptococcus mutans , and a nonselective culture medium .
+METHODS	Colony-forming units were expressed as log ( CFU +1 ) / mL .
+METHODS	In addition , the internal surfaces of the maxillary and mandibular complete dentures were stained and photographed .
+METHODS	From the photographs , the total internal surface and the surface stained with biofilm were quantified ( software ImageTool 3.00 ) , and the percentage of the biofilm-covered area ( % ) on the maxillary and mandibular dentures was calculated and compared with 2-way ANOVA .
+METHODS	For the nonselective culture medium , data were compared with the paired-sample t test , and the Wilcoxon signed rank test was performed to compare the colony counts of Candida spp and Streptococcus mutans ( = .05 ) .
+RESULTS	Similar colony counts were found with or without the use of adhesive for the mucosa and internal surfaces of maxillary dentures , irrespective of the culture medium ( P > .05 ) .
+RESULTS	The area of dentures covered with biofilm was influenced by the use of adhesive ( P = .025 ) , regardless of the type of denture ( P = .121 ) .
+CONCLUSIONS	The use of adhesive did not alter the colony counts of microorganisms from the palatal mucosa and maxillary dentures of complete denture wearers during the 15-day period , but it did influence the area covered with biofilm on the internal surfaces of the complete dentures .
+

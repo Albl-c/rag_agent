@@ -1,0 +1,16 @@
+24329481
+BACKGROUND	Gold-standard assessment of acute wound healing has traditionally been through histological analysis of biopsied tissue .
+BACKGROUND	However , this process is invasive with recognized side-effects .
+BACKGROUND	Optical coherence tomography ( OCT ) is a noninvasive technique generating high-resolution real-time images of cutaneous architecture .
+OBJECTIVE	To compare OCT with histological assessment of in vivo acute wound healing and ascertain the level of agreement between modalities for measurement of defined cutaneous structures .
+METHODS	Punch biopsies ( 5mm ) were harvested from 50 healthy volunteers .
+METHODS	Wounds healed by secondary intention until they were re-excised 7 , 14 , 21 or 28days later depending on random group allocation .
+METHODS	Wounds were assessed weekly for 6weeks using OCT and compared with histological findings derived from time-matched biopsies .
+METHODS	Dimensions of four cutaneous structures were measured using both modalities and the level of agreement was established by Bland-Altman analysis .
+METHODS	The mean greyscale value ( MGV ) of the upper reticular dermis was derived from OCT images at all time points .
+RESULTS	Both techniques showed anatomical congruity in normal and wounded skin with correlating architectural changes associated with inflammatory , proliferative and remodelling wound healing phases .
+RESULTS	MGV was significantly increased 6weeks after wounding ( P = 0001 ) and may represent a novel measure of wound fibrosis .
+RESULTS	Despite good association of histomorphometric values with low but consistent bias ( range -4181 to 0431m ) , Bland-Altman plots demonstrated poor agreement between OCT and histology .
+CONCLUSIONS	Optical coherence tomography enabled accurate assessment of healing tissue comparable with histological analysis of biopsy specimens .
+CONCLUSIONS	This noninvasive tool is highly suited to wound assessment and may represent a diagnostic alternative to punch biopsies .
+

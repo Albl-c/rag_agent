@@ -1,0 +1,14 @@
+24601174
+BACKGROUND	Dipeptidyl peptidase-4 ( DPP-4 ) inhibitors are a new class of antihyperglycemic drugs that block degradation ofincretin hormones .
+OBJECTIVE	To assess the effects oftreatment with DPP-4 inhibitors on glucoregulation and body weight in obese patients with type 2 diabetes mellitus .
+METHODS	The study included 9 females and 9 males with type 2 diabetes ( n = 18 ) , BMI = 31.24 + / - 2,26 kg/m2 , mean age 58 + / - 6,8 years .
+METHODS	The patients have been thoroughly evaluated before treatment , and 6 months after treatment with DPP-4 inhibitor ( sitagliptin ) in combination with metformin .
+RESULTS	After 6 months of treatment with DPP-4 inhibitors in combination with metformin HbAlc ( -1,49 % ) .
+RESULTS	, FBG ( -3.75 mmol/L ) and PBG ( -5.79 mmol/L ) significantly reduced ( p = 0.000 ) .
+RESULTS	Mean body weight also significantly reduced ( -12.5 % ; p = 0.000 ) .
+RESULTS	Reduction of mean fasting insulin was 5.46 mIU/L or 27 % ( p = 0.000 ) .
+RESULTS	Mean HOMA-IR change was -1.64 ( p = 0.000 ) .
+RESULTS	Also there was significant decreasing of systolic blood pressure ( p = 0.001 ) , cholesterol ( p = 0.004 ) , triglycerides ( p = 0.001 ) , LDL ( p = 0.002 ) and increasing of HDL ( p = 0.002 ) .
+RESULTS	Hypoglycaemia was not registered in any of the patients .
+CONCLUSIONS	These results show that in obese patients with type 2 diabetes , DPP-4 inhibitors treatment in combination with metformin was associated with improvements in glycaemic control , and a reduction in body weight .
+

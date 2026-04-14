@@ -1,0 +1,16 @@
+24602923
+OBJECTIVE	Simeprevir is an oral , once-daily inhibitor of hepatitis c virus ( HCV ) protease NS3/4A .
+OBJECTIVE	We investigated the safety and efficacy of simeprevir with peg-interferon -2 a and ribavirin ( PR ) in a randomized , double-blind , placebo-controlled , phase 3 trial of patients with HCV genotype 1 infection who relapsed after previous interferon-based therapy .
+METHODS	Patients were assigned randomly ( 2:1 ) to groups given simeprevir ( 150 mg , once daily ) and PR ( n = 260 ) or placebo and PR ( n = 133 ) for 12 weeks .
+METHODS	Patients then were given PR alone for 12 or 36 weeks ( simeprevir group , based on response-guided therapy criteria ) or 36 weeks ( placebo group ) .
+RESULTS	Simeprevir and PR was significantly superior to placebo and PR ; rates of sustained virologic response 12 weeks after planned end of treatment ( SVR12 ) were 79.2 % vs 36.1 % , respectively ( 43.8 % difference ; 95 % confidence interval , 34.6-53 .0 ; P < .001 ) .
+RESULTS	Among patients given simeprevir , 92.7 % met the response-guided therapy criteria and were eligible to complete PR at week 24 ; of these , 83.0 % achieved SVR12 .
+RESULTS	HCV RNA was undetectable at week 4 in 77.2 % of patients given simeprevir and 3.1 % given placebo .
+RESULTS	On-treatment failure and relapse rates were lower among patients given simeprevir and PR than those given placebo and PR ( 3.1 % vs 27.1 % , and 18.5 % vs 48.4 % , respectively ) .
+RESULTS	Patients given simeprevir did not have adverse events beyond those that occurred in patients given PR alone .
+RESULTS	Most adverse events were grades 1/2 ; the prevalence of anemia and rash was similar in both groups .
+RESULTS	Patients in both groups reported similar severity of fatigue and functional impairments during the study , but duration was reduced among patients given simeprevir .
+CONCLUSIONS	In a phase 3 trial of patients who had relapsed after interferon-based therapy , the addition of simeprevir to PR was generally well tolerated , with an SVR12 rate of 79.2 % .
+CONCLUSIONS	Most patients ( 92.7 % ) receiving simeprevir were able to shorten therapy to 24 weeks .
+CONCLUSIONS	ClinicalTrials.gov number : NCT01281839 .
+

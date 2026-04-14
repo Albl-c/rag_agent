@@ -1,0 +1,17 @@
+25304298
+BACKGROUND	Cure of lung cancer is impossible without local tumour control .
+BACKGROUND	This can be compromised by accelerated repopulation of tumour cells during radiotherapy and chemotherapy .
+BACKGROUND	A strategy to minimise accelerated repopulation might improve local control .
+BACKGROUND	We investigated whether concurrent chemo-radiotherapy could be given safely over four weeks .
+METHODS	We conducted a randomised phase II trial in which patients with inoperable Stage III Non-Small Cell Lung Cancer ( NSCLC ) received a radical radiation dose over four weeks rather than conventional fractionation .
+METHODS	Treatment was given either sequentially or concurrently with three to four cycles of cisplatinum and vinorelbine .
+METHODS	130 patients with inoperable stage III NSCLC and PS 0-1 were randomised to receive cisplatinum and vinorelbine with either sequential or concurrent chemo-radiation using 55Gy in 20 fractions over four weeks .
+METHODS	The primary end-point was treatment related mortality .
+METHODS	Secondary end-points were toxicity and survival .
+RESULTS	Treatment related mortality was : 2.9 % ( exact 95 % confidence interval [ CI ] 0.36-10 .2 % ) and 1.7 % ( exact 95 % CI 0.043-9 .1 % ) for the Concurrent and Sequential group respectively ; relative risk ( RR ) 1.25 ; ( 95 % CI 0.55 , 2.84 ) .
+RESULTS	Toxicity was similar between arms ; grade 3 or worse oesophagitis was 8.8 % versus 8.5 % ; RR 1.02 ( 95 % CI 0.58 , 1.79 ) .
+RESULTS	OS HR was 0.92 ; 95 % CI ( 0.60-1 .39 ; p = 0.682 ) .
+RESULTS	The 2 year overall survival rates were : 50 % versus 46 % ; RR 1.06 ( 95 % CI 0.77 , 1.46 ) for Concurrent versus Sequential .
+CONCLUSIONS	A strategy to minimise the effects of accelerated repopulation using accelerated hypofractionated radiotherapy with chemotherapy is feasible , and reasonably safe for patients with stage III NSCLC .
+CONCLUSIONS	The reported two year survival is promising and suggests that a four week regime of radiotherapy should be compared with conventionally fractionated radiotherapy in an adequately powered randomised controlled phase III trial .
+

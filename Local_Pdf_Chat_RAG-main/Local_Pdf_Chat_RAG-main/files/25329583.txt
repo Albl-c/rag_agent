@@ -1,0 +1,14 @@
+25329583
+BACKGROUND	Cross-sectional and retrospective studies have associated major depressive disorder with glial activation and injury as well as blood-brain barrier disruption , but these associations have not been assessed prospectively .
+BACKGROUND	Here , we aimed to determine the relationship between changes in depressive symptom severity and in blood levels of S-100 calcium-binding protein B ( S-100B ) , high-sensitivity C-reactive protein , and interleukin-6 following an inflammatory challenge .
+METHODS	Fifty unselected participants were recruited from a randomized , controlled trial comparing coronary artery bypass grafting procedures performed with versus without cardiopulmonary bypass for the risk of neurocognitive decline .
+METHODS	Depressive symptom severity was measured at baseline , discharge , and six-month follow-up using the Beck Depression Inventory II ( BDI-II ) .
+METHODS	The primary outcome of the present biomarker study was acute change in depressive symptom severity , defined as the intra-subject difference between baseline and discharge BDI-II scores .
+METHODS	Blood biomarker levels were determined at baseline and 2 days postoperative .
+RESULTS	Changes in S-100B levels correlated positively with acute changes in depressive symptom severity ( Spearman , 0.62 ; P = 0.0004 ) and accounted for about one-fourth of their observed variance ( R2 , 0.23 ; P = 0.0105 ) .
+RESULTS	This association remained statistically significant after adjusting for baseline S-100B levels , age , weight , body-mass index , or - blocker use , but not baseline BDI-II scores ( P = 0.064 ) .
+RESULTS	There was no statistically significant association between the primary outcome and baseline S-100B levels , baseline high-sensitivity C-reactive protein or interleukin-6 levels , or changes in high-sensitivity C-reactive protein or interleukin-6 levels .
+RESULTS	Among most participants , levels of all three biomarkers were normal at baseline and markedly elevated at 2 days postoperative .
+CONCLUSIONS	Acute changes in depressive symptom severity were specifically associated with incremental changes in S-100B blood levels , largely independent of covariates associated with either .
+CONCLUSIONS	These findings support the hypothesis that glial activation and injury and blood-brain barrier disruption can be mechanistically linked to acute exacerbation of depressive symptoms in some individuals .
+

@@ -1,0 +1,16 @@
+25466568
+BACKGROUND	Coronary CT angiography ( CCTA ) has high sensitivity , with 3 recent randomized trials favorably comparing CCTA to standard-of-care .
+BACKGROUND	Comparison to exercise stress ECG ( ExECG ) , the most available and least expensive standard-of-care worldwide , has not been systematically tested .
+METHODS	CT-COMPARE was a randomized , single-center trial of low-intermediate risk chest pain subjects undergoing CCTA or ExECG after the first negative troponin .
+METHODS	From March 2010 to April 2011 , 562 patients randomized to either dual-source CCTA ( n = 322 ) or ExECG ( n = 240 ) .
+METHODS	Primary endpoints were diagnostic performance for ACS , and hospital cost at 30 days .
+METHODS	Secondary endpoints were time-to-discharge , admission rates , and downstream resource utilization .
+RESULTS	ACS occurred in 24 ( 4 % ) patients .
+RESULTS	ExECG had 213 negative studies and 27 ( 26 % ) positive studies for ACS with sensitivity of 83 % [ 95 % CI : 36 , 99.6 % ] , specificity of 91 % [ CI : 86 , 94 % ] , and ROC AUC of 0.87 [ CI : 0.70 , 1 ] .
+RESULTS	CCTA ( > 50 % stenosis considered positive ) had 288 negative studies and 18/35 ( 51 % ) positive studies with a sensitivity of 100 % [ CI : 81.5 , 100 ] , specificity of 94 % [ CI : 91.2 , 96.7 % ] , and ROC of 0.97 [ CI : 0.92 , 1.0 ; p = 0.2 ] .
+RESULTS	Despite CCTA having higher odds of downstream testing ( OR 2.0 ) , 30 day per-patient cost was significantly lower for CCTA ( $ 2193 vs $ 2704 , p < 0.001 ) .
+RESULTS	Length of stay for CCTA was significantly reduced ( 13.5 h [ 95 % CI : 11.2-15 .7 ] , ExECG 19.7 h [ 95 % CI : 17.4-22 .1 ] , p < 0.0005 ) , which drove the reduction in cost .
+RESULTS	No patient had post-discharge cardiovascular events at 30 days .
+CONCLUSIONS	CCTA had improved diagnostic performance compared to ExECG , combined with 35 % relative reduction in length-of-stay , and 20 % reduction in hospital costs .
+CONCLUSIONS	These data lend further evidence that CCTA is useful as a first line assessment in emergency department chest pain .
+

@@ -1,0 +1,14 @@
+25379850
+OBJECTIVE	We aimed to examine the association between total number of resected nodes and survival in patients after esophagectomy with and without nCRT .
+BACKGROUND	Most studies concerning the potentially positive effect of extended lymphadenectomy on survival have been performed in patients who underwent surgery alone .
+BACKGROUND	As nCRT is known to frequently `` sterilize '' regional nodes , it is unclear whether extended lymphadenectomy after nCRT is still useful .
+METHODS	Patients from the randomized CROSS-trial who completed the entire protocol ( ie , surgery alone or chemoradiotherapy + surgery ) were included .
+METHODS	With Cox regression models , we compared the impact of number of resected nodes as well as resected positive nodes on survival in both groups .
+RESULTS	One hundred sixty-one patients underwent surgery alone , and 159 patients received multimodality treatment .
+RESULTS	The median ( interquartile range ) number of resected nodes was 18 ( 12-27 ) and 14 ( 9-21 ) , with 2 ( 1-6 ) and 0 ( 0-1 ) resected positive nodes , respectively .
+RESULTS	Persistent lymph node positivity after nCRT had a greater negative prognostic impact on survival as compared with lymph node positivity after surgery alone .
+RESULTS	The total number of resected nodes was significantly associated with survival for patients in the surgery-alone arm ( hazard ratio per 10 additionally resected nodes , 0.76 ; P = 0.007 ) , but not in the multimodality arm ( hazard ratio 1.00 ; P = 0.98 ) .
+CONCLUSIONS	The number of resected nodes had a prognostic impact on survival in patients after surgery alone , but its therapeutic value is still controversial .
+CONCLUSIONS	After nCRT , the number of resected nodes was not associated with survival .
+CONCLUSIONS	These data question the indication for maximization of lymphadenectomy after nCRT .
+

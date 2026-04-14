@@ -1,0 +1,15 @@
+24583820
+BACKGROUND	The effect of anaesthetic drugs on long-term oncological outcomes after cancer surgery is an area of current interest .
+BACKGROUND	Dexamethasone is widely used in anaesthetic practice ; however , its effect on long-term survival and cancer outcomes is not known .
+BACKGROUND	This study presents the results of a 5-yr follow-up of patients receiving dexamethasone before elective colectomy as part of a previous randomized clinical trial .
+METHODS	Sixty patients who underwent elective open colonic resection for any indication between June 2006 and March 2008 were randomized to receive either 8 mg i.v. dexamethasone or placebo before surgery .
+METHODS	A 5-yr follow-up analysis was conducted to evaluate overall survival , disease-free survival and recurrence specifically for patients undergoing resection for Stage I-III colon cancer .
+METHODS	Kaplan-Meier analysis was performed and log-rank test was used to evaluate difference in survival between groups .
+RESULTS	Forty-three of the 60 subjects had Stage I-III colon cancer and were included in the follow-up analysis .
+RESULTS	Twenty received preoperative dexamethasone and 23 received placebo .
+RESULTS	There were no significant differences between groups in baseline or disease characteristics .
+RESULTS	No differences were found between groups for overall or disease-free survival .
+RESULTS	In the dexamethasone group , there was a significantly higher rate of distant recurrence ( 6 compared with 1 , P = 0.04 ) .
+CONCLUSIONS	Preoperative dexamethasone was associated with a higher rate of distant recurrence in patients undergoing colectomy for colon cancer .
+CONCLUSIONS	Given the small sample size , this finding should be interpreted with caution , but warrants further investigation in a prospective study .
+

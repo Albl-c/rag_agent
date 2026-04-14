@@ -1,0 +1,21 @@
+24932893
+BACKGROUND	Missed scheduled HIV appointments lead to increased mortality , resistance to antiretroviral therapy , and suboptimum virological response .
+BACKGROUND	We aimed to assess whether reminders sent to carers by text message , mobile phone call , or concomitant text message and mobile phone call increase attendance at medical appointments for HIV care in a population of children infected with or exposed to HIV in Cameroon .
+BACKGROUND	We also aimed to ascertain the most cost-effective method of mobile-phone-based reminder .
+METHODS	MORE CARE was a multicentre , single-blind , factorial , randomised controlled trial in urban , semi-urban , and rural settings in Cameroon .
+METHODS	Carers of children who were infected with or had been exposed to HIV were randomly assigned electronically in blocks of four and allocated ( 1:1:1:1 ) sequentially to receive a text message and a call , a text message only , a call only , or no reminder ( control ) .
+METHODS	Investigators were masked to group assignment .
+METHODS	Text messages were sent and calls made 2 or 3 days before a scheduled follow-up appointment .
+METHODS	The primary outcomes were efficacy ( the proportion of patients attending a previously scheduled appointment ) and efficiency ( attendance / [ measures of staff working time cost of the reminders ] ) , as a measure of cost-effectiveness .
+METHODS	The primary analysis was by intention to treat .
+METHODS	This study is registered with the Pan African Clinical Trials Register , number PACTR201304000528276 .
+RESULTS	The study took place between Jan 28 and May 24 , 2013 .
+RESULTS	We randomly assigned 242 adult-child ( carer-patient ) pairs into four groups : text message plus call ( n = 61 ) , call ( n = 60 ) , text message ( n = 60 ) , and control ( n = 61 ) .
+RESULTS	54 participants ( 89 % ) in the text message plus call group , 51 ( 85 % ) in the call group , 45 ( 75 % ) in the text message group , and 31 ( 51 % ) in the control group attended their scheduled appointment .
+RESULTS	Compared with control , the odds ratios for improvement in the primary efficacy outcome were 75 ( 95 % CI 29-190 ; p < 00001 ) for text message plus call , 55 ( 23-131 ; p = 00002 ) for call , and 29 ( 13-63 ; p = 0012 ) for text message .
+RESULTS	No significant differences were seen in comparisons of the three intervention groups with each other , and there was no synergism between text messages and calls .
+RESULTS	For the primary efficiency outcome , the mean difference for text message versus text message plus call was 15 ( 95 % CI 07 to 24 ; p = 0002 ) , for call versus text message plus call was 12 ( 07 to 16 ; p < 00001 ) , and for call versus text message was 04 ( -13 to 06 ; p = 047 ) .
+CONCLUSIONS	Mobile-phone-based reminders of scheduled HIV appointments for carers of paediatric patients in low-resource settings can increase attendance .
+CONCLUSIONS	The most effective method of reminder was text message plus phone call , but text messaging alone was the most efficient ( ie , cost-effective ) method .
+BACKGROUND	No external funding .
+

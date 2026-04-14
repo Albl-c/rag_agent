@@ -1,0 +1,17 @@
+24882460
+OBJECTIVE	The aims of the present study were to evaluate the efficacy of and compliance with a new device for autoinflation in the treatment of persistent otitis media with effusion ( OME ) in young children .
+METHODS	Forty-five children with persistent OME with a bilateral type B or C2 tympanogram for at least three months and history of subjective hearing loss , waiting for grommet surgery , were randomised to a treatment and a control group .
+METHODS	Twenty-three children aged between three and eight years started as the treatment group with the new device for autoinflation .
+METHODS	Another 22 children , aged between two and eight years were included as controls .
+METHODS	After a period of four weeks , a cross-over was performed .
+METHODS	Both groups underwent otomicroscopy , tympanometry and audiometry at inclusion and after one and two months for the evaluation of treatment efficiency .
+METHODS	The primary outcome measurements were improvement in middle-ear pressure and hearing thresholds at eight weeks .
+METHODS	Both groups were then followed up for another 10 months .
+RESULTS	In the treatment group , the mean middle-ear pressure for both ears and the mean hearing thresholds for the best ear improved by 166 daPa ( p < 0.0001 ) and 6 dB ( p < 0.0001 ) , respectively after four weeks , while in the control group , non-significant alterations were observed .
+RESULTS	After the cross-over of the control group to treatment , equivalent improvements in the mean middle-ear pressure and the mean hearing thresholds of 187 daPa ( p < 0.0001 ) and 7 dB ( p < 0.01 ) , respectively were achieved also in this group .
+RESULTS	After treatment in both groups at eight weeks , four of 45 children were submitted to grommet surgery .
+RESULTS	During the long-term follow-up another five children were submitted to surgery due to recurrence of disease .
+RESULTS	All the children managed to perform the manoeuvre and no side-effects were detected .
+CONCLUSIONS	The device demonstrated efficiency in improving both middle-ear pressure and hearing thresholds in most children after four weeks of treatment .
+CONCLUSIONS	It might therefore be possible to consider this method of autoinflation in children with persistent OME during the watchful waiting period .
+

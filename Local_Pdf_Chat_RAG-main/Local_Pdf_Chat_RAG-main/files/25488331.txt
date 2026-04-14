@@ -1,0 +1,18 @@
+25488331
+BACKGROUND	School-based influenza immunization can effectively address accessibility barriers , but injected inactivated influenza vaccines ( IIV ) may not be acceptable to some children and parents in school settings .
+OBJECTIVE	To better understand the feasibility of offering intranasal live attenuated influenza vaccines ( LAIV ) through schools , we assessed uptake , stakeholder acceptability , and cost of school-based delivery of LAIV compared to IIV .
+METHODS	We piloted an open-label cluster randomized trial involving 10 elementary schools in Peterborough , Ontario during the 2013-2014 influenza vaccination campaign .
+METHODS	Schools were randomized to having students receive IIV or LAIV at publicly-funded school-based clinics organized by the local public health department .
+METHODS	We measured the percentage of students vaccinated with at least one dose of influenza vaccine at school .
+METHODS	Stakeholder acceptability was evaluated through a questionnaire of parents and interviews of public health department personnel and school principals .
+METHODS	We compared the costs per dose of vaccine administered , including staff time and costs of vaccines and supplies .
+RESULTS	Single-dose influenza vaccine uptake was higher for the five schools offering LAIV than for the five offering IIV ( 19.3 % vs. 12.2 % , p = 0.02 ) .
+RESULTS	Interviews with nine school principals and five public health department personnel suggested that the clinics ran smoothly with little disruption to school routines , and that LAIV was associated with increased efficiency and calmer children .
+RESULTS	All interviewees cited unfamiliarity with LAIV and the study recruitment package length as potential reasons for low uptake .
+RESULTS	The cost per vaccine dose administered was $ 38.67 for IIV and $ 43.50 for LAIV .
+CONCLUSIONS	Use of LAIV in school-based clinics was associated with increased vaccine uptake and the perception among immunizing staff of reduced child anxiety , but also slightly higher vaccine administration costs , compared to IIV .
+CONCLUSIONS	However , uptake was low for both groups .
+CONCLUSIONS	More effective strategies to promote influenza vaccines and to obtain parent consent may improve vaccine uptake .
+BACKGROUND	ClinicalTrials.gov NCT01995851 .
+BACKGROUND	Public Health Agency of Canada/Canadian Institutes of Health Research Influenza Research Network .
+

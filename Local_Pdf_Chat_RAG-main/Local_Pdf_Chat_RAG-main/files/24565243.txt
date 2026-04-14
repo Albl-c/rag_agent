@@ -1,0 +1,17 @@
+24565243
+OBJECTIVE	Sedation-analgesia is recommended for comfortable colonoscopy procedures , which are invasive and can be painful .
+OBJECTIVE	This study aimed to compare the combinations of propofol-alfentanil and propofol-fentanyl for sedation-analgesia in elective colonoscopy patients .
+METHODS	This prospective and randomized study was planned in ASA I-II groups and included 80 patients between the ages of 18 and 65 years .
+METHODS	Sedation-analgesia induction was performed as 1 g.kg ( -1 ) fentanyl , 1mg .
+METHODS	kg ( -1 ) propofol in the propofol-fentanyl group ( Group PF ) and 10 g.kg ( -1 ) alfentanil , 1mg .
+METHODS	kg ( -1 ) propofol in the propofol-alfentanil group ( Group PA ) .
+METHODS	Patients ' scores were limited to 3-4 values on the Ramsey Sedation Scale ( RSS ) by 0.5 mg.kg ( -1 ) bolus additional doses of propofol in sedation-analgesia maintenance .
+METHODS	We recorded demographical data , heart rate , mean arterial pressure ( MAP ) , oxygen saturation of hemoglobin ( SpO2 ) , RSS value , colonoscopy time , total dose of propofol , complications , recovery time , and discharge time , as well as colonoscopist and patient satisfaction scores .
+RESULTS	MAP at the 15 ( th ) minute in Group PA was significantly higher than in Group PF ( p = 0.037 ) .
+RESULTS	Group PA 's beginning mean heart rate was higher than the mean heart rate at subsequent readings ( p = 0.012 , p = 0.002 ) .
+RESULTS	The mean total propofol dose of Group PA was significantly higher than the total dose of Group PF ( p = 0.028 ) .
+RESULTS	The mean recovery time of Group PA was significantly longer than that of Group PF ( p = 0.032 ) .
+CONCLUSIONS	Fentanyl provides better operative conditions and reduces the need for additional propofol doses .
+CONCLUSIONS	These advantages cause a shorter recovery time .
+CONCLUSIONS	Therefore , propofol-fentanyl is superior to the propofol-alfentanil for sedation-analgesia in colonoscopy .
+

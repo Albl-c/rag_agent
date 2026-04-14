@@ -1,0 +1,13 @@
+25290608
+OBJECTIVE	To determine whether a cyromazine-resistant strain of Lucilia cuprina was able to establish strikes sooner than a susceptible strain on cyromazine - or dicyclanil-treated sheep .
+METHODS	Groups of 7 sheep were treated with cyromazine or dicyclanil in accordance with label directions .
+METHODS	Beginning 5 weeks after treatment , 5 sheep from each group were challenged by implantation of neonate larvae belonging to the cyromazine-resistant strain ` Nimmitabel-selected ' and the susceptible blowfly strain ` Field 2011 ' according to standard larval implant technique .
+METHODS	The implant sites were alternated between the shoulder , mid-back and rump within the treatment zone .
+METHODS	Similarly , implants of the resistant and susceptible strain larvae were alternated at each challenge such that the strain implanted on the left side of the sheep at one challenge was implanted on the right side at the next .
+METHODS	Challenges were conducted at 3-weekly intervals until the susceptible larvae formed strikes on at least 2 of the 5 sheep in a treatment group or until 29 weeks after treatment .
+RESULTS	Sheep treated with cyromazine or dicyclanil were protected from flystrike by the cyromazine-susceptible strain for periods consistent with , or longer than , the registered product label claims .
+RESULTS	The cyromazine-resistant strain created strikes several weeks sooner after treatment than did the susceptible strain .
+RESULTS	Accordingly , the protection periods provided by cyromazine and dicyclanil against the resistant strain were reduced from 14 and 18-24 weeks to < 8 weeks and < 11 weeks , respectively .
+CONCLUSIONS	Resistance , even in the pure-breeding resistant strain , was not so severe as to cause treatment failure with cyromazine or dicyclanil , but was sufficient to reduce the protection period provided .
+CONCLUSIONS	It is recommended that producers adopt management practices that minimise the development of resistance to these and other compounds .
+

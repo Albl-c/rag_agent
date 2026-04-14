@@ -1,0 +1,15 @@
+25740265
+OBJECTIVE	This study aimed to evaluate influence of ethnic factors on the pharmacokinetics of orally inhaled QMF149 , a novel combination of an approved longacting 2-agonist , indacaterol ( Onbrez Breezhaler for COPD ) , and an approved inhaled corticosteroid , mometasone furoate ( MF ) , ( Asmanex Twisthaler for asthma ) , following multiple dose administration of QMF149 ( indacaterol acetate/MF ) 150/80 g and 150/320 g via the Breezhaler device in healthy Japanese and Caucasian subjects .
+METHODS	This was a single-center , openlabel , multiple-dose , two-period , complete crossover study that randomized healthy Japanese and , age and weight matched Caucasian subjects to QMF149 150/80 g or 150/320 g once daily ( o.d. ) for 14 days in each period .
+METHODS	Pharmacokinetics ( PK ) were assessed up to 24 hours on days 1 and 14 .
+RESULTS	24 Japanese and 24 Caucasian healthy subjects were enrolled .
+RESULTS	Indacaterol and MF had similar PK profiles across both the doses and both ethnic groups .
+RESULTS	The maximum geometric mean ratios ( 90 % confidence interval ( CI ) ) for Japanese vs. Caucasian subjects for Cmax were 1.23 ( 1.11 - 1.38 ) and 1.24 ( 1.11 - 1.38 ) for indacaterol and MF , respectively .
+RESULTS	For AUC , the maximum ratios were 1.22 ( 1.09 - 1.36 ) and 1.30 ( 1.18 - 1.44 ) for indacaterol and MF , respectively .
+RESULTS	The mild trend towards higher exposure in Japanese subjects could be explained by the fact that the mean body weight was 14 % higher for Caucasians compared to their Japanese counterparts .
+RESULTS	No serious adverse events or discontinuations related to study medication were reported .
+CONCLUSIONS	The study demonstrated increase of mean exposure parameters in Japanese subjects vs. Caucasian subjects , which ranged between 19 - 23 % and 17 - 30 % , for indacaterol and MF components , respectively .
+CONCLUSIONS	Multiple doses of both the QMF149 dose levels were safe and well-tolerated in all subjects .
+CONCLUSIONS	Body weight was considered a key contributory factor for the observed difference in exposure .
+CONCLUSIONS	These results suggest no dose adjustment for QMF149 is required in Asian populations .
+

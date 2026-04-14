@@ -1,0 +1,14 @@
+24755713
+BACKGROUND	The intervention completion rate is an important metric in behavioral and intervention research ; trials with limited intervention completion rates may have reduced internal validity .
+BACKGROUND	We examined intervention completion rates among 530 African Americans who had been randomized to an integrated ( INT ) or disease-specific ( DSE ) risk education protocol as part of a comparative effectiveness trial from September 2009 to August 2012 .
+METHODS	The interventions were developed by an academic-community partnership using community-based participatory research .
+METHODS	Intervention completion rates were determined based on attendance at all four intervention sessions .
+METHODS	Intervention completers were participants who completed all four sessions and noncompleters were those who did not complete any session or only completed one to three sessions following randomization .
+RESULTS	Seventy-three percent of participants were intervention completers and 27 % were noncompleters .
+RESULTS	There were no differences in intervention completion based on randomization to INT ( 72 % ) or DSE ( 75 % ) , sociodemographic factors , or body mass index ( BMI ) in the total sample .
+RESULTS	Different factors were associated significantly with intervention completion within study groups .
+RESULTS	Among participants randomized to INT , the odds of intervention completion were greater with higher levels of intrinsic motivation , less exposure to information about diet and cardiovascular disease , and greater BMI .
+RESULTS	Among participants randomized to DSE , the odds of completing the intervention were associated significantly with older age and greater dietary self-efficacy .
+CONCLUSIONS	Many African Americans are likely to complete risk education interventions .
+CONCLUSIONS	Psychologic characteristics should be considered when determining intervention completion rates following randomization in behavioral and intervention trials .
+

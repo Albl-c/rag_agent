@@ -1,0 +1,19 @@
+24705855
+OBJECTIVE	We investigated the feasibility and acceptance of electronic monitoring of symptoms and syndromes in oncological outpatient clinics using a PALM ( handheld computer ) .
+METHODS	The assessment of a combination of symptoms and clinical benefit parameters grouped in four pairs was tested in a pilot phase in advanced cancer patients .
+METHODS	Based on these experiences , the software E-MOSAIC was developed , consisting of patient-reported symptoms and nutritional intake and objective assessments ( weight , weight loss , performance status and medication for pain , fatigue , and cachexia ) .
+METHODS	E-MOSAIC was then tested in four Swiss oncology centers .
+METHODS	In order to compare the methods , patients completed the E-MOSAIC as a paper and a PALM version .
+METHODS	Preferences of version and completion times were collected .
+METHODS	Assessments were compared using Wilcoxon signed-rank tests , and the test-retest reliability was evaluated .
+RESULTS	The pilot phase was completed by 22 patients .
+RESULTS	Most patients and physicians perceived the assessment as useful .
+RESULTS	Sixty-two patients participated in the feasibility study .
+RESULTS	Twelve patients reported problems ( understanding , optical , tactile ) , and five patients could not complete the assessment .
+RESULTS	The median time to complete the PALM-based assessment was 3min .
+RESULTS	Forty-nine percent of patients preferred the PALM , 23 % preferred a paper version , and 28 % of patients had no preference .
+RESULTS	Paper vs. PALM revealed no significant differences in symptoms , but in nutritional intake ( p = 0.013 ) .
+RESULTS	Test-retest ( 1h , n = 20 ) reliability was satisfactory ( r = 073-98 ) .
+CONCLUSIONS	Electronic symptom and clinical benefit monitoring is feasible in oncology outpatient clinics and perceived as useful by patients , oncology nurses , and oncologists .
+CONCLUSIONS	E-MOSAIC is tested in a prospective randomized trial .
+

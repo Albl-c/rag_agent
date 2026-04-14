@@ -1,0 +1,13 @@
+24219891
+OBJECTIVE	High intake of added sweeteners is considered to have a causal role in the pathogenesis of cardiometabolic disorders .
+OBJECTIVE	Especially , high-fructose intake is regarded as potentially harmful to cardiometabolic health .
+OBJECTIVE	It may cause not only weight gain but also low-grade inflammation , which represents an independent risk factor for developing type 2 diabetes and cardiovascular disease .
+OBJECTIVE	In particular , fructose has been suggested to induce plasminogen activator inhibitor-1 ( PAI-1 ) expression in the liver and to increase circulating inflammatory cytokines .
+OBJECTIVE	We therefore aimed to investigate , whether high-fructose diet has an impact on PAI-1 , monocyte chemoattractant protein-1 ( MCP-1 ) , e-selectin and C-reactive protein ( CRP ) concentrations in healthy humans .
+METHODS	We studied 20 participants ( 12 males and 8 females ) of the TUebingen FRuctose Or Glucose study .
+METHODS	This is an exploratory , parallel , prospective , randomized , single-blinded , outpatient , hypercaloric , intervention study .
+METHODS	The participants had a mean age of 30.9 2.1 years and a mean body mass index of 26.0 0.5 kg/m ( 2 ) and they received 150 g of either fructose or glucose per day for 4 weeks .
+RESULTS	There were neither significant changes of PAI-1 , MCP-1 , e-selectin and CRP after fructose ( n = 10 ) and glucose ( n = 10 ) intervention nor treatment effects ( all P > 0.2 ) .
+RESULTS	Moreover , we did not observe longitudinal associations of the inflammatory parameters with triglycerides , liver fat , visceral fat and body weight in the fructose group .
+CONCLUSIONS	Temporary high-fructose intake does not seem to cause inflammation in apparently healthy people in this secondary analysis of a small feeding trial .
+

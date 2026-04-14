@@ -1,0 +1,18 @@
+24680759
+BACKGROUND	The intragastric balloon has been reported to be a safe and effective tool for temporary weight loss .
+BACKGROUND	The aim of this study is the evaluation of the possible predictive role of intragastric balloon when used before laparoscopic adjustable gastric banding .
+METHODS	A longitudinal multicenter study was conducted in patients with body mass index ( BMI ) > 35 kg/m ( 2 ) who underwent gastric banding with the BioEnterics Intragastric Balloon ( BIB ) .
+METHODS	After balloon removal ( 6 mo ) , patients were allocated into 2 group according to their percentage of excess weight loss ( % EWL ) : group > 25 ( % EWL > 25 % ) and group < 25 ( % EWL < 25 % ) .
+METHODS	Patients from both group underwent laparoscopic adjustable gastric banding ( LAGB ) 1-3 months after BIB removal .
+METHODS	The LAP-BAND AP band was placed in all patients via pars flaccida .
+METHODS	Weight loss parameters were considered in both groups .
+RESULTS	From January 2005 to December 2009 , 1357 patients were enrolled in this study .
+RESULTS	Mean BMI at time of BIB positioning was 44.98.4 ( range 29-82 .5 ) .
+RESULTS	After 6 months , at time of removal , mean BMI was 39.47.3 .
+RESULTS	According to the cutoff , patients were allocated into group A ( n = 699 ) and group B ( n = 658 ) .
+RESULTS	At this time the mean BMI was 36.46.4 and 42.76.9 ( P = .001 ) in groups A and B , respectively .
+RESULTS	At 1-year follow-up from LAGB , mean BMI was 35.86.5 and 40.07.4 ( P < .001 ) in groups A and B , respectively .
+RESULTS	This significant difference was confirmed at 3 - and 5-year follow-ups .
+RESULTS	A similar pattern was observed with the % EWL .
+CONCLUSIONS	Satisfactory results with BIB are predictive of a positive outcome of LASB at 1 , 3 , and 5 years after the procedure , and poor results do not inevitably indicate a negative outcome for gastric banding .
+

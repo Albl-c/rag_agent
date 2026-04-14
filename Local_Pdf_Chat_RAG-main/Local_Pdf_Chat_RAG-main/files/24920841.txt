@@ -1,0 +1,12 @@
+24920841
+BACKGROUND	Minimal-change nephrotic syndrome ( MCNS ) is a common cause of steroid sensitive nephrotic syndrome ( NS ) with frequent relapse .
+BACKGROUND	Although steroids and calcineurin inhibitors ( CNIs ) are the cornerstone treatments , the use of rituximab ( RTX ) , a monoclonal antibody targeting B cells , is an efficient and safe alternative in childhood .
+METHODS	Because data from adults remain sparse , we conducted a large retrospective and multicentric study that included 41 adults with MCNS and receiving RTX .
+RESULTS	Complete ( NS remission and withdrawal of all immunosuppressants ) and partial ( NS remission and withdrawal of at least one immunosuppressants ) clinical responses were obtained for 25 and 7 patients , respectively ( overall response 78 % ) , including 3 patients that only received RTX and had a complete clinical response .
+RESULTS	After a follow-up time of 39 months ( 6-71 ) , relapses occurred in 18 responder patients [ 56 % , median time 18 months ( 3-36 ) ] .
+RESULTS	Seventeen of these received a second course of RTX and then had a complete ( n = 13 ) or partial ( n = 4 ) clinical response .
+RESULTS	From multivariate analysis , on-going mycophenolate mofetil ( MMF ) therapy at the time of RTX was the only predictive factor for RTX failure [ HR = 0.07 95 % CI ( 0.01-0 .04 ) , P = 0.003 ] .
+RESULTS	Interestingly , nine patients were still in remission at 14 months ( 3-36 ) after B-cell recovery .
+RESULTS	No significant early or late adverse event occurred after RTX therapy .
+CONCLUSIONS	RTX is safe and effective in adult patients with MCNS and could be an alternative to steroids or CNIs in patients with a long history of relapsing MCNS .
+

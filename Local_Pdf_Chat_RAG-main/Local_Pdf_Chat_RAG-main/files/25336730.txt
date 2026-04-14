@@ -1,0 +1,12 @@
+25336730
+BACKGROUND	Circumsporozoite protein ( CS ) is the antigenic target for RTS , S , the most advanced malaria vaccine to date .
+BACKGROUND	Heterologous prime-boost with the viral vectors simian adenovirus 63 ( ChAd63 ) - modified vaccinia virus Ankara ( MVA ) is the most potent inducer of T-cells in humans , demonstrating significant efficacy when expressing the preerythrocytic antigen insert multiple epitope-thrombospondin-related adhesion protein ( ME-TRAP ) .
+BACKGROUND	We hypothesized that ChAd63-MVA containing CS may result in a significant clinical protective efficacy .
+METHODS	We conducted an open-label , 2-site , partially randomized Plasmodium falciparum sporozoite controlled human malaria infection ( CHMI ) study to compare the clinical efficacy of ChAd63-MVA CS with ChAd63-MVA ME-TRAP .
+RESULTS	One of 15 vaccinees ( 7 % ) receiving ChAd63-MVA CS and 2 of 15 ( 13 % ) receiving ChAd63-MVA ME-TRAP achieved sterile protection after CHMI .
+RESULTS	Three of 15 vaccinees ( 20 % ) receiving ChAd63-MVA CS and 5 of 15 ( 33 % ) receiving ChAd63-MVA ME-TRAP demonstrated a delay in time to treatment , compared with unvaccinated controls .
+RESULTS	In quantitative polymerase chain reaction analyses , ChAd63-MVA CS was estimated to reduce the liver parasite burden by 69 % -79 % , compared with 79 % -84 % for ChAd63-MVA ME-TRAP .
+CONCLUSIONS	ChAd63-MVA CS does reduce the liver parasite burden , but ChAd63-MVA ME-TRAP remains the most promising antigenic insert for a vectored liver-stage vaccine .
+CONCLUSIONS	Detailed analyses of parasite kinetics may allow detection of smaller but biologically important differences in vaccine efficacy that can influence future vaccine development .
+BACKGROUND	NCT01623557 .
+

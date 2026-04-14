@@ -1,0 +1,14 @@
+24290290
+BACKGROUND	Whether adiposity indicators other than body mass index ( BMI ) should be used in studies of childhood asthma is largely unknown .
+BACKGROUND	The role of atopy in `` obese asthma '' is also unclear .
+OBJECTIVE	To examine the relationship among adiposity indicators , asthma , and atopy in Puerto Rican children , and to assess whether atopy mediates the obesity-asthma association .
+METHODS	In a study of Puerto Rican children with ( n = 351 ) and without ( n = 327 ) asthma , we measured BMI , percent of body fat , waist circumference , and waist-to-hip ratio .
+METHODS	The outcomes studied included asthma , lung function , measures of atopy , and , among cases , indicators of asthma severity or control .
+METHODS	We performed mediation analysis to assess the contribution of atopy to the relationship between adiposity and asthma .
+RESULTS	BMI , percent of body fat , and waist circumference were associated with increased odds of asthma .
+RESULTS	Among cases , all 3 measures were generally associated with lung function , asthma severity/control , and atopy ; however , there were differences depending on the adiposity indicator analyzed .
+RESULTS	Atopy considerably mediated the adiposity-asthma association in this population : allergic rhinitis accounted for 22 % to 53 % of the association with asthma , and sensitization to cockroach mediated 13 % to 20 % of the association with forced vital capacity and 29 % to 42 % of the association with emergency department visits for asthma .
+CONCLUSIONS	Adiposity indicators are associated with asthma , asthma severity/control , and atopy in Puerto Rican children .
+CONCLUSIONS	Atopy significantly mediates the effect of adiposity on asthma outcomes .
+CONCLUSIONS	Longitudinal studies are needed to further investigate the causal role , if any , of adiposity distribution and atopy on `` obese asthma '' in childhood .
+

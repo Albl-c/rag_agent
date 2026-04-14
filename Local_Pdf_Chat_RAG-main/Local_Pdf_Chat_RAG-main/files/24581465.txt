@@ -1,0 +1,13 @@
+24581465
+OBJECTIVE	To identify risk factors for port infections within 30 days of placement .
+METHODS	A retrospective chart review of port placements from 2002-2009 was conducted .
+METHODS	Patients who had port removals secondary to infection within the first 30 days of placement were included .
+METHODS	This group of patients was compared with a control group of patients with ports with no evidence of infection .
+METHODS	For every one patient with a port infection , two control subjects were chosen of the same gender and new port placement during the same month as the corresponding patient with an infected port .
+RESULTS	From 2002-2009 , 4,404 ports were placed .
+RESULTS	Of the 4,404 patients , 33 ( 0.7 % ) were found to have a port infection within 30 days of placement .
+RESULTS	Compared with the control group , the early infection group had a higher prevalence of leukopenia ( 21.2 % vs 6.1 % , P = .039 ) and thrombocytopenia ( 33 % vs 12 % , P = .0158 ) .
+RESULTS	There was also a higher prevalence of an inpatient hospital stay during port placement and high international normalized ratio in the early infection group .
+CONCLUSIONS	Low preoperative white blood cell and platelet counts were risk factors for early infection .
+CONCLUSIONS	Abnormal coagulation profiles and inpatient access of ports after placement could be additional risk factors .
+

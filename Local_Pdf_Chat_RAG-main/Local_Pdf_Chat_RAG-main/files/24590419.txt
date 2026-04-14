@@ -1,0 +1,8 @@
+24590419
+OBJECTIVE	Although several eating disorder prevention programs reduce eating disorder risk factors and symptoms for female high school and college students , few efficacious prevention programs exist for female middle school students , despite the fact that body image and eating disturbances often emerge then .
+OBJECTIVE	Two pilot trials evaluated a new dissonance-based eating disorder prevention program for middle school girls with body image concerns .
+METHODS	Female middle school students with body dissatisfaction from two sites [ Study 1 : N = 81 , M age = 12.1 , standard deviation ( SD ) = 0.9 ; Study 2 : N = 52 , M age = 12.5 , SD = 0.8 ] were randomized to a dissonance intervention ( MS Body Project ) or educational brochure control ; Study 2 included a 3-month follow-up .
+RESULTS	Intervention participants showed significant post-test reductions in only one of the six variables with both Studies 1 and 2 ( i.e. , pressure to be thin and negative affect , respectively ) , though post-test effect sizes suggested medium reductions in eating disorder risk factors and symptoms ( Study 1 : M d = .40 ; Study 2 : M d = .65 ) ; reductions at 3-month follow-up in Study 2 were not evident ( M d = .19 ) .
+CONCLUSIONS	Results suggest that this new middle school version of the Body Project is producing medium magnitude reductions in eating disorder risk factors at post-test but that effects are showing limited persistence .
+CONCLUSIONS	Continued refinement and evaluation of this intervention appears warranted to develop more effective prevention programs for this age group .
+

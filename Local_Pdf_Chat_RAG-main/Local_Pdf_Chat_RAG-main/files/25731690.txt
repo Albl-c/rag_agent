@@ -1,0 +1,12 @@
+25731690
+OBJECTIVE	The purpose of this study was to investigate the use of vaginal progesterone for the prevention of preterm delivery in twin pregnancies .
+METHODS	We conducted a prospective , randomized , double-blind , placebo-controlled trial that involved 390 naturally conceived twin pregnancies among mothers with no history of preterm delivery who were receiving antenatal care at a single center .
+METHODS	Women with twin pregnancies between 18 and 21 weeks and 6 days ' gestation were assigned randomly to daily vaginal progesterone ( 200 mg ) or placebo ovules until 34 weeks and 6 days ' gestation .
+METHODS	The primary outcome was the difference in mean gestational age at delivery ; the secondary outcomes were the rate of spontaneous delivery at < 34 weeks ' gestation and the rate of neonatal composite morbidity and mortality in the treatment and nontreatment groups .
+RESULTS	The baseline characteristics were similar in both groups .
+RESULTS	The final analysis included 189 women in the progesterone group and 191 in the placebo group .
+RESULTS	No difference ( P = .095 ) in the mean gestational age at delivery was observed between progesterone ( 35.08 3.19 [ SD ] ) and placebo groups ( 35.55 2.85 ) .
+RESULTS	The incidence of spontaneous delivery at < 34 weeks ' gestation was 18.5 % in the progesterone group and 14.6 % in the placebo group ( odds ratio , 1.32 ; 95 % confidence interval , 0.24-2 .37 ) .
+RESULTS	No difference in the composite neonatal morbidity and mortality was observed between the progesterone ( 15.5 % ) and placebo ( 15.9 % ) groups ( odds ratio , 1.01 ; 95 % confidence interval , 0.58-1 .75 ) .
+CONCLUSIONS	In nonselected twin pregnancies , vaginal progesterone administration does not prevent preterm delivery and does not reduce neonatal morbidity and death .
+

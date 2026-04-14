@@ -1,0 +1,9 @@
+24469141
+OBJECTIVE	To investigate the education effect of case-based learning ( CBL ) pattern on clinical internship of conservative dentistry and endodontics .
+METHODS	Forty-one undergraduates were randomly assigned into CBL group and traditional teaching group .
+METHODS	After clinical internship in the department of conservative dentistry and endodontics for 11 weeks , each student in the 2 groups underwent comprehensive examinations including medical record writing , case analysis , academic knowledge , professional skills and the ability of winning the trust of the patients .
+METHODS	The scores were compared between the 2 groups using SPSS 13.0 software package .
+RESULTS	There was no significant difference between the 2 groups with regard to the scores of academic knowledge and profession skills ( P > 0.05 ) .
+RESULTS	However , the results of medical record writing , case analysis and the ability of winning the trust of the patients showed significant difference between the 2 groups ( P < 0.05 ) .
+CONCLUSIONS	Proper application of CBL in clinical internship of conservative dentistry and endodontics contributes to improve students ' ability of clinical thinking , synthetical analysis and adaptability to different patients .
+

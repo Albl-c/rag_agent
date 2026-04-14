@@ -1,0 +1,14 @@
+25262224
+BACKGROUND	Hyperparathyroidism ( HPT ) in multiple endocrine neoplasia ( MEN ) type 1 is associated with multiglandular parathyroid disease .
+BACKGROUND	Previous retrospective studies comparing subtotal parathyroidectomy ( SP ) and total parathyroidectomy with autotransplantation ( TP/AT ) have not established clearly better outcomes with either procedure .
+METHODS	Patients were assigned randomly to either SP or TP/AT and data were collected prospectively .
+METHODS	The rates of persistent HPT , recurrent HPT , and postoperative hypoparathyroidism were compared .
+RESULTS	The study cohort included 32 patients randomized to receive either SP or TP/AT ( mean follow-up , 7.5 5.7 years ) .
+RESULTS	The overall rate of recurrent HPT was 19 % ( 6/32 ) .
+RESULTS	Recurrent HPT occurred in 4 of 17 patients ( 24 % ) treated with SP and 2 of 15 patients ( 13 % ) treated with TP/AT ( P = .66 ) .
+RESULTS	Permanent hypoparathyroidism occurred in 3 of 32 patients ( 9 % ) overall .
+RESULTS	The rate of permanent hypoparathyroidism was 12 % in the SP group ( 2/17 ) and 7 % in the TP/AT group ( 1/15 ) .
+RESULTS	A second operation was performed in 4 of 17 patients initially treated with SP ( 24 % ) , compared with 1 of 15 patients undergoing TP/AT ( 7 % ; P = .34 ) .
+CONCLUSIONS	This randomized trial of SP and TP/AT in patients with MEN 1 failed to show any difference in outcomes when comparing results of SP versus TP/AT .
+CONCLUSIONS	Both procedures are associated with acceptable results , but SP may have advantages in that is involves only 1 surgical incision and avoids an obligate period of transient postoperative hypoparathyroidism .
+

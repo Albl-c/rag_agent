@@ -1,0 +1,15 @@
+25121977
+BACKGROUND	Antidepressant prescriptions have increased exponentially , burdening health care costs .
+OBJECTIVE	To evaluate the costs and effects of an antidepressant cessation advice in case of inappropriate long-term use in primary care , i.e. long-term usage without a ( current ) indication .
+METHODS	A economic evaluation during 1-year follow-up was performed , from a societal perspective , as part of a cluster-randomised controlled clinical trial ( PANDA ) .
+METHODS	Costs were assessed using the Trimbos/iMTA questionnaire for costs associated with psychiatric illness .
+METHODS	Health-related quality of life was measured using the EuroQol 5D .
+METHODS	Outcome was costs per quality adjusted life year ( QALY ) .
+METHODS	Missing values were estimated using multiple imputation , bootstrap simulations were performed to address the uncertainty surrounding the incremental cost-effectiveness ratios ( ICERs ) .
+RESULTS	There was no difference in average QALYs between the intervention ( 0.70 ) and control group ( 0.72 ) [ difference -0.02 ( 95 % CI -0.05 to 0.10 ) ] .
+RESULTS	The intervention group , however , was less expensive than the control group ( total costs 3636 versus 5267 , respectively ) .
+RESULTS	Most cost-effectiveness pairs were located in the south-west quadrant of the cost-effectiveness plane , implying the intervention was less effective but also less costly .
+RESULTS	The ICER of the pooled data was 70,180 , meaning that for one QALY lost , 70,180 is saved .
+CONCLUSIONS	This study shows that an antidepressant cessation advice given to patients ( and their FPs ) with inappropriate long-term antidepressant usage , albeit not effective , does seem to result in a reduction of societal costs .
+CONCLUSIONS	This reduction in costs is mostly due to reduction of productivity losses , possibly due to patient empowerment and loss of stigma .
+

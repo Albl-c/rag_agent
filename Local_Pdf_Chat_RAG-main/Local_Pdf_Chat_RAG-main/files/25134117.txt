@@ -1,0 +1,24 @@
+25134117
+OBJECTIVE	To determine the effects of lipid based nutritional supplements with either whey or soy protein in patients with HIV during the first three months of antiretroviral treatment ( ART ) and to explore effects of timing by comparing supplementation at the start of ART and after three months delay .
+METHODS	Randomised controlled trial .
+METHODS	Three public ART facilities in Jimma , Oromia region , Ethiopia .
+METHODS	Adults with HIV eligible for ART with body mass index ( BMI ) > 16 .
+METHODS	Daily supplementation with 200 g ( 4600 kJ ) of supplement containing whey or soy during either the first three or the subsequent three months of ART .
+METHODS	Primary : lean body mass assessed with deuterium dilution , grip strength measured with dynamometers , and physical activity measured with accelerometer and heart rate monitors .
+METHODS	Secondary : viral load and CD4 counts .
+METHODS	Auxiliary : weight and CD3 and CD8 counts .
+RESULTS	Of 318 patients enrolled , 210 ( 66 % ) were women , mean age was 33 ( SD 9 ) , and mean BMI was 19.5 ( SD 2.4 ) .
+RESULTS	At three months , participants receiving the supplements containing whey or soy had increased their lean body mass by 0.85 kg ( 95 % confidence interval 0.16 kg to 1.53 kg ) and 0.97 kg ( 0.29 kg to 1.64 kg ) , respectively , more than controls .
+RESULTS	This was accompanied by an increased gain of grip strength of 0.68 kg ( -0.11 kg to 1.46 kg ) for the whey supplement group and 0.93 kg ( 0.16 kg to 1.70 kg ) for the soy supplement group .
+RESULTS	There were no effects on physical activity .
+RESULTS	Total weight gain increased by 2.05 kg ( 1.12 kg to 2.99 kg ) and 2.06 kg ( 1.14 kg to 2.97 kg ) for the whey and soy groups , respectively .
+RESULTS	In addition , in the whey supplement group overall CD3 counts improved by 150 cells/L ( 24 to 275 cells/L ) , of which 112 cells/L ( 15 to 209 cells/L ) were CD8 and 25 cells/L ( -2 to 53 cells/L ) were CD4 .
+RESULTS	Effects of the soy containing supplement on immune recovery were not significant .
+RESULTS	The effects of the two supplements , however , were not significantly different in direct comparison .
+RESULTS	Exploratory analysis showed that relatively more lean body mass was gained by patients with undetectable viral load at three months .
+RESULTS	Patients receiving delayed supplementation had higher weight gain but lower gains in functional outcomes .
+CONCLUSIONS	Lipid based nutritional supplements improved gain of weight , lean body mass , and grip strength in patients with HIV starting ART .
+CONCLUSIONS	Supplements containing whey were associated with improved immune recovery .
+CONCLUSIONS	Trial registration Controlled-trials .
+CONCLUSIONS	com ISRCTN32453477 .
+

@@ -1,0 +1,14 @@
+25581505
+OBJECTIVE	To identify risk factors for early study termination and motivators for adherence to a long-term followup trial and to improve completeness of long-term studies .
+METHODS	Risk factors for early termination in 508 included patients were identified through Cox regression analysis .
+METHODS	Patients completing the 10-year followup filled in a questionnaire on possible motives for continued study participation .
+RESULTS	Risk factors for early termination were higher age ( hazard ratio [ HR ] 1.03 , 95 % confidence interval [ 95 % CI ] 1.02-1 .04 ) , functional disability during the preceding year ( HR 1.54 , 95 % CI 1.20-1 .99 ) , having achieved drug-free remission ( HR 6.62 , 95 % CI 2.07-21 .14 ) , limited joint damage ( HR 0.98 , 95 % CI 0.97-0 .995 for actual damage ; HR 0.83 , 95 % CI 0.73-0 .94 for damage progression ) , and few adverse events ( HR 0.35 , 95 % CI 0.26-0 .47 ) .
+RESULTS	A total of 288 of 313 patients ( 92 % ) attending the last visit answered the questionnaire .
+RESULTS	The majority mentioned contributing to scientific research ( 97 % agreed ) , helping other patients ( 91 % ) , and learning about new treatment strategies ( 84 % ) and their disease ( 85 % ) as reasons to continue participation .
+RESULTS	Next , patients mentioned tight control ( 202 of 278 patients ) , good treatment strategy ( 128 of 278 ) , good medication ( 117 of 278 ) , and good half-term results ( 102 of 278 ) as motivators .
+RESULTS	More than 95 % of patients experienced participation `` as expected '' or `` better than expected . ''
+RESULTS	Additional examinations during yearly visits ( extra questionnaires , imaging ) were mentioned as `` worse than expected '' ( 10 % ) , as was answering routine questionnaires ( 7 % ) .
+CONCLUSIONS	Continued participation was relatively high in the Treatment Strategies for Rheumatoid Arthritis ( BeSt ) Study .
+CONCLUSIONS	Higher age , functional disability , drug-free remission , little joint damage , and few adverse events predicted early study termination .
+CONCLUSIONS	Main motives for continued participation were a willingness to contribute to research , help future patients , and because patients had good experiences with the study protocol .
+

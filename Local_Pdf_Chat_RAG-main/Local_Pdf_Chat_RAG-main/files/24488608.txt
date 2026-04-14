@@ -1,0 +1,12 @@
+24488608
+OBJECTIVE	Current stroke risk schemes need improvement of predictive value in patients with atrial fibrillation .
+OBJECTIVE	Transoesophageal echocardiography ( TEE ) may facilitate stroke risk assessment in such patients and guide antithrombotic treatment .
+METHODS	We randomised 238 patients with non-valvular atrial fibrillation and a moderate stroke risk to aspirin or adjusted vitamin K antagonist therapy after TEE had ruled out thrombogenic features in the atria and aorta .
+METHODS	The primary outcome was a composite of stroke , major bleeding , peripheral embolism and all-cause mortality .
+RESULTS	Mean CHA2DS2-VASc score was 2.11.1 .
+RESULTS	The incidences of the composite primary outcome at a mean follow-up of 1.6 years were 3.2 % ( 2.02 % per year ) in the aspirin group compared to 6.1 % ( 3.84 % per year ) in the vitamin K antagonists group with an absolute advantage of 2.9 percentage points .
+RESULTS	Aspirin was non-inferior to vitamin K antagonists ( p < 0.0001 ) because the upper limit of the 90 % CI did not exceed the 7 % absolute difference in event rate between the two treatment arms .
+CONCLUSIONS	This hypothesis-generating pilot trial has found that TEE may be used for refinement of stroke risk in paroxysmal atrial fibrillation patients .
+CONCLUSIONS	A larger trial is needed to confirm these data .
+CONCLUSIONS	( ClinicalTrials.gov number NTC00224757 ) .
+

@@ -1,0 +1,13 @@
+24316262
+OBJECTIVE	We performed an open-label , multicenter , phase 3 study of the safety and efficacy of twice-daily telaprevir in treatment-naive patients with chronic hepatitis C virus ( HCV ) genotype 1 infection , including those with cirrhosis .
+METHODS	Patients were randomly assigned to groups treated with telaprevir 1125 mg twice daily or 750 mg every 8 hours plus peginterferon alfa-2a and ribavirin for 12 weeks ; patients were then treated with peginterferon alfa-2a and ribavirin alone for 12 weeks if their level of HCV RNA at week 4 was < 25 IU/mL or for 36 weeks if their level was higher .
+METHODS	The primary objective was to demonstrate noninferiority of telaprevir twice daily versus every 8 hours in producing a sustained virological response 12 weeks after the end of therapy ( SVR12 ) ( based on a -11 % lower limit of the 95 % lower confidence interval for the difference between groups ) .
+RESULTS	At baseline , of 740 patients , 85 % had levels of HCV RNA 800,000 IU/mL , 28 % had fibrosis ( F3-F4 ) , 14 % had cirrhosis ( F4 ) , 57 % were infected with HCV genotype 1a , and 71 % had the non-CC IL28B genotype .
+RESULTS	Of patients who were treated with telaprevir twice daily , 74.3 % achieved SVR12 compared with 72.8 % of patients who were treated with telaprevir every 8 hours ( difference in response , 1.5 % ; 95 % confidence interval , -4.9 % to 12.0 % ) , so telaprevir twice daily is noninferior to telaprevir every 8 hours .
+RESULTS	All subgroups of patients who were treated with telaprevir twice daily versus those who were treated every 8 hours had similar rates of SVR12 .
+RESULTS	The most frequent adverse events ( AEs ) in the telaprevir phase were fatigue ( 47 % ) , pruritus ( 43 % ) , anemia ( 42 % ) , nausea ( 37 % ) , rash ( 35 % ) , and headache ( 26 % ) ; serious AEs were reported in 9 % of patients .
+RESULTS	Rates of AEs and serious AEs were similar or slightly higher among patients treated with telaprevir every 8 hours .
+CONCLUSIONS	Based on a phase 3 trial , telaprevir twice daily is noninferior to every 8 hours in producing SVR12 , with similar levels of safety and tolerability .
+CONCLUSIONS	These results support use of telaprevir twice daily in patients with chronic HCV genotype 1 infection , including those with cirrhosis .
+CONCLUSIONS	ClinicalTrials.gov , Number : NCT01241760 .
+

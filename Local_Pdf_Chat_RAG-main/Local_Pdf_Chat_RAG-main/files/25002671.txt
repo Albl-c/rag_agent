@@ -1,0 +1,14 @@
+25002671
+OBJECTIVE	To assess the effectiveness of in-person and webinar-delivered AFIX ( Assessment , Feedback , Incentives , and eXchange ) consultations for increasing adolescent vaccine coverage .
+METHODS	We randomly assigned 91 primary care clinics in North Carolina , serving 107443 adolescents , to receive no consultation or an in-person or webinar AFIX consultation .
+METHODS	We delivered in-person consultations in April through May 2011 and webinar consultations in May through August 2011 .
+METHODS	The state 's immunization registry provided vaccine coverage data for younger patients ( ages 11-12 years ) and older patients ( ages 13-18 years ) for 3 adolescent vaccines : tetanus toxoid , reduced diphtheria toxoid , and acellular pertussis ( Tdap ) ; meningococcal ; and human papillomavirus ( HPV ) vaccines ( 1 dose , females only ) .
+RESULTS	At the 5-month follow-up , AFIX consultations increased vaccine coverage among younger adolescents .
+RESULTS	Patients in the in-person arm experienced coverage changes that exceeded those in the control arm for Tdap ( 3.4 % [ 95 % confidence interval ( CI ) : 2.2 to 4.6 ] ) , meningococcal ( 4.7 % [ 95 % CI : 2.3 to 7.2 ] , and HPV ( 1.5 % [ 95 % CI : 0.3 to 2.7 ] ) vaccines .
+RESULTS	Patients in the webinar versus control arm also experienced larger changes for these vaccines .
+RESULTS	AFIX did little to improve coverage among older adolescents .
+RESULTS	At 1 year , the 3 arms showed similar coverage changes .
+RESULTS	The effectiveness of in-person and webinar consultations was not statistically different at either time point ( all , P > .05 ) .
+CONCLUSIONS	Webinar AFIX consultations were as effective as in-person consultations in achieving short-term increases in vaccine coverage for younger adolescents .
+CONCLUSIONS	AFIX consultations for adolescents need improvement to have a stronger and more durable impact , especially for HPV vaccine .
+

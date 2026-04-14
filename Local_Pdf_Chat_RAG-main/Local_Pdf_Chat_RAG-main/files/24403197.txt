@@ -1,0 +1,10 @@
+24403197
+BACKGROUND	Considering the increasing incidence of chronic kidney disease and the increased use of peritoneal dialysis , we wanted to assess whether the multidisciplinary management of patients in peritoneal dialysis might produce improvement in the quality of patients ' lives when compared to management by a routine team of operators .
+METHODS	Our study observed 40 patients on peritoneal dialysis in our Department between 2010 and 2012 .
+METHODS	They were randomly assigned to either group A , the routine team which consisted of a nephrologist and a nurse , or group B , a multidisciplinary team comprising several medical specialists , a nurse , a psychologist and a social worker .
+METHODS	Two tests , KDQOL-SF and MMPI-2 , were administered to both groups .
+RESULTS	In group B , the number of days of hospitalization and day hospital were more than 88 % lower when compared to group A.
+RESULTS	The multidisciplinary team achieved better results with the KDQOL-SF test with regards to both emotional and objective dimensions .
+RESULTS	The Pearson coefficient between the results of the two questionnaires shows how multidisciplinary management can positively influence the perceived well-being of the patient and his or her adherence to treatment .
+CONCLUSIONS	In a multidisciplinary team , each operator , in addition to his or her specific role , also contributes to the achievement of the overall objective , namely of ensuring an optimal quality of life to the patient on peritoneal dialysis thereby allowing these patients to continue their professional and social lives .
+

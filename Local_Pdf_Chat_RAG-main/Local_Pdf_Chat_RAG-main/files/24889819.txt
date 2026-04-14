@@ -1,0 +1,13 @@
+24889819
+OBJECTIVE	We have previously reported excellent cecal intubation rates using a short double-balloon endoscope in patients with a history of incomplete colonoscopy .
+OBJECTIVE	However , data on the endoscopic treatment of colorectal tumors using a double-balloon endoscope are limited .
+OBJECTIVE	The aim of the present study was to evaluate the efficacy and safety of endoscopic intervention of colorectal tumors using a short double-balloon endoscope .
+METHODS	We analyzed data from a multicenter , prospective study on 110 patients ( 62 men , median age 66.5 years ) who underwent total colonoscopy after incomplete colonoscopy to assess the characteristics of colorectal tumors , endoscopic interventions , and complications .
+RESULTS	In all , 113 colorectal tumors were detected in 55 patients ; 109 of the tumors were adenomas ( 24 advanced adenomas ) and two each were intramucosal and advanced cancers .
+RESULTS	Locations of the lesions were eight in the cecum , 30 in the ascending colon , 18 in the transverse colon , 12 in the descending colon , 34 in the sigmoid colon , five in the rectosigmoid and six in the rectum .
+RESULTS	Average tumor diameter was 6.86.3 mm .
+RESULTS	Fifty-nine polypectomies , 22 endoscopic mucosal resections , four hot biopsies , and six cold biopsies were done .
+RESULTS	All endoscopic interventions were successfully completed and no complications were noted .
+RESULTS	Two advanced cancers were located in the ascending colon and only a double-balloon endoscope could reach them to take a biopsy sample .
+CONCLUSIONS	Double-balloon endoscopy is effective and safe for endoscopic intervention of colorectal tumors , irrespective of the location , in patients after incomplete colonoscopy .
+

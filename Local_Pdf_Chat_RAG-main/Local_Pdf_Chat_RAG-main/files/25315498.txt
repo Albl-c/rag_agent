@@ -1,0 +1,7 @@
+25315498
+BACKGROUND	Fluralaner ( Bravecto ; Merck/MSD Animal Health ) is a novel systemic ectoparasiticide for dogs providing long-acting flea and tick control after a single oral dose .
+BACKGROUND	Milbemycin oxime and praziquantel are routinely used to control Dirofilaria immitis and intestinal worm infections in dogs .
+BACKGROUND	The safety of concurrent use of fluralaner and a commercially available milbemycin oxime plus praziquantel combination tablet , in particular with regard to gastrointestinal symptoms , was investigated using oral doses at or above the maximum recommended rates .
+RESULTS	Some minor and transient clinical findings were observed during the study period ; however , none of these was considered to be related to concurrent treatment with fluralaner and milbemycin oxime plus praziquantel , or to the use of either product alone .
+CONCLUSIONS	Concurrent treatment with fluralaner , milbemycin oxime and praziquantel is well tolerated in dogs .
+

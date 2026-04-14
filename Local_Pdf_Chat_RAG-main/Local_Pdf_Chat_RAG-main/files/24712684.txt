@@ -1,0 +1,13 @@
+24712684
+BACKGROUND	Stroke is a major cause of death and disability in the world , and the prevalence of stroke tends to increase with age .
+BACKGROUND	Despite advances in acute care and secondary preventive strategies , primary prevention should play the most significant role in the reduction of the burden of stroke .
+BACKGROUND	As an important component of traditional Chinese Qigong , Baduanjin exercise is a simple , safe exercise , especially suitable for older adults .
+BACKGROUND	However , current evidence is insufficient to inform the use of Baduanjin exercise in the prevention of stroke.The aim of this trail is to systematically evaluate the prevention effect of Baduanjin exercise on ischemic stroke in the community elder population with high risk factors .
+METHODS	A total of 170 eligible participants from the community elder population will be randomly allocated into the Baduanjin exercise group and usual physical activity control group in a 1:1 ratio .
+METHODS	Besides usual physical activity , participants in the Baduanjin exercise group will accept a 12-week Baduanjin exercise training with a frequency of five days a week and 40 minutes a day .
+METHODS	Primary and secondary outcomes will be measured at baseline , 13 weeks ( at end of intervention ) and 25 weeks ( after additional 12-week follow-up period ) .
+CONCLUSIONS	This study will be the randomized trial to evaluate the effectiveness of Baduanjin exercise for primary prevention of stroke in community elder population with high risk factors of stroke .
+CONCLUSIONS	The results of this trial will help to establish the optimal approach for primary prevention of stroke .
+BACKGROUND	Chinese Clinical Trial Registry : ChiCTR-TRC-13003588 .
+BACKGROUND	Registration date : 24 July , 2013 .
+

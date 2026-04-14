@@ -1,0 +1,13 @@
+24507830
+BACKGROUND	The methacholine challenge test quantifies airway hyper-responsiveness , which is measured by the provocative concentration of methacholine causing a 20 % decrease in forced expiration volume in 1 second ( PC20 ) .
+BACKGROUND	The dose-response effect of inhaled corticosteroids ( ICS ) on PC20 has been inconsistent and within-patient variability of PC20 is not well established .
+OBJECTIVE	To determine the effect of high - vs low-dose ICS on PC20 and within-patient variability in those with repeated measurements of PC20 .
+METHODS	A randomized , double-masked , crossover trial was conducted in patients with asthma on controller medications with PC20 of 8 mg/mL or lower ( n = 64 ) to evaluate the effect of high-dose ( 1,000 g/d ) vs low-dose ( 250 g/d ) fluticasone for 4 weeks on PC20 .
+METHODS	In addition , the variability of PC20 was assessed in participants who underwent 2 or 3 PC20 measurements on the same dose of ICS ( n = 27 ) over a 4-week interval .
+RESULTS	Because there was a significant period effect , dose comparison of the change in PC20 was assessed in the first treatment period .
+RESULTS	There was no significant difference in the change in PC20 for high - vs low-dose ICS ( 39 % vs 30 % increase , respectively ; P = .87 ) .
+RESULTS	The within - and between-participant variances for log PC20 were 0.84 and 0.96 , respectively , with an intra-class correlation of 0.53 , and 37 % of participants had more than 2 doubling dose changes in PC20 in those with repeated measurements .
+CONCLUSIONS	The effect of ICS on PC20 is not dose dependent at fluticasone levels of 250 and 1,000 g/d .
+CONCLUSIONS	Interpersonal variability for PC20 is large .
+CONCLUSIONS	A lack of precise measurements should be taken into account when interpreting any change in PC20 .
+

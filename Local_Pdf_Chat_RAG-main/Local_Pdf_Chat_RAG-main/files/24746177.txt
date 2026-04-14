@@ -1,0 +1,12 @@
+24746177
+OBJECTIVE	Chemotherapy-induced nausea and vomiting ( CINV ) is an unanswered problem in cancer therapy .
+OBJECTIVE	We evaluated the efficacy and safety of triple antiemetic therapy with aprepitant , a 5-hydroxytryptamine-3 ( 5-HT ( 3 ) ) receptor antagonist , and dexamethasone in patients with advanced non-small-cell lung cancer ( NSCLC ) who received carboplatin-based first-line chemotherapy .
+METHODS	Chemotherapy-nave patients with NSCLC were enrolled in this randomized phase-II study .
+METHODS	Patients were randomized to standard antiemetic therapy with a 5-HT ( 3 ) receptor antagonist and dexamethasone , and aprepitant add-on triple antiemetic therapy .
+METHODS	The primary endpoint was the complete response rate ( no vomiting and no rescue therapy ) during the 120 h post-chemotherapy .
+RESULTS	A total of 134 patients were assigned randomly to the aprepitant group or the control group .
+RESULTS	The aprepitant group and the control group showed an overall complete response rate of 80.3 % ( 95 % confidence interval ( CI ) , 69.2-88 .1 % ) and 67.2 % ( 95 % CI , 55.3-77 .2 % ; odds ratio ( OR ) , 0.50 ; 95 % CI , 0.22-1 .10 ; p = 0.085 ) , respectively .
+RESULTS	Among patients taking carboplatin and pemetrexed , adding aprepitant significantly improved the complete response rate in the overall phase ( 83.8 % in the aprepitant group and 56.8 % in the control group ; OR , 0.26 ; 95 % CI , 0.08-0 .70 ; p < 0.01 ) and the delayed phase ( 86.5 % in the aprepitant group and 59.1 % in the control group ; OR , 0.23 ; 95 % CI , 0.07-0 .65 ; p < 0.01 ) .
+CONCLUSIONS	Carboplatin-based chemotherapy has considerable emetic potential .
+CONCLUSIONS	Triple antiemetic therapy with aprepitant , a 5-HT ( 3 ) receptor antagonist , and dexamethasone improved the control of CINV prevention in patients receiving carboplatin and pemetrexed chemotherapy .
+

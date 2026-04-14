@@ -1,0 +1,16 @@
+25009161
+BACKGROUND	The risk of persistent tardive dyskinesia ( TD ) was compared in patients with acute psychosis or agitation aged 55 years or older who were treated with olanzapine ( OLZ ) or conventional antipsychotic ( CNV ) drug therapy .
+METHODS	Patients without TD were randomized to treatment with OLZ ( 2.5-20 mg/d ; n = 150 ) or CNV ( dosed per label ; n = 143 ) .
+METHODS	Following a 6-week drug tapering/initiation period , patients without TD were treated with OLZ or CNV for up to 1 year .
+METHODS	The a priori defined primary outcome end point was persistent TD defined as Abnormal Involuntary Movement Scale ( AIMS ) scores = 2 on at least 2 items or 3 on at least 1 item ( items 1-7 ) lasting at least for 1 month ( Criterion A ) .
+METHODS	Post hoc analyses assessed persistent TD meeting the criterion of moderate severity defined as AIMS score 3 on at least 1 item persisting for 1 month ( Criterion B ) and probable TD defined as elevated AIMS scores ( Criterion A or B ) not persisting for 1 month .
+METHODS	Treatment groups were compared using Kaplan-Meier curve with log-rank exact test .
+RESULTS	On average , patients were 78 years of age ; the predominant diagnosis was dementia ( 76.7 % in the OLZ group and 82.5 % in the CNV group ) .
+RESULTS	Approximately , 40.6 % of patients in the CNV group received haloperidol .
+RESULTS	No significant difference in time to developing persistent TD was observed during treatment with OLZ or CNV ( cumulative incidence : OLZ , 2.5 % [ 95 % confidence interval [ 95 % CI ] : 0.5-7 .0 ] ; CNV , 5.5 % [ 95 % CI : 2.1-11 .6 ] , P = .193 ) .
+RESULTS	The exposure-adjusted event rates per 100 person-years were not significantly different between treatment groups : OLZ ( 2.7 ) and CNV ( 6.3 ; ratio : 0.420 ; 95 % CI : 0.068-1 .969 ) .
+RESULTS	Post hoc analyses revealed a significantly lower risk of at least moderately severe persistent TD persisting for 1 month ( P = .012 ) and probable TD not persisting for 1 month ( Criterion A , P = .030 ; Criterion B , P = .048 ) in OLZ-treated patients .
+RESULTS	For those patients without significant extrapyramidal symptoms at baseline , significantly more patients in the CNV treatment group developed treatment-emergent parkinsonism than for patients in the OLZ treatment group ( CNV : 70 % , 35 of 50 patients ; OLZ 44 % , 25 of 57 patients ; P = .011 ) .
+RESULTS	No significant difference between the groups was observed for treatment-emergent akathisia ( CNV : 6 % , 7 of 117 patients ; OLZ : 10 % , 13 of 130 patients ; P = .351 ) .
+CONCLUSIONS	The cumulative incidence of persistent TD was low and the risk of persistent TD did not differ significantly among predominantly older adult patients having dementia with acute psychosis or agitation treated with OLZ or CNV .
+

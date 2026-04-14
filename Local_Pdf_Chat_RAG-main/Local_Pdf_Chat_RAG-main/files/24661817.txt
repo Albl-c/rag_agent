@@ -1,0 +1,13 @@
+24661817
+BACKGROUND	Pulmonary coagulopathy is a hallmark of lung injury following inhalation trauma .
+BACKGROUND	Locally applied heparin attenuates lung injury in animal models of smoke inhalation .
+BACKGROUND	Whether local treatment with heparin benefits patients with inhalation trauma is uncertain .
+BACKGROUND	The present trial aims at comparing a strategy using frequent nebulizations of heparin with standard care in intubated and ventilated burn patients with bronchoscopically confirmed inhalation trauma .
+METHODS	The Randomized Controlled Trial Investigating the Efficacy and Safety of Nebulized HEParin versus Placebo in BURN Patients with Inhalation Trauma ( HEPBURN ) is an international multi-center , double-blind , placebo-controlled , two-arm study .
+METHODS	One hundred and sixteen intubated and ventilated burn patients with confirmed inhalation trauma are randomized to nebulizations of heparin ( the nebulized heparin strategy ) or nebulizations of normal saline ( the control strategy ) every four hours for 14days or until extubation , whichever comes first .
+METHODS	The primary endpoint is the number of ventilator-free days , defined as days alive and breathing without assistance during the first 28days , if the period of unassisted breathing lasts for at least 24 consecutive hours .
+CONCLUSIONS	As far as the authors know , HEPBURN is the first randomized , placebo-controlled trial , powered to investigate whether local treatment with heparin shortens duration of ventilation of intubated and ventilated burn patients with inhalation trauma .
+BACKGROUND	NCT01773083 ( http://www.clinicaltrials.gov ) , registered on 16 January 2013 .
+BACKGROUND	Recruiting .
+BACKGROUND	Randomisation commenced on 1 January 2014 .
+

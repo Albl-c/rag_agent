@@ -1,0 +1,12 @@
+26237979
+OBJECTIVE	To observe the clinical effect of slow-rapid reinforcing-reducing needling manipulation at Jiaji ( EX-B 2 ) acupoint for lumbar intervertebral disc protrusion .
+METHODS	Sixty subjects met the inclusion criteria of disc herniation were randomly divided into treatment group ( n = 30 ) and control group ( n = 30 ) .
+METHODS	In the treatment group , the stimulation mode ( slow or fast , reinforcement or reduction ) of Jiaji acupoints ( EX-B 2 ) was based on the status of the patients by an overall analysis of symptoms and signs .
+METHODS	Other acupoints such as Huantiao ( GB 30 ) , Weizhong ( BL 40 ) , etc. were stimulated with uniform reinforcing-reducing manipulation .
+METHODS	In the control group , all the acupoints were stimulated in uniform reinforcing-reducing mode .
+METHODS	The treatment was conducted once a day , continuously for 18 days with 1 day 's break between every 6 days .
+METHODS	The clinical efficacy appraisal , visual analogue scale ( VAS ) and Japanese orthopaedic association ( JOA ) scores and traditional Chinese medicine ( TCM ) syndrome scores were used for outcome assessment .
+RESULTS	In comparison with pretreatment , the VAS scores and TCM syndrome scores were significantly decreased in both control and treatment groups ( P < 0.05 ) , and the JOA scores were markedly increased after the treatment ( P < 0.05 ) .
+RESULTS	The therapeutic effects of the treatment group were obviously superior to those of the control group in down-regulating the VAS score and TCM syndome score and up-regulating JOA score ( P < 0.05 ) .
+CONCLUSIONS	Slow-fast reinforcing-reducing needling manipulation is superior to the routine acupuncture in the management of lumbar intervertebral disc protrusion .
+

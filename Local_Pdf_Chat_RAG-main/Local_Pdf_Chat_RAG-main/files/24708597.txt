@@ -1,0 +1,19 @@
+24708597
+BACKGROUND	Asthma is the most prevalent chronic disease to complicate pregnancies worldwide , affecting around 12 % of pregnant women in Australia .
+BACKGROUND	Oxidative stress and inflammation manifest during pregnancy ; however asthma in pregnancies further intensifies oxidative stress .
+BACKGROUND	Consumption of antioxidant-rich foods has been shown to be beneficial for asthma control in non-pregnant asthmatic adults .
+BACKGROUND	It has not been investigated whether antioxidant-rich foods can improve the elevated oxidative stress that occurs with asthma in pregnancy , thereby improving asthma control .
+BACKGROUND	The primary aim of this study is to determine whether increased consumption of antioxidant-rich foods for 12 weeks will improve maternal asthma control , compared to standard dietary intake during pregnancy .
+METHODS	A 12 week , parallel randomized controlled trial will be conducted .
+METHODS	One hundred and sixty eight pregnant women with mild , moderate , or severe asthma , currently using inhaled corticosteroids , and with poor diet quality , will be recruited at approximately12 weeks gestation .
+METHODS	Following a 4 week run-in period , women will be randomized to either a 12 week antioxidant intervention ( increased consumption of antioxidant-rich foods ( 5 servings/day vegetables , 2 servings/day fruit , 8 servings/day grains ( mostly wholegrains ) , 3-4 serving/week lean meat ) or standard pregnancy care .
+METHODS	The primary outcome is asthma control score ( decrease of 0.5 , the minimally clinically significant change ) .
+METHODS	Secondary outcomes include plasma antioxidants , markers of oxidative stress , and time to , and number of , exacerbations .
+METHODS	With two-tailed t-tests at 80 % power , a sample size of 52 completions per group is required .
+METHODS	Allowing for a 78 % retention including a 20 % removal of women from the analysis due to non-compliance , we will recruit 168 women .
+CONCLUSIONS	It is expected that this 12 week study will improve asthma control .
+CONCLUSIONS	This is significant because asthma is the most prevalent condition to complicate pregnancies and contributes to poor maternal , neonatal and infant health outcomes .
+CONCLUSIONS	Our research will provide the first evidence to show that , in pregnancy , consumption of antioxidant-rich foods is a key modifier of clinical asthma status .
+CONCLUSIONS	This research is crucial for contributing to the evidence base to inform future guidelines given existing clinical and research gaps .
+BACKGROUND	ACTRN12613000301763 .
+

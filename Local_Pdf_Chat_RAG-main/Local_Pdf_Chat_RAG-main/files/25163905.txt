@@ -1,0 +1,20 @@
+25163905
+BACKGROUND	Prostate cancer is a major public health problem with considerable uncertainties about the effectiveness of population screening and treatment options .
+BACKGROUND	We report the study design , participant sociodemographic and clinical characteristics , and the initial results of the testing and diagnostic phase of the Prostate testing for cancer and Treatment ( ProtecT ) trial , which aims to investigate the effectiveness of treatments for localised prostate cancer .
+METHODS	In this randomised phase 3 trial , men aged 50-69 years registered at 337 primary care centres in nine UK cities were invited to attend a specialist nurse appointment for a serum prostate-specific antigen ( PSA ) test .
+METHODS	Prostate biopsies were offered to men with a PSA concentration of 30 g/L or higher .
+METHODS	Consenting participants with clinically localised prostate cancer were randomly assigned to active monitoring ( surveillance strategy ) , radical prostatectomy , or three-dimensional conformal external-beam radiotherapy by a computer-generated allocation system .
+METHODS	Randomisation was stratified by site ( minimised for differences in participant age , PSA results , and Gleason score ) .
+METHODS	The primary endpoint is prostate cancer mortality at a median 10-year follow-up , ascertained by an independent committee , which will be analysed by intention to treat in 2016 .
+METHODS	This trial is registered with ClinicalTrials.gov , number NCT02044172 , and as an International Standard Randomised Controlled Trial , number ISRCTN20141297 .
+RESULTS	Between Oct 1 , 2001 , and Jan 20 , 2009 , 228,966 men were invited to attend an appointment with a specialist nurse .
+RESULTS	Of the invited men , 100,444 ( 44 % ) attended their initial appointment and 82,429 ( 82 % ) of attenders had a PSA test .
+RESULTS	PSA concentration was below the biopsy threshold in 73,538 ( 89 % ) men .
+RESULTS	Of the 8566 men with a PSA concentration of 30-199 g/L , 7414 ( 87 % ) underwent biopsies .
+RESULTS	2896 men were diagnosed with prostate cancer ( 4 % of tested men and 39 % of those who had a biopsy ) , of whom 2417 ( 83 % ) had clinically localised disease ( mostly T1c , Gleason score 6 ) .
+RESULTS	With the addition of 247 pilot study participants recruited between 1999 and 2001 , 2664 men were eligible for the treatment trial and 1643 ( 62 % ) agreed to be randomly assigned ( 545 to active monitoring , 545 to radiotherapy , and 553 to radical prostatectomy ) .
+RESULTS	Clinical and sociodemographic characteristics of randomly assigned participants were balanced across treatment groups .
+CONCLUSIONS	The ProtecT trial randomly assigned 1643 men with localised prostate cancer to active monitoring , radiotherapy , or surgery .
+CONCLUSIONS	Participant clinicopathological features are more consistent with contemporary patient characteristics than in previous prostate cancer treatment trials .
+BACKGROUND	UK National Institute for Health Research Health Technology Assessment Programme .
+

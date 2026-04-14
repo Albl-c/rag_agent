@@ -1,0 +1,14 @@
+24375220
+BACKGROUND	Cardiac surgery and sternotomy are procedures accompanied by substantial postoperative pain which is challenging to treat .
+BACKGROUND	In general , intravenous ( IV ) opioids are used in the immediate postoperative phase , followed by oral opioids .
+BACKGROUND	Oral opioids are easier to use and generally less expensive .
+BACKGROUND	Our goal was thus to determine whether a new opioid preparation provides adequate analgesia after sternotomy .
+BACKGROUND	In particular , we tested the primary hypothesis that total opioid use ( in morphine equivalents ) is not greater with oral opioid compared with patient-controlled IV morphine .
+BACKGROUND	Our secondary hypothesis was that analgesic efficacy is similar with oral and IV opioids .
+METHODS	A total of 51 patients having elective cardiac surgery were enrolled in this study .
+METHODS	After rapid postoperative respiratory weaning , the patients were randomised into one of two groups receiving different types of analgesia : oral Targin ( a combination of oxycodone-hydrochloride and the opioid antagonist naloxone hydrochloride-dihydrate ) or patient-controlled IV morphine .
+METHODS	Pain score ( visual analogue scale ) , sedation ( Ramsey score ) , respiratory rate and side effects were assessed at 3 , 5 , 7 , 9 and 11 h after surgery , and every 6 h throughout the third postoperative evening .
+RESULTS	The total opioid dose in morphine equivalent doses was significantly lower with oral opioid than with IV morphine ( adjusted geometric means [ 95 % confidence interval ] : 34 [ 29 ; 38 ] vs. 69 [ 61 ; 78 ] mg , respectively ) .
+RESULTS	Pain scores were similar in each group .
+CONCLUSIONS	Analgesic quality was comparable with oral and IV opioids , suggesting that postoperative pain even after very painful procedures can be sufficiently managed with oral opioids .
+

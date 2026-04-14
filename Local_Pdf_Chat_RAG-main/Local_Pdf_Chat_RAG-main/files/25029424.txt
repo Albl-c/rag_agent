@@ -1,0 +1,19 @@
+25029424
+BACKGROUND	Hyperparathyroidism occurs frequently in X-linked hypophosphatemia ( XLH ) and may exacerbate phosphaturia , potentially affecting skeletal abnormalities .
+OBJECTIVE	The objective of the study was to suppress elevated PTH levels in XLH patients .
+METHODS	This was a prospective , randomized , placebo-controlled , double-blind , 1-year trial of paricalcitol , with outcomes measured at entry and 1 year later .
+METHODS	PATIENTS were recruited from the investigators ' clinics or referred from throughout the United States .
+METHODS	Data were collected in an in-patient hospital research unit .
+METHODS	Subjects with a clinical diagnosis of XLH and hyperparathyroidism were offered participation and were eligible if they were 9 years old or older and not pregnant , and their serum calcium level was less than 10.7 mg/dL , their 25-hydroxyvitamin D level was 20 ng/mL or greater , and their creatinine level was 1.5 mg/dL or less .
+METHODS	The intervention for this study was the use of paricalcitol or placebo for 1 year .
+METHODS	Determined prior to trial onset was the change in PTH area under the curve .
+METHODS	Secondary outcomes included renal phosphate threshold per glomerular filtration rate , serum phosphorus , serum alkaline phosphatase activity , and ( 99m ) Tc-methylenediphosphonate bone scans .
+RESULTS	PTH area under the curve decreased 17 % with paricalcitol , differing ( P = .007 ) from the 20 % increase with placebo .
+RESULTS	The renal phosphate threshold per glomerular filtration rate increased 17 % with paricalcitol and decreased 21 % with placebo ( P = .05 ) .
+RESULTS	Serum phosphorus increased 12 % with paricalcitol but did not differ from placebo .
+RESULTS	Paricalcitol decreased alkaline phosphatase activity in adults by 21 % ( no change with placebo , P = .04 ) .
+RESULTS	Bone scans improved in 6 of 17 paricalcitol subjects , whereas no placebo-treated subject improved .
+RESULTS	Hypercalciuria developed in six paricalcitol subjects and persisted from baseline in one placebo subject .
+CONCLUSIONS	Suppression of PTH may be a useful strategy for skeletal improvement in XLH patients with hyperparathyroidism , and paricalcitol appears to be an effective adjunct to standard therapy in this setting .
+CONCLUSIONS	Although paricalcitol was well tolerated , urinary calcium and serum calcium and creatinine should be monitored closely with its use .
+

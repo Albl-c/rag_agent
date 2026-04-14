@@ -1,0 +1,14 @@
+24462498
+OBJECTIVE	To identify characteristics of hemodialysis patients most likely to experience difficulty adhering to sodium restrictions associated with their dietary regimen .
+METHODS	Secondary analysis using baseline data from an ongoing randomized clinical trial examining the effects of a technology-supported behavioral intervention on dietary sodium intake in hemodialysis patients .
+METHODS	Thirteen dialysis centers in southwestern Pennsylvania .
+METHODS	We included 122 participants ( 61 % women ; 48 % African American ) aged 61 14 years undergoing maintenance , intermittent hemodialysis for end-stage renal disease .
+METHODS	Normalized dietary sodium intake , adjusted interdialytic weight gain , perceived problems , and self-efficacy for restricting dietary sodium .
+RESULTS	Younger participants were more likely to report problems managing their hemodialysis diet and low self-efficacy for restricting sodium intake .
+RESULTS	Consistent with these findings , younger participants had a higher median sodium intake and higher average adjusted interdialytic weight gain .
+RESULTS	Females reported more problems managing their diet .
+RESULTS	Race , time on dialysis , and perceived income adequacy did not seem to influence outcome measures .
+CONCLUSIONS	Our findings suggest that patients who are younger and female encounter more difficulty adhering to the hemodialysis regimen .
+CONCLUSIONS	Hence , there may be a need to individualize counseling and interventions for these individuals .
+CONCLUSIONS	Further investigation is needed to understand the independent effects of age and gender on adherence to hemodialysis dietary recommendations and perceived self-efficacy .
+

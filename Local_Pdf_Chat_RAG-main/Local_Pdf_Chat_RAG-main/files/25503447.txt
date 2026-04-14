@@ -1,0 +1,12 @@
+25503447
+BACKGROUND	Home-based exercise has been shown to provide benefits in terms of physical capacity in the general population , but has been scarcely investigated in patients with chronic kidney disease ( CKD ) .
+OBJECTIVE	To evaluate the impact of a home-based aerobic training on the cardiopulmonary and functional capacities of overweight non-dialysis-dependent patients with CKD ( NDD-CKD ) .
+METHODS	Twenty-nine sedentary patients ( 55.1 11.6 years , BMI = 31.2 6.1 kg/m ( 2 ) , eGFR = 26.9 17.4 mL/min/1 .73 m ( 2 ) ) were randomly assigned to a home-based exercise group ( n = 14 ) or to a control group ( n = 15 ) that remained without performing exercise .
+METHODS	Aerobic training was performed three times per week for 12 weeks .
+METHODS	A cardiopulmonary exercise test , functional capacity and clinical parameters were evaluated .
+RESULTS	A significant increase , ranging from 8.3 to 17 % , was observed in the cardiopulmonary capacity parameters , such as maximal ventilation ( p = 0.005 ) , VO2peak ( p = 0.049 ) , ventilatory threshold ( p = 0.040 ) and respiratory compensation point ( p < 0.001 ) , of the exercise group .
+RESULTS	A simultaneous improvement in the functional capacity tests [ 6-min walk test ( p < 0.001 ) , time up and go test ( p < 0.001 ) , arm curl test ( p < 0.001 ) , sit and stand test ( p < 0.001 ) , 2-min step test ( p < 0.001 ) and back scratch test ( p = 0.042 ) ] was also found in patients who were submitted to the exercise .
+RESULTS	Exercised patients experienced a decrease in systolic and diastolic blood pressure , average 10.6 % ( p < 0.001 ) and 9.2 % ( p = 0.007 ) , respectively , and a trend toward improved renal function ( p = 0.1 ) .
+RESULTS	No change in any parameter was found in the control group during the follow-up .
+CONCLUSIONS	The home-based aerobic exercise program was feasible , safe and effective for the improvement in the cardiopulmonary and functional capacities of overweight NDD-CKD patients .
+

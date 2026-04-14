@@ -1,0 +1,13 @@
+25449510
+BACKGROUND	Electrocardiographic ( ECG ) identification of prior myocardial infarction ( MI ) during right ventricular ( RV ) pacing is of clinical importance .
+BACKGROUND	Proposed ECG criteria have been evaluated only during apical pacing .
+BACKGROUND	We evaluated the effect of pacing site on the predictive performance of ECG signs of prior MI .
+METHODS	The present study is a secondary analysis of a prospective , multicenter study which randomized recipients of an implantable cardioverter defibrillator to an apical versus septal RV lead positioning .
+METHODS	ECGs of patients with or without prior MI were analyzed for the presence of the following criteria : Cabrera sign , Chapman sign , QR pattern in leads I , aVL , V5 or V6 , QR in inferior leads and notching in the descending slope of the QRS complex in inferior leads .
+RESULTS	The MI group included 89 patients ( 55.1 % apically paced ) , while 99 patients had no prior MI ( 50.5 % apically paced ) .
+RESULTS	In the total population , the Cabrera sign presented the highest specificity ( 97 % ) and diagnostic accuracy ( 62.2 % ) , with a sensitivity of 23.6 % .
+RESULTS	The Cabrera sign was the only significant predictor of a prior MI [ OR = 9.9 , ( 95 % CI :2.8 -34.5 ) , p < 0.001 ] , among all ECG markers .
+RESULTS	Pacing site did not significantly influence the sensitivity and specificity of the Cabrera sign for detection of prior MI .
+CONCLUSIONS	In our study , the Cabrera sign was the only ECG marker that predicted the presence of prior MI during ventricular paced rhythm .
+CONCLUSIONS	Septal RV lead positioning did not affect the predictive performance of the Cabrera sign .
+

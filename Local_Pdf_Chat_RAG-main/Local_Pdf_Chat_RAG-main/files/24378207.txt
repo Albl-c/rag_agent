@@ -1,0 +1,17 @@
+24378207
+BACKGROUND	Combined treatment with a bisphosphonate and vitamin D has been proposed for postmenopausal osteoporosis .
+BACKGROUND	A new , fixed-dose combination tablet of ibandronate plus vitamin D3 has been developed for monthly administration to treat postmenopausal osteoporosis .
+OBJECTIVE	The main objective of the present study was to compare the pharmacokinetics of vitamin D3 administered in 2 forms : a newly developed ibandronate 150-mg/vitamin D3 24,000-IU tablet ( DP-R206 , test drug ) and a stand-alone vitamin D3 24,000-IU tablet ( reference drug ) .
+OBJECTIVE	A secondary objective was to evaluate the safety and tolerability of DP-R206 in healthy adult male Korean volunteers .
+METHODS	This study was a single-dose , open-label , randomized-sequence , 2-treatment , 2-way crossover trial .
+METHODS	Blood samples were collected from 24 hours ' predose to 120 hours ' postdose .
+METHODS	The plasma concentrations of vitamin D3 were analyzed by using a validated HPLC-MS/MS method .
+METHODS	Pharmacokinetic parameters were calculated , and the 90 % CIs of the ratios of the geometric means of the parameters were determined from the logarithmically transformed data by using ANOVA .
+RESULTS	Thirty-sex healthy adult male Korean volunteers with a mean ( SD ) age of 25.8 ( 2.7 ) years , a mean height of 174.0 ( 5.9 ) cm , and a mean weight of 69.1 ( 6.2 ) kg were enrolled ; 29 participants completed the study .
+RESULTS	The 90 % CIs of the ratios of the geometric means ( test drug/reference drug ) of the baseline-corrected Cmax , AUC0-last , and AUC0 - values were 0.93 to 1.24 , 0.89 to 1.19 , and 0.87 to 1.18 , respectively .
+RESULTS	The 90 % CIs of the ratios of the geometric means ( test drug/reference drug ) of the baseline-uncorrected Cmax , AUC0-last , and AUC0 - values were 0.93 to 1.24 , 0.88 to 1.19 , and 0.87 to 1.18 , respectively .
+RESULTS	Eighty-four adverse events ( AEs ) were reported in 24 of 32 subjects receiving DP-R206 , and 14 AEs were reported in 8 of 29 subjects receiving the vitamin D3 24,000-IU tablet .
+RESULTS	All of the subjects who experienced AEs recovered without sequelae , and no serious AEs were observed .
+CONCLUSIONS	The vitamin D3 pharmacokinetics were similar for DP-R206 and the 24,000-IU vitamin D3 tablet .
+CONCLUSIONS	DP-R206 was well tolerated .
+

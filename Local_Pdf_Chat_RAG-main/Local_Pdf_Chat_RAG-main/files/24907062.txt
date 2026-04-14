@@ -1,0 +1,17 @@
+24907062
+OBJECTIVE	To evaluate the safety and efficacy of dexamethasone intravitreal implant ( Ozurdex , DEX implant ) 0.7 and 0.35 mg in the treatment of patients with diabetic macular edema ( DME ) .
+METHODS	Two randomized , multicenter , masked , sham-controlled , phase III clinical trials with identical protocols were conducted .
+METHODS	Data were pooled for analysis .
+METHODS	Patients ( n = 1048 ) with DME , best-corrected visual acuity ( BCVA ) of 20/50 to 20/200 Snellen equivalent , and central retinal thickness ( CRT ) of 300 m by optical coherence tomography .
+METHODS	Patients were randomized in a 1:1:1 ratio to study treatment with DEX implant 0.7 mg , DEX implant 0.35 mg , or sham procedure and followed for 3 years ( or 39 months for patients treated at month 36 ) at 40 scheduled visits .
+METHODS	Patients who met retreatment eligibility criteria could be retreated no more often than every 6 months .
+METHODS	The predefined primary efficacy endpoint for the United States Food and Drug Administration was achievement of 15-letter improvement in BCVA from baseline at study end .
+METHODS	Safety measures included adverse events and intraocular pressure ( IOP ) .
+RESULTS	Mean number of treatments received over 3 years was 4.1 , 4.4 , and 3.3 with DEX implant 0.7 mg , DEX implant 0.35 mg , and sham , respectively .
+RESULTS	The percentage of patients with 15-letter improvement in BCVA from baseline at study end was greater with DEX implant 0.7 mg ( 22.2 % ) and DEX implant 0.35 mg ( 18.4 % ) than sham ( 12.0 % ; P 0.018 ) .
+RESULTS	Mean average reduction in CRT from baseline was greater with DEX implant 0.7 mg ( -111.6 m ) and DEX implant 0.35 mg ( -107.9 m ) than sham ( -41.9 m ; P < 0.001 ) .
+RESULTS	Rates of cataract-related adverse events in phakic eyes were 67.9 % , 64.1 % , and 20.4 % in the DEX implant 0.7 mg , DEX implant 0.35 mg , and sham groups , respectively .
+RESULTS	Increases in IOP were usually controlled with medication or no therapy ; only 2 patients ( 0.6 % ) in the DEX implant 0.7 mg group and 1 ( 0.3 % ) in the DEX implant 0.35 mg group required trabeculectomy .
+CONCLUSIONS	The DEX implant 0.7 mg and 0.35 mg met the primary efficacy endpoint for improvement in BCVA .
+CONCLUSIONS	The safety profile was acceptable and consistent with previous reports .
+

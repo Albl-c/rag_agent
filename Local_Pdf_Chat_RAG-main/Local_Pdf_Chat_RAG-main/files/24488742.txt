@@ -1,0 +1,15 @@
+24488742
+OBJECTIVE	To determine how symmetric ( proportionate ; SGR ) and asymmetric ( disproportionate ; AGR ) growth restriction influence growth and development in preterms from birth to 4 years .
+METHODS	This community-based cohort study of 810 children comprised 86 SGR , 61 AGR , and 663 non-growth restricted ( NGR ) preterms , born in 2002 and 2003 .
+METHODS	Symmetrical growth restriction was defined as a birth weight below the 16th percentile ( -1 SD ) compared with full-terms and a head circumference ( HC ) z score not exceeding the infant 's birth weight z score by > 1 SD .
+METHODS	Asymmetric growth restriction was defined as a HC z score exceeding that for by > 1 SD as a proxy of brain sparing .
+METHODS	Developmental delay was assessed by the Ages and Stages Questionnaire at 4 years .
+RESULTS	Longitudinal gains in weight and height were similar for SGR and AGR children and less compared with NGR children .
+RESULTS	At age 4 , z scores for weight were -1.1 for SGR and -0.7 for AGR children vs -0.3 for NGR children .
+RESULTS	z scores for height were -0.8 and -0.5 vs. -0.2 .
+RESULTS	HC gain were 2 cm more in SGR , but at 1 year , they were -0.2 vs. 0.2 ( AGR ) and 0.1 ( NGR ) .
+RESULTS	Developmental delay increased with odds ratios of 2.5 ( 95 % confidence interval 1.1-6 .0 ) for SGR and 2.1 ( 95 % confidence interval 0.7-5 .9 ) for AGR .
+CONCLUSIONS	Weight and height gains were similar for AGR and SGR children but poorer compared with NGR children .
+CONCLUSIONS	SGR children caught up on HC .
+CONCLUSIONS	Developmental delay was more likely in growth-restricted preterms independent of HC at birth .
+

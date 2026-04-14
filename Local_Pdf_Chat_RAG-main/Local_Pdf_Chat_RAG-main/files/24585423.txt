@@ -1,0 +1,11 @@
+24585423
+OBJECTIVE	Patching of the operative eye is occasionally used in pediatric strabismus surgery .
+OBJECTIVE	The primary purpose of this study was to investigate the psychological and physiologic effects of patching after operation by multifactorial methods .
+METHODS	We analyzed the perioperative behaviors of 61 children with strabismus conducted from June 2012 to July 2013 in this prospective longitudinal study .
+METHODS	The children were randomized into 2 groups .
+METHODS	Patients in the patching group underwent postoperative patching and others received no patching .
+METHODS	Main outcome measures included The Faces Pain Scale-Revised score or numerical rating scales score , Children 's Hospital of Eastern Ontario Pain Scale ( CHEOPS ) score , crying time , and preoperative and postoperative physiologic parameters .
+RESULTS	Crying time was significantly longer in the patching group than in the no patching group , but self-report scores showed no difference in the groups .
+RESULTS	Repeated-measures analysis of variance on ranks revealed that postoperative CHEOPS score was lower in the no patching group than in the patching group , whereas no physiologic parameters were significantly different in the 2 groups .
+CONCLUSIONS	Patching is not necessary for reducing postoperative pain or the risk of infection in children undergoing strabismus surgery .
+

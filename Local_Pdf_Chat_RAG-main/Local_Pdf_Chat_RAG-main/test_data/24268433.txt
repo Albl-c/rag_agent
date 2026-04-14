@@ -1,0 +1,13 @@
+24268433
+OBJECTIVE	To explore effects of whole-head/body tilt in the roll plane on ocular-vestibular evoked myogenic potentials ( oVEMP ) .
+METHODS	Twenty healthy subjects were randomly tilted in an Eply Omniax rotator across a series of eight angles from 0 to 360 ( at 45 separations ) in the roll plane .
+METHODS	At each position , oVEMPs to air-conducted ( AC ) and bone-conducted ( BC ) stimulation were recorded from unrectified infra-orbital surface electromyography during upward gaze .
+METHODS	oVEMP amplitudes , latencies and amplitude asymmetry were compared across each angle of orientation .
+RESULTS	Head orientation had a significant effect on oVEMP reflex amplitudes for both AC and BC stimulation ( p < 0.001 ) .
+RESULTS	For both stimuli there was a trend for lower amplitudes with increasing angular departure from the upright position .
+RESULTS	Mean amplitudes decreased by 42.6-56 .8 % ( AC ) and 23.2-25 .5 % ( BC ) when tilted 180 .
+RESULTS	Roll-plane tilt had a significant effect on amplitude asymmetry ratios recorded in response to AC stimuli ( p < 0.001 ) , indicating a trend for lower amplitudes from the dependent ( down ) ear .
+RESULTS	Amplitude asymmetry ratios for BC stimuli were unaffected by head and body orientation .
+CONCLUSIONS	The results confirm an effect of head and body orientation on oVEMP reflexes recorded in response to air - and bone-conducted stimuli .
+CONCLUSIONS	The upright position yields an optimal oVEMP response .
+

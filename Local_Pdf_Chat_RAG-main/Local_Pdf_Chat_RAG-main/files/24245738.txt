@@ -1,0 +1,11 @@
+24245738
+BACKGROUND	The decreased number and senescence of circulating endothelial progenitor cells ( EPCs ) are considered markers of vascular senescence associated with aging , atherosclerosis , and coronary artery disease ( CAD ) in elderly .
+BACKGROUND	In this study , we explore the role of vascular senescence in premature CAD ( PCAD ) in a developing country by comparing the numerical status and senescence of circulating EPCs in PCAD patients to controls .
+METHODS	EPCs were measured by flow cytometry in 57 patients with angiographically documented CAD , and 57 controls without evidence of CAD , recruited from random patients 50 years of age at All India Institute of Medical Sciences .
+METHODS	EPC senescence as determined by telomere length ( EPC-TL ) and telomerase activity ( EPC-TA ) was studied by real time polymerase chain reaction ( q PCR ) and PCR - ELISA respectively .
+RESULTS	The number of EPCs ( 0.18 % Vs. 0.039 % of total WBCs , p < 0.0001 ) , and EPC-TL ( 3.83 Vs. 5.10 kb/genome , p = 0.009 ) were markedly lower in PCAD patients compared to controls .
+RESULTS	These differences persisted after adjustment for age , sex , BMI , smoking and medications .
+RESULTS	EPC-TA was reduced in PCAD patients , but was statistically significant only after adjustment for confounding factors ( 1.81 Vs. 2.20 IU/cell , unadjusted p = 0.057 , adjusted p = 0.044 ) .
+CONCLUSIONS	We observed an association between increased vascular cell senescence with PCAD in a sample of young patients from India .
+CONCLUSIONS	This suggests that early accelerated vascular cell senescence may play an important mechanistic role in CAD epidemic in developing countries like India where PCAD burden is markedly higher compared to developed countries .
+

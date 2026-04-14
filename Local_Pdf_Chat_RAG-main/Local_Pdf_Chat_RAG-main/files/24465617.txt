@@ -1,0 +1,19 @@
+24465617
+BACKGROUND	The MAINTAIN study is an on-going RCT comparing high-dose micronutrient and anti-oxidant supplementation versus recommended daily allowance ( RDA ) vitamins in slowing HIV immune deficiency progression in ART-nave people with HIV infection .
+OBJECTIVE	We planned analysis of the first 127 participants to determine the baseline prevalence of serum micronutrient deficiencies and correlates , as well as tolerance and adherence to study interventions .
+METHODS	Participants receive eight capsules twice daily of 1 ) high-dose or 2 ) RDA supplements for two years and are followed-up quarterly for measures of immune deficiency progression , safety and tolerability .
+METHODS	Regression analysis was used to identify correlates of micronutrient levels at baseline .
+METHODS	Adherence was measured by residual pill count , self-report using the General Treatment Scale ( GTS ) and short-term recall HIV Adherence Treatment Scale ( HATS ) .
+RESULTS	Prior micronutrient supplementation ( within 30 days ) was 27 % at screening and 10 % of study population , and was not correlated with baseline micronutrient levels .
+RESULTS	Low levels were frequent for carotene ( 24 % < 1 nmol/L ) , vitamin D ( 24 % < 40 nmol/L ) and serum folate ( 20 % < 15 nmol/L ) .
+RESULTS	The proportion with B12 deficiency ( < 133 pmol/L ) was 2.4 % .
+RESULTS	Lower baseline levels of B12 correlated lower baseline CD4 count ( r = 0.21 , p = 0.02 ) with a 21 pmol/L reduction in B12 per 100 cells/L CD4 .
+RESULTS	Vitamin D levels were higher in men ( p < 0.001 ) .
+RESULTS	After a median follow-up of 1.63 years , there were 19 ( 15 % ) early withdrawals from the study treatment .
+RESULTS	Mean treatment adherence using pill count was 88 % .
+RESULTS	Subjective adherence by the GTS was 81 % and was moderately but significantly correlated with pill count ( r = 0.29 , p < 0.001 ) .
+RESULTS	Adherence based on short-term recall ( HATS ) was > 80 % in 75 % of participants .
+CONCLUSIONS	Micronutrient levels in asymptomatic HIV + persons are in keeping with population norms , but micronutrient deficiencies are frequent .
+CONCLUSIONS	Adherence levels are high , and will permit a valid evaluation of treatment effects .
+BACKGROUND	ClinicalTrials.gov NCT00798772 .
+

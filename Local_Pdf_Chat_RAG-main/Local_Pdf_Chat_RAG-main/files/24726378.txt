@@ -1,0 +1,13 @@
+24726378
+OBJECTIVE	Intra-lesional bony overgrowth ( BO ) identified during or following cartilage repair treatment is being frequently described through subjective reports focusing primarily on incidence .
+OBJECTIVE	Our objective was to quantify the exact volume of intra-lesional BO at 12 months post-cartilage repair treatment , to determine if a correlation exists between the extent of BO and clinical outcomes , and to visualize and characterize the BO .
+METHODS	MRI scans were systematically obtained during a randomized clinical trial for cartilage repair ( Stanish etal. , 2013 ) that compared two microfracture-based treatments in 78 patients .
+METHODS	Semi-automated morphological segmentation of pre-treatment , 1 and 12 months post-treatment scans utilizing a programmed anatomical atlas for all knee bone and cartilage structures permitted three-dimensional reconstruction , quantitative analysis , as well as qualitative characterization and artistic visualization ofBO .
+RESULTS	Limited intra-lesional BO representing only 5.85.7 % of the original debrided cartilage lesion volume was found in 78 patients with available MRIs at 12 months .
+RESULTS	The majority ( 80 % ) of patients had very little BO ( < 10 % ) .
+RESULTS	Most occurrences of BO carried either spotty ( 56.4 % ) or planar ( 6.4 % ) morphological features , and the remaining balance ( 37.2 % ) was qualitatively unobservable by eye .
+RESULTS	Pre-existing BO recurred at 12 months in the same intra-lesional location in 36 % of patients .
+RESULTS	No statistical correlations were found between BO and clinical outcomes .
+CONCLUSIONS	Intra-lesional BO following microfracture-based treatments may not be as severe as previously believed , its incidence is partly explained by pre-existing conditions , and no relationship to clinical outcomes exists at 12 months .
+CONCLUSIONS	Morphologically , observable BO was categorized as comprising either spotty or planar bone .
+

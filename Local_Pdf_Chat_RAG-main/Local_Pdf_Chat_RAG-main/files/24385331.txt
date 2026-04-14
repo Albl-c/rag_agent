@@ -1,0 +1,15 @@
+24385331
+BACKGROUND	Patients with end-stage renal failure ( ESRF ) need integrated health care to maintain a desirable quality of life .
+BACKGROUND	Studies suggest that post-discharge nurseled telephone support has a positive effect for patients suffering from chronic diseases .
+BACKGROUND	But the post-discharge care is under-developed in mainland China and the effects of post-discharge care on patients with peritoneal dialysis have not been conclusive .
+OBJECTIVE	The purpose of this study is to test the effectiveness of postdischarge nurse-led telephone support on patients with peritoneal dialysis in mainland China .
+METHODS	A randomized controlled trial was conducted in the medical department of a regional hospital in Guangzhou .
+METHODS	135 patients were recruited , 69 in the study group and 66 in the control group .
+METHODS	The control group received routine hospital discharge care .
+METHODS	The study group received post-discharge nurse-led telephone support .
+METHODS	The quality of life ( Kidney Disease Quality of Life Short Form , KDQOL-SF ) , blood chemistry , complication control , readmission and clinic visit rates were observed at three time intervals : baseline before discharge ( T1 ) , 6 ( T2 ) and 12 ( T3 ) weeks after discharge .
+RESULTS	Statistically significant effects were found for symptom/problem , work status , staff encouragement , patient satisfaction and energy/fatigue in KDQOL-SF and 84-day ( 12-week ) clinic visit rates between the two groups .
+RESULTS	The study group had more significant improvement than the control group for sleep , staff encouragement at both T2 and T3 , and pain at T2 and patient satisfaction at T3 .
+RESULTS	No significant differences were observed between the two groups for the baseline measures , other dimensions in KDQOL-SF , blood chemistry , complication control , readmission rates at all time intervals and clinic visit rates at the first two time intervals .
+CONCLUSIONS	Post-discharge nurse-led telephone support for patients undergoing peritoneal dialysis is effective to enhance patients ' well-being in the transition from hospital to home in mainland China .
+

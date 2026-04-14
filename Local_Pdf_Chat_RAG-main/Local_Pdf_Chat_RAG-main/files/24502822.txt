@@ -1,0 +1,13 @@
+24502822
+OBJECTIVE	To assess whether a dementia care coordination intervention delays time to transition from home and reduces unmet needs in elders with memory disorders .
+METHODS	18-month randomized controlled trial of 303 community-living elders .
+METHODS	28 postal code areas of Baltimore , MD. .
+METHODS	Age 70 + years , with a cognitive disorder , community-living , English-speaking , and having a study partner available .
+METHODS	18-month care coordination intervention to systematically identify and address dementia-related care needs through individualized care planning ; referral and linkage to services ; provision of dementia education and skill-building strategies ; and care monitoring by an interdisciplinary team .
+METHODS	Primary outcomes were time to transfer from home and total percent of unmet care needs at 18months .
+RESULTS	Intervention participants had a significant delay in time to all-cause transition from home and the adjusted hazard of leaving the home was decreased by 37 % ( Hazard ratio : 0.63 , 95 % Confidence Interval : 0.42-0 .94 ) compared with control participants .
+RESULTS	Although there was no significant group difference in reduction of total percent of unmet needs from baseline to 18 months , the intervention group had significant reductions in the proportion of unmet needs in safety and legal/advance care domains relative to controls .
+RESULTS	Intervention participants had a significant improvement in self-reported quality of life ( QOL ) relative to control participants .
+RESULTS	No group differences were found in proxy-rated QOL , neuropsychiatric symptoms , or depression .
+CONCLUSIONS	A home-based dementia care coordination intervention delivered by non-clinical community workers trained and overseen by geriatric clinicians led to delays in transition from home , reduced unmet needs , and improved self-reported QOL .
+

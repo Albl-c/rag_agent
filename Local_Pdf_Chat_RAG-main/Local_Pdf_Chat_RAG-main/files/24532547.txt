@@ -1,0 +1,12 @@
+24532547
+BACKGROUND	Continuous long-term treatment with nitrates may cause nitrate tolerance .
+BACKGROUND	Nebivolol is a highly selective beta1-adrenergic antagonist with additional nitric oxide ( NO ) - mediated vasodilatory effects .
+BACKGROUND	However , there have been no investigations into whether or not the long-term administration of nebivolol might cause nitrate tolerance .
+METHODS	We performed a randomized , double-blind , placebo-controlled , cross-over study in 16 healthy men .
+METHODS	Subjects received 5 mg nebivolol or placebo once daily for 8 days in random order divided by a drug-free interval of 2 weeks .
+METHODS	Forearm blood flow ( FBF ) was measured by venous occlusion plethysmography 3 h after oral intake of the first and last doses of nebivolol and placebo , respectively .
+METHODS	FBF was measured again following the intravenous administration of 4 g nitroglycerin/kg body weight/min for 5 min .
+RESULTS	Following 8 days of continuous intake of placebo , nitroglycerin increased FBF by 54 % ( p < 0.05 ) , whereas nitroglycerin increased FBF by 96 % ( p < 0.01 ) following 8 days of continuous intake of nebivolol , and the increase after 8 days of nebivolol was significantly ( p < 0.05 ) more pronounced than after 8 days of placebo .
+CONCLUSIONS	These findings indicate no evidence of nitrate tolerance caused by long-term administration of nebivolol .
+CONCLUSIONS	On the contrary , long-term intake of nebivolol increases rather than decreases the NO-mediated vasodilating effects .
+

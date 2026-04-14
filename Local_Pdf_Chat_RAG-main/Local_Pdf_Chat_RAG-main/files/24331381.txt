@@ -1,0 +1,12 @@
+24331381
+BACKGROUND	Atopic dermatitis ( AD ) is a common inflammatory skin disease with a global prevalence ranging from 3 % to 20 % .
+BACKGROUND	Patients with AD have an increased risk for complications after viral infection ( eg , herpes simplex virus ) , and vaccination of patients with AD with live vaccinia virus is contraindicated because of a heightened risk of eczema vaccinatum , a rare but potentially lethal complication associated with smallpox vaccination .
+OBJECTIVE	We sought to develop a better understanding of immunity to cutaneous viral infection in patients with AD .
+METHODS	In a double-blind randomized study we investigated the safety and immunogenicity of live attenuated yellow fever virus ( YFV ) vaccination of nonatopic subjects and patients with AD after standard subcutaneous inoculation or transcutaneous vaccination administered with a bifurcated needle .
+METHODS	Viremia , neutralizing antibody , and antiviral T-cell responses were analyzed for up to 30 days after vaccination .
+RESULTS	YFV vaccination administered through either route was well tolerated .
+RESULTS	Subcutaneous vaccination resulted in higher seroconversion rates than transcutaneous vaccination but elicited similar antiviral antibody levels and T-cell responses in both the nonatopic and AD groups .
+RESULTS	After transcutaneous vaccination , both groups mounted similar neutralizing antibody responses , but patients with AD demonstrated lower antiviral T-cell responses by 30 days after vaccination .
+RESULTS	Among transcutaneously vaccinated subjects , a significant inverse correlation between baseline IgE levels and the magnitude of antiviral antibody and CD4 ( + ) T-cell responses was observed .
+CONCLUSIONS	YFV vaccination of patients with AD through the transcutaneous route revealed that high baseline IgE levels provide a potential biomarker for predicting reduced virus-specific immune memory after transcutaneous infection with a live virus .
+

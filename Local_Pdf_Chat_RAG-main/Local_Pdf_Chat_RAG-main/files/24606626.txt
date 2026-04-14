@@ -1,0 +1,18 @@
+24606626
+BACKGROUND	Learners can focus on mastery ( i.e. task orientation ) or on learning relative to others ( i.e. ego orientation ) .
+BACKGROUND	Previous research suggests task orientations are optimal for learning , a benefit usually linked to the suggestion that qualitative comments are better for learning than quantitative comparisons ( i.e. grades ) .
+BACKGROUND	Yet , it is not clear if the observed effects are attributable to the feedback orientation ( i.e. task versus ego ) , feedback format ( i.e. comments versus numerical scores ) , or an interaction between the two .
+BACKGROUND	Here , we aimed to clarify the effects of feedback orientation and feedback format during simulation-based training in endotracheal intubation .
+METHODS	Forty-one medical students were randomly assigned to four feedback conditions : Task-oriented Numerical ; Ego-oriented Numerical ; Task-oriented Comment , and Ego-oriented Comment .
+METHODS	Participants performed a total of 20 trials of endotracheal intubation .
+METHODS	Pre-test , post-test and retention test assessments included the use of hand motion analysis and a global rating scale ( GRS ) .
+METHODS	Participants rated feedback credibility , self-assessment and self-confidence using Likert-type scales .
+METHODS	Analyses of variance were used to examine group differences .
+RESULTS	Participants ' performance did not differ significantly on the easiest ( p > 0.2 ) or two complex variations of intubation ( p > 0.3 ) .
+RESULTS	For the moderately difficult variation , analyses of hand motion and GRS data revealed significant group differences at post-test ( p < 0.05 ) , but no differences on the retention test .
+RESULTS	Analysis of participants ' perceptions showed significant interactions whereby the Ego-oriented Numerical group rated feedback credibility ( p < 0.01 ) higher than the Task-oriented Numerical group ; the two Comment groups did not differ .
+RESULTS	Some participants recounted negative experiences with the feedback they received .
+CONCLUSIONS	Medical students responded to feedback in ways that challenge previous education research .
+CONCLUSIONS	Specifically , students preferred and improved more in the short term ( but not at retention ) when receiving Ego-oriented feedback in Numerical form .
+CONCLUSIONS	Although learning retention did not differ significantly across feedback conditions , students ' perceptions of themselves and of the teacher and training environment did differ and the implications for trainees ' future learning must be considered .
+

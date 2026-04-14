@@ -1,0 +1,19 @@
+25444352
+OBJECTIVE	To evaluate safety and effectiveness of the TECNIS toric intraocular lenses ( IOLs ) .
+METHODS	Prospective , multicenter , 2-armed , bilateral , 6-month clinical trial following the American National Standards Institute ( ANSI ) standard for Toric IOLs .
+METHODS	Subjects implanted with a TECNIS toric IOL ( n = 172 ) or a TECNIS 1-piece control IOL ( ZCB00 ; n = 93 ) .
+METHODS	Subjects underwent standard cataract surgery with IOL implantation .
+METHODS	The randomized control arm consisted of subjects requiring cylinder correction of 0.75 to 1.50 diopters ( D ) who were implanted with either toric ( ZCT150 ) or nontoric ( ZCB00 ) IOLs .
+METHODS	The open-label arm ( OLA ) consisted of subjects requiring cylinder correction of 1.50 to 3.62 D and implanted with ZCT225 , ZCT300 , or ZCT400 IOLs .
+METHODS	Assessments were at 1 day , 1 week , and 1 , 3 , and 6 months and included uncorrected distance visual acuity ( UCDVA ) and best-corrected distance visual acuity ( BCDVA ) , manifest refraction , keratometry , adverse events , spectacle use , and photographic documentation of IOL rotational stability .
+RESULTS	Mean percent reduction in cylinder ( standard deviation ) was statistically significantly greater ( P < 0.0001 ) for ZCT150 eyes ( 74.53 72.25 % ) versus ZCB00 eyes ( 31.61 78.73 % ) .
+RESULTS	In the OLA , mean percent reduction in cylinder was 76.27 33.09 % .
+RESULTS	A UCDVA of 20/20 or better was achieved by 43.6 % ( 44/101 ) of ZCT150 eyes and by 23.7 % ( 22/93 ) of ZCB00 eyes ( P = 0.0026 ) .
+RESULTS	In the OLA , 38.0 % ( 27/71 ) achieved 20/20 or better UCDVA .
+RESULTS	Mean UCDVA was 0.10 0.14 for ZCT150 eyes and 0.16 0.16 for ZCB00 eyes ( P = 0.0009 ) ; in the OLA , mean UCDVA was 0.11 0.12 .
+RESULTS	The BCDVA was 20/40 or better for all eyes .
+RESULTS	Mean absolute lens rotation between visits for toric eyes pooled was less than 3 .
+RESULTS	Lens rotation of 5 or less occurred in 92.9 % of toric eyes between 1 and 3 months and in 94.1 % between 3 and 6 months , exceeding the ANSI standard for stability ( 90 % of eyes with 5 of rotation between visits ) .
+RESULTS	Four lenses ( 2.3 % ) were repositioned during the study .
+CONCLUSIONS	The TECNIS toric IOLs successfully reduce ocular astigmatism and are a safe and effective treatment for cataract patients with corneal astigmatism .
+

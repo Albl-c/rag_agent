@@ -1,0 +1,11 @@
+25644221
+BACKGROUND	Abundant evidence suggests that allelic variation in the serotonin transporter-linked polymorphic region ( 5-HTTLPR ) influences susceptibility to stress and its affective consequences due to brain serotonergic vulnerability .
+BACKGROUND	Based on recent assumptions , the present study examined whether the 5-HTTLPR genotype may also interact with a vulnerability to chronic stress experience ( conceptualized by trait neuroticism ) in order to influence sleep quality and , additionally , whether this is influenced by brain serotonergic manipulations .
+METHODS	In a well-balanced experimental design , homozygous S-allele ( n = 57 ) and L-allele ( n = 54 ) genotypes with high and low chronic stress vulnerability ( neuroticism ) were first assessed for general past sleep quality during a month before onset of the experiment .
+METHODS	Then subjects were assessed for sleep quality following 7 days of tryptophan ( 3.0 g/day ) or placebo intake .
+RESULTS	Although high neuroticism was significantly related to a higher frequency of stressful life events and daily hassles , it did not interact with the 5-HTTLPR genotype on general past sleep quality .
+RESULTS	However , as expected , a 7 day period of tryptophan administration was exclusively associated with better sleep quality scores in the S ' / S ' genotype with high trait neuroticism .
+CONCLUSIONS	Current findings suggest that 5-HTTLPR does not directly interact with stress vulnerability in order to influence sleep quality .
+CONCLUSIONS	Instead , based on current and previous findings , it is suggested that the S ' / S ' 5-HTTLPR genotype promotes the risk for stress-related sleep disturbances because of an increased susceptibility to the depressogenic consequences of stress .
+CONCLUSIONS	Accordingly , by way of reducing depressive symptomatology , tryptophan augmentation may particularly improve sleep quality in stress-vulnerable individuals carrying the 5-HTTLPR S-allele .
+

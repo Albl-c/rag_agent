@@ -1,0 +1,12 @@
+25010883
+OBJECTIVE	Although the VITA 3D-Master ( 3D ) shade guide offers improved shade-matching performance , many dental materials are only available in VITA Classical ( VC ) shades .
+OBJECTIVE	This study aimed to clarify whether it is possible to convert 3D shades determined by observers into VC shades ( indirect method ) without adding a clinically significant error in comparison with direct shade determination using the VC shade guide .
+METHODS	Forty ceramic specimens were fabricated .
+METHODS	L * a * b * values were recorded using a spectroradiometer .
+METHODS	Sixty participants ( 35 dentists , 15 technicians , and 10 students ) were recruited and asked to determine the shades of specimens using the VC and 3D shade guides under standardized conditions .
+METHODS	Conversion tables were constructed by allocating the closest VC shade tab to every matched 3D shade and by use of an optimization algorithm ( indirect methods ) .
+METHODS	Differences between E values for VC matches and for the indirect methods were evaluated using t tests .
+RESULTS	A mean E ( SD ) of 4.34 ( 2.00 ) for VC and 4.22 ( 2.21 ) for 3D was observed ( P = .040 ) .
+RESULTS	Compared with direct shade matching using VC , the indirect method with the optimized tables resulted in a mean E of 4.32 ( 1.96 ) , which was not significantly different ( P = .586 ) .
+CONCLUSIONS	Within the limitations of this study , the conversion tables were suitable for the determination of tooth color using the 3D shade guide followed by conversion into VC shades without adding a clinically significant error .
+

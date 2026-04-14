@@ -1,0 +1,17 @@
+25897039
+BACKGROUND	Consistent evidence suggests that obstructive sleep apnoea ( OSA ) is associated with increased cardiovascular risk .
+BACKGROUND	However , it is unclear whether OSA is underdiagnosed in the cardiology outpatient setting .
+BACKGROUND	In the present study , we prospectively evaluated the potential underdiagnosis of OSA in several subspecialties from a tertiary cardiology university hospital .
+METHODS	Consecutive outpatients from five subspecialties ( hypertension , coronary , arrhythmia , heart failure ( HF ) , valvular heart disease ) were studied .
+METHODS	We performed anthropometric measurements , assessed the risk of OSA using the Berlin Questionnaire and evaluated the prior diagnosis and treatment for OSA .
+METHODS	In a subset of patients randomly selected , we performed portable sleep monitoring to objectively evaluate the presence of OSA ( defined by an apnoea-hypopnoea index 15 events/h of sleep ) .
+RESULTS	We evaluated 500 patients ( 100 from each subspecialty ) .
+RESULTS	The mean age and body mass index ( BMI ) were 5913years and 28.25.3 kg/m ( 2 ) , respectively .
+RESULTS	We found that 51.6 % ( 258 patients ) had a high risk for OSA ( Berlin Questionnaire ) .
+RESULTS	However , only 13 ( 3.1 % ) of these patients had a previous diagnosis of OSA .
+RESULTS	Of those , only six patients were receiving specific OSA treatment .
+RESULTS	Fifty patients ( 10 from each specialty ) participated in sleep studies .
+RESULTS	No differences were found in patients who underwent sleep monitoring and those who did not .
+RESULTS	We found a high frequency of OSA ( 66 % ) , varying from 50 % ( hypertension group ) to 80 % ( HF group ) .
+CONCLUSIONS	Despite significant scientific evidence pointing to OSA as an emerging cardiovascular risk factor , OSA is still underdiagnosed in several cardiology subspecialties .
+

@@ -1,0 +1,15 @@
+24923683
+BACKGROUND	Fluid therapy is widely used in critically ill patients to restore effective intravascular volume and improve organ perfusion .
+BACKGROUND	Recent studies have questioned the administration of colloid-based solutions , especially if containing hydroxyethyl starch ( HES ) , in different ICU populations ; however , there is still uncertainty on the use of colloids as initial fluid therapy for early resuscitation .
+METHODS	The aim of this study was to investigate the effect of two different resuscitation fluid strategies on the mortality of patients with shock .
+METHODS	In a multicentric ( 57 ICUs ) , controlled , open-label trial ( from February 2003 to August 2012 ) , the authors randomized patients with signs of acute hypovolemia , defined by the combination of hypotension , evidence of low filling pressures or cardiac index and at least two signs of tissue hypoperfusion ( such as altered consciousness , mottled skin , oliguria , lactate levels > 2 mmol/L ) , to received either a colloid - or crystalloid-based therapy .
+METHODS	Both cohorts received maintenance fluids consisting in isotonic crystalloids and albumin in case of severe hypoalbuminemia ( < 2 g/dL ) .
+METHODS	Exclusion criteria included previous fluid therapy , pregnancy , brain death , extended burns , chronic hemodialysis or liver disease , known coagulopathy , acute anaphylaxis , dehydration and hypotension due to sedative drugs .
+RESULTS	Among the 6498 eligible patients , 2857 were eventually randomized in one of the two groups .
+RESULTS	The 28-day mortality was 25.4 % in the colloid and 27.0 % in the crystalloid group ( P = 0.26 ) .
+RESULTS	In the sub-group analysis , similar mortality rates were reported for shock due to hypovolemia , sepsis or trauma .
+RESULTS	Also , the use of continuous renal replacement therapy was similar between groups ( 11.0 % vs. 12.5 % , P = 0.19 ) .
+RESULTS	There were more days alive without mechanical ventilation or vasopressors during the first 7 and 28 days and a lower 90-day mortality in the colloid group .
+CONCLUSIONS	These data suggest that mortality was not increased and probably decreased with the use of colloids in different forms of shock requiring early fluid resuscitation .
+CONCLUSIONS	We discussed herein some methodological issues that may explain the discrepancies of this trial with the other studies developed in the same field .
+

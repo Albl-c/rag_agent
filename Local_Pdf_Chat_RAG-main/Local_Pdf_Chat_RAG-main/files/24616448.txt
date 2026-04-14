@@ -1,0 +1,14 @@
+24616448
+OBJECTIVE	To determine the short-term efficacy of oral glucosamine supplementation by evaluating structural lesions in the knee joints , as assessed using 3T magnetic resonance imaging ( MRI ) .
+METHODS	This study was designed as a randomized , double-blind , placebo-controlled trial .
+METHODS	Recruitment was performed via mass mailings and an arthritis registry in southwestern Pennsylvania .
+METHODS	In total , 201 participants with mild-to-moderate pain in one or both knees , as defined by a Western Ontario and McMaster Universities Osteoarthritis Index ( WOMAC ) pain score 25 and 100 , were enrolled .
+METHODS	Of these subjects , 69.2 % had a Kellgren/Lawrence grade 2 in at least 1 knee .
+METHODS	Participants received 24 weeks of treatment with 1,500 mg glucosamine hydrochloride in beverage form or a placebo beverage .
+METHODS	The primary outcome was decreased worsening of cartilage damage on 3T MRI of both knees , assessed according to a validated scoring system , the Whole-Organ MRI Score ( WORMS ) .
+METHODS	Secondary outcomes included change in bone marrow lesion ( BML ) scores in all knees and change in excretion of urinary C-terminal crosslinking telopeptide of type II collagen ( CTX-II ) .
+RESULTS	The adjusted odds ratio ( OR ) for the likelihood of decreased cartilage damage over 24 weeks in any WORMS-scored subregion of the knee in the glucosamine treatment group compared to the control group was 0.938 ( 95 % confidence interval [ 95 % CI ] 0.528 , 1.666 ) .
+RESULTS	Compared to subjects treated with glucosamine , control subjects showed more improvement in BMLs ( adjusted OR 0.537 , 95 % CI 0.291 , 0.990 ) but no difference in worsening BMLs ( adjusted OR 0.691 , 95 % CI 0.410 , 1.166 ) over 24 weeks .
+RESULTS	There was no indication that treatment with glucosamine decreased the excretion of urinary CTX-II ( = -0.10 , 95 % CI -0.21 , 0.002 ) .
+CONCLUSIONS	The results of this short-term study provide no evidence of structural benefits ( i.e. , improvements in MRI morphologic features or urinary CTX-II excretion ) from glucosamine supplementation in individuals with chronic knee pain .
+

@@ -1,0 +1,17 @@
+25525891
+OBJECTIVE	To compare subjective and objective visual performance of the Air Optix Aqua Multifocal lens to monovision in a group of subjects requiring a medium level of reading-addition power .
+METHODS	Fifty participants with reading additions between 1.25 and 2.00 diopters ( inclusive ) were randomized into a prospective , crossover clinical trial .
+METHODS	They wore monovision and multifocals for 2 weeks in a randomized order .
+METHODS	High - and low-contrast logMAR ( logarithm of the minimum angle of resolution ) acuity and stereopsis were measured at the beginning and end of each period .
+METHODS	During each phase , participants performed specific tasks followed by subjective rating surveys and also completed satisfaction rating surveys on days 3 , 7 , and 12 ; all were transferred in real time using BlackBerry smartphones .
+METHODS	A general rating survey was completed at the dispensing and 2-week visits .
+RESULTS	Forty-nine participants completed the study ( mean age , 52 years ) .
+RESULTS	Distance and near high - and low-contrast acuities were significantly better ( p < 0.05 ) with monovision at all visits .
+RESULTS	High-contrast intermediate acuity was only better ( p < 0.05 ) with multifocals after 2 weeks .
+RESULTS	Stereopsis was equivalent after 2 weeks , but better ( p < 0.05 ) with multifocals at dispensing .
+RESULTS	Subjective ratings were generally equivalent between modalities although there was a trend for multifocals to be rated higher for focus changing and driving , whereas monovision tended to be rated higher for near tasks .
+RESULTS	For both corrections , the satisfaction survey showed no significant change between days 3 , 7 , and 12 , and the general survey showed that comfort was maintained but subjective vision ratings decreased significantly over the 2 weeks .
+RESULTS	Twenty-five participants ( 51 % ) preferred multifocals , 18 ( 37 % ) preferred monovision , and the remaining 6 ( 12 % ) declared both unacceptable .
+CONCLUSIONS	In this cohort , distance and near acuities were better with monovision , whereas the subjective ratings tended to favor the Air Optix Aqua Multifocal , with the exception of near performance .
+CONCLUSIONS	Preference was statistically similar between both corrections , with a trend toward preferring the multifocal .
+

@@ -1,0 +1,16 @@
+25669614
+OBJECTIVE	To establish the relative bioavailability ( rBA ) between two p.o. 5-mg levomethadone hydrochloride formulations , i.e. , L-Polamidon 5 mg tablets ( test ) vs. L-Polamidon solution for substitution ( reference ) .
+OBJECTIVE	To assess the safety and tolerability of both formulations .
+METHODS	A total of 33 healthy male subjects , aged 29 6 years ( BMI : 23.9 2.5 kg/m2 ) completed this single center , open-label , randomized , 2-period cross-over study with single dose administrations under fasting conditions and coadministration with naltrexone for safety reasons .
+METHODS	Administrations of both investigational products were separated by a washout period of at least 2 weeks , i.e. , 13 treatmentfree days .
+METHODS	The total dose for each subject was 2 x 5 mg resulting in 10 mg levomethadone hydrochloride .
+METHODS	For pharmacokinetic evaluation , blood samples were withdrawn until 72 hours postdose .
+METHODS	A validated non-stereoselective liquid chromatography-tandem mass spectroscopy method ( LC-MS/MS ) was applied for the determination of levomethadone in plasma .
+METHODS	The lower limit of quantitation was 0.100 ng/mL .
+METHODS	Adverse events were descriptively analyzed in the study population .
+RESULTS	The geometric means of the parameters related with the extent of total exposure of levomethadone , i.e. , AUC ( 0-tlast ) and AUC ( 0 - ) , were 244.422 ng x h/mL and 332.999 ng x h/mL for test and 246.837 ng x h/mL and 329.467 ngh/mL for reference , respectively .
+RESULTS	The geometric means of the peak exposure for levomethadone , i.e. , Cmax , were 8.923 ng/mL for test and 8.635 ng/mL for reference .
+RESULTS	The point estimates ( PEs ) of the Test/Reference ( T/R ) adjusted geometric mean ratios of AUC ( 0-last ) , AUC ( 0 - ) , and C ( max ) were 99.20 % , 101.42 % , and 104.11 % , respectively , and all of them showed 90 % - confidence intervals ( CIs ) within the range of 80.00 - 125.00 % as suggested by regulatory requirements for bioequivalence assessment In total , 21 subjects experienced 55 AEs during the study , the most frequently reported AE , i.e. , headache , accounted for 13 out of the total 55 AEs ( 23.6 % ) and no AEs of severe intensity were reported .
+CONCLUSIONS	Bioequivalence could be demonstrated in terms of rate and extent of absorption after administration of test and reference products under naltrexone protection .
+CONCLUSIONS	Concerning the safety evaluation , no negative implications on the possible use of the test formulation could be determined .
+

@@ -1,0 +1,14 @@
+24490058
+BACKGROUND	Few safe and effective dietary supplements are available to promote weight loss .
+BACKGROUND	We evaluated the safety and efficacy of glucomannan , a water-soluble fiber supplement , for achieving weight loss in overweight and moderately obese individuals consuming self-selected diets .
+METHODS	Participants were randomly assigned to take 1.33 grams of glucomannan or identically looking placebo capsules with 236.6 mL ( 8 ounces ) of water one hour before breakfast , lunch , and dinner for 8 weeks .
+METHODS	The primary efficacy outcome was change in body weight after 8 weeks .
+METHODS	Other efficacy outcomes were changes in body composition , hunger/fullness , and lipid and glucose concentrations .
+METHODS	Safety outcomes included gastrointestinal symptoms/tolerance and serum liver enzymes and creatinine levels .
+RESULTS	A total of 53 participants ( 18-65 years of age ; BMI 25-35kg / m ) were enrolled and randomized .
+RESULTS	The two groups did not differ with respect to baseline characteristics and compliance with the study supplement .
+RESULTS	At 8 weeks , there was no significant difference between the glucomannan and placebo groups in amount of weight loss ( -.40 .06 and -.43 .07 , resp . )
+RESULTS	or other efficacy outcomes or in any of the safety outcomes .
+CONCLUSIONS	Glucomannan supplements administered over 8 weeks were well tolerated but did not promote weight loss or significantly alter body composition , hunger/fullness , or lipid and glucose parameters .
+CONCLUSIONS	This trial is registered with NCT00613600 .
+

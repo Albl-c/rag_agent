@@ -1,0 +1,11 @@
+25397800
+OBJECTIVE	The purpose of this trial was to evaluate crestal bone level changes radiographically in a standardized fashion over a period of 12 months in humans for implants with a 0.7-mm machined collar ( implant type A ) versus type B implants with a 1.5-mm machined collar .
+METHODS	Twenty-five patients with multiple missing teeth in posterior sectors were randomly assigned to one of the two groups : A ( 0.7-mm machined-collar implants ) or B ( 1.5-mm machined-collar implants ) .
+METHODS	Changes at crestal bone level were assessed by measuring the shoulder-crest distance ( SCD ) on the mesial and distal aspects of each implant on customized periapical radiographs , which were taken on the day of surgery and 3 , 6 , and 12 months after surgery .
+RESULTS	Eighty-one implants were included in the study .
+RESULTS	Mean SCD was 0.54 0.53 mm at baseline and 1.49 0.40 mm after 12 months .
+RESULTS	For 0.7-mm-collar implants , mean SCD was 1.40 0.39 mm , while it was 1.56 0.40 mm for 1.5-mm-collar implants .
+RESULTS	Statistically significant differences were found only between the two types of implants for distal measurements at 3 and 12 months after placement .
+CONCLUSIONS	Both 0.7 - and 1.5-mm machined-collar implants can be used with predictable results , as changes in peri-implant crestal bone levels are similar for both implant types and do not seem to be significant from a clinical point of view .
+CONCLUSIONS	The SCD may well depend more on the location of the abutment-implant interface than on machined-collar height .
+

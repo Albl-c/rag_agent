@@ -1,0 +1,13 @@
+25993609
+BACKGROUND	This is the third study in a Phase 3 program evaluating onabotulinumtoxinA treatment of crow 's feet lines ( CFL ) .
+OBJECTIVE	To assess the efficacy and safety of repeated onabotulinumtoxinA treatments of CFL alone or with glabellar lines ( GL ) in subjects with moderate-to-severe CFL and GL ( maximum smile ) .
+METHODS	This 5-month extension of a 7-month study randomized subjects who originally received onabotulinumtoxinA 24 U ( CFL only ; n = 227 ) or 44 U ( 24 U for CFL + 20 U for GL ; n = 260 ) to retreatment with the same dose .
+METHODS	Placebo-treated subjects were rerandomized to onabotulinumtoxinA 44 U ( n = 101 ) or placebo ( n = 96 ) .
+METHODS	Primary efficacy end point ( Day 30 ) was the proportion of subjects who achieved a CFL severity rating of none or mild ( maximum smile ) on the investigator-assessed Facial Wrinkle Scale ( FWS ) .
+METHODS	Additional efficacy end points and adverse events were evaluated .
+RESULTS	Responder rates ( primary end point ) were significantly greater in onabotulinumtoxinA-treated groups ( 24 U : 56.5 % ; 44 U : 63.6 % ; placebo : 1.1 % ; p < .001 ) .
+RESULTS	Improvements on most patient-reported outcomes ( PROs ) favored the 44-U group over the 24-U group .
+RESULTS	Adverse events did not differ among groups ; most were mild or moderate .
+CONCLUSIONS	Repeated onabotulinumtoxinA treatments significantly reduce CFL severity based on FWS and PROs .
+CONCLUSIONS	Adverse event profiles remain consistent with approved GL labeling .
+

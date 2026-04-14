@@ -1,0 +1,12 @@
+24384959
+OBJECTIVE	To select suitable chemotherapy for cervical cancer patients by ATP-tumor chemosensitivity assay .
+METHODS	Seventy-two hospitalized patients with cervical cancer between July 2007 and October 2009 were enrolled .
+METHODS	The patients were randomly divided into a trial group ( n = 35 ) and a control group ( n = 37 ) .
+METHODS	ATP-TCA was used to detect the sensitivity of 35 samples of cervical cancer in the trial group to 6 combined chemotherapy regimens .
+METHODS	The chemotherapy regimen in the trial group was confirmed by the results of susceptibility testing and that in the control group was confirmed by clinical experience .
+METHODS	One-year recurrence rate and 3 - year survival rate of two groups were compared after 3 year follow-up .
+RESULTS	ATP-TCA was measured in 32 of the 35 patients in the trial group .
+RESULTS	The sensitive patients for paclitaxel + carboplatin , paclitaxel + oxaliplatin , bleomycin + ifosfamide + cisplatin , bleomycin + vincristine + cisplatin , fluorouracil + cisplatin , and gemcitabine + cisplatin were 20 , 18 , 17 , 18 , 17 , and 21 , respectively .
+RESULTS	There was no significant difference in the 1-year recurrence between the two groups ( P > 0.05 ) , while the 3-year survivors in the trial group were more than those in the control group ( P < 0.05 ) .
+CONCLUSIONS	ATP-TCA method is good for patients with cervical cancer because it is sensitive , effective , and individualized .
+

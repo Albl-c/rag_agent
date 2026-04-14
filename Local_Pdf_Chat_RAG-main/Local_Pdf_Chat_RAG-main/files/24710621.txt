@@ -1,0 +1,12 @@
+24710621
+BACKGROUND	Preclinical studies suggest that stress potentiates cue-induced cocaine seeking and that this effect is more pronounced in females .
+BACKGROUND	These findings have not been characterized in clinical populations .
+OBJECTIVE	The objectives of this study were to examine the impact a pharmacological stressor , alpha-2 adrenergic receptor antagonist yohimbine , on the subjective , endocrine , and physiologic responses to drug-paired cues cocaine-dependent men and women .
+METHODS	In a double-blind placebo-controlled cross-over study , cocaine-dependent men ( n = 32 ) , cocaine-dependent women ( n = 30 ) , control men ( n = 32 ) , and control women ( n = 25 ) received either yohimbine or placebo prior to two cocaine cue exposure sessions .
+RESULTS	Yohimbine increased ratings of anxiety both before ( p < 0.001 ) and after ( p = 0.035 ) cues , and the post-cue increase in anxiety was more pronounced in women ( p = 0.001 ) .
+RESULTS	Yohimbine also significantly increased craving , compared with placebo ( p < 0.05 ) , following the cue presentation , and this effect was greater in women than men ( gender by treatment interaction ; p = 0.006 ) .
+RESULTS	Yohimbine also increased salivary cortisol ( p < 0.001 ) and dehydroepiandrosterone ( p = 0.003 ) levels , regardless of diagnostic group .
+RESULTS	Women had a significantly greater heart rate response following yohimbine as compared with men ( p < 0.001 ) .
+CONCLUSIONS	Stress may increase the salience of cocaine cues for cocaine-dependent women as compared with men .
+CONCLUSIONS	This suggests gender differences in vulnerability to craving and relapse under stressful conditions .
+

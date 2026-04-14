@@ -1,0 +1,16 @@
+24456624
+BACKGROUND	Therapeutic vaccination is a promising novel approach to treat HIV-1 infected people by boosting or redirecting immune system to neutralize critical HIV-1 antigens whose biological effects are relevant in the context of viral pathogenesis .
+BACKGROUND	With the aim to induce neutralizing antibodies to the matrix protein p17 we have developed a peptide-based immunogen ( AT20-KLH ) and evaluated its safety and immunogenicity .
+METHODS	Twenty four asymptomatic HAART-treated HIV-1 + patients were enrolled in a phase I clinical study and were randomized to three groups : 2 groups were treated with five IM injection ( Arm A : 25g/inoculation ; Arm B : 100g/inoculation ) at day ( D ) D0 , D28 , D56 , D84 and D112 ; the control group ( Arm C ) were not injected .
+METHODS	Safety was assessed by monitoring local and systemic adverse events ( AEs ) , recorded till D168 .
+METHODS	Evaluation of immunogenicity was by titering antibodies at D0 , D35 , D56 , D63 , D84 , D91 , D112 , D140 and D168 using ELISA .
+RESULTS	In all , 105 local and systemic AEs were reported across the three groups .
+RESULTS	Most were mild and resolved without sequelae .
+RESULTS	Also the few unsolicited events , deemed unrelated to the study vaccines , caused no problems .
+RESULTS	No significant changes in the routine laboratory parameters , CD4 T-cell count or HIV-1 viremia were found .
+RESULTS	At the time of enrollment 23 out of 24 patients had no anti-AT20 antibodies , whereas 11 exhibited anti-p17 antibodies .
+RESULTS	Irrespective of the presence of preimmunization antibodies , all subjects developed high titers of anti-AT20 antibodies ( GM 9775 ) in response to both AT20-KLH doses .
+RESULTS	These antibodies were also capable of recognizing AT20 within the p17 framework .
+CONCLUSIONS	The AT20 peptide-based approach has allowed to redirect HAART-treated patients ' humoral responses toward a previously untargeted hotspot of functional activity .
+CONCLUSIONS	Overall , the tested AT20-KLH doses were safe and well tolerated , supporting further exploration of AT20-KLH as an HIV-1 therapeutic vaccine candidate .
+

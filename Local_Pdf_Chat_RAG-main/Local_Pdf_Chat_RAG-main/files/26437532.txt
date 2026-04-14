@@ -1,0 +1,13 @@
+26437532
+OBJECTIVE	To evaluate the efficacy and safety of azithromycinfor treatment of uncomplicated pediatric scrub typhus .
+METHODS	A randomized controlled trial was performed .
+METHODS	We compared azithromycin with doxycycline or chloramphenicol in uncomplicated pediatric scrub typhus from inpatient pediatric department of Chiangrai Prachanukroh Hospital .
+METHODS	The primary outcome was cure rate at day 3 .
+METHODS	The secondary outcomes were timing to defervescence within 72 hours , side effects , and relapsed rate .
+METHODS	We compared data between both groups with Fisher 's exact test or Mann-Whitney U test , and failure rate was demonstrated by Kaplan-Meier survival curve and Log-rank test .
+RESULTS	We included 57 patients , ofwhom , 28 were assigned to doxycycline or chloramphenicol ( control group ) and 29 to azithromycin ( study group ) .
+RESULTS	The baseline characteristics of both groups were similar The cure rate was 85.7 % in the doxycycline or chloramphenicol group , as compared to 79.3 % in the azithromycin group ( p = 0.73 ) , and a median time to defervescence was 30 hours ( IQR 21 , 48 ) vs. 36 hours ( IQR 20 , 68 ) respectively ( p = 0.166 ) .
+RESULTS	There was a little minor side effect in azithromycin group .
+RESULTS	No relapsed was found in either groups .
+CONCLUSIONS	Azithromycin was as effective as doxycycline or chloramphenicol in treatment of uncomplicated pediatric scrub typhus .
+

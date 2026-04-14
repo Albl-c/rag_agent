@@ -1,0 +1,18 @@
+25575084
+METHODS	Prospective randomized controlled multicenter study .
+OBJECTIVE	To compare the effect of X-Stop with minimally invasive decompression ( MID ) in patients with neurogenic intermittent claudication due to lumbar spinal stenosis .
+BACKGROUND	Lumbar spinal stenosis is the most common indication for operative treatment in elderly .
+BACKGROUND	Laminectomy has been the `` gold standard , '' but MID is now widely used .
+BACKGROUND	Another minimally invasive surgery option is X-Stop showing good result compared with nonoperative treatment , but showing higher reoperation rate than laminectomy .
+METHODS	We enrolled 96 patients aged 50 to 85 years , with symptoms of neurogenic intermittent claudication within 250-m walking distance and 1 - or 2-level lumbar spinal stenosis , randomized to either MID or X-Stop .
+METHODS	Primary outcome was Zurich Claudication Questionnaire in this intention-to-treat analysis .
+METHODS	Secondary outcome was Oswestry Disability Index , EuroQol 5-dimensional questionnaire , numerical rating scale 11 for lower back pain and leg pain , and risk for secondary surgery and complications .
+RESULTS	No significant differences were found in Zurich Claudication Questionnaire between the groups at any follow-ups .
+RESULTS	Both groups had a statistical and clinical significant improvement at 6 weeks and throughout the 2-year observation period .
+RESULTS	The number of patients having secondary surgery due to persistent or recurrent symptoms was significantly higher in the X-Stop group , odds ratio ( 95 % confidence interval ) = 6.5 ( 1.3-31 .9 ) .
+RESULTS	Complication rate was similar and low , but more severe for MID .
+CONCLUSIONS	Both MID and X-Stop led to significant symptom improvements .
+CONCLUSIONS	There were no significant clinical differences in effect between the methods at any of the follow-up time points .
+CONCLUSIONS	X-Stop had significant higher risk of secondary surgery .
+CONCLUSIONS	Complication was more severe for MID .
+

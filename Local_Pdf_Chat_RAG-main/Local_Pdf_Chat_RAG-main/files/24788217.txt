@@ -1,0 +1,14 @@
+24788217
+BACKGROUND	Inflammatory bowel diseases impose on patients a broad spectrum of somatic and psychosocial burden .
+BACKGROUND	We hypothesized that patients ' self-responsibility in planning and initiating adequate usually multimodal health care can be supported by self-assessment and proactive information , thus improving health-related quality of life and social participation .
+METHODS	We conducted a randomized controlled trial among a random sample of adult members of a German statutory health insurance with Crohn 's disease or ulcerative colitis with at least 1 inflammatory bowel diseases-related hospital stay or sick leave in 2009 or 2010 .
+METHODS	Five hundred fourteen patients completed a postal screening questionnaire inquiring about 22 problems .
+METHODS	The intervention group ( IG ) received an automated data analysis with individualized written advice on appropriate health services , and the control group received usual care .
+METHODS	Main outcomes were health-related quality of life and social participation .
+METHODS	Secondary outcomes included health care utilization , number of screened problems , and self-management skills .
+RESULTS	After 12 months , small beneficial effects were seen for all primary outcomes in the IG : EuroQol visual analog scale score ( difference between IG and control group : 4.4 ; 95 % confidence interval , 7.7-1 .0 ; P = 0.011 ) , index for measuring participation restriction ( IMET ) score ( difference between IG and control group : 0.4 ; 95 % confidence interval , 0.07-0 .62 ; P = 0.013 ) .
+RESULTS	The number of disability days improved only in the IG .
+RESULTS	The IG reported significantly fewer outpatient visits , fewer disease-related problems , and improved self-management skills ( health education impact questionnaire scores ) with no increase in disease activity , hospital stays , or consultations with allied health professionals .
+CONCLUSIONS	Our activation and information procedure is effective and beneficial .
+CONCLUSIONS	Further studies might show its usefulness in comprehensive management of patients with inflammatory bowel diseases .
+

@@ -1,0 +1,18 @@
+25882438
+OBJECTIVE	Emerging evidence has suggested that platelet-rich plasma ( PRP ) might be of assistance in the treatment of degenerative conditions of the joints .
+OBJECTIVE	The aim of the present study was to compare the use of PRP and hyaluronic acid ( HA ) in the treatment of temporomandibular joint ( TMJ ) osteoarthritis ( OA ) with long-term follow-up data .
+METHODS	Patients meeting the Research Diagnostic Criteria for TMJ-OA were randomly assigned to 1 of 2 study groups that received either PRP or HA .
+METHODS	The outcome variables were maximum nonassisted ( voluntary ) mouth opening ( MVMO ) , joint sounds , and pain index scores .
+METHODS	Other variables , including patient age and gender , were evaluated in relation to the outcomes .
+METHODS	Descriptive and bivariate statistics were computed , and the P value was set at .05 .
+RESULTS	A total of 50 patients with TMJ-OA were enrolled in the study ( 29 women and 21 men , age range 31 to 49 years , mean age 38.6 ) .
+RESULTS	In group I , 25 patients received 3 injections of 1 mL of PRP .
+RESULTS	In group II , 25 patients received 3 injections of 1 mL of low-molecular-weight HA .
+RESULTS	Between-group comparisons of the outcome variables over time revealed significant improvements in group II at 1 and 3 months .
+RESULTS	At 6 and 12 months , the PRP group exhibited better performance compared with the HA group in terms of the recurrence of pain and joint sounds .
+RESULTS	The improvements obtained with the PRP injections in group I were maintained during the follow-up period .
+RESULTS	At the end of the follow-up period , the median MVMO in group I was 41.0 mm .
+RESULTS	In group II , the median MVMO was 39.0 mm .
+CONCLUSIONS	PRP performed better than HA acid in the treatment of TMJ-OA during long-term follow-up in terms of pain reduction and increased interincisal distance .
+CONCLUSIONS	Future studies will focus on the synergistic actions of HA and PRP in the treatment of TMJ-OA .
+

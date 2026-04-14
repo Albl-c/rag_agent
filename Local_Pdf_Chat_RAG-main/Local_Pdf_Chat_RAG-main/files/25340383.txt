@@ -1,0 +1,15 @@
+25340383
+BACKGROUND	Surgical and medical treatments for emphysema may affect both quality and quantity of life .
+BACKGROUND	The purpose of this article is to report outcomes from the National Emphysema Treatment Trial ( NETT ) using an index that combines quality and quantity of life .
+METHODS	This was a prospective randomized clinical trial .
+METHODS	Following pulmonary rehabilitation , 1,218 patients with severe emphysema were randomly assigned to maximal medical therapy or to lung volume reduction surgery ( LVRS ) .
+METHODS	A generic quality-of-life measure , known as the Quality of Well-being Scale ( QWB ) , was administered at baseline and again at 6 , 12 , 24 , 36 , 48 , 60 , and 72 months following treatment assignment .
+RESULTS	At baseline , QWB scores were comparable for the Medical and LVRS groups .
+RESULTS	For both groups , scores significantly improved following the rehabilitation program .
+RESULTS	The QWB scores before death for patients in the LVRS group improved up to the year 2 visit , whereas scores for the Medical group dropped significantly following the baseline visit .
+RESULTS	Imputing zeros ( 0 ) for death , QWB scores decreased significantly for both groups .
+RESULTS	With or without scoring death as 0 , the LVRS group achieved better outcomes , and the significant differences were maintained until the sixth year .
+RESULTS	Over 6 years of follow-up , LVRS produced an average of 0.30 quality-adjusted life years ( QALYs ) , or the equivalent of about 3.6 months of well life .
+CONCLUSIONS	Compared with maximal medical therapy alone , patients undergoing maximal medical therapy plus LVRS experienced improved health-related quality of life and gained more QALYs .
+BACKGROUND	ClinicalTrials.gov ; No. : NCT00000606 ; URL : www.clinicaltrials.gov .
+

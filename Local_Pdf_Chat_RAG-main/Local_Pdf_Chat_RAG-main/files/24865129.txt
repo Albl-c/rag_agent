@@ -1,0 +1,9 @@
+24865129
+OBJECTIVE	To evaluate approximal caries increment among 12 - to 16-year-olds in a low caries prevalence area in Sweden after a 3.5-year school-based fluoride ( F ) varnish programme with Bifluorid 12 and Duraphat .
+METHODS	The design was a RCT study with 1365 adolescents , divided into following four groups : Group 1 Bifluorid 12 two applications/year ; Group 2 Duraphat two applications/year ; Group 3 Bifluorid 12 four applications/year and Group 4 no F varnish at school .
+METHODS	1143 children ( 84 % ) completed the study .
+METHODS	Approximal caries was registered on bitewing radiographs .
+RESULTS	There were no statistically significant differences in caries prevalence among the groups either at baseline or after 3.5 years .
+RESULTS	The caries increment for Group 1 was 1.342.99 ( meanSD ) , 1.242.84 for Group 2 , 1.072.66 for Group 3 and 1.252.75 for Group 4 , with no statically significant differences either between Bifluorid 12 and Duraphat with the same frequency of F varnish applications or between the F groups and the control group .
+CONCLUSIONS	In an area with low caries prevalence in Sweden , the supplementary caries-preventive effect of school-based F varnish applications , to regular use of F toothpaste at home and to regular caries prevention given at the Public Dental Clinics , appears to be nonsignificant regarding approximal caries increment .
+

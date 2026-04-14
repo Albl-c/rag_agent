@@ -1,0 +1,12 @@
+25585595
+BACKGROUND	Patient adherence to appointments is key to improving outcomes in health care .
+BACKGROUND	`` No-show '' appointments contribute to suboptimal resource use .
+BACKGROUND	Patient navigation and telephone reminders have been shown to improve cancer care and adherence , particularly in disadvantaged populations , but may not be cost-effective if not targeted at the appropriate patients .
+METHODS	In 5 clinics within a large academic cancer center , patients who were considered to be likely ( the top 20th percentile ) to miss a scheduled appointment without contacting the clinic ahead of time ( `` no-shows '' ) were identified using a predictive model and then randomized to an intervention versus a usual-care group .
+METHODS	The intervention group received telephone calls from a bilingual patient navigator 7 days before and 1 day before the appointment .
+RESULTS	Over a 5-month period , of the 40,075 appointments scheduled , 4425 patient appointments were deemed to be at high risk of a `` no-show '' event .
+RESULTS	After the patient navigation intervention , the no-show rate in the intervention group was 10.2 % ( 167 of 1631 ) , compared with 17.5 % in the control group ( 280 of 1603 ) ( P < .001 ) .
+RESULTS	Reaching a patient or family member was associated with a significantly lower no-show rate ( 5.9 % and 3.0 % , respectively ; P < .001 and .006 , respectively ) compared with leaving a message ( 14.7 % : P = .117 ) or no contact ( no-show rate , 21.6 % : P = .857 ) .
+CONCLUSIONS	Telephone navigation targeted at those patients predicted to be at high risk of visit nonadherence was found to effectively and substantially improve patient adherence to cancer clinic appointments .
+CONCLUSIONS	Further studies are needed to determine the long-term impact on patient outcomes , but short-term gains in the optimization of resources can be recognized immediately .
+

@@ -1,0 +1,12 @@
+25735045
+OBJECTIVE	To evaluate intereye corneal asymmetry in Pentacam ( Oculus Optikgerte GmbH , Wetzlar , Germany ) indices as a diagnostic method between normal patients and patients with keratoconus .
+METHODS	A retrospective , observational case series of 177 healthy , 44 indeterminate , and 121 patients with keratoconus classified by Pentacam ectasia detection indices , randomized to analysis and validation datasets .
+METHODS	Intereye asymmetry in 20 Scheimpflug tomography corneal descriptors was calculated and compared to develop diagnostic models .
+RESULTS	Intereye asymmetry was not correlated with anisometropia in healthy controls but was correlated with the ectasia grade of the worse eye in patients with keratoconus .
+RESULTS	Patients with keratoconus had significantly greater intereye asymmetry in all descriptors except for relational thickness indices .
+RESULTS	Intereye asymmetry in front elevation at the thinnest corneal location afforded the single highest diagnostic performance ( 71 % sensitivity and 85 % specificity ) , whereas the best multivariate model combining intereye asymmetry in anterior and posterior keratometry , corneal thickness , and front and back elevation at the thinnest point provided 65 % sensitivity and 97 % specificity .
+RESULTS	Multivariate models upheld their performance in the validation dataset .
+RESULTS	Most ( more than 90 % ) indeterminate patients , according to conventional Pentacam analysis , showed within-normal-range corneal asymmetry .
+CONCLUSIONS	Healthy corneas are markedly symmetric irrespective of anisometropia , but corneal asymmetry analysis does not provide sufficient sensitivity to be used alone for detecting keratoconus .
+CONCLUSIONS	However , its remarkable specificity suggests that it could be used combined with conventional single cornea Pentacam analysis to reduce the false-positive rate or in dubious cases .
+

@@ -1,0 +1,13 @@
+24311384
+OBJECTIVE	We used the Western Denmark Heart Registry to assess one-year and long-term all-cause mortality and stent failure following Percutaneous Coronary Intervention ( PCI ) with drug-eluting stents ( DES ) or bare-metal stents ( BMS ) .
+BACKGROUND	The use of DES compared with BMS during PCI has reduced the risk of restenosis in native coronary artery lesions .
+BACKGROUND	In saphenous vein grafts ( SVG ) the outcome after DES compared with BMS is insufficiently described .
+METHODS	From January 1 , 2002 to December 31 , 2010 all patients with PCI of SVG lesions were identified among 3.0 million inhabitants .
+METHODS	Stent failure was defined as clinically driven target lesion revascularization , graft occlusion without intervention , or stent thrombosis .
+RESULTS	The study cohort consisted of 529 patients with 755 SVG lesions ( 348 DES patients with 510 lesions and 181 BMS patients with 245 lesions ) .
+RESULTS	Mean age did not differ between patients with DES-treated lesions compared to patients with BMS-treated lesions ( 67.5 9.1 years vs. 67.6 9.3 years ; P = 0.85 ) .
+RESULTS	The median follow-up time was 3.0 years ( 25th-75th percentile : 1.4-5 .1 years ) .
+RESULTS	One-year ( n = 27 ( 8.2 % ) vs. n = 12 ( 6.7 % ) , log rank P = 0.60 ) and 3-year cumulative mortality ( n = 31 ( 18.8 % ) vs. n = 59 ( 21.8 % ) , log rank P = 0.64 ) did not differ significantly between DES - and BMS-treated patients .
+RESULTS	One-year cumulative stent failure was seen in 39 ( 6.6 % ) DES-treated lesions vs. 24 ( 10.8 % ) BMS-treated lesions ( P = 0.088 ) , and 3-year cumulative stent failure in 48 ( 15.4 % ) vs. 34 ( 18.8 % ) lesions ( P = 0.25 ) , respectively .
+CONCLUSIONS	In SVG lesions , DES showed no long-term benefit compared to BMS in rates of all-cause mortality or stent failure .
+

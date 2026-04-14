@@ -1,0 +1,12 @@
+24379449
+OBJECTIVE	This randomized controlled pilot trial was conducted to evaluate the clinical efficacy of massage therapy ( MT ) for relief of symptoms of gastroesophageal reflux disease ( GERD ) .
+OBJECTIVE	The hypothesis was that , when compared to infants who received nonmassage therapy , infants who received MT would display fewer GERD symptoms , greater weight gain , greater amount of sleep , lower cortisol levels before and after treatment , and lower daily ( area under the curve [ AUC ] ) cortisol secretion .
+METHODS	Participants were 36 infants born at term , 4-10 weeks of age at enrollment , healthy except for a diagnosis of GERD by their pediatrician , and with a score of at least 16 on the Infant Gastroesophageal Reflux Questionnaire-Revised ( I-GERQ-R ) .
+METHODS	Infants were randomized to receive either MT or a nonmassage sham treatment in their homes for 30 min twice a week for 6 weeks .
+METHODS	Data collectors and parents were blind to study condition .
+RESULTS	GERD symptoms decreased in both groups and weight increased .
+RESULTS	Pretreatment salivary cortisol levels decreased significantly over time in the massage group while increasing in the nonmassage group .
+RESULTS	Daily cortisol level also decreased in the massage group and increased in the nonmassage group , but the difference was not significant .
+CONCLUSIONS	MT administered by a professional therapist did not affect symptoms of GERD differently than a sham treatment but did decrease infant stress as measured by cortisol .
+CONCLUSIONS	Research focusing on stress reduction in infants with GERD and multimodal treatments addressing GERD symptoms may yield the most effective treatment .
+

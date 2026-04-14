@@ -1,0 +1,14 @@
+24618837
+BACKGROUND	In a previous UK multi-center randomized study 278 children received three doses of 7-valent ( PCV-7 ) or 13-valent ( PCV-13 ) pneumococcal conjugate vaccine at 2 , 4 and 12 months of age .
+BACKGROUND	At 13 months of age , most of these children had pneumococcal serotype-specific IgG concentrations 0.35 g/ml and opsonophagocytic assay ( OPA ) titers 8 .
+METHODS	Children who had participated in the original study were enrolled again at 3.5 years of age .
+METHODS	Persistence of immunity following infant immunization with either PCV-7 or PCV-13 and the immune response to a PCV-13 booster at pre-school age were investigated .
+RESULTS	In total , 108 children were followed-up to the age of 3.5 years and received a PCV-13 booster at this age .
+RESULTS	At least 76 % of children who received PCV-7 or PCV-13 in infancy retained serotype-specific IgG concentrations 0.35 g/ml against each of 5/7 shared serotypes .
+RESULTS	For serotypes 4 and 18C , persistence was lower at 22-42 % .
+RESULTS	At least 71 % of PCV-13 group participants had IgG concentrations 0.35 g/ml against each of 4/6 of the additional PCV-13 serotypes ; for serotypes 1 and 3 this proportion was 45 % and 52 % .
+RESULTS	In the PCV-7 group these percentages were significantly lower for serotypes 1 , 5 and 7F .
+RESULTS	A pre-school PCV-13 booster was highly immunogenic and resulted in low rates of local and systemic adverse effects .
+CONCLUSIONS	Despite some decline in antibody from 13 months of age , these data suggest that a majority of pre-school children maintain protective serotype-specific antibody concentrations following conjugate vaccination at 2 , 4 and 12 months of age .
+BACKGROUND	ClinicalTrials.gov NCT01095471 .
+

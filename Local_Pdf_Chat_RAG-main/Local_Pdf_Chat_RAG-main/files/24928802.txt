@@ -1,0 +1,14 @@
+24928802
+BACKGROUND	Constipation has a significant impact on quality of life .
+BACKGROUND	Aim of this study was to evaluate the safety and the efficacy for relieving dyschezia symptoms of a CO2-releasing suppository in a randomized , placebo-controlled , clinical trial .
+METHODS	Fifty-three office-based primary care physicians and 24 gastroenterologists conducted the study in France , between November 2010 and January 2012 .
+METHODS	Patients ( aged 18-75 years ) with dyschezia were eligible .
+METHODS	Patients were randomly allocated a once-a-day suppository ( CO2-releasing suppository or placebo ) for 21 days .
+METHODS	Primary endpoint was the change , from Day 0 to Day 21 , in the intensity of discomfort related to dyschezia based on a self-assessed 0-100 visual analogue scale .
+RESULTS	A total of 323 patients were randomized , i.e. 166 into the intervention group and 157 into the placebo group .
+RESULTS	Co-variance analysis showed a greater reduction in discomfort visual analogue scale score in the intervention group ( -34.5 mm ; standard error of the mean : 1.8 mm ) than in the placebo group ( -26.2 mm ; standard error of the mean : 1.9 mm ; p < 0.001 ) .
+RESULTS	The greater efficacy of the CO2-releasing suppository was confirmed for all secondary efficacy parameters .
+RESULTS	No significant side effects for either treatment were observed .
+CONCLUSIONS	A CO2-releasing suppository is more effective than a placebo for the relief of symptoms of dyschezia .
+CONCLUSIONS	This efficacy is associated with a good safety profile .
+

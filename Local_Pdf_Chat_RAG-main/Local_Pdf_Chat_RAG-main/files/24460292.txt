@@ -1,0 +1,9 @@
+24460292
+BACKGROUND	Conspicuous differences in participation rates for breast self-examination ( BSE ) , clinical breast examination ( CBE ) , and referral for further investigations have been observed indicating involvement of a number of different factors .
+BACKGROUND	This study analysed determinants for participation in different levels of the breast cancer screening process in Indian females .
+METHODS	An intervention group of 52,011 women was interviewed in a breast cancer screening trial in Trivandrum district , India .
+METHODS	In order to assess demographic , socio-economic , reproductive , and cancer-related determinants of participation in BSE , CBE , and referral , uni - and multi-variate logistic regression was employed .
+RESULTS	Of the interviewed women , 23.2 % reported practicing BSE , 96.8 % had attended CBE , and 49.1 % of 2,880 screen-positives attended referral .
+RESULTS	Results showed an influence of various determinants on participation ; women who were currently not married or who had no family history of cancer were significantly less likely to attend the screening process at any level .
+CONCLUSIONS	Increasing awareness about breast cancer , early detection methods , and the advantages of early diagnoses among women , and their families , as well as health care workers offering social support , could help to increase participation over the entire screening process in India .
+

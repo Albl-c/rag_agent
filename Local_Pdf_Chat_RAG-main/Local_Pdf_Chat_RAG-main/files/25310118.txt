@@ -1,0 +1,11 @@
+25310118
+BACKGROUND	Rates of retention in care of HIV-positive pregnant women in care programs in Nigeria remain generally poor with rates around 40 % reported for specific programs .
+BACKGROUND	Poor quality of services in health facilities and long waiting times are among the critical factors militating against retention of these women in care .
+BACKGROUND	The aim of the interventions in this study is to assess whether a continuous quality improvement intervention using a Breakthrough Series approach in local district hospitals and primary health care clinics will lead to improved retention of HIV-positive women and mothers .
+METHODS	A cluster randomized controlled trial with 32 health facilities randomized to receive a continuous quality improvement/Breakthrough Series intervention or not .
+METHODS	The care protocol for HIV-infected pregnant women and mothers is the same in all sites .
+METHODS	The quality improvement intervention started 4 months before enrollment of individual HIV-infected pregnant women and initially focused on reducing waiting times for women and also ensuring that antiretroviral drugs are dispensed on the same day as clinic attendance .
+METHODS	The primary outcome measure is retention of HIV-positive mothers in care at 6 months postpartum .
+CONCLUSIONS	Results of this trial will inform whether quality improvement interventions are an effective means of improving retention in prevention of mother-to-child transmission of HIV programs and will also guide where health system interventions should focus to improve the quality of care for HIV-positive women .
+CONCLUSIONS	This will benefit policymakers and program managers as they seek to improve retention rates in HIV care programs .
+

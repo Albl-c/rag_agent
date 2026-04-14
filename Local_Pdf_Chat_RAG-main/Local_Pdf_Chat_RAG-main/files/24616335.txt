@@ -1,0 +1,12 @@
+24616335
+OBJECTIVE	We studied the unclear question whether blood pressure ( BP ) lowering reduces cardiovascular disease ( CVD ) in elderly individuals with systolic BP < 160 mm Hg .
+RESULTS	We initiated a randomized placebo-controlled stratified 2 2 factorial clinical trial evaluating the effects of BP lowering in 11 000 elderly individuals with systolic blood pressure ( SBP ) between 130 and 159 mm Hg , for 5 years .
+RESULTS	Following 5-week active run-in , participants were randomized to aliskiren ( 300 mg ) or placebo , and to an additional antihypertensive [ hydrochlorothiazide ( 25 mg ) or amlodipine ( 5 mg ) ] , or their respective placeboes .
+RESULTS	Study was terminated by sponsor after 1759 subjects ( age 72.1 5.2 years , 88 % receiving at least one antihypertensive ) were randomized and followed for 0.6 year .
+RESULTS	Study drugs were well tolerated with few serious adverse events during run-in and after randomization , with no significant differences between treatment groups .
+RESULTS	By design , three levels of BP reductions were achieved , adjusted mean BP reductions of 3.5 / 1.7 mm Hg ( P < 0.001 ) by aliskiren , 6.8 / 3.3 mm Hg ( P < 0.001 ) by hydrochlorothiazide or amlodipine , and 10.3 / 5.0 mm Hg ( P < 0.001 ) by double therapy compared with placebo .
+RESULTS	Twenty-five major CVD events occurred .
+RESULTS	Non-significant trends towards fewer CVD events with greater BP reductions are evident : hazard ratios ( HR ) 0.82 [ 95 % confidence interval ( CI ) : 0.37-1 .81 ] for 3.5 mm Hg SBP reduction ; HR 0.45 ( 95 % CI : 0.19-1 .04 ) for 6.8 mm Hg ; and HR 0.25 ( 0.05-1 .18 ) for 10.3 mm Hg reduction for primary composite of CV death , MI , stroke , or significant heart failure .
+CONCLUSIONS	Sizeable reductions in BP , with potential for substantial CVD reduction , can be safely achieved using combinations of BP drugs in the elderly with normal high and Stage 1 hypertension .
+BACKGROUND	NCT01259297 .
+

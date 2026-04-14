@@ -1,0 +1,21 @@
+24825641
+OBJECTIVE	Patients with colorectal cancer with liver metastases undergo hepatic resection with curative intent .
+OBJECTIVE	Positron emission tomography combined with computed tomography ( PET-CT ) could help avoid noncurative surgery by identifying patients with occult metastases .
+OBJECTIVE	To determine the effect of preoperative PET-CT vs no PET-CT ( control ) on the surgical management of patients with resectable metastases and to investigate the effect of PET-CT on survival and the association between the standardized uptake value ( ratio of tissue radioactivity to injected radioactivity adjusted by weight ) and survival .
+METHODS	A randomized trial of patients older than 18 years with colorectal cancer treated by surgery , with resectable metastases based on CT scans of the chest , abdomen , and pelvis within the previous 30 days , and with a clear colonoscopy within the previous 18 months was conducted between 2005 and 2013 , involving 21 surgeons at 9 hospitals in Ontario , Canada , with PET-CT scanners at 5 academic institutions .
+METHODS	Patients were randomized using a 2 to 1 ratio to PET-CT or control .
+METHODS	The primary outcome was a change in surgical management defined as canceled hepatic surgery , more extensive hepatic surgery , or additional organ surgery based on the PET-CT .
+METHODS	Survival was a secondary outcome .
+RESULTS	Of the 263 patients who underwent PET-CT , 21 had a change in surgical management ( 8.0 % ; 95 % CI , 5.0 % -11.9 % ) .
+RESULTS	Specifically , 7 patients ( 2.7 % ) did not undergo laparotomy , 4 ( 1.5 % ) had more extensive hepatic surgery , 9 ( 3.4 % ) had additional organ surgery ( 8 of whom had hepatic resection ) , and the abdominal cavity was opened in 1 patient but hepatic surgery was not performed and the cavity was closed .
+RESULTS	Liver resection was performed in 91 % of patients in the PET-CT group and 92 % of the control group .
+RESULTS	After a median follow-up of 36 months , the estimated mortality rate was 11.13 ( 95 % CI , 8.95-13 .68 ) events/1000 person-months for the PET-CT group and 12.71 ( 95 % CI , 9.40-16 .80 ) events/1000 person-months for the control group .
+RESULTS	Survival did not differ between the 2 groups ( hazard ratio , 0.86 [ 95 % CI , 0.60-1 .21 ] ; P = .38 ) .
+RESULTS	The standardized uptake value was associated with survival ( hazard ratio , 1.11 [ 90 % CI , 1.07-1 .15 ] per unit increase ; P < .001 ) .
+RESULTS	The C statistic for the model including the standardized uptake value was 0.62 ( 95 % CI , 0.56-0 .68 ) and without it was 0.50 ( 95 % CI , 0.44-0 .56 ) .
+RESULTS	The difference in C statistics is 0.12 ( 95 % CI , 0.04-0 .21 ) .
+RESULTS	The low C statistic suggests that the standard uptake value is not a strong predictor of overall survival .
+CONCLUSIONS	Among patients with potentially resectable hepatic metastases of colorectal adenocarcinoma , the use of PET-CT compared with CT alone did not result in frequent change in surgical management .
+CONCLUSIONS	These findings raise questions about the value of PET-CT scans in this setting .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00265356 .
+

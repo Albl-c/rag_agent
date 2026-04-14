@@ -1,0 +1,14 @@
+24678937
+BACKGROUND	We compared transcatheter aortic-valve replacement ( TAVR ) , using a self-expanding transcatheter aortic-valve bioprosthesis , with surgical aortic-valve replacement in patients with severe aortic stenosis and an increased risk of death during surgery .
+METHODS	We recruited patients with severe aortic stenosis who were at increased surgical risk as determined by the heart team at each study center .
+METHODS	Risk assessment included the Society of Thoracic Surgeons Predictor Risk of Mortality estimate and consideration of other key risk factors .
+METHODS	Eligible patients were randomly assigned in a 1:1 ratio to TAVR with the self-expanding transcatheter valve ( TAVR group ) or to surgical aortic-valve replacement ( surgical group ) .
+METHODS	The primary end point was the rate of death from any cause at 1 year , evaluated with the use of both noninferiority and superiority testing .
+RESULTS	A total of 795 patients underwent randomization at 45 centers in the United States .
+RESULTS	In the as-treated analysis , the rate of death from any cause at 1 year was significantly lower in the TAVR group than in the surgical group ( 14.2 % vs. 19.1 % ) , with an absolute reduction in risk of 4.9 percentage points ( upper boundary of the 95 % confidence interval , -0.4 ; P < 0.001 for noninferiority ; P = 0.04 for superiority ) .
+RESULTS	The results were similar in the intention-to-treat analysis .
+RESULTS	In a hierarchical testing procedure , TAVR was noninferior with respect to echocardiographic indexes of valve stenosis , functional status , and quality of life .
+RESULTS	Exploratory analyses suggested a reduction in the rate of major adverse cardiovascular and cerebrovascular events and no increase in the risk of stroke .
+CONCLUSIONS	In patients with severe aortic stenosis who are at increased surgical risk , TAVR with a self-expanding transcatheter aortic-valve bioprosthesis was associated with a significantly higher rate of survival at 1 year than surgical aortic-valve replacement .
+CONCLUSIONS	( Funded by Medtronic ; U.S. CoreValve High Risk Study ClinicalTrials.gov number , NCT01240902 . )
+

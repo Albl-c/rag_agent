@@ -1,0 +1,17 @@
+24472401
+OBJECTIVE	The study is to investigate drug-drug interaction ( DDI ) between olmesartan medoxomil and hydrochlorothiazide ( HCTZ ) , to confirm bioequivalence ( BE ) of a new combined formulation and coadministration of separate local tablets , and to receive pharmacokinetics and tolerability of the new combined formulation after multiple doses in healthy Chinese subjects .
+METHODS	The 3-in-1 study was separated into 2 stages .
+METHODS	Stage 1 is a four-period crossover study .
+METHODS	28 healthy subjects were equally randomized into four groups .
+METHODS	Each group received the four following regimens in a sequence as Latin square ( 4 4 ) design : A : olmesartan medoxomil ; B : HCTZ ; C : test drug ( new combined formulation ) ; D : reference drugs ( co-administration of separate tablets ) .
+METHODS	In stage 2 , half of 28 subjects were daily dosed with regimen C for 7 days .
+METHODS	Blood and urine samples were obtained to receive pharmacokinetics of olmesartan and HCTZ , which were analyzed using the BE evaluation method .
+METHODS	Tolerability was also assessed .
+RESULTS	All subjects completed the study and nobody reported serious adverse event ( SAE ) .
+RESULTS	The 90 % confidence intervals ( CI ) of geometric mean ratio ( GMR ) of log transformed Cmax , AUC0-t , and AUC0 - after single dose showed no DDI and claimed BE .
+RESULTS	The mean ratio of accumulation ( Ra ) ( SD ) of olmesartan and HCTZ after multiple doses of new combination formulation is 1.03 ( 0.182 ) and 0.954 ( 0.128 ) .
+CONCLUSIONS	No significant DDI between olmesartan and HCTZ was found .
+CONCLUSIONS	The new combination formulation is bioequivalent to co-administration of two separate local tablets .
+CONCLUSIONS	After multiple doses of the new combination formulation , no significant accumulation was observed .
+CONCLUSIONS	The new combination formulation is reasonably tolerated well in healthy Chinese subjects after multiple doses .
+

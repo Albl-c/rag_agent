@@ -1,0 +1,16 @@
+25715353
+OBJECTIVE	To study the effects of zinc and steroid in the treatment of traumatic anosmia .
+METHODS	A prospective , randomized study .
+METHODS	Academic medical center .
+METHODS	Patients with a clear history of loss of smell after head injury and whose thresholds were -1 measured by the phenyl ethyl alcohol threshold test were included in this study from January 2010 to May 2013 .
+METHODS	They were randomly divided into 4 groups .
+METHODS	Patients in group 1 were treated with zinc gluconate for a month and high-dose prednisolone with tapering for 2 weeks .
+METHODS	Those in group 2 took only zinc gluconate , and those in group 3 took only prednisolone .
+METHODS	Patients in group 4 did not take any medicine .
+METHODS	All patients were followed up by phenyl ethyl alcohol threshold testing , and magnetic resonance imaging was performed to measure the volume of olfactory bulbs .
+RESULTS	Thirty-nine patients in group 1 , 35 in group 2 , 34 in group 3 , and 37 in group 4 completed the study .
+RESULTS	The recovery of olfactory function was observed in 11 patients ( 28.2 % ) in group 1 , in 9 ( 25.7 % ) in group 2 , in 4 ( 11.8 % ) in group 3 , and in 1 ( 2.7 % ) in group 4 .
+RESULTS	The recovery rates of olfactory function of groups 1 and 2 were significantly higher than the recovery rate of group 4 .
+RESULTS	The volume of olfactory bulbs was not significantly different between those with and without improved olfactory function .
+CONCLUSIONS	Our results show that zinc gluconate has a promising effect in treating traumatic anosmia .
+

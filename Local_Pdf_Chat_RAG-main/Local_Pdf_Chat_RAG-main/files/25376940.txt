@@ -1,0 +1,11 @@
+25376940
+BACKGROUND	The clinical benefits of bioimpedance spectroscopy ( BIS ) - guided fluid management in patients on hemodialysis have been widely demonstrated .
+BACKGROUND	However , no previous reports have evaluated the effect of regular and serial BIS-guided fluid management on the residual renal function ( RRF ) in patients on peritoneal dialysis ( PD ) .
+BACKGROUND	Therefore , we will evaluate the clinical efficacy of BIS-guided fluid management for preserving RRF and protecting cardiovascular events in patients on PD .
+METHODS	This is a multicenter , prospective , randomized controlled trial .
+METHODS	A total of 138 participants on PD will be enrolled and randomly assigned to receive either BIS-guided fluid management or fluid management based only on the clinical information for 1 year .
+METHODS	The primary outcome is the change in the glomerular filtration rate ( GFR ) between months 0 and 12 after starting treatment .
+METHODS	The secondary outcomes will include GFR at month 12 , time to the anuric state ( urine volume < 100 ml/day ) , and fatal and nonfatal cardiovascular events during treatment .
+CONCLUSIONS	This is the first clinical trial to investigate the effect of BIS-guided fluid management on RRF and for protecting against cardiovascular events in patients on PD .
+BACKGROUND	Clinical Trials.gov number NCT01887262 , June 24 , 2013 .
+

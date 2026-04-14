@@ -1,0 +1,15 @@
+24767575
+BACKGROUND	Esophageal resection is associated with a high incidence of postoperative pneumonia .
+BACKGROUND	Respiratory complications account for almost half of the readmissions to the critical care unit .
+BACKGROUND	Postoperative complications can result in prolonged hospital stay and consequently increase healthcare costs .
+BACKGROUND	In cardiac surgery a preoperative inspiratory muscle training program has shown to prevent postoperative pneumonia and reduce length of hospital stay .
+BACKGROUND	While in some surgical centers inspiratory muscle training is already used in the preoperative phase in patients undergoing esophageal resection , the added value of this intervention on the reduction of pulmonary complications has not yet been investigated in large surgical populations other than cardiac surgery in a randomized and controlled study design .
+METHODS	The effect of a preoperative inspiratory muscle training program on the incidence of postoperative pneumonia in patients undergoing esophageal resection will be studied in a single blind multicenter randomized controlled trial ( the PREPARE study ) .
+METHODS	In total 248 patients ( age > 18years ) undergoing esophageal resection for esophageal cancer will be included in this study .
+METHODS	They are randomized to either usual care or usual care with an additional inspiratory muscle training intervention according to a high-intensity protocol which is performed with a tapered flow resistive inspiratory loading device .
+METHODS	Patients have to complete 30 dynamic inspiratory efforts twice daily for 7days a week until surgery with a minimum of 2weeks .
+METHODS	The starting training load will be aimed to be 60 % of maximal inspiratory pressure and will be increased based on the rate of perceived exertion.The main study endpoint is the incidence of postoperative pneumonia .
+METHODS	Secondary objectives are to evaluate the effect of preoperative inspiratory muscle training on length of hospital stay , duration of mechanical ventilation , incidence of other postoperative ( pulmonary ) complications , quality of life , and on postoperative respiratory muscle function and lung function .
+CONCLUSIONS	The PREPARE study is the first multicenter randomized controlled trial to evaluate the hypothesis that preoperative inspiratory muscle training leads to decreased pulmonary complications in patients undergoing esophageal resection .
+BACKGROUND	NCT01893008 .
+

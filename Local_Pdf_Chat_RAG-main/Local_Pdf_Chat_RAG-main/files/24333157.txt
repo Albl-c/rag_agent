@@ -1,0 +1,9 @@
+24333157
+OBJECTIVE	The purpose of the study was to compare behavioral outcomes ( physical activity , sedentary behavior , smoking cessation , diet ) between the intervention and usual care conditions from the TEAMcare trial .
+METHODS	TEAMcare was a randomized trial among 214 adults with depression and poorly controlled diabetes and/or coronary heart disease that promoted health behavior change and pharmacotherapy to improve health .
+METHODS	Behavioral outcomes were measured with the International Physical Activity Questionnaire ( physical activity , sitting time ) and the Summary of Diabetes Self-Care Activities Measure ( smoking , diet , exercise ) .
+METHODS	Poisson regression models among completers ( N = 185 ) were conducted adjusting for age , education , smoking status and depression .
+RESULTS	Intervention participants had more days/week following a healthy eating plan [ relative rate = 1.2 , 95 % confidence interval ( CI ) = 1.1-1 .4 ] and more days of participation in 30 min of physical activity ( relative rate = 1.2 , 95 % CI = 1.1-2 .0 ) compared to usual care .
+RESULTS	Intervention participants were more likely to meet physical activity guidelines ( 7.5 % increase ) compared to usual care ( 12 % decrease ; P = .053 ) .
+CONCLUSIONS	Diet and activity generally improved for those receiving the intervention , while there were no differences in some aspects of diet ( fruit and vegetable and high-fat food intake ) , smoking status and sitting time between conditions in the TEAMcare trial .
+

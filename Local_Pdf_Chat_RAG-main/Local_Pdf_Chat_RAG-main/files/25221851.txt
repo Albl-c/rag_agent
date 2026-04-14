@@ -1,0 +1,11 @@
+25221851
+OBJECTIVE	To determine inter - and intra-tester reliability of strength measurements during maximal electrically induced contractions ( MEIC ) using a hand-held dynamometer ( HHD ) .
+METHODS	Thirty-seven healthy young female adults , mean age ( SD ) 23.4 ( 2.4 ) years , were tested by two examiners during two sessions , with order of examiners randomized .
+METHODS	Biphasic pulses ( phase duration -- 300s ; pulse frequency -- 75Hz ) were employed in order to induce contractions of the quadriceps femoris muscle at a maximally tolerated current level .
+METHODS	Strength of maximal voluntary isometric contractions ( MVIC ) and of MEIC was recorded with a HHD utilizing a stabilization belt .
+RESULTS	Good to excellent inter - and intra-tester reliability were determined with intra-class correlation coefficients ranging between 0.8 and 0.9 , and no bias in the Bland-Altman plots .
+RESULTS	The 95 % repeatability ranged between 8.7 and 13.0 kg for the MVIC and MEIC , and between 20.7 and 25.6 % for the % MVIC .
+CONCLUSIONS	Our results confirm previous findings indicating good to excellent reliability of quadriceps femoris muscle MVIC assessment with a HHD .
+CONCLUSIONS	However , a high 95 % repeatability range indicates the HHD is not sufficiently reliable as an indicator of the force level attained during electrically induced contractions .
+CONCLUSIONS	Other methods need to be investigated to assist in determining whether MEIC have reached therapeutic levels .
+

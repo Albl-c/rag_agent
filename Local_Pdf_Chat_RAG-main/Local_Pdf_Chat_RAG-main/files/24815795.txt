@@ -1,0 +1,9 @@
+24815795
+BACKGROUND	In pulmonary arterial hypertension ( PAH ) , adding oral sildenafil to intravenous epoprostenol improved 6-minute walk distance ( 6MWD ) and hemodynamics and delayed time to clinical worsening in a 16-week randomized , placebo-controlled trial ( Pulmonary Arterial Hypertension Combination Study of Epoprostenol and Sildenafil [ PACES-1 ] ) .
+METHODS	Patients completing PACES-1 could receive sildenafil ( titrated to 80 mg , three times daily , as tolerated ) in an open-label extension study ( PACES-2 ) for 3 years ; additional therapy was added according to investigator judgment .
+METHODS	Survival and changes from PACES-1 baseline in World Health Organization Functional Class and 6MWD were captured .
+RESULTS	In an open-label setting , 6MWD , an effort-dependent outcome measure , was known to have improved or to have been maintained in 59 % , 44 % , and 33 % of patients at 1 , 2 , and 3 years , respectively ; functional class was known to have improved or to have been maintained in 73 % , 59 % , and 46 % .
+RESULTS	At 3 years , 66 % of patients were known to be alive , 24 % were known to have died , and 10 % were lost to follow-up .
+RESULTS	Patients with PACES-1 baseline 6MWD < 325 meters without 6MWD improvement during the first 20 weeks of sildenafil treatment subsequently had poorer survival .
+CONCLUSIONS	Although reliable assessments of safety and efficacy require a long-term randomized trial , the addition of sildenafil to background intravenous epoprostenol therapy appeared generally to be well tolerated in PAH patients .
+

@@ -1,0 +1,20 @@
+# 环境与依赖
+.env
+rag_env/
+__pycache__/
+*.pyc
+*.pyo
+
+# 模型缓存
+.cache/
+models/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+25159818
+OBJECTIVE	To investigate whether a histone deacetylase inhibitor ( HDACi ) would be effective in an in vitro model for the neurodegenerative disease Friedreich ataxia ( FRDA ) and to evaluate safety and surrogate markers of efficacy in a phase I clinical trial in patients .
+METHODS	We used a human FRDA neuronal cell model , derived from patient induced pluripotent stem cells , to determine the efficacy of a 2-aminobenzamide HDACi ( 109 ) as a modulator of FXN gene expression and chromatin histone modifications .
+METHODS	FRDA patients were dosed in 4 cohorts , ranging from 30mg/day to 240mg/day of the formulated drug product of HDACi 109 , RG2833 .
+METHODS	Patients were monitored for adverse effects as well as for increases in FXN mRNA , frataxin protein , and chromatin modification in blood cells .
+RESULTS	In the neuronal cell model , HDACi 109/RG2833 increases FXN mRNA levels and frataxin protein , with concomitant changes in the epigenetic state of the gene .
+RESULTS	Chromatin signatures indicate that histone H3 lysine 9 is a key residue for gene silencing through methylation and reactivation through acetylation , mediated by the HDACi .
+RESULTS	Drug treatment in FRDA patients demonstrated increased FXN mRNA and H3 lysine 9 acetylation in peripheral blood mononuclear cells .
+RESULTS	No safety issues were encountered .
+CONCLUSIONS	Drug exposure inducing epigenetic changes in neurons in vitro is comparable to the exposure required in patients to see epigenetic changes in circulating lymphoid cells and increases in gene expression .
+CONCLUSIONS	These findings provide a proof of concept for the development of an epigenetic therapy for this fatal neurological disease .
+

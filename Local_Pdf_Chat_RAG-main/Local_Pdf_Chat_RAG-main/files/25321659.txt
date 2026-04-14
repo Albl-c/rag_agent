@@ -1,0 +1,13 @@
+25321659
+BACKGROUND	Omega-3 fatty acid supplements have been reported to inhibit exercise-induced bronchoconstriction ( EIB ) .
+BACKGROUND	It has not been determined whether omega-3 supplements inhibit airway sensitivity to inhaled mannitol , a test for bronchial hyperresponsiveness ( BHR ) and model for EIB in people with mild to moderate asthma .
+METHODS	In a double-blind , crossover trial , subjects with asthma who had BHR to inhaled mannitol ( n = 23 ; 14 men ; mean age , 28 years ; one-half taking regular inhaled corticosteroids ) were randomized to omega-3 supplements ( 4.0 g/d eicosapentaenoic acid and 2.0 g/d docosahexaenoic acid ) or matching placebo for 3 weeks separated by a 3-week washout .
+METHODS	The primary outcome was the provoking dose of mannitol ( mg ) to cause a 15 % fall in FEV1 ( PD15 ) .
+METHODS	Secondary outcomes were sputum eosinophil count , spirometry , Asthma Control Questionnaire ( ACQ ) score , serum triacylglyceride level , and lipid mediator profile in urine and serum .
+RESULTS	PD15 ( geometric mean , 95 % CI ) to mannitol following supplementation with omega-3s ( 78 mg , 51-119 mg ) was not different from placebo ( 88 mg , 56-139 mg , P = .5 ) .
+RESULTS	There were no changes in sputum eosinophils ( mean SD ) in a subgroup of 11 subjects ( omega-3 , 8.4 % 8.2 % ; placebo , 7.8 % 11.8 % ; P = .9 ) .
+RESULTS	At the end of each treatment period , there were no differences in FEV1 % predicted ( omega-3 , 85 % 13 % ; placebo , 84 % 11 % ; P = .9 ) or ACQ score ( omega-3 , 1.1 % 0.5 % ; placebo , 1.1 % 0.5 % ; P = .9 ) ( n = 23 ) .
+RESULTS	Omega-3s caused significant lowering of blood triglyceride levels and expected shifts in serum fatty acids and eicosanoid metabolites , confirming adherence to the supplements ; however , no changes were observed in urinary mast cell mediators .
+CONCLUSIONS	Three weeks of omega-3 supplements does not improve BHR to mannitol , decrease sputum eosinophil counts , or inhibit urinary excretion of mast cell mediators in people with mild to moderate asthma , indicating that dietary omega-3 supplementation is not useful in the short-term treatment of asthma .
+BACKGROUND	ClinicalTrials.gov ; No. : NCT00526357 ; URL : www.clinicaltrials.gov .
+

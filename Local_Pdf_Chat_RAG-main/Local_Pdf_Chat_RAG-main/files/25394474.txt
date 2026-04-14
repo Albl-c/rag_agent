@@ -1,0 +1,18 @@
+25394474
+BACKGROUND	Halitosis is a common problem that affects a large portion of the population worldwide .
+BACKGROUND	The origin of this condition is oral in 90 % and systemic in 10 % of cases .
+BACKGROUND	The unpleasant odor is mainly the result of volatile sulfur compounds produced by Gram-negative bacteria .
+BACKGROUND	However , it has recently been found that anaerobic Gram-positive bacteria also produce hydrogen sulfide ( H2S ) in the presence of amino acids , such as cysteine .
+BACKGROUND	Light , both with and without the use of chemical agents , has been used to induce therapeutic and antimicrobial effects .
+BACKGROUND	In photodynamic therapy , the antimicrobial effect is confined to areas covered by photosensitizing dye .
+BACKGROUND	The aim of the present study is to evaluate the antimicrobial effect of photodynamic therapy on halitosis in adolescents through the analysis of volatile sulfur compounds measured using gas chromatography and microbiological analysis of coated tongue .
+METHODS	A quantitative clinical trial will be carried out involving 60 adolescents randomly divided into the following groups : group 1 will receive treatment with a tongue scraper , group 2 will receive photodynamic therapy applied to the posterior two-thirds of the dorsum of the tongue , and group 3 will receive combined treatment ( tongue scraper and photodynamic therapy ) .
+METHODS	Gas chromatography ( OralChromaTM ) and microbiological analysis will be used for the diagnosis of halitosis at the beginning of the study .
+METHODS	Post-treatment evaluations will be conducted at one hour and 24hours after treatment .
+METHODS	The statistical analysis will include the Shapiro-Wilk test for the determination of the distribution of the data .
+METHODS	If normal distribution is demonstrated , analysis of variance followed by Tukey 's test will be used to compare groups .
+METHODS	The Kruskal-Wallis test followed by the Student-Newman-Keuls test will be used for data with non-normal distribution .
+METHODS	Either the paired t-test or the Wilcoxon test will be used to compare data before and after treatment , depending on the distribution of the data .
+CONCLUSIONS	The results of this trial will determine the efficacy of using photodynamic therapy alone or in combination with a tongue scraper to treat bad breath in adolescents .
+BACKGROUND	The protocol for this study was registered with Clinical Trials ( registration number NCT02007993 ) on 10 December 2013 .
+

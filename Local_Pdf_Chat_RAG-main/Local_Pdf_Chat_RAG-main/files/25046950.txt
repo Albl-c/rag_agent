@@ -1,0 +1,13 @@
+25046950
+OBJECTIVE	To observe the clinical effect of Shen-reinforcing and menstrual cycle-regulating therapy ( SRMCRT ) combined with Western medicine ( WM ) in treating decline in ovarian reserve ( DOR ) .
+METHODS	Totally 78 patients with DOR were assigned to the traditional Chinese medicine combined WM group ( abbreviated as IM group , 40 cases ) , and the WM group ( 38 cases ) according to random digit table method .
+METHODS	Patients in the WM group were treated with hormone replacement therapy , while those in the IM group additionally received SRMCRT .
+METHODS	The therapeutic course for all was 3 consecutive months .
+METHODS	The therapeutic efficacy was compared between the two groups .
+METHODS	The serum levels of follicle stimulating hormone ( FSH ) , FSH/luteinizing hormone ( LH ) , and estradiol ( E2 ) , as well as the development of sinus follicles were compared between before and after treatment in the two groups .
+RESULTS	The therapeutic effective rate was 92.5 % in the IM group , higher than that of the WM group ( 73.68 % , P < 0.05 ) .
+RESULTS	The serum levels of FSH , FSH/LH , and E2 decreased ( P < 0.05 ) and the number of the sinus follicle increased ( P < 0.05 ) in the two groups after treatment .
+RESULTS	Besides , IM was superior in decreasing serum levels of FSH and FSH/LH , and increasing the number of the sinus follicle ( P < 0.05 ) .
+CONCLUSIONS	SRMCRT was an effective method for treating ROD .
+CONCLUSIONS	IM was superior in decreasing serum levels of FSH and FSH/LH , and increasing the number of the sinus follicle .
+

@@ -1,0 +1,11 @@
+25955443
+OBJECTIVE	The study aimed to investigate the effectiveness of a web-based therapy programme , ` Move it to improve it ' ( Mitii ( ) ) , in children with unilateral cerebral palsy ( UCP ) on occupational performance , upper limb function , and visual perception .
+METHODS	Participants ( n = 102 ) were matched in pairs and randomized to intervention ( Mitii for 20wks ; 26 males , mean age 11y 8mo [ 2y 4mo ] , Manual Ability Classification System level I = 11 , II = 39 , III = 1 ) or control ( standard care ; 25 males , mean age 11y 10mo [ 2y 5mo ] , Manual Ability Classification System level I = 13 , II = 37 ) .
+METHODS	Outcomes were the Assessment of Motor and Process Skills ( AMPS ) , Assisting Hand Assessment , Jebsen-Taylor Test of Hand Function ( JTTHF ) , Melbourne Assessment of Unilateral Upper Limb Function ( MUUL ) , Canadian Occupational Performance Measure ( COPM ) , and Test of Visual Perceptual Skills ( TVPS-3 ) .
+RESULTS	Participants completed on average 32.4 hours of Mitii ( range 3.7-74 .7 h ) .
+RESULTS	The Mitii group demonstrated significantly greater post-intervention scores than the comparison group on the AMPS , JTTHF dominant upper limb , COPM , and TVPS-3 .
+RESULTS	The differences between groups were not clinically significant .
+RESULTS	There were no differences between groups on measures of impaired upper limb function .
+CONCLUSIONS	Mitii delivers individualized , web-based therapy at home and has potential to increase therapy dose .
+CONCLUSIONS	Mitii can be considered as an option to enhance occupational performance and visual perception for children with UCP .
+

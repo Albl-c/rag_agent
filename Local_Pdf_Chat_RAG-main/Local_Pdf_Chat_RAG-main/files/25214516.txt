@@ -1,0 +1,11 @@
+25214516
+BACKGROUND	Rifaximin , a nonabsorbable antibiotic that decreases lipopolysaccharide ( LPS ) in cirrhotics , may decrease the elevated levels of microbial translocation , T-cell activation and inflammation in human immunodeficiency virus ( HIV ) - positive immune nonresponders to antiretroviral therapy ( ART ) .
+METHODS	HIV-positive adults receiving ART for 96 weeks with undetectable viremia for 48 weeks and CD4 ( + ) T-cell counts < 350 cells/mm ( 3 ) were randomized 2:1 to rifaximin versus no study treatment for 4 weeks .
+METHODS	T-cell activation , LPS , and soluble CD14 were measured at baseline and at weeks 2 , 4 , and 8 .
+METHODS	Wilcoxon rank sum tests compared changes between arms .
+RESULTS	Compared with no study treatment ( n = 22 ) , rifaximin ( n = 43 ) use was associated with a significant difference between study arms in the change from baseline to week 4 for CD8 ( + ) T-cell activation ( median change , 0.0 % with rifaximin vs +0.6 % with no treatment ; P = .03 ) .
+RESULTS	This difference was driven by an increase in the no-study-treatment arm because there was no significant change within the rifaximin arm .
+RESULTS	Similarly , although there were significant differences between study arms in change from baseline to week 2 for LPS and soluble CD14 , there were no significant changes within the rifaximin arm .
+CONCLUSIONS	In immune nonresponders to ART , rifaximin minimally affected microbial translocation and CD8 ( + ) T-cell activation .
+CONCLUSIONS	Trial registration number.NCT01466595 .
+

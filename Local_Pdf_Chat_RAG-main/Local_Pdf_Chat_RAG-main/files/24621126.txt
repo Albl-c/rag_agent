@@ -1,0 +1,17 @@
+24621126
+BACKGROUND	Exposure to particulate matter ( PM ) air pollution especially derived from traffic is associated with increases in cardiorespiratory morbidity and mortality .
+BACKGROUND	In this study , we evaluated the ability of novel vehicle cabin air inlet filters to reduce diesel exhaust ( DE ) - induced symptoms and markers of inflammation in human subjects .
+METHODS	Thirty healthy subjects participated in a randomized double-blind controlled crossover study where they were exposed to filtered air , unfiltered DE and DE filtered through two selected particle filters , one with and one without active charcoal .
+METHODS	Exposures lasted for one hour .
+METHODS	Symptoms were assessed before and during exposures and lung function was measured before and after each exposure , with inflammation assessed in peripheral blood five hours after exposures .
+METHODS	In parallel , PM were collected from unfiltered and filtered DE and assessed for their capacity to drive damaging oxidation reactions in a cell-free model , or promote inflammation in A549 cells .
+RESULTS	The standard particle filter employed in this study reduced PM10 mass concentrations within the exposure chamber by 46 % , further reduced to 74 % by the inclusion of an active charcoal component .
+RESULTS	In addition use of the active charcoal filter was associated by a 75 % and 50 % reduction in NO2 and hydrocarbon concentrations , respectively .
+RESULTS	As expected , subjects reported more subjective symptoms after exposure to unfiltered DE compared to filtered air , which was significantly reduced by the filter with an active charcoal component .
+RESULTS	There were no significant changes in lung function after exposures .
+RESULTS	Similarly diesel exhaust did not elicit significant increases in any of the inflammatory markers examined in the peripheral blood samples 5hour post-exposure .
+RESULTS	Whilst the filters reduced chamber particle concentrations , the oxidative activity of the particles themselves , did not change following filtration with either filter .
+RESULTS	In contrast , diesel exhaust PM passed through the active charcoal combination filter appeared less inflammatory to A549 cells .
+CONCLUSIONS	A cabin air inlet particle filter including an active charcoal component was highly effective in reducing both DE particulate and gaseous components , with reduced exhaust-induced symptoms in healthy volunteers .
+CONCLUSIONS	These data demonstrate the effectiveness of cabin filters to protect subjects travelling in vehicles from diesel exhaust emissions .
+

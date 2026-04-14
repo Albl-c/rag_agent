@@ -1,0 +1,13 @@
+25851766
+OBJECTIVE	Intra-arterial treatment ( IAT ) in patients with acute ischemic stroke ( AIS ) can be performed with or without general anesthesia ( GA ) .
+OBJECTIVE	Previous studies suggested that IAT without the use of GA ( non-GA ) is associated with better clinical outcome .
+OBJECTIVE	Nevertheless , no consensus exists about the anesthetic management during IAT of AIS patients .
+OBJECTIVE	This study investigates the association between type of anesthesia and clinical outcome in a large cohort of patients with AIS treated with IAT .
+METHODS	All consecutive patients with AIS of the anterior circulation who received IAT between 2002 and 2013 in 16 Dutch hospitals were included in the study .
+METHODS	Primary outcome was functional outcome on the modified Rankin Scale at discharge .
+METHODS	Difference in primary outcome between GA and non-GA was estimated using multiple ordinal regression analysis , adjusting for age , stroke severity , occlusion of the internal carotid artery terminus , previous stroke , atrial fibrillation , and diabetes mellitus .
+RESULTS	Three hundred forty-eight patients were included in the analysis ; 70 patients received GA and 278 patients did not receive GA. .
+RESULTS	Non-GA was significantly associated with good clinical outcome ( odds ratio 2.1 , 95 % confidence interval 1.02-4 .31 ) .
+RESULTS	After adjusting for prespecified prognostic factors , the point estimate remained similar ; statistical significance , however , was lost ( odds ratio 1.9 , 95 % confidence interval 0.89-4 .24 ) .
+CONCLUSIONS	Our study suggests that patients with AIS of the anterior circulation undergoing IAT without GA have a higher probability of good clinical outcome compared with patients treated with general anesthesia .
+

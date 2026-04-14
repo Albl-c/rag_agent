@@ -1,0 +1,16 @@
+26385950
+BACKGROUND	Nutritional anemia is a public health problem among Ghanaian schoolchildren .
+BACKGROUND	There is need to employ dietary modification strategies to solve this problem through school and household feeding programs .
+OBJECTIVE	To evaluate the effectiveness of cowpea-based food containing fish meal served with vitamin C-rich drink to improve iron stores and hemoglobin concentrations in Ghanaian schoolchildren .
+METHODS	The study involved cross-sectional baseline and nutrition intervention phases .
+METHODS	There were 150 participants of age 6 to 12 years .
+METHODS	They were randomly assigned to 3 groups , fish meal - vitamin C ( n = 50 ) , vitamin C ( n = 50 ) , and control ( n = 50 ) , and given different cowpea-based diets for a 6-month period .
+METHODS	Height and weight measurements were done according to the standard procedures , dietary data were obtained by 24-hour recall and food frequency questionnaire , hemoglobin concentrations were determined by Hemocue Hemoglobinometer , and serum ferritin and complement-reactive protein ( CRP ) were determined by enzyme-linked immunosorbent assay .
+METHODS	Participants ' blood samples were examined for malaria parasitemia and stools for helminthes using Giemsa stain and Kato-Katz techniques , respectively .
+RESULTS	Mean ferritin concentration was not significantly different among groups .
+RESULTS	End line mean or change in hemoglobin concentrations between fish meal-vitamin C group ( 128.4 7.2 / 8.3 10.6 g/L ) and control ( 123.1 6.6 / 4.2 10.4 g/L ) were different , P < .05 .
+RESULTS	Change in prevalence of anemia in fish meal-vitamin C group ( 19.5 % ) was different compared to those of vitamin C group ( 9.3 % ) and the control ( 12.2 % ) .
+RESULTS	Levels of malaria parasitemia and high CRP among study participants at baseline and end line were 58 % and 80 % then 55 % and 79 % , respectively .
+RESULTS	Level of hookworm infestation was 13 % .
+CONCLUSIONS	Cowpea-based food containing 3 % fish meal and served with vitamin C-rich drink improved hemoglobin concentration and minimized the prevalence of anemia among the study participants .
+

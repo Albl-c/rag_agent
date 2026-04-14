@@ -1,0 +1,11 @@
+25359924
+BACKGROUND	Antiviral therapy with interferon-alpha ( IFN - ) for hepatitis C virus ( HCV ) infection is associated with increased risk for depression .
+OBJECTIVE	To identify clinical predictors for IFN -- induced depression during antiviral therapy for HCV infection .
+METHODS	Depression ( defined with the Montgomery-sberg Depression Rating Scale ( MADRS ) ) was evaluated before and during antiviral treatment in 91 people with chronic HCV infection without a history of psychiatric disorders .
+METHODS	Cognitive function was evaluated using the Trail Making Test A/B ( TMT A/B ) .
+METHODS	( Trial registration at ClinicalTrials.gov : NCT00136318 . )
+RESULTS	Depression during antiviral therapy was significantly associated with a baseline MADRS score of 3 or higher ( P = 0.006 ) .
+RESULTS	In total , 89 % ( n = 16 ) of patients who had a baseline score > 0 for the single item sadness developed depression .
+RESULTS	Poor baseline performance in the TMT A ( P = 0.027 ) and TMT B ( P = 0.033 ) was predictive for severe depression .
+CONCLUSIONS	Pre-treatment screening for subthreshold depressive and cognitive symptoms will help to identify those at risk for IFN -- associated depression among patients with chronic hepatitis C.
+

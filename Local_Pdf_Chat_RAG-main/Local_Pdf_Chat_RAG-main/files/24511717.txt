@@ -1,0 +1,13 @@
+24511717
+BACKGROUND	From the empirical study , light-emitting diode ( LED ) phototherapy is effective for treatment of neonatal hyperbilirubinemia .
+BACKGROUND	However commercial LED phototherapy equipment is still expensive .
+BACKGROUND	Thus , in-house LED phototherapy equipment has been developed .
+OBJECTIVE	To compare efficacy between in-house LED to conventional phototherapy equipment in the treatment of neonatal hyperbilirubinemia at Mae Sot Hospital .
+METHODS	This was a randomized controlled trial .
+METHODS	Fifty newborns with hyperbilirubinemia were allocated to LED phototherapy group and conventional group .
+METHODS	Baseline characteristics were compared and analyzed by descriptive statistics , exact probability and student t-test , and change in serum bilirubin level was analyzed by multilevel regression analysis .
+RESULTS	There were 25 patients in each of the two groups .
+RESULTS	The median duration of phototherapy in LED group was 25 hours , whereas the conventional group required 48 hours ( p < 0.001 ) and the average serum bilirubin level in LED group decreased more rapidly than in conventional group ( p = 0.007 ) .
+RESULTS	Hyperthermia were found in 22 infants from conventional group ( 88 % ) compared to 11 infants from LED group ( 44 % ) ( p = 0.002 ) .
+CONCLUSIONS	In-house LED phototherapy equipment is more effective than conventional phototherapy in the reduction of serum bilirubin level and occurrence of hyperthermia during treatment is less .
+

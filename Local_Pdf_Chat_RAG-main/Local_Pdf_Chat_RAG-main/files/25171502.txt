@@ -1,0 +1,12 @@
+25171502
+OBJECTIVE	To compare the treatment outcome of tamsulosin 0.4 mg ( TAM ) with or without solifenacin 5 mg ( SOL ) for the most bothersome symptom in male lower urinary tract symptoms ( LUTS ) with overactive bladder ( OAB ) .
+METHODS	Male LUTS/OAB ( 50 years ) patients who had a total International Prostate Symptom Score ( I-PSS ) of 12 , I-PSS urgency-related question of 2 , and quality of life ( QoL ) of 3 points were enrolled .
+METHODS	Patients who complained of storage symptoms as the most bothersome were included in the ` storage ' group .
+METHODS	Patients who complained of voiding symptoms as the most bothersome were included in the ` voiding ' group .
+METHODS	The change in the I-PSS was compared between the two groups 4 weeks after commencing treatment .
+RESULTS	In the storage group , 172 were able to finish this study ( TAM : 88 , TAM + SOL : 84 ) .
+RESULTS	The improvement of I-PSS and QoL with TAM + SOL was significantly greater than with TAM alone ( p < 0.001 ) .
+RESULTS	In the voiding group , 108 were able to finish the study ( TAM : 54 , TAM + SOL : 54 ) .
+RESULTS	The improvement of I-PSS and QoL with TAM alone was significantly greater than with TAM + SOL ( p < 0.001 ) .
+CONCLUSIONS	The most bothersome symptom in male LUTS/OAB should be considered when choosing the appropriate medical treatment .
+

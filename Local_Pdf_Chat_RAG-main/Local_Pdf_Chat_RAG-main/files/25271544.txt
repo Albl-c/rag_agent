@@ -1,0 +1,17 @@
+25271544
+OBJECTIVE	Selective decontamination of the digestive tract ( SDD ) and selective oropharyngeal decontamination ( SOD ) are prophylactic antibiotic regimens used in intensive care units ( ICUs ) and associated with improved patient outcome .
+OBJECTIVE	Controversy exists regarding the relative effects of both measures on patient outcome and antibiotic resistance .
+OBJECTIVE	To compare the effects of SDD and SOD , applied as unit-wide interventions , on antibiotic resistance and patient outcome .
+METHODS	Pragmatic , cluster randomized crossover trial comparing 12 months of SOD with 12 months of SDD in 16 Dutch ICUs between August 1 , 2009 , and February 1 , 2013 .
+METHODS	Patients with an expected length of ICU stay longer than 48 hours were eligible to receive the regimens , and 5881 and 6116 patients were included in the clinical outcome analysis for SOD and SDD , respectively .
+METHODS	Intensive care units were randomized to administer either SDD or SOD .
+METHODS	Unit-wide prevalence of antibiotic-resistant gram-negative bacteria .
+METHODS	Secondary outcomes were day-28 mortality , ICU-acquired bacteremia , and length of ICU stay .
+RESULTS	In point-prevalence surveys , prevalences of antibiotic-resistant gram-negative bacteria in perianal swabs were significantly lower during SDD compared with SOD ; for aminoglycoside resistance , average prevalence was 5.6 % ( 95 % CI , 4.6 % -6.7 % ) during SDD and 11.8 % ( 95 % CI , 10.3 % -13.2 % ) during SOD ( P < .001 ) .
+RESULTS	During both interventions the prevalence of rectal carriage of aminoglycoside-resistant gram-negative bacteria increased 7 % per month ( 95 % CI , 1 % -13 % ) during SDD ( P = .02 ) and 4 % per month ( 95 % CI , 0 % -8 % ) during SOD ( P = .046 ; P = .40 for difference ) .
+RESULTS	Day 28-mortality was 25.4 % and 24.1 % during SOD and SDD , respectively ( adjusted odds ratio , 0.96 [ 95 % CI , 0.88-1 .06 ] ; P = .42 ) , and there were no statistically significant differences in other outcome parameters or between surgical and nonsurgical patients .
+RESULTS	Intensive care unit-acquired bacteremia occurred in 5.9 % and 4.6 % of the patients during SOD and SDD , respectively ( odds ratio , 0.77 [ 95 % CI , 0.65-0 .91 ] ; P = .002 ; number needed to treat , 77 ) .
+CONCLUSIONS	Unit-wide application of SDD and SOD was associated with low levels of antibiotic resistance and no differences in day-28 mortality .
+CONCLUSIONS	Compared with SOD , SDD was associated with lower rectal carriage of antibiotic-resistant gram-negative bacteria and ICU-acquired bacteremia but a more pronounced gradual increase in aminoglycoside-resistant gram-negative bacteria .
+BACKGROUND	trialregister.nlIdentifier : NTR1780 .
+

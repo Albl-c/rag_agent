@@ -1,0 +1,11 @@
+25222001
+OBJECTIVE	The aim of this study was to compare the use of multilayer amniotic membrane transplantation ( AMT ) with lamellar corneal transplantation ( LCT ) and lamellar scleral transplantation ( LST ) for the treatment of scleral thinning after pterygium surgery associated with beta therapy .
+METHODS	Twenty-six eyes from 26 different patients with scleral thinning as a consequence of beta therapy after pterygium surgery were evaluated at the Federal University of So Paulo , Brazil .
+METHODS	Ophthalmologic examination and ultrasound biomicroscopy were performed to assess scleral thinning before the transplant surgery and then repeated at 30 , 90 , and 180 days after surgery .
+METHODS	An increase in scleral thickness , epithelialization of the ocular surface , and preservation of the ocular globe were the main outcome measures .
+RESULTS	Irrespective of the surgical technique used ( AMT , LCT , or LST ) , no clinical or statistical changes in corrected distance visual acuity were found in any of the patients during this study .
+RESULTS	The median preoperative scleral thickness was similar in all 3 groups : AMT = 0.45 mm , LST = 0.48 mm , and LCT = 0.52 mm ( P = 0.257 ) ; however , 6 months after surgery , the median thickness in the AMT group ( 0.19 ) was significantly less than that of the LCT group ( 0.57 ) ( P = 0.27 ) or the LST group ( 0.76 ) ( P = 0.19 ) .
+RESULTS	Epithelialization occurred in all the patients .
+CONCLUSIONS	LCT was the best option for the structural treatment of scleral thinning , followed by LST with a conjunctival flap .
+CONCLUSIONS	A high rate of reabsorption was found with AMT , which was the least effective of the 3 therapeutic options and should not be used for this condition .
+

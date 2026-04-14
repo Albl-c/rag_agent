@@ -1,0 +1,15 @@
+25967269
+BACKGROUND	Integrating antenatal care ( ANC ) and HIV care may improve uptake and retention in services along the prevention of mother-to-child transmission ( PMTCT ) cascade .
+BACKGROUND	This study aimed to determine whether integration of HIV services into ANC settings improves PMTCT service utilization outcomes .
+METHODS	ANC clinics in rural Kenya were randomized to integrated ( 6 clinics , 569 women ) or nonintegrated ( 6 clinics , 603 women ) services .
+METHODS	Intervention clinics provided all HIV services , including highly active antiretroviral therapy ( HAART ) , whereas control clinics provided PMTCT services but referred women to HIV care clinics within the same facility .
+METHODS	PMTCT utilization outcomes among HIV-infected women ( maternal HIV care enrollment , HAART initiation , and 3-month infant HIV testing uptake ) were compared using generalized estimating equations and Cox regression .
+RESULTS	HIV care enrollment was higher in intervention compared with control clinics [ 69 % versus 36 % ; odds ratio = 3.94 , 95 % confidence interval ( CI ) : 1.14 to 13.63 ] .
+RESULTS	Median time to enrollment was significantly shorter among intervention arm women ( 0 versus 8 days , hazard ratio = 2.20 , 95 % CI : 1.62 to 3.01 ) .
+RESULTS	Eligible women in the intervention arm were more likely to initiate HAART ( 40 % versus 17 % ; odds ratio = 3.22 , 95 % CI : 1.81 to 5.72 ) .
+RESULTS	Infant testing was more common in the intervention arm ( 25 % versus 18 % ) , however , not statistically different .
+RESULTS	No significant differences were detected in postnatal service uptake or maternal retention .
+CONCLUSIONS	Service integration increased maternal HIV care enrollment and HAART uptake .
+CONCLUSIONS	However , PMTCT utilization outcomes were still suboptimal , and postnatal service utilization remained poor in both study arms .
+CONCLUSIONS	Further improvements in the PMTCT cascade will require additional research and interventions .
+

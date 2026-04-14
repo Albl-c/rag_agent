@@ -1,0 +1,12 @@
+24569031
+BACKGROUND	In the REPAIR-AMI trial , intracoronary infusion of bone marrow-derived cells ( BMCs ) was associated with a significantly greater recovery of contractile function in patients with acute myocardial infarction ( AMI ) at 4-month follow-up than placebo infusion .
+BACKGROUND	The current analysis investigates clinical outcome and predictors of event-free survival at 5 years .
+RESULTS	In the multicentre , placebo-controlled , double-blind REPAIR-AMI trial , 204 patients received intracoronary infusion of BMCs ( n = 101 ) or placebo ( n = 103 ) into the infarct vessel 3-7 days following successful percutaneous coronary intervention .
+RESULTS	Fifteen patients died in the placebo group compared with seven patients in the BMC group ( P = 0.08 ) .
+RESULTS	Nine placebo-treated patients and five BMC-treated patients required rehospitalization for chronic heart failure ( P = 0.23 ) .
+RESULTS	The combined endpoint cardiac/cardiovascular/unknown death or rehospitalisation for heart failure was more frequent in the placebo compared with the BMC group ( 18 vs. 10 events ; P = 0.10 ) .
+RESULTS	Univariate predictors of adverse outcomes were age , the CADILLAC risk score , aldosterone antagonist and diuretic treatment , changes in left ventricular ejection fraction , left ventricular end-systolic volume , and N-terminal pro-Brain Natriuretic Peptide ( all P < 0.01 ) at 4 months in the entire cohort and in the placebo group .
+RESULTS	In contrast , in the BMC group , only the basal ( P = 0.02 ) and the stromal cell-derived factor-1-induced ( P = 0.05 ) migratory capacity of the administered BMC were associated with improved clinical outcome .
+CONCLUSIONS	In patients of the REPAIR-AMI trial , established clinical parameters are associated with adverse outcome at 5 years exclusively in the placebo group , whereas the migratory capacity of the administered BMC determines event-free survival in the BMC-treated patients .
+CONCLUSIONS	These data disclose a potency-effect relationship between cell therapy and long-term outcome in patients with AMI .
+

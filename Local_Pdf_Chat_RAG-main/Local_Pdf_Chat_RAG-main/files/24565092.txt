@@ -1,0 +1,13 @@
+24565092
+OBJECTIVE	Initiation of epidural anesthesia with long-lasting local anesthetics consumes a significant amount of time , which could be problematic in busy obstetric anesthesia suites .
+OBJECTIVE	We have hypothesized that a combination of articaine and ropivacaine provides faster onset and even an early recovery of sensory-motor block characteristics .
+METHODS	Sixty term parturients scheduled to have elective cesarean section were randomly allocated into three groups to receive either 20 mL 2 % articaine ( Group A ) , 10 mL 2 % articaine + 10 mL 0.75 % ropivacaine ( Group AR ) or 20 mL 0.75 % ropivacaine ( Group R ) via lumbar epidural catheter .
+METHODS	The onset time of sensory block to T10 , T6 and maximum sensory block level , time to two segments regression from maximum sensory block level , onset time and duration of motor block were all recorded .
+METHODS	Intraoperative and postoperative additional analgesic requirements were also recorded .
+RESULTS	Demographic data were similar .
+RESULTS	The onset times of sensorial block to T10 and T6 were significantly shorter in Groups A and AR in comparison with Group R ( p < 0.05 ) .
+RESULTS	The onset times of motor block were similar in all groups , but a more intense motor block was observed in Group R ( p < 0.05 ) .
+RESULTS	Two segments regression time and motor block durations were significantly shorter in Groups A and AR in comparison with Group R ( p < 0.05 ) .
+RESULTS	Intraoperative supplementary analgesic requirements were higher in Group A than in the other two groups ( p < 0.05 ) .
+CONCLUSIONS	A combination of 2 % articaine and 0.75 % ropivacaine for epidural anesthesia in a cesarean section should be preferred over epidural 0.75 % ropivacaine alone .
+

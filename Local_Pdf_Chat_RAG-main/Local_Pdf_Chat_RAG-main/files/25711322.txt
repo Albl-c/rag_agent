@@ -1,0 +1,14 @@
+25711322
+OBJECTIVE	A small subset of HIV-positive adults have low HIV RNA in the absence of therapy , sometimes for years .
+OBJECTIVE	Clinical factors associated with low HIV RNA in early infection have not been well defined .
+METHODS	We assessed factors associated with low plasma HIV RNA level at study entry in the Strategic Timing of AntiRetroviral Treatment ( START ) trial .
+METHODS	All START participants had a baseline HIV RNA assessment within 60 days prior to randomization .
+METHODS	The key covariables considered for this analysis were race , and hepatitis B virus ( HBV ) and hepatitis C virus ( HCV ) status .
+METHODS	We assessed factors associated with HIV RNA 50 and 400 HIV-1 RNA copies/mL using logistic regression .
+METHODS	Because of the strong association between region of randomization and baseline low HIV RNA , analyses were stratified by region .
+RESULTS	We found that , of 4676 eligible participants randomized in START with a baseline HIV RNA assessment , 113 ( 2.4 % ) had HIV RNA 50copies/mL at baseline , and a further 257 ( 5.5 % ) between 51 and 400copies/mL .
+RESULTS	We found that HIV exposure routes other than male homosexual contact , higher high-density lipoprotein ( HDL ) cholesterol levels , higher CD4 cell counts , and higher CD4 : CD8 ratio were associated with increased odds of low HIV RNA .
+RESULTS	HCV antibody positivity was borderline statistically significantly associated with low HIV RNA .
+RESULTS	Race and HBV surface antigen positivity were not significantly associated with low HIV RNA .
+CONCLUSIONS	In a modern cohort of individuals with early untreated HIV infection , we found that HIV exposure routes other than male homosexual contact and higher HDL cholesterol were associated with increased odds of low HIV RNA .
+

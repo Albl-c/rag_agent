@@ -1,0 +1,12 @@
+24490977
+BACKGROUND	Recruitment is one of the most serious challenges in performing randomized controlled trials .
+BACKGROUND	Often clinical trials with participants diagnosed with schizophrenia are terminated prematurely because of recruitment challenges resulting in a considerable waste of resources in the form of time , funding , and the participants ' efforts .
+BACKGROUND	Dropout rates in schizophrenia trials are also high.Recruitment challenges are often due to patients not wanting to participate in research but can also be due to clinicians ' concerns regarding individuals diagnosed with schizophrenia as participants in research .
+BACKGROUND	This paper reports how overcoming recruitment challenges not related to patients revealed high readiness to take part and low dropout rates in a one year long randomized controlled trial testing Guided Self-Determination ( GSD ) among outpatients with schizophrenia receiving treatment in Assertive Outreach Teams in the northern part of Denmark .
+METHODS	GSD is a shared decision-making and mutual problem-solving method using reflection sheets , which was developed in diabetes care and adjusted for this study and utilized by patients with schizophrenia .
+METHODS	Descriptive data on strategies to overcome recruitment challenges were derived from notes and observations made during the randomized controlled trial testing of GSD in six outpatient teams .
+RESULTS	Three types of recruitment challenges not related to patients were identified and met during the trial : 1 ) organizational challenges , 2 ) challenges with finding eligible participants and 3 ) challenges with having professionals invite patients to participate .
+RESULTS	These challenges were overcome through : 1 ) extension of time , 2 ) expansion of the clinical recruitment area and 3 ) encouragement of professionals to invite patients to the study .
+RESULTS	Through overcoming these challenges , we identified a remarkably high patient-readiness to take part ( 101 of 120 asked accepted ) and a low dropout rate ( 8 % ) .
+CONCLUSIONS	Distinction between recruitment challenges was important in discovering the readiness among patients with schizophrenia to take part in and complete a trial with the GSD-intervention .
+

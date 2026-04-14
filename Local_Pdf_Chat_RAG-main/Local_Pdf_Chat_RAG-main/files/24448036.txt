@@ -1,0 +1,10 @@
+24448036
+OBJECTIVE	To determine whether medical student intubation proficiency with a neonatal mannequin differs according to weekly or consecutive day practice sessions during a six-week pediatric clerkship .
+METHODS	From July 2010 through June 2011 , the authors prospectively randomized 110 third-year medical students into three neonatal intubation practice groups : standard ( control ; no practice sessions ) , weekly ( practice once/week for four consecutive weeks ) , or consecutive day ( practice once/day for four consecutive days ) .
+METHODS	At baseline , students performed intubation during individual sessions using a neonatal mannequin ( SimNewB ) .
+METHODS	Two reviewers , blinded to practice group , viewed videotapes of intubations and independently scored students on equipment selection , procedural skill steps , length of intubation attempts ( in seconds ) , and the number of attempts ( up to three ) needed for a successful intubation .
+METHODS	Videotaped individual final assessment intubation sessions during week six were evaluated in the same manner .
+RESULTS	Students in the weekly and consecutive day practice groups performed better at the final assessment on all variables than students in the standard group ( P < .001 ) , but over six weeks , the authors detected no differences between the two distributed practice formats for any outcomes of interest .
+CONCLUSIONS	Practice improved all aspects of neonatal intubation performance , including choosing the correct equipment , properly performing the skill steps , length of time to successful intubation , and success rate , for novice health care providers in a simulation setting .
+CONCLUSIONS	Over six weeks , neither practice format proved superior , but it remains unclear whether one format is superior for learning and skill retention over the long term or in actual practice .
+

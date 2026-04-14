@@ -1,0 +1,12 @@
+24288077
+OBJECTIVE	Anterior knee pain is a major cause of complaint in total knee arthroplasty ( TKA ) without patellar resurfacing .
+OBJECTIVE	The concept of improved patellar tracking and decreased retropatellar contact pressure for lateral retinacular release theoretically suggests that patients with lateral retinacular release in TKA would achieve a lower incidence of anterior knee pain when compared without lateral retinacular release .
+OBJECTIVE	We sought to determine ( 1 ) whether those patients who received a routine lateral retinacular release in TKA would attain lower incidence of anterior knee pain as compared to patients who received TKA without lateral retinacular release and ( 2 ) whether lateral retinacular release would increase the lateral retinacular release-related complications .
+METHODS	A total of 148 patients who underwent TKA with the use of the Gemini MK II mobile bearing were randomized to receive either routine lateral retinacular release ( intervention group ) or not ( control group ) .
+METHODS	Patients were assessed by the visual analogue scale for anterior knee pain , the Knee Society clinical scoring system of knee score and function score , and patellar score for clinical function .
+METHODS	Patients ' satisfaction and lateral retinacular release-related complications were also evaluated .
+RESULTS	The overall incidence of anterior knee pain in the intervention group at 18 months follow-up was 5.6 % , while that of the control group was 20.6 % ( p = 0.009 ) .
+RESULTS	No statistical difference was detected between the two groups in terms of lateral retinacular release-related complications ( n.s. ) , patients ' satisfaction ( n.s. ) , knee score ( n.s. ) , function score ( n.s. ) , and patellar score ( n.s. ) at 18 months follow-up .
+CONCLUSIONS	The present study suggests that routine lateral retinacular release can reduce anterior knee pain and does not increase lateral retinacular release-related complications , in TKA with the use of the Gemini MK II mobile bearing without patellar resurfacing .
+METHODS	Therapeutic , Level I.
+

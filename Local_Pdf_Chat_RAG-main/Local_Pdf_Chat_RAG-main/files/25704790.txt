@@ -1,0 +1,12 @@
+25704790
+BACKGROUND	While the addition of targeted therapy to neoadjuvant chemotherapy ( NACT ) dramatically increases the rate of pathological complete response in HER2-positive breast cancer , no reduction in the rate of mastectomy has been observed in randomised studies .
+METHODS	A retrospective single centre analysis of all patients treated with anti HER2-based NACT for T2-4 breast cancer , focusing on patients treated with mastectomy .
+RESULTS	Among 165 patients treated between June 2005 and July 2012 , surgery was performed immediately post-NACT in 152 cases ( 92 % ) .
+RESULTS	Breast-conserving surgery could be performed for 108 of the patients ( 71 % ) , with a 4-year local relapse-free survival of 97 % .
+RESULTS	A mastectomy was performed in two cases following patients ' wishes and in 37 cases based on pre-NACT findings ( n = 18 ) or post-NACT outcomes ( n = 19 ) .
+RESULTS	For 21 out of the 37 cases , a good pathological response was observed , and multidisciplinary reanalysis suggests that breast-conserving surgery outright may have been sufficient for 12 patients .
+RESULTS	Finally , a salvage mastectomy based on post-lumpectomy pathological results was decided in five cases ( 11 % ) .
+RESULTS	The 4-year metastasis-free survival was 84 % for all patients operated on after NACT ( n = 152 ) .
+CONCLUSIONS	Given the good efficacy of anti HER2-based NACT , breast-conserving surgery should be standard practice for most patients .
+CONCLUSIONS	Total mastectomy on the other hand should be restricted to a few patients , mainly those with positive margins on the lumpectomy specimen .
+

@@ -1,0 +1,14 @@
+24232362
+OBJECTIVE	The beneficial role of exercise as a treatment approach in Huntington 's disease ( HD ) has support from both preclinical work and small-scale studies ; however , there have been no controlled studies of gym-based exercise in people with HD .
+OBJECTIVE	This phase 2 randomized trial ( ISRCTN 59910670 ) assessed feasibility , safety , acceptability , and benefit of a structured exercise program .
+METHODS	Thirty-one participants ( 16 men ; mean [ SD ] age = 50.4 [ 11.4 ] years ) were randomly allocated to intervention ( n = 16 ) or control group ( usual care ; n = 15 ) .
+METHODS	The intervention entailed a weekly supervised gym session of stationary cycling and resistance exercises , and a twice weekly independent home-based walking program .
+METHODS	Retention and adherence rates and adverse events were recorded .
+METHODS	Acceptability was determined from subjective reports of tolerability and physiological measures recorded during the gym sessions .
+METHODS	Assessment of benefit included measures of physical abilities , disease severity , and quality of life ( 36-Item Short Form Health Survey ) .
+METHODS	Analysis of covariance was used to test outcomes of interest .
+RESULTS	The retention rate was 81 % ( 9 of the 11 individuals who started the intervention completed it ) and of the 9 who completed the program , 7 attended more than 75 % ( 9/12 ) of the gym sessions .
+RESULTS	There were no related adverse events and the intervention was well tolerated by most participants .
+RESULTS	The between-group effect estimate for the Mental Component Summary score of the 36-Item Short Form Health Survey ( n = 9 ; intervention , n = 13 ; control ) was 7 ( 95 % CI : 0.4-13 .7 ) Moderate effect sizes for cognitive outcomes and measures of walking were also observed .
+CONCLUSIONS	Observed effect sizes for clinical outcomes suggest the structured exercise program has benefit for persons with HD ; larger scale trials are warranted.Video Abstract available ( see Video , Supplemental Digital Content 1 , http://links.lww.com/JNPT/A60 ) for more insights from the authors .
+

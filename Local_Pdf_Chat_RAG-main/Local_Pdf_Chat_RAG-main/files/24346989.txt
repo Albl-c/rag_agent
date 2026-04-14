@@ -1,0 +1,18 @@
+24346989
+OBJECTIVE	Chronic periodontitis , a destructive inflammatory disorder of the supporting structures of the teeth , is prevalent in patients with diabetes .
+OBJECTIVE	Limited evidence suggests that periodontal therapy may improve glycemic control .
+OBJECTIVE	To determine if nonsurgical periodontal treatment reduces levels of glycated hemoglobin ( HbA1c ) in persons with type 2 diabetes and moderate to advanced chronic periodontitis .
+METHODS	The Diabetes and Periodontal Therapy Trial ( DPTT ) , a 6-month , single-masked , multicenter , randomized clinical trial .
+METHODS	Participants had type 2 diabetes , were taking stable doses of medications , had HbA1c levels between 7 % and less than 9 % , and untreated chronic periodontitis .
+METHODS	Five hundred fourteen participants were enrolled between November 2009 and March 2012 from diabetes and dental clinics and communities affiliated with 5 academic medical centers .
+METHODS	The treatment group ( n = 257 ) received scaling and root planing plus chlorhexidine oral rinse at baseline and supportive periodontal therapy at 3 and 6 months .
+METHODS	The control group ( n = 257 ) received no treatment for 6 months .
+METHODS	Difference in change in HbA1c level from baseline between groups at 6 months .
+METHODS	Secondary outcomes included changes in probing pocket depths , clinical attachment loss , bleeding on probing , gingival index , fasting glucose level , and Homeostasis Model Assessment ( HOMA2 ) score .
+RESULTS	Enrollment was stopped early because of futility .
+RESULTS	At 6 months , mean HbA1c levels in the periodontal therapy group increased 0.17 % ( SD , 1.0 ) , compared with 0.11 % ( SD , 1.0 ) in the control group , with no significant difference between groups based on a linear regression model adjusting for clinical site ( mean difference , -0.05 % [ 95 % CI , -0.23 % to 0.12 % ] ; P = .55 ) .
+RESULTS	Periodontal measures improved in the treatment group compared with the control group at 6 months , with adjusted between-group differences of 0.28 mm ( 95 % CI , 0.18 to 0.37 ) for probing depth , 0.25 mm ( 95 % CI , 0.14 to 0.36 ) for clinical attachment loss , 13.1 % ( 95 % CI , 8.1 % to 18.1 % ) for bleeding on probing , and 0.27 ( 95 % CI , 0.17 to 0.37 ) for gingival index ( P < .001 for all ) .
+CONCLUSIONS	Nonsurgical periodontal therapy did not improve glycemic control in patients with type 2 diabetes and moderate to advanced chronic periodontitis .
+CONCLUSIONS	These findings do not support the use of nonsurgical periodontal treatment in patients with diabetes for the purpose of lowering levels of HbA1c .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00997178 .
+

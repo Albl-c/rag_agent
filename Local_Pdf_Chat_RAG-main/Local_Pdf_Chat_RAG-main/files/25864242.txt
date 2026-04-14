@@ -1,0 +1,8 @@
+25864242
+OBJECTIVE	To determine the efficacy in reducing dentin hypersensitivity ( DHS ) of a combined in-office and home-use desensitizing system , each product containing 8 % arginine and calcium carbonate ( Test ) , following a dental scaling procedure , compared to the combination of a conventional prophylactic paste and a potassium nitrate dentifrice ( Control ) , in a group of patients with known dentin hypersensitivity .
+METHODS	An 8-week clinical study , with 50 subjects , was conducted in Piracicaba , So Paulo , Brazil , using a double-blind/two treatment design .
+METHODS	Air blast sensitivity assessments were used to compare the efficacy of the two approaches using both the Schiff scale as well as a Visual Analogue Scale ( VAS ) .
+RESULTS	Immediately after prophylaxis , the Test treatment provided significant reduction in DHS when compared to baseline values ( VAS = 26.2 % and Schiff = 29.1 % ) , while for Control treatment this difference was not statistically significant ( VAS = 8.1 % and Schiff = 6.6 % ) .
+RESULTS	The comparison between groups after prophylaxis showed a greater DHS reduction for the Test treatment ( P < 0.05 ) .
+RESULTS	The reductions in DHS after 2 , 4 and 8 weeks were significant for both groups , however , when considering Schiff scale , the Test treatment provided greater DHS reduction after 2 weeks ( 44.5 % for Test versus 27.7 % for Control ) and 4 weeks ( 55.2 % for Test and 40.5 % for Control ) , while after 8 weeks there was no significant difference between groups ( 71.1 % for Test versus 61.1 % for Control ) .
+

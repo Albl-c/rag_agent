@@ -1,0 +1,13 @@
+24766978
+BACKGROUND	We previously found that the use of ezetimibe increased rapidly with different patterns between the United States ( US ) and Canada prior to the landmark Ezetimibe and Simvastatin in Hypercholesterolemia Enhance Atherosclerosis Regression ( ENHANCE ) trial , which was reported in January 2008 , and failed to show that the drug slowed the progression of atherosclerosis .
+BACKGROUND	What is not known is how practice in the 2 countries changed after the ENHANCE trial .
+BACKGROUND	We examined ezetimibe use trends in the US and Canada before and after the reporting of the ENHANCE trial .
+METHODS	We conducted a population-based , retrospective , time-series analysis using the data collected by IMS Health in the US and CompuScript in Canada from January 1 , 2002 , to December 31 , 2009 .
+METHODS	The main outcome measure was monthly number of prescriptions for ezetimibe-containing products .
+RESULTS	The monthly number of ezetimibe prescriptions/100 ,000 population rose from 6 to 1,082 in the US from November 2002 to January 2008 , then significantly declined to 572/100 ,000 population by December 2009 after the release of the ENHANCE trial , a decrease of 47.1 % ( P < .001 ) .
+RESULTS	In contrast , in Canada , use continuously rose from 2 to 495/100 ,000 population from June 2003 to December 2009 ( P = .2 ) .
+RESULTS	United States expenditures totaled $ 2.24 billion in 2009 .
+CONCLUSIONS	Ezetimibe remains commonly used in both the US and Canada .
+CONCLUSIONS	Ezetimibe use has decreased in the US post-ENHANCE , whereas use has gradually but steadily increased in Canada .
+CONCLUSIONS	The diverging patterns of ezetimibe use in the US and Canada require further investigation , as they reveal that a common evidence base is eliciting very different utilization patterns in neighboring countries .
+

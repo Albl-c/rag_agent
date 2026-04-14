@@ -1,0 +1,12 @@
+25842726
+OBJECTIVE	To investigate the effect of different heat-stimulating time lengths on lower back pain .
+METHODS	Forty participants were randomly assigned to four groups of various heating time lengths .
+METHODS	The short heating time length group ( SL ) , moderate heating time length group ( ML ) , and long heating time length group ( LL ) respectively received 15 , 30 , and 60 min of moxibustion therapy stimulating the acupoint Guanyuan ( CV 4 ) .
+METHODS	The conventional acupuncture group ( CA ) received needle acupuncture treatment as a control group .
+METHODS	The participants were treated continuously over a 2-week treatment period for a total of 10 sessions , with five sessions given per week .
+METHODS	Participants were assessed weekly by blinded assessors , using the visual analogue scale ( VAS ) and Roland Morris Questionnaire ( RMQ ) .
+RESULTS	The VAS and RMQ scores reduced in all four groups during treatment .
+RESULTS	There were significant differences in VAS scores ( P < 0.01 ) and RMQ scores ( P < 0.01 ) between before treatment and after 2 weeks of treatment in the LL group .
+RESULTS	After treatment , the LL group reported significantly lower VAS scores compared with the CA group , ML group , and SL group ( P < 0.05 ) .
+CONCLUSIONS	The long and moderate lengths of heat-stimulating time of 30 and 60 min may be more effective for relieving lower back pain than that of short stimulating time lengths .
+

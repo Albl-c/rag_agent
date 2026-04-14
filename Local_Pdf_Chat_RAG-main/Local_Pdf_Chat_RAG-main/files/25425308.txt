@@ -1,0 +1,16 @@
+25425308
+OBJECTIVE	Progressive decline of psychophysical cone-mediated measures has been reported in type 1 ( USH1 ) and type 2 ( USH2 ) Usher syndrome .
+OBJECTIVE	Conventional cone electroretinogram ( ERG ) responses in USH demonstrate poor signal-to-noise ratio .
+OBJECTIVE	We evaluated cone signals in USH1 and USH2 by recording microvolt level cycle-by-cycle ( CxC ) ERG .
+METHODS	Responses of molecularly genotyped USH1 ( n = 18 ) and USH2 ( n = 24 ) subjects ( age range , 15-69 years ) were compared with those of controls ( n = 12 ) .
+METHODS	A subset of USH1 ( n = 9 ) and USH2 ( n = 9 ) subjects was examined two to four times over 2 to 8 years .
+METHODS	Photopic CxC ERG and conventional 30-Hz flicker ERG were recorded on the same visits .
+RESULTS	Usher syndrome subjects showed considerable cone flicker ERG amplitude losses and timing phase delays ( P < 0.01 ) compared with controls .
+RESULTS	USH1 and USH2 had similar rates of progressive logarithmic ERG amplitude decline with disease duration ( -0.012 log V/y ) .
+RESULTS	Of interest , ERG phase delays did not progress over time .
+RESULTS	Two USH1C subjects retained normal response timing despite reduced amplitudes .
+RESULTS	The CxC ERG method provided reliable responses in all subjects , whereas conventional ERG was undetectable in 7 of 42 subjects .
+CONCLUSIONS	Cycle-by-cycle ERG showed progressive loss of amplitude in both USH1 and USH2 subjects , comparable to that reported with psychophysical measures .
+CONCLUSIONS	Usher subjects showed abnormal ERG response latency , but this changed less than amplitude with time .
+CONCLUSIONS	In USH syndrome , CxC ERG is more sensitive than conventional ERG and warrants consideration as an outcome measure in USH treatment trials .
+

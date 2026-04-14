@@ -1,0 +1,14 @@
+25084967
+BACKGROUND	The in utero environment is known to affect fetal development however many of the mechanisms by which this occurs remain unknown .
+BACKGROUND	The aim of this study was to examine the association between maternal dietary macronutrient intake and lifestyle throughout pregnancy and neonatal weight and adiposity .
+METHODS	This was an analysis of 542 mother and infant pairs from the ROLO study ( Randomised cOntrol trial of LOw glycaemic index diet versus no dietary intervention to prevent recurrence of fetal macrosomia ) .
+METHODS	Food diaries as well as food frequency and lifestyle and physical activity questionnaires were completed during pregnancy .
+METHODS	Maternal anthropometry was measured throughout pregnancy and neonatal anthropometry was measured at birth .
+RESULTS	Multiple linear regression analysis revealed the main maternal factor associated with increased birth weight was greater gestational weight gain R2adj 23.3 % ( F = 11.547 , p < 0.001 ) .
+RESULTS	The main maternal factor associated with increased birth length was non-smoking status R2adj 27.8 % ( F = 6.193 , p < 0.001 ) .
+RESULTS	Neonatal central adiposity ( determined using waist : length ratio ) was negatively associated with maternal age , and positively associated with the following parameters : smoking status , maternal pre-pregnancy arm circumference , percentage energy from saturated fat in late pregnancy , postprandial glucose at 28 weeks gestation and membership of the control group with a positive trend towards association with trimester 2 glycaemic load R2adj 38.1 % ( F = 8.000 , p < 0.001 ) .
+CONCLUSIONS	Several maternal diet and lifestyle factors were associated with neonatal anthropometry .
+CONCLUSIONS	Low glycaemic index dietary intervention in pregnancy was found to have a beneficial effect on neonatal central adiposity .
+CONCLUSIONS	Additionally , central adiposity was positively associated with maternal dietary fat intake and postprandial glucose highlighting the important role of healthy diet in pregnancy in promoting normal neonatal adiposity .
+BACKGROUND	Current Controlled Trials ISRCTN54392969 .
+

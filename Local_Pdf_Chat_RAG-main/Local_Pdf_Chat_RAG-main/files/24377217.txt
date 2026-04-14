@@ -1,0 +1,15 @@
+24377217
+OBJECTIVE	To observe the impacts on post-stroke spastic hemiplegia treated with temporal three-needle therapy , spastic three-needle therapy , and rehabilitative therapy as well as combined application .
+METHODS	One hundred cases were randomized into a Jin 's three-needle group ( 35 cases ) , a rehabilitation group ( 33 cases ) and a combined therapy group ( 32 cases ) .
+METHODS	Beside the basic treatment , the acupuncture therapy of temporal three-needle and spastic three-needle techniques , rehabilitation training , and the combined therapy of acupuncture and rehabilitation were applied in the Jin 's three-needle group , the rehabilitation group and the combined therapy group , respectively .
+METHODS	Before treatment , in 7 days and 14 days of treatment , the functional comprehensive assessment scale ( FCA ) , clinical neurological defect score ( NDS ) , four-limb simplified Fugl-Meyer assessment ( FMA ) and clinical spasm index ( CSI ) were adopted to assess the spastic degree and limb function , respectively .
+RESULTS	In terms of FCA , NDS and FMA , in 7 days of treatment , except the rehabilitation group , the results in the other two groups were all improved as compared with those before treatment ( all P < 0.05 ) .
+RESULTS	The results in the Jin 's three-needle group and the combined therapy group were better than those in the rehabilitation group ( all P < 0.05 ) .
+RESULTS	In 14 days of treatment , the results in the three groups were improved as compared with those before treatment and in 7 days of treatment ( P < 0.05 , P < 0.01 ) .
+RESULTS	The results in the combined therapy group were better than those in the other two groups ( all P < 0.05 ) .
+RESULTS	Regarding CSI assessment , in 7 days of treatment , the results of the three groups were all improved significantly as compared with those before treatment ( P < 0.05 , P < 0.01 ) , and the results in the combined therapy group were better than those in the other two groups ( all P < 0.05 ) .
+RESULTS	In 14 days of treatment , CSI scores were further improved in the three groups , but the difference was not significant in comparison ( all P > 0.05 ) .
+CONCLUSIONS	The Jin 's three-needle therapy , rehabilitation therapy and the combined application all relieve the symptoms of post-stroke spastic hemiplegia .
+CONCLUSIONS	The effect in the Jin 's three-needle group and the combined therapy group is achieved in 7 days of treatment , which is better than that in the rehabilitation group .
+CONCLUSIONS	The combined therapy a chieves the best effect on spasm in comparison with the single therapy .
+

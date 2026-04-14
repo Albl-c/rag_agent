@@ -1,0 +1,11 @@
+25425394
+OBJECTIVE	To characterize the variability in exposure and metabolic effect of insulin glargine 300U/ml ( Gla-300 ) at steady state in people with type 1 diabetes ( T1DM ) .
+METHODS	A total of 50 participants with T1DM underwent two 24-h euglycaemic clamps in steady-state conditions after six once-daily administrations of 0.4 U/kg Gla-300 in a double-blind , randomized , two-treatment , two-period , crossover clamp study .
+METHODS	Participants were randomized to receive Gla-300 as a standard cartridge formulation in the first treatment period , and as a formulation with enhanced stability through polysorbate-20 addition in the second treatment period , or vice versa .
+METHODS	This design allowed the assessment of bioequivalence between formulations and , subsequently , within - and between-day variability .
+RESULTS	The cumulative exposure and effect of Gla-300 developed linearly over 24h , and were evenly distributed across 6 - and 12-h intervals .
+RESULTS	Diurnal fluctuation in exposure ( within-day variability ) was low ; the peak-to-trough ratio of insulin concentration profiles was < 2 , and both the swing and peak-to-trough fluctuation were < 1 .
+RESULTS	Day-to-day reproducibility of exposure was high : the between-day within-subject coefficients of variation for total systemic exposure ( area under the serum insulin glargine concentration time curve from time 0 to 24h after dosing ) and maximum insulin concentration were 17.4 % [ 95 % confidence interval ( CI ) 15-21 ] and 33.4 % ( 95 % CI 28-41 ) , respectively .
+RESULTS	Reproducibility of the metabolic effect was lower than that of exposure .
+CONCLUSIONS	Gla-300 provides predictable , evenly distributed 24-h coverage as a result of low fluctuation and high reproducibility in insulin exposure , and appears suitable for effective basal insulin use .
+

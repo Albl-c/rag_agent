@@ -1,0 +1,16 @@
+25240140
+BACKGROUND	The efficacy of psychodynamic therapy ( PDT ) for depression is debated due to a paucity of high-quality studies .
+BACKGROUND	We compared short psychodynamic supportive psychotherapy ( SPSP ) to cognitive behavioral therapy ( CBT ) in a randomized clinical trial .
+BACKGROUND	We used therapist-rated outcomes to examine how the course of change during treatment could be best represented and to compare treatment efficacy , hypothesizing non-significant differences .
+METHODS	Three hundred and forty-one adults meeting DSM-IV criteria for a depressive episode and with Hamilton Depression Rating Scale ( HAM-D ) scores 14 were randomized to 16 sessions of individual manualized CBT or SPSP .
+METHODS	Severely depressed patients ( HAM-D > 24 ) received additional antidepressant medication .
+METHODS	After each session , therapists rated the Clinical Global Impression Scale subscales ` Severity of Illness ' ( CGI-S ) and ` Global Improvement ' ( CGI-I ) , and the DSM-IV Axis V Global Assessment of Functioning Scale ( GAF ) .
+METHODS	We fitted growth curves using mixed model analyses with intention-to-treat samples .
+RESULTS	CGI-S and GAF scores during treatment were best represented by a linear symptom decrease .
+RESULTS	CGI-I scores were best represented by an S-shaped curve with relative more improvement in the first and last phases than in the middle phase of treatment .
+RESULTS	No significant post-treatment treatment differences were found .
+RESULTS	A non-significant trend for a treatment effect on CGI-S scores vanished when controlling for therapist gender and profession .
+CONCLUSIONS	Therapists were not specifically trained for CGI and GAF assessments .
+CONCLUSIONS	These findings add to the evidence-base of PDT for depression .
+CONCLUSIONS	Therapist characteristics and differences between severity and improvement measures might influence ratings and need to be taken into account when using therapist-rated outcome measures .
+

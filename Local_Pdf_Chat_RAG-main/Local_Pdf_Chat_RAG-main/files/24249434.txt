@@ -1,0 +1,12 @@
+24249434
+BACKGROUND	The aim of this research was to compare the pharmacodynamics of the combination of mitiglinide and sitagliptin to that of each agent alone in Korean patients with type 2 diabetes mellitus ( T2DM ) .
+METHODS	Patients with T2DM received mitiglinide alone , sitagliptin alone , or both drugs together in randomized sequence .
+METHODS	A meal tolerance test ( MTT ) was conducted for each group , and plasma concentrations of glucose , insulin , C-peptide , glucagon , and intact glucagon-like peptide-1 , and dipeptidyl peptidase-4 activity were measured from 2 h before breakfast through 4 h after breakfast on day 0 ( pretreatment ) and day 1 ( posttreatment ) of each treatment period .
+METHODS	Integrated values of these pharmacodynamic variables were analyzed for changes from pretreatment to posttreatment and for differences between the three treatment groups .
+RESULTS	Twenty-six patients with glycated hemoglobin A1c level of 7.4 % 0.6 % , fasting plasma glucose concentration of 141 22 mg/dL , postprandial plasma glucose ( PPG ) concentration of 264 48 mg/dL 1 h after the MTT , and diabetes duration of 3.0 3.1 years ( mean SD ) were included in the study .
+RESULTS	Compared with mitiglinide or sitagliptin alone , the combination treatment lowered PPG additively ( P < 0.001 vs. mitiglinide or sitagliptin alone ) and the insulin secretory response ( P = 0.03 vs. mitiglinide or sitagliptin alone ) .
+RESULTS	The integrated insulin concentrations changed significantly from before to after treatment ( P < 0.01 ) , but the change did not differ between the combination and mitiglinide groups .
+RESULTS	The insulinogenic index increased significantly after the combination treatment ( P < 0.001 vs. mitiglinide or sitagliptin alone ) .
+RESULTS	The combination of mitiglinide and sitagliptin was generally well tolerated , with no hypoglycemic events .
+CONCLUSIONS	The combination of mitiglinide and sitagliptin did not trigger hypoglycemia and controlled postprandial glucose excursion more effectively compared with either drug alone .
+

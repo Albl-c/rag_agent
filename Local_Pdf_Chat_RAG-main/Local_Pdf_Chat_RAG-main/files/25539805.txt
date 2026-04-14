@@ -1,0 +1,15 @@
+25539805
+BACKGROUND	Rheumatoid Arthritis ( RA ) is one of the most common autoimmune diseases , affecting approximately 1 % of the UK adult population .
+BACKGROUND	Patients suffer considerable pain , stiffness and swelling and can sustain various degrees of joint destruction , deformity , and significant functional decline .
+BACKGROUND	In addition , the economic burden due to hospitalisation and loss of employment is considerable , with over 50 % of patients being work-disabled within 10years of diagnosis .
+BACKGROUND	Despite several biologic disease modifying anti-rheumatic drugs ( bDMARD ) now available , there is a lack of data to guide biologic sequencing .
+BACKGROUND	In the UK , second-line biologic treatment is restricted to a single option , rituximab .
+BACKGROUND	The aim of the SWITCH trial is to establish whether an alternative-mechanism-TNF-inhibitor ( TNFi ) or abatacept are as effective as rituximab in patients with RA who have failed an initial TNFi drug .
+METHODS	SWITCH is a pragmatic , phase IV , multi-centre , parallel-group design , open-label , randomised , controlled trial ( RCT ) comparing alternative-mechanism-TNFi and abatacept with rituximab in patients with RA who have failed an initial TNFi drug .
+METHODS	Participants are randomised in a 1:1:1 ratio to receive alternative mechanism TNFi , ( monoclonal antibodies : infliximab , adalimumab , certolizumab or golimumab or the receptor fusion protein , etanercept ) , abatacept or rituximab during the interventional phase ( from randomisation up to week 48 ) .
+METHODS	Participants are subsequently followed up to a maximum of 96weeks , which constitutes the observational phase .
+METHODS	The primary objective is to establish whether an alternative-mechanism-TNFi or abatacept are non-inferior to rituximab in terms of disease response at 24weeks post randomisation .
+METHODS	The secondary objectives include the comparison of alternative-mechanism-TNFi and abatacept to rituximab in terms of disease response , quality of life , toxicity , safety and structural and bone density outcomes over a 12-month period ( 48weeks ) and to evaluate the cost-effectiveness of switching patients to alternative active therapies compared to current practice .
+CONCLUSIONS	SWITCH is a well-designed trial in this therapeutic area that aims to develop a rational treatment algorithm to potentially inform personalised treatment regimens ( as opposed to switching all patients to only one available ( and possibly unsuccessful ) therapy ) , which may lead to long-term improved patient outcomes and gains in population health .
+BACKGROUND	UKCRN Portfolio ID : 12343 ; ISRCTN89222125 ; NCT01295151 .
+

@@ -1,0 +1,17 @@
+24668250
+OBJECTIVE	The goal of this work was to evaluate the long-term efficacy of two dose-fractionation schedules for radiotherapy of calcaneodynia .
+METHODS	Between February 2006 and February 2010 , 457 evaluable patients were recruited for this prospective trial .
+METHODS	All patients received orthovoltage radiotherapy .
+METHODS	One course consisted of 6 fractions/3 weeks .
+METHODS	In case of insufficient remission of pain after 6 weeks a second series was performed .
+METHODS	Patients were randomly assigned to receive either single doses of 0.5 or 1.0 Gy .
+METHODS	Endpoint was pain reduction .
+METHODS	Pain was measured before , right after ( early response ) , 6 weeks ( delayed response ) , and approximately 2.5 years after radiotherapy ( long-term response ) with a questionnaire-based visual analogue scale ( VAS ) and a comprehensive pain score ( CPS ) .
+RESULTS	The median follow-up was 32 months ( range 9-57 months ) .
+RESULTS	The overall early , delayed , and long-term response rates for all patients were 87 , 88 , and 95 % .
+RESULTS	The mean VAS values before treatment , for early , delayed , and long-term response for the 0.5 and 1.0 Gy groups were 65.522.1 and 64.020.5 ( p = 0.19 ) , 34.824.7 and 39.026.3 ( p = 0.12 ) , 25.126.8 and 28.926.8 ( p = 0.16 ) , and 16.324.3 and 14.119.7 ( p = 0.68 ) .
+RESULTS	The mean CPS values before treatment , for early , delayed , and log-term response were 10.12.7 and 10.03.0 ( p = 0.78 ) , 5.63.7 and 6.03.9 ( p = 0.34 ) , 4.04.1 and 4.33.6 ( p = 0.26 ) , and 2.13.3 and 2.33.2 ( p = 0.34 ) , respectively .
+RESULTS	No significant differences in long-term response quality between the two arms were found ( p = 0.50 ) .
+CONCLUSIONS	Radiotherapy is a very effective treatment for the management of benign calcaneodynia .
+CONCLUSIONS	For radiation protection reasons , the dose for a RT series should not exceed 3.0 Gy .
+

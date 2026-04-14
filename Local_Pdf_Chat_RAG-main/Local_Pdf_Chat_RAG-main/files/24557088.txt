@@ -1,0 +1,14 @@
+24557088
+BACKGROUND	Preclinical studies support the hypothesis that endogenous neuroactive steroids mediate some effects of alcohol .
+OBJECTIVE	The aim of this study was to examine the effect of dutasteride inhibition of 5-reduced neuroactive steroid production on subjective responses to alcohol in adult men .
+METHODS	Using a within-subject factorial design , 70 men completed four randomly ordered monthly sessions in which pretreatment with 4 mg dutasteride or placebo was paired with a moderate dose of alcohol ( 0.8 g/kg ) or placebo beverage .
+METHODS	The pharmacologic effect of dutasteride was measured by an assay of serum androstanediol glucuronide .
+METHODS	Self-reports of alcohol effects were obtained at 40-min intervals following alcohol administration using the Biphasic Alcohol Effects Scale ( BAES ) and the Alcohol Sensation Scale ( SS ) .
+METHODS	We used linear mixed models to examine the effects of dutasteride and alcohol on BAES and SS responses and the interaction of dutasteride with the GABRA2 alcohol dependence-associated polymorphism rs279858 .
+METHODS	We also examined whether exposure to dutasteride influenced drinking in the weeks following each laboratory session .
+RESULTS	A single 4-mg dose of dutasteride produced a 70 % reduction in androstanediol glucuronide .
+RESULTS	Dutasteride pretreatment reduced alcohol effects on the BAES sedation and SS anesthesia scales .
+RESULTS	There was no interaction of dutasteride with rs279858 .
+RESULTS	Heavy drinkers had fewer heavy drinking days during the 2 weeks following the dutasteride sessions and fewer total drinks in the first week after dutasteride .
+CONCLUSIONS	These results provide evidence that neuroactive steroids mediate some of the sedative effects of alcohol in adult men and that dutasteride may reduce drinking , presumably through its effects on neuroactive steroid concentrations .
+

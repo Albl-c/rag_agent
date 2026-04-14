@@ -1,0 +1,12 @@
+24534120
+OBJECTIVE	To determine if concomitant CT-guided biopsy and percutaneous fiducial seed placement in the lung can be performed in a selective patient population without increased complication or decreased success rates compared to either procedure alone .
+METHODS	An IRB approved retrospective analysis of 285 consecutive patients that underwent CT-guided placement of fiducial seeds in the lung alone ( N = 63 ) , with concomitant core biopsy ( N = 53 ) or only core biopsy ( N = 169 ) was performed .
+METHODS	Variables compared included : patient demographics , lesion size , depth from pleura , needle size , number of passes through pleura , number and size of core biopsies , number of seeds placed and technical success rates .
+METHODS	Statistical analysis was performed using univariate and multivariate pair-wise comparisons .
+RESULTS	A pathologic diagnosis of malignancy was confirmed in all cases undergoing seed placement alone and seed placement with concurrent biopsy , and in 144 of the biopsy alone lesions .
+RESULTS	On univariate analysis , major complication rates were similar for all three groups as were lesion size , depth , number of pleural passes , and technical success .
+RESULTS	Pair-wise comparisons of the remaining variables demonstrated a significant younger age and smaller needle size in the biopsy only group , and less minor complications in the fiducial only group .
+RESULTS	Overall there were 80/285 ( 28.1 % ) minor and 29/285 ( 10.2 % ) major complications .
+RESULTS	All major complications leading to admission consisted of either pneumothorax or hemothorax , while minor complications included asymptomatic stable or resolving pneumothoraces , transient hemoptysis or small hemothoraces .
+CONCLUSIONS	A combined procedure of percutaneous pulmonary core biopsy and stereotactic seed placement can be performed without additional risk of a major complication when compared to performing these separately .
+

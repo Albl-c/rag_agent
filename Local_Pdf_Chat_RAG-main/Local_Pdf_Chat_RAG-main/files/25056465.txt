@@ -1,0 +1,13 @@
+25056465
+OBJECTIVE	To compare two incision angles ( 60 vs 40 ) of mediolateral episiotomy in primiparous Egyptian women , regarding the incidence of anal sphincter injury as well as episiotomy-related pain and dyspareunia .
+METHODS	The current prospective randomized controlled trial ( ClinicalTrials.gov , NCT01930721 ) was conducted at Ain Shams University Maternity Hospital .
+METHODS	Eligible women were randomized into two groups : group 1 included women who had the episiotomy incision made at an angle of 60 to the midline ; and group 2 included women who had the episiotomy incision made at an angle of 40 to the midline .
+METHODS	Primary outcome measures were differences in short-term related pain and rate of third/fourth degree perineal tears .
+RESULTS	A total of 330 primiparous women were recruited .
+RESULTS	The shortest distance to the outer edge of the anal epithelium was significantly shorter in women of group 2 when compared to that in women of group 1 .
+RESULTS	Out of the included 330 women , 13 ( 4 % ) had third/fourth-degree perineal tears ( 4 [ 2.4 % ] in group 1 in contrast to nine [ 5.5 % ] in group 2 ) .
+RESULTS	This difference was not significant A 60-angled mediolateral episiotomy was associated with significantly higher rates of moderate/severe episiotomy-related pain post-partum .
+RESULTS	The rates of moderate/severe episiotomy-related pain and dyspareunia assessed 6 months post-partum were also higher among women of group 1 , when compared to group 2 ; the latter two differences did not reach statistical significance , however .
+CONCLUSIONS	When compared to the 40-angled mediolateral episiotomies , 60-angled ones were associated with significantly higher short-term-related pain .
+CONCLUSIONS	Although they were also associated with lower rate of third/fourth-degree perineal tears and higher rate of long-term related pain and dyspareunia , these differences did not reach a statistically significant level .
+

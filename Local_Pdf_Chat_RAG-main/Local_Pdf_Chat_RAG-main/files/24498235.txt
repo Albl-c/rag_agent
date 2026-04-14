@@ -1,0 +1,14 @@
+24498235
+OBJECTIVE	To examine herpes simplex virus 2 ( HSV-2 ) / HIV co-infection as a contributing factor in the increase in HIV infection among non-injecting heroin and cocaine users in New York City .
+METHODS	Subjects were recruited from the Beth Israel Medical Center drug detoxification and methadone maintenance programs in New York City in 1995-1999 and 2005-2011 .
+METHODS	All reported current heroin and/or cocaine use and no injection drug use .
+METHODS	A structured questionnaire was administered and serum samples collected for HIV and HSV-2 testing .
+METHODS	Population-attributable risk percentages ( PAR % s ) were estimated for associations between HSV-2 and increased susceptibility to and increased transmissibility of HIV among female NIDUs .
+RESULTS	785 subjects were recruited from 1995-1999 , and 1764 subjects from 2005-2011 .
+RESULTS	HIV prevalence increased from 7 % to 13 % , with nearly uniform increases among all demographic subgroups .
+RESULTS	HSV-2 / HIV co-infection was common in both time periods , with an average ( over the two time periods ) of 80 % of HIV negative females infected with HSV-2 , an average of 43 % of HIV negative males infected with HSV-2 ; an average of 97 % of HIV positive females also infected with HSV-2 and an average of 67 % of HIV positive males also infected with HSV-2 .
+RESULTS	The increase in HIV prevalence was predominantly an increase in HSV-2 / HIV co-infection , with relatively little HIV mono-infection in either time period .
+RESULTS	The estimated PAR % s indicate that approximately half of HIV acquisition among females was caused by HSV-2 infection and approximately 60 % of HIV transmission from females was due to HSV-2 co-infection .
+CONCLUSIONS	The increase in HIV infection among these non-injecting drug users is better considered as an increase in HSV-2 / HIV co-infection rather than simply an increase in HIV prevalence .
+CONCLUSIONS	Additional interventions ( such as treatment as prevention and suppressing the effects of HSV-2 on HIV transmission ) are needed to reduce further HIV transmission from HSV-2 / HIV co-infected non-injecting drug users .
+

@@ -1,0 +1,17 @@
+25201887
+BACKGROUND	n-3 fatty acids inhibit neuronal excitability and reduce seizures in animal models .
+BACKGROUND	High-dose fish oil has been explored in two randomised trials in drug resistant epilepsy with negative results .
+BACKGROUND	We performed a phase II randomised controlled crossover trial of low-dose and high-dose fish oil in participants with drug resistant epilepsy to explore whether low-dose or high-dose fish oil reduces seizures or improves cardiovascular health .
+METHODS	Randomised placebo-controlled trial of low-dose and high-dose fish oil versus placebo ( corn oil , linoleic acid ) in 24 participants with drug resistant epilepsy .
+METHODS	A three-period crossover design was utilised lasting 42weeks , with three 10-week treatment periods and two 6-week washout periods .
+METHODS	All participants were randomised in double-blind fashion to receive placebo , high dose or low dose in different sequences .
+METHODS	The primary outcome was per cent change in total seizure frequency .
+RESULTS	Low-dose fish oil ( 3 capsules/day , 1080mg eicosapentaenoic acid + docosahexaenoic acid ) was associated with a 33.6 % reduction in seizure frequency compared with placebo .
+RESULTS	Low-dose fish oil was also associated with a mild but significant reduction in blood pressure .
+RESULTS	High-dose fish oil was no different than placebo in reducing seizures or improving cardiac risk factors .
+CONCLUSIONS	In this phase II randomised crossover trial , low-dose fish oil was effective in reducing seizures compared with placebo .
+CONCLUSIONS	The magnitude of improvement is similar to that of recent antiepileptic drug trials in drug resistant epilepsy ( DRE ) .
+CONCLUSIONS	The results indicate that low-dose fish oil may reduce seizures and improve the health of people with epilepsy .
+CONCLUSIONS	These findings justify a large multicentre randomised trial of low-dose fish oil ( n-3 fatty acids < 1080mg/day ) in drug resistant epilepsy .
+BACKGROUND	NCT00871377 .
+

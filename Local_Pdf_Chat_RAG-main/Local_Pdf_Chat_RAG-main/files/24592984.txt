@@ -1,0 +1,11 @@
+24592984
+BACKGROUND	Owing to their potential to act as estrogen receptor modulators and interfere with aromatase enzyme in animal studies , phytoestrogens ( PE ) may be useful as part of ovulation induction for polycystic ovary syndrome ( PCOS ) .
+METHODS	Patients < 35 years , presenting with infertility and PCOS , were included and randomly allocated to either group I ( clomiphene citrate ; CC ) or group II ( CC plus Cimicifugae racemosae ; CR ) .
+METHODS	Primary outcome was pregnancy rate .
+METHODS	Secondary outcomes included ovulation , midcycle serum estradiol and luteinizing hormone ( LH ) as well as mid-luteal serum progesterone .
+RESULTS	Analysis included 98 patients in group I versus 96 patients in group II .
+RESULTS	Both groups were matched regarding demographics and basic data .
+RESULTS	Significant differences were elicited when comparing days until HCG injection ( 15.0 1.7 versus 12.0 1.9 , p = 0.91 ) , endometrial thickness ( mm ) ( 8.5 1.9 versus 12.5 1.9 , p < 0.001 ) , serum levels of mid-luteal and midcycle estradiol ( p < 0.001 ; Figure 2 ) , LH ( IU/ml ) ( p < 0.001 ) as well as mid-luteal progesterone ( p < 0.001 ) .
+RESULTS	PE plus CC group had significantly higher clinical pregnancies per cycle ( 33/192 ( 17.2 % ) versus 71/204 ( 34.8 % ) , p < 0.01 ) , compared to the CC only group .
+CONCLUSIONS	Adding CR to clomiphene-induction cycles with timed intercourse in polycystic ovarian syndrome improves cycle outcomes and pregnancy rates .
+

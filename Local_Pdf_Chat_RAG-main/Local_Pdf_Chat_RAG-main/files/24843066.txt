@@ -1,0 +1,17 @@
+24843066
+BACKGROUND	Adolescents with chronic disease ( ACD ) must develop independent disease self-management and learn to communicate effectively with their health care team to transition from pediatric to adult-oriented health care systems .
+BACKGROUND	Disease-specific interventions have been implemented to aid specific ACD groups through transition .
+BACKGROUND	A generic approach might be effective and cost-saving .
+METHODS	Eighty-one ACD , aged 12 to 20 years , were recruited for a randomized clinical trial evaluating an 8-month transition intervention ( MD2Me ) .
+METHODS	MD2Me recipients received a 2-month intensive Web-based and text-delivered disease management and skill-based intervention followed by a 6-month review period .
+METHODS	MD2Me recipients also had access to a texting algorithm for disease assessment and health care team contact .
+METHODS	The intervention was applicable to adolescents with diverse chronic illnesses .
+METHODS	Controls received mailed materials on general health topics .
+METHODS	Disease management , health-related self-efficacy , and health assessments were performed at baseline and at 2 and 8 months .
+METHODS	Frequency of patient-initiated communications was recorded over the study period .
+METHODS	Outcomes were analyzed according to assigned treatment group over time .
+RESULTS	MD2Me recipients demonstrated significant improvements in performance of disease management tasks , health-related self-efficacy , and patient-initiated communications compared with controls .
+CONCLUSIONS	Outcomes in ACD improved significantly among recipients of a generic , technology-based intervention .
+CONCLUSIONS	Technology can deliver transition interventions to adolescents with diverse chronic illnesses , and a generic approach offers a cost-effective means of positively influencing transition outcomes .
+CONCLUSIONS	Further research is needed to determine whether improved short-term outcomes translate into an improved transition for ACD .
+

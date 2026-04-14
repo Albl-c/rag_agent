@@ -1,0 +1,12 @@
+24995901
+BACKGROUND	Residual inhibition ( RI ) is the temporary inhibition of tinnitus by use of masking stimuli when the device is turned off .
+OBJECTIVE	The main aim of this study was to evaluate the effects of RI induced by auditory electrical stimulation ( AES ) in the primary auditory pathways using early auditory-evoked potentials ( AEPs ) in subjective idiopathic tinnitus ( SIT ) subjects .
+METHODS	A randomized placebo-controlled study was conducted on forty-four tinnitus subjects .
+METHODS	All enrolled subjects based on the responses to AES , were divided into two groups of RI and Non-RI ( NRI ) .
+METHODS	The results of the electrocochleography ( ECochG ) , auditory brain stem response ( ABR ) and brain stem transmission time ( BTT ) were determined and compared pre - and post-AES in the studied groups .
+RESULTS	The mean differences in the compound action potential ( CAP ) amplitudes and III/V and I/V amplitude ratios were significantly different between the RI , NRI and PES controls .
+RESULTS	BTT was significantly decreased associated with RI .
+CONCLUSIONS	The observed changes in AEP associated with RI suggested some peripheral and central auditory alterations .
+CONCLUSIONS	Synchronized discharges of the auditory nerve fibers and inhibition of the abnormal activity of the cochlear nerve by AES may play important roles associated with RI .
+CONCLUSIONS	Further comprehensive studies are required to determine the mechanisms of RI more precisely .
+

@@ -1,0 +1,13 @@
+24462043
+OBJECTIVE	Reduction of cardiovascular risk with high consumption of fish in diet is still a matter of debate , and concerns about heavy metal contamination have limited consumption of oily fish .
+OBJECTIVE	We aimed to evaluate the effect of regular ingestion of white fish on cardiovascular risk factors in patients with metabolic syndrome .
+RESULTS	Multicenter randomized crossover clinical trial including 273 individuals with metabolic syndrome .
+RESULTS	An 8-week only-one dietary intervention : 100 g/d of white fish ( Namibia hake ) with advice on a healthy diet , compared with no fish or seafood with advice on a healthy diet .
+RESULTS	Outcomes were lipid profile , individual components of the metabolic syndrome , serum insulin concentrations , homeostasis model of insulin resistance , serum C-reactive protein and serum fatty acid levels .
+RESULTS	We found a significant lowering effect of the intervention with white fish on waist circumference ( P < 0.001 ) and diastolic blood pressure ( P = 0.014 ) .
+RESULTS	A significant lowering effect was also shown after the dietary intervention with fish on serum LDL concentrations ( P = 0.048 ) , whereas no significant effects were found on serum HDL or triglyceride concentrations .
+RESULTS	A significant rise ( P < 0.001 ) in serum EPA and DHA fatty acids was observed following white fish consumption .
+RESULTS	Overall adherence to the intervention was good and no adverse events were found .
+CONCLUSIONS	In individuals with metabolic syndrome , regular consumption of hake reduces LDL cholesterol concentrations , waist circumference and blood pressure components of the metabolic syndrome .
+BACKGROUND	White Fish for Cardiovascular Risk Factors in Patients with Metabolic Syndrome Study , Registered under ClinicalTrials.gov Identifier : NCT01758601 .
+

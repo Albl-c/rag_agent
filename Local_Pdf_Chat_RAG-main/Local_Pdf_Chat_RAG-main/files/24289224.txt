@@ -1,0 +1,12 @@
+24289224
+OBJECTIVE	Tofacitinib is a novel , oral Janus kinase inhibitor being investigated for psoriasis .
+OBJECTIVE	This study assessed the relationship between pruritus and clinical signs of psoriasis ( assessed by Physician 's Global Assessment [ PGA ] ) in patients with moderate-to-severe chronic plaque psoriasis receiving tofacitinib .
+METHODS	In this 16-week ( 12-week treatment period , 4-week observation period ) , double-blind , placebo-controlled , phase IIb study ( NCT00678210 ) , 197 patients were randomized to tofacitinib 2 , 5 or 15 mg BID , or placebo .
+METHODS	Pruritus was patient assessed using the Itch Severity Score ( ISS ) , a 0-10 ( 10 = worst itching ) rating scale recorded daily from baseline to week 2 and at study visits .
+METHODS	Mediation modeling was used to determine relationships between ISS ( average score weeks 2-12 ) , PGA ( average score weeks 2-12 ) and treatment groups .
+RESULTS	Mediation analysis showed that 70.2-80 .5 % ( p < 0.001 versus placebo ) of tofacitinib 's effect on pruritus was direct , and mostly independent of improvements in erythema , induration and scaling .
+RESULTS	ISS measurements had acceptable test-retest reliability .
+RESULTS	Correlation analyses with clinical outcomes supported the validity of the ISS as a pruritus measure .
+CONCLUSIONS	Tofacitinib has a direct , beneficial effect on patient-reported pruritus independent from improvements in clinician-reported psoriasis severity signs .
+CONCLUSIONS	The ISS demonstrated favorable psychometric characteristics , supporting its use as a pruritus assessment tool .
+

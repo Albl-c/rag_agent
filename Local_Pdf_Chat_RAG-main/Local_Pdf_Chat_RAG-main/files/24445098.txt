@@ -1,0 +1,10 @@
+24445098
+OBJECTIVE	We investigated 3 approaches for implementing the Chronic Care Model to improve diabetes care : ( 1 ) practice facilitation over 6 months using a reflective adaptive process ( RAP ) approach ; ( 2 ) practice facilitation for up to 18 months using a continuous quality improvement ( CQI ) approach ; and ( 3 ) providing self-directed ( SD ) practices with model information and resources , without facilitation .
+METHODS	We conducted a cluster-randomized trial , called Enhancing Practice , Improving Care ( EPIC ) , that compared these approaches among 40 small to midsized primary care practices .
+METHODS	At baseline and 9 months and 18 months after enrollment , we assessed practice diabetes quality measures from chart audits and Practice Culture Assessment scores from clinician and staff surveys .
+RESULTS	Although measures of the quality of diabetes care improved in all 3 groups ( all P < .05 ) , improvement was greater in CQI practices compared with both SD practices ( P < .0001 ) and RAP practices ( P < .0001 ) ; additionally , improvement was greater in SD practices compared with RAP practices ( P < .05 ) .
+RESULTS	In RAP practices , Change Culture scores showed a trend toward improvement at 9 months ( P = .07 ) but decreased below baseline at 18 months ( P < .05 ) , while Work Culture scores decreased from 9 to 18 months ( P < .05 ) .
+RESULTS	Both scores were stable over time in SD and CQI practices .
+CONCLUSIONS	Traditional CQI interventions are effective at improving measures of the quality of diabetes care , but may not improve practice change and work culture .
+CONCLUSIONS	Short-term practice facilitation based on RAP principles produced less improvement in quality measures than CQI or SD interventions and also did not produce sustained improvements in practice culture .
+

@@ -1,0 +1,13 @@
+24656221
+OBJECTIVE	Cognitive behaviour therapy ( CBT ) has been found to reduce the impact of menopausal symptoms , hot flushes and night sweats .
+OBJECTIVE	This study investigates the moderators and mediators of CBT for women who had problematic menopausal symptoms following breast cancer treatment .
+METHODS	Analysis of 96 patients with breast cancer induced menopausal symptoms recruited to the MENOS1 trial ; 47 were randomly assigned to Group CBT and 49 to usual care .
+METHODS	Questionnaires were completed at baseline , 9 and 26 weeks post randomisation .
+METHODS	Potential moderators and mediators , including sociodemographic , clinical and psychological factors , of the treatment effect on the primary outcome were examined .
+METHODS	Hot Flush Problem Rating .
+RESULTS	CBT was effective at reducing problem rating at 9 weeks regardless of age , BMI , time since breast cancer diagnosis , menopausal status at time of diagnosis , or type of cancer treatment ( radiotherapy or chemotherapy or endocrine treatment ) .
+RESULTS	The treatment effect was significantly greater in women not receiving chemotherapy , those with higher levels of psychological distress at baseline and for non-white women .
+RESULTS	Beliefs about control/coping with hot flushes were the main mediators of improvement in problem rating following CBT .
+RESULTS	Beliefs about hot flushes in a social context , depressed mood and sleep problems were also identified as mediators .
+CONCLUSIONS	These findings suggest that CBT is widely applicable for breast cancer patients who are experiencing treatment related menopausal symptoms , and that CBT works mainly by changing beliefs and improving mood and sleep .
+

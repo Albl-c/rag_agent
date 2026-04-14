@@ -1,0 +1,17 @@
+25112307
+BACKGROUND	Medication-overuse headache ( MOH ) is common in the general population .
+BACKGROUND	We investigated effectiveness of brief intervention ( BI ) for achieving drug withdrawal in primary care patients with MOH .
+METHODS	The study was double-blind , pragmatic and cluster-randomised controlled .
+METHODS	A total of 25,486 patients ( age 18-50 ) from 50 general practitioners ( GPs ) were screened for MOH .
+METHODS	GPs defined clusters and were randomised to receive BI training ( 23 GPs ) or to continue business as usual ( BAU ; 27 GPs ) .
+METHODS	The Severity of Dependence Scale was applied as a part of the BI .
+METHODS	BI involved feedback about individual risk of MOH and how to reduce overuse .
+METHODS	Primary outcome measures were reduction in medication and headache days/month 3 months after the intervention and were assessed by a blinded clinical investigator .
+RESULTS	42 % responded to the postal screening questionnaire , and 2.4 % screened positive for MOH .
+RESULTS	A random selection of up to three patients with MOH from each GP were invited ( 104 patients ) , 75 patients were randomised and 60 patients included into the study .
+RESULTS	BI was significantly better than BAU for the primary outcomes ( p < 0.001 ) .
+RESULTS	Headache and medication days were reduced by 7.3 and 7.9 ( 95 % CI 3.2 to 11.3 and 3.2 to 12.5 ) days/month in the BI compared with the BAU group .
+RESULTS	Chronic headache resolved in 50 % of the BI and 6 % of the BAU group .
+CONCLUSIONS	The BI method provides GPs with a simple and effective instrument that reduces medication-overuse and headache frequency in patients with MOH .
+BACKGROUND	NCT01314768 .
+

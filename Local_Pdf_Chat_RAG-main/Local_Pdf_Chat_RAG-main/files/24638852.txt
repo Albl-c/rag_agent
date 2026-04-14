@@ -1,0 +1,12 @@
+24638852
+BACKGROUND	Few clinical studies involving cigarettes have provided a comprehensive picture of smoke exposure , test article characterization , and insights into sensory properties combined .
+BACKGROUND	The purpose of these pilot studies was to determine whether cigarettes with different levels of nicotine but similar tar levels would affect sensory experience or smoking behavior so as to significantly alter levels of selected biomarkers of exposure ( BOE ) .
+METHODS	In 2 confined , double-blind studies , 120 adult smokers switched from Marlboro Gold cigarettes at baseline to either 1 of 2 lower nicotine cigarettes or 1 of 2 higher nicotine cigarettes and then to the other cigarette after 5 days .
+METHODS	Urinary excretion of exposure biomarkers ( nicotine equivalents [ NE ] , total and free 4 - ( methylnitrosamino ) -1 - ( 3-pyridyl ) -1 - butanol [ NNAL ] , 1-hydroxypyrene , and 3-hydroxypropyl mercapturic acid ) as well as carboxyhemoglobin and plasma cotinine were measured at baseline , Day 5 , and Day 10 .
+METHODS	Daily cigarette consumption was monitored and sensory characteristics were rated for each cigarette .
+RESULTS	With higher nicotine yield , urine NE , urine total NNAL , and plasma cotinine increased while nonnicotine BOE decreased without changes in cigarette consumption .
+RESULTS	In contrast , with lower nicotine yield , urine NE , urine total NNAL , and plasma cotinine dropped while nonnicotine BOE and cigarettes per day increased .
+RESULTS	Higher nicotine cigarettes were rated harsher and stronger than at baseline while lower nicotine cigarettes were less strong .
+RESULTS	All 4 test cigarettes were highly disliked .
+CONCLUSIONS	These studies demonstrate that abrupt increases or decreases in nicotine and the resulting sensory changes impact BOE through changes in intensity or frequency of smoking .
+

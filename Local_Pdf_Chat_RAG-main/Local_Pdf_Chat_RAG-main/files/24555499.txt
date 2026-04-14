@@ -1,0 +1,9 @@
+24555499
+OBJECTIVE	To determine optimum duration of intraurethral 2 % lidocaine jelly for pain relief during outpatient rigid cystoscopy .
+METHODS	This prospective randomized study was conducted between June 2012 and November 2013 .
+METHODS	Four hundred consecutive adult males requiring diagnostic rigid cystoscopy were randomized into four groups depending on intraurethral 2 % lidocaine jelly dwell time before rigid cystoscopy : jelly was instilled 5 , 10 , 15 , and 20 minutes before start of the procedure in group A , B , C , and D patients , respectively .
+METHODS	The patients ' age , patient-reported preoperative anxiety score , patient-reported intraoperative pain score , the surgeon-reported patient 's pain score , and the duration of rigid cystoscopy were recorded and analyzed .
+RESULTS	The mean age , patient-reported preoperative anxiety score , and duration of rigid cystoscopy were similar between the four groups with no significant difference noted between them .
+RESULTS	The least and highest mean patient-reported and surgeon-reported intraoperative pain scores were reported in group C ( 1.490.82 and 1.580.67 ) patients and group A ( 4.861.24 and 4.041.11 ) patients , respectively , while no significant difference was found in these scores between group C and D patients .
+CONCLUSIONS	For male patients undergoing diagnostic rigid cystoscopy , an intraurethral dwell time of 15 minutes ( of 20mL 2 % lidocaine jelly ) provided optimum pain relief .
+

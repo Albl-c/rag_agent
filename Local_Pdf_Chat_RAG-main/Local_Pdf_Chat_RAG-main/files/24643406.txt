@@ -1,0 +1,12 @@
+24643406
+OBJECTIVE	Most stroke rehabilitation studies have been performed in high-income countries .
+OBJECTIVE	The aim of this study was to identify the main barriers for patient inclusion in a research protocol performed in Brazil .
+METHODS	We evaluated reasons for exclusion of patients in a pilot , randomized , double-blinded clinical trial of stroke rehabilitation .
+METHODS	Descriptive statistical analysis was performed .
+RESULTS	Only 5.6 % of 571 screened patients were included .
+RESULTS	Recurrent stroke was responsible for exclusion of 45.4 % of potentially eligible patients .
+CONCLUSIONS	Recurrent stroke represented a big barrier to enroll patients in the protocol .
+CONCLUSIONS	External validity of rehabilitation trials will benefit from definition of study criteria according to regional characteristics of patients , including rates of recurrent stroke .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT01333579 .
+

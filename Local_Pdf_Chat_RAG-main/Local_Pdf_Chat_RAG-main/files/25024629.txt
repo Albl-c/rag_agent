@@ -1,0 +1,12 @@
+25024629
+OBJECTIVE	To determine the dose-related effects of a novel probiotic combination , I. 31 , on irritable bowel syndrome ( IBS ) - related quality of life ( IBS-QoL ) .
+METHODS	A multicenter , randomized , double-blind , placebo-controlled intervention clinical trial with three parallel arms was designed .
+METHODS	A total of 84 patients ( 53 female , 31 male ; age range 20-70 years ) with IBS and diarrhea according to Rome-III criteria were randomly allocated to receive one capsule a day for 6 wk containing : ( 1 ) I. 31 high dose ( n = 28 ) ; ( 2 ) I. 31 low dose ( n = 27 ) ; and ( 3 ) placebo ( n = 29 ) .
+METHODS	At baseline , and 3 and 6 wk of treatment , patients filled the IBSQoL , Visceral Sensitivity Index ( VSI ) , and global symptom relief questionnaires .
+RESULTS	During treatment , IBS-QoL increased in all groups , but this increment was significantly larger in patients treated with I. 31 than in those receiving placebo ( P = 0.008 ) .
+RESULTS	After 6 wk of treatment , IBS-QoL increased by 18 3 and 22 4 points in the high and the low dose groups , respectively ( P = 0.041 and P = 0.023 vs placebo ) , but only 9 3 in the placebo group .
+RESULTS	Gut-specific anxiety , as measured with VSI , also showed a significantly greater improvement after 6 wk of treatment in patients treated with probiotics ( by 10 2 and 14 2 points , high and low dose respectively , P < 0.05 for both vs 7 1 score increment in placebo ) .
+RESULTS	Symptom relief showed no significant changes between groups .
+RESULTS	No adverse drug reactions were reported following the consumption of probiotic or placebo capsules .
+CONCLUSIONS	A new combination of three different probiotic bacteria was superior to placebo in improving IBS-related quality of life in patients with IBS and diarrhea .
+

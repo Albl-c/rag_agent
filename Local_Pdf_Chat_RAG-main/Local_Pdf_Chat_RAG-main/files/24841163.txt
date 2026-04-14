@@ -1,0 +1,14 @@
+24841163
+BACKGROUND	Inhaled corticosteroids ( ICSs ) are widely used in asthma control .
+BACKGROUND	Ciclesonide ( CIC ) is an ICS with on-site lung activation for potent anti-inflammatory activity .
+OBJECTIVE	This study aimed to compare the clinical benefit of CIC with budesonide ( BUD ) in step-down therapy .
+METHODS	A total of 150 patients with mild-to-moderate asthma well controlled by a combination of ICS and long-acting 2-agonist were randomised to receive either CIC 320g ( n = 75 ) once daily or 2 inhalations of BUD 200g ( n = 75 ) twice daily for 12 weeks .
+METHODS	The forced expiratory volume in 1s ( FEV1 ) , maximum mid-expiratory flow ( MMEF ) and asthma control test ( ACT ) scores were measured .
+METHODS	Ranked stratification of patients and physicians was assessed .
+RESULTS	Drug adherence was significantly higher in the CIC group than in the BUD group ( 76.0 % vs. 58.7 % , P = 0.03 ) .
+RESULTS	The FEV1 and MMEF remained stable throughout the 12-week CIC treatment .
+RESULTS	In the BUD group , FEV1 significantly decreased at weeks 4 and 12 .
+RESULTS	MMEF had a higher value in the CIC group than in the BUD group .
+RESULTS	Both patients and physicians ranked CIC over BUD .
+CONCLUSIONS	CIC is more effective and has better drug adherence than BUD as step-down treatment when asthma is well controlled by combination therapy .
+

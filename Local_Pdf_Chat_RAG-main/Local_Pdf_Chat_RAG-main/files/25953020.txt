@@ -1,0 +1,15 @@
+25953020
+OBJECTIVE	Locoregional anesthesia is an effective method for evaluating cerebral function during carotid endarterectomy ( CEA ) .
+OBJECTIVE	Landmark-guided regional anesthesia ( RA ) is currently used for CEA and can provoke substantial perioperative hypertension .
+OBJECTIVE	Ultrasound-guided RA ( US-RA ) is a new method for performing RA in CEA ; however , the effect on sympathetic activity and blood pressure is uncertain .
+OBJECTIVE	This study assessed early sympathetic activity during CEA in US-RA compared with general anesthesia ( GA ) .
+METHODS	Patients were prospectively randomized to receive US-RA ( n = 32 ) or GA ( n = 28 ) for CEA .
+METHODS	The primary end point was the change in systolic arterial blood pressure after induction of anesthesia ( just before starting surgery ) comparing US-RA with GA. .
+METHODS	We also recorded heart rate and analyzed concentrations of plasma blood hormones , including cortisol , metanephrine , and normetanephrine at five different times .
+METHODS	Creatinine kinase , troponin I , and N-terminal pro-B-type natriuretic peptide were analyzed to detect potential changes in cardiac biomarkers during the procedure .
+RESULTS	Systolic arterial blood pressure ( mean standard deviation ) increased significantly in US-RA patients compared with GA patients even before surgery was initiated ( 180 26 mm Hg vs 109 24 mm Hg ; P < .001 ) , then remained elevated during the entire surgery and returned to baseline values 1 hour after admission to the postoperative anesthesia care unit .
+RESULTS	Heart rate ( US-RA : 78 16 beats/min , GA : 52 12 beats/min ; P < .001 ) and cortisol levels ( US-RA : 155 97 g/L , GA : 99 43 g/L ; P = .006 ) were also significantly higher in the US-RA group after induction of anesthesia .
+RESULTS	Other values did not differ .
+CONCLUSIONS	The US-RA technique for CEA induces temporary intraoperative hypertension and an increase in stress hormone levels .
+CONCLUSIONS	Nevertheless , US-RA is a feasible , effective , and safe form of locoregional for CEA that enables targeted placement of low volumes of local anesthesia under direct visualization .
+

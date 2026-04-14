@@ -1,0 +1,14 @@
+25012934
+OBJECTIVE	A head-to-head comparison was performed between vascular endothelial growth factor blockade and laser for treatment of diabetic macular edema ( DME ) .
+METHODS	Two similarly designed , double-masked , randomized , phase 3 trials , VISTA ( DME ) and VIVID ( DME ) .
+METHODS	We included 872 patients ( eyes ) with type 1 or 2 diabetes mellitus who presented with DME with central involvement .
+METHODS	Eyes received either intravitreal aflibercept injection ( IAI ) 2 mg every 4 weeks ( 2q4 ) , IAI 2 mg every 8 weeks after 5 initial monthly doses ( 2q8 ) , or macular laser photocoagulation .
+METHODS	The primary efficacy endpoint was the change from baseline in best-corrected visual acuity ( BCVA ) in Early Treatment Diabetic Retinopathy Study ( ETDRS ) letters at week 52 .
+METHODS	Secondary efficacy endpoints at week 52 included the proportion of eyes that gained 15 letters from baseline and the mean change from baseline in central retinal thickness as determined by optical coherence tomography .
+RESULTS	Mean BCVA gains from baseline to week 52 in the IAI 2q4 and 2q8 groups versus the laser group were 12.5 and 10.7 versus 0.2 letters ( P < 0.0001 ) in VISTA , and 10.5 and 10.7 versus 1.2 letters ( P < 0.0001 ) in VIVID .
+RESULTS	The corresponding proportions of eyes gaining 15 letters were 41.6 % and 31.1 % versus 7.8 % ( P < 0.0001 ) in VISTA , and 32.4 % and 33.3 % versus 9.1 % ( P < 0.0001 ) in VIVID .
+RESULTS	Similarly , mean reductions in central retinal thickness were 185.9 and 183.1 versus 73.3 m ( P < 0.0001 ) in VISTA , and 195.0 and 192.4 versus 66.2 m ( P < 0.0001 ) in VIVID .
+RESULTS	Overall incidences of ocular and nonocular adverse events and serious adverse events , including the Anti-Platelet Trialists ' Collaboration-defined arterial thromboembolic events and vascular deaths , were similar across treatment groups .
+CONCLUSIONS	At week 52 , IAI demonstrated significant superiority in functional and anatomic endpoints over laser , with similar efficacy in the 2q4 and 2q8 groups despite the extended dosing interval in the 2q8 group .
+CONCLUSIONS	In general , IAI was well-tolerated .
+

@@ -1,0 +1,14 @@
+24507404
+OBJECTIVE	Bypass Angioplasty Revascularization Investigation 2 Diabetes ( BARI 2D ) was a study of management strategies for diabetic patients with myocardial ischemia and coronary artery disease .
+OBJECTIVE	In a 22 design , early revascularization versus medical management with or without late revascularization and insulin sensitization versus insulin provision were examined .
+OBJECTIVE	No advantage for either strategy was seen , except in the group undergoing early coronary artery bypass grafting ( CABG ) .
+OBJECTIVE	In that group , a reduction in subsequent myocardial infarction was noted .
+OBJECTIVE	The purpose of our report was to characterize the conduct and short-term outcomes for CABG that led to this result .
+METHODS	Data from the BARI 2D CABG stratum were collected , including the baseline demographic and cardiovascular characteristics , technical details of the operation , and perioperative morbidity and mortality , and analyzed .
+RESULTS	A total of 347 patients were studied .
+RESULTS	The average cardiac function was normal , and most had multivessel disease .
+RESULTS	Almost all had undergone CABG by way of a median sternotomy using an internal mammary artery , and one third were off pump .
+RESULTS	The perioperative morbidity and mortality were low and compared well with larger outcomes databases .
+CONCLUSIONS	BARI 2D showed that early CABG in patients with type 2 diabetes and myocardial ischemia and multivessel disease reduced the subsequent myocardial infarction rates .
+CONCLUSIONS	The present results have demonstrated that this was achieved using off-pump surgery in certain cases , standard myocardial protection , and routine use of the internal mammary artery or other arterial grafts .
+

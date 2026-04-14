@@ -1,0 +1,13 @@
+25130678
+BACKGROUND	The administration of statins seems to be a promising new avenue in the treatment of patients suffering from major depressive disorder ( MDD ) , though patients suffering from severe MDD remain unstudied in this respect .
+BACKGROUND	The aim of the present study was therefore to investigate , in a randomized double-blind clinical trial , the influence of adjuvant atorvastatin on symptoms of depression in patients with MDD .
+METHODS	A total of 60 patients suffering from MDD ( mean age : 32.25 years ; 53 % males ) received a standard medication of 40 mg/d citalopram .
+METHODS	Next , patients were randomly assigned either to the atorvastatin group ( 20 mg/d ) or to the placebo group .
+METHODS	Blood lipid values were assessed at baseline and on completion of the study 12 weeks later .
+METHODS	Experts rated depressive symptoms via Hamilton Depression Rating Scales ( HDRS ) at baseline and 3 , 6 and 12 weeks later .
+RESULTS	HDRS scores decreased over time ; the significant Time by Group interaction showed that symptoms of depression decreased more in the atorvastatin than in the placebo group .
+RESULTS	Compared to the placebo group , in the atorvastatin group cholesterol , triglyceride , and Low Density Lipids ( LDL ) significantly decreased , and High Density Lipids ( HDL ) significantly increased over time .
+RESULTS	HDRS scores and blood lipid values were generally not associated .
+CONCLUSIONS	The pattern of results suggests that adjuvant atorvastatin favorably influences symptoms of depression among patients with severe MDD .
+CONCLUSIONS	Given that after 12 weeks of monotherapy and adjuvant atorvastatin patients were still moderately to severely depressed , more powerful treatment algorithms such as augmentation and change of medication are highly recommended .
+

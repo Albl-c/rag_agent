@@ -1,0 +1,14 @@
+25194085
+OBJECTIVE	Chronic bacterial prostatitis displays a variety of symptoms ( mainly local pain exhibiting variability in origin and intensity ) .
+OBJECTIVE	These symptoms often persist despite bacterial eradication .
+OBJECTIVE	The purpose of this article is to exam the role of phytotherapeutic agents as complementary treatment in patients with bacterial prostatitis .
+METHODS	The material consisted of individuals with reported pelvic discomfort and genital pain with or without lower urinary tract symptoms ( LUTS ) and sexual dysfunction visiting our department from March 2009 to March 2011 .
+METHODS	Patients underwent Stamey-Meares test ( several cases underwent the two glass test ) .
+METHODS	Depending on history and specific symptoms urethral smear and semen cultures were additionally obtained from several patients .
+METHODS	All patients were randomized into two groups .
+METHODS	Subjects in the first group ( 72 patients ) received appropriate antibiotic ( according to the sensitivity test ) for 15 days , while subjects in the second group ( 72 patients ) received phytotherapeutic agents for 30 days , additionally the conventional 15 days antibiotic treatment .
+METHODS	The response was tested using laboratory and clinical criteria .
+RESULTS	We found no statistically significant differences between the two groups regarding bacterial and symptom persistence rate , however , symptoms burden was lower in patients receiving combinational treatment .
+CONCLUSIONS	Phytotherapeutic agents may improve pain and prostatitis related difficulty in urination .
+CONCLUSIONS	Further randomized , placebo-controlled studies are needed to substantiate safer conclusions .
+

@@ -1,0 +1,13 @@
+25648901
+BACKGROUND	Amyotrophic lateral sclerosis patients have significant respiratory abnormalities with incomplete understanding of respiratory control .
+BACKGROUND	This study analyzes electromyography ( EMG ) of the diaphragm ( dEMG ) using implanted diaphragm pacing ( DP ) electrodes .
+METHODS	Retrospective analysis of dEMG data were obtained during Institutional Review Board and US Food and Drug Administration approved trials .
+METHODS	The electrodes were used to analyze epochs of dEMG during multiple respiratory cycles .
+RESULTS	Fifty-three patients were implanted .
+RESULTS	Thirty-six had bilateral dEMG assessments , 18 had continuous overnight readings with pulse oximetry , and 19 had serial analysis .
+RESULTS	Several findings revealed an alteration in the central respiratory drive including central apnea , hypoventilation , and hypercarbia .
+RESULTS	The electrodes showed unilateral dysfunction and demonstrated noninvasive ventilation suppression of diaphragm activity .
+RESULTS	DP can be used for serial monitoring , to decrease hypercarbia , improve sleep , and decrease atrophy .
+CONCLUSIONS	Multiple abnormalities of respiratory control can be seen in amyotrophic lateral sclerosis patients using dEMG through therapeutic DP electrodes .
+CONCLUSIONS	DP is used to overcome instability of respiratory control when there are intact diaphragm motor units leading to improved survival .
+

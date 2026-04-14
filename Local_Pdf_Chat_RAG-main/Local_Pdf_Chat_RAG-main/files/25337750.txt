@@ -1,0 +1,14 @@
+25337750
+BACKGROUND	A fluoropyrimidine plus irinotecan or oxaliplatin , combined with bevacizumab ( a monoclonal antibody against vascular endothelial growth factor ) , is standard first-line treatment for metastatic colorectal cancer .
+BACKGROUND	Before the introduction of bevacizumab , chemotherapy with fluorouracil , leucovorin , oxaliplatin , and irinotecan ( FOLFOXIRI ) showed superior efficacy as compared with fluorouracil , leucovorin , and irinotecan ( FOLFIRI ) .
+BACKGROUND	In a phase 2 study , FOLFOXIRI plus bevacizumab showed promising activity and an acceptable rate of adverse effects .
+METHODS	We randomly assigned 508 patients with untreated metastatic colorectal cancer to receive either FOLFIRI plus bevacizumab ( control group ) or FOLFOXIRI plus bevacizumab ( experimental group ) .
+METHODS	Up to 12 cycles of treatment were administered , followed by fluorouracil plus bevacizumab until disease progression .
+METHODS	The primary end point was progression-free survival .
+RESULTS	The median progression-free survival was 12.1 months in the experimental group , as compared with 9.7 months in the control group ( hazard ratio for progression , 0.75 ; 95 % confidence interval [ CI ] , 0.62 to 0.90 ; P = 0.003 ) .
+RESULTS	The objective response rate was 65 % in the experimental group and 53 % in the control group ( P = 0.006 ) .
+RESULTS	Overall survival was longer , but not significantly so , in the experimental group ( 31.0 vs. 25.8 months ; hazard ratio for death , 0.79 ; 95 % CI , 0.63 to 1.00 ; P = 0.054 ) .
+RESULTS	The incidences of grade 3 or 4 neurotoxicity , stomatitis , diarrhea , and neutropenia were significantly higher in the experimental group .
+CONCLUSIONS	FOLFOXIRI plus bevacizumab , as compared with FOLFIRI plus bevacizumab , improved the outcome in patients with metastatic colorectal cancer and increased the incidence of some adverse events .
+CONCLUSIONS	( Funded by the Gruppo Oncologico Nord Ovest and others ; ClinicalTrials.gov number , NCT00719797 . )
+

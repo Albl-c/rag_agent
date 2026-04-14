@@ -1,0 +1,18 @@
+24586327
+BACKGROUND	Community level interventions to improve maternal and child health have been supported and well evaluated in resource poor settings , but less so in developed countries .
+BACKGROUND	PRISM -- Program of Resources , Information and Support for Mothers -- was a primary care and community-based cluster-randomised trial in sixteen municipalities in Victoria , Australia , which aimed to reduce depression in mothers and improve their physical health .
+BACKGROUND	The aim of this paper is to report the longer term outcomes of PRISM and to reflect on lessons learned from this universal community intervention to improve maternal health .
+METHODS	Maternal health outcome data in PRISM were collected by postal questionnaire at six months and two years .
+METHODS	At two years , the main outcome measures included the Edinburgh Postnatal Depression Scale ( EPDS ) and the SF-36 .
+METHODS	Secondary outcome measures included the Experience of Motherhood Scale ( EOM ) and the Parenting Stress Index ( PSI ) .
+METHODS	A primary intention to treat analysis was conducted , adjusting for the randomisation by cluster .
+RESULTS	7,169 / 18,424 ( 39 % ) women responded to the postal questionnaire at two years -3,894 ( 40 % ) in the intervention arm and 3,275 ( 38 % ) in the comparison arm .
+RESULTS	Respondents were mostly representative on available population data comparisons .
+RESULTS	There were no differences in depression prevalence ( EPDS13 ) between the intervention and comparison arms ( 13.4 % vs 13.1 % ; ORadj = 1.06 , 95 % CI 0.91-1 .24 ) .
+RESULTS	Nor did women 's mental health ( MCS : 48.6 vs 49.1 ) or physical health scores ( PCS : 49.1 vs 49.0 ) on the SF-36 differ between the trial arms .
+CONCLUSIONS	Improvement in maternal mental and physical health outcomes at the population level in the early years after childbirth remains a largely unmet challenge .
+CONCLUSIONS	Despite the lack of effectiveness of PRISM intervention strategies , important lessons about systems change , sustained investment and contextual understanding of the workability of intervention strategies can be drawn from the experience of PRISM .
+CONCLUSIONS	Trial Registration .
+CONCLUSIONS	Controlled-Trials .
+CONCLUSIONS	com ISRCTN03464021 .
+

@@ -1,0 +1,15 @@
+25108545
+BACKGROUND	Fluticasone furoate ( FF ) is a novel , once-daily inhaled corticosteroid ( ICS ) that has been shown to improve lung function vs. placebo in asthma patients .
+BACKGROUND	This study evaluated the efficacy and safety of FF 50 mcg compared with placebo in asthma patients uncontrolled by non-ICS therapy .
+METHODS	This 12-week , multicentre , randomized , double-blind , placebo-controlled , parallel-group , phase III study randomized 248 patients ( aged 12 years ) to once-daily FF 50 mcg administered via the ELLIPTAa dry powder inhaler or placebo .
+METHODS	The primary endpoint was change from baseline in pre-dose evening trough forced expiratory volume in one second ( FEV1 ) .
+METHODS	Secondary endpoints were change from baseline in percentage of rescue-free 24-h periods ( powered ) , evening and morning peak expiratory flow , symptom-free 24-h periods and withdrawals due to lack of efficacy .
+METHODS	Other endpoints included Asthma Control Test , Asthma Quality of Life Questionnaire and ELLIPTA ease of use questions .
+METHODS	Safety was assessed throughout the study .
+RESULTS	There was a significant difference in evening trough FEV1 between FF 50 mcg and placebo ( treatment difference : 120 mL ; p = 0.012 ) .
+RESULTS	There was also a significant difference in rescue-free 24-h periods ( 11.6 % ; p = 0.004 ) vs. placebo .
+RESULTS	There were numerically greater improvements with FF vs. placebo for all remaining secondary endpoints .
+RESULTS	The incidence of adverse events was lower with FF ( 31 % ) than with placebo ( 38 % ) ; few were treatment-related ( FF 50 mcg : n = 1 , < 1 % ; placebo : n = 4 , 3 % ) .
+CONCLUSIONS	FF 50 mcg once daily significantly improved FEV1 and percentage of rescue-free 24-h periods experienced over 12 weeks vs. placebo , and was well tolerated .
+BACKGROUND	www.clinicaltrials.gov , registration number : NCT01436071 .
+

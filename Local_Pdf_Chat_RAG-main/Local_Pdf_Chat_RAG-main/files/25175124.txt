@@ -1,0 +1,13 @@
+25175124
+OBJECTIVE	No clinically effective treatment for promoting peripheral axonal regeneration has yet been established .
+OBJECTIVE	Several experimental studies in vitro and in vivo have shown that a high dose of methylcobalamin ( MeCbl ) , an analogue of vitamin B12 , promotes axonal growth in peripheral nerve injury .
+OBJECTIVE	We herein assessed the safety and efficacy of an ultra-high dose MeCbl treatment for patients with peripheral neuropathy and chronic axonal degeneration .
+METHODS	Fourteen patients with immune-mediated or hereditary neuropathy in the chronic progressive or stable phase were enrolled .
+METHODS	MeCbl , 25 mg/day for 10 days followed by monthly 25 mg for 5 months , was intravenously administered .
+METHODS	The patients were evaluated before and 1 year following treatment .
+METHODS	The primary endpoints were safety and improvement in the Medical Research Council ( MRC ) sum score in at least two muscles of the 20 muscles .
+METHODS	This trial is registered with the University Hospital Medical Information Network ( UMIN ) Center in Japan under the ID : UMIN000009359 .
+RESULTS	There were no adverse effects in twelve of the patients , whereas treatment was discontinued in two patients who had seborrheic dermatitis at 3 months and respiratory tract infection at 2 months , respectively .
+RESULTS	Therefore , twelve patients were evaluated for the primary outcomes ; the MRC sum score was improved in seven of the patients and unchanged or worsened in the remaining five patients .
+CONCLUSIONS	Intravenous ultra-high dose MeCbl treatment is a safe and potentially efficacious therapy for patients with peripheral neuropathy and chronic axonal degeneration .
+

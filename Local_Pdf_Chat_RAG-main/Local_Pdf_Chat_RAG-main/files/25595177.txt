@@ -1,0 +1,19 @@
+25595177
+OBJECTIVE	To evaluate the role of intravitreal aflibercept injection as a treatment for eyes with chronic central serous chorioretinopathy ( CSCR ) .
+METHODS	This prospective pilot study enrolled 12 patients with chronic CSCR who received a 6-month treatment regimen of intravitreal aflibercept .
+METHODS	Patients were followed with monthly Early Treatment of Diabetic Retinopathy Study ( ETDRS ) best-corrected visual acuity ( BCVA ) and spectral domain optical coherence tomography ( SD-OCT ) with enhanced depth imaging .
+RESULTS	All patients were men between 29 and 64years ( median 55 ) .
+RESULTS	Subfoveal fluid was present on OCT for a median duration of 6months ( range 4-29months ) prior to treatment .
+RESULTS	Baseline BCVA ranged from 20/25 to 20/160 ( median 20/50 ) with a mean of 62 ( SD = 13 ) ETDRS letters .
+RESULTS	No patients experienced serious ocular or systemic adverse events over the course of the study .
+RESULTS	Post-treatment BCVA ranged from 20/20 to 20/200 ( median 20/40 ) , with a mean of 64 ( SD = 16 ) ETDRS letters ( p = 0.56 ) .
+RESULTS	At baseline , three patients ( 25 % ) had BCVA of 20/40 versus seven patients ( 58 % ) at the conclusion of the study .
+RESULTS	Two patients gained at least 15 ETDRS letters and no patients lost more than 15 ETDRS letters .
+RESULTS	Six of 12 patients ( 50 % ) had complete resolution of subfoveal fluid .
+RESULTS	Mean central macular thickness decreased from 400m ( SD = 104m ) to 306m ( SD = 94m ) ( p = 0.03 ) , and mean subfoveal fluid decreased from 159m ( SD = 93m ) to 49m ( SD = 68m ) ( p = 0.02 ) .
+RESULTS	Mean choroidal thickness decreased from 307m ( SD = 72m ) to 263m ( SD = 63m ) ( p = 0.0003 ) .
+CONCLUSIONS	Intravitreal aflibercept was well tolerated over a 6-month treatment course for chronic CSCR .
+CONCLUSIONS	No change was observed in visual acuity metrics .
+CONCLUSIONS	Anatomic trends may suggest some morphological activity , but larger controlled trials are needed .
+BACKGROUND	NCT01710332 .
+

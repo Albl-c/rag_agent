@@ -1,0 +1,16 @@
+25797757
+BACKGROUND	Postoperative readmissions have been proposed by Medicare as a quality metric and can impact provider reimbursement .
+BACKGROUND	Because readmission after pancreatectomy is common , we sought to identify factors associated with readmission to establish a predictive risk scoring system .
+METHODS	A retrospective analysis of 2,360 pancreatectomies performed at 9 high-volume pancreatic centers between 2005 and 2011 was performed .
+METHODS	Forty-five factors strongly associated with readmission were identified .
+METHODS	To derive and validate a risk scoring system , the population was randomly divided into 2 cohorts in a 4:1 fashion .
+METHODS	A multivariable logistic regression model was constructed and scores were assigned based on the relative odds ratio ( OR ) of each independent predictor .
+METHODS	A composite Readmission after Pancreatectomy ( RAP ) score was generated and then stratified to create risk groups .
+RESULTS	Overall , 464 ( 19.7 % ) patients were readmitted within 90 days .
+RESULTS	Eight pre - and postoperative factors , including earlier MI ( OR = 2.03 ) , American Society of Anesthesiologists class 3 ( OR = 1.34 ) , dementia ( OR = 6.22 ) , hemorrhage ( OR = 1.81 ) , delayed gastric emptying ( OR = 1.78 ) , surgical site infection ( OR = 3.31 ) , sepsis ( OR = 3.10 ) , and short length of stay ( OR = 1.51 ) were independently predictive of readmission .
+RESULTS	The 32-point RAP score generated from the derivation cohort was highly predictive of readmission in the validation cohort ( area under the receiver operating curve = 0.72 ) .
+RESULTS	The low-risk ( 0 to 3 ) , intermediate-risk ( 4 to 7 ) , and high-risk ( > 7 ) groups correlated with 11.7 % , 17.5 % , and 45.4 % observed readmission rates , respectively ( p < 0.001 ) .
+CONCLUSIONS	The RAP score is a novel and clinically useful risk scoring system for readmission after pancreatectomy .
+CONCLUSIONS	Identification of patients with increased risk of readmission using the RAP score will allow efficient resource allocation aimed to attenuate readmission rates .
+CONCLUSIONS	It also has potential to serve as a new metric for comparative research and quality assessment .
+

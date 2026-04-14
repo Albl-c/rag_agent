@@ -1,0 +1,12 @@
+24993832
+OBJECTIVE	In light of the high prevalence of sleep disorders in patients suffering from posttraumatic stress disorder ( PTSD ) , this study sought to compare the effect of prazosin and hydroxyzine on sleep quality in this patient group .
+METHODS	A total of 100 patients suffering from PTSD were assessed ( mean age = 35.51 years , SD = 6.41 ; 28 % females ) .
+METHODS	Next , they were randomly assigned to one of three treatment groups : prazosin ( 33 patients ) , hydroxyzine ( 34 patients ) or placebo ( 33 patients ) .
+METHODS	The trial lasted for 8 weeks .
+METHODS	The patients ' sleep quality was assessed using the Pittsburgh Sleep Quality Index .
+METHODS	Items taken from the Mini International Neuropsychiatric Interview were used to operationalize PTSD .
+RESULTS	Compared to controls , patients treated with prazosin and hydroxyzine reported improved sleep and less nightmares .
+RESULTS	Improvement was greatest in patients treated with prazosin compared to hydroxyzine and placebo .
+RESULTS	Improvement in sleep was associated with an amelioration of their PTSD symptoms .
+CONCLUSIONS	Both prazosin and hydroxyzine can be used to treat psychopharmacological sleep disorders and nightmares in patients suffering from PTSD , also leading to reductions in PTSD symptoms .
+

@@ -1,0 +1,17 @@
+24421886
+BACKGROUND	Acellular pertussis vaccines do not control pertussis .
+BACKGROUND	A new approach to offer protection to infants is necessary .
+BACKGROUND	BPZE1 , a genetically modified Bordetella pertussis strain , was developed as a live attenuated nasal pertussis vaccine by genetically eliminating or detoxifying 3 toxins .
+METHODS	We performed a double-blind , placebo-controlled , dose-escalating study of BPZE1 given intranasally for the first time to human volunteers , the first trial of a live attenuated bacterial vaccine specifically designed for the respiratory tract .
+METHODS	12 subjects per dose group received 10 , 10 or 10 colony-forming units as droplets with half of the dose in each nostril .
+METHODS	12 controls received the diluent .
+METHODS	Local and systemic safety and immune responses were assessed during 6 months , and nasopharyngeal colonization with BPZE1 was determined with repeated cultures during the first 4 weeks after vaccination .
+RESULTS	Colonization was seen in one subject in the low dose , one in the medium dose and five in the high dose group .
+RESULTS	Significant increases in immune responses against pertussis antigens were seen in all colonized subjects .
+RESULTS	There was one serious adverse event not related to the vaccine .
+RESULTS	Other adverse events were trivial and occurred with similar frequency in the placebo and vaccine groups .
+CONCLUSIONS	BPZE1 is safe in healthy adults and able to transiently colonize the nasopharynx .
+CONCLUSIONS	It induces immune responses in all colonized individuals .
+CONCLUSIONS	BPZE1 can thus undergo further clinical development , including dose optimization and trials in younger age groups .
+BACKGROUND	ClinicalTrials.gov NCT01188512 .
+

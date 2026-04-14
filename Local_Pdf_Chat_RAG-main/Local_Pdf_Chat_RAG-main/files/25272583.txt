@@ -1,0 +1,19 @@
+25272583
+BACKGROUND	The health system responsiveness , defined as non-medical aspect of treatment relating to the protection of the patients ' legitimate rights , is the intrinsic goal of the WHO strategy for 21st century .
+OBJECTIVE	To describe the patients ' opinions on treatment they received in hospital , namely : admission to hospital , the role of patient in hospital treatment , course of treatment , medical workforce attitude , hospital environment , contact with family and friends , and the efficacy of hospital treatment in respect to responsiveness to patient 's needs and expectations ( dignity , autonomy , confidentiality , communication , prompt attention , social support , basic amenities and choice of provider ) .
+METHODS	The data were collected in 2012 from 998 former patients of the randomly selected 73 hospital in Poland .
+RESULTS	Dignity : Over 80 % of patients experienced kindness , empathy , care and gentleness , and over 90 % of them had the sense of security in hospital , met with friendliness during the admission to hospital and never encountered inappropriate comments from medical staff .
+RESULTS	Autonomy : About 80 % of patients accepted the active role of patients in hospital , they perceived they had influence on procedures related to hospitalization and course of treatment , and they felt medical staff responded to their requests and concerns .
+RESULTS	Over 90 % of them had opportunity to communicate their concerns to medical staff and to discuss the course of treatment .
+RESULTS	On the other hand , the explanation of the reason for the refusal to meet their requests was given to only 23 % of the patients interested .
+RESULTS	Confidentiality : 70-80 % of patients declared the respect for privacy and confidentiality during collecting the health information and during medical examinations , and were not examined in presence of other people .
+RESULTS	Nevertheless , only 23 % of patients examined so were asked of their consent .
+RESULTS	Communication : About 90 % of patients declared they trusted their physician , received from him explanation regarding the course of treatment and information about further treatment after discharge from hospital , but physicians devoted the time and attention to only 70 % of them .
+RESULTS	Prompt attention : Over 90 % of patients perceived simplicity of the formalities of admission to hospital , and short waiting for treatment and additional tests in hospital ( but only 50 % received explanation of reason if they waited long ) .
+RESULTS	Nevertheless , 10 % of them % of them perceived they waited for admission to hospital too long , and over 20 % for admission to a ward as long .
+RESULTS	Social support : The unlimited direct and phone contact with family and friends was declared by 96 % of patients .
+RESULTS	Basic amenities : The high percentage of patients assessed positively the marking in hospital ( 97 % ) and cleanliness of linen ( 89 % ) , followed by the general indoor appearance room in which patient stayed , lack of noise ( 70-80 % ) , hospital meals , furniture ( 60-70 % ) , availability of personal hygienic articles ( 50-60 % ) , cleanliness of hospital room , toilet , showers and bathtubs , and availability of soap ( 40-50 % ) .
+RESULTS	Choice of provider : Only 41 % of patients declared that they had influence on choice of the hospital .
+CONCLUSIONS	Responsiveness of Polish hospital patient needs is similar to that of the OECD countries of the lowest health system responsiveness .
+CONCLUSIONS	Compared to the Central European countries , the responsiveness in Polish hospitals is lower than that of Czech Republic and only slightly higher of those of Slovenia , Slovakia and Hungary .
+

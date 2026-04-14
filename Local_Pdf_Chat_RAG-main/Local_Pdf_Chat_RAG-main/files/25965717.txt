@@ -1,0 +1,15 @@
+25965717
+OBJECTIVE	We examined the effect of the renin inhibitor , aliskiren , on renal blood flow ( RBF ) in patients with heart failure with reduced ejection fraction ( HFREF ) and decreased glomerular filtration rate ( GFR ) .
+OBJECTIVE	Renal blood flow is the main determinant of GFR in HFREF patients .
+OBJECTIVE	Both reduced GFR and RBF are associated with increased mortality .
+OBJECTIVE	Aliskiren can provide additional renin-angiotensin-aldosterone system inhibition and increases RBF in healthy individuals .
+RESULTS	Patients with left ventricular ejection fraction 45 % and estimated GFR 30 to 75 mL/min per 1.73 m ( 2 ) on optimal medical therapy were randomized 2:1 to receive aliskiren 300 mg once daily or placebo .
+RESULTS	Renal blood flow and GFR were measured using radioactive-labeled ( 125 ) I-iothalamate and ( 131 ) I-hippuran at baseline and 26 weeks .
+RESULTS	After 41 patients were included , the trial was halted based on an interim safety analysis showing futility .
+RESULTS	Mean age was 68 9 years , 82 % male , GFR ( 49 16 mL/min per 1.73 m ( 2 ) ) , RBF ( 294 77 mL/min per 1.73 m ( 2 ) ) , and NT-proBNP 999 ( 435-2040 ) pg/mL .
+RESULTS	There was a nonsignificant change in RBF after 26 weeks in the aliskiren group compared with placebo ( -7.1 30 vs +14 54 mL/min per 1.73 m ( 2 ) ; P = .16 ) .
+RESULTS	However , GFR decreased significantly in the aliskiren group compared with placebo ( -2.8 6.0 vs +4.4 9.6 mL/min per 1.73 m ( 2 ) ; P = .01 ) as did filtration fraction ( -2.2 3.3 vs +1.1 3.1 % ; P = .01 ) .
+RESULTS	There were no significant differences in plasma aldosterone , NT-proBNP , urinary tubular markers , or adverse events .
+RESULTS	Plasma renin activity was markedly reduced in the aliskiren group versus placebo throughout the treatment phase ( P = .007 ) .
+CONCLUSIONS	Adding aliskiren on top of optimal HFREF medical therapy did not improve RBF and was associated with a reduction of GFR and filtration fraction .
+

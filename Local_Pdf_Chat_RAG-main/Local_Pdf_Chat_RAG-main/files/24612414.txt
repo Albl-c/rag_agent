@@ -1,0 +1,15 @@
+24612414
+BACKGROUND	Early oral feeding ( EOF ) following colorectal surgery can accelerate patient recovery and shorten hospital stay .
+BACKGROUND	However , some patients are intolerable to postoperative early oral feeding .
+BACKGROUND	The aim of this study was to evaluate the tolerability of EOF following laparoscopic colorectal cancer surgery and the effects of intravenous lidocaine .
+METHODS	The cohort in this randomized , placebo-controlled trial ( ClinicalTrial.gov , NCT01346917 ) comprised of 77 patients undergoing elective laparoscopic colorectal cancer surgery .
+METHODS	For patients randomized to the lidocaine group , a loading dose of 1mg/kg lidocaine prior to skin incision , and a continuous dose of 1mg/kg/h lidocaine with 90mg ketorolac ( non-steroidal anti-inflammatory drug ) ( in normal saline , total 240mL ) was administered for 24h .
+METHODS	Patients randomized to the placebo group received a loading dose of 5mL saline and a continuous dose of 90mg ketorolac in 240mL saline .
+METHODS	The primary outcome measure was prevalence of postoperative nausea/vomiting and intolerance to EOF .
+RESULTS	Altogether , 68 patients completed the study and were analyzed .
+RESULTS	Postoperative nausea and vomiting were higher in the control group but did not reach statistical significance ( P = 0.054 ) .
+RESULTS	Tolerability of EOF was 96.9 % in the lidocaine group and 91.7 % in the control group ( P = 0.62 ) .
+RESULTS	There was no difference in postoperative pain , opioid consumption , bowel function recovery or postoperative hospital stay .
+CONCLUSIONS	Perioperative intravenous lidocaine administered for laparoscopic colorectal cancer surgery might reduce postoperative nausea and vomiting .
+CONCLUSIONS	However , a high tolerability to EOF following colorectal surgery can be achieved by laparoscopic surgery alone without other supportive treatment .
+

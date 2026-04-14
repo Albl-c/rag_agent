@@ -1,0 +1,12 @@
+24381187
+BACKGROUND	We tested the association between pulmonary dead-space fraction ( ratio of dead space to tidal volume [ V ( D ) / V ( T ) ] ) and mortality in subjects with ARDS ( Berlin definition , P ( aO2 ) / F ( IO2 ) 300 mm Hg ; PEEP 5 cm H2O ) enrolled into a clinical trial incorporating lung-protective ventilation .
+METHODS	We conducted a prospective , multi-center study at medical-surgical ICUs in the United States .
+METHODS	A total of 126 ALI subjects with acute lung injury were enrolled into a phase 3 randomized , placebo-controlled study of aerosolized albuterol .
+METHODS	V ( D ) / V ( T ) and pulmonary mechanics were measured within 4 h of enrollment and repeated daily on study days 1 and 2 in subjects requiring arterial blood gases for clinical management .
+RESULTS	At baseline , non-survivors had a trend toward higher V ( D ) / V ( T ) compared with survivors ( 0.62 0.11 vs 0.56 0.11 , respectively , P = .08 ) .
+RESULTS	Differences in V ( D ) / V ( T ) between non-survivors and survivors became significant on study days 1 ( 0.64 0.12 vs 0.55 0.11 , respectively , P = .01 ) and 2 ( 0.67 0.12 vs 0.56 0.11 , respectively , P = .004 ) .
+RESULTS	Likewise , the association between VD/VT and mortality was significant on study day 1 ( odds ratio per 0.10 change in V ( D ) / V ( T ) [ 95 % CI ] : 6.84 [ 1.62-28 .84 ] P = .01 ; and study day 2 : 4.90 [ 1.28-18 .73 ] P = .02 ) after adjusting for V ( D ) / V ( T ) , P ( aO2 ) / F ( IO2 ) , oxygenation index , vasopressor use , and the primary risk for ARDS .
+RESULTS	Using a Cox proportional hazard model , V ( D ) / V ( T ) was associated with a trend toward higher mortality ( HR = 4.37 [ CI 0.99-19 .32 ] , P = .052 ) that became significant when the analysis was adjusted for daily oxygenation index ( HR = 1.74 [ 95 % CI 1.12-3 .35 ] P = .04 ) .
+CONCLUSIONS	Markedly elevated V ( D ) / V ( T ) ( 0.60 ) in early ARDS is associated with higher mortality .
+CONCLUSIONS	Measuring V ( D ) / V ( T ) may be useful in identifying ARDS patients at increased risk of death who are enrolled into a therapeutic trial .
+

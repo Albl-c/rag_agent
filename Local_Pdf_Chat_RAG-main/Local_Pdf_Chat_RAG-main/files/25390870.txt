@@ -1,0 +1,14 @@
+25390870
+OBJECTIVE	The aim of this preliminary clinical report was to evaluate and compare the clinical outcomes of immediate and early loaded mini-implants ( MIs ) supporting mandibular overdentures .
+METHODS	Thirty-six completely edentulous patients ( 20 men and 16 women ) complaining of insufficient retention of their mandibular dentures were randomly assigned to two groups .
+METHODS	Each patient received four MIs in the interforaminal area of the mandible using the nonsubmerged flapless surgical approach .
+METHODS	In group 1 ( G1 ) , MIs were loaded with mandibular overdentures using the immediate loading protocol , while in group 2 ( G2 ) , MIs were loaded with overdentures using the early loading protocol .
+METHODS	The cumulative survival rate was calculated using Kaplan-Meier analysis .
+METHODS	Peri-implant health indices ( Plaque Index/Bleeding Index ) , probing depths , and marginal bone levels were recorded for both groups after MI insertions and 6 , 12 , 24 , and 36 months thereafter .
+RESULTS	The cumulative implant survival rates were 91.7 % and 96.7 % for G1 and G2 , respectively .
+RESULTS	G1 recorded significantly higher Plaque Index , Bleeding Index , and probing depths than G2 after 12 months , while other observation times demonstrated no significant difference between groups .
+RESULTS	Most of the recorded marginal bone loss occurred in the first year , and no significant bone loss was noted in subsequent years .
+RESULTS	After 6 months , marginal bone loss was significantly higher in G1 compared to G2 , but no significant differences between groups were noted thereafter .
+CONCLUSIONS	Within the limitations of this study 's research design and duration of follow-up outcome analyses , immediate and early loading protocols showed good clinical results with favorable peri-implant tissue response 3 years after implant insertion .
+CONCLUSIONS	Early loading of MIs supporting a mandibular overdenture appears to be preferable to immediate loading .
+

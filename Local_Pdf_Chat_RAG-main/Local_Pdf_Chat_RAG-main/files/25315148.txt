@@ -1,0 +1,13 @@
+25315148
+BACKGROUND	Patient reported outcome measures ( PROMs ) are used to evaluate lifestyle interventions but little is known about differences between patients returning valid and invalid responses , or of potential for bias in evaluations .
+BACKGROUND	We aimed to examine the characteristics of patients who returned valid responses to lifestyle questionnaires compared to those whose responses were invalid for evaluating lifestyle change .
+METHODS	We conducted a secondary data analysis from the SPHERE Study , a trial of an intervention to improve outcomes for patients with coronary heart disease in primary care .
+METHODS	Postal questionnaires were used to assess physical activity ( Godin ) and diet ( DINE ) among study participants at baseline and 18 month follow-up .
+METHODS	Three binary response variables were generated for analysis : ( 1 ) valid Godin score ; ( 2 ) valid DINE Fibre score ; and ( 3 ) valid DINE Total Fat score .
+METHODS	Multivariate analysis comprised generalised estimating equation regression to examine the association of patients ' characteristics with their return of valid responses at both timepoints .
+RESULTS	Overall , 92.1 % of participants ( 832/903 ) returned questionnaires at both baseline and 18 months .
+RESULTS	Relatively fewer valid Godin scores were returned by those who left school aged < 15 years ( 36.5 % ) than aged 18 and over ( 50.5 % ) , manual workers ( 39.5 % ) than non-manual ( 49.5 % ) and those with an elevated cholesterol ( > 5 mmol ) ( 34.7 % ) than those with a lower cholesterol ( 44.4 % ) but multivariate analysis identified that only school leaving age ( p = 0.047 ) was of statistical significance.Relatively fewer valid DINE scores were returned by manual than non-manual workers ( fibre : 80.8 % v 86.8 % ; fat : 71.2 % v 80.0 % ) , smokers ( fibre : 72.6 % v 84.7 % ; fat : 67.5 % v 76.9 % ) , patients with diabetes ( fibre : 75.9 % v 82.9 % ; fat : 66.9 % v 75.8 % ) and those with cholesterol > 5 mmol ( fat : 68.2 % v 76.2 % ) but multivariate analysis showed statistical significance only for smoking ( fibre : p = 0.013 ; fat : p = 0.045 ) , diabetes ( fibre : p = 0.039 ; fat : p = 0.047 ) , and cholesterol ( fat : p = 0.039 ) .
+CONCLUSIONS	Our findings illustrate the importance of detailed reporting of research methods , with clear information about response rates , respondents and valid outcome data .
+CONCLUSIONS	Outcome measures which are relevant to a study population should be chosen carefully .
+CONCLUSIONS	The impact of methods of outcome measurement and valid response rates in evaluating healthcare requires further study .
+

@@ -1,0 +1,15 @@
+24597650
+BACKGROUND	Virtual reality ( VR ) is not commonly used in clinical rehabilitation , and commercial VR gaming systems may have mixed effects in patients with stroke .
+BACKGROUND	Therefore , we developed RehabMaster , a task-specific interactive game-based VR system for post-stroke rehabilitation of the upper extremities , and assessed its usability and clinical efficacy .
+METHODS	A participatory design and usability tests were carried out for development of RehabMaster with representative user groups .
+METHODS	Two clinical trials were then performed .
+METHODS	The first was an observational study in which seven patients with chronic stroke received 30 minutes of RehabMaster intervention per day for two weeks .
+METHODS	The second was a randomised controlled trial of 16 patients with acute or subacute stroke who received 10 sessions of conventional occupational therapy only ( OT-only group ) or conventional occupational therapy plus 20 minutes of RehabMaster intervention ( RehabMaster + OT group ) .
+METHODS	The Fugl-Meyer Assessment score ( FMA ) , modified Barthel Index ( MBI ) , adverse effects , and drop-out rate were recorded .
+RESULTS	The requirements of a VR system for stroke rehabilitation were established and incorporated into RehabMaster .
+RESULTS	The reported advantages from the usability tests were improved attention , the immersive flow experience , and individualised intervention .
+RESULTS	The first clinical trial showed that the RehabMaster intervention improved the FMA ( P = .03 ) and MBI ( P = .04 ) across evaluation times .
+RESULTS	The second trial revealed that the addition of RehabMaster intervention tended to enhance the improvement in the FMA ( P = .07 ) but did not affect the improvement in the MBI .
+RESULTS	One patient with chronic stroke left the trial , and no adverse effects were reported .
+CONCLUSIONS	The RehabMaster is a feasible and safe VR system for enhancing upper extremity function in patients with stroke .
+

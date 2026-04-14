@@ -1,0 +1,19 @@
+25355310
+OBJECTIVE	To evaluate the efficacy and safety of AVP-825 , a drug-device combination of low-dose sumatriptan powder ( 22mg loaded dose ) delivered intranasally through a targeted Breath Powered device vs an identical device containing lactose powder ( placebo device ) in the treatment of migraine headache .
+BACKGROUND	Early treatment of migraine headaches is associated with improved outcome , but medication absorption after oral delivery may be delayed in migraineurs because of reduced gastric motility .
+BACKGROUND	Sumatriptan powder administered with an innovative , closed-palate , Bi-Directional , Breath Powered intranasal delivery mechanism is efficiently absorbed across the nasal mucosa and produces fast absorption into the circulation .
+BACKGROUND	Results from a previously conducted placebo-controlled study of AVP-825 showed a high degree of headache relief with an early onset of action ( eg , 74 % AVP-825 vs 38 % placebo device at 1 hour , P < .01 ) .
+METHODS	In this double-blind , placebo-controlled , parallel-group study in adults with a history of migraine with or without aura , participants were randomized via computer-generated lists to AVP-825 or placebo device to treat a single migraine headache of moderate or severe intensity .
+METHODS	The primary endpoint was headache relief ( defined as reduction of headache pain intensity from severe or moderate migraine headache to mild or none ) at 2 hours post-dose .
+RESULTS	Two hundred and thirty patients ( 116 AVP-825 and 114 placebo device ) were randomized , of whom 223 ( 112 and 111 , respectively ) experienced a qualifying migraine headache ( their next migraine headache that reached moderate or severe intensity ) .
+RESULTS	A significantly greater proportion of AVP-825 patients reported headache relief at 2 hours post-dose compared with those using the placebo device ( 68 % vs 45 % , P = .002 , odds ratio 2.53 , 95 % confidence interval [ 1.45 , 4.42 ] ) .
+RESULTS	Between-group differences in headache relief were evident as early as 15 minutes , reached statistical significance at 30 minutes post-dose ( 42 % vs 27 % , P = .03 ) , and were sustained at 24 hours ( 44 % vs 24 % , P = .002 ) and 48 hours ( 34 % vs 20 % , P = .01 ) .
+RESULTS	Thirty-four percent of patients treated with AVP-825 were pain-free at 2 hours compared with 17 % using the placebo device ( P = .008 ) .
+RESULTS	More AVP-825 patients reported meaningful pain relief ( patient interpretation ) of migraine within 2 hours of treatment vs placebo device ( 70 % vs 45 % , P < .001 ) , and fewer required rescue medication ( 37 % vs 52 % , P = .02 ) .
+RESULTS	Total migraine freedom ( patients with no headache , nausea , phonophobia , photophobia , or vomiting ) reached significance following treatment with AVP-825 at 1 hour ( 19 % vs 9 % ; P = .04 ) .
+RESULTS	There were no serious adverse events ( AEs ) , and no systemic AEs occurred in more than one patient .
+RESULTS	Chest pain or pressure was not reported , and only one patient taking AVP-825 reported mild paresthesia .
+RESULTS	No other triptan sensations were reported .
+CONCLUSIONS	Targeted delivery of a low-dose of sumatriptan powder via a novel , closed-palate , Breath Powered , intranasal device ( AVP-825 ) provided fast relief of moderate or severe migraine headache in adults that reached statistical significance over placebo by 30 minutes .
+CONCLUSIONS	The treatment was well tolerated with a low incidence of systemic AEs .
+

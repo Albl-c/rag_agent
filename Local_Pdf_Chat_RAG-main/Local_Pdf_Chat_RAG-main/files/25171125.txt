@@ -1,0 +1,8 @@
+25171125
+OBJECTIVE	To evaluate the safety and effectiveness of radiofrequency dissection in conventional ` open ' total thyroidectomy .
+METHODS	Thirty-nine patients scheduled for conventional total thyroidectomy were included in a prospective randomised study .
+METHODS	Patients were randomly assigned to one of two groups : a radiofrequency dissection method was used in one group , and a knot tying technique was used in the other .
+RESULTS	Significantly fewer surgical instruments and materials were required for the radiofrequency dissection group than the knot tying group ( p < 0.01 ) .
+RESULTS	There were no significant differences between the two groups in mean operative time , blood loss , post-operative drainage and pain , recurrent palsy , and hypocalcaemia ( p > 0.05 ) .
+CONCLUSIONS	Radiofrequency dissection is a safe alternative to the knot tying technique , and enables a significant reduction in the number of surgical instruments required for the operation .
+

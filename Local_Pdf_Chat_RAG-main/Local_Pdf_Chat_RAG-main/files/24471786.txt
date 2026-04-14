@@ -1,0 +1,13 @@
+24471786
+BACKGROUND	A number of perioperative risk factors may suppress the immune system and contribute to the development of post-operative complications .
+BACKGROUND	The association between surgical site infection ( SSI ) and other wound-related complications resulting from immunosuppression through either perioperative administration of dexamethasone , pre-operative smoking or alcohol abuse is , however , uncertain .
+METHODS	This study was a post hoc analysis of data from the PROXI randomized trial in 1386 patients who underwent emergency or elective laparotomy .
+METHODS	We assessed the associations of use of dexamethasone , smoking status and alcohol abuse with the primary outcome , being a composite of SSI , anastomotic leak , wound dehiscence , burst abdomen and 30-day mortality .
+RESULTS	The primary outcome occurred in 21 % of patients receiving dexamethasone versus 28 % of patients not receiving dexamethasone , and this was not statistically significant when adjusting for stratification variables originally used in the PROXI trial [ OR 0.90 , 95 % CI ( 0.65-1 .24 ) ] .
+RESULTS	In smokers , the primary outcome occurred in 32 % , compared with 23 % of non-smokers ( P = 0.0001 ) .
+RESULTS	Smokers also had a higher frequency of SSI ( 25 % vs 17 % , P < 0.0001 ) and burst abdomen ( 3.8 % vs 2.4 % , P = 0.04 ) .
+RESULTS	In alcohol abusers , the primary outcome occurred in 48 % , compared with 25 % in patients who did not abuse alcohol ( P = 0.0006 ) .
+RESULTS	Burst abdomen occurred more commonly in alcohol abusers ( 15 % vs 2.3 % , P < 0.0001 ) .
+CONCLUSIONS	Perioperative administration of dexamethasone was not significantly associated with SSI or other wound-related complications .
+CONCLUSIONS	Conversely , smoking and alcohol abuse were both significant predictors of the primary outcome consisting of wound-related complications and mortality .
+

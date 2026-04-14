@@ -1,0 +1,15 @@
+24518763
+OBJECTIVE	Regional analgesic techniques are commonly used in pediatric urology .
+OBJECTIVE	Ultrasound guided transversus abdominis plane block has recently gained popularity .
+OBJECTIVE	However , there is a paucity of information supporting a benefit over regional field infiltration .
+OBJECTIVE	We present a parallel group , randomized , controlled trial evaluating ultrasound guided transversus abdominis plane block superiority over surgeon delivered regional field infiltration for children undergoing open pyeloplasty at a tertiary referral center .
+METHODS	Following ethics board approval and registration , children 0 to 6 years old were recruited and randomized to undergo perioperative transversus abdominis plane block or regional field infiltration for early post-pyeloplasty pain control .
+METHODS	General anesthetic delivery , surgical technique and postoperative analgesics were standardized .
+METHODS	A blinded assessor regularly captured pain scores in the recovery room using the FLACC ( Face , Legs , Activity , Cry , Consolability ) scale .
+METHODS	The primary outcome was the need for rescue morphine administration based on a FLACC score of 3 or higher .
+RESULTS	Two pediatric urologists performed 57 pyeloplasties during a 2.5-year period , enrolling 32 children ( 16 in each group , balanced for age and weight ) .
+RESULTS	There were statistically significant differences in the number of children requiring rescue morphine administration ( 13 of 16 receiving transversus abdominis plane block and 6 of 16 receiving regional field infiltration , p = 0.011 ) , mean SD total morphine consumption ( 0.066 0.051 vs 0.028 0.040 mg/kg , p = 0.021 ) and mean SD pain scores ( 5 5 vs 2 3 , p = 0.043 ) in the recovery room , in favor of surgeon administered regional field infiltration .
+RESULTS	No local anesthetic specific adverse events were noted .
+CONCLUSIONS	Ultrasound guided transversus abdominis plane block is not superior to regional field infiltration with bupivacaine as a strategy to minimize early opioid requirements following open pyeloplasty in children .
+CONCLUSIONS	Instead , our data suggest that surgeon delivered regional field infiltration provides better pain control .
+

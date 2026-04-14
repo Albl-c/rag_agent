@@ -1,0 +1,14 @@
+24740826
+OBJECTIVE	Bevacizumab , a humanized monoclonal antibody against vascular endothelial growth factor , has shown increased pathological complete response rates when added to neoadjuvant chemotherapy .
+OBJECTIVE	In various cancer types , bevacizumab treatment was accompanied by an increased risk of bleedings and other surgical complications .
+OBJECTIVE	We assessed associated surgical complications .
+METHODS	In the GeparQuinto trial , 1,948 patients were randomized to receive four cycles epirubicin/cyclophosphamide ( EC , 90/600mg/m ( 2 ) q3w ) followed by four cycles docetaxel ( D , 100mg/m ( 2 ) q3w ) each with ( ECB-DB ) or without ( EC-D ) bevacizumab ( B , 15mg/kg q3w ) concurrent with chemotherapy .
+METHODS	Surgery had to be performed not earlier than 28days after the last bevacizumab infusion , but within days 21 and 35 after the last chemotherapy .
+RESULTS	In 743 ( 38.1 % ) patients , a surgical complication ( bleedings , hematomas , necrosis , wound infections , abscess ) was documented prospectively .
+RESULTS	Baseline characteristics of the patients were well balanced between both arms .
+RESULTS	The breast-conserving surgery ( BCS ) rate ( N = 502 ) was 69.1 % ( EC-D ) and 71.9 % ( ECB-DB ; p = 0.464 ) .
+RESULTS	The first surgical procedure was performed at a median of 29 ( EC-D ) and 34days ( ECB-DB ) after last chemotherapy with or without bevacizumab infusion ( p < 0.001 ) .
+RESULTS	Surgical complications were documented in 38 ( 10.9 % ; EC-D ) and 59 ( 15.0 % ; ECB-DB ) patients ( p = 0.103 ) .
+RESULTS	Surgical complications were significantly higher after ECD-DB only in patients treated with BCS ( N = 53 ; p = 0.029 ) or in those requiring repeat surgery in order achieve clear margins ( N = 23 ; p = 0.037 ) compared to the EC-D group .
+CONCLUSIONS	Addition of bevacizumab to neoadjuvant chemotherapy might be associated with an increased risk for surgical complications in patients treated with BCS or after repeated surgeries .
+

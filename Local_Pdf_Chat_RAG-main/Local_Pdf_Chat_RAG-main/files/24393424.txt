@@ -1,0 +1,14 @@
+24393424
+BACKGROUND	Sepsis , a leading cause of death in critically ill patients , is the result of complex interactions between the infecting microorganisms and the host responses that influence clinical outcomes .
+BACKGROUND	We evaluated the prognostic value of presepsin ( sCD14-ST ) , a novel biomarker of bacterial infection , and compared it with procalcitonin ( PCT ) .
+METHODS	This is a retrospective , case-control study of a multicenter , randomized clinical trial enrolling patients with severe sepsis or septic shock in ICUs in Italy .
+METHODS	We selected 50 survivors and 50 non-survivors at ICU discharge , matched for age , sex and time from sepsis diagnosis to enrollment .
+METHODS	Plasma samples were collected 1 , 2 and 7 days after enrollment to assay presepsin and PCT .
+METHODS	Outcome was assessed 28 and 90 days after enrollment .
+RESULTS	Early presepsin ( day 1 ) was higher in decedents ( 2,269 pg/ml , median ( Q1 to Q3 ) , 1,171 to 4,300 pg/ml ) than in survivors ( 1,184 pg/ml ( median , 875 to 2,113 ) ; P = 0.002 ) , whereas PCT was not different ( 18.5 g/L ( median 3.4 to 45.2 ) and 10.8 g/L ( 2.7 to 41.9 ) ; P = 0.31 ) .
+RESULTS	The evolution of presepsin levels over time was significantly different in survivors compared to decedents ( P for time-survival interaction = 0.03 ) , whereas PCT decreased similarly in the two groups ( P = 0.13 ) .
+RESULTS	Presepsin was the only variable independently associated with ICU and 28-day mortality in Cox models adjusted for clinical characteristics .
+RESULTS	It showed better prognostic accuracy than PCT in the range of Sequential Organ Failure Assessment score ( area under the curve ( AUC ) from 0.64 to 0.75 vs. AUC 0.53 to 0.65 ) .
+CONCLUSIONS	In this multicenter clinical trial , we provide the first evidence that presepsin measurements may have useful prognostic information for patients with severe sepsis or septic shock .
+CONCLUSIONS	These preliminary findings suggest that presepsin may be of clinical importance for early risk stratification .
+

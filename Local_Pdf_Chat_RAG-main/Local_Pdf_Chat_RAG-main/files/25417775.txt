@@ -1,0 +1,12 @@
+25417775
+BACKGROUND	Bevacizumab is associated with an increased risk of arterial thromboembolism ( ATE ) ; however , its effect on venous thromboembolism ( VTE ) remains controversial .
+BACKGROUND	Scant data exist on the factors that increase the risk of ATE/VTE in patients with prostate cancer .
+BACKGROUND	The authors investigated the association of bevacizumab treatment and clinical factors with ATE/VTE risk in patients who were treated on Cancer and Leukemia Group B ( CALGB ) trial 90401 .
+METHODS	Patients with metastatic , castration-resistant prostate cancer were randomized to receive docetaxel and prednisone with or without bevacizumab once every 21 days .
+METHODS	Cycle-to-event Cox regression models were used to investigate the association of bevacizumab with the incidence of grade 3 or greater ( 3 ) ATE and VTE .
+METHODS	Age , prior ATE/VTE , baseline antiplatelet/anticoagulant use , and VTE risk score ( based on leukocyte count , hemoglobin , platelet count , body mass index , and tumor location ) were evaluated in univariate and multivariable analyses .
+RESULTS	Of 1008 randomized patients , the odds of experiencing grade 3 ATE were significantly greater in those who received bevacizumab compared with those who received placebo ( odds ratio , 2.79 ; P = .02 ) , whereas an opposite trend was noted for grade 3 VTE ( odds ratio , 0.60 ; P = .08 ) .
+RESULTS	In the multivariable analysis , bevacizumab treatment ( hazard ratio [ HR ] , 3.00 ; P = .01 ) and age ( HR , 1.06 ; P = .02 ) were significantly associated with the risk of ATE ; whereas age ( HR , 1.05 ; P = .01 ) and VTE risk score ( HR , 1.83 ; P = .03 ) were significantly associated with the risk of VTE .
+CONCLUSIONS	Bevacizumab was significantly associated with a greater risk of ATE in patients with metastatic , castration-resistant prostate cancer , but it was not significantly associated with the risk of VTE .
+CONCLUSIONS	Understanding clinical factors that increase the risk for experiencing ATE/VTE is essential to mitigate the risks and reduce the burden of these prevalent complications in cancer care .
+

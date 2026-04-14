@@ -1,0 +1,14 @@
+25027552
+BACKGROUND	We performed a randomized , non-comparative phase II study evaluating docetaxel in combination with either daily continuous ( protracted IV ) 5-fluorouracil or cisplatin administered weekly , concurrent to radiotherapy in the treatment of locally advanced pancreatic carcinoma .
+BACKGROUND	Results of the docetaxel plus cisplatin regimen are reported .
+METHODS	Forty chemotherapy-naive patients with locally advanced pancreatic carcinoma were randomly assigned to receive 5-fluorouracil and docetaxel or docetaxel 20mg/m ( 2 ) and cisplatin 20mg/m ( 2 ) / week , plus concurrent radiotherapy for 6 weeks .
+METHODS	The radiation dose to the primary tumour was 54Gy in 30 fractions .
+METHODS	The trial 's primary endpoint was the 6-month crude non-progression rate .
+RESULTS	51 patients from 7 centres were included in the docetaxel-cisplatin treatment group .
+RESULTS	Six-month non-progression rate was 39 % ( 95 % confidence interval : 26-53 ) .
+RESULTS	Median overall survival was 9.6 months ( 95 % confidence interval : 2.4-60 .7 ) ; 6 complete and 8 partial responses were obtained .
+RESULTS	Six patients survived more than 2 years after their inclusion in the trial .
+RESULTS	Grade 3 toxicity was reported in 63 % of patients ; no treatment-related death occurred .
+RESULTS	Severe toxicities were mainly anorexia ( 22 % ) , vomiting ( 20 % ) and fatigue ( 24 % ) .
+CONCLUSIONS	Despite inadequate efficacy according to the main end point , this regimen gave a satisfactory rate of objective response ( 27 % ) with tolerable toxicity .
+

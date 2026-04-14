@@ -1,0 +1,17 @@
+26057285
+OBJECTIVE	Some patients with lower leg amputations may be candidates for motorized prosthetic limbs .
+OBJECTIVE	Optimal control of such devices requires accurate classification of the patient 's ambulation mode ( eg , on level ground or ascending stairs ) and natural transitions between different ambulation modes .
+OBJECTIVE	To determine the effect of including electromyographic ( EMG ) data and historical information from prior gait strides in a real-time control system for a powered prosthetic leg capable of level-ground walking , stair ascent and descent , ramp ascent and descent , and natural transitions between these ambulation modes .
+METHODS	Blinded , randomized crossover clinical trial conducted between August 2012 and November 2013 in a research laboratory at the Rehabilitation Institute of Chicago .
+METHODS	Participants were 7 patients with unilateral above-knee ( n = 6 ) or knee-disarticulation ( n = 1 ) amputations .
+METHODS	All patients were capable of ambulation within their home and community using a passive prosthesis ( ie , one that does not provide external power ) .
+METHODS	Electrodes were placed over 9 residual limb muscles and EMG signals were recorded as patients ambulated and completed 20 circuit trials involving level-ground walking , ramp ascent and descent , and stair ascent and descent .
+METHODS	Data were acquired simultaneously from 13 mechanical sensors embedded on the prosthesis .
+METHODS	Two real-time pattern recognition algorithms , using either ( 1 ) mechanical sensor data alone or ( 2 ) mechanical sensor data in combination with EMG data and historical information from earlier in the gait cycle , were evaluated .
+METHODS	The order in which patients used each configuration was randomized ( 1:1 blocked randomization ) and double-blinded so patients and experimenters did not know which control configuration was being used .
+METHODS	The main outcome of the study was classification error for each real-time control system .
+METHODS	Classification error is defined as the percentage of steps incorrectly predicted by the control system .
+RESULTS	Including EMG signals and historical information in the real-time control system resulted in significantly lower classification error ( mean , 7.9 % [ 95 % CI , 6.1 % -9.7 % ] ) across a mean of 683 steps ( range , 640-756 steps ) compared with using mechanical sensor data only ( mean , 14.1 % [ 95 % CI , 9.3 % -18.9 % ] ) across a mean of 692 steps ( range , 631-775 steps ) , with a mean difference between groups of 6.2 % ( 95 % CI , 2.7 % -9.7 % ] ( P = .01 ) .
+CONCLUSIONS	In this study of 7 patients with lower limb amputations , inclusion of EMG signals and temporal gait information reduced classification error across ambulation modes and during transitions between ambulation modes .
+CONCLUSIONS	These preliminary findings , if confirmed , have the potential to improve the control of powered leg prostheses .
+

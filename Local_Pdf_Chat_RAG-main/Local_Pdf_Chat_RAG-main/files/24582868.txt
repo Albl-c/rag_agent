@@ -1,0 +1,13 @@
+24582868
+OBJECTIVE	To evaluate the impact of contact lens ( CL ) - induced corneal swelling on the optical quality of the eye by means of the double-pass technique .
+METHODS	Measurements of 6 healthy subjects were obtained in 5 visits over 1 week , at baseline and after sleeping with 4 different CLs of +0.50 D , +2.00 D , +5.00 D and +8.00 D ( Acuvue2 ) , randomly fitted on 4 different days .
+METHODS	The control eye wore no CL .
+METHODS	Corneal pachymetry and optical quality of the eye ( OQAS , Visiometrics ) were measured once at baseline and at three interval times in the follow-up visits : immediately after CL removal , and 1 and 2 h after CL removal .
+METHODS	Optical quality was evaluated by means of the Strehl ratio and OQAS values at 100 % , 20 % and 9 % contrasts .
+METHODS	Intraocular scattering was evaluated with the objective scatter index ( OSI ) .
+RESULTS	Mean overnight swelling was 5.98 4.29 % in CL-eyes versus 0.30 0.78 % in control eyes ( p < 0.01 ) .
+RESULTS	Corneal swelling was maximal immediately after CL removal and decreased with time ( p < 0.01 ) .
+RESULTS	A significant worsening in all optical quality parameters and a significant increase of the OSI were found in eyes with corneal swelling ( p < 0.05 ) .
+RESULTS	Two hours after CL removal there were no statistically significant differences ( p > 0.05 ) between CL-eyes and control eyes in any of the measured parameters .
+CONCLUSIONS	Corneal swelling has a significant impact on the optical quality of the eye and on intraocular scattering as assessed with the double-pass technique .
+

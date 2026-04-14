@@ -1,0 +1,16 @@
+26017658
+BACKGROUND	Safe and cost-effective programs for implementing early infant male circumcision ( EIMC ) in Africa need to be piloted .
+BACKGROUND	We present results on a relative cost analysis within a randomized noninferiority trial of EIMC comparing the AccuCirc device with Mogen clamp in Zimbabwe .
+METHODS	Between January and June 2013 , male infants who met inclusion criteria were randomized to EIMC through either AccuCirc or Mogen clamp conducted by a doctor , using a 2:1 allocation ratio .
+METHODS	We evaluated the overall unit cost plus the key cost drivers of EIMC using both AccuCirc and Mogen clamp .
+METHODS	Direct costs included consumable and nonconsumable supplies , device , personnel , associated staff training , and environmental costs .
+METHODS	Indirect costs comprised capital and support personnel costs .
+METHODS	In 1-way sensitivity analyses , we assessed potential changes in unit costs due to variations in main parameters , one at a time , holding all other values constant .
+RESULTS	The unit costs of EIMC using AccuCirc and Mogen clamp were $ 49.53 and $ 55.93 , respectively .
+RESULTS	Key cost drivers were consumable supplies , capacity utilization , personnel costs , and device price .
+RESULTS	Unit prices are likely to be lowest at full capacity utilization and increase as capacity utilization decreases .
+RESULTS	Unit prices also fall with lower personnel salaries and increase with higher device prices .
+CONCLUSIONS	EIMC has a lower unit cost when using AccuCirc compared with Mogen clamp .
+CONCLUSIONS	To minimize unit costs , countries planning to scale-up EIMC using AccuCirc need to control costs of consumables and personnel .
+CONCLUSIONS	There is also need to negotiate a reasonable device price and maximize capacity utilization .
+

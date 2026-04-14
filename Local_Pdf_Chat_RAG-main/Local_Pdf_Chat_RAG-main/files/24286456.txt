@@ -1,0 +1,12 @@
+24286456
+BACKGROUND	Several chemokines , notably eotaxin , mediate the recruitment of eosinophils into tissues via the CCR3 receptor .
+OBJECTIVE	In this study , we investigated the role of CCR3 agonists in asthma by observing the effect of a small molecule antagonist of the CCR3 receptor ( GW766994 ) on sputum eosinophil counts in patients with eosinophilic asthma .
+METHODS	Clinical and physiological outcomes , the chemotactic activity of sputum supernatant for eosinophils and the presence of eosinophil progenitors in sputum and blood samples were also studied .
+RESULTS	In a double-blind parallel group study , 60 patients with asthma were randomized to 300 mg of GW766994 twice daily or matching placebo for 10 days followed by prednisone 30 mg for 5 days .
+RESULTS	Of these patients , 53 had a sputum eosinophil count > 4.9 % at baseline .
+RESULTS	Despite plasma concentrations of drug consistent with > 90 % receptor occupancy during the dosing period , the CCR3 antagonist did not significantly reduce eosinophils or eosinophil progenitor cells ( CD34 ( + ) 45 ( + ) IL-5R ( + ) ) in sputum or in blood .
+RESULTS	The ex vivo chemotactic effect of sputum supernatants on eosinophils was attenuated by GW766944 compared to placebo .
+RESULTS	There was no improvement in FEV1 ; however , there was a modest but statistically significant improvement in PC20 methacholine ( 0.66 doubling dose ) and ACQ scores , ( 0.43 ) .
+RESULTS	Whilst the improvement in PC20 is statistically significant , it is not of clinical significance .
+CONCLUSIONS	In conclusion , this study calls into question the role of CCR3 in airway eosinophilia in asthma and suggests that other cellular mechanisms mediated by the CCR3 receptor may contribute to airway hyperresponsiveness .
+

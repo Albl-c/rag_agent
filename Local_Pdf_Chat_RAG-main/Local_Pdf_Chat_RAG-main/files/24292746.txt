@@ -1,0 +1,10 @@
+24292746
+OBJECTIVE	The aim of the present study was to investigate whether the following four markers : vitamin B12 , selenium , vitamin D , and parvalbumin may be used as compliance markers for fish intake .
+METHODS	Blood samples from a randomized cross-over herring intervention study ( n = 32 ) were analysed by HPLC and immunochemistry .
+METHODS	The criteria were that plasma or serum concentrations of candidate compliance markers after the herring diet should increase significantly compared to starting concentrations .
+METHODS	In addition , the reference meat diet should not yield an increase in plasma concentration of the candidate marker .
+RESULTS	Vitamin B12 and selenium met the set criteria for indicating a correlation between the marker and fish intake with significant increases in serum concentrations at 8.9 % ( p = 0.008 ) and 4.6 % ( p = 0.02 ) , respectively , after a 6-week herring intervention ( 5 meals a week ) .
+RESULTS	Parvalbumin and 25-hydroxy vitamin D3 levels did not increase significantly after the herring interventions .
+CONCLUSIONS	Vitamin B12 may be suitable as a compliance marker for fish intake .
+CONCLUSIONS	Although selenium also met the criteria , the change in selenium serum concentrations was small compared to the change in vitamin B12 levels .
+

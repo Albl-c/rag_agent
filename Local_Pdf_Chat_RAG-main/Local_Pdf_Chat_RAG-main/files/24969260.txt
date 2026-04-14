@@ -1,0 +1,18 @@
+24969260
+OBJECTIVE	To compare the effectiveness of two low-intensity approaches for distressed patients with cancer and caregivers who had called cancer helplines seeking support .
+OBJECTIVE	Baseline distress was hypothesized as a moderator of intervention effect .
+METHODS	Randomized trial .
+METHODS	Community-based cancer helplines in Queensland and New South Wales , Australia .
+METHODS	354 patients with cancer and 336 caregivers .
+METHODS	Participants were randomized to either a single session of nurse-led self-management intervention or a five-session psychologist cognitive behavioral intervention delivered by telephone .
+METHODS	Assessments were undertaken at baseline ( preintervention ) and at 3 , 6 , and 12 months .
+METHODS	Psychological and cancer-specific distress and post-traumatic growth .
+RESULTS	No significant moderation by baseline cancer-specific distress was noted .
+RESULTS	For low-education patients , only the psychologist intervention was associated with a significant drop in distress .
+RESULTS	For all other participants , distress decreased over time in both arms with small to large effect sizes ( Cohen 's ds = 0.05-0 .82 ) .
+RESULTS	Post-traumatic growth increased over time for all participants ( Cohen 's ds = 0.6-0 .64 ) .
+CONCLUSIONS	Many distressed patients with cancer and their caregivers may benefit significantly from a single session of a nurse psychoeducation intervention that can be delivered remotely by telephone and supported by self-management materials .
+CONCLUSIONS	Research is needed to develop an algorithm that moves beyond the use of distress as the only indicator for referral to specialist psychological services .
+CONCLUSIONS	Survivors and caregivers with low education and low literacy may require more in-depth and targeted support .
+CONCLUSIONS	Brief nurse psychoeducation and stress management for cancer survivors and caregivers should be considered as part of a tiered approach to psychosocial care .
+

@@ -1,0 +1,22 @@
+25419615
+OBJECTIVE	Varicella-zoster virus ( VZV ) infections increasingly are reported in patients with multiple sclerosis ( MS ) and constitute an area of significant concern , especially with the advent of more disease-modifying treatments in MS that affect T-cell-mediated immunity .
+OBJECTIVE	To assess the incidence , risk factors , and clinical characteristics of VZV infections in fingolimod-treated patients and provide recommendations for prevention and management .
+METHODS	Rates of VZV infections in fingolimod clinical trials are based on pooled data from the completed controlled phases 2 and 3 studies ( 3916 participants ) and ongoing uncontrolled extension phases ( 3553 participants ) .
+METHODS	Male and female patients aged 18 through 55 years ( 18-60 years for the phase 2 studies ) and diagnosed as having relapsing-remitting MS were eligible to participate in these studies .
+METHODS	In the postmarketing setting , reporting rates since 2010 were evaluated .
+METHODS	In clinical trials , patients received fingolimod at a dosage of 0.5 or 1.25 mg/d , interferon beta-1a , or placebo .
+METHODS	In the postmarketing setting , all patients received fingolimod , 0.5 mg/d ( total exposure of 54,000 patient-years at the time of analysis ) .
+METHODS	Calculation of the incidence rate of VZV infection per 1000 patient-years was based on the reporting of adverse events in the trials and the postmarketing setting .
+RESULTS	Overall , in clinical trials , VZV rates of infection were low but higher with fingolimod compared with placebo ( 11 vs 6 per 1000 patient-years ) .
+RESULTS	A similar rate was confirmed in the ongoing extension studies .
+RESULTS	Rates reported in the postmarketing settings were comparable ( 7 per 1000 patient-years ) and remained stable over time .
+RESULTS	Disproportionality in reporting herpes zoster infection was higher for patients receiving fingolimod compared with those receiving other disease-modifying treatments ( empirical Bayes geometric mean , 2.57 [ 90 % CI , 2.26-2 .91 ] ) ; the proportion of serious herpes zoster infections was not higher than the proportion for other treatments ( empirical Bayes geometric mean , 1.88 [ 90 % CI , 0.87-3 .70 ] ) .
+RESULTS	Corticosteroid treatment for relapses might be a risk factor for VZV reactivation .
+CONCLUSIONS	Rates of VZV infections in clinical trials were low with fingolimod , 0.5 mg/d , but higher than in placebo recipients .
+CONCLUSIONS	Rates reported in the postmarketing setting are comparable .
+CONCLUSIONS	We found no sign of risk accumulation with longer exposure .
+CONCLUSIONS	Serious or complicated cases of herpes zoster were uncommon .
+CONCLUSIONS	We recommend establishing the patient 's VZV immune status before initiating fingolimod therapy and immunization for patients susceptible to primary VZV infection .
+CONCLUSIONS	Routine antiviral prophylaxis is not needed , but using concomitant pulsed corticosteroid therapy beyond 3 to 5 days requires an individual risk-benefit assessment .
+CONCLUSIONS	Vigilance to identify early VZV symptoms is important to allow timely antiviral treatment .
+

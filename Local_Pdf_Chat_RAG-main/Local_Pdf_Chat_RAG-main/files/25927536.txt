@@ -1,0 +1,14 @@
+25927536
+BACKGROUND	This analysis is based on a survey questionnaire designed to describe medical educators ' views of psychiatry and psychiatrists .
+BACKGROUND	Our goals in this paper were to assess the psychometric properties of the survey questions by ( a ) using exploratory factor analysis to identify the basic factor structure underlying 37 survey items ; ( b ) testing the resulting factor structure using confirmatory factor analysis ; and ( c ) assessing the internal reliability of each identified factor .
+BACKGROUND	To our knowledge , this is the first attempt to use these techniques to psychometrically assess a scale measuring the strength of stigma that medical educators attached to psychiatry .
+METHODS	Survey data were collected from a random sample of 1,059 teaching faculty in 23 academic teaching sites in 15 countries .
+METHODS	We conducted exploratory and confirmatory factor analysis to identify the scale structure and Cronbach 's alpha to assess internal consistency of the resulting scales .
+RESULTS	Results showed that a two-factor solution was the best fit for the data .
+RESULTS	Following exploratory factor analysis , we conducted confirmatory factor analysis on a split half of the sample .
+RESULTS	Results highlighted several items with low loadings .
+RESULTS	Excluding factors with low correlations and allowing for several correlated variances resulted in a good fitting model explaining 95 % of the variance in the data .
+CONCLUSIONS	We identified two unidimensional scales .
+CONCLUSIONS	The Images Scale contained 11 items measuring stereotypic content concerning psychiatry and psychiatrists .
+CONCLUSIONS	The Efficacy of Psychiatry Scale contained 5 items addressing perceptions of the challenges and effectiveness of psychiatry as a discipline .
+

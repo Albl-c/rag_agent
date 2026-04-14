@@ -1,0 +1,13 @@
+24342196
+OBJECTIVE	To evaluate the efficacy and safety of iron protein succinylate ( IPS ) oral solution in preventing and treating anemia of prematurity ( AOP ) .
+METHODS	Sixty premature infants less than 35 weeks of gestation were randomly divided into IPS ( n = 30 ) and polysaccharide iron complex ( PIC ) groups ( n = 30 ) .
+METHODS	Treatment began at two weeks after birth .
+METHODS	The infants received IPS or PIC in addition to recombinant human erythropoietin .
+METHODS	On days 14 , 28 , 42 , and 60 after treatment , hemoglobin ( Hb ) , red blood cell count ( RBC ) , hematocrit ( HCT ) , percentage of reticulocytes , serum iron , and serum ferritin were determined .
+METHODS	Liver and renal functions were evaluated before and after treatment .
+RESULTS	There were significant differences in the changing trends of RBC and HCT between the two groups ( P < 0.05 ) .
+RESULTS	In the IPS group , RBC and HCT gradually decreased after birth , but began to rise gradually on days 28 and 42 of treatment ; in the PIC group , RBC and HCT kept decreasing from birth to day 60 of treatment .
+RESULTS	On day 60 of treatment , the IPS group had significantly higher levels of Hb , RBC , HCT , serum iron , and serum ferritin than the PIC group ( P < 0.05 ) .
+RESULTS	No notable adverse events occurred in either group .
+CONCLUSIONS	IPS oral solution has good efficacy and tolerability in preventing and treating AOP .
+

@@ -1,0 +1,11 @@
+25499341
+BACKGROUND	The Rho-kinase pathway has been shown to be involved in the pathogenesis of PAH .
+BACKGROUND	As yet , however , the acute effects of the Rho-kinase inhibitor fasudil have not been compared with established pulmonary selective vasodilators in patients with PAH .
+BACKGROUND	We compared the acute effects of intravenous fasudil with inhaled iloprost in patients with pulmonary arterial hypertension ( PAH ) .
+METHODS	Using a crossover design , 50 patients with PAH ( idiopathic PAH , PAH associated with repaired left-to-right cardiac shunts , or connective tissue disease ) were randomized to iloprost inhalation ( 5 g ) and intravenous fasudil ( 30 mg over 30 min ) .
+METHODS	Hemodynamic data were collected at baseline and during acute drug exposure .
+RESULTS	Comparable decreases were observed in mean pulmonary artery pressure ( -4.6 4.3 mmHg vs. -4.8 4.2 mmHg ) and pulmonary vascular resistance ( -3.0 3.0 Wood U vs. -2.2 2.7 Wood U ) with fasudil infusion and iloprost inhalation , respectively , during acute challenge .
+RESULTS	However , fasudil infusion resulted in a more pronounced increase in mean cardiac output and mixed venous oxygen saturation compared with iloprost inhalation ( 13.7 17.1 % vs. 6.9 15.0 % ; p = 0.044 and 4.5 5.3 % vs. 2.7 8.2 % ; p = 0.044 , respectively ) .
+RESULTS	Whereas inhaled iloprost resulted in a non-significant increase in mean systemic arterial oxygen saturation ( 0.8 3.6 % ) , infused fasudil resulted in a non-significant reduction ( -0.6 1.1 % ) .
+CONCLUSIONS	Infused fasudil improved pulmonary hemodynamics in patients with PAH without significant toxicity .
+

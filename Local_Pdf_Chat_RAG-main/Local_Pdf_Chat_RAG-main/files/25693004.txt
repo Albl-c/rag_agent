@@ -1,0 +1,17 @@
+25693004
+BACKGROUND	Angiotensin II receptor blockers ( ARBs ) is a well-tolerated class of antihypertensive agents , exhibiting effective antihypertensive and cardiovascular protective function .
+BACKGROUND	The objective of the study was to examine the efficacy and safety of Allisartan Isoproxil , a newly developed , selective , nonpeptide blocker of the angiotensin II type 1 receptor ( AT1R ) , in essential hypertensive patients at low-medium risk .
+RESULTS	A Phase II prospective , randomized , double-blind , placebo-controlled , multicenter trial comparing Allisartan Isoproxil 240mg versus placebo was conducted in essential hypertensive patients at low-medium risk at 8 sites in China .
+RESULTS	After a 2-week placebo baseline period , 275 patients received once-daily treatment with Allisartan Isoproxil 240mg or placebo randomly for 8 weeks .
+RESULTS	Systolic/diastolic blood pressure ( SBP/DBP ) was measured at week 2 , 4 and 8 .
+RESULTS	By the end of treatment , mean reductions from baseline of SBP and DBP in Allisartan Isoproxil and placebo groups were 14.5 / 10.4 and 8.3 / 7.7 mmHg , respectively ( P < 0.01 ) .
+RESULTS	The rate of effective blood pressure control in Allisartan Isoproxil group was significantly higher than in placebo group at week 4 ( 61.3 % vs 50.0 % , P < 0.05 ) and week 8 ( 67.2 % vs 48.6 % , P < 0.01 ) .
+RESULTS	In terms of safety and tolerability , there were no report of death and serious adverse event ( SAE ) in all subjects .
+RESULTS	There was no difference of frequency between two groups in adverse event ( AE ) and adverse drug reaction ( ADR ) ( P > 0.05 ) .
+RESULTS	No one withdraw because of an ADR in two groups .
+RESULTS	124 patients received additional 56 weeks treatment with Allisartan Isoproxil and 84 of them completed the study .
+RESULTS	The rate of effective BP control kept up to 80 % since week 24 .
+RESULTS	No significant clinical change was observed and ADRs were generally mild or moderate during the long-term study .
+CONCLUSIONS	Allisartan Isoproxil 240mg was effective and safe for essential hypertension patients at low-medium risk .
+BACKGROUND	http://www.chictr.org/cn/ ChiCTR-TRC-10000886 .
+

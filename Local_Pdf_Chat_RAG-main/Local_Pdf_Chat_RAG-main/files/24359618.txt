@@ -1,0 +1,11 @@
+24359618
+BACKGROUND	Hemostasis in thyroid surgery is of utmost importance for a successful surgery and an uneventful postoperative course .
+BACKGROUND	Our aim was to evaluate the effectiveness of the FOCUS Harmonic Scalpel in patients undergoing open total thyroidectomy .
+METHODS	In this study , 778 patients were randomized into 2 groups based on the surgical technique used : group I comprised the conventional clamp-and-tie technique , group II comprised patients in whom the FOCUS Harmonic Scalpel was used exclusively .
+METHODS	The groups were compared in regard to surgical time , complications , and hospital stay .
+RESULTS	Surgical time was significantly lower in group II compared with group I ( 7921.5 min vs. 12530.4 , respectively , P < 0.001 ) .
+RESULTS	Twenty-seven patients ( 6.94 % ) in group I experienced symptomatic hypocalcemia requiring calcium and/or vitamin D therapy versus 14 patients ( 3.6 % ) in group II , with statistically significant difference ( P < 0.05 ) .
+RESULTS	Mean post-operative hospital stay was significantly lower in group II compared with group I ( 2.60.9 vs. 2.91.0 ; P < 0.001 ) .
+CONCLUSIONS	The FOCUS Harmonic Scalpel can shorten operative time and hospital stay , reduce incidence of symptomatic hypocalcemia but not transient hypoparathyroidism , and show no significance on recurrent nerve injury .
+CONCLUSIONS	FOCUS Harmonic Scalpel is supposed to be a more reliable and safe instrument that can take place of the clamp-and-tie technique in total thyroidectomy .
+

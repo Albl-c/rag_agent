@@ -1,0 +1,11 @@
+26122282
+BACKGROUND	Recent reports have questioned the adequacy of self-report measures of dietary intake as the basis for scientific conclusions regarding the associations of dietary intake and health , and reports have recommended the development and evaluation of better methods for the assessment of dietary intake in free-living individuals .
+BACKGROUND	We developed a procedure that used pre - and post-meal digital photographs in combination with dietary recalls ( DP+R ) to assess energy intake during ad libitum eating in a cafeteria setting .
+OBJECTIVE	To compare mean daily energy intake of overweight and obese young adults assessed by a DP+R method with mean total daily energy expenditure assessed by doubly labeled water ( TDEE ( DLW ) ) .
+METHODS	Energy intake was assessed using the DP+R method in 91 overweight and obese young adults ( age = 22.93.2 years , body mass index [ BMI ; calculated as kg/m ( 2 ) ] = 31.25.6 , female = 49 % ) over 7 days of ad libitum eating in a university cafeteria .
+METHODS	Foods consumed outside the cafeteria ( ie , snacks , non-cafeteria meals ) were assessed using multiple-pass recall procedures , using food models and standardized , neutral probing questions .
+METHODS	TDEE ( DLW ) was assessed in all participants over the 14-day period .
+RESULTS	The mean energy intakes estimated by DP+R and TDEE ( DLW ) were not significantly different ( DP+R = 2912661 kcal/d ; TDEE ( DLW ) = 2849748 kcal/d , P = 0.42 ) .
+RESULTS	The DP+R method overestimated TDEE ( DLW ) by 63750 kcal/d ( 6.828 % ) .
+CONCLUSIONS	Results suggest that the DP+R method provides estimates of energy intake comparable to those obtained by TDEE ( DLW ) .
+

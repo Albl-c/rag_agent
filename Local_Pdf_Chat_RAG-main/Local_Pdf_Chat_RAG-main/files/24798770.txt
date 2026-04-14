@@ -1,0 +1,12 @@
+24798770
+BACKGROUND	The integrase inhibitor dolutegravir and nucleoside analogues abacavir and lamivudine are once-daily treatment options for HIV .
+BACKGROUND	This study ( NCT01622790 ) evaluated , first , the bioequivalence ( BE ) of a fixed-dose combination ( FDC ) tablet containing dolutegravir 50 mg , abacavir 600 mg , and lamivudine 300 mg ( dolutegravir/abacavir/lamivudine FDC ) vs coadministered dolutegravir 50 mg and abacavir/lamivudine combination tablets ( Epzicom ) and , second , the effect of food on the dolutegravir/abacavir/lamivudine FDC tablet .
+METHODS	Study part A ( 66 healthy subjects ) was a single-dose , open-label , randomized , 2-period crossover study to evaluate the BE of the dolutegravir/abacavir/lamivudine FDC tablet and dolutegravir + abacavir/lamivudine tablets in the fasted state .
+METHODS	In study part B , 12 subjects from part A received the dolutegravir/abacavir/lamivudine FDC tablet with a high-fat meal .
+METHODS	BE and food effect were assessed by analysis of variance to determine the ratio of geometric least squares means and associated 90 % confidence intervals for key pharmacokinetic parameters for each of dolutegravir , abacavir , and lamivudine .
+RESULTS	Sixty-two subjects completed part A.
+RESULTS	The dolutegravir/abacavir/lamivudine tablet was bioequivalent to the dolutegravir + abacavir/lamivudine tablets ; 90 % confidence intervals for the geometric least squares mean ratios fell within the 0.8-1 .25 BE criteria .
+RESULTS	The effect of food on the dolutegravir/abacavir/lamivudine FDC tablet was similar to previous food effects observed with the separate formulations .
+RESULTS	The safety profile was comparable between treatments , with no observed serious or grade 3/4 adverse events .
+CONCLUSIONS	The BE of the dolutegravir/abacavir/lamivudine FDC tablet was demonstrated ; it may be administered without regard to meals .
+

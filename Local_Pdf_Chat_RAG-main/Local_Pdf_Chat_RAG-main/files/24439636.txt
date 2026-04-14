@@ -1,0 +1,8 @@
+24439636
+OBJECTIVE	This study sought to determine the effects of lavender aromatherapy on pain following needle insertion into a fistula in patients undergoing hemodialysis .
+METHODS	This is a randomized controlled clinical trial in which 92 patients undergoing hemodialysis with arteriovenous fistulas were randomly divided into two groups .
+METHODS	The experimental-group patients inhaled lavender essence with a concentration of 10 % for 5min during 3 hemodialysis sessions , while the control-group patients received aromatherapy free of lavender essence .
+RESULTS	The mean VAS pain intensity score in the experimental and control groups before the intervention was 3.780.24 and 4.160.32 , respectively ( p = 0.35 ) .
+RESULTS	The mean VAS pain intensity score in the experimental and control groups after three aromatherapy sessions was 2.360.25 and 3.430.31 , respectively ( p = 0.009 ) .
+CONCLUSIONS	Lavender aromatherapy may be an effective technique to reduce pain following needle insertion into a fistula in hemodialysis patients .
+

@@ -1,0 +1,14 @@
+24809142
+OBJECTIVE	To observe the impact of the diverse caloric energy intake on the outcomes and occurrence rate of complications in septic patients .
+METHODS	A prospective single-blind randomized controlled trial was conducted .
+METHODS	158 cases of septic patients in intensive care unit ( ICU ) were enrolled and randomly assigned to three groups according to their different target value of nutrition : group A [ measurements of resting energy expenditure ( MREE ) < 90 % J , B ( MREE 90 % -110 % ) and C ( MREE > 110 % ) .
+METHODS	The caloric intake , mechanical ventilation duration ( MVD ) , nosocomial infection rate , 28-day and 60-day mortality were analyzed .
+RESULTS	Daily energy intake in 7 days after ICU admission was as follows : the difference in target value of nutrition ( kJ/d : 7 075.0 1 046.5 , 5 667.8 1 908.8,4 428.8 1 377.8 ) , calory intake ( k ] / d : 4 671.6 1 205.6 , 5 655.3 1 373.0 , 6 053.0 1 557.2 ) , enteral nutrition value ( kJ/d : 2 051.1 1 046.5 , 3 980.9 1 586.5 , 5 337.1 2 921.8 ) and average intake rate [ ( 66.0 15.8 ) % , ( 100.0 5.7 ) % , ( 134.0 19.7 ) % J , and they were statistically significant difference among A , B , C groups ( all P < 0.05 ) .
+RESULTS	The parenteral nutrition in group C were much higher than that in group A and group B ( kJ/d : 2 055.3 273.4 vs. 427.0 273.4 , 473.0 332.0 , both P < 0.05 ) .
+RESULTS	The calories provided by glucose and diprivan were similar among three groups .
+RESULTS	The MVD and ICU stay were shorter in group B than that in groups A and C [ MVD ( days ) : 8.4 6.3 vs. 11.0 8.2 , 17.8 13.0 , P > 0.05 and P < 0.05 ; ICU stay ( days ) : 11.0 6.4 vs. 14.9 9.6 , 17.8 13.0 , respectively , P > 0.05 and P < 0.05 ] .
+RESULTS	The total hospital stay ( days : 32.0 22.5 , 26.8 7.0 , 30.4 21.4 ) and nosocomial infection rate [ 91.1 % ( 51156 ) , 84.0 % ( 42/50 ) , 90.4 % ( 4 7/52 ) J were similar among A , B , C groups ( all P > 0.05 ) .
+RESULTS	There was no difference in survival rate at 28 days among three groups as shown by the Kaplan-Meier survival curve ( F = 3.145 , P = 0.076 ) .
+RESULTS	The survival rate at 60 days showed a tendency of lowering in groups A and C , especially in group C ( F = 9.284 , P = 0.010 ) .
+CONCLUSIONS	Both higher and lower caloric energy intake may be associated with an adverse impact , but appropriate caloric intake would improve the outcome and reduce the complication rate in septic patients .
+

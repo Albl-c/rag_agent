@@ -1,0 +1,16 @@
+24702612
+OBJECTIVE	To ( 1 ) develop a model of cyclical adduction force on an abducted left arytenoid cartilage that mimics swallowing or coughing ; ( 2 ) determine if arytenoid abduction by a clamp before knot tying will improve the maintenance of abduction under cyclical adduction testing .
+METHODS	Experimental .
+METHODS	Cadaveric equine larynges ( n = 14 ) .
+METHODS	Left laryngoplasty performed using a single suture of # 5 Ethibond with ( n = 7 ) and without ( n = 7 ) abducting the arytenoid with a clamp before knot tying .
+METHODS	Each laryngoplasty was loaded cyclically from 2 to 26N at 0.5 Hz for 5000 cycles in a servohydraulic test frame .
+METHODS	Arytenoid displacement data were collected at 1Hz intervals and median percent loss of abduction compared between groups .
+METHODS	Significance was set at P < .05 .
+RESULTS	Median left arytenoid abduction distance was 16.9 mm ( range , 9.8-19 .8 mm ) .
+RESULTS	One larynx in each group failed at < 1000 cycles .
+RESULTS	Loss of abduction was determined by progressive displacement of the testing actuator and confirmed by measurement .
+RESULTS	There was no difference in loss of abduction between clamped and non-clamped larynges after 5000 cycles .
+RESULTS	This model of cyclical adduction resulted in arytenoid displacements similar to those seen in the 1st week postoperatively .
+CONCLUSIONS	Ex vivo cyclical adductory forces produced a significant loss of laryngoplasty abduction .
+CONCLUSIONS	The use of a clamp to abduct the arytenoid cartilage before knot tying did not reduce the loss of abduction .
+

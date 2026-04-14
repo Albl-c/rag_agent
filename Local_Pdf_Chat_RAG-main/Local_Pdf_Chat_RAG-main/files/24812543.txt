@@ -1,0 +1,14 @@
+24812543
+OBJECTIVE	This study investigated the effects of fatty fish on sleep , daily functioning and biomarkers such as heart rate variability ( HRV ) , vitamin D status ( serum 25-hydroxyvitamin D ( 25OHD ) , and eicosapentaenoic acid ( EPA , 20:5 n-3 ) + docosahexaenoic acid ( DHA , 22:6 n-3 ) in red blood cells .
+OBJECTIVE	Moreover the relationship among sleep , daily functioning , HRV , vitamin D status , and levels of EPA+DHA was investigated .
+METHODS	Ninety-five male forensic patients from a secure forensic inpatient facility in the USA were randomly assigned into a Fish or a Control group .
+METHODS	The Fish group received Atlantic salmon three times per week from September to February , and the Control group was provided an alternative meal ( e.g. , chicken , pork , beef ) , but with the same nutritional value as their habitual diet , three times per week during the same period .
+METHODS	Sleep ( sleep latency , sleep efficiency , actual sleep time , and actual wake time ) , self-perceived sleep quality and daily functioning , as well as vitamin D status , EPA+DHA , and HRV , were assessed pre - and post-intervention period .
+RESULTS	There was a significant increase in sleep latency from pre - to post-test in the Control group .
+RESULTS	The Fish group reported better daily functioning than the Control group during post-test .
+RESULTS	Fish consumption throughout the wintertime had also an effect on resting HRV and EPA+DHA , but not on vitamin D status .
+RESULTS	However , at post-test , the vitamin D status in the Fish group was still closer to the level regarded as optimal compared to the Control group .
+RESULTS	Vitamin D status correlated negatively with actual wake time and positively with sleep efficiency during pre-test , as well as positively with daily functioning and sleep quality during post-test .
+RESULTS	Finally , HRV correlated negatively with sleep latency and positively with daily functioning .
+CONCLUSIONS	Fish consumption seemed to have a positive impact on sleep in general and also on daily functioning , which may be related to vitamin D status and HRV .
+

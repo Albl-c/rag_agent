@@ -1,0 +1,16 @@
+24305424
+BACKGROUND	Forehead and glabella rhytides are treated mostly with neurotoxins , although some practitioners prefer the concurrent use of fillers .
+BACKGROUND	It has been suggested that combination treatments can result in a better overall improvement .
+OBJECTIVE	To compare the safety and effectiveness of treatment of forehead and glabellar lines with botulinum toxin A alone versus botulinum toxin A and filler .
+METHODS	Split-face , randomized control trial .
+METHODS	Twenty subjects with forehead/glabellar rhytide complex ( static and dynamic creases ) enrolled .
+METHODS	Subjects were randomized and injected with botulinum toxin alone on one side of the forehead/glabella and hyaluronic acid filler followed by botulinum toxin on the other side .
+METHODS	Blinded ratings were obtained to assess the effectiveness of treatment for static and dynamic rhytides , respectively , at 2-week , 6-week , 3-month , and 6-month follow-up visits .
+METHODS	Subjects performed a self-evaluation at the end of the study .
+METHODS	Adverse events were recorded .
+RESULTS	Ratings of both treatments showed comparable efficacy , with 100 % of subjects experiencing improvement from baseline regardless of treatment type at weeks 2 , 6 , and 12 .
+RESULTS	Combination treatment produced longer-lasting results in dynamic forehead wrinkles , and greater static and dynamic wrinkle reduction in the glabella at week 24 .
+RESULTS	Subject self-evaluations showed that both treatments were effective , with a nominal preference for combination treatment .
+CONCLUSIONS	Glabella and forehead lines can be effectively and safely reduced with neurotoxin alone as well as neurotoxin in combination with fillers .
+CONCLUSIONS	Combination treatment may provide a slightly better cumulative benefit and also increase the persistence of effect .
+

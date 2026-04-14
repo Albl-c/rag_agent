@@ -1,0 +1,12 @@
+25516195
+OBJECTIVE	Experimental evidence has indicated the benefits of simvastatin for the treatment of subarachnoid hemorrhage .
+OBJECTIVE	Two randomized placebo-controlled pilot trials that used the highest clinically approved dose of simvastatin ( 80 mg daily ) gave positive results despite the fact that a lower dose of simvastatin ( 40 mg daily ) did not improve clinical outcomes .
+OBJECTIVE	We hypothesized that a high dose of 80 mg of simvastatin daily for 3 weeks would reduce the incidence of delayed ischemic deficits after subarachnoid hemorrhage compared with a lower dose ( 40 mg of simvastatin daily ) and lead to improved clinical outcomes .
+METHODS	The study design was a randomized controlled double-blinded clinical trial .
+METHODS	Patients with aneurysmal subarachnoid hemorrhage ( presenting within 96 hours of the ictus ) from 6 neurosurgical centers were recruited for 3 years .
+METHODS	The primary outcome measure was the presence of delayed ischemic deficits , and secondary outcome measures included a modified Rankin disability score at 3 months and an analysis of cost-effectiveness .
+RESULTS	No difference was observed between the groups treated with the higher dose or the lower dose of simvastatin in the incidence of delayed ischemic deficits ( 27 % versus 24 % ; odds ratio , 1.2 ; 95 % confidence interval , 0.7-2 .0 ; P = 0.586 ) or in the rate of favorable outcomes ( modified Rankin Scale score , 0-2 ) at 3 months ( 73 % versus 72 % ; odds ratio , 1.1 ; 95 % confidence interval , 0.6-1 .9 ; P = 0.770 ) .
+CONCLUSIONS	High-dose simvastatin treatment should not be prescribed routinely for aneurysmal subarachnoid hemorrhage .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT01077206 .
+

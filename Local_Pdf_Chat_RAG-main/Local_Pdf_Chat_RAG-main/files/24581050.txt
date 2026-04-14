@@ -1,0 +1,12 @@
+24581050
+BACKGROUND	Tinnitus is a result of hyper-activity/hyper-synchrony of auditory neurons coding the tinnitus frequency , which has developed to synchronous mass activity owing the lack of inhibition .
+BACKGROUND	We assume that removal of exactly these frequency components from an auditory stimulus will cause the brain to reorganize around tonotopic regions coding the tinnitus frequency .
+BACKGROUND	Based on this assumption a novel treatment for tonal tinnitus - tailor-made notched music training ( TMNMT ) ( Proc Natl Acad Sci USA 107:1207 -1210 , 2010 ; Ann N Y Acad Sci 1252:253 -258 , 2012 ; Frontiers Syst Neurosci 6:50 , 2012 ) has been introduced and will be tested in this clinical trial on a large number of tinnitus patients .
+METHODS	A randomized controlled trial ( RCT ) in parallel group design will be performed in a double-blinded manner .
+METHODS	The choice of the intervention we are going to apply is based on two `` proof of concept '' studies in humans ( Proc Natl Acad Sci USA 107:1207 -1210 , 2010 ; Ann N Y Acad Sci 1252:253 -258 , 2012 ; Frontiers Syst Neurosci 6:50 , 2012 ; PloS One 6 ( 9 ) : e24685 , 2011 ) and on a recent animal study ( Front Syst Neurosci 7:21 , 2013 ) .
+METHODS	The RCT includes 100 participants with chronic , tonal tinnitus who listened to tailor-made notched music ( TMNM ) for two hours a day for three months .
+METHODS	The effect of TMNMT is assessed by the tinnitus handicap questionnaire and visual analogue scales ( VAS ) measuring perceived tinnitus loudness , distress and handicap .
+CONCLUSIONS	This is the first randomized controlled trial applying TMNMT on a larger number of patients with tonal tinnitus .
+CONCLUSIONS	Our data will verify more securely and reliably the effectiveness of this kind of completely non-invasive and low-cost treatment approach on tonal tinnitus .
+BACKGROUND	Current Controlled Trials ISRCTN04840953 .
+

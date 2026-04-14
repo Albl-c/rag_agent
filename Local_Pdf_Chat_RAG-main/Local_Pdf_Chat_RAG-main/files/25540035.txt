@@ -1,0 +1,16 @@
+25540035
+BACKGROUND	Provoked vestibulodynia ( PVD ) , a frequent form of chronic genital pain , is associated with decreased sexual function for afflicted women , as well as impoverished sexual satisfaction for women and their partners .
+BACKGROUND	Pain and sexuality outcomes for couples with PVD are influenced by interpersonal factors , such as pain catastrophizing , partner responses to pain , ambivalence over emotional expression , attachment style and perceived relationship and sexual intimacy .
+BACKGROUND	Despite recommendations in the literature to include the partner in cognitive-behavioral therapy targeted at improving pain and sexuality outcomes , no randomized clinical trial has tested the efficacy of this type of intervention and compared it to a first-line medical intervention .
+METHODS	This bi-center , randomized clinical trial is designed to examine the efficacy of cognitive-behavioral couple therapy compared to topical lidocaine .
+METHODS	It is conducted across two Canadian university-hospital centers .
+METHODS	Eligible women diagnosed with PVD and their partners are randomized to one of the two interventions .
+METHODS	Evaluations are conducted using structured interviews and validated self-report measures at three time points : Pre-treatment ( T1 : prior to randomization ) , post-treatment ( T2 ) , and 6-month follow-up ( T3 ) .
+METHODS	The primary outcome is the change in reported pain during intercourse between T1 and T2 .
+METHODS	Secondary outcomes focus on whether there are significant differences between the two treatments at T2 and T3 on ( a ) the multidimensional aspects of women 's pain and ( b ) women and partners ' sexuality ( sexual function and satisfaction ) , psychological adjustment ( anxiety , depression , catastrophizing , self-efficacy , and quality of life ) , relationship factors ( partner responses and dyadic adjustment ) and self-reported improvement and treatment satisfaction .
+METHODS	In order to detect an effect size as small as 0.32 for secondary outcomes , a sample of 170 couples is being recruited ( 27 % dropout expected ) .
+METHODS	A clinically significant decrease in pain is defined as a 30 % reduction .
+CONCLUSIONS	The randomized clinical trial design is the most appropriate to examine the efficacy of cognitive-behavioral couple therapy , a recently developed and pilot-tested psychosocial intervention for couples coping with PVD , in comparison to a frequent first-line treatment option , topical lidocaine .
+CONCLUSIONS	Findings from this study will provide important information about empirically supported treatment options for PVD , and inform future treatment development and research for this patient population .
+BACKGROUND	Clinicaltrials.gov NCT01935063 ; registration date : 27 August 27 2013 .
+

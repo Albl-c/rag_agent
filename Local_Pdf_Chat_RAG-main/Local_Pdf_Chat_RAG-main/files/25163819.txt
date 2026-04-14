@@ -1,0 +1,15 @@
+25163819
+OBJECTIVE	To determine whether 17 alpha-hydroxyprogesterone caproate ( 17OHPC ) prolongs gestation beyond 37 weeks of gestation ( primary outcome ) and reduces neonatal morbidity ( secondary outcome ) in twin pregnancy .
+METHODS	Randomised controlled double-blind clinical trial .
+METHODS	Tertiary-care university medical centre .
+METHODS	Unselected women with twin pregnancies .
+METHODS	Participants received weekly injections of 250 mg 17OHPC ( n = 194 ) or placebo ( n = 94 ) , from 16-20 to 36 weeks of gestation .
+METHODS	Randomisation was performed using the permuted-block randomisation method .
+METHODS	Data were analysed on an intention-to-treat basis .
+METHODS	Preterm birth ( PTB ) rate before 37 weeks of gestation .
+RESULTS	There were no significant differences in the average gestational age at delivery , or in the rates of PTB before 37 , 32 , and 28 weeks of gestation , between the two groups .
+RESULTS	The proportion of very-low-birthweight neonates ( < 1500 g ) was significantly lower in the 17OHPC group ( 7.6 % ) compared with placebo ( 14.3 % ) ( relative risk , RR 0.5 ; 95 % confidence interval , 95 % CI 0.3-0 .9 ; P = 0.01 ) .
+RESULTS	Progestogen-treated neonates had a significantly lower composite neonatal morbidity ( 19.1 % ) compared with placebo ( 30.9 % ) ( odds ratio , OR 0.53 ; 95 % CI 0.31-0 .90 ; P = 0.02 ) , with significantly lower odds for respiratory distress syndrome ( 14.4 versus 23.4 % ; OR 0.55 ; 95 % CI 0.31-0 .98 ; P = 0.04 ) , retinopathy of prematurity ( 1.1 versus 4.6 % ; OR 0.21 ; 95 % CI 0.05-0 .96 ; P = 0.04 ) , and culture-confirmed sepsis ( 3.4 versus 12.8 % ; OR 0.24 ; 95 % CI 0.10-0 .57 ; P = 0.00 ) .
+CONCLUSIONS	Intramuscular 17OHPC therapy did not reduce PTB before 37 weeks of gestation in unselected twin pregnancies .
+CONCLUSIONS	Nonetheless , 17OHPC significantly reduced neonatal morbidity parameters and increased birthweight .
+

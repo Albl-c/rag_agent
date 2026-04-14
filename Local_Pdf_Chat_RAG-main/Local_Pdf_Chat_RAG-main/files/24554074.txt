@@ -1,0 +1,15 @@
+24554074
+OBJECTIVE	Concomitant carotid and cardiac surgery carries an increased perioperative morbidity and mortality risk .
+OBJECTIVE	Whether the hybrid procedure of carotid artery stenting ( CAS ) and coronary bypass surgery decreases the risk of stroke and other complications is still unknown .
+OBJECTIVE	The aim of this study was to assess early outcomes after simultaneous hybrid CAS and coronary bypass grafting versus open concomitant carotid and coronary bypass surgery .
+METHODS	We included 20 patients in this study .
+METHODS	According to the protocol , all the patients were divided into two groups : Group 1 ( 10 patients ) with hybrid CAS and coronary bypass surgery and Group 2 ( 10 patients ) with concomitant carotid and coronary surgery .
+METHODS	Different preoperative , intraoperative and postoperative variables were compared .
+METHODS	The primary end point was combined incidence of stroke and death 30 days after surgery or during initial hospitalization .
+METHODS	The secondary end points were myocardial infarction , atrial fibrillation , blood loss and need for blood transfusion and duration of intensive care unit and hospital stay .
+RESULTS	Groups 1 and 2 were similar in preoperative characteristics including age ( 65.3 6.8 vs 70.7 7.0 , P = 0.191 ) New York Heart Association class ( 2.3 0.5 vs 1.8 0.7 , P = 0.218 ) , EuroSCORE ( 2.8 2.0 vs 3.6 2.3 , P = 0.547 ) , the degree of carotid stenosis ( 79 12 vs 87 13 % , P = 0.224 ) and average left ventricular ejection fraction ( 44.3 12.4 vs 43.4 13.3 % , P = 0.896 ) .
+RESULTS	Also , the groups did not differ in intraoperative variables with an exception of extracorporeal circulation time ( 65.7 14.1 vs 90.0 + 17.4 min , P = 0.023 ) , which was significantly shorter in Group 1 .
+RESULTS	Although rare , and without significant difference , primary end point occurred only in Group 2 ( 1 stroke and 1 death , 20 % ) .
+RESULTS	There was no difference in the duration of mechanical ventilation , need for transfusion and duration of intensive care unit and hospital stay between the two groups .
+CONCLUSIONS	Although limited by a small sample size , our results show that the hybrid procedure of carotid stenting and coronary surgery might be a good therapeutic option but further extended studies are needed to assess its real value .
+

@@ -1,0 +1,8 @@
+25022777
+OBJECTIVE	To assess the relationship between session-by-session mediators and treatment outcomes in traditional cognitive-behavioral therapy ( CBT ) and acceptance and commitment therapy ( ACT ) for social anxiety disorder .
+METHODS	Session-by-session changes in negative cognitions ( a theorized mediator of CBT ) and experiential avoidance ( a theorized mediator of ACT ) were assessed in 50 adult outpatients randomized to CBT ( n = 25 ) or ACT ( n = 25 ) for DSM-IV social anxiety disorder .
+RESULTS	Multilevel modeling analyses revealed significant nonlinear decreases in the proposed mediators in both treatments , with ACT showing steeper decline than CBT at the beginning of treatment and CBT showing steeper decline than ACT at the end of treatment .
+RESULTS	Curvature ( or the nonlinear effect ) of experiential avoidance during treatment significantly mediated posttreatment social anxiety symptoms and anhedonic depression in ACT , but not in CBT , with steeper decline of the Acceptance and Action Questionnaire at the beginning of treatment predicting fewer symptoms in ACT only .
+RESULTS	Curvature of negative cognitions during both treatments predicted outcome , with steeper decline of negative cognitions at the beginning of treatment predicting lower posttreatment social anxiety and depressive symptoms .
+CONCLUSIONS	Rate of change in negative cognitions at the beginning of treatment is an important predictor of change across both ACT and CBT , whereas rate of change in experiential avoidance at the beginning of treatment is a mechanism specific to ACT .
+

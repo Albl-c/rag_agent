@@ -1,0 +1,19 @@
+25785695
+OBJECTIVE	Instructional methods for the simple suture technique vary widely and are seldom based on educational research .
+OBJECTIVE	Published data indicate that video primers and structured instruction and evaluation decrease learning time and improve skill acquisition .
+OBJECTIVE	To determine the amount of practice needed to attain simple suture proficiency and to identify the optimal teaching schedule for retention of skill .
+METHODS	First-year and second-year medical students at the Icahn School of Medicine at Mount Sinai with little to no suturing experience were randomly divided into 2 equal groups , with one being taught on day 1 and tested for proficiency on day 30 ( control group ) and the other being taught on day 1 and tested for proficiency on days 10 , 20 , and 30 ( experimental group ) .
+METHODS	Students were evaluated using the objective structured assessment of technical skills method and a checklist .
+METHODS	Those initially not proficient on a given day were immediately prompted to practice and retest .
+METHODS	This cycle continued until proficiency was achieved for that day .
+METHODS	The study was conducted from April 7 , 2014 , to June 30 , 2014 .
+METHODS	Simple suture proficiency at 30 days and the mean number of practice sutures needed for proficiency on day 1 .
+RESULTS	All students ultimately achieved proficiency .
+RESULTS	The mean ( SD ) number of practice sutures required to achieve proficiency at the initial training was 41 ( 15 ) .
+RESULTS	Students in the control group had a 0 % pass rate at the 30-day initial proficiency test , while students in the experimental group had a 91.7 % pass rate at day 30 ( P < .001 ) .
+RESULTS	There were no differences in instructional time , cumulative number of sutures , or objective structured assessment of technical skills scores at proficiency between groups across the study .
+CONCLUSIONS	Single instructional sessions may not be sufficient to maintain simple suture proficiency over the course of a 30-day elective .
+CONCLUSIONS	We propose the use of preparatory instructional videos , followed by instructor demonstration to introduce the technique .
+CONCLUSIONS	Independent practice with intermittent evaluation and critique allows for skill acquisition and time efficiency at the initial training .
+CONCLUSIONS	Students should view instructional videos and practice at least 10 repetitions every 10 days to maintain their skill .
+

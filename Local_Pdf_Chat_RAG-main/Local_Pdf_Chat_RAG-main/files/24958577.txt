@@ -1,0 +1,15 @@
+24958577
+BACKGROUND	Response-dose ratio ( RDR ) and cumulative provocative dosage ( PD ) are useful indices reflecting airway responsiveness in asthma .
+OBJECTIVE	To compare the diagnostic value of RDR and PD , by conducting leukotriene D4 ( LTD4-BPT ) and methacholine bronchial provocation test ( MCh-BPT ) , in different asthma control levels .
+METHODS	Healthy subjects and asthmatic patients underwent LTD4-BPT and MCh-BPT , at 2-14-day interval .
+METHODS	This entailed assessment of the distribution characteristics , correlation , and diagnostic value of PD inducing 20 % fall in forced expiratory volume in one second ( PD20FEV1 ) and the RDR , defined as FEV1 fall ( % ) at the final step divided by the corresponding provocative dosage .
+RESULTS	Twenty uncontrolled , 22 partly controlled , 20 controlled asthmatics , and 21 healthy subjects were enrolled .
+RESULTS	Log10RDR was positively correlated with log10PD20FEV1 in both BPTs ( all P < 0.05 ) .
+RESULTS	Poorer asthma control was associated with significantly lower PD20FEV1 and higher RDR ( both P < 0.05 ) .
+RESULTS	The differences in PD20FEV1 and RDR between partly controlled and controlled asthma were unremarkable ( both P > 0.05 ) .
+RESULTS	Compared with log10PD20FEV1 , the log10RDR yielded similar diagnostic values in both BPTs .
+RESULTS	A lower percentile of RDR ( 25th percentile ) was associated with higher baseline FEV1 ( P < 0.05 ) and an increased proportion of well-controlled asthmatic patients .
+RESULTS	The combination of RDR and PD20FEV1 led to an increased diagnostic value compared with either parameter alone .
+CONCLUSIONS	RDR is a surrogate of PD20FEV1 for BPTs in asthma .
+CONCLUSIONS	This finding was not modified by different asthma control levels or the types of bronchoprovocants .
+

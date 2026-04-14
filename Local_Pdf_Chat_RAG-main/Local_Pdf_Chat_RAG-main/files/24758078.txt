@@ -1,0 +1,11 @@
+24758078
+OBJECTIVE	To observe the effect of Ginkgo Leaves Tablet ( GLT ) on memory quotient ( MQ ) of mild cognitive impairment ( MCI ) patients .
+METHODS	One hundred and thirteen patients were randomly assigned to the control group ( 55 cases ) and the treatment group ( 58 cases ) .
+METHODS	Patients in the control group received dietetic therapy and physical exercises , while those in the treatment group additionally took GLT , 19.2 mg each time , three times daily .
+METHODS	The treatment course was 12 months for all .
+METHODS	The MQ of all the patients was assessed by WMS-RC before treatment , at 6-month of treatment , and 12-month of treatment .
+RESULTS	Compared with the control group , the improvement of MQ increased in the treatment group 0.5 and 1 year after treatment ( P < 0.05 ) .
+RESULTS	The clinical efficiency of MQ obviously increased in the treatment group ( 48.28 % and 50.00 % ) , showing statistical difference when compared with the control group ( 30.91 % and 27.27 % , P < 0.05 , P < 0.01 ) .
+RESULTS	There was statistical difference in added scores of recognition , regeneration , understanding , and recitation test at 6-month of treatment and 12-month of treatment between the treatment group and the control group ( P < 0.05 , P < 0.01 ) .
+CONCLUSIONS	GLT was effective in improving MQ of MCI patients , especially in improving recognition , regeneration , understanding , and recitation test .
+

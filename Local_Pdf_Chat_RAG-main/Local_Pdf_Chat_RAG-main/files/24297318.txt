@@ -1,0 +1,13 @@
+24297318
+BACKGROUND	Peritoneal dialysis ( PD ) requires patients to take an active role in their adherence to fluid restrictions .
+BACKGROUND	Although fluid non-adherence had been identified among this patient group , no specific interventions have been researched or published with in the PD population .
+BACKGROUND	The current study sought to investigate whether an applied cognitive behavioural therapy ( CBT-based intervention ) used among haemodialysis patients would improve fluid adherence among PD patients ; utilizing clinical indicators used in practice .
+METHODS	Fifteen PD patients identified as fluid non-adherent were randomly assigned to an intervention group ( IG ) or a deferred-entry control group ( CG ) .
+METHODS	The study ran for a total of 21 weeks , with five data collection points ; at baseline , post-intervention and at three follow-up points ; providing a RCT phase and a combined longitudinal analysis phase .
+METHODS	The content of the group intervention encompassed educational , cognitive and behavioural components , aimed to assist patients ' self-management of fluid .
+RESULTS	No significant differences in weight ( kg ) reduction were found in either phase and undesirable changes in blood pressure ( BP ) were observed .
+RESULTS	However , in the longitudinal phase , a statistically significant difference in oedematous status was observed at 6-week follow-up ; which may be indicative of fluid adherence .
+RESULTS	Positive and significant differences were observed in the desired direction for measures of psychological well-being , quality of life and health beliefs ; areas correlated with enhanced fluid adherence in other research .
+CONCLUSIONS	This study reveals encouraging and significant changes in predictors of fluid adherence .
+CONCLUSIONS	Although there were no significant changes in weight as a crude clinical measure of fluid intake , significant reductions in oedematous status were observed as a consequence of this CBT-based group intervention .
+

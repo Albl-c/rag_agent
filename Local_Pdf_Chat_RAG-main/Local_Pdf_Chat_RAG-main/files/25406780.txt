@@ -1,0 +1,11 @@
+25406780
+BACKGROUND	Incontinence-associated dermatitis ( IAD ) is a potentially serious skin injury that can lead to pressure ulcers ( PUs ) .
+BACKGROUND	Multiple studies have indicated the need for evidence to find the most effective skin care protocol to reduce the incidence and severity of IAD in critically ill patients .
+OBJECTIVE	To compare the incidence and severity of IAD in two groups on a progressive care unit ( PCU ) using a defined skin care protocol : cleaning with a gentle cleanser and moisturizer , then applying a skin protectant/barrier .
+OBJECTIVE	The control group received the skin care protocol every 12 hours and the interventional group received the protocol every 6 hours ; both groups also received it as needed .
+METHODS	A 9-month randomized prospective study was conducted on 99 patients ( N = 55 in the intervention group and N = 44 in the control group ) who were incontinent of urine , stool , or both , or had a fecal diversion device or urinary catheter for more than 2 days .
+RESULTS	The dermatitis score in the intervention group on discharge was significantly less ( 7.1 % ; P 0.001 ) in the moderate IAD group than in the control group ( 10.9 % ) .
+RESULTS	The dermatitis score means and P values of each group were compared using a paired t test .
+CONCLUSIONS	The researchers studied a defined skin care protocol using a cleanser with aloe vera and a cleansing lotion , followed by application of either a moisture barrier with silicone or skin protectant with zinc oxide and menthol , undertaken at two different frequencies .
+CONCLUSIONS	Data revealed the incidence of moderate IAD was decreased in the experimental group ( receiving the skin protocol every 6 hours and p.r.n. ) .
+

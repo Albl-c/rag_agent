@@ -1,0 +1,18 @@
+24247476
+OBJECTIVE	Intensive insulin therapy for tight glycemic control in critically ill surgical patients has been shown to reduce mortality ; however , intensive insulin therapy is associated with iatrogenic hypoglycemia and increased variability of blood glucose levels .
+OBJECTIVE	The incretin glucagon-like peptide-1 ( 7-36 ) amide is both insulinotropic and insulinomimetic and has been suggested as an adjunct to improve glycemic control in critically ill patients .
+OBJECTIVE	We hypothesized that the addition of continuous infusion of glucagon-like peptide-1 to intensive insulin therapy would result in better glucose control , reduced requirement of exogenous insulin administration , and fewer hypoglycemic events .
+METHODS	Prospective , randomized , double-blind , placebo-controlled clinical trial .
+METHODS	Surgical or burn ICU .
+METHODS	Eighteen patients who required intensive insulin therapy .
+METHODS	A 72-hour continuous infusion of either glucagon-like peptide-1 ( 1.5 pmol/kg/min ) or normal saline plus intensive insulin therapy .
+RESULTS	The glucagon-like peptide-1 cohort ( n = 9 ) and saline cohort ( n = 9 ) were similar in age , Acute Physiology and Chronic Health Evaluation score , and history of diabetes .
+RESULTS	Blood glucose levels in the glucagon-like peptide-1 group were better controlled with much less variability .
+RESULTS	The coefficient of variation of blood glucose ranged from 7.2 % to 30.4 % in the glucagon-like peptide-1 group and from 19.8 % to 56.8 % in saline group .
+RESULTS	The mean blood glucose coefficient of variation for the glucagon-like peptide-1 and saline groups was 18.0 % 2.7 % and 30.3 % 4.0 % ( p = 0.010 ) , respectively .
+RESULTS	The 72-hour average insulin infusion rates were 3.37 0.61 and 4.57 1.18 U/hr ( p = not significant ) .
+RESULTS	The incidents of hypoglycemia ( 2.78 mmol/L ) in both groups were low ( one in the glucagon-like peptide-1 group , three in the saline group ) .
+CONCLUSIONS	Glucagon-like peptide-1 ( 7-36 ) amide is a safe and efficacious form of adjunct therapy in patients with hyperglycemia in the surgical ICU setting .
+CONCLUSIONS	Improved stability of blood glucose is a favorable outcome , which enhances the safety of intensive insulin therapy .
+CONCLUSIONS	Larger studies of this potentially valuable therapy for glycemic control in the ICU are justified .
+

@@ -1,0 +1,13 @@
+24969395
+BACKGROUND	Physical activity ( PA ) has documented health benefits , but older Latinos are less likely to engage in leisure time PA than older non-Latino whites .
+BACKGROUND	Dance holds a promise as a culturally appropriate form of PA that challenges individuals physically and cognitively .
+BACKGROUND	This paper describes a randomized controlled trial that will test the efficacy of BAILAMOS , a 4-month Latin dance program followed by a 4-month maintenance program , for improving lifestyle PA and health outcomes .
+METHODS	Older adults ( n = 332 ) , aged 55 + , Latino/Hispanic , Spanish speaking , with low PA levels , and at risk for disability will be randomized to one of two programs , a dance program or health education control group .
+METHODS	BAILAMOS is a 4-month program that meets two times per week for one 1h per session .
+METHODS	Dance sessions focus on instruction , including four styles of dance , and couples dancing .
+METHODS	Bi-monthly Fiestas de Baile ( dance parties ) are also included , in which participants dance and practice what they have learned .
+METHODS	Monthly 1-hour discussion sessions utilize a Social Cognitive framework and focus on knowledge , social support , and self-efficacy to increase lifestyle PA. .
+METHODS	The health education control group will meet one time per week for two 2h per session .
+RESULTS	Primary outcomes including PA changes and secondary outcomes including self-efficacy , physical function , cognitive function , and disability will be assessed at baseline , 4 , and 8 months .
+RESULTS	It is hypothesized that PA , self-efficacy , physical function , cognitive function , and functional limitations and disability scores will be significantly better in the BAILAMOS group at 4 and 8 months compared to the control group .
+

@@ -1,0 +1,13 @@
+25240700
+BACKGROUND	The aim of this study is to investigate if therapeutic weight loss reduces P wave dispersion .
+METHODS	20 obese patients ( 10 males and 10 females ) , part of a randomized clinical trial , were examined over a 6 month period .
+METHODS	They were treated with a diet , aiming at 5 % weight loss at the 6th month .
+METHODS	After physical examination , they underwent laboratory tests , bioelectrical impedance analysis and a electrocardiogram ( ECG ) .
+METHODS	ECGs were transferred to a personal computer via a scanner and then magnified 400 times .
+METHODS	We examined at baseline and at the 6th month , maximum and minimum P-wave duration , P-wave dispersion and heart rate .
+RESULTS	Comparing responders ( patients who lost 5 % of weight at t6 ) and not responders ( who lost less than 5 % ) , responders showed a significant reduction of P wave dispersion value ( -0.38 [ SD : 0.35 ] mm equal to -32.3 [ SD : 11.3 ] % p = 0.00001 ) .
+RESULTS	All responders present a reduction of P wave dispersion , while for not-responders this is no longer evident .
+RESULTS	Finally , a good degree of correlation ( r = 0.54 ) between P wave dispersion difference and the decrease of weight was noticed .
+RESULTS	Females have a better response in P dispersion reduction strictly connected with their weight loss with a good correlation , ( r = 0.7 , p = 0.002 ) , versus a moderate correlation evidenced in males ( r = 0.5 , p = 0.011 ) .
+CONCLUSIONS	P wave duration and dispersion are significantly reduced in patients who lost more than 5 % of weight and this decrease is highly related to the extent of weight loss .
+

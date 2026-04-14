@@ -1,0 +1,13 @@
+24451151
+BACKGROUND	New direct-acting antiviral agents are currently being developed to treat chronic HCV .
+BACKGROUND	The efficacy and safety of daclatasvir combined with peginterferon alfa-2a ( alfa-2a ) and ribavirin were assessed in a randomized , double-blind Phase IIa study of Japanese patients with chronic HCV genotype-1 infection .
+METHODS	Japanese patients who were treatment-naive ( n = 25 ) or prior null ( n = 12 ) or partial ( n = 5 ) responders received once-daily daclatasvir 10 mg or 60 mg or placebo in combination with alfa-2a and ribavirin .
+METHODS	Daclatasvir recipients with a protocol-defined response ( HCV RNA < 15 IU/ml at week 4 and undetectable at week 12 ) were treated for 24 weeks ; placebo recipients and patients without a protocol-defined response were treated for 48 weeks .
+RESULTS	Sustained virological response at 24 weeks post-treatment ( SVR24 ) was achieved by 89 % and 100 % of treatment-naive patients receiving daclatasvir 10 mg and 60 mg , respectively , versus 75 % in placebo recipients .
+RESULTS	Virological failure was more frequent in prior non-responder patients , with 50 % and 78 % achieving SVR24 in daclatasvir 10 mg and 60 mg groups , respectively .
+RESULTS	Adverse events occurred with similar frequency among treatment groups and were consistent with the adverse event profile of alfa-2a / ribavirin alone .
+RESULTS	The most commonly reported adverse events included pyrexia , alopecia , anaemia , lymphopenia , neutropenia , pruritus and diarrhoea .
+RESULTS	Three patients discontinued treatment due to anaemia .
+CONCLUSIONS	Daclatasvir combined with alfa-2a / ribavirin in treatment-naive patients showed greater efficacy than alfa-2a / ribavirin alone and was generally well tolerated .
+CONCLUSIONS	The 60-mg dose of daclatasvir achieved the highest rates of SVR24 in both treatment-naive and non-responder populations and will be evaluated in a Phase III clinical trial .
+

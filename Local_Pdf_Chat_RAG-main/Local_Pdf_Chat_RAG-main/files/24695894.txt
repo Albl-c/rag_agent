@@ -1,0 +1,16 @@
+24695894
+BACKGROUND	The greater presence of supermarkets in low-income , high-minority neighborhoods has the potential to positively affect diet quality among those at greatest risk of obesity .
+BACKGROUND	In-store marketing strategies that draw attention to healthier products may be effective , sustainable , and scalable for improving diet quality and health .
+BACKGROUND	Few controlled studies of in-store marketing strategies to promote sales of healthier items in low-income , high-minority neighborhoods have been conducted .
+OBJECTIVE	The objective of this study was to evaluate the effects of in-store marketing strategies to promote the purchase of specific healthier items in 5 product categories : milk , ready-to-eat cereal , frozen meals , in-aisle beverages , and checkout cooler beverages .
+METHODS	The design was a cluster-randomized controlled trial conducted from 2011 to 2012 .
+METHODS	Eight urban supermarkets in low-income , high-minority neighborhoods were the unit of randomization , intervention , and analysis .
+METHODS	Stores were matched on the percentage of sales from government food-assistance programs and store size and randomly assigned to an intervention or control group .
+METHODS	The 4 intervention stores received a 6-mo , in-store marketing intervention that promoted the sales of healthier products through placement , signage , and product availability strategies .
+METHODS	The 4 control stores received no intervention and were assessment-only controls .
+METHODS	The main outcome measure was weekly sales of the targeted products , which was assessed on the basis of the stores ' sales data .
+RESULTS	Intervention stores showed significantly greater sales of skim and 1 % milk , water ( in aisle and at checkout ) , and 2 of 3 types of frozen meals compared with control store sales during the same time period .
+RESULTS	No differences were found between the stores in sales of cereal , whole or 2 % milk , beverages , or diet beverages .
+CONCLUSIONS	These data indicate that straightforward placement strategies can significantly enhance the sales of healthier items in several food and beverage categories .
+CONCLUSIONS	Such strategies show promise for significant public health effects in communities with the greatest risk of obesity .
+

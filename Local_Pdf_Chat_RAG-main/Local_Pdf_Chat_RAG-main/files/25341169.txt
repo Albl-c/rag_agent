@@ -1,0 +1,14 @@
+25341169
+OBJECTIVE	The aim of this study was to determine both the value of gadolinium-enhanced MRI in children with suspected acute appendicitis and the best sequences for detecting acute appendicitis , to thereby decrease imaging time .
+METHODS	This was a retrospective review of pediatric patients with suspected appendicitis who had undergone MRI at our institution between 2010 and 2011 after an indeterminate ultrasound examination .
+METHODS	MRI examinations included T1-weighted unenhanced and contrast-enhanced , T2-weighted , and balanced steady-state free precession ( SSFP ) sequences in axial and coronal planes .
+METHODS	Sequences were reviewed together and individually by five radiologists who were blinded to the final diagnosis .
+METHODS	Radiologists were asked to score their confidence of appendicitis diagnosis using a 5-point scale .
+METHODS	The diagnostic performance of each MR sequence was obtained by comparing the mean area under the curve ( AUC ) using receiver operating characteristic ( ROC ) analysis .
+RESULTS	A total of 49 patients with clinically suspected appendicitis were included , of whom 16 received a diagnosis of appendicitis .
+RESULTS	The mean AUCs for reviewing all sequences together , contrast-enhanced sequences alone , T2-weighted sequences alone , and balanced SSFP alone were 0.984 , 0.979 , 0.944 , and 0.910 , respectively .
+RESULTS	No significant difference was observed between reviewing all sequences together versus contrast-enhanced sequences alone ( p = 0.90 ) and T2-weighted sequences alone ( p = 0.23 ) .
+RESULTS	A significant difference was observed between contrast-enhanced sequences and balanced SSFP ( p < 0.03 ) .
+CONCLUSIONS	Gadolinium-enhanced images and T2-weighted images are most helpful in the assessment of acute appendicitis in the pediatric population .
+CONCLUSIONS	These findings have led to protocol modifications that have reduced imaging time .
+

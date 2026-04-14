@@ -1,0 +1,16 @@
+25112084
+OBJECTIVE	To verify the efficacy of Jianpi-xingniao needling therapy on prevention and treatment of motion sickness .
+METHODS	Sixty volunteers of motion sickness were randomized into an acupuncture group and a delayed acupuncture group , 30 cases in each one .
+METHODS	In the acupuncture group , acupuncture was given at Baihui ( GV 20 ) , Sishencong ( EX-HN 1 ) , Neiguan ( PC 6 ) , Zusanli ( ST 36 ) and Hegu ( LI 4 ) .
+METHODS	The needles were retained for 20 min .
+METHODS	The treatment was given twice a week and 10 treatments were required .
+METHODS	In the delayed acupuncture group , acupuncture was postponed , meaning no acupuncture during observation stage .
+METHODS	Graybel scale was adopted to observe the score of symptoms and physical signs of the subjects of motion sickness before and after intervention .
+METHODS	The efficacy was compared between the two groups .
+RESULTS	Twenty-five cases in the acupuncture group and 22 cases in the delayed acupuncture group were included in the statistical analysis .
+RESULTS	The score of symptoms and physical signs of motion sickness was reduced significantly after treatment in the acupuncture group as compared with that before treatment ( 10.12 + / - 3.37 vs 0.92 + / - 0.40 , P < 0.05 ) .
+RESULTS	The score in the acupuncture group was lower apparently than that in the delayed acupuncture group ( 0.92 + / - 0.40 vs 9.86 + / - 2.53 , P < 0.05 ) .
+RESULTS	The difference was not significant before and after treatment in the self-comparison of the delayed acupuncture group ( P > 0.05 ) .
+RESULTS	The total effective rate was 96.0 % ( 24/25 ) in the acupuncture group , which was significantly better than 0.0 % ( 0/22 ) in the delayed acupuncture group ( P < 0.01 ) .
+CONCLUSIONS	Jianpixingniao needling therapy relieves the symptoms of motion sickness in the patients and achieves a better clinical efficacy .
+

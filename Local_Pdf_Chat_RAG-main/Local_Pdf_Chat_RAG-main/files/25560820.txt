@@ -1,0 +1,15 @@
+25560820
+OBJECTIVE	Osteoporosis is a skeletal disorder characterized by impaired bone turnover and compromised bone strength , thereby predisposing to increased risk of fracture .
+OBJECTIVE	Preclinical research has shown that compounds produced by the olive tree ( Olea europaea ) , may protect from bone loss , by increasing osteoblast activity at the expense of adipocyte formation .
+OBJECTIVE	The aim of this exploratory study was to obtain a first insight on the effect of intake of an olive extract on bone turnover in postmenopausal women with decreased bone mass ( osteopenia ) .
+METHODS	For that , a double blind , placebo-controlled study was performed in which participants were randomly allocated to either treatment or placebo groups .
+METHODS	64 osteopenic patients , with a mean bone mineral density ( BMD ) T-score between -1.5 and -2.5 in the lumbar spine ( L2-L4 ) were included in the study .
+METHODS	PARTICIPANTS received for 12 months daily either 250 mg/day of olive extract and 1000 mg Ca ( treatment ) or 1000 mg Ca alone ( placebo ) .
+METHODS	Primary endpoints consisted of evaluation of bone turnover markers .
+METHODS	Secondary endpoints included BMD measurements and blood lipid profiles .
+RESULTS	After 12 months , the levels of the pro-osteoblastic marker osteocalcin were found to significantly increase in the treatment group as compared to placebo .
+RESULTS	Simultaneously , BMD decreased in the placebo group , while remaining stable in the treatment group .
+RESULTS	In addition , improved lipid profiles were observed , with significant decrease in total - and LDL-cholesterol in the treatment group .
+CONCLUSIONS	This exploratory study supports preclinical observations and warrants further research by showing that a specific olive polyphenol extract ( Bonolive ) affects serum osteocalcin levels and may stabilize lumbar spine BMD .
+CONCLUSIONS	Moreover , the improved blood lipid profiles suggest additional health benefits associated to the intake of the olive polyphenol extract .
+

@@ -1,0 +1,13 @@
+25552402
+OBJECTIVE	To determine the effects of food on the pharmacokinetics of sublingual asenapine .
+METHODS	Healthy male volunteers ( n = 26 , age 19-53 years ) randomly received a single sublingual dose of asenapine 5 mg after 10 h fasting ( Treatment A , reference ) , after a high-fat meal ( Treatment B ) and after 10 h fasting with a high-fat meal at 4 h post-dose ( Treatment C ) .
+METHODS	Blood samples were drawn over 72 h to measure asenapine plasma concentrations .
+METHODS	Effects of food intake on asenapine pharmacokinetics were assessed using bioequivalence criteria and evaluated using a compartmental modelling analysis .
+RESULTS	Compared with the reference , mean asenapine exposure ( AUC0-last and AUC0 - ) was approximately 20 % lower after intake of a high-fat meal prior to dosing , whereas Cmax decreased by only about 10 % .
+RESULTS	When a high-fat meal was taken 4 h post-dose in the fasting state , asenapine concentrations were similar to the reference during the first 4 h post-dose .
+RESULTS	After the meal intake , asenapine concentrations decreased quickly for several hours .
+RESULTS	Compartmental modelling indicated that a transient 2.5-fold increase in asenapine clearance after eating could explain the asenapine concentration-time profiles for both food regimens .
+CONCLUSIONS	To our knowledge , this is the first study investigating the effect of food upon the sublingual administration of a drug .
+CONCLUSIONS	A high-fat meal taken before or 4 h post-dose of sublingual asenapine indirectly caused a transient increase in liver blood flow that resulted in a temporal increase in asenapine clearance .
+CONCLUSIONS	As the effects on asenapine exposure were small and not clinically relevant , no additional restrictions are required for the timing of food intake in relation to asenapine dosing .
+

@@ -1,0 +1,17 @@
+25404142
+BACKGROUND	The study investigated the long-term effectiveness of the adolescent cognitive behavioral resiliency training Op Volle Kracht ( OVK ) on the secondary outcomes : anxiety symptoms , hopelessness , happiness , life satisfaction , optimism , coping , self-efficacy , and school functioning .
+BACKGROUND	In addition , the study analyzed whether the secondary outcomes moderated the intervention effect on depressive symptoms .
+METHODS	A two-condition ( intervention and control ) cluster randomized controlled trial was conducted .
+METHODS	All adolescents in the 8th grade were eligible to participate , unless they , or their parents , declined their participation .
+METHODS	Schools were the unit of randomization .
+METHODS	Missing data were imputed and intent to treat analyses were conducted .
+METHODS	The results were analyzed using Latent Growth Curve Modeling across the 24-months follow-up period .
+RESULTS	The total sample consisted of 1341 adolescents ( Mage = 13.91 , SD = 0.55 , 47.3 % girls , 83.1 % Dutch ethnicity ) .
+RESULTS	The intervention and control condition consisted of 634 adolescents from 4 schools and 707 adolescents from 5 schools , respectively .
+RESULTS	OVK did not have an effect on depression , anxiety , hopelessness , happiness , and life satisfaction , but promoted cognitive coping over the course of the follow-up period .
+RESULTS	OVK showed small iatrogenic effects on optimism , active coping , social self-efficacy and school grades directly post intervention , but these effects disappeared during the follow-up period .
+RESULTS	Finally , none of the outcome variables moderated the intervention effect on depressive symptoms .
+CONCLUSIONS	The universal resiliency training OVK was not effective in this Dutch sample .
+CONCLUSIONS	Implications for research and practice were discussed .
+BACKGROUND	NTR2879 .
+

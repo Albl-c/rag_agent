@@ -1,0 +1,13 @@
+25193431
+OBJECTIVE	This 2-arm , phase 1 , crossover study compared the relative bioavailability of two dovitinib ( TKI258 ) capsule formulations [ anhydrate clinical service form ( CSF ) and monohydrate final market image ( FMI ) ; Arm 1 ] and determined the effect of food on dovitinib exposure ( Arm 2 ) .
+METHODS	Patients with advanced solid tumors were enrolled in one of the 2 arms .
+METHODS	Arm 1 randomized patients to a single 500-mg dose of either CSF or FMI followed by 7 days of rest and 500 mg of the other formulation .
+METHODS	Arm 2 patients received 300 mg of FMI once daily and were randomized to follow one of six meal sequences , each with three prandial conditions : low fat ( LF ) , high fat ( HF ) , or no meal ( NM ) .
+RESULTS	Twenty-three and 37 patients were enrolled and 19 and 21 were evaluable in Arms 1 and 2 , respectively .
+RESULTS	In Arm 1 , the adjusted geometric means for FMI had small reductions relative to CSF [ area under the plasma concentration-time curve ( AUClast ) decreased by 12 % , maximum concentration ( C max ) decreased by 3 % ] .
+RESULTS	In Arm 2 , the HF meal versus NM showed a 2 % increase in the adjusted geometric mean for AUClast and a 5 % decrease for C max .
+RESULTS	The LF meal versus NM comparison showed 9 and 6 % increases for AUClast and C max , respectively .
+RESULTS	Overall , common adverse events included nausea , vomiting , diarrhea , and fatigue .
+CONCLUSIONS	Systemic exposure to dovitinib was similar for the FMI and CSF capsule formulations .
+CONCLUSIONS	Additionally , since prandial conditions did not affect the systemic exposure , dovitinib can be taken with or without food .
+

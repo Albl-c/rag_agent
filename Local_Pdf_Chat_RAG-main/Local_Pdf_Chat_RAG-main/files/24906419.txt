@@ -1,0 +1,15 @@
+24906419
+BACKGROUND	The self-reported health and functional status of persons with back pain in the United States have declined in recent years , despite greatly increased medical expenditures due to this problem .
+BACKGROUND	Although patient psychosocial factors such as pain-related beliefs , thoughts and coping behaviors have been demonstrated to affect how well patients respond to treatments for back pain , few patients receive treatments that address these factors .
+BACKGROUND	Cognitive-behavioral therapy ( CBT ) , which addresses psychosocial factors , has been found to be effective for back pain , but access to qualified therapists is limited .
+BACKGROUND	Another treatment option with potential for addressing psychosocial issues , mindfulness-based stress reduction ( MBSR ) , is increasingly available .
+BACKGROUND	MBSR has been found to be helpful for various mental and physical conditions , but it has not been well-studied for application with chronic back pain patients .
+BACKGROUND	In this trial , we will seek to determine whether MBSR is an effective and cost-effective treatment option for persons with chronic back pain , compare its effectiveness and cost-effectiveness compared with CBT and explore the psychosocial variables that may mediate the effects of MBSR and CBT on patient outcomes .
+METHODS	In this trial , we will randomize 397 adults with nonspecific chronic back pain to CBT , MBSR or usual care arms ( 99 per group ) .
+METHODS	Both interventions will consist of eight weekly 2-hour group sessions supplemented by home practice .
+METHODS	The MBSR protocol also includes an optional 6-hour retreat .
+METHODS	Interviewers masked to treatment assignments will assess outcomes 5 , 10 , 26 and 52weeks postrandomization .
+METHODS	The primary outcomes will be pain-related functional limitations ( based on the Roland Disability Questionnaire ) and symptom bothersomeness ( rated on a 0 to 10 numerical rating scale ) at 26weeks .
+CONCLUSIONS	If MBSR is found to be an effective and cost-effective treatment option for patients with chronic back pain , it will become a valuable addition to the limited treatment options available to patients with significant psychosocial contributors to their pain .
+BACKGROUND	Clinicaltrials.gov Identifier : NCT01467843 .
+

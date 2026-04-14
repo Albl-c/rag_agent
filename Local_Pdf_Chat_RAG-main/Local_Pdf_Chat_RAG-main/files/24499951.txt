@@ -1,0 +1,13 @@
+24499951
+OBJECTIVE	Tenofovir disoproxil fumarate ( TDF ) pre-exposure prophylaxis decreases sexual acquisition of HIV infection .
+OBJECTIVE	We sought to evaluate the renal safety of TDF in HIV-uninfected persons .
+METHODS	The Iniciativa Profilaxis Pre-Exposicin ( iPrEx ) study randomly assigned 2499 HIV-seronegative men and transgender women who have sex with men ( MSM ) to receive oral daily TDF coformulated with emtricitabine ( FTC/TDF ) or placebo .
+METHODS	Serum creatinine and phosphorus during randomized treatment and after discontinuation were measured , and creatinine clearance ( CrCl ) was estimated by the Cockcroft-Gault equation .
+METHODS	Indicators of proximal renal tubulopathy ( fractional excretion of phosphorus and uric acid , urine protein , and glucose ) were measured in a substudy .
+RESULTS	There was a small but statistically significant decrease in CrCl from baseline in the active arm , compared to placebo , which was first observed at week 4 ( mean change : -2.4 vs. -1.1 ml/min ; P = 0.02 ) , persisted through the last on-treatment visit ( mean change : +0.3 vs. +1.8 ml/min ; P = 0.02 ) , and resolved after stopping pre-exposure prophylaxis ( mean change : -0.1 vs. 0.0 ml/min ; P = 0.83 ) .
+RESULTS	The effect was confirmed when stratifying by drug detection .
+RESULTS	The effect of FTC/TDF on CrCl did not vary by race , age , or history of hypertension .
+RESULTS	There was no difference in serum phosphate trends between the treatment arms .
+RESULTS	In the substudy , two participants receiving placebo had indicators of tubulopathy .
+CONCLUSIONS	In HIV-seronegative MSM , randomization to FTC/TDF was associated with a very mild nonprogressive decrease in CrCl that was reversible and managed with routine serum creatinine monitoring .
+

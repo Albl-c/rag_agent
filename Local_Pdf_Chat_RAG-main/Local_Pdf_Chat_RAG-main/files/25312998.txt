@@ -1,0 +1,12 @@
+25312998
+BACKGROUND	Implementing optimal lung cancer screening programs requires knowledge of the natural history and detectability of lung cancer .
+BACKGROUND	This information can be derived from the results of clinical trials with the aid of microsimulation models .
+METHODS	Data from the Surveillance , Epidemiology , and End Results ( SEER ) program and individual-level data from the National Lung Screening Trial ( NLST ) and the Prostate , Lung , Colon , and Ovarian Cancer Screening trial ( PLCO ) were used to investigate the sensitivity ( by histology and stage ) of CT and chest radiography ( CXR ) and the mean preclinical sojourn time ( MPST ) of lung cancer ( by gender , histology , and stage ) .
+METHODS	The MISCAN-Lung model was used to reproduce the lung cancer incidence by method of detection ( clinically or screen-detected ) , gender , histology , and stage in both trials and SEER , by calibrating CT and CXR sensitivity and natural history parameters .
+RESULTS	CT sensitivity ranges from 8.83 % to 99.35 % and CXR sensitivity from 2.51 % to 97.31 % , depending on histology and stage .
+RESULTS	CT sensitivity for stage IA is more than 3-fold higher compared with CXR , for all histologies .
+RESULTS	The total MPST estimates for lung cancer progressing through preclinical stages IA to IV range from 3.09 to 5.32 years for men and 3.35 to 6.01 years for women .
+RESULTS	The largest difference in total MPST between genders was estimated for adenocarcinoma .
+CONCLUSIONS	We estimate longer MPSTs for lung cancer compared with previous research , suggesting a greater window of opportunity for lung cancer screening .
+CONCLUSIONS	This study provides detailed insights into the natural history of lung cancer and CT screening effectiveness .
+

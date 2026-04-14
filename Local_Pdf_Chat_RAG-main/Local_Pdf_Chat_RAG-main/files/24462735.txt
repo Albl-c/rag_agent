@@ -1,0 +1,13 @@
+24462735
+OBJECTIVE	Little is known about the benefit of antiviral therapy for hepatitis B e antigen ( HBeAg ) - positive patients with high viral load and normal levels of alanine aminotransferase .
+OBJECTIVE	We evaluated the effects of single and combination therapies in immune-tolerant patients with chronic hepatitis B.
+METHODS	In a double-blind study , nucleos ( t ) ide-nave patients with high levels of hepatitis B virus ( HBV ) DNA who were positive for HBeAg and had normal levels of alanine aminotransferase were randomly assigned to groups given either oral tenofovir disoproxil fumarate ( TDF , 300 mg ) and placebo ( n = 64 ) or a combination of TDF ( 300 mg ) and emtricitabine ( 200 mg , n = 62 ) for 192 weeks .
+METHODS	The primary end point was proportion of patients with serum levels of HBV DNA < 69 IU/mL at week 192 .
+RESULTS	The study population ( mean age was 33 years ; 89 % were Asian ) was predominantly infected with HBV genotypes B and C ( 93 % ) , 99 % were HBeAg positive with a mean baseline level of HBV DNA of 8.41 log10 IU/mL .
+RESULTS	At week 192 , 55 % of patients ( 35 of 64 ) in the TDF + placebo group and 76 % of patients ( 47 of 62 ) in the TDF + emtricitabine group had levels of HBV DNA < 69 IU/mL ( P = .016 ) .
+RESULTS	No patients were found to have viral resistance to therapy .
+RESULTS	HBeAg seroconversion occurred in 3 patients ( 5 % ) , all in the TDF + placebo group ; no patient had loss of hepatitis B surface antigen .
+RESULTS	In multivariate analysis , female sex ( odds ratio = 7.05 ; P = .002 ) and TDF + emtricitabine treatment ( odds ratio = 3.9 ; P = .01 ) were associated with a favorable response .
+RESULTS	Both regimens were well tolerated .
+CONCLUSIONS	In HBeAg-positive patients with chronic HBV infection , high viral loads , normal levels of alanine aminotransferase , and therapy with the combination of TDF and emtricitabine provided better viral suppression than TDF alone , although rates of HBeAg seroconversion and hepatitis B surface antigen loss were low .
+

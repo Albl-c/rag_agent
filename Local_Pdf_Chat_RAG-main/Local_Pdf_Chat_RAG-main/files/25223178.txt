@@ -1,0 +1,16 @@
+25223178
+OBJECTIVE	To observe the clinical effect of Guilu Erxian Glue Cataplasm ( GEGC ) on carcinoma of the large intestine patients with myelosuppression after chemotherapy , and further to confirm its efficiency and safety .
+METHODS	Totally 60 patients with carcinoma of the large intestine were randomly assigned to two groups .
+METHODS	Meanwhile , they all accepted FOLFIRI chemotherapy .
+METHODS	Patients in the treatment group were additionally applied at Shenque ( RN8 ) , exchanging once per every other day , for 14 successive days .
+METHODS	Patients in the control group took placebos with the same dose and dosage as the treatment group .
+METHODS	The blood cell counts ( WBC , NE , and PLT ) were detected before chemotherapy , at day 7 , 10 , and 14 .
+METHODS	The TCM symptoms integrals , Karnofsky performance score ( KPS ) , liver and kidney functions were observed before chemotherapy , at day 7 and day 14 .
+METHODS	Adverse skin reactions were observed each day .
+METHODS	And the usage of hematopoietic growth factors was recorded .
+RESULTS	( 1 ) The KPS score at day 7 was more stable in the treatment group than in the control group ; the WBC and NE counts in the peripheral blood at day 14 were higher in the treatment group than in the control group ; and TCM symptoms integrals at day 14 was lower in the treatment group than in the control group , all with statistical difference ( P < 0.05 ) .
+RESULTS	( 2 ) Compared with the control group , the PLT count was higher in the treatment group than in the control group , the usage of rhG-CSF and antibiotics was less in the treatment group than in the control group , all with no statistical difference ( P > 0.05 ) .
+RESULTS	( 3 ) No obvious adverse reactions such as liver injury , renal injury , or skin allergy were observed .
+CONCLUSIONS	Adjuvant treatment of GEGC could improve carcinoma of the large intestine patients with myelosuppression to some extent .
+CONCLUSIONS	No relevant adverse reactions were found .
+

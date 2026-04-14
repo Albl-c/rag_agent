@@ -1,0 +1,12 @@
+25583753
+OBJECTIVE	Immune intervention trials in recent-onset type 1 diabetes would benefit from biomarkers associated with good therapeutic response .
+OBJECTIVE	In the previously reported randomized placebo-controlled anti-CD3 study ( otelixizumab ; GlaxoSmithKline ) , we tested the hypothesis that specific diabetes autoantibodies might serve this purpose .
+METHODS	In the included patients ( n = 40 otelixizumab , n = 40 placebo ) , - cell function was assessed as area under the curve ( AUC ) C-peptide release during a hyperglycemic glucose clamp at baseline ( median duration of insulin treatment : 6 days ) and every 6 months until 18 months after randomization .
+METHODS	( Auto ) antibodies against insulin ( I [ A ] A ) , GAD ( GADA ) , IA-2 ( IA-2A ) , and ZnT8 ( ZnT8A ) were determined on stored sera by liquid-phase radiobinding assay .
+RESULTS	At baseline , only better preserved AUC C-peptide release and higher levels of IAA were associated with better preservation of - cell function and lower insulin needs under anti-CD3 treatment .
+RESULTS	In multivariate analysis , IAA ( P = 0.022 ) or the interaction of IAA and C-peptide ( P = 0.013 ) independently predicted outcome together with treatment .
+RESULTS	During follow-up , good responders to anti-CD3 treatment ( i.e. , IAA ( + ) participants with relatively preserved - cell function [ 25 % of healthy control subjects ] ) experienced a less pronounced insulin-induced rise in I ( A ) A and lower insulin needs .
+RESULTS	GADA , IA-2A , and ZnT8A levels were not influenced by anti-CD3 treatment , and their changes showed no relation to functional outcome .
+CONCLUSIONS	There is important specificity of IAA among other diabetes autoantibodies to predict good therapeutic response of recent-onset type 1 diabetic patients to anti-CD3 treatment .
+CONCLUSIONS	If confirmed , future immune intervention trials in type 1 diabetes should consider both relatively preserved functional - cell mass and presence of IAA as inclusion criteria .
+

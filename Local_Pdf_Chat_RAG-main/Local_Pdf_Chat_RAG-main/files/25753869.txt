@@ -1,0 +1,9 @@
+25753869
+OBJECTIVE	This prospective randomized study evaluated the efficacy of a 2.0 mm locking plate/screw system compared with a 2.0-mm nonlocking plate/screw system in fixation of 60 isolated non-comminuted mandibular angle fractures .
+METHODS	Sixty patients were randomly assigned to receive a 2.0 mm locking plate ( group A , n = 30 ) or 2.0 mm non-locking plate ( group B , n = 30 ) .
+METHODS	All patients were followed up to 6 months postoperatively and evaluated for complications , occlusal stability and overall results of fixation .
+RESULTS	Five complications occurred in the locking group and fourteen in the non-locking group with complication rates equalling 17 % and 47 % respectively .
+RESULTS	When comparing the overall results according to plates used , the test showed a statistically significant difference between the locking and non-locking plates ( p < 0.01 ) .
+RESULTS	Fewer patients required IMF in group A.
+CONCLUSIONS	Mandibular angle fractures treated with 2.0 mm locking plates show greater stability and were associated with fewer complications than with 2.0 mm non-locking plates .
+

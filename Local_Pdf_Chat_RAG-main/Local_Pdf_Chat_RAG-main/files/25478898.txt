@@ -1,0 +1,17 @@
+25478898
+BACKGROUND	In the United Kingdom , patients with locally advanced rectal cancer routinely receive neoadjuvant chemoradiotherapy .
+BACKGROUND	However , the effects of this on physical fitness are unclear .
+BACKGROUND	This pilot study is aimed to investigate the effect of neoadjuvant chemoradiotherapy on objectively measured in vivo muscle mitochondrial function and whole-body physical fitness .
+METHODS	We prospectively studied 12 patients with rectal cancer who completed standardized neoadjuvant chemoradiotherapy , recruited from a large tertiary cancer centre , between October 2012 and July 2013 .
+METHODS	All patients underwent a cardiopulmonary exercise test and a phosphorus magnetic resonance spectroscopy quadriceps muscle exercise-recovery study before and after neoadjuvant chemoradiotherapy .
+METHODS	Data were analysed and reported blind to patient identity and clinical course .
+METHODS	Primary variables of interest were the two physical fitness measures ; oxygen uptake at estimated anaerobic threshold and oxygen uptake at Peak exercise ( ml.kg-1 .
+METHODS	min-1 ) , and the post-exercise phosphocreatine recovery rate constant ( min-1 ) , a measure of muscle mitochondrial capacity in vivo .
+RESULTS	Median age was 67 years ( IQR 64-75 ) .
+RESULTS	Differences ( 95 % CI ) in all three primary variables were significantly negative post-NACRT : Oxygen uptake at estimated anaerobic threshold -2.4 ml.kg-1 .
+RESULTS	min-1 ( -3.8 , -0.9 ) , p = 0.004 ; Oxygen uptake at Peak -4.0 ml.kg-1 .
+RESULTS	min-1 ( -6.8 , -1.1 ) , p = 0.011 ; and post-exercise phosphocreatine recovery rate constant -0.34 min-1 ( -0.51 , -0.17 ) , p < 0.001 .
+CONCLUSIONS	The significant decrease in both whole-body physical fitness and in vivo muscle mitochondrial function raises the possibility that muscle mitochondrial mechanisms , no doubt multifactorial , may be important in deterioration of physical fitness following neoadjuvant chemoradiotherapy .
+CONCLUSIONS	This may have implications for targeted interventions to improve physical fitness pre-surgery .
+BACKGROUND	Clinicaltrials.gov registration NCT01859442 .
+

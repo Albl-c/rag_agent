@@ -1,0 +1,10 @@
+25992536
+BACKGROUND	The spot urine protein/creatinine ratio ( UPCR ) is proposed to be a substitute for 24-hour urinary protein ( 24h-UP ) .
+BACKGROUND	This study is aimed to determine whether the predictive accuracy of 24h-UP using UPCR can be improved by simply multiplying estimated daily urine creatinine excretion ( eUCr ) and UPCR together .
+METHODS	This study enrolled 120 participants to investigate the correlation between spot UPCR and 24h-UP .
+METHODS	Three sets of spot urine samples were randomly collected throughout the day and night , along with the first morning void .
+METHODS	UPCR was weighted by eUCr to investigate the improvement of accuracy in using spot urine samples to predict 24h-UP .
+RESULTS	There were strong correlation and concordance between UPCR and 24h-UP irrespective of the time of spot urine sampling , and the correlation , concordance and agreement were improved after multiplying the UPCR value by the eUCr .
+RESULTS	Greater improvement was found in the subgroups with measured daily urine creatinine excretion 0.8 g/d and 1.2 g/d .
+CONCLUSIONS	This investigation demonstrated that multiplying UPCR by eUCr can improve the accuracy of only using UPCR to predict 24h-UP .
+

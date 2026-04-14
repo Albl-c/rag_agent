@@ -1,0 +1,12 @@
+25339518
+BACKGROUND	Rifaximin therapy reduced risk of hepatic encephalopathy ( HE ) recurrence and HE-related hospitalisations during a 6-month , randomised , placebo-controlled trial ( RCT ) and a 24-month open-label maintenance ( OLM ) study .
+BACKGROUND	However , the impact of crossover from placebo to rifaximin therapy is unclear .
+OBJECTIVE	To study the impact of crossing over from placebo to rifaximin treatment on breakthrough HE and hospitalisation rates using a within-subjects design .
+METHODS	Adults with cirrhosis and history of overt HE episodes , currently in HE remission , received placebo during the RCT and crossed over to rifaximin 550mg twice daily during the OLM study .
+METHODS	Rate of breakthrough overt HE episodes , hospitalisations and incidence and rate of adverse events ( AEs ) were analysed during RCT and first 6months of OLM .
+RESULTS	Of 82 patients randomised to placebo in the RCT who crossed over to the OLM study , 39 experienced an HE episode during the RCT compared with 14 during the OLM study ( P < 0.0001 ) .
+RESULTS	Significantly lower rates of HE events were observed with rifaximin treatment compared with placebo treatment ( P < 0.0001 ) .
+RESULTS	Rates of HE-related hospitalisation were numerically lower during rifaximin treatment compared with placebo treatment , although not significant .
+RESULTS	Rates of most common AEs , serious AEs and infection-related AEs were similar between the two treatments .
+CONCLUSIONS	This analysis confirms the repeatability of results from the RCT on safety and efficacy of rifaximin 550mg twice daily in reducing the risk of hepatic encephalopathy recurrence , and suggests these findings are translatable outside of a rigorous , controlled trial setting .
+

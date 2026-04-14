@@ -1,0 +1,10 @@
+24573909
+BACKGROUND	Electronic monitoring is recommended for accurate measurement of medication adherence but a possible limitation is that it may influence adherence .
+OBJECTIVE	To test the reactive effect of electronic monitoring in a randomized controlled trial .
+METHODS	A total of 226 adults with type 2 diabetes and HbA1c 58mmol/mol were randomized to receiving their main oral glucose lowering medication in electronic containers or standard packaging .
+METHODS	The primary outcomes were self-reported adherence measured with the MARS ( Medication Adherence Report Scale ; range 5-25 ) and HbA1c at 8weeks .
+RESULTS	Non-significantly higher adherence and lower HbA1c were observed in the electronic container group ( differences in means , adjusting for baseline value : MARS , 0.4 [ 95 % CI -0.1 to 0.8 , p = 0.11 ] ; HbA1c ( mmol/mol ) , -1.02 [ -2.73 to 0.71 , p = 0.25 ] ) .
+CONCLUSIONS	Electronic containers may lead to a small increase in adherence but this potential limitation is outweighed by their advantages .
+CONCLUSIONS	Our findings support electronic monitoring as the method of choice in research on medication adherence .
+CONCLUSIONS	( Trial registration Current Controlled Trials ISRCT N30522359 ) .
+

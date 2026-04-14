@@ -1,0 +1,22 @@
+25467848
+BACKGROUND	PBT2 is a metal protein-attenuating compound that might reduce metal-induced aggregation of mutant huntingtin and has prolonged survival in a mouse model of Huntington 's disease .
+BACKGROUND	We aimed to assess the safety , tolerability , and efficacy of PBT2 in patients with Huntington 's disease .
+METHODS	In this 26-week , randomised , double-blind , placebo-controlled trial , adults ( 25 years old ) with early-stage to mid-stage Huntington 's disease were randomly assigned ( 1:1:1 ) by a centralised interactive response system to once daily PBT2 250 mg , PBT2 100 mg , or placebo .
+METHODS	Randomisation was stratified by site with a block size of three .
+METHODS	Participants , carers , the steering committee , site investigators , study staff , and the study sponsor were masked to treatment assignment .
+METHODS	Primary endpoints were safety and tolerability .
+METHODS	The safety population consisted of all participants who were randomly assigned and had at least one dose of study drug .
+METHODS	The principal secondary endpoint was cognition , measured by the change from baseline to week 26 in the main composite Z score of five cognitive tests ( Category Fluency Test , Trail Making Test Part B , Map Search , Symbol Digit Modalities Test , and Stroop Word Reading Test ) and scores on eight individual cognitive tests ( the five aforementioned plus the Trail Making Test Part A , Montreal Cognitive Assessment , and the Speeded Tapping Test ) .
+METHODS	The intention-to-treat population comprised participants who were randomly assigned and had at least one efficacy assessment after administration of study drug .
+METHODS	This trial is registered with ClinicalTrials.gov , NCT01590888 .
+RESULTS	Between April 18 , 2012 , and Dec 14 , 2012 , 109 participants were randomly assigned to PBT2 250 mg ( n = 36 ) , PBT2 100 mg ( n = 38 ) , or placebo ( n = 35 ) at 19 research centres in Australia and the USA .
+RESULTS	32 ( 89 % ) individuals on PBT2 250 mg , 38 ( 100 % ) on PBT2 100 mg , and 34 ( 97 % ) on placebo completed the study .
+RESULTS	Six serious adverse events ( acute coronary syndrome , major depression , pneumonia , suicide attempt , viral infection , and worsening of Huntington 's disease ) occurred in five participants in the PBT2 250 mg group , three ( fall with subdural haematoma , suicide attempt , and hospital admission for stabilisation of Huntington 's disease ) occurred in two participants in the PBT2 100 mg group , and one ( increasing aggression ) occurred in a participant in the placebo group .
+RESULTS	The site investigators deemed all , except the worsening of Huntington 's disease , as unrelated to study drug .
+RESULTS	32 ( 89 % ) participants on PBT2 250 mg , 30 ( 79 % ) on PBT2 100 mg , and 28 ( 80 % ) on placebo had at least one adverse event .
+RESULTS	Compared with placebo , neither PBT2 100 mg ( least-squares mean 002 , 95 % CI -010 to 014 ; p = 0772 ) nor PBT2 250 mg ( 007 , -005 to 020 ; p = 0240 ) significantly improved the main composite cognition Z score between baseline and 26 weeks .
+RESULTS	Compared with placebo , the Trail Making Test Part B score was improved between baseline and 26 weeks in the PBT2 250 mg group ( 1765 s , 065-3465 ; p = 0042 ) but not in the 100 mg group ( 079 s improvement , -1575 to 1732 ; p = 0925 ) ; neither dose significantly improved cognition on the other tests .
+CONCLUSIONS	PBT2 was generally safe and well tolerated in patients with Huntington 's disease .
+CONCLUSIONS	The potential benefit on executive function will need to be confirmed in a larger study .
+BACKGROUND	Prana Biotechnology Limited .
+

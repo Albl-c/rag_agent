@@ -1,0 +1,14 @@
+25675562
+OBJECTIVE	To optimize the therapeutic programs for periarthritis of shoulder treated with acupuncture , moxibustion and kinetohterapy with orthogonal design method adopted .
+METHODS	The orthogonal design table of L8 ( 2 ( 7 ) ) hierarchical principle was used to randomly divide 192 patients of periarthritis of shoulder into 8 groups , 24 cases in each one .
+METHODS	Separately , 4 factors and each different 2 levels were adopted in treatment , named acupuncture timing ( factor A : A , acute stage , A2 adhesion stage ) , acupoint combination ( factor B : B , local acupoints , B2 local acupoints and distal acupoints along meridians ) , filiform needling and warm needling therapy ( factor C : C1 acupuncture with filiform needle , CZ acupuncture with filiform needle and warm needling therapy ) and positive functional exercise ( factor D : D1 without positive functional exercise , D2 with positive functional exercise ) .
+METHODS	The treatment was given once a day , 10 treatments made one session and 2 sessions were required totally .
+METHODS	The time points of observation were the point after 1 session of treatment and after 2 sessions of treatment .
+METHODS	The short-form McGill pain questionnaire ( MPQ ) and shoulder joint motor disturbance score were adopted for evaluation .
+RESULTS	In the orthogonal design analysis , taking the hierarchical factors into consideration , the age was considered as the main factor in the evaluation of shoulder pain and shoulder motor disturbance ( P < 0.01 ) , and the shoulder function grade apparently impacted pain evaluation and the efficacy on shoulder motor disturbance ( P < 0.01 ) .
+RESULTS	The best combination of 4 factors and 2 levels were A1B1CzD2 and A2 BC2D2 .
+RESULTS	SAS statistical analysis showed that at acute stage and adhesion stage , CZ Dz , meaning acupuncture with fifiform needling and warm needling therapy combined with positive functional exercise , is the main factor of the improvements of shoulder motor function ( P < 0.05 ) .
+CONCLUSIONS	For periarthritis of shoulder at acute stage , the combined therapy of acupuncture at local acupoints , warm needling and positive functional exercise is adopted .
+CONCLUSIONS	At chronic stage , the combined therapy of acupuncture at local acupoints and distal acupoints , acupuncture with filiform needle and warm needling and positive functional exercise is the best program .
+CONCLUSIONS	Additionally , in clinical treatment , the patients ' age , sex , shoulder joint function and duration of treatment should be considered comprehensively for the impacts on the efficacy .
+

@@ -1,0 +1,16 @@
+25695686
+OBJECTIVE	Assessment of differences in soft tissue healing and long-term issues between two techniques for bone-anchored hearing implant ( BAHI ) surgery .
+METHODS	Single-center , randomized , nonblinded study using balanced randomization ( 1:1 ) .
+METHODS	Tertiary referral center in the Central Denmark Region .
+METHODS	Forty-seven adults with normal skin quality .
+METHODS	Operation with a BAHI system with randomization to 1 ) dermatome technique with soft tissue removal and 2 ) linear incision with no soft tissue reduction .
+METHODS	Holgers ' score , pain , and sensibility loss assessed at 0 , 3 , 7 , 10 , 14 , and 21 days and 1 , 3 , 6 , and 12 months postoperatively .
+METHODS	Implant loss .
+RESULTS	Forty-nine patients were randomized ( linear incision , n = 25 ; dermatome , n = 24 ) .
+RESULTS	Forty-seven patients were analyzed ( linear incision , n = 25 ; dermatome , n = 22 ) .
+RESULTS	Differences in proportions for grouped data ( outcome 0 and outcome > 0 ) for the total of all visits were Holgers ' Index : 0.13 ( p = 0.0004 ; 95 % confidence interval [ 95 % CI ] , 0.058-0 .21 ) ; sensibility loss : 0.50 ( p = 2.2 10 ; 95 % CI , 0.42-0 .58 ) ; pain : 0.096 ( p = 0.006 ; 95 % CI , 0.026-0 .17 ) .
+RESULTS	Soft tissue reactions and pain were most prominent in the early postoperative period , whereas issues with sensibility loss subsided throughout the 1-year follow-up period .
+RESULTS	No implants were lost .
+CONCLUSIONS	In a randomized trial for BAHI surgery , the linear incision with no subcutaneous reduction had a faster healing time and inflicted less pain and sensibility loss than the dermatome technique .
+CONCLUSIONS	The long-term soft tissue problems were similar in the two groups , thus favoring the linear incision , which is less invasive .
+

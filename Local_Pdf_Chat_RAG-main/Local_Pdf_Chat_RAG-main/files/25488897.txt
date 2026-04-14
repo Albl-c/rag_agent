@@ -1,0 +1,15 @@
+25488897
+OBJECTIVE	The objective of this study was to compare participation rates and clinical effectiveness of sedated esophagogastroduodenoscopy ( sEGD ) and unsedated transnasal endoscopy ( uTNE ) for esophageal assessment and Barrett 's esophagus ( BE ) screening in a population-based cohort .
+METHODS	This was a prospective , randomized , controlled trial in a community population .
+METHODS	Subjects 50 years of age who previously completed validated gastrointestinal symptom questionnaires were randomized ( stratified by age , sex , and reflux symptoms ) to one of three screening techniques ( either sEGD or uTNE in a mobile research van ( muTNE ) or uTNE in a hospital outpatient endoscopy suite ( huTNE ) ) and invited to participate .
+RESULTS	Of the 459 subjects , 209 ( 46 % ) agreed to participate ( muTNE n = 76 , huTNE n = 72 , and sEGD n = 61 ) .
+RESULTS	Participation rates were numerically higher in the unsedated arms of muTNE ( 47.5 % ) and huTNE ( 45.7 % ) compared with the sEGD arm ( 40.7 % ) , but were not statistically different ( P = 0.27 ) .
+RESULTS	Complete evaluation of the esophagus was similar using muTNE ( 99 % ) , huTNE ( 96 % ) , and sEGD ( 100 % ) techniques ( P = 0.08 ) .
+RESULTS	Mean recovery times ( min ) were longer for sEGD ( 67.3 ) compared with muTNE ( 15.5 ) and huTNE ( 18.5 ) ( P < 0.001 ) .
+RESULTS	Approximately 80 % of uTNE subjects were willing to undergo the procedure again in future .
+RESULTS	Respectively , 29 % and 7.8 % of participating subjects had esophagitis and BE .
+CONCLUSIONS	Mobile van and clinic uTNE screening had comparable clinical effectiveness with similar participation rates and safety profile to sEGD .
+CONCLUSIONS	Evaluation time with uTNE was significantly shorter .
+CONCLUSIONS	Prevalence of BE and esophagitis in community subjects 50 years of age was substantial .
+CONCLUSIONS	Mobile and outpatient unsedated techniques may provide an effective alternative strategy to sEGD for esophageal assessment and BE screening .
+

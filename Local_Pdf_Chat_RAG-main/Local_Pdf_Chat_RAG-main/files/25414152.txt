@@ -1,0 +1,13 @@
+25414152
+OBJECTIVE	To evaluate whether treatment of mild gestational diabetes mellitus ( GDM ) confers sustained offspring health benefits , including a lower frequency of obesity .
+METHODS	Follow-up study of children ( ages 5-10 ) of women enrolled in a multicenter trial of treatment versus no treatment of mild GDM .
+METHODS	Height , weight , blood pressure , waist circumference , fasting glucose , fasting insulin , triglycerides , and HDL cholesterol were measured .
+RESULTS	Five hundred of 905 eligible offspring ( 55 % ) were enrolled .
+RESULTS	Maternal baseline characteristics were similar between the follow-up treated and untreated groups .
+RESULTS	The frequencies of BMI 95th ( 20.8 % and 22.9 % ) and 85th ( 32.6 % and 38.6 % ) percentiles were not significantly different in treated versus untreated offspring ( P = 0.69 and P = 0.26 ) .
+RESULTS	No associations were observed for BMI z score , log waist circumference , log triglycerides , HDL cholesterol , blood pressure , or log HOMA-estimated insulin resistance ( HOMA-IR ) .
+RESULTS	The effect of treatment was different by sex for fasting glucose and log HOMA-IR ( P for interaction = 0.002 and 0.02 , respectively ) but not by age-group ( 5-6 and 7-10 years ) for any outcomes .
+RESULTS	Female offspring of treated women had significantly lower fasting glucose levels .
+CONCLUSIONS	Although treatment for mild GDM has been associated with neonatal benefits , no reduction in childhood obesity or metabolic dysfunction in the offspring of treated women was found .
+CONCLUSIONS	However , only female offspring of women treated for mild GDM had lower fasting glucose .
+

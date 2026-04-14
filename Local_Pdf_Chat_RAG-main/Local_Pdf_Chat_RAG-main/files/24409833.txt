@@ -1,0 +1,17 @@
+24409833
+BACKGROUND	Asians are prone to develop epidermal pigmentary lesions as a result of photoaging .
+BACKGROUND	Solar lentigines , especially those which are light in color , show somewhat limited response to pigment lasers and intense pulsed light sources .
+OBJECTIVE	We sought to compare the early effects as well as side effects of Q-switched Nd : YAG and Er : YAG micropeel in treating light solar lentigines in Asians .
+METHODS	This was a split-face , evaluator-blind , randomized controlled study .
+METHODS	A single session of treatment was performed on Asian patients with light facial lentigines .
+METHODS	Q-switched Nd : YAG laser was allocated to one half of the face , and Er : YAG micropeel to the other half .
+METHODS	The response to therapy was evaluated by two independent dermatologists with standardized photographs taken 2 weeks and 1 month after the laser treatment .
+METHODS	Patients ' satisfaction and preference in treatment were also assessed .
+RESULTS	Fifteen patients completed the study and were analyzed .
+RESULTS	A reduction in pigment was observed with both lasers during the study period .
+RESULTS	The degree of pigment reduction in the Q-switched Nd : YAG treated side of the face was significantly higher than that of the Er : YAG micropeel treated side at 2-week follow-up ( p < 0.001 ) .
+RESULTS	The degree of pigment reduction between the Q-switched Nd : YAG-treated side and the Er : YAG micropeel-treated side was similar at 1-month follow-up ( p = 0.110 ) .
+CONCLUSIONS	While there is no perfect therapy for light solar lentigines , a single session of Q-switched Nd : YAG laser and Er : YAG micropeel was shown to reduce pigmentation .
+CONCLUSIONS	The immediate effects ( 2-week follow-up ) were better with the Q-switched Nd : YAG laser but there was no great difference between the two laser types at 1-month follow-up due to the greater degree of post-inflammatory hyperpigmentation following Q-switched Nd : YAG .
+CONCLUSIONS	Both laser types could be applied either singly in turns , or in combination for maximal efficacy in future .
+

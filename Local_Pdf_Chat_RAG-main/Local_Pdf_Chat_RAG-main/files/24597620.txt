@@ -1,0 +1,16 @@
+24597620
+BACKGROUND	The primary aim of rheumatoid arthritis ( RA ) treatment is to induce remission , the absence of disease activity .
+BACKGROUND	The objective of this study was to explore the association between clinical endpoints used to gauge RA treatment efficacy and patient-reported outcomes of health-related quality of life , fatigue , and physical function in RA patients treated with secukinumab in a phase 2 randomized controlled trial ( RCT ) .
+METHODS	Adult RA patients ( n = 237 ) with incomplete responses to methotrexate were randomized equally to receive monthly s.c. injections of secukinumab 25mg , 75mg , 150mg , 300mg or placebo .
+METHODS	Clinical endpoints used in this study included the ACR response criteria and its components and simplified disease activity score .
+METHODS	Patient-reported outcomes ( PRO ) included Health Assessment Questionnaire-Disability Index ( HAQ-DI ) , Medical Outcomes Study Short Form-36 [ SF-36 ] Survey , and Functional Assessment of Chronic Illness Therapy-Fatigue ( FACIT-Fatigue ) .
+METHODS	Patients were categorized into mutually exclusive groups according to the magnitude and direction of change from baseline to week 16 in each clinical endpoint .
+METHODS	Definitions of minimal important differences [ MID ] in each clinical endpoint were used to categorize patients , as well as thresholds beyond MID .
+METHODS	Mean changes from baseline to week 16 were computed for each PRO and analyses of variance to test the differences in PRO changes observed across groups of patients that differed in each clinical endpoint .
+METHODS	Analyses were limited to patients randomized to secukinumab treatment .
+METHODS	All dose groups were combined ( n = 187 ) .
+RESULTS	Mean changes from baseline in each PRO differed significantly across groups of patients in the expected direction .
+RESULTS	With few exceptions , there was considerable agreement between clinical endpoints and PROs concerning the magnitude of change defined as clinically meaningful .
+RESULTS	More importantly , results demonstrated that greater improvements in clinical endpoints were associated with incrementally better improvements in HRQoL , fatigue , and physical function .
+CONCLUSIONS	Results of this study show considerable agreement between minimal thresholds of improvement established for PROs and clinical outcome measures used in RA treatment studies and provide thresholds to be considered in gauging the importance of a treatment effect that goes beyond what is considered as minimally important for PRO measures .
+

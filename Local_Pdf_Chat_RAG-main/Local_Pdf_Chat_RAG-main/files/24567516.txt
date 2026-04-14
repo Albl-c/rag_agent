@@ -1,0 +1,14 @@
+24567516
+BACKGROUND	Recurrent and/or metastatic squamous cell carcinoma of the head and neck ( R/M-SCCHN ) overexpresses v5 integrin .
+BACKGROUND	Cilengitide selectively inhibits v3 and v5 integrins and is investigated as a treatment strategy .
+METHODS	The phase I/II study ADVANTAGE evaluated cilengitide combined with cisplatin , 5-fluorouracil , and cetuximab ( PFE ) in R/M-SCCHN .
+METHODS	The phase II part reported here was an open-label , randomized , controlled trial investigating progression-free survival ( PFS ) .
+METHODS	Patients received up to six cycles of PFE alone or combined with cilengitide 2000 mg once ( CIL1W ) or twice ( CIL2W ) weekly .
+METHODS	Thereafter , patients received maintenance therapy ( cilengitide arms : cilengitide plus cetuximab ; PFE-alone arm : cetuximab only ) until disease progression or unacceptable toxicity .
+RESULTS	One hundred and eighty-two patients were treated .
+RESULTS	Median PFS per investigator read was similar for CIL1W + PFE , CIL2W + PFE , and PFE alone ( 6.4 , 5.6 , and 5.7 months , respectively ) .
+RESULTS	Accordingly , median overall survival and objective response rates were not improved with cilengitide ( 12.4 months/47 % , 10.6 months/27 % , and 11.6 months/36 % , respectively ) .
+RESULTS	No clinically meaningful safety differences were observed between groups .
+RESULTS	None of the tested biomarkers ( expression of integrins , CD31 , Ki-67 , vascular endothelial growth factor receptor 2 , vascular endothelial-cadherin , type IV collagen , epidermal growth factor receptor , or p16 for human papillomavirus ) were predictive of outcome .
+CONCLUSIONS	Neither of the cilengitide-containing regimens demonstrated a PFS benefit over PFE alone in R/M-SCCHN patients .
+

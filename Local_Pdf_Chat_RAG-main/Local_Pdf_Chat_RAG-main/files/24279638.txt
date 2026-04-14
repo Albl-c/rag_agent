@@ -1,0 +1,11 @@
+24279638
+OBJECTIVE	To assess whether an interdisciplinary intervention is more effective than usual care for improving the health-related quality of life ( HRQoL ) among patients with fibromyalgia ( FM ) , and to identify variables that were predictors of improvement in HRQoL .
+METHODS	In a randomized controlled clinical trial carried out on an outpatient basis in a hospital pain management unit , 153 patients with FM were randomly allocated to an experimental group ( EG ) or a control group ( CG ) .
+METHODS	Participants completed the Fibromyalgia Impact Questionnaire ( FIQ ) at baseline and 6months after the intervention .
+METHODS	The EG received an interdisciplinary treatment ( 12 sessions for 6weeks ) which consisted of coordinated psychological , medical , educational , and physiotherapeutic interventions while the CG received standard-of-care pharmacologic treatment .
+METHODS	Descriptive statistics , ANOVA , Chi square and Fisher tests and generalized linear models were used for data analysis .
+RESULTS	Six months after the intervention , statistically significant improvements in HRQoL were observed in physical functioning ( P = 0.01 ) , pain ( P = 0.03 ) and total FIQ score ( P = 0.04 ) in the EG compared to the CG .
+RESULTS	The number of physical illnesses was identified as a predictor for improvement .
+CONCLUSIONS	This interdisciplinary intervention has shown effectiveness in improving the HRQoL of this sample of patients with FM .
+CONCLUSIONS	The number of physical illnesses was identified as a predictor of that improvement .
+

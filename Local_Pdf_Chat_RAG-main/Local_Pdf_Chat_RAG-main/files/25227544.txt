@@ -1,0 +1,12 @@
+25227544
+OBJECTIVE	To determine whether manual wheelchair configuration impacts how well a person who has acquired brain injury ( ABI ) related hemiparesis performs functional tasks from his or her wheelchair .
+METHODS	Multi-treatment cross-over design .
+METHODS	Inpatient rehabilitation hospital .
+METHODS	Nineteen patients with ABI resulting in hemiparesis undergoing inpatient rehabilitation ( average of 75 days post-injury ( 29.2 days ) ; age range , 21-64 ; 9 with mechanical brain injury , 10 with cerebral vascular accident ) .
+METHODS	Participants in the study were placed in two different wheelchair configurations ( position one and position two ) and were randomized as to which position they were placed in first .
+METHODS	All outcome measures were taken twice on each individual within each wheelchair configuration during two consecutive days .
+METHODS	Timed Forward Wheeling ( TFW ) , Modified Functional Reach test ( MFR ) , Visual Analogue Scale for Comfort ( VAS ) , transfer score from the Functional Independence Measure ( FIM ) , measurement of popliteal fossa to front of cushion .
+RESULTS	The position two seating group 's TFW was significantly faster than the position one seating group at both time points .
+RESULTS	There were no significant differences in the MFR scores , VAS comfort scale scores , and FIM transfer score between the two groups .
+CONCLUSIONS	A wheelchair configuration with no seat slope , solid backrest mounted at 95 degree ( 3 degrees ) seat to back angle , and use of a solid seat insert with a flat foam cushion ( position two ) results in greater efficiency in foot propulsion for individuals with ABI than a wheelchair configuration with one inch of seat slope , solid backrest mounted at 105 degree ( 3 degrees ) seat to back angle , and no solid seat insert with a gel/foam contoured cushion ( position 1 ) .
+

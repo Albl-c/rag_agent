@@ -1,0 +1,16 @@
+25187119
+CONCLUSIONS	This prospective study showed that the incidence of acute anterior uveitis , confirmed by ophthalmic examination , in patients receiving intravenous zoledronate infusions as part of a randomized controlled trial for fracture prevention is 1.1 % .
+BACKGROUND	We prospectively investigated the incidence of ocular side effects after a single intravenous zoledronate infusion .
+METHODS	In a secondary analysis of a double-blind , placebo-controlled trial in which early post-menopausal women ( N = 1054 ) with normal bone density or osteopenia were randomized to infusion of zoledronate 5 mg ( N = 703 ) or placebo ( N = 351 ) , we analyzed significant adverse ocular events occurring within 3 months .
+RESULTS	Fourteen participants reported ocular symptoms after the infusion .
+RESULTS	All were examined by an ophthalmologist and eight were diagnosed with acute anterior uveitis ( AAU ) and one with sectoral episcleritis .
+RESULTS	The incidence of AAU and episcleritis was 1.1 % ( 95 % CI 0.5-2 .1 ) and 0.1 % ( 95 % CI 0.0-0 .7 ) , respectively , in the zoledronate group and 0 % for both conditions in the placebo group ( 95 % CI 0.0-0 .8 ) .
+RESULTS	The mean time from infusion to symptom onset for AAU was 3 days ( range 2-4 ) .
+RESULTS	Three cases were bilateral .
+RESULTS	AAU was mild-moderate in seven participants and severe in one .
+RESULTS	All affected eyes were treated with topical cyclopentolate 1 % ( to break , or minimize , posterior synechiae ) , and intensive , potent , topical corticosteroids with a tapering regime based on treatment response .
+RESULTS	The mean duration of topical corticosteroid was 2610 days ( range 17-44 ) .
+RESULTS	The mean , best corrected visual acuity was 20/20 ( range 20/20-20 / 40 ) at presentation , which remained unchanged after AAU resolution .
+RESULTS	None of the participants lost vision , and no long-term sequelae were reported at last follow-up ( range 3-13 months post-infusion ) .
+CONCLUSIONS	Prescribers should inform patients about the possibility of ocular side effects with zoledronate infusions and refer promptly to an ophthalmologist if symptoms develop .
+

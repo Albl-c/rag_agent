@@ -1,0 +1,14 @@
+24620920
+OBJECTIVE	Here , we evaluated the safety and immunogenicity of hepatitis B virus ( HBV ) DNA vaccine , HB-110 , in mice and Korean patients with chronic hepatitis B ( CHB ) undergoing adefovir dipivoxil ( ADV ) treatment .
+METHODS	For animal study , mice ( BALB/c or HBV transgenic ) were immunized with mHB-110 , and T-cell and antibody responses were evaluated .
+METHODS	For clinical study , 27 patients randomly received either ADV alone or ADV in combination with HB-110 .
+METHODS	Liver function tests , serum HBV DNA levels and the presence of HBeAg/anti-HBe were analysed .
+METHODS	T-cell responses were estimated by ELISPOT and FACS analysis .
+RESULTS	mHB-110 induced higher T-cell and antibody responses than mHB-100 in mice .
+RESULTS	No adverse effects were observed by HB-110 cotreated with ADV. HBV-specific T-cell responses were induced in a portion of patients in medium to high dose of HB-110 .
+RESULTS	Interestingly , HB-110 exhibited positive effects on ALT normalization and maintenance of HBeAg seroconversion .
+RESULTS	One patient , who received high dose of HB-110 exhibited HBeAg seroconversion during vaccination , which correlated with vaccine-induced T-cell responses without ALT elevation .
+CONCLUSIONS	HB-110 was safe and tolerable in CHB patients .
+CONCLUSIONS	In contrast to results in animal models , HB-110 in Korean patients exhibited weaker capability of inducing HBV-specific T-cell responses and HBeAg seroconversion than HB-100 in Caucasian patients .
+CONCLUSIONS	As Asian patients , who are generally infected via vertical transmission , appeared to have higher level of immune tolerance than Caucasian , novel approaches for breaking immune tolerance rather than enhancing immunogenicity may be more urgently demanded to develop effective therapeutic HBV DNA vaccines .
+

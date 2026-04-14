@@ -1,0 +1,19 @@
+24832000
+BACKGROUND	Malignant pleural effusion is associated with short life expectancy and significant morbidity .
+BACKGROUND	A randomized controlled trial comparing indwelling pleural catheters ( IPCs ) with talc pleurodesis found that IPCs reduced in-hospital time and the need for additional procedures but were associated with excess adverse events .
+METHODS	Using data from the clinical trial , we compared costs associated with use of IPCs and with talc pleurodesis .
+METHODS	Resource use and adverse events were captured through case report forms over the 1-year trial follow-up .
+METHODS	Costs for outpatient and inpatient visits , diagnostic imaging , nursing , and doctor time were obtained from the UK National Health Service reference costs and University of Kent 's Unit Costs of Health and Social Care 2011 and inflated to 2013 using the UK Consumer Price Index .
+METHODS	Procedure supply costs were obtained from the manufacturer .
+METHODS	Difference in mean costs was compared using nonparametric bootstrapping .
+METHODS	All costs were converted to US dollars using the Organisation for Economic Co-operation and Development Purchasing Power Parity Index .
+RESULTS	Overall mean cost ( SD ) for managing patients with IPCs and talc pleurodesis was $ 4,993 ( $ 5,529 ) and $ 4,581 ( $ 4,359 ) , respectively .
+RESULTS	The incremental mean cost difference was $ 401 , with 95 % CI of - $ 1,387 to $ 2,261 .
+RESULTS	The mean cost related to ongoing drainage in the IPC group was $ 1,011 ( $ 732 ) vs $ 57 ( $ 213 ) in the talc pleurodesis group ( P = .001 ) .
+RESULTS	This included the cost of drainage bottles , dressing changes in the first month , and catheter removal .
+RESULTS	There was no significant difference in cost of the initial intervention or adverse events between the groups .
+RESULTS	For patients with survival < 14 weeks , IPC is significantly less costly than talc pleurodesis , with mean cost difference of - $ 1,719 ( 95 % CI , - $ 3,376 to - $ 85 ) .
+CONCLUSIONS	There is no significant difference in the mean cost of managing patients with IPCs compared with talc pleurodesis .
+CONCLUSIONS	For patients with limited survival , IPC appears less costly .
+BACKGROUND	isrctn.org ; No. : ISRCTN87514420 ; URL : www.isrctn.org .
+

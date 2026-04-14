@@ -1,0 +1,18 @@
+24885354
+BACKGROUND	Radiotherapy has a good effect in palliation of painful bone metastases , with a pain response rate of more than 60 % .
+BACKGROUND	However , shortly after treatment , in approximately 40 % of patients a temporary pain flare occurs , which is defined as a two-point increase of the worst pain score on an 11-point rating scale compared to baseline , without a decrease in analgesic intake , or a 25 % increase in analgesic intake without a decrease in worst pain score , compared to baseline .
+BACKGROUND	A pain flare has a negative impact on daily functioning and mood of patients .
+BACKGROUND	It is thought to be caused by periostial edema after radiotherapy .
+BACKGROUND	Dexamethasone might diminish this edema and thereby reduce the incidence of pain flare .
+BACKGROUND	Two non-randomized studies suggest that dexamethasone reduces the incidence of a pain flare by 50 % .
+BACKGROUND	The aim of this trial is to study the effectiveness of dexamethasone to prevent a pain flare after palliative radiotherapy for painful bone metastases and to determine the optimal dose schedule .
+METHODS	This study is a three-armed , double-blind , placebo-controlled multicenter trial .
+METHODS	We aim to include 411 patients with uncomplicated painful bone metastases from any type of primary solid tumor who receive short schedule radiotherapy ( all conventional treatment schedules from one to six fractions ) .
+METHODS	Arm 1 consists of daily placebo for four days , arm 2 starts with 8mg dexamethasone before the ( first ) radiotherapy and three days placebo thereafter .
+METHODS	Arm 3 consists of four days 8mg dexamethasone .
+METHODS	The primary endpoint is the occurrence of a pain flare .
+METHODS	Secondary endpoints are pain , quality of life and side-effects of dexamethasone versus placebo .
+METHODS	Patients complete a questionnaire ( Brief Pain Inventory with two added questions about side-effects of medication , the EORTC QLQ-C15-PAL and QLQ-BM22 for quality of life ) at baseline , daily for two weeks and lastly at four weeks .
+CONCLUSIONS	This study will show whether dexamethasone is effective in preventing a pain flare after palliative radiotherapy for painful bone metastases and , if so , to determine the optimal dose .
+BACKGROUND	This study is registered at ClinicalTrials.gov : NCT01669499 .
+

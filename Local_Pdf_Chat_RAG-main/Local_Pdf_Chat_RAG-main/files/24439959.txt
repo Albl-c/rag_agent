@@ -1,0 +1,16 @@
+24439959
+BACKGROUND	Depersonalization disorder ( DPD ) includes changes in subjective experiencing of self , encompassing emotional numbing .
+BACKGROUND	Functional magnetic resonance imaging ( fMRI ) has pointed to ventrolateral prefrontal cortex ( VLPFC ) inhibition of insula as a neurocognitive correlate of the disorder .
+OBJECTIVE	We hypothesized that inhibition to right VLPFC using repetitive transcranial magnetic stimulation ( rTMS ) would lead to increased arousal and reduced symptoms .
+METHODS	Patients with medication-resistant DSM-IV DPD ( N = 17 ) and controls ( N = 20 ) were randomized to receive one session of right-sided rTMS to VLPFC or temporo-parietal junction ( TPJ ) .
+METHODS	1 Hz rTMS was guided using neuronavigation and delivered for 15 min .
+METHODS	Co-primary outcomes were : ( a ) maximum skin conductance capacity , and ( b ) reduction in depersonalization symptoms ( Cambridge Depersonalisation Scale ( CDS ) [ state version ] ) .
+METHODS	Secondary outcomes included spontaneous fluctuations ( SFs ) and event-related skin conductance responses .
+RESULTS	In patients with DPD , rTMS to VLPFC led to increased electrodermal capacity , namely maximum skin conductance deflections .
+RESULTS	Patients but not controls also showed increased SFs post rTMS .
+RESULTS	Patients who had either VLPFC or TPJ rTMS showed a similar significant reduction in symptoms .
+RESULTS	Event-related electrodermal activity did not change .
+CONCLUSIONS	A single session of right-sided rTMS to VLPFC ( but not TPJ ) significantly increased physiological arousal capacity supporting our model regarding the relevance of increased VLPFC activity to emotional numbing in DPD .
+CONCLUSIONS	rTMS to both sites led to reduced depersonalization scores but since this was independent of physiological arousal , this may be a non-specific effect .
+CONCLUSIONS	TMS is a potential therapeutic option for DPD ; modulation of VLPFC , if replicated , is a plausible mechanism .
+

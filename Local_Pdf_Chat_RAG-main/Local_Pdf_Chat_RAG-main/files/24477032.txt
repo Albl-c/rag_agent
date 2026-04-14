@@ -1,0 +1,10 @@
+24477032
+BACKGROUND	Applying appropriate positive end-expiratory pressure ( PEEP ) to corresponding intra-abdominal pressure ( IAP ) can improve gas exchange during capnoperitoneum without any hemodynamic effects .
+METHODS	A total of 75 patients were randomly allocated to group 0PEEP ( n = 25 ) , group 5PEEP ( n = 25 ) , and group 10PEEP ( n = 25 ) according to the level of PEEP , in whom capnoperitoneum was created with IAP of 14 , 8 , and 14 mm Hg , respectively .
+METHODS	Hemodynamic and respiratory parameters were recorded up to 30 minutes after capnoperitoneum .
+RESULTS	In 0PEEP group , mean end-tidal carbon dioxide demonstrated significant rise 2 minutes after capnoperitoneum and plateaued at about 15 minutes but remained at high level for up to 30 minutes when compared with the 5PEEP and 10PEEP groups ( P < 0.05 ) .
+RESULTS	Correspondingly , the mean PaCO2 ( 48.04.1 mm Hg ) for the 0PEEP group was higher at 30 minutes when compared with 5PEEP ( 37.82.7 mm Hg ) and 10PEEP ( 37.23.9 mm Hg ) groups .
+RESULTS	The oxygenation was better preserved in 5PEEP and 10PEEP groups with significantly higher PaO2/Fio2 ratio .
+RESULTS	Heart rate , mean arterial pressure , and cardiac output remained stable throughout the study in all the 3 groups .
+CONCLUSIONS	Application of appropriate PEEP corresponding to the IAP helped maintain CO2 elimination and improved oxygenation without any hemodynamic disturbance in patients undergoing laparoscopic cholecystectomy .
+

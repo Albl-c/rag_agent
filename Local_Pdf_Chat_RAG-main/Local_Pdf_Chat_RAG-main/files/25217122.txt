@@ -1,0 +1,16 @@
+25217122
+BACKGROUND	This study was designed to evaluate the safety and efficacy of a novel , self-cross-linked hyaluronic acid ( HA ) hydrogel compared with carboxymethylcellulose ( CMC ) viscous foam in promoting healing when applied after ethmoidectomy .
+BACKGROUND	A prospective , randomized , controlled , blinded clinical trial was performed .
+BACKGROUND	The study was performed by four surgeons operating in two community hospitals .
+METHODS	Thirty patients with bilateral chronic rhinosinusitis underwent bilateral total ethmoidectomy .
+METHODS	Intraoperatively , each patient received 5 mL of HA hydrogel in one ethmoid cavity and 5 mL of CMC contralaterally .
+METHODS	The material applied within each ethmoid cavity was randomly assigned before surgery .
+METHODS	An independent surgeon , blinded to the material used to treat each ethmoid cavity , evaluated postoperative endoscopic video at 1 and 2 weeks for edema , crusting , and mucopurulence and at 6 and 12 weeks for remucosalization and scarring/synechiae .
+METHODS	Twenty-item Sino-Nasal Outcome Test SNOT-20 data were collected at each visit .
+METHODS	A small sample underwent endoscopic mucosal biopsy .
+RESULTS	Twenty-nine of 30 patients completed the protocol .
+RESULTS	The difference in edema , crusting , and mucopurulence at 1 and 2 weeks was not statistically significant ; however , at 6 and 12 weeks , the HA hydrogel showed statistically significant reduction in both overall endoscopic grade ( p < 0.05 ) , as well as synechiae formation ( p < 0.05 ) , with a trend toward superiority in remucosalization ( p = 0.08 ) .
+RESULTS	Histological analysis of six subjects at 12 weeks showed a nonsignificant trend toward a greater amount of regenerated cilia present with the HA hydrogel ( p = 0.23 ) .
+RESULTS	SNOT-20 scores declined 78.8 % from preoperative scores .
+CONCLUSIONS	Self-cross-linked HA hydrogel provides superior wound healing to CMC after ethmoidectomy .
+

@@ -1,0 +1,10 @@
+25128002
+BACKGROUND	In women with mixed urinary incontinence , pelvic floor muscle training and solifenacin is the recommended conservative treatment , while electroacupuncture is a safe , economical and effective option .
+METHODS	In this prospective , multi-center , randomized controlled trial , five hundred women with mixed urinary incontinence , from 10 centers will be randomized to receive either electroacupuncture or pelvic floor muscle training plus solifenacin .
+METHODS	Women in the acupuncture group will receive electroacupuncture for 3 sessions per week , over 12 weeks , while women in the control group will receive pelvic floor muscle training plus solifenacin ( 5 mg once daily ) for 36 weeks .
+METHODS	The primary outcome measure is the proportion of change in 72-hour incontinence episode frequency from baseline to week 12 .
+METHODS	The secondary outcome measures include eleven items , including proportion of participants with 50 % decrease in average 72-h incontinence episode frequency , change from baseline in the amount of urine leakage and proportion of change from baseline in 72-h incontinence episode frequency in week 25-36 , and so forth .
+METHODS	Statistical analysis will include covariance analysis , nonparametric tests and t tests .
+CONCLUSIONS	The objective of this trial is to compare the efficacy and safety of electroacupuncture versus pelvic floor muscle training plus solifenacin in women with moderate and severe mixed urinary incontinence .
+BACKGROUND	ClinicalTrials.gov Identifier : NCT02047032 .
+

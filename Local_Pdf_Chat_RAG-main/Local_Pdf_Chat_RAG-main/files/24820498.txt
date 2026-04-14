@@ -1,0 +1,8 @@
+24820498
+OBJECTIVE	To study the value of contrast-enhanced ultrasound in tuberculous cervical lymph node biopsy .
+METHODS	Seventy-nine patients with cervical lymph node were divided into two groups .
+METHODS	The lymph nodes of group A were used as real-time ultrasound guided biopsy ; the lymph nodes of group B were contrast-enhanced ultrasound firstly to determine the target lymph node and the puncture point , then were detected with needle biopsy .
+RESULTS	Group A : for the 23 lymph nodes of 23 patients , the rate of intact tissue was 52.1 % and the positive rate of pathological diagnosis was 73.9 % .
+RESULTS	Group B : for the 56 lymph nodes of 56 patients , the rate of intact tissue was 98.2 % and the positive rate of pathological diagnosis was 100 % ( Chi square value was 23.37 and 12.31 , P < 0.05 ) .
+CONCLUSIONS	The application of contrast-enhanced ultrasound before cervical lymph node biopsy can obviously improve the rate of intact tissue and the positive rate of pathological diagnosis .
+

@@ -1,0 +1,7 @@
+24297633
+OBJECTIVE	The aim of this study was to compare the efficacy of the treatment of patients with spontaneous pneumothorax with air leak ( AL ) using two different chest drainage systems .
+METHODS	Patients were randomized into two groups : group A included 30 patients ( 23 males and 7 females , mean age 41.116.29 y , range 17-71 y ) in which digital drainage system was used , group B with 30 patients ( 22 males and 8 females , mean age 40.315.74 y , range 18-72 y ) in which traditional suction drainage system was applied.The following variables were evaluated : intensity of AL , duration of the chest tube drainage , delay in surgery , length of stay , and the overall hospitalization costs .
+RESULTS	In group A the mean drainage duration was 47.63 hours , the hospitalization time was about 5.10 days , and the cost of hospitalization was 1,495 .
+RESULTS	In group B the mean drainage duration was 84.93 hours , the hospitalization time was 6.97 days , and the hospitalization cost was 1,925 .
+CONCLUSIONS	The digital drainage system applied in the treatment of AL in patients with pneumothoraces reduced the duration of the drainage , the length of hospital stay , and overall hospitalization costs .
+

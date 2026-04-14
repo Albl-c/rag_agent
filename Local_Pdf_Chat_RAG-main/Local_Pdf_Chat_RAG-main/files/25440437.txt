@@ -1,0 +1,14 @@
+25440437
+BACKGROUND	Lignin peroxidase is a cosmetic skin-lightening alternative that breaks down plant cell walls and melanin .
+OBJECTIVE	This research examined the topical efficacy of lignin peroxidase in pigment lightening .
+METHODS	Sixty women aged 18 to 65 years with mild to moderate facial dyspigmentation were enrolled for 12 weeks in 2 cohorts .
+METHODS	Cohort 1 applied lignin peroxidase to 1 randomized side of the face and nothing to the opposite side .
+METHODS	Cohort 2 applied lignin peroxidase to 1 facial side and generic hydroquinone to the other .
+METHODS	Investigator , subject , and dermospectrophotometer measurements were obtained .
+RESULTS	In cohort 1 , improved skin texture ( P < .001 ) , roughness ( P < .001 ) , and overall appearance ( P = .002 ) was noted at week 2 with lignin peroxidase versus no treatment .
+RESULTS	By week 12 , there was a decrease in spot size with lignin peroxidase versus no treatment ( P = .014 ) .
+RESULTS	This was confirmed by a statistically significant reduction in melanin scores with the dermospectrophotometer on lignin peroxidase-treated side at weeks 4 , 8 , and 12 ( P = .003 ) and a similar reduction in Melasma Area Severity Index score .
+RESULTS	Cohort 2 demonstrated parity between lignin peroxidase and hydroquinone , but lignin peroxidase was statistically superior in skin texture and roughness .
+CONCLUSIONS	The sample size was limited .
+CONCLUSIONS	Lignin peroxidase might be an over-the-counter skin-lightening preparation with efficacy parity to hydroquinone .
+

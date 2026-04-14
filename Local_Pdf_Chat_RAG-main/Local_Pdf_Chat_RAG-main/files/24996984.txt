@@ -1,0 +1,11 @@
+24996984
+OBJECTIVE	To determine whether bronchoalveolar lavage ( BAL ) - directed therapy for infants and young children with cystic fibrosis ( CF ) , rather than standard therapy , was justified on the grounds of a decrease in average costs and whether the use of BAL reduced treatment costs associated with hospital admissions .
+METHODS	Costs were assessed in a randomized controlled trial conducted in Australia and New Zealand on infants diagnosed with CF after newborn screening and assigned to receive either BAL-directed or standard therapy until they reached 5 years of age .
+METHODS	A health care funder perspective was adopted .
+METHODS	Resource use measurement was based on standardized data collection forms administered for patients across all sites .
+METHODS	Unit costs were obtained primarily from government schedules .
+RESULTS	Mean costs per child during the study period were Australian dollars ( AUD ) 92860 in BAL-directed therapy group and AUD90958 in standard therapy group ( mean difference AUD1902 , 95 % CI AUD-27782 to 31586 , P = .90 ) .
+RESULTS	Mean hospital costs per child during the study period were AUD57302 in the BAL-directed therapy group and AUD66590 in the standard therapy group ( mean difference AUD-9288 ; 95 % CI AUD-35252 to 16676 , P = .48 ) .
+CONCLUSIONS	BAL-directed therapy did not result in either lower mean hospital admission costs or mean costs overall compared with managing patients with CF by a standard protocol based upon clinical features and oropharyngeal culture results alone .
+CONCLUSIONS	Following on our previous findings that BAL-directed treatment offers no clinical advantage over standard therapy at age 5 years , flexible bronchoscopy with BAL can not be recommended for the routine management of preschool children with CF on the basis of overall cost savings .
+

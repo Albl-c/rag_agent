@@ -1,0 +1,17 @@
+24582046
+OBJECTIVE	The aim of this study was to assess the effectiveness and safety of different strategies of ivabradine therapy by comparing the effects on heart rate ( HR ) , blood pressure ( BP ) , and image quality of coronary CT angiography ( CTA ) .
+METHODS	A total of 192 consecutive patients were randomly assigned to 3 groups of oral premedication with ivabradine 15 mg ( single dose ) , 10 mg ( single dose ) , and 5 mg twice daily for 5 days , prospectively .
+METHODS	Patients using HR-lowering drugs and patients with - blockade contraindication were excluded .
+METHODS	The target HR was 65 beats/min .
+METHODS	In addition 5 to 10 mg of intravenous metoprolol was administered to the patients at the CT unit , if required .
+METHODS	The systolic and diastolic blood BP values and the HRs were recorded .
+METHODS	Image quality was assessed for 8 of 15 coronary segments with a 4-point grading scale .
+METHODS	Results were compared with the Kruskal-Wallis test , one-way ANOVA , and 2 test .
+RESULTS	Reductions in mean HR after the treatment were 18 6 , 14 4 , and 17 7 beats/min for groups 1 , 2 , and 3 , respectively .
+RESULTS	With the total additional therapies , 81.3 % , 67.2 % , and 84.3 % of the patients achieved HR < 65 beats/min in groups 1 , 2 , and 3 , respectively .
+RESULTS	The mean BP values before coronary CTA were not significantly changed except for patients in group 2 .
+RESULTS	Unacceptable ( score 0 ) image quality was obtained in only 4.5 % , 10.2 % , and 4.2 % of all the coronary segments , in groups 1 , 2 , and 3 , respectively .
+CONCLUSIONS	Our study indicates that coronary CTA with premedication with oral ivabradine in all 3 strategies is safe and effective in reducing HR , in particular with a - blockade combination .
+CONCLUSIONS	All 3 ivabradine regimes may be an alternative strategy for HR lowering in patients undergoing coronary CTA .
+CONCLUSIONS	Ivabradine 15 mg ( single dose ) and ivabradine 5 mg twice daily for 5 days are superior to the ivabradine 10-mg single-dose regime for HR lowering without adjunctive intravenous - blocker usage .
+

@@ -1,0 +1,14 @@
+24361242
+BACKGROUND	The extent to which change in physical activity can modify the risk of cardiovascular disease in individuals at high cardiovascular risk is uncertain .
+BACKGROUND	We investigated whether baseline and change in objectively-assessed ambulatory activity is associated with the risk of a cardiovascular event in individuals at high cardiovascular risk with impaired glucose tolerance .
+METHODS	We assessed prospective data from the NAVIGATOR trial involving 9306 individuals with impaired glucose tolerance who were recruited in 40 countries between January , 2002 , and January , 2004 .
+METHODS	Participants also either had existing cardiovascular disease ( if age 50 years ) or at least one additional cardiovascular risk factor ( if age 55 years ) .
+METHODS	Participants were followed-up for cardiovascular events ( defined as cardiovascular mortality , non-fatal stroke , or myocardial infarction ) for 6 years on average and had ambulatory activity assessed by pedometer at baseline and 12 months .
+METHODS	Adjusted Cox proportional hazard models quantified the association of baseline and change in ambulatory activity ( from baseline to 12 months ) with the risk of a subsequent cardiovascular event , after adjustment for each other and potential confounding variables .
+METHODS	This study is registered with ClinicalTrials.govNCT00097786 .
+RESULTS	During 45,211 person-years follow-up , 531 cardiovascular events occurred .
+RESULTS	Baseline ambulatory activity ( hazard ratio [ HR ] per 2000 steps per day 090 , 95 % CI 084-096 ) and change in ambulatory activity ( 092 , 086-099 ) were inversely associated with the risk of a cardiovascular event .
+RESULTS	Results for change in ambulatory activity were unaffected when also adjusted for changes in body-mass index and other potential confounding variables at 12 months .
+CONCLUSIONS	In individuals at high cardiovascular risk with impaired glucose tolerance , both baseline levels of daily ambulatory activity and change in ambulatory activity display a graded inverse association with the subsequent risk of a cardiovascular event .
+BACKGROUND	Novartis Pharmaceuticals .
+

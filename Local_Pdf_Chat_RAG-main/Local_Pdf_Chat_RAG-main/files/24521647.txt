@@ -1,0 +1,13 @@
+24521647
+OBJECTIVE	Biapenem is a newly developed carbapenem to treat moderate and severe bacterial infections .
+OBJECTIVE	This multicenter , randomized , parallel-controlled clinical trial was conducted to compare the clinical efficacy , bacterial eradication rates and safety of biapenem and meropenem in the treatment of bacterial lower respiratory tract infections and urinary tract infections ( UTIs ) at nine centres in China .
+METHODS	Patients diagnosed with bacterial lower respiratory tract infections or UTIs were randomly assigned to receive either biapenem ( 300 mg every 12 h ) or meropenem ( 500 mg every 8 h ) by intravenous infusion for 7 to 14 days according to their disease severity .
+METHODS	The overall clinical efficacy , bacterial eradication rates and drug-related adverse reactions of biapenem and meropenem were analyzed .
+RESULTS	A total of 272 enrolled cases were included in the intent-to-treat ( ITT ) analysis and safety analysis .
+RESULTS	There were no differences in demographics and baseline medical characteristics between biapenem group and meropenem group .
+RESULTS	The overall clinical efficacies of biapenem and meropenem were not significantly different , 94.70 per cent ( 125/132 ) vs. 93.94 per cent ( 124/132 ) .
+RESULTS	The overall bacterial eradication rates of biapenem and meropenem showed no significant difference , 96.39 per cent ( 80/83 ) vs. 93.75 per cent ( 75/80 ) .
+RESULTS	Drug-related adverse reactions were comparable in biapenem and meropenem groups with the incidence of 11.76 per cent ( 16/136 ) and 15.44 per cent ( 21/136 ) , respectively .
+RESULTS	The most common symptoms of biapenem-related adverse reactions were rash ( 2.2 % ) and gastrointestinal distress ( 1.5 % ) .
+CONCLUSIONS	Biapenem was non-inferior to meropenem and was well-tolerated in the treatment of moderate and severe lower respiratory tract infections and UTIs .
+

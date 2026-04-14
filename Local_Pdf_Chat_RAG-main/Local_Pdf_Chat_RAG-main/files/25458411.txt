@@ -1,0 +1,14 @@
+25458411
+OBJECTIVE	To explore knowledge and use of female condoms in China , and to compare four modes of failure between the Phoenurse female condom ( PFC ) and the second-generation Femidom female condom ( FC2 ) .
+METHODS	In a randomized , crossover trial , sexually active women aged 20-49years who attended a family planning service in Qingdao , China , were recruited between April and October , 2013 .
+METHODS	A computer-generated randomized sequence was used to assign participants ( 1:1 ) to group A ( used 10 PFCs followed by 10 FC2s ) or group B ( used 10 FC2s followed by 10 PFCs ) .
+METHODS	Study investigators and participants were masked to allocation .
+METHODS	Participants completed questionnaires at baseline and after using the two types of FCs .
+METHODS	They also kept coital logs .
+RESULTS	At baseline , 30 ( 10.3 % ) of 290 participants understood female condoms , but only 1 ( 0.3 % ) had ever used one .
+RESULTS	Total failure rates were 3.6 % ( 420/11 578 ) and 2.3 % ( 265/11 594 ) for PFC and FC2 , respectively ( P < 0.001 ) .
+RESULTS	Slippage was the most common form of failure , affecting 6.9 % of PFC uses and 5.0 % of FC2 uses .
+RESULTS	Breakage , misdirection , and slippage were significantly more common with the PFC than with the FC2 ( P0 .002 ) .
+CONCLUSIONS	Understanding of female condoms is poor in China .
+CONCLUSIONS	Failure is more common with the PFC than with the FC2 .
+

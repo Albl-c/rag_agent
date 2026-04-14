@@ -1,0 +1,10 @@
+26059337
+OBJECTIVE	To assess the safety and efficacy of pitavastatin in children and adolescents with hyperlipidemia .
+METHODS	A total of 106 children and adolescents with hyperlipidemia , ages 6 to 17 years , were enrolled in a 12-week randomized , double-blind , placebo-controlled study and randomly assigned to pitavastatin 1 mg , 2 mg , 4 mg , or placebo .
+METHODS	During a 52-week extension period , subjects were up-titrated from 1 mg pitavastatin to a maximum dose of 4 mg in an effort to achieve an optimum low-density lipoprotein cholesterol ( LDL-C ) treatment target of < 110 mg/dL ( 2.8 mmol/L ) .
+METHODS	Adverse events rates , including abnormal clinical laboratory variables , vital signs , and physical examination were assessed .
+RESULTS	Compared with placebo , pitavastatin 1 , 2 , and 4 mg significantly reduced LDL-C from baseline by 23.5 % , 30.1 % , and 39.3 % , respectively , and in the open-label study 20.5 % of the subjects reached the LDL-C goal < 110 mg/dL ( 2.8 mmol/L ) .
+RESULTS	No safety issues were evident .
+CONCLUSIONS	Pitavastatin at doses up to 4 mg is well tolerated and efficacious in children and adolescents aged 6-17 years .
+BACKGROUND	Registered with EudraCT 2011-004964-32 and EudraCT 2011-004983-32 .
+

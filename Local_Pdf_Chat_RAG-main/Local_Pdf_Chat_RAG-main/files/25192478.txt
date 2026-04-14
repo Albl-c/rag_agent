@@ -1,0 +1,13 @@
+25192478
+OBJECTIVE	This study was undertaken to investigate whether a gradual reduction of the valve setting ( opening pressure ) decreases the complication rate in patients with idiopathic normal-pressure hydrocephalus ( iNPH ) treated with a ventriculoperitoneal ( VP ) shunt .
+METHODS	In this prospective double-blinded , randomized , controlled , dual-center study , a VP shunt with an adjustable valve was implanted in 68 patients with iNPH , randomized into two groups .
+METHODS	In one group ( the 20-4 group ) the valve setting was initially set to 20 cm HO and gradually reduced to 4 cm H2O over the course of the 6-month study period .
+METHODS	In the other group ( the 12 group ) , the valve was kept at a medium pressure setting of 12 cm HO during the whole study period .
+METHODS	The time to and type of complications ( hematoma , infection , and mechanical problems ) as well as overdrainage symptoms were recorded .
+METHODS	Symptoms , signs , and outcome were assessed by means of the iNPH scale and the NPH grading scale .
+RESULTS	Six patients in the 20-4 group ( 22 % ) and 7 patients in the 12 group ( 23 % ) experienced a shunt complication ; 9 had subdural hematomas , 3 mechanical obstructions , and 1 infection ( no significant difference between groups ) .
+RESULTS	The frequency of overdrainage symptoms was significantly higher for a valve setting 12 cm HO compared with a setting > 12 cm HO .
+RESULTS	The 20-4 group had a higher improvement rate ( 88 % ) than the 12 group ( 62 % ) ( p = 0.032 ) .
+RESULTS	There was no significant relationship between complications and body mass index , the use of an antisiphon device , or the use of anticoagulants .
+CONCLUSIONS	Gradual lowering of the valve setting to a mean of 7 cm HO led to the same rate of shunt complications and overdrainage symptoms as a fixed valve setting at a mean of 13 cm HO but was associated with a significantly better outcome .
+

@@ -1,0 +1,13 @@
+24473367
+OBJECTIVE	The objective of the study was to test the diagnostic performance of low-dose computed tomography pulmonary angiography ( CTPA ) at peak tube voltage of 80 kVp with both reduced radiation and reduced contrast material ( CM ) dose .
+METHODS	In this single-center , single-blinded prospective randomized trial , 501 patients with body weights of less than 100 kg with suspected acute pulmonary embolism ( PE ) were assigned to normal-dose CTPA ( 100-kVp tube energy and 100-mL CM , 255 patients ) and low-dose CTPA ( 80-kVp tube energy and 75-mL CM , 246 patients ) .
+METHODS	Primary end points were evidence of PE in CTPA and accuracy of CTPA on a composite reference standard .
+METHODS	Results were compared by calculating the odds ratio with the 95 % confidence interval .
+RESULTS	The reference diagnosis was equivocal in 20 of the 501 patients .
+RESULTS	Diagnosis of CTPA was correct in 240 patients and incorrect in 5 in the normal-dose group .
+RESULTS	Computed tomography pulmonary angiography was correct in 230 patients and incorrect in 6 in the low-dose group ( odds ratio , 1.25 ; 95 % confidence interval , 0.38-4 .16 ; P = 0.77 ) .
+RESULTS	Sensitivity was 96.9 % and 100 % and specificity was 98.1 % and 97.1 % in the normal-dose and low-dose groups , respectively .
+RESULTS	No PE or PE-related death occurred during the 90-day follow-up .
+RESULTS	The size-specific dose estimates were 30 % lower at 80 kVp ( 4.8 1.0 mGy ) compared with that at 100 kVp ( 6.8 1.2 mGy ; P < 0.001 ) .
+CONCLUSIONS	The accuracy of low-dose CTPA at 80 kVp with a 30 % reduced radiation dose and a 25 % lower CM volume is not significantly different from that of normal-dose CTPA at 100 kVp in detecting acute PE in patients weighing less than 100 kg .
+

@@ -1,0 +1,11 @@
+25122186
+BACKGROUND	Abnormalities in cardiac structure and function in heart failure with preserved ejection fraction may help identify patients at particularly high risk for cardiovascular morbidity and mortality .
+RESULTS	Cardiac structure and function were assessed by echocardiography in a blinded core laboratory at baseline in 935 patients with heart failure with preserved ejection fraction ( left ventricular ejection fraction 45 % ) enrolled in the Treatment of Preserved Cardiac Function Heart Failure with an Aldosterone Antagonist ( TOPCAT ) trial and related to the primary composite outcome of cardiovascular death , heart failure hospitalization , or aborted cardiac arrest , and its components .
+RESULTS	At a median follow-up of 2.9 years , 244 patients experienced the primary outcome .
+RESULTS	Left ventricular hypertrophy ( adjusted hazard ratio , 1.52 ; 95 % confidence interval , 1.16-2 .00 ) , elevated left ventricular filling pressure ( E/E ' ; adjusted hazard ratio 1.05 per 1 integer increase ; 95 % confidence interval , 1.02-1 .07 ) , and higher pulmonary artery pressure assessed by the tricuspid regurgitation velocity ( hazard ratio , 1.23 per 0.5 m/s increase ; 95 % confidence interval , 1.02-1 .49 ) were associated with the composite outcome and heart failure hospitalization alone after adjusting for clinical and laboratory variables .
+RESULTS	The risk of adverse outcome associated with left ventricular hypertrophy was additive to the risk associated with elevated E/E ' .
+CONCLUSIONS	Among heart failure with preserved ejection fraction patients enrolled in TOPCAT , left ventricular hypertrophy , higher left ventricular filling pressure , and higher pulmonary artery pressure were predictive of heart failure hospitalization , cardiovascular death , or aborted cardiac arrest independent of clinical and laboratory predictors .
+CONCLUSIONS	These features , both alone and in combination , identify heart failure with preserved ejection fraction patients at particularly high risk for cardiovascular morbidity and mortality .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00094302 .
+

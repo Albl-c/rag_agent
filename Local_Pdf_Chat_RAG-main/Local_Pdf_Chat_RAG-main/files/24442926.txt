@@ -1,0 +1,14 @@
+24442926
+OBJECTIVE	CAM2028 , a vehicle that forms a bioadhesive lipid barrier when applied to the oral mucosa , was developed as a carrier system for local delivery of benzydamine , an NSAID used for pain relief in oral mucositis .
+OBJECTIVE	This trial compared the analgesic effect of CAM2028 plus benzydamine ( CAM2028-benzydamine ) with unmedicated CAM2028 ( CAM2028-control ) for the treatment of oral mucositis in patients with head-and-neck cancer .
+METHODS	Thirty-eight study participants were enrolled during their 3rd to 4th week of radiation therapy .
+METHODS	Participants were required to have symptomatic oral mucositis ( WHO Grade 2 or above ) at screening and pain scores of at least 6 on an 11-point Likert scale at screening and on each day before treatment with study medication .
+METHODS	After undergoing radiation , patients were administered a single dose of CAM2028-control or CAM2028-benzydamine 2 days apart , in a randomized crossover fashion .
+METHODS	Pain was assessed over the following 8 h.
+RESULTS	With both treatments , patients experienced a mean 40 % decrease in pain intensity at 6 h ( the primary study endpoint ) .
+RESULTS	Both treatments resulted in significant pain relief within 5 min of application that was evident during the entire 8-h assessment period .
+RESULTS	There was no difference in pain relief between the two interventions at any time point .
+RESULTS	Both treatments were safe and well tolerated .
+CONCLUSIONS	CAM2028-benzydamine and CAM2028-control were both efficacious in reducing pain in patients with oral mucositis related to radiation therapy for head-and-neck cancer .
+CONCLUSIONS	Analgesic effects of both medications were immediate , clinically significant , and persistent for up to 8 h.
+

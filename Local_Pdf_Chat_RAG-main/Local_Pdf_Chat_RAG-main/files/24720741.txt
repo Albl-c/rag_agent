@@ -1,0 +1,12 @@
+24720741
+OBJECTIVE	The aim of this study was to assess pain associated with subcutaneous injection into the abdomen and thigh of different combinations of injection speeds and volumes .
+METHODS	The study was a single-centre , one-visit , double-blinded , randomized controlled trial in 82 adults with type 1 or type 2 diabetes receiving daily injections of insulin or glucagon-like peptide-1 ( GLP-1 ) agonists .
+METHODS	Participants received 17 subcutaneous injections ( 12 in abdomen , 5 in thigh ) of saline at different injection speeds ( 150 , 300 and 450 l/s ) , with different volumes ( 400 , 800 , 1200 and 1600 l ) , and two needle insertions without any injection .
+METHODS	Pain was evaluated on a 100-mm visual analogue scale ( VAS ) ( 0 mm no pain , 100 mm worst pain ) and on a yes/no scale for pain acceptability .
+RESULTS	Injection speed had no impact on injection pain ( p = 0.833 ) .
+RESULTS	Injection of larger volumes caused significantly more pain [ VAS least square mean differences 1600 vs. 400 l , 7 2 mm ( 95 % confidence interval - CI ; 4.6-9 .7 ; p < 0.0001 ) ; 1600 vs. 800 l , 7.2 mm ( 4.4-10 .0 ; p < 0.0001 ) ; 1200 vs. 400 l , 3.5 mm ( 0.4-6 .6 ; p = 0.025 ) and 1200 vs. 800 l , 3.6 mm ( 0.4-6 .7 ; p = 0.027 ) ] .
+RESULTS	Significantly more pain occurred in the thigh versus the abdomen [ 9.0 mm ( 6.7-11 .3 ; p < 0.0001 ) ] .
+CONCLUSIONS	Injection speed had no effect on injection pain , whereas higher injection volumes caused more pain .
+CONCLUSIONS	The results of this study may be of value for guiding patients to use the appropriate injection site and technique to reduce their injection pain .
+CONCLUSIONS	Furthermore , these findings may have important implications for the development of new injection devices and drug formulations for clinical practice .
+

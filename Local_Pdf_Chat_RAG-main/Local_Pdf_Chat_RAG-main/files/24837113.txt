@@ -1,0 +1,10 @@
+24837113
+BACKGROUND	School absenteeism because of infections is one of the most important problems facing both public and private primary schools .
+BACKGROUND	The aim of the study was to assess the impact of infections on school absenteeism and their reduction with a handwashing program using hand sanitizer .
+METHODS	The study was an 8-month-long , randomized , controlled open study ( N = 1,609 children , aged 4-12 years old ) at 5 state schools in Almeria ( Spain ) .
+METHODS	The experimental group ( EG ) washed their hands with soap and water , complemented with the use of hand sanitizer , and the control group ( CG ) followed the usual handwashing procedure .
+METHODS	The total number of episodes and days missed as well as those because of upper respiratory infections and gastrointestinal infections were compared in both groups with a Z-test .
+RESULTS	The students were absent 12,386 days in 7,945 episodes .
+RESULTS	The incidence of total absent episodes and percent of missed days , including those because of upper respiratory infections and gastrointestinal infections , were significantly lower in the EG than the CG ( P < .001 ) , and this was maintained through the flu pandemic period .
+CONCLUSIONS	School absenteeism because of infections in schools is reduced when a hand hygiene program utilizing sanitizing gels is properly carried out , especially during the flu season .
+

@@ -1,0 +1,18 @@
+24898304
+OBJECTIVE	To compare the efficacy and safety of weekly albiglutide with daily sitagliptin , daily glimepiride , and placebo .
+METHODS	Patients with type 2 diabetes receiving metformin were randomized to albiglutide ( 30 mg ) , sitagliptin ( 100 mg ) , glimepiride ( 2 mg ) , or placebo .
+METHODS	Blinded dose titration for albiglutide ( to 50 mg ) and glimepiride ( to 4 mg ) was based on predefined hyperglycemia criteria .
+METHODS	The primary end point was change in HbA1c from baseline at week 104 .
+METHODS	Secondary end points included fasting plasma glucose ( FPG ) , weight , and time to hyperglycemic rescue .
+RESULTS	Baseline characteristics were similar among the albiglutide ( n = 302 ) , glimepiride ( n = 307 ) , sitagliptin ( n = 302 ) , and placebo ( n = 101 ) groups .
+RESULTS	Baseline HbA1c was 8.1 % ( 65.0 mmol/mol ) ; mean age was 54.5 years .
+RESULTS	The mean doses for albiglutide and glimepiride at week 104 were 40.5 and 3.1 mg , respectively .
+RESULTS	At week 104 , albiglutide significantly reduced HbA1c compared with placebo ( -0.9 % [ -9.8 mmol/mol ] ; P < 0.0001 ) , sitagliptin ( -0.4 % [ -4.4 mmol/mol ] ; P = 0.0001 ) , and glimepiride ( -0.3 % [ -3.3 mmol/mol ] ; P = 0.0033 ) .
+RESULTS	Outcomes for FPG and HbA1c were similar .
+RESULTS	Weight change from baseline for each were as follows : albiglutide -1.21 kg ( 95 % CI -1.68 to -0.74 ) , placebo -1.00 kg ( 95 % CI -1.81 to -0.20 ) , sitagliptin -0.86 kg ( 95 % CI -1.32 to -0.39 ) , glimepiride 1.17 kg ( 95 % CI 0.70-1 .63 ) .
+RESULTS	The difference between albiglutide and glimepiride was statistically significant ( P < 0.0001 ) .
+RESULTS	Hyperglycemic rescue rate at week 104 was 25.8 % for albiglutide compared with 59.2 % ( P < 0.0001 ) , 36.4 % ( P = 0.0118 ) , and 32.7 % ( P = 0.1504 ) for placebo , sitagliptin , and glimepiride , respectively .
+RESULTS	Rates of serious adverse events in the albiglutide group were similar to comparison groups .
+RESULTS	Diarrhea ( albiglutide 12.9 % , other groups 8.6-10 .9 % ) and nausea ( albiglutide 10.3 % , other groups 6.2-10 .9 % ) were generally the most frequently reported gastrointestinal events .
+CONCLUSIONS	Added to metformin , albiglutide was well tolerated ; produced superior reductions in HbA1c and FPG at week 104 compared with placebo , sitagliptin , and glimepiride ; and resulted in weight loss compared with glimepiride .
+

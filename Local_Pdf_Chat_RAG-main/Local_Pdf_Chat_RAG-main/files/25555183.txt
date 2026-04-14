@@ -1,0 +1,12 @@
+25555183
+OBJECTIVE	Although there is scientific evidence that stress adversely affects metabolic control , only a few studies have examined the role of stress management in improving glycemic control in patients with type 2 diabetes mellitus ( DM ) .
+OBJECTIVE	In this study , we investigated the effect of a relaxation technique on levels of stress and glycemic control .
+METHODS	A total of 53 patients with type 2 DM were randomly assigned to undergo either an 8-week stress management program , consisting of 10 min of diaphragmatic breathing and 15 min of progressive muscle relaxation twice per day ( n = 25 , intervention group ) , or not ( n = 28 , control group ) .
+METHODS	Perceived stress , health locus of control and HbA1c were primary outcomes and were measured before and after intervention .
+RESULTS	In the intervention group , perceived stress score ( PSS ) and HbA1c had decreased significantly ( P < 0.05 ) by the end of the program .
+RESULTS	Specifically concerning the PSS , the higher the initial levels of perceived stress the greater the benefit of the intervention .
+RESULTS	No other significant changes were found .
+CONCLUSIONS	Our results show a beneficial role of stress management for patients with type 2 DM , as regards both stress levels and glycemic control .
+CONCLUSIONS	It is recommended to consider this type of treatment as an adjunct to conventional therapy .
+CONCLUSIONS	We deem that our study could encourage future studies in this area with larger samples , longer duration and more objective measurements .
+

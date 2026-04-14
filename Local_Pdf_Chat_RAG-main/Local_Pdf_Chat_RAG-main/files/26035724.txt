@@ -1,0 +1,13 @@
+26035724
+OBJECTIVE	The authors examined the impacts of whole-body vibration ( WBV ) applications on balance control in postmenopausal women using clinical balance tests and computerized static posturography .
+METHODS	Patients were randomly divided into two groups and treated with WBV and/or home-based balance coordination exercises ( BCEs ) .
+METHODS	Patients in the WBV-BCE group were asked to stand on the platform in standing , squat , and deep squat positions .
+METHODS	During each position , 30-sec vibration ( 30-35 Hz ) and 60-sec rest periods were applied twice ( 20 sessions in total ) .
+METHODS	The BCE program was performed by subjects twice per day .
+METHODS	All subjects were evaluated before and after treatment using the Timed Up and Go test and the Berg Balance Scale ( BBS ) .
+METHODS	The fall index and the Fourier index were assessed via computerized static posturography .
+RESULTS	Sixty patients were recruited for the study , but only 42 patients ( 21 in each group ) completed it .
+RESULTS	Fall index and the total values of the Fourier index 2-4 and Fourier index 5-6 frequencies indicated a significant improvement in the WBV-BCE group ( P < 0.05 ) .
+RESULTS	Both groups showed significant improvements in the Berg Balance Scale and Timed Up and Go test ( P < 0.05 ) .
+CONCLUSIONS	The ease of applying WBV furthermore supports its inclusion in daily treatment protocols for age-related decline in balance performance in women and improved balance and mobility measures associated with increased fall risk .
+

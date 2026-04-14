@@ -1,0 +1,10 @@
+24369008
+OBJECTIVE	To examine whether baseline obesity severity modifies the effects of two different , primary care-based , technology-enhanced lifestyle interventions among overweight or obese adults with prediabetes and/or metabolic syndrome .
+METHODS	We compared mean differences in changes from baseline to 15 months in clinical measures of general and central obesity among participants randomized to usual care alone ( n = 81 ) or usual care plus a coach-led group ( n = 79 ) or self-directed individual ( n = 81 ) intervention , stratified by baseline body mass index ( BMI ) category .
+RESULTS	Participants with baseline BMI 35 + had greater reductions in mean BMI , body weight ( as percentage change ) , and waist circumference in the coach-led group intervention , compared to usual care and the self-directed individual intervention ( P < 0.05 for all ) .
+RESULTS	In contrast , the self-directed intervention was more effective than usual care only among participants with baseline BMIs between 25 35 .
+RESULTS	Mean weight loss exceeded 5 % in the coach-led intervention regardless of baseline BMI category , but this was achieved only among self-directed intervention participants with baseline BMIs < 35 .
+CONCLUSIONS	Baseline BMI may influence behavioral weight-loss treatment effectiveness .
+CONCLUSIONS	Researchers and clinicians should take an individual 's baseline BMI into account when developing or recommending lifestyle focused treatment strategy .
+CONCLUSIONS	This trial is registered with ClinicalTrials.gov NCT00842426 .
+

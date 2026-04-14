@@ -1,0 +1,9 @@
+26079800
+BACKGROUND	The authors conducted a randomized , controlled , parallel-arm , superiority study to test the hypothesis that a continuous adductor canal block decreases the time to attain four discharge criteria compared with a continuous femoral nerve block after tricompartment knee arthroplasty .
+METHODS	Subjects undergoing tricompartment knee arthroplasty were randomized using computer-generated lists to either an adductor canal or femoral perineural catheter ( 3-day ropivacaine 0.2 % infusion ) in an unmasked manner .
+METHODS	The primary outcome was the time to attain four criteria : ( 1 ) adequate analgesia ; ( 2 ) intravenous opioids independence ; ( 3 ) ability to stand , walk 3 m , return , and sit down ; and ( 4 ) ambulate 30 m.
+RESULTS	Subjects with an adductor canal catheter ( n = 39 ) reached all four criteria in a median of 55h ( interquartile , 42 to 63h ) compared with 61h ( 49 to 69h ) for those with a femoral catheter ( n = 41 ; 95 % CI , -13 to 1h ; P = 0.12 ) .
+RESULTS	The percentage of subjects who reached the two mobilization criteria on postoperative days 1 and 2 were 72 and 95 % for those with an adductor canal catheter ( n = 39 ) , but only 27 and 76 % in subjects with a femoral catheter ( n = 41 ; both P < 0.001 ) .
+RESULTS	Differences in pain scores at rest and intravenous opioid requirements were minimal , but femoral infusion improved dynamic analgesia ( P = 0.01 to 0.02 ) .
+CONCLUSIONS	Compared with a continuous femoral nerve block , a continuous adductor canal block did not appreciably decrease the time to overall discharge readiness even though it did decrease the time until adequate mobilization , primarily because both groups experienced similar analgesia and intravenous opioid requirements that -- in most cases -- exceeded the time to mobilization .
+

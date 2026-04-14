@@ -1,0 +1,25 @@
+25337988
+BACKGROUND	Research to assess the effect of interventions to improve the processes of shared decision making and self-management directed at health care professionals is limited .
+BACKGROUND	Using the protocol of Intervention Mapping , a Web-based intervention directed at health care professionals was developed to complement and optimize health services in patient-centered care .
+OBJECTIVE	The objective of the Web-based intervention was to increase health care professionals ' intention and encouraging behavior toward patient self-management , following cardiovascular risk management guidelines .
+METHODS	A randomized controlled trial was used to assess the effect of a theory-based intervention , using a pre-test and post-test design .
+METHODS	The intervention website consisted of a module to help improve professionals ' behavior , a module to increase patients ' intention and risk-reduction behavior toward cardiovascular risk , and a parallel module with a support system for the health care professionals .
+METHODS	Health care professionals ( n = 69 ) were recruited online and randomly allocated to the intervention group ( n = 26 ) or ( waiting list ) control group ( n = 43 ) , and invited their patients to participate .
+METHODS	The outcome was improved professional behavior toward health education , and was self-assessed through questionnaires based on the Theory of Planned Behavior .
+METHODS	Social-cognitive determinants , intention and behavior were measured pre-intervention and at 1-year follow-up .
+RESULTS	The module to improve professionals ' behavior was used by 45 % ( 19/42 ) of the health care professionals in the intervention group .
+RESULTS	The module to support the health professional in encouraging behavior toward patients was used by 48 % ( 20/42 ) .
+RESULTS	The module to improve patients ' risk-reduction behavior was provided to 44 % ( 24/54 ) of patients .
+RESULTS	In 1 of every 5 patients , the guideline for cardiovascular risk management was used .
+RESULTS	The Web-based intervention was poorly used .
+RESULTS	In the intervention group , no differences in social-cognitive determinants , intention and behavior were found for health care professionals , compared with the control group .
+RESULTS	We narrowed the intervention group and no significant differences were found in intention and behavior , except for barriers .
+RESULTS	Results showed a significant overall difference in barriers between the intervention and the control group ( F1 = 4.128 , P = .02 ) .
+CONCLUSIONS	The intervention was used by less than half of the participants and did not improve health care professionals ' and patients ' cardiovascular risk-reduction behavior .
+CONCLUSIONS	The website was not used intensively because of time and organizational constraints .
+CONCLUSIONS	Professionals in the intervention group experienced higher levels of barriers to encouraging patients , than professionals in the control group .
+CONCLUSIONS	No improvements were detected in the processes of shared decision making and patient self-management .
+CONCLUSIONS	Although participant education level was relatively high and the intervention was pre-tested , it is possible that the way the information was presented could be the reason for low participation and high dropout .
+CONCLUSIONS	Further research embedded in professionals ' regular consultations with patients is required with specific emphasis on the processes of dissemination and implementation of innovations in patient-centered care .
+BACKGROUND	Netherlands Trial Register Number ( NTR ) : NTR2584 ; http://www.trialregister.nl/trialreg/admin/rctview.asp?TC=2584 ( Archived by WebCite at http://www.webcitation.org/6STirC66r ) .
+

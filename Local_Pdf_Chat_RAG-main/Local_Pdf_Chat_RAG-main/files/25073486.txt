@@ -1,0 +1,14 @@
+25073486
+BACKGROUND	In many countries a high proportion of births begin as induced labours .
+BACKGROUND	Induction can be lengthy if cervical priming is required prior to induction .
+BACKGROUND	This usually occurs as an inpatient , however , an alternative is to allow women to go home after satisfactory fetal monitoring .
+BACKGROUND	The aim of this study was to assess the preferences of women for cervical priming for induction of labour in an outpatient or inpatient setting .
+METHODS	A discrete choice experiment ( DCE ) was conducted alongside a randomised trial of inpatient and outpatient cervical priming ( the OPRA trial ) in two maternity hospitals in South Australia .
+METHODS	362 participants were included , and women 's preferences for cervical priming for induction of labour were assessed .
+RESULTS	Women were willing to accept an extra 1.4 trips to hospital ( 2.4 trips total ) and a total travel time of 73.3 minutes to be able to return to their own home while waiting for the priming to work .
+RESULTS	For enhanced inpatient services , women were willing to accept a total travel time of 54.7 minutes to have a private room with private bathroom while waiting for the priming to work .
+RESULTS	The overall benefit score for outpatient priming was 3.63 , 3.59 for enhanced inpatient care and 2.89 for basic inpatient care , suggesting slightly greater preferences for outpatient priming .
+RESULTS	Preferences for outpatient priming increased when women could return to their own home ( compared to other offsite accommodation ) , and decreased with more trips to hospital and longer travel time .
+CONCLUSIONS	Our results suggest that outpatient priming was slightly more preferred than either enhanced inpatient priming or basic care ; these results should be confirmed in different clinical settings .
+CONCLUSIONS	There may be merit in providing women information about both options in the future , as preferences varied according to the characteristics of the services on offer and the sociodemographic background of the woman .
+

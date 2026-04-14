@@ -1,0 +1,12 @@
+25044799
+OBJECTIVE	To identify an early treatment milestone that optimizes sensitivity and specificity for predicting 5 % weight loss at Week ( W ) 52 in patients with and without type 2 diabetes on lorcaserin or placebo .
+METHODS	Post hoc area under the curve for receiver operating characteristic analyses of data from three phase 3 trials comparing lifestyle modification + placebo with lifestyle modification + lorcaserin .
+METHODS	A total of 6897 patients ( 18-65 years ; BMI , 30-45 or 27-29 .9 kg/m ( 2 ) with 1 comorbidity ) were randomized to placebo or lorcaserin 10 mg bid .
+METHODS	Changes ( baseline to W52 ) in cardiometabolic parameters were assessed .
+RESULTS	Response ( 5 % weight loss from baseline ) at W12 was a strong predictor of W52 response .
+RESULTS	Lorcaserin patients with a W12 response achieved mean W52 weight losses of 10.6 kg ( without diabetes ) and 9.3 kg ( with diabetes ) .
+RESULTS	Proportions achieving 5 % and 10 % weight loss at W52 were 85.5 % and 49.8 % ( without diabetes ) , and 70.5 % and 35.9 % ( with diabetes ) .
+RESULTS	Lorcaserin patients who did not achieve a W12 response lost 3.2 kg ( without diabetes ) and 2.8 kg ( with diabetes ) at W52 .
+RESULTS	Responders had greater improvements in cardiometabolic risk factors than the modified intent-to-treat ( MITT ) population , consistent with greater weight loss .
+CONCLUSIONS	5 % weight loss by W12 predicts robust response to lorcaserin at 1 year .
+

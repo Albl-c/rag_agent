@@ -1,0 +1,13 @@
+24440105
+OBJECTIVE	To compare the safety and efficacy of Ozil Intelligent Phaco torsional microcoaxial phacoemulsification surgeries performed using 30-degree and 45-degree aperture angled tips .
+METHODS	Maltepe University School of Medicine Department of Ophthalmology , Istanbul , Turkey .
+METHODS	Comparative case series .
+METHODS	Eyes were assigned to 2.2 mm microcoaxial phacoemulsification using the torsional mode with a 45-degree ( Group 1 ) or 30-degree ( Group 2 ) aperture angled tip .
+METHODS	A quick-chop surgical technique was used .
+METHODS	The primary outcome measures were ultrasound time ( UST ) , cumulative dissipated energy ( CDE ) , longitudinal and torsional ultrasound ( US ) amplitudes , mean surgical time , mean balanced salt solution volume used , and mean central corneal thickness ( CCT ) changes .
+RESULTS	The mean UST , CDE , and longitudinal and torsional US amplitudes were 58.21 seconds 33.81 ( SD ) , 7.74 6.23 , 0.45 0.30 , and 26.30 12.60 in Group 1 and 63.83 23.42 seconds , 12.36 6.75 , 0.23 0.26 , and 44.65 14.38 in Group 2 , respectively .
+RESULTS	The mean CDE and torsional amplitudes were significantly lower in Group 1 ( P = .002 and P = .001 , respectively ) .
+RESULTS	The mean balanced salt solution volume was 73.30 19.87 cc in Group 1 and 74.30 19.44 cc in Group 2 ( P = .821 ) .
+RESULTS	The mean CCT change was 52.40 38.08 m and 99.35 47.14 m , respectively ( P < .001 ) .
+CONCLUSIONS	Torsional phacoemulsification performed with a 45-degree aperture angled tip provided more effective lens removal with a lower CDE and less CCT change than a 30-degree aperture angled tip .
+

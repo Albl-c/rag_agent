@@ -1,0 +1,23 @@
+24308282
+BACKGROUND	Multimorbid patients frequently receive complex medication regimens and are at higher risk for adverse drug reactions and hospitalisations .
+BACKGROUND	Managing patients with polypharmacy is demanding , because it requires coordination of multiple prescribers and intensive monitoring .
+BACKGROUND	Three evidence-based recommendations addressing polypharmacy in primary care are structured medication counselling , use of medication lists and medication reviews to avoid potentially inappropriate medication ( PIM ) .
+BACKGROUND	Although promising to improve patient outcomes , these recommendations are not well implemented in German routine care .
+BACKGROUND	Implementation of guidelines is often hindered by specific `` determinants of change '' .
+BACKGROUND	`` Tailored '' interventions are designed to specifically address previously identified determinants .
+BACKGROUND	This study examines a tailored intervention to implement the aforementioned recommendations into German primary care practices .
+BACKGROUND	This study is part of the European Tailored Interventions for Chronic Diseases project , which aims at contributing knowledge about the methods used for tailoring .
+METHODS	The study is designed as a cluster randomized controlled trial with primary care practices of general practitioners ( GPs ) who are organized in quality circles .
+METHODS	Quality circles will be the unit of randomization with a 1:1 ratio .
+METHODS	Follow-up time is 6 months .
+METHODS	GPs and healthcare assistants in the intervention group will receive training on medication management .
+METHODS	Each GP will create a tailored concept of how to implement the three recommendations into his/her practice .
+METHODS	Evidence-based checklists for medication counselling and medication reviews will be provided for physicians .
+METHODS	A tablet PC with an interactive educational tool and information leaflets will be provided for use by patients to inform about the necessity of continuous medication management .
+METHODS	Control practices will not receive special training and will provide care as usual .
+METHODS	Primary outcome is the degree of implementation of the three recommendations , which will be measured using a prespecified set of indicators .
+METHODS	Additionally , the PIM prescription rate , patient activation , patients ' beliefs about medicine , medication adherence and patients ' social support will be measured .
+CONCLUSIONS	This study will contribute knowledge about the feasibility of implementing recommendations for managing patients with polypharmacy in primary care practices .
+CONCLUSIONS	Additionally , this study will contribute knowledge about methods for tailoring of implementation interventions .
+BACKGROUND	Clinicaltrials.gov ISRCTN34664024 .
+

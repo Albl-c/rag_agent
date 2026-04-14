@@ -1,0 +1,19 @@
+25910800
+BACKGROUND	The aims of the present study were to define the prevalence of untreated atrial fibrillation ( AF ) in a systematic screening program using intermittent ECG recordings among 75 - to 76-year-old individuals and to study the feasibility of initiating protective oral anticoagulant ( OAC ) treatment .
+RESULTS	Half of the 75 - to 76-year-old population in 2 Swedish regions were invited to a screening program for AF .
+RESULTS	Participants without a previous diagnosis of AF underwent intermittent ECG recordings over 2 weeks .
+RESULTS	If AF was detected , participants were offered OAC .
+RESULTS	During the 28-month inclusion period , 13331 inhabitants were invited .
+RESULTS	Of these , 7173 ( 53.8 % ) participated .
+RESULTS	Of the participants , 218 ( 3.0 % ; 95 % confidence interval [ CI ] , 2.7-3 .5 ) were found to have previously unknown AF , and of these , AF was found in 37 ( 0.5 % of the screened population ) on their first ECG .
+RESULTS	The use of intermittent ECGs increased new AF detection 4-fold .
+RESULTS	A previous diagnosis of AF was known in 9.3 % ( n = 666 ; 95 % CI , 8.6-10 .0 ) .
+RESULTS	Total AF prevalence in the screened population was 12.3 % .
+RESULTS	Of participants with known AF , 149 ( 2.1 % ; 95 % CI , 1.8-2 .4 ) had no OAC treatment .
+RESULTS	In total , 5.1 % ( 95 % CI , 4.6-5 .7 ) of the screened population had untreated AF ; screening resulted in initiation of OAC treatment in 3.7 % ( 95 % CI , 3.3-4 .2 ) of the screened population .
+RESULTS	More than 90 % of the participants with previously undiagnosed AF accepted initiation of OAC treatment .
+CONCLUSIONS	Mass screening for AF in a 75 - to 76-year-old population identifies a significant proportion of participants with untreated AF .
+CONCLUSIONS	Initiation of stroke prophylactic treatment was highly successful in individuals with newly diagnosed AF .
+BACKGROUND	URL : http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT01593553 .
+

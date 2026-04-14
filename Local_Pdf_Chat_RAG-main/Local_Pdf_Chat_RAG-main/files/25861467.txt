@@ -1,0 +1,12 @@
+25861467
+OBJECTIVE	Increased coagulation activation may contribute to the high incidence of cardiovascular complications observed in obese and type 2 diabetes ( T2D ) subjects .
+OBJECTIVE	Although tissue factor ( TF ) , the primary initiator of coagulation is increased in obesity , its expression in adipose tissues and its association with metabolic parameters are unclear .
+OBJECTIVE	We sought to compare TF expression in plasma and adipose tissues of obese subjects with and without T2D , its correlation with metabolic parameters , and regulation in response to antidiabetic drugs .
+METHODS	Subjects were recruited from diabetes clinics and adipose tissue was obtained by needle biopsy of lower subcutaneous abdominal depot .
+METHODS	For the intervention study , subjects were randomized into treatment groups with rosiglitazone or metformin for 4 months .
+RESULTS	Plasma TF antigen , activity , and adipose TF mRNA were greater in obese T2D subjects compared with obese nondiabetics .
+RESULTS	Plasma TF activity correlated with fasting insulin , glucose , and free fatty acids , ( FFAs ) , and adipose TF mRNA correlated with plasma FFA .
+RESULTS	Plasma TF activity was reduced by metformin and increased with rosiglitazone treatment .
+CONCLUSIONS	Specific diabetes-related metabolic parameters , but not obesity per se , are correlated with TF expression .
+CONCLUSIONS	Regulation of TF activity by different classes of antidiabetic drugs may relate to protective or adverse cardiovascular outcomes .
+

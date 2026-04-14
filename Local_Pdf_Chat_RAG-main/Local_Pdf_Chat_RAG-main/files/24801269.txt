@@ -1,0 +1,13 @@
+24801269
+BACKGROUND	Several evidences have supported the benefits of home blood pressure monitoring ( HBPM ) in improving hypertension awareness and control .
+BACKGROUND	However , little was known about the use of HBPM by hypertensive patients in primary care in China .
+METHODS	A cross-sectional questionnaire survey on HBPM use was conducted on 1915 hypertensive patients in Xinzhuang County Hospital in Shanghai , and the factors related to regular use of HBPM were also determined .
+RESULTS	Overall , 1011 of the 1915 participants engaged in using HBPM , among whom 786 individuals used HBPM more than once a month .
+RESULTS	Of the 1011 HBPM users , 25.42 % chose a mercury sphygmomanometer , 33.55 % used wrist-cuff electronic devices , and 46.5 % selected arm-cuff electronic devices .
+RESULTS	In addition , 73 % of HBPM users reported HBP readings to their general practitioners .
+RESULTS	Compared with the less frequent users , patients who used HBPM daily were likely to report their blood pressure ( BP ) values to the doctors depending on notebook or mechanical memory than on their own memories ( P < 0.001 ) .
+RESULTS	Moreover , patients with college education were 2.7 times more likely than those with middle school education or less to engage in frequent HBPM use ( odds ratio = 2.71 , 95 % confidence interval = 2.03-3 .61 ) .
+CONCLUSIONS	This local community survey showed that 40 % of hypertension patients used HBPM frequently in primary care in China .
+CONCLUSIONS	However , certain patients chose the improper BP monitoring device or questionable reporting methods .
+CONCLUSIONS	Therefore , the use of arm-cuff electric devices with multiple memory storage or a home BP telemonitoring system should be promoted by health education targeted at hypertensive patients .
+

@@ -1,0 +1,15 @@
+25050898
+BACKGROUND	Testicular germ cell cancer ( GCC ) patients treated with cisplatin-etoposide-bleomycin chemotherapy ( BEP ) have excellent prognosis but have an increased risk of late-occurring morbidities , which may be associated with changes in the inflammatory profile .
+OBJECTIVE	The objective of the study was to explore plasma cytokine concentrations in GCC patients randomized to resistance training or usual care during BEP , in comparison with healthy controls .
+METHODS	This was a randomized controlled trial in GCC patients enrolled from an oncology clinic , including a healthy reference group for comparison purposes .
+METHODS	Plasma granulocyte macrophage colony-stimulating factor , interferon - , IL-1 , IL-2 , IL-6 , IL-8 , IL-10 , IL-12 , and TNF - were measured in fasting blood samples from GCC patients randomized to resistance training ( INT ; n = 15 ) or usual care ( CON ; n = 15 ) and healthy age-matched controls ( REF ; n = 19 ) .
+METHODS	Clinical toxicity assessments and patient-reported end points were also recorded .
+RESULTS	CON and INT were balanced at baseline .
+RESULTS	Compared with REF , CON had higher concentrations of IL-10 , IL-6 , and interferon - , and INT had higher concentrations of IL-6 , IL-8 and TNF - ( all P < .05 ) .
+RESULTS	At the end of therapy , concentrations of IL-6 , IL-8 , and IL-10 increased in both GCC groups ( all P < .01 ) .
+RESULTS	Three months after therapy , all cytokine concentrations were comparable with the pretreatment levels in both GCC-groups but remained elevated compared with REF ( P < .05 ) .
+RESULTS	Changes in TNF - correlated with pulmonary toxicity ( P < .01 ) .
+RESULTS	At the end of therapy , IL-6 concentrations correlated with quality of life ( P < .05 ) and fatigue ( P < .01 ) .
+CONCLUSIONS	GCC patients treated with BEP display consistently elevated levels of systemic inflammatory markers compared with healthy controls .
+CONCLUSIONS	Resistance training during therapy has no impact on plasma cytokine concentrations .
+

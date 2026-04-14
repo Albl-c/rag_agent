@@ -1,0 +1,11 @@
+25111351
+BACKGROUND	Botulinum neurotoxin type A trials in aesthetic indications have used differing efficacy parameters and responder definitions .
+OBJECTIVE	To analyze the treatment efficacy and duration of incobotulinumtoxinA for glabellar frown lines using pooled data from 2 large , Phase 3 , placebo-controlled trials , and end points similar to those used in previous botulinum neurotoxin type A studies .
+METHODS	IncobotulinumtoxinA and placebo groups comprised 366 and 181 subjects , respectively .
+METHODS	The efficacy of a single 20-U treatment of incobotulinumtoxinA or placebo was evaluated by investigator-assessed and subject-assessed responder rates ( 1-point improvement from baseline ) , mean score , and mean change from the baseline glabellar frown line severity score .
+RESULTS	At all follow-up visits , responder rates and mean change from the baseline score ( investigator-assessed and subject-assessed ) were significantly greater for incobotulinumtoxinA versus placebo ( p < .0001 ) .
+RESULTS	The maximum investigator-assessed responder rate ( 93.1 % ) was achieved at Day 30 after treatment , when the mean improvement on the 4-point facial wrinkle scale peaked at 1.88 .
+RESULTS	Treatment effect declined over time but the investigator-assessed responder rate was 45.7 % at the end of the study .
+CONCLUSIONS	Superiority of incobotulinumtoxinA over placebo for treating glabellar frown lines was confirmed .
+CONCLUSIONS	IncobotulinumtoxinA achieved a maximum responder rate of 93.1 % and a long duration of treatment effect : 45.7 % of subjects showed efficacy at 120 days .
+

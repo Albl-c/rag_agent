@@ -1,0 +1,18 @@
+25407349
+BACKGROUND	Inappropriate drug use has been identified as one of the most important problems affecting the quality of care in older people .
+BACKGROUND	Inappropriate drug use may increase the risk of the occurrence of ` geriatric giants ' such as immobility , instability , incontinence and cognitive impairment .
+BACKGROUND	There are indications that clinical medication reviews ( CMR ) can reduce inappropriate drug use .
+BACKGROUND	However , CMRs have not yet been implemented at a large scale in primary care .
+BACKGROUND	An innovative medication review program in primary care will be developed which tackles the most important obstacles for a large scale implementation of CMRs .
+BACKGROUND	The aim of this study is to assess whether this CMR program is ( cost - ) effective compared with usual general practice care for older patients with geriatric symptoms with regard to quality of life and geriatric symptoms .
+METHODS	A cluster randomised controlled trial will be performed in 20 Dutch general practices including 500 patients .
+METHODS	Patients of 65years and older are eligible if they newly present with pre-specified geriatric symptoms in general practice and chronic use of at least one prescribed drug .
+METHODS	GP practices will be stratified by practice size and randomly allocated to control ( n = 10 ) or intervention group ( n = 10 ) .
+METHODS	The intervention consists of CMRs which will be facilitated and prepared by an expert team consisting of a GP and a pharmacist .
+METHODS	Primary outcome measures are patient 's quality of life and the presence of self-reported geriatric symptoms during a follow-up period of 6months .
+METHODS	Secondary outcomes are costs of healthcare utilisation , feasibility , number of drug related problems , medication adherence and satisfaction with medication .
+CONCLUSIONS	This study is expected to add evidence on the ( cost - ) effectiveness of an optimally facilitated , prepared and structured CMR in comparison with usual care in older patients who present a geriatric symptom to their GP .
+CONCLUSIONS	The strength of this study is that it will be conducted in daily clinical practice .
+CONCLUSIONS	This improves the possibilities to implement the CMRs in the primary care setting on a large scale .
+BACKGROUND	Netherlands Trial register : NTR4264 .
+

@@ -1,0 +1,10 @@
+24702629
+BACKGROUND	The echocardiographic substudy of the OASIS-6 trial evaluated the prognostic implications of left ventricle ( LV ) systolic and diastolic dysfunction early postacute ST-segment elevation myocardial infarction ( STEMI ) in patients treated with fondaparinux versus usual care .
+METHODS	Comprehensive echocardiograms were performed a median of 6 days after the index STEMI in 528 patients , 258 randomized to fondaparinux and 270 to usual care ( unfractionated heparin or placebo ) , to assess LV systolic and diastolic function , LV mass , and LV end-systolic and end-diastolic volumes .
+METHODS	A total of 245 ( 46.4 % ) patients were followed up for 3 months and 283 ( 53.6 % ) for 6 months .
+METHODS	Major cardiac events ( MACE ) were defined as the composite of death , reinfarction , heart failure , or cardiogenic shock and resuscitated cardiac arrest .
+RESULTS	Patients with LV ejection fraction ( LVEF ) 45 % and restrictive diastolic function ( RDF ) were at greatly increased risk of MACE ( hazard ratio [ HR ] = 8.85 , 95 % CI , 4.2118.60 ) compared to patients with LVEF 45 % and without RDF .
+RESULTS	RDF remained a strong predictor for MACE in patients with LVEF 45 % ( HR = 4.38 , 95 % CI , 1.5212.60 ) and in multivariate models adjusted for LVEF , LV end-systolic volume , and clinical variables .
+CONCLUSIONS	In this large international trial , LV systolic and diastolic function , as determined by echocardiography early following STEMI , are incremental predictors of MACE .
+CONCLUSIONS	In addition , RDF is a strong independent predictor of MACE after STEMI across a broad range of LVEF .
+

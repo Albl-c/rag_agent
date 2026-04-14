@@ -1,0 +1,13 @@
+24618231
+BACKGROUND	Fine particulate matter ( PM ) air pollution is associated with numerous adverse health effects , including increased blood pressure ( BP ) and vascular dysfunction .
+BACKGROUND	Coarse PM substantially contributes to global air pollution , yet differs in characteristics from fine particles and is currently not regulated .
+BACKGROUND	However , the cardiovascular ( CV ) impacts of coarse PM exposure remain largely unknown .
+OBJECTIVE	Our goal was to elucidate whether coarse PM , like fine PM , is itself capable of eliciting adverse CV responses .
+METHODS	We performed a randomized double-blind crossover study in which 32 healthy adults ( 25.9 6.6 years of age ) were exposed to concentrated ambient coarse particles ( CAP ; 76.2 51.5 g/m ( 3 ) ) in a rural location and filtered air ( FA ) for 2 hr .
+METHODS	We measured CV outcomes during , immediately after , and 2 hr postexposures .
+RESULTS	Both systolic ( mean difference = 0.32 mmHg ; 95 % CI : 0.05 , 0.58 ; p = 0.021 ) and diastolic BP ( 0.27 mmHg ; 95 % CI : 0.003 , 0.53 ; p = 0.05 ) linearly increased per 10 min of exposure during the inhalation of coarse CAP when compared with changes during FA exposure .
+RESULTS	Heart rate was on average higher ( 4.1 bpm ; 95 % CI : 3.06 , 5.12 ; p < 0.0001 ) and the ratio of low-to-high frequency heart rate variability increased ( 0.24 ; 95 % CI : 0.07 , 0.41 ; p = 0.007 ) during coarse particle versus FA exposure .
+RESULTS	Other outcomes ( brachial flow-mediated dilatation , microvascular reactive hyperemia index , aortic hemodynamics , pulse wave velocity ) were not differentially altered by the exposures .
+CONCLUSIONS	Inhalation of coarse PM from a rural location is associated with a rapid elevation in BP and heart rate during exposure , likely due to the triggering of autonomic imbalance .
+CONCLUSIONS	These findings add mechanistic evidence supporting the biological plausibility that coarse particles could contribute to the triggering of acute CV events .
+

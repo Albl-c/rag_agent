@@ -1,0 +1,12 @@
+26028283
+OBJECTIVE	Exercise evokes pulsatile GH release followed by autonegative feedback , whereas glucose suppresses GH release followed by rebound-like GH release ( feedforward escape ) .
+OBJECTIVE	Here we test the hypothesis that age , sex steroids , insulin , body composition and physical power jointly determine these dynamic GH responses .
+METHODS	This was a prospectively randomized glucose-blinded study conducted in the Mayo Center for Advancing Translational Sciences in healthy men ages 19-77 years ( N = 23 ) .
+METHODS	Three conditions , fasting/rest/saline , fasting/exercise/saline and fasting/rest/iv glucose infusions , were used to drive GH dynamics during 10-min blood sampling for 6h .
+METHODS	Linear correlation analysis was applied to relate peak/nadir GH dynamics to age , sex steroids , insulin , CT-estimated abdominal fat and physical power ( work per unit time ) .
+RESULTS	Compared with the fasting/rest/saline ( control ) day , fasting/exercise/saline infusion evoked peak GH within 1h , followed by negative feedback 3-5h later .
+RESULTS	The dynamic GH excursion was strongly ( R ( 2 ) = 0.634 ) influenced by ( i ) insulin negatively ( P = 0.011 ) , ( ii ) power positively ( P = 0.0008 ) , and ( iii ) E2 positively ( P = 0.001 ) .
+RESULTS	Dynamic glucose-modulated GH release was determined by insulin negatively ( P = 0.0039 ) and power positively ( P = 0.0034 ) ( R ( 2 ) = 0.454 ) .
+RESULTS	Under rest/saline , power ( P = 0.031 ) and total abdominal fat ( P = 0.012 ) ( R ( 2 ) = 0.267 ) were the dominant correlates of GH excursions .
+CONCLUSIONS	In healthy men , dynamic GH perturbations induced by exercise and glucose are strongly related to physical power , insulin , estradiol , and body composition , thus suggesting a network of regulatory pathways .
+

@@ -1,0 +1,20 @@
+25907157
+BACKGROUND	Individuals with a history of recurrent depression have a high risk of repeated depressive relapse or recurrence .
+BACKGROUND	Maintenance antidepressants for at least 2 years is the current recommended treatment , but many individuals are interested in alternatives to medication .
+BACKGROUND	Mindfulness-based cognitive therapy ( MBCT ) has been shown to reduce risk of relapse or recurrence compared with usual care , but has not yet been compared with maintenance antidepressant treatment in a definitive trial .
+BACKGROUND	We aimed to see whether MBCT with support to taper or discontinue antidepressant treatment ( MBCT-TS ) was superior to maintenance antidepressants for prevention of depressive relapse or recurrence over 24 months .
+METHODS	In this single-blind , parallel , group randomised controlled trial ( PREVENT ) , we recruited adult patients with three or more previous major depressive episodes and on a therapeutic dose of maintenance antidepressants , from primary care general practices in urban and rural settings in the UK .
+METHODS	Participants were randomly assigned to either MBCT-TS or maintenance antidepressants ( in a 1:1 ratio ) with a computer-generated random number sequence with stratification by centre and symptomatic status .
+METHODS	Participants were aware of treatment allocation and research assessors were masked to treatment allocation .
+METHODS	The primary outcome was time to relapse or recurrence of depression , with patients followed up at five separate intervals during the 24-month study period .
+METHODS	The primary analysis was based on the principle of intention to treat .
+METHODS	The trial is registered with Current Controlled Trials , ISRCTN26666654 .
+RESULTS	Between March 23 , 2010 , and Oct 21 , 2011 , we assessed 2188 participants for eligibility and recruited 424 patients from 95 general practices .
+RESULTS	212 patients were randomly assigned to MBCT-TS and 212 to maintenance antidepressants .
+RESULTS	The time to relapse or recurrence of depression did not differ between MBCT-TS and maintenance antidepressants over 24 months ( hazard ratio 089 , 95 % CI 067-118 ; p = 043 ) , nor did the number of serious adverse events .
+RESULTS	Five adverse events were reported , including two deaths , in each of the MBCT-TS and maintenance antidepressants groups .
+RESULTS	No adverse events were attributable to the interventions or the trial .
+CONCLUSIONS	We found no evidence that MBCT-TS is superior to maintenance antidepressant treatment for the prevention of depressive relapse in individuals at risk for depressive relapse or recurrence .
+CONCLUSIONS	Both treatments were associated with enduring positive outcomes in terms of relapse or recurrence , residual depressive symptoms , and quality of life .
+BACKGROUND	National Institute for Health Research ( NIHR ) Health Technology Assessment ( HTA ) programme , and NIHR Collaboration for Leadership in Applied Health Research and Care South West Peninsula .
+

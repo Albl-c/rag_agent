@@ -1,0 +1,13 @@
+25190522
+BACKGROUND	Nicotine is a known analgesic .
+BACKGROUND	Our primary aim was to test the hypothesis that intranasal nicotine administered intraoperatively reduces the need for postoperative opioids .
+BACKGROUND	The secondary outcomes included evaluation of both postoperative pain and nausea and vomiting ( PONV ) .
+METHODS	Nonsmoking female patients undergoing laparoscopic bariatric operations were randomized to receive either 3 mg intranasal nicotine ( N = 42 ) or placebo spray ( N = 47 ) at the conclusion of surgery .
+METHODS	Postoperative opioid use converted to intravenous morphine equivalents ( iv MEQ ) and PONV rates were recorded during both the recovery room postanesthesia care unit ( PACU ) stay and the first 24 postoperative hours .
+METHODS	All patients received multimodal antiemetic prophylaxis .
+RESULTS	Total iv MEQ were not significantly reduced during the PACU stay in patients receiving nicotine ( median [ interquartile range ( IQR ) ] , 5.3 [ 0 , 10.0 ] mg for nicotine vs. 5.2 [ 0 , 12.7 ] mg for placebo , one-tailed P = 0.414 ) or for the first 24 h following PACU discharge ( 39.6 [ 20.0 , 52.5 ] mg for nicotine vs. 32.7 [ 20.3 , 51.3 ] mg for placebo , one-tailed P = 0.752 ) .
+RESULTS	For the combined period ( PACU + 24-h post-PACU discharge ) , iv MEQ were 45.8 [ 27.0 , 58.6 ] mg for nicotine and 39.4 [ 23.5 , 60.0 ] mg for placebo , one-tailed P = 0.801 .
+RESULTS	Compared to placebo , a higher percentage of patients administered nicotine received antiemetics in the PACU ( 57.1 vs. 25.5 % , P = 0.002 ) .
+CONCLUSIONS	Intraoperative intranasal nicotine did not exhibit opioid-sparing effect in nonsmoking bariatric female patients .
+CONCLUSIONS	Despite antiemetic prophylaxis , the use of nicotine was associated with the higher frequency of the use of rescue antiemetics in PACU .
+

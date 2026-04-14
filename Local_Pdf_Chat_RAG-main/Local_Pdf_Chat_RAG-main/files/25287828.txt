@@ -1,0 +1,14 @@
+25287828
+OBJECTIVE	To compare epirubicin , cisplatin , and capecitabine ( ECX ) with fluorouracil , leucovorin , and irinotecan ( FOLFIRI ) as first-line treatments in patients with advanced gastric or esophagogastric junction ( EGJ ) adenocarcinoma .
+METHODS	This open , randomized , phase III study was carried out in 71 centers .
+METHODS	Patients with locally advanced or metastatic gastric or EGJ cancer were randomly assigned to receive either ECX as first-line treatment ( ECX arm ) or FOLFIRI ( FOLFIRI arm ) .
+METHODS	Second-line treatment was predefined ( FOLFIRI for the ECX arm and ECX for the FOLFIRI arm ) .
+METHODS	The primary criterion was time-to-treatment failure ( TTF ) of the first-line therapy .
+METHODS	Secondary criteria were progression-free survival ( PFS ) , overall survival ( OS ) , toxicity , and quality of life .
+RESULTS	In all , 416 patients were included ( median age , 61.4 years ; 74 % male ) .
+RESULTS	After a median follow-up of 31 months , median TTF was significantly longer with FOLFIRI than with ECX ( 5.1 v 4.2 months ; P = .008 ) .
+RESULTS	There was no significant difference between the two groups in median PFS ( 5.3 v 5.8 months ; P = .96 ) , median OS ( 9.5 v 9.7 months ; P = .95 ) , or response rate ( 39.2 % v 37.8 % ) .
+RESULTS	First-line FOLFIRI was better tolerated ( overall rate of grade 3 to 4 toxicity , 69 % v 84 % ; P < .001 ; hematologic adverse events [ AEs ] , 38 % v 64.5 % ; P < .001 ; nonhematologic AEs : 53 % v 53.5 % ; P = .81 ) .
+CONCLUSIONS	FOLFIRI as first-line treatment for advanced gastric and EGJ cancer demonstrated significantly better TTF than did ECX .
+CONCLUSIONS	Other outcome results indicate that FOLFIRI is an acceptable first-line regimen in this setting and should be explored as a backbone regimen for targeted agents .
+

@@ -1,0 +1,17 @@
+24424629
+OBJECTIVE	To evaluate the long-term efficacy of pain reduction by two dose fractionation schedules used for low-dose radiotherapy of painful elbow syndrome .
+METHODS	Between February 2006 and February 2010 , 199evaluable patients were recruited for this prospective trial .
+METHODS	All patients received low-dose orthovoltage radiotherapy .
+METHODS	One course consisted of 6fractions in 3weeks .
+METHODS	In the case of insufficient pain remission after 6weeks , a second course was administered .
+METHODS	Patients were randomly assigned to one of two groups to receive single doses of either 0.5 or 1.0 Gy .
+METHODS	Endpoint was pain reduction .
+METHODS	Pain was measured before radiotherapy , as well as immediately after ( early response ) , 6weeks after ( delayed response ) and approximately 3years after ( long-term response ) completion of radiotherapy using a questionnaire-based visual analogue scale ( VAS ) and a comprehensive pain score ( CPS ) .
+RESULTS	Median follow-up was 35months ( range 9-57months ) .
+RESULTS	The overall early , delayed and long-term response rates for all patients were 80 , 90and 94 % , respectively .
+RESULTS	The mean VAS scores before treatment and those for early , delayed and long-term response in the 0.5 - and 1.0-Gy groups were 59.620.2 and 55.718.0 ( p = 0.46 ) ; 32.124.5 and 34.422.5 ( p = 0.26 ) ; 27.027.7 and 23.521.6 ( p = 0.82 ) and 10.715.0 and 21.526.9 ( p = 0.12 ) , respectively .
+RESULTS	The mean CPS values before treatment and those for early , delayed and long-term response were 8.72.9 and 8.13.1 ( p = 0.21 ) ; 4.53.2 and 5.03.4 ( p = 0.51 ) ; 3.93.6 and 2.82.8 ( p = 0.19 ) and 1.52.3 and 2.43.5 ( p = 0.27 ) , respectively .
+RESULTS	No significant differences in the quality of the long-term response were found between the 0.5 - and 1.0-Gy arms ( p = 0.28 ) .
+CONCLUSIONS	Low-dose radiotherapy is an effective treatment for the management of benign painful elbow syndrome .
+CONCLUSIONS	For radiation protection reasons , the dose for a radiotherapy series should not exceed 3.0 Gy .
+

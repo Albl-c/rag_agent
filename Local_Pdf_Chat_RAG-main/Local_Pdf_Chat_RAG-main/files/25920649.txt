@@ -1,0 +1,12 @@
+25920649
+OBJECTIVE	To compare the short-term functional outcome after computer-assisted total knee arthroplasty ( TKA ) versus conventional TKA .
+METHODS	23 men and 67 women aged 48 to 80 years were randomised to undergo ( 1 ) conventional TKA using an intramedullary guide , ( 2 ) conventional TKA using an extramedullary guide , or ( 3 ) computer-assisted TKA .
+METHODS	Two senior surgeons performed all the TKAs using the same TKA system and the standard anteromedial arthrotomy with eversion of the patella .
+METHODS	Patients were assessed by physiotherapists before and 6 months and 2 years after TKA using the Short Form-36 Health Survey , Oxford Knee Score , and Knee Society Score .
+RESULTS	Of the 90 patients , 67 and 70 were assessed at 6 months and 2 years after TKA , respectively .
+RESULTS	No patient developed deep infection or required revision surgery .
+RESULTS	Functional outcomes of the 3 groups did not differ significantly at the corresponding follow-ups .
+CONCLUSIONS	Significant improvement in the functional outcome was not shown in patients treated with computer-assisted TKA , compared with conventional TKA .
+CONCLUSIONS	Thus , computer-assisted TKA has limited additional short-term benefits .
+CONCLUSIONS	Further studies with longer follow-up are required to examine the benefits of computer-assisted TKA .
+

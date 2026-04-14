@@ -1,0 +1,17 @@
+26390793
+OBJECTIVE	To compare vision quality following phacoemulsification cataract extraction and implantation of a Big Bag or Akreos Adapt intraocular lens ( IOL ) in patients diagnosed with high myopia complicated with cataract .
+METHODS	This was a randomized prospective control study .
+METHODS	The patients with high myopia .
+METHODS	complicated with cataract , with axial length 28 mm , and corneal astigmatism 1D were enrolled and randomly divided into the Big Bag and Akreos Adapt IOL groups .
+METHODS	All patients underwent phacoemulsification cataract extraction and lens implantation .
+METHODS	At 3 months after surgery , intraocular high-order aberration was measured by a Tracey-iTrace wavefront aberrometer at a pupil diameter of 5 mm in an absolutely dark room and statistically compared between two groups .
+METHODS	The images of the anterior segment of eyes were photographed with a Scheimpflug camera using Penta-cam three-dimensional anterior segment analyzer .
+METHODS	The tilt and decentration of the IOL were calculated by Image-pro plus 6.0 imaging analysis software and statistically compared between two groups .
+RESULTS	In total , 127 patients ( 127 eyes ) , including 52 males and 75 females , were enrolled in this study .
+RESULTS	The total high-order aberration and coma in the Akreos Adapt group ( 59 eyes ) were significantly higher compared with those in the Big Bag ( P < 0.05 ) .
+RESULTS	The clover and spherical aberration did not differ between the two groups ( P > 0.05 ) .
+RESULTS	The horizontal and vertical decentration were significantly smaller in the Big Bag lens group than in the Akreos Adapt group ( both P < 0.05 ) , whereas the tilt of IOL did not significantly differ between the two groups ( P > 0.05 ) .
+CONCLUSIONS	Both Big Bag and Akreos Adapt IOLs possess relatively good intraocular stability implanted in patients with high myopia .
+CONCLUSIONS	Compared with the Akreos Adapt IOL , the Big Bag IOL presents with smaller intraocular high-order aberration .
+CONCLUSIONS	Coma is the major difference between the two groups .
+

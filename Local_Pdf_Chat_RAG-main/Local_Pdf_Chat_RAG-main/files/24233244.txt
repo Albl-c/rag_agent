@@ -1,0 +1,14 @@
+24233244
+OBJECTIVE	To investigate the effect of 16 weeks of aerobic training performed at two different intensities on nitric oxide ( tNOx ) availability and iNOS/nNOS expression , oxidative stress ( OS ) and inflammation in obese humans with or without type 2 diabetes mellitus ( T2DM ) .
+METHODS	Twenty-five sedentary , obese ( BMI > 30 kg/m2 ) males ( 52.8 7.2 years ) ; 12 controls versus 13 T2DM were randomly allocated to four groups that exercised for 30 min , three times per week either at low ( Fat-Max ; 30-40 % VO ( 2max ) ) or moderate ( T ( vent ) ; 55-65 % VO ( 2max ) ) intensity .
+METHODS	Before and after training , blood and muscle samples ( v. lateralis ) were collected .
+RESULTS	Baseline erythrocyte glutathione was lower ( 21.8 2.8 vs. 32.7 4.4 nmol/ml ) and plasma protein oxidative damage and IL-6 were higher in T2DM ( 141.7 52.1 vs. 75.5 41.6 nmol/ml ) .
+RESULTS	Plasma catalase increased in T2DM after T ( vent ) training ( from 0.98 0.22 to 1.96 0.3 nmol/min/ml ) .
+RESULTS	T2DM groups demonstrated evidence of oxidative damage in response to training ( elevated protein carbonyls ) .
+RESULTS	Baseline serum tNOx were higher in controls than T2DM ( 18.68 2.78 vs. 12.34 3.56 mol/l ) .
+RESULTS	Training at T ( vent ) increased muscle nNOS and tNOx in the control group only .
+RESULTS	Pre-training muscle nNOS was higher in controls than in T2DMs , while the opposite was found for iNOS .
+RESULTS	No differences were found after training for plasma inflammatory markers .
+CONCLUSIONS	Exercise training did not change body composition or aerobic fitness , but improved OS markers , especially when performed at T ( vent ) .
+CONCLUSIONS	Non-diabetics responded to T ( vent ) training by increasing muscle nNOS expression and tNOx levels in skeletal muscle while these parameters did not change in T2DM , perhaps due to higher insulin resistance ( unchanged after intervention ) .
+

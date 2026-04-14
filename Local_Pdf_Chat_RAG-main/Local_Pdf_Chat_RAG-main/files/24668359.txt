@@ -1,0 +1,18 @@
+24668359
+OBJECTIVE	To investigate the feasibility and potential efficacy of the Nintendo Wii for balance rehabilitation after stroke .
+METHODS	Phase II , single-blind , randomized controlled trial .
+METHODS	Inpatient rehabilitation facility .
+METHODS	Thirty adults ( mean age 63.6 ( 14.7 ) years ) undergoing inpatient rehabilitation who were less than three months post-stroke and able to stand unsupported .
+METHODS	Participants were allocated to a Balance Group , using the ` Wii Fit Plus ' in standing , or Upper Limb Group , using the ` Wii Sports/Sports Resort ' in sitting .
+METHODS	Both groups undertook three 45 minute sessions per week over two to four weeks in addition to standard care .
+METHODS	The primary focus was feasibility , addressed by recruitment , retention , adherence , acceptability and safety .
+METHODS	Efficacy was evaluated by balance , mobility and upper limb outcomes .
+RESULTS	Twenty-one percent of individuals screened were recruited and 86 % ( n = 30 ) of eligible people agreed to participate .
+RESULTS	Study retention and session adherence was 90 % and > 99 % , respectively , at two weeks ; dropping to 70 % and 87 % at four weeks due to early discharge .
+RESULTS	All participants reported enjoying the sessions and most felt they were beneficial .
+RESULTS	No major adverse events occurred .
+RESULTS	Wii use by the Balance Group was associated with trends for improved balance , with significantly greater improvement in outcomes including the Step Test and Wii Balance Board-derived centre of pressure scores .
+RESULTS	The Upper Limb Group had larger , non-significant changes in arm function .
+CONCLUSIONS	A Wii-based approach appears feasible and promising for post-stroke balance rehabilitation .
+CONCLUSIONS	A larger randomized controlled trial is recommended to further investigate efficacy .
+

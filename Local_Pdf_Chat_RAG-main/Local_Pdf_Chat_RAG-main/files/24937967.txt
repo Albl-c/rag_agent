@@ -1,0 +1,10 @@
+24937967
+OBJECTIVE	To investigate the effect of luteal phase support with vaginal progesterone on pregnancy rates of the gonadotropin-stimulated intrauterine insemination ( IUI ) cycles in patients with unexplained infertility with regard tofollicular growth .
+METHODS	A total of 149 patients with unexplained infertility who underwent 166 recombinant follicle stimulated hormone -- stimulated IUI cycles were prospectively randomized into 2 groups for luteal phase support .
+METHODS	The study group ( n = 71 ) received vaginal progesterone gel supplementation , and the control group ( n = 78 ) received no drug for luteal support .
+METHODS	The clinical pregnancy rates and live birth rates per cycle and per patient were compared between the groups .
+RESULTS	The differences between the groups with regard to clinical pregnancy rates and live birth rates per patient or per cycle were not different among all patients .
+RESULTS	In cycles with > 1 dominant follicle ( multifollicular response ) , the clinical pregnancy rate per patient was significantly higher in the supported cycles as compared with the unsupported cycles ( 28.2 % vs. 11.4 % , respectively , p = 0.04 ) .
+RESULTS	Reproductive outcomes in cycles with a single dominant follicle ( monofollicular response ) were not different between supported and unsupported cycles .
+CONCLUSIONS	Luteal phase support with vaginal progesterone affects the success of gonadotropin-stimulated IUI cycles with multifollicular response but not with monofollicular response .
+

@@ -1,0 +1,17 @@
+25574111
+OBJECTIVE	To compare the Helicobacter pylori ( H. pylori ) eradication rate of clarithromycin-based triple therapy , metronidazole-based triple therapy , sequential therapy and concomitant therapy .
+METHODS	A total of 680 patients infected with H. pylori were divided into 4 groups and each group was treated with a different eradication therapy .
+METHODS	Clarithromycin-based triple therapy was applied to the first group [ rabeprazole , amoxicillin and clarithromycin ( PAC ) group : proton pump inhibitor ( PPI ) , amoxicillin , clarithromycin ] , whereas the second group was treated with metronidazole-based triple therapy [ rabeprazole , amoxicillin and metronidazole ( PAM ) group : PPI , amoxicillin , metronidazole ] .
+METHODS	The third group was treated with rabeprazole and amoxicillin , followed by rabeprazole , clarithromycin and metronidazole ( sequential group ) .
+METHODS	The final group was simultaneously treated with rabeprazole , amoxicillin clarithromycin and metronidazole ( concomitant therapy group ) .
+METHODS	In the case of a failure to eradicate H. pylori , second-line quadruple and third-line eradication therapies were administered .
+RESULTS	The per protocol ( PP ) analysis was performed on 143 , 139 , 141 and 143 patients in the PAC , PAM , sequential and concomitant groups , respectively .
+RESULTS	We excluded patients who did not receive a C ( 13 ) - urea breath test ( 22 , 20 , 23 and 22 patients , respectively ) and patients with less than an 80 % compliance level ( 5 , 11 , 6 and 5 patients , respectively ) .
+RESULTS	The eradication rates were 76.2 % ( 109/143 ) in the PAC group , 84.2 % ( 117/139 ) in the PAM group , 84.4 % ( 119/141 ) in the sequential group and 94.4 % ( 135/143 ) in the concomitant group ( P = 0.0002 ) .
+RESULTS	All 14 patients who failed second-line therapy were treated with third-line eradication therapy .
+RESULTS	Among these 14 patients , 6 infections were successfully eradicated with the third-line therapy .
+RESULTS	Both PP and intention-to-treat analysis showed an eradication rate of 42.9 % ( 6/14 ) .
+RESULTS	In the PAC group , 3 of 4 patients were successfully cured ( 3/4 , 75 % ) ; 2 of 2 patients in the PAM group ( 2/2 , 100 % ) and 1 of 5 patients in the sequential group ( 1/5 , 20 % ) were also cured .
+RESULTS	In the concomitant group , all 3 patients failed ( 0/3 , 0 % ) .
+CONCLUSIONS	The eradication rate for the concomitant therapy was much higher than those of the standard triple therapy or sequential therapy ( ClinicalTrials.gov number NCT01922765 ) .
+

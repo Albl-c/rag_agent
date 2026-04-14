@@ -1,0 +1,11 @@
+24660603
+OBJECTIVE	To explore the regulatory effects of established Chinese herbal formulas on inflammatory mediators released during asthma attacks , and to elucidate the molecular mechanism of Traditional Chinese Medicine in the treatment of asthma .
+METHODS	Seventy-five asthmatic children were randomly divided into a Chinese medication group ( 45 cases ) and a Western medication control group ( 30 cases ) .
+METHODS	Patients in the Chinese medication group were treated with a series of established Chinese herbal formulas , whereas the Western medication control group received a leukotriene receptor antagonist and a bronchial relaxant .
+METHODS	Real-time PCR was used to determine the mRNA expression levels of interleukin ( IL ) -4 , cysteinyl leukotriene receptor 1 ( CysLTR1 ) , and interferon ( IFN ) - gamma in peripheral blood mononuclear cells before and after treatment .
+METHODS	Enzyme-linked immunosorbent assay was used to measure the peripheral blood levels of IL-4 , leukotriene ( LTE ) -4 , and INF-gamma before and after treatment .
+RESULTS	After treatment , the mRNA expression levels of IL-4 and CysLTR1 were down-regulated ( P < 0.01 ) and the mRNA expression levels of IFN-gamma were up-regulated ( P < 0.05 ) in the Chinese medication and Western medication groups ; no significant difference was found between the two groups .
+RESULTS	In the Chinese medication group , IL-4 blood level was decreased and it was significantly different from that in the Western medication group ( P < 0.05 ) ; there was also a significant increase in IFN-gamma blood levels after treatment with Chinese medication ( P < 0.05 ) .
+RESULTS	There were no significant differences in LTE-4 blood levels between the two groups before and after treatment ( P > 0.05 ) .
+CONCLUSIONS	Chinese medication has a regulatory effect on leukotriene receptor gene expression and the imbalance of Th1/Th2 immune cells during asthma attacks in pediatric patients .
+

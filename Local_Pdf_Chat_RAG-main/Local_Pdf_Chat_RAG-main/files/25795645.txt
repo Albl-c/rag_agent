@@ -1,0 +1,16 @@
+25795645
+OBJECTIVE	To test if TIA/stroke electronic decision support in primary care improves management .
+METHODS	Multicenter , single-blind , parallel-group , cluster randomized , controlled trial comparing TIA/stroke electronic decision support guided management with usual care .
+METHODS	Main outcomes were guideline adherence and 90-day stroke risk .
+METHODS	Secondary outcomes were cerebrovascular/vascular/death / adverse events , cost , and user feedback .
+METHODS	Main analysis was logistic regression with a normal random effect for clusters using a generalized linear mixed model .
+RESULTS	Twenty-nine clinics were randomized to intervention , 27 to control , recruiting 172 and 119 eligible patients .
+RESULTS	More intervention patients received guideline-adherent care ( 131/172 ; 76.2 % ) than control patients ( 49/119 ; 41.2 % ) ( adjusted odds ratio [ OR ] 4.57 ; 95 % confidence interval [ CI ] 2.39-8 .71 ; p < 0.001 ) .
+RESULTS	Ninety-day stroke occurred in 2/172 ( 1.2 % ) intervention and 5/119 ( 4.2 % ) control patients ( OR 0.27 ; 95 % CI 0.05-1 .41 ; p = 0.098 ) .
+RESULTS	Ninety-day TIA or stroke occurrence was lower in the intervention group , 4/172 ( 2.3 % ) compared to 10/119 ( 8.5 % ) control ( adjusted OR 0.26 ; 95 % CI 0.70-0 .97 ; p = 0.045 ) .
+RESULTS	Fewer vascular events/deaths occurred in intervention , 6/172 ( 3.5 % ) , than in control patients , 14/119 ( 11.9 % ) ( adjusted OR 0.27 ; 95 % CI 0.09-0 .78 ; p = 0.016 ) .
+RESULTS	Treatment cost ratio of 0.65 ( 95 % CI 0.47-0 .91 ; p = 0.013 ) favored the intervention without increased adverse events .
+RESULTS	Clinician feedback was positive .
+CONCLUSIONS	Primary care use of the TIA/stroke electronic decision support tool improves guideline adherence , safely reduces treatment cost , achieves positive user feedback , and may reduce cerebrovascular and vascular event risk following TIA/stroke .
+METHODS	This study provides Class II evidence that a primary care electronic decision support tool improves guideline adherence and might reduce 90-day stroke risk .
+

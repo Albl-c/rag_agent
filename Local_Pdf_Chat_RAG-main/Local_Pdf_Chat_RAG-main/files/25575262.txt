@@ -1,0 +1,15 @@
+25575262
+BACKGROUND	Postoperative infectious complications in patients undergoing pancreatic surgery are a significant cause for morbidity and mortality .
+BACKGROUND	Although synbiotics have beneficial effects on human health , their clinical value in surgical patients remains unclear given a paucity of applicable clinical studies .
+OBJECTIVE	To determine the impact of perioperative synbiotic therapy on postoperative infectious complications , morbidity and mortality in patients undergoing pancreatic surgery for chronic pancreatitis .
+METHODS	A trial was conducted in patients with chronic calcific pancreatitis undergoing Frey 's procedure .
+METHODS	Group A received a specific synbiotic composition , 5 days prior and 10 days after the surgery .
+METHODS	Group B received a placebo .
+METHODS	Primary study endpoint was the occurrence of postoperative infection during the first 30 days .
+METHODS	Secondary outcome measures were mortality , length of hospital stay , days in intensive care unit , and duration of antibiotic therapy .
+METHODS	Using previously accrued data , with of 0.05 and power 80 % , the sample size was calculated as 35 patients for each group with a dropout rate of 10 % .
+RESULTS	Of the 79 patients enrolled , 75 completed the trial [ group A ( n = 39 ) and group B ( n = 36 ) ] .
+RESULTS	The incidence of postoperative infectious complications ( 12.8 % vs 39 % ; P < 0.05 ) , duration of antibiotics therapy ( P < 0.05 ) , and length of hospital stay ( P < 0.05 ) were significantly lower in the synbiotic group .
+CONCLUSIONS	Synbiotics significantly reduce septic complications , hospital stay , and antibiotic requirement in patients undergoing pancreatic surgery for chronic pancreatitis .
+CONCLUSIONS	Furthermore , basic and clinical research would clarify the underlying mechanisms of their therapeutic effect and define the appropriate conditions for use .
+

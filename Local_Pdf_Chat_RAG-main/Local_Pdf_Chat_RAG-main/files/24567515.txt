@@ -1,0 +1,15 @@
+24567515
+BACKGROUND	The role of body mass index ( BMI ) in survival outcomes is controversial among lymphoma patients .
+BACKGROUND	We evaluated the association between BMI at study entry and failure-free survival ( FFS ) and overall survival ( OS ) in three phase III clinical trials , among patients with diffuse large B-cell lymphoma ( DLBCL ) , follicular lymphoma ( FL ) and Hodgkin 's lymphoma ( HL ) .
+METHODS	A total of 537 , 730 and 282 patients with DLBCL , HL and FL were included in the analysis .
+METHODS	Baseline patient and clinical characteristics , treatment received and clinical outcomes were compared across BMI categories .
+RESULTS	Among patients with DLBCL , HL and FL , the median age was 70 , 33 and 56 ; 29 % , 29 % and 37 % were obese and 38 % , 27 % and 37 % were overweight , respectively .
+RESULTS	Age was significantly different among BMI groups in all three studies .
+RESULTS	Higher BMI groups tended to have more favorable prognosis factors at study entry among DLBCL and HL patients .
+RESULTS	BMI was not associated with clinical outcome with P-values of 0.89 , 0.30 and 0.40 for FFS , and 0.64 , 0.67 and 0.09 for OS , for patients with DLBCL , HL and FL , respectively .
+RESULTS	The association remains non-significant after adjusting for other clinical factors in the Cox model .
+RESULTS	A subset analysis of males with DLBCL treated on R-CHOP revealed no differences in FFS ( P = 0.48 ) or OS ( P = 0.58 ) .
+CONCLUSIONS	BMI was not significantly associated with clinical outcomes among patients with DLBCL , HD or FL , in three prospective phase III clinical trials .
+CONCLUSIONS	The findings contradict some previous reports of similar investigations .
+CONCLUSIONS	Further work is required to understand the observed discrepancies .
+

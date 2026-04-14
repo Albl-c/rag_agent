@@ -1,0 +1,17 @@
+25011722
+BACKGROUND	The EVEREST II ( Endovascular Valve Edge-to-Edge REpair STudy ) High-Risk registry and REALISM Continued Access Study High-Risk Arm are prospective registries of patients who received the MitraClip device ( Abbott Vascular , Santa Clara , California ) for mitral regurgitation ( MR ) in the United States .
+OBJECTIVE	The purpose of this study was to report 12-month outcomes in high-risk patients treated with the percutaneous mitral valve edge-to-edge repair .
+METHODS	Patients with grades 3 to 4 + MR and a surgical mortality risk of 12 % , based on the Society of Thoracic Surgeons risk calculator or the estimate of a surgeon coinvestigator following pre-specified protocol criteria , were enrolled .
+RESULTS	In the studies , 327 of 351 patients completed 12 months of follow-up .
+RESULTS	Patients were elderly ( 76 11 years of age ) , with 70 % having functional MR and 60 % having prior cardiac surgery .
+RESULTS	The mitral valve device reduced MR to 2 + in 86 % of patients at discharge ( n = 325 ; p < 0.0001 ) .
+RESULTS	Major adverse events at 30 days included death in 4.8 % , myocardial infarction in 1.1 % , and stroke in 2.6 % .
+RESULTS	At 12 months , MR was 2 + in 84 % of patients ( n = 225 ; p < 0.0001 ) .
+RESULTS	From baseline to 12 months , left ventricular ( LV ) end-diastolic volume improved from 161 56 ml to 143 53 ml ( n = 203 ; p < 0.0001 ) and LV end-systolic volume improved from 87 47 ml to 79 44 ml ( n = 202 ; p < 0.0001 ) .
+RESULTS	New York Heart Association functional class improved from 82 % in class III/IV at baseline to 83 % in class I/II at 12 months ( n = 234 ; p < 0.0001 ) .
+RESULTS	The 36-item Short Form Health Survey physical and mental quality-of-life scores improved from baseline to 12 months ( n = 191 ; p < 0.0001 ) .
+RESULTS	Annual hospitalization rate for heart failure fell from 0.79 % pre-procedure to 0.41 % post-procedure ( n = 338 ; p < 0.0001 ) .
+RESULTS	Kaplan-Meier survival estimate at 12 months was 77.2 % .
+CONCLUSIONS	The percutaneous mitral valve device significantly reduced MR , improved clinical symptoms , and decreased LV dimensions at 12 months in this high-surgical-risk cohort .
+CONCLUSIONS	( Endovascular Valve Edge-to-Edge REpair STudy [ EVERESTIIRCT ] ; NCT00209274 ) .
+

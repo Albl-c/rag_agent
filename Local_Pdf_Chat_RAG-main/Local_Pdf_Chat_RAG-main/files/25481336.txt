@@ -1,0 +1,11 @@
+25481336
+OBJECTIVE	This study investigated inter-rater agreement ( IRA ) among EEG experts for the identification of electrographic seizures and periodic discharges ( PDs ) in continuous ICU EEG recordings .
+METHODS	Eight board-certified EEG experts independently identified seizures and PDs in thirty 1-h EEG segments which were selected from ICU EEG recordings collected from three medical centers .
+METHODS	IRA was compared between seizure and PD identifications , as well as among rater groups that have passed an ICU EEG Certification Test , developed by the Critical Care EEG Monitoring Research Consortium ( CCEMRC ) .
+RESULTS	Both kappa and event-based IRA statistics showed higher mean values in identification of seizures compared to PDs ( k = 0.58 vs. 0.38 ; p < 0.001 ) .
+RESULTS	The group of rater pairs who had both passed the ICU EEG Certification Test had a significantly higher mean IRA in comparison to rater pairs in which neither had passed the test .
+CONCLUSIONS	IRA among experts is significantly higher for identification of electrographic seizures compared to PDs .
+CONCLUSIONS	Additional instruction , such as the training module and certification test developed by the CCEMRC , could enhance this IRA .
+CONCLUSIONS	This study demonstrates more disagreement in the labeling of PDs in comparison to seizures .
+CONCLUSIONS	This may be improved by education about standard EEG nomenclature .
+

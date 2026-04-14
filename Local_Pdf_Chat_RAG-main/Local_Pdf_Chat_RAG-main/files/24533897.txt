@@ -1,0 +1,16 @@
+24533897
+BACKGROUND	Despite the widespread recognition that obesity in pregnant women is associated with adverse outcomes for mother and child , there is no intervention proven to reduce the risk of these complications .
+BACKGROUND	The primary aim of this randomised controlled trial is to assess in obese pregnant women , whether a complex behavioural intervention , based on changing diet ( to foods with a lower glycemic index ) and physical activity , will reduce the risk of gestational diabetes ( GDM ) and delivery of a large for gestational age ( LGA ) infant .
+BACKGROUND	A secondary aim is to determine whether the intervention lowers the long term risk of obesity in the offspring .
+METHODS	Multicentre randomised controlled trial comparing a behavioural intervention designed to improve glycemic control with standard antenatal care in obese pregnant women.Inclusion criteria ; women with a BMI 30 kg/m2 and a singleton pregnancy between 15 +0 weeks and 18 +6 weeks ' gestation .
+METHODS	Exclusion criteria ; pre-defined , pre-existing diseases and multiple pregnancy .
+METHODS	Randomisation is on-line by a computer generated programme and is minimised by BMI category , maternal age , ethnicity , parity and centre .
+METHODS	Intervention ; this is delivered by a health trainer over 8 sessions .
+METHODS	Based on control theory , with elements of social cognitive theory , the intervention is designed to improve maternal glycemic control .
+METHODS	Women randomised to the control arm receive standard antenatal care until delivery according to local guidelines .
+METHODS	All women have a 75 g oral glucose tolerance test at 27 +0 - 28 +6 weeks ' gestation.Primary outcome ; Maternal : diagnosis of GDM , according to the International Association of Diabetes in Pregnancy Study Group ( IADPSG ) criteria .
+METHODS	Neonatal ; infant LGA defined as > 90th customised birth weight centile.Sample size ; 1546 women to provide 80 % power to detect a 25 % reduction in the incidence of GDM and a 30 % reduction in infants large for gestational age .
+CONCLUSIONS	All aspects of this protocol have been evaluated in a pilot randomised controlled trial , with subsequent optimisation of the intervention .
+CONCLUSIONS	The findings of this trial will inform whether lifestyle mediated improvement of glycemic control in obese pregnant women can minimise the risk of pregnancy complications .
+BACKGROUND	Current controlled trials ; ISRCTN89971375 .
+

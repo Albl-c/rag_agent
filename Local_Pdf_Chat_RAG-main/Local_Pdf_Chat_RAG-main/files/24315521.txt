@@ -1,0 +1,17 @@
+24315521
+BACKGROUND	Post-thrombotic syndrome ( PTS ) is a common and burdensome complication of deep venous thrombosis ( DVT ) .
+BACKGROUND	Previous trials suggesting benefit of elastic compression stockings ( ECS ) to prevent PTS were small , single-centre studies without placebo control .
+BACKGROUND	We aimed to assess the efficacy of ECS , compared with placebo stockings , for the prevention of PTS .
+METHODS	We did a multicentre randomised placebo-controlled trial of active versus placebo ECS used for 2 years to prevent PTS after a first proximal DVT in centres in Canada and the USA .
+METHODS	Patients were randomly assigned to study groups with a web-based randomisation system .
+METHODS	Patients presenting with a first symptomatic , proximal DVT were potentially eligible to participate .
+METHODS	They were excluded if the use of compression stockings was contraindicated , they had an expected lifespan of less than 6 months , geographical inaccessibility precluded return for follow-up visits , they were unable to apply stockings , or they received thrombolytic therapy for the initial treatment of acute DVT .
+METHODS	The primary outcome was PTS diagnosed at 6 months or later using Ginsberg 's criteria ( leg pain and swelling of 1 month duration ) .
+METHODS	We used a modified intention to treat Cox regression analysis , supplemented by a prespecified per-protocol analysis of patients who reported frequent use of their allocated treatment .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT00143598 , and Current Controlled Trials , number ISRCTN71334751 .
+RESULTS	From 2004 to 2010 , 410 patients were randomly assigned to receive active ECS and 396 placebo ECS .
+RESULTS	The cumulative incidence of PTS was 142 % in active ECS versus 127 % in placebo ECS ( hazard ratio adjusted for centre 113 , 95 % CI 073-176 ; p = 058 ) .
+RESULTS	Results were similar in a prespecified per-protocol analysis of patients who reported frequent use of stockings .
+CONCLUSIONS	ECS did not prevent PTS after a first proximal DVT , hence our findings do not support routine wearing of ECS after DVT .
+BACKGROUND	Canadian Institutes of Health Research .
+

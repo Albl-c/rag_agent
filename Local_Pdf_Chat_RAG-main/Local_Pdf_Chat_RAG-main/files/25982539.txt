@@ -1,0 +1,14 @@
+25982539
+BACKGROUND	Secukinumab has demonstrated high , sustained efficacy in psoriasis to 52 weeks on a fixed-interval regimen .
+OBJECTIVE	We sought to compare a retreatment-as-needed versus a fixed-interval regimen .
+METHODS	In this double-blind study , adults with moderate to severe plaque psoriasis were randomized 1:1 to subcutaneous secukinumab at 300 mg ( n = 484 ) or 150 mg ( n = 482 ) weekly from baseline until week 4 , and at week 8 .
+METHODS	At week 12 , patients achieving 75 % or more improvement from baseline Psoriasis Area and Severity Index score ( PASI 75 ) were rerandomized to 2 dose levels of secukinumab retreatment as needed ( n = 217 , 300 mg ; n = 206 , 150 mg ) or fixed interval ( n = 217 ; n = 203 ) .
+METHODS	Primary end point was noninferiority of retreatment as needed versus fixed interval for maintaining PASI 75 to week 52 .
+RESULTS	Secukinumab induced high responses by week 12 ( 84.4 % -91.1 % PASI 75 responders ) .
+RESULTS	From week 12 to week 52 , more patients on fixed interval ( 78.2 % , 300 mg ; 62.1 % , 150 mg ) maintained PASI 75 versus retreatment as needed ( 67.7 % ; 52.4 % ) ; statistical noninferiority of retreatment as needed was not established .
+RESULTS	Overall safety , including very low incidences of treatment-emergent anti-drug antibodies ( < 0.5 % ) , was similar between regimens .
+CONCLUSIONS	The primary end point was developed without any known precedent .
+CONCLUSIONS	Secukinumab fixed interval showed clear benefit versus the study-specified retreatment-as-needed regimen for maintaining efficacy .
+CONCLUSIONS	Both regimens exhibited safety consistent with previous trials .
+CONCLUSIONS	The potential of retreatment as needed with secukinumab warrants further investigation .
+

@@ -1,0 +1,13 @@
+25687878
+OBJECTIVE	Traditional rotation-based models of placebo nausea are limited because they do not have vehicle settings and are tied to their context .
+OBJECTIVE	The present study introduces a new model for examining placebo-induced nausea in the laboratory that overcomes these limitations , namely , Galvanic Vestibular Stimulation ( GVS ) .
+OBJECTIVE	GVS stimulates the vestibular system to cause nausea through sensory mismatch with visual cues and importantly has a non-nauseating placebo setting .
+OBJECTIVE	Using this , we tested whether conditioning could elicit placebo nausea when participants were later exposed to placebo stimulation as well as whether this placebo nausea was generalised across contexts -- something that is extremely difficult to test with rotation-based models of placebo nausea .
+METHODS	Thirty healthy undergraduate students were randomised to receive either placebo GVS ( controls ) or active GVS during training ( Context-Consistent and Context-Change ) .
+METHODS	On test , all groups received placebo GVS .
+METHODS	The controls and Context-Consistent groups were tested in the same context as training , whereas the Context-Change group was tested in a new context .
+RESULTS	Participants conditioned with nausea during training had significantly higher nausea symptom ratings after placebo stimulation on test than those given no conditioning .
+RESULTS	This placebo-induced nausea also generalised to a novel test context with no differences observed between the Context-Change and Context-Consistent groups .
+CONCLUSIONS	GVS provides a new model of placebo-induced nausea that overcomes limitations to traditional rotation-based paradigms .
+CONCLUSIONS	Future studies should use this device to explore the effect of instructions and conditioning on the development of placebo nausea and to assess the efficacy of conditioning-based interventions for clinical use .
+

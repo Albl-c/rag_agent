@@ -1,0 +1,14 @@
+25126027
+BACKGROUND	We hypothesized that untreated severe obstructive sleep apnea ( OSA ) is associated with elevated ambulatory blood pressure ( BP ) in subjects with high cardiovascular disease ( CVD ) risk despite medical management .
+METHODS	Data from the baseline examination of the Heart Biomarker Evaluation in Apnea Treatment ( HeartBEAT ) study , a 4-site randomized controlled trial were analyzed .
+METHODS	Individuals with moderate-severe OSA ( apnea hypopnea index , AHI = 15-50 ) and cardiovascular risk were recruited from cardiology practices .
+METHODS	Those with hypertension were included .
+METHODS	Intensive antihypertensive regimen ( IAR ) was defined as 3 antihypertensives including a diuretic .
+METHODS	Definitions were : controlled BP ( BP < 130/80 ) , uncontrolled elevated BP ( BP 130/80 not on IAR ) and resistant elevated BP ( BP 130/80 mm Hg despite IAR ) .
+METHODS	Associations of untreated severe OSA ( AHI 30 ) and uncontrolled and resistant elevated BP were evaluated using logistic regression analyses adjusted for age , sex , race , body mass index , smoking status , diabetes , and CVD .
+RESULTS	Among the 284 participants ( mean age 63.1 7.2 years , 23.6 % with severe OSA ) , 61.6 % had controlled BP , 28.5 % had uncontrolled elevated BP , and 9.9 % had resistant elevated BP .
+RESULTS	Among participants prescribed IAR , resistant elevated BP was more prevalent in those with severe compared to moderate OSA ( 58.3 % vs. 28.6 % , p = 0.01 ) .
+RESULTS	Participants with severe OSA had a 4-fold higher adjusted odds of resistant elevated BP ( OR 4.1 , 95 % CI : 1.7-10 .2 ) , a finding not reproduced in the absence of IAR use .
+CONCLUSIONS	Among patients with increased cardiovascular risk and moderate to severe OSA , untreated severe compared to moderate OSA was associated with elevated BP despite IAR suggesting untreated severe OSA contributes to poor BP control despite aggressive medication use .
+CONCLUSIONS	A commentary on this article appears in this issue on page 845 .
+

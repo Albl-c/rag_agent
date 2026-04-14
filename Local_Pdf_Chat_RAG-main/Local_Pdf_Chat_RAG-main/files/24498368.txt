@@ -1,0 +1,11 @@
+24498368
+BACKGROUND	We aim to test the hypothesis that high plasma YKL-40 is associated with short progression-free survival ( PFS ) and overall survival ( OS ) in patients with metastatic colorectal cancer ( mCRC ) treated with first-line oxaliplatin and 5-flourouracil with or without cetuximab .
+METHODS	A total of 566 patients in the NORDIC VII Study were randomized 111 to arm A ( Nordic FLOX ) , arm B ( Nordic FLOX + cetuximab ) , or arm C ( Nordic FLOX + cetuximab for 16 weeks followed by cetuximab alone as maintenance therapy ) .
+METHODS	Pretreatment plasma samples were available from 510 patients .
+METHODS	Plasma YKL-40 was determined by ELISA and dichotomized according to the age-corrected 95 % YKL-40 level in 3130 healthy subjects .
+RESULTS	Pretreatment plasma YKL-40 was elevated in 204 patients ( 40 % ) , and median YKL-40 was higher in patients with mCRC than in healthy subjects ( age adjusted , P < 0.001 ) .
+RESULTS	Patients with elevated YKL-40 had shorter PFS than patients with normal YKL-40 ( 7.5 vs. 8.2 months ; hazard ratio ( HR ) = 1.27 95 % confidence interval ( CI ) 1.05-1 .53 P = 0.013 ) and shorter OS ( 16.8 vs. 23.9 months ; HR = 1.33 , 1.04-1 .69 , P = 0.024 ) .
+RESULTS	Multivariate Cox analysis demonstrated that elevated pretreatment YKL-40 was an independent biomarker of short OS ( HR = 1.12 , 1.01-1 .25 , P = 0.033 ) .
+RESULTS	The ratio of the updated plasma YKL-40 ( i.e. level after 1 , 2 , 8 weeks of treatment , and at end of treatment compared to the baseline level ) was associated with OS ( HR = 1.27 , 1.06-1 .52 , P = 0.011 ) .
+CONCLUSIONS	Plasma YKL-40 is an independent prognostic biomarker in patients with mCRC treated with first-line oxaliplatin-based therapy alone or combined with cetuximab .
+

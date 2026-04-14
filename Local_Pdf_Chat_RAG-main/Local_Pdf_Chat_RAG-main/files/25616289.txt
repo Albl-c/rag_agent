@@ -1,0 +1,10 @@
+25616289
+OBJECTIVE	To study the efficacy of Huai Qi Huang granules in the treatment of childhood primary nephrotic syndrome .
+METHODS	Between July 2009 and December 2011 , patients who were admitted and diagnosed for the first time as childhood primary nephrotic syndrome were randomized into a treatment group ( Huai Qi Huang granules plus glucocorticoid ; n = 23 ) and a control group ( glucocorticoid alone ; n = 19 ) for a prospective study .
+METHODS	The two groups were compared for regression time of edema , time to urinary protein clearance , relapse rate , incidence of infection , dosage of glucocorticoid , and humoral and cellular immunological indicators .
+RESULTS	There were no significant differences in regression time of edema , time to urinary protein clearance , and relapse rate between the treatment and control groups ( P > 0.05 ) .
+RESULTS	The treatment group had significantly lower incidence of infection and daily dose of glucocorticoid ( at month 6 ) than the control group ( P < 0.05 ) .
+RESULTS	Humoral and cellular immunological indicators showed no significant differences between the two groups ( P > 0.05 ) .
+RESULTS	No Huai Qi Huang-related adverse events were observed in this study .
+CONCLUSIONS	Huai Qi Huang granules treatment can reduce the dose of glucocorticoid and the incidence of infection in children with primary nephrotic syndrome and has a favourable safety .
+

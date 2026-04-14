@@ -1,0 +1,13 @@
+24231400
+OBJECTIVE	To determine whether physical activity may affect cognitive performance in patients with Parkinson 's disease by measuring reaction times in patients participating in the Berlin BIG study .
+METHODS	Randomized controlled trial , rater-blinded .
+METHODS	Ambulatory care .
+METHODS	Patients with mild to moderate Parkinson 's disease ( N = 60 ) were randomly allocated to 3 treatment arms .
+METHODS	Outcome was measured at the termination of training and at follow-up 16 weeks after baseline in 58 patients ( completers ) .
+METHODS	Patients received 16 hours of individual Lee Silverman Voice Treatment-BIG training ( BIG ; duration of treatment , 4wk ) , 16 hours of group training with Nordic Walking ( WALK ; duration of treatment , 8wk ) , or nonsupervised domestic exercise ( HOME ; duration of instruction , 1hr ) .
+METHODS	Cued reaction time ( cRT ) and noncued reaction time ( nRT ) .
+RESULTS	Differences between treatment groups in improvement in reaction times from baseline to intermediate and baseline to follow-up assessments were observed for cRT but not for nRT .
+RESULTS	Pairwise t test comparisons revealed differences in change in cRT at both measurements between BIG and HOME groups ( intermediate : -52 ms ; 95 % confidence interval [ CI ] , -84 / -20 ; P = .002 ; follow-up : 55ms ; CI , -105 / -6 ; P = .030 ) and between WALK and HOME groups ( intermediate : -61 ms ; CI , -120 / -2 ; P = .042 ; follow-up : -78 ms ; CI , -136 / -20 ; P = .010 ) .
+RESULTS	There was no difference between BIG and WALK groups ( intermediate : 9ms ; CI , -49 / 67 ; P = .742 ; follow-up : 23ms ; CI , -27 / 72 ; P = .361 ) .
+CONCLUSIONS	Supervised physical exercise with Lee Silverman Voice Treatment-BIG or Nordic Walking is associated with improvement in cognitive aspects of movement preparation .
+

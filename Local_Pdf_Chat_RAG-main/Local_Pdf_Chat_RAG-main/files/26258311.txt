@@ -1,0 +1,16 @@
+26258311
+OBJECTIVE	To determine the safety and efficacy of cryopreserved packed red blood cell ( CPRBC ) transfusion in trauma patients .
+BACKGROUND	Liquid packed red blood cells ( LPRBCs ) have an abbreviated shelf-life and worsening storage lesion with age .
+BACKGROUND	CPRBCs are frozen 2 to 6 days after donation , stored up to 10 years , and are available for 14 days after thawing and washing .
+BACKGROUND	CPRBCs can be utilized in diverse settings , but the effect on clinical outcomes is unknown .
+METHODS	We performed a prospective , randomized , double-blind study at 5 level 1 trauma centers .
+METHODS	Stable trauma patients requiring transfusion were randomized to young LPRBCs ( 14 storage days ) , old LPRBCs ( > 14 storage days ) , or CPRBCs .
+METHODS	Tissue oxygenation ( StO2 ) , biochemical and inflammatory mediators were measured , and clinical outcomes were determined .
+RESULTS	Two hundred fifty-six patients with well-matched injury severity and demographics ( P > 0.2 ) were randomized ( 84 young , 86 old , and 86 CPRBCs ) .
+RESULTS	Pretransfusion and final hematocrits were similar ( P > 0.68 ) .
+RESULTS	Patients in all groups received the same number of units postrandomization ( 2 [ 1-4 ] ; P > 0.05 ) .
+RESULTS	There was no difference in the change in tissue oxygenation between groups .
+RESULTS	CPRBCs contained less 2-macrogobulin , haptoglobin , C-reactive protein , and serum amyloid P ( P < 0.001 ) .
+RESULTS	Organ failure , infection rate , and mortality did not differ between groups ( P > 0.2 ) .
+CONCLUSIONS	Transfusion of CPRBCs is as safe and effective as transfusion of young and old LPRBCs and provides a mechanism to deliver PRBCs in a wide variety of settings .
+

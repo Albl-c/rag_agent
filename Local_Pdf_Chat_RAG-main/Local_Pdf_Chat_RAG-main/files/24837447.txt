@@ -1,0 +1,12 @@
+24837447
+OBJECTIVE	To evaluate the efficacy of daily low-dose sildenafil for the treatment of nonulcer interstitial cystitis ( IC ) in women .
+METHODS	Forty-eight women with a clinical diagnosis of IC from 3 medical centers were randomly assigned to treatment with daily low-dose sildenafil ( 25 mg , n = 24 ) or placebo ( n = 24 ) for 3 months .
+METHODS	The O'Leary-Sant IC symptom and problem indices , visual analog scale scores , and a micturition diary with the interval of micturition , the frequency of nocturia , and urgency episodes were recorded before treatment , every 2 weeks after the treatment until 3 months .
+METHODS	Patient Overall Rating of Improvement in Symptoms was assessed and regarded as effective when the value was above 50 % .
+RESULTS	The IC symptom and problem indices scores and urodynamic index were significantly improved in sildenafil treatment group as compared with placebo group and baselines at week 4 , 6 , 8 , 10 , and 12 , as well as 3 months after treatment ( P < .05 ) .
+RESULTS	Urodynamic index including first desire to void , strong desire to void , and maximum cystometric capacity was significantly improved in sildenafil treatment group at week 12 and at 3 months after treatment ( P < .05 ) .
+RESULTS	The efficiency of treatment reached 62.5 % .
+RESULTS	However , no significant change of the visual analog scale values was observed between 2 groups except at week 12 in the sildenafil treatment group ( P < .05 ) .
+RESULTS	All adverse events were mild to moderate and transient .
+CONCLUSIONS	Daily low-dose sildenafil is an easy , well-tolerated , and effective treatment for IC in women .
+

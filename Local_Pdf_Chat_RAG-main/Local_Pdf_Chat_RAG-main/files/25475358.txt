@@ -1,0 +1,13 @@
+25475358
+OBJECTIVE	Over-the-counter combinations containing acetaminophen and phenylephrine for treatment of the common cold and influenza are widespread , but there are few data about pharmacokinetics of these two drugs used in combination .
+OBJECTIVE	We aimed to investigate pharmacokinetic interactions between acetaminophen and phenylephrine .
+METHODS	A series of four randomised , open-label , crossover studies investigating phenylephrine and acetaminophen combination pharmacokinetics were undertaken ( n = 28 , 30 , 6 and 26 ) using standard non-compartmental analyses .
+METHODS	Time-concentration observations from these four studies were pooled to examine the interaction between these two compounds .
+METHODS	Data were analysed using non-linear mixed effects models .
+RESULTS	Non-compartmental analyses showed an approximate doubling of phenylephrine plasma concentration when the standard 10-mg dose was administered in combination with acetaminophen .
+RESULTS	Population analysis was based on data from 90 subjects with 2050 observations .
+RESULTS	The relative bioavailability of phenylephrine 10 mg was doubled ( Fbio 2.11 , 95 % CI 1.89 , 2.31 ) when combined with acetaminophen 1000 mg , while the absorption half-time was reduced by 50 % .
+RESULTS	When combined with 500 mg of acetaminophen , bioavailability increased by 64 % ( Fbio 1.64 ) .
+RESULTS	Phenylephrine 5 mg in combination with acetaminophen 1000 mg produced a phenylephrine plasma time-concentration profile similar to that seen with phenylephrine 10 mg administered alone .
+CONCLUSIONS	The relative bioavailability of phenylephrine was increased when co-administered with acetaminophen .
+

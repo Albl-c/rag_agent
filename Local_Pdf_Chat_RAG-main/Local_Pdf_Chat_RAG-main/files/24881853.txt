@@ -1,0 +1,11 @@
+24881853
+BACKGROUND	Liver abscess is a rare but potentially fatal complication of transarterial chemoembolization .
+BACKGROUND	Other than for biliary abnormalities , risk factors for liver abscess formation after transarterial chemoembolization have rarely been discussed .
+OBJECTIVE	To identify other risk factors of liver abscess after transarterial chemoembolization in patients with hepatocellular carcinoma .
+METHODS	Data for 5299 patients with hepatocellular carcinoma who underwent transarterial chemoembolization from July 1999 to December 2009 were retrospectively reviewed .
+METHODS	72 patients who experienced liver abscess after transarterial chemoembolization were enrolled as a case group , which was compared with a randomly selected control group ( n = 1009 ) of patients who did not develop liver abscess after transarterial chemoembolization .
+RESULTS	Pneumobilia , type 2 biliary abnormality , type 1 biliary abnormality , diabetes mellitus , tumour number ( 3 ) , tumour size ( 3cm ) , and tumour necrosis on the pre-transarterial chemoembolization computed tomography , and gelfoam embolization and vessel injury during transarterial chemoembolization were all significant predisposing factors for liver abscess after transarterial chemoembolization .
+RESULTS	A prediction model for postembolization liver abscess was developed from these risk factors .
+CONCLUSIONS	The group of patients with risk scores greater than 71 showed a significantly increased risk of liver abscess after transarterial chemoembolization .
+CONCLUSIONS	These high-risk patients should be monitored carefully after transarterial chemoembolization .
+

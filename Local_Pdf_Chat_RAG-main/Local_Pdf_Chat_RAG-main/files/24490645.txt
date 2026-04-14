@@ -1,0 +1,16 @@
+24490645
+OBJECTIVE	Observing or hearing about illness in another person can lead to reports of similar symptoms .
+OBJECTIVE	Reports can occasionally be widespread .
+OBJECTIVE	However , it has been difficult to document whether this is the result of genuine illness or the expression of anxiety with physical terminology .
+OBJECTIVE	This study examined the effects of being able to see another blood donor experience vasovagal symptoms .
+METHODS	Data were collected in mobile university blood collection clinics .
+METHODS	Bedside research assistants coded whether the donor was able or not able to see another donor being treated for vasovagal symptoms .
+METHODS	Dependent variables included subjective vasovagal symptoms indicated on the Blood Donation Reactions Inventory ( BDRI ) and the need for treatment oneself .
+METHODS	Given the population of inexperienced donors , many ( 26 % of the 1,209 participants ) were able to see another donor treated for symptoms .
+RESULTS	Being able to see another donor treated was associated with higher scores on the BDRI and an increased likelihood of treatment for vasovagal symptoms oneself .
+RESULTS	However , this was limited to non-first-time blood donors , perhaps because of higher levels in first-time donors ( ceiling effects ) or greater attention to the environment in less `` overwhelmed '' repeat donors .
+RESULTS	In general , donors who were able to see another react rated themselves as less relaxed and had smaller increases in heart rate .
+RESULTS	During the 2-year follow-up , first-time donors who were able to see another react were slower to return to give blood again .
+CONCLUSIONS	Seeing another donor being treated for symptoms contributed to the vasovagal process in many donors .
+CONCLUSIONS	This environment provides a useful context to study social influences on symptoms and illness .
+

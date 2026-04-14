@@ -1,0 +1,15 @@
+25249415
+BACKGROUND	Published studies have reported conflicting results regarding the effects of cinnamon on glucose , lipids and insulin .
+BACKGROUND	To gain further insight into the metabolic effects of Cinnamomum cassia we performed randomized , double-blinded placebo-controlled study using euglycaemic-hyperinsulinaemic clamp .
+METHODS	Twenty-one subjects with impaired glucose tolerance ( IGT ) were included in the study ( 10 or 11 subjects in each group ) .
+METHODS	The study groups were matched for age , gender and body mass index ( BMI ) .
+METHODS	Waist-to-hip ratio , BMI , blood pressure , fasting blood glucose , insulin , triglycerides , total cholesterol , low-density lipoprotein , high-density lipoprotein , HbA1c , ASAT , ALAT , bilirubin , ALP , GT and PK were measured before and after the intake of capsules equivalent to 6 g cinnamon twice a day for 12 weeks .
+METHODS	The changes in insulin resistance were measured by euglycaemic-hyperinsulinaemic clamp .
+METHODS	The Wilcoxon signed rank sum test , the Mann-Whitney U test and Pearson 's chi-squared test were used to analyse the data .
+METHODS	Values of p < 0.05 were considered to indicate statistically significant differences .
+RESULTS	At enrolment , the groups were similar in terms of age , gender and BMI .
+RESULTS	Of the 21 randomized patients with IGT , 17 completed the study ( 8 controls vs. 9 treated ) .
+RESULTS	The ingestion of 6 g cinnamon twice a day for 12 weeks had no significant effect on insulin sensitivity , HbA1c , fasting glucose or BMI .
+RESULTS	No significant changes were seen in lipids or liver enzymes .
+CONCLUSIONS	This study showed that ingestion of 6 g C. cassia twice a day for 12 weeks did not change the insulin sensitivity or liver enzymes in subjects with IGT .
+

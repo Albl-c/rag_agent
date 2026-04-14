@@ -1,0 +1,15 @@
+24813026
+OBJECTIVE	The purpose of this study was to evaluate the efficacy and safety of duloxetine flexible dose in children ( 7-11 years ) and adolescents ( 12-17 years ) with major depressive disorder ( MDD ) .
+METHODS	Patients ( n = 337 ) in this 36 week study ( 10 week acute and 26 week extension treatment ) received duloxetine ( 60-120mg once daily [ QD ] , n = 117 ) , fluoxetine ( 20-40mg QD , n = 117 ) , or placebo ( n = 103 ) .
+METHODS	Measures included : Children 's Depression Rating Scale-Revised ( CDRS-R ) , treatment-emergent adverse events ( TEAEs ) , and Columbia-Suicide Severity Rating Scale ( C-SSRS ) .
+RESULTS	Neither active drug ( duloxetine or fluoxetine ) separated significantly ( p < 0.05 ) from placebo on mean change from baseline to end-point ( 10 weeks ) on the CDRS-R total score .
+RESULTS	There were no significant differences between the duloxetine or fluoxetine groups compared with placebo on serious AEs ( SAEs ) , total TEAEs , or discontinuation for AE during acute treatment .
+RESULTS	There were no completed suicides or deaths , and no clinically significant electrocardiogram ( ECG ) abnormalities observed during the study .
+RESULTS	One fluoxetine and one duloxetine patient experienced alanine aminotransferase ( ALT ) three or more times the upper limit of normal , which resolved during the study .
+RESULTS	A total of 8 ( 7.1 % ) duloxetine patients , 7 ( 6.8 % ) placebo patients , and 9 ( 8.0 % ) fluoxetine patients had worsening of suicidal ideation from baseline during acute treatment .
+RESULTS	Of the patients with suicidal ideation at baseline , 15/19 ( 79 % ) duloxetine , 19/19 ( 100 % ) placebo , and 16/19 ( 84 % ) fluoxetine had improvement in suicidal ideation at end-point during acute treatment .
+RESULTS	One duloxetine and two fluoxetine patients had treatment-emergent suicidal behavior during the 36 week study .
+CONCLUSIONS	Trial results were inconclusive , as neither the investigational drug ( duloxetine ) nor the active control ( fluoxetine ) separated from placebo on the CDRS-R at 10 weeks .
+CONCLUSIONS	No new duloxetine safety signals were identified relative to those seen in adults .
+CONCLUSIONS	Clinical Trial Registry Number : NCT00849901 .
+

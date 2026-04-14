@@ -1,0 +1,12 @@
+24612764
+OBJECTIVE	Expiratory asynchrony during pressure support ventilation ( PSV ) has been recognized as a cause of patient discomfort , increased workload , and impaired weaning process .
+OBJECTIVE	We evaluated breathing pattern , patient comfort , and patient effort during PSV comparing 2 flow termination criteria : fixed at 5 % of peak inspiratory flow vs automatic , real-time , breath-by-breath adjustment within the range of 5 % to 55 % .
+METHODS	Randomized crossover clinical trial .
+METHODS	Sixteen awake patients , in the process of weaning , under PSV for more than 24 hours were subjected to 3 phases of PSV , each lasting 1 hour and using 1 of the 2 aforementioned termination criteria .
+RESULTS	Effective pressure support during automatic adjustment ( AA ) was 12.53.2 cm H2O vs 12.53.9 cm H2O ( P = .9 ) with the fixed termination criterion , and external positive end-expiratory pressure was 6.21.8 vs 6.82 ( P < .05 ) .
+RESULTS	The effective termination criterion was higher during AA ( 31 % [ 23-39 ] vs 12 % [ 6-23 ] ; P < .01 ) , but without producing premature breath terminations .
+RESULTS	Pressure overshoots and alternative cycling-off were also decreased .
+RESULTS	Throughout the AA period , we observed a higher respiratory rate ( 248 breaths/min vs 196 breaths/min ; P < .001 ) , lower tidal volume ( 484 88 mL vs 518102 mL ; P < .001 ) , and shorter inspiratory times ( 1.00.3 seconds vs 1.30.3 seconds ; P < .001 ) .
+RESULTS	Automatic adjustment was associated with lower airway occlusion pressure after 0.1 second ( P0 .1 ) ( 1.80.9 cm H2O vs 2.41 cm H2O ; P < .01 ) , lower pressure-time product to trigger the ventilator , and lower subjective discomfort ( visual analog scale , 3.71.3 vs 4.51.2 ; P < .001 ) .
+CONCLUSIONS	When compared with a fixed termination criterion , the use of a variable , real-time-adjusted termination criterion improved some indices of patient-ventilator synchrony , producing better breathing pattern , less discomfort , and slightly lower patient effort during PSV .
+

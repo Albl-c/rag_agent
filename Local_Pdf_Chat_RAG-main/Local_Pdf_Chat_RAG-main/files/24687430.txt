@@ -1,0 +1,10 @@
+24687430
+OBJECTIVE	To investigate and compare several quantification methods of myocardial perfusion measurements , paying special attention to the relation between the techniques and the required measurement duration .
+METHODS	Seven patients underwent contrast-enhanced rest and stress cardiac perfusion measurements at 3T .
+METHODS	Three slices were acquired in each patient and were divided into 16 segments , leading to 112 rest and stress data curves , which were analyzed using various tracer kinetic models as well as a model-free deconvolution .
+METHODS	Plasma flow , plasma volume , and myocardial perfusion reserve were analyzed for the complete acquisition as well as for the first pass data only .
+RESULTS	Deconvolution analysis yielded stable results for both rest and stress analysis , while Fermi and one compartment models agree well for first pass data ( rest measurements only ) and prolonged data acquisition ( stress measurements only ) .
+RESULTS	More complex models do not yield satisfactory results for the short measurement times investigated in this study .
+CONCLUSIONS	When performing MRI-based quantification of myocardial perfusion , care must be taken that the method used is appropriate for the time frame under investigation .
+CONCLUSIONS	When a numerical deconvolution is used instead of tracer kinetic models , more stable results are obtained .
+

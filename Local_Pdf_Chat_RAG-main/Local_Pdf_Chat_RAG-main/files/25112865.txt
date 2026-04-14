@@ -1,0 +1,14 @@
+25112865
+OBJECTIVE	We conducted a 6-month , randomized , double-blind , placebo-controlled study to assess safety , tolerability , and efficacy of deferiprone in Friedreich ataxia ( FRDA ) .
+METHODS	Seventy-two patients were treated with deferiprone 20 , 40 , or 60mg/kg/day or placebo , divided into 2 daily doses .
+METHODS	Safety was the primary objective ; secondary objectives included standardized neurological assessments ( Friedreich Ataxia Rating Scale [ FARS ] , International Cooperative Ataxia Rating Scale [ ICARS ] , 9-Hole Peg Test [ 9HPT ] , Timed 25-Foot Walk , Low-Contrast Letter Acuity ) , general functional status ( Activities of Daily Living ) , and cardiac assessments .
+RESULTS	Deferiprone was well tolerated at 20mg/kg/day , whereas more adverse events occurred in the 40mg/kg/day than in the placebo group .
+RESULTS	The 60mg/kg/day dose was discontinued due to worsening of ataxia in 2 patients .
+RESULTS	One patient on deferiprone 20mg/kg/day experienced reversible neutropenia , but none developed agranulocytosis .
+RESULTS	Deferiprone-treated patients receiving 20 or 40mg/kg/day showed a decline in the left ventricular mass index , compared to an increase in the placebo-treated patients .
+RESULTS	Patients receiving 20mg/kg/day of deferiprone had no significant change in FARS , similar to the placebo-treated patients , whereas those receiving 40mg/kg/day had worsening in FARS and ICARS scores .
+RESULTS	The lack of deterioration in the placebo arm impaired the ability to detect any potential protective effect of deferiprone .
+RESULTS	However , subgroup analyses in patients with less severe disease suggested a benefit of deferiprone 20mg/kg/day on ICARS , FARS , kinetic function , and 9HPT .
+CONCLUSIONS	This study demonstrated an acceptable safety profile of deferiprone at 20mg/kg/day for the treatment of patients with FRDA .
+CONCLUSIONS	Subgroup analyses raise the possibility that , in patients with less severe disease , deferiprone 20mg/kg/day may reduce disease progression , whereas higher doses appear to worsen ataxia .
+

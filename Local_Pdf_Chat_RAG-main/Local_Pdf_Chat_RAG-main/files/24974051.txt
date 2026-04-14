@@ -1,0 +1,25 @@
+24974051
+BACKGROUND	ODM-201 is a novel androgen receptor ( AR ) inhibitor designed to block the growth of prostate cancer cells through high-affinity binding to the AR and inhibition of AR nuclear translocation .
+BACKGROUND	This trial assessed ODM-201 's safety , pharmacokinetics , and activity in men with metastatic castration-resistant prostate cancer .
+METHODS	The ARADES trial is an open-label phase 1-2 trial undertaken in 23 hospitals across Europe and USA with ongoing long-term follow-up .
+METHODS	Men with progressive metastatic castration-resistant prostate cancer , who had castrate concentrations of testosterone and an Eastern Cooperative Oncology Group score of 0-1 were enrolled .
+METHODS	In the phase 1 part of the trial , patients were given oral ODM-201 at a starting daily dose of 200 mg , which was increased to 400 mg , 600 mg , 1000 mg , 1400 mg , and 1800 mg .
+METHODS	In phase 2 , patients were randomly assigned centrally and stratified by previous chemotherapy and treatment with CPY17 inhibitors , to receive one of three daily doses of ODM-201 ( 200 mg , 400 mg , and 1400 mg ) .
+METHODS	The primary endpoint in phase 1 was safety and tolerability , whereas in phase 2 it was the proportion of patients with a PSA response ( 50 % or greater decrease in serum PSA ) at week 12 .
+METHODS	All analyses included patients who had received at least one dose of ODM-201 .
+METHODS	This trial is registered with ClinicalTrials.gov , number NCT01317641 , and NCT01429064 for the follow-up after 12 weeks .
+RESULTS	We enrolled patients between April 5 , 2011 , and March 12 , 2013 .
+RESULTS	In phase 1 , 24 patients were enrolled to six sequential cohorts of three to six patients and received a daily dose of ODM-201 , 200-1800 mg .
+RESULTS	No dose-limiting toxic effects were reported and the maximum tolerated dose was not reached .
+RESULTS	In phase 1 , three patients reported eight adverse events of grade 3 ( fracture , muscle injury , laceration , paralytic ileus , pain , presyncope , urinary retention , and vomiting ) and one patient had a grade 4 adverse event ( lymphoedema ) .
+RESULTS	None of the grade 3-4 adverse events were deemed to be related to ODM-201 .
+RESULTS	Of the phase 1 patients , the four who received 200 mg , seven who received 400 mg , and three who received 1400 mg entered the phase 2 part of the trial .
+RESULTS	In addition to these patients , 110 were randomly assigned to three groups : 200 mg ( n = 38 ) , 400 mg ( n = 37 ) , and 1400 mg ( n = 35 ) .
+RESULTS	For these patients , the most common treatment-emergent adverse events were fatigue or asthenia ( 15 [ 12 % ] of 124 patients ) , hot flush ( six [ 5 % ] ) , and decreased appetite ( five [ 4 % ] ) .
+RESULTS	One patient ( < 1 % ) had a grade 3 treatment-emergent adverse event ( fatigue ) ; no patients had a treatment-emergent grade 4 adverse event .
+RESULTS	38 patients who received 200 mg , 39 who received 400 mg , and 33 who received 1400 mg were assessable for PSA response at 12 weeks .
+RESULTS	11 ( 29 % ) patients in the 200 mg group , 13 ( 33 % ) in the 400 mg group , and 11 ( 33 % ) in the 1400 mg group had a PSA response at 12 weeks .
+CONCLUSIONS	Our results suggest that ODM-201 monotherapy in men with progressive metastatic castration-resistant prostate cancer provides disease suppression and that ODM-201 has a favourable safety profile .
+CONCLUSIONS	These findings support further investigation of clinical responses with ODM-201 in men with castration-resistant prostate cancer .
+BACKGROUND	Orion Corporation Orion Pharma , Endo Pharmaceuticals Inc. .
+

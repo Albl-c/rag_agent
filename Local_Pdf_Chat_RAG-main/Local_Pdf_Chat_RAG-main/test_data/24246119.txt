@@ -1,0 +1,10 @@
+24246119
+OBJECTIVE	This study aimed at evaluating the benefit of changing drug therapy in elderly patients with moderate , potentially drug-induced hyponatremia .
+METHODS	Hospitalized older adults , with moderate hyponatremia , potentially induced by drugs , were randomized into two arms : an interventional group , whose drug therapy was changed , and a reference group , which received standard care .
+METHODS	The effectiveness of the intervention was evaluated by the normalization of serum sodium after four weeks and by the incidence of falls three months later .
+RESULTS	Nineteen patients were randomized , fourteen evaluated at 4 weeks .
+RESULTS	Serum sodium was normalized more frequently in the interventional group than in the reference group : 75 % ( 6/8 ) IC95 % [ 35-97 ] versus 0 % ( 0/6 ) IC95 % [ 0-46 ] ; p = 0.01 .
+RESULTS	A greater reduction in falls occurred in the therapeutic intervention group 75 % ( 3/4 ) IC95 % [ 19-99 ] versus 0 % ( 0/5 ) IC95 % [ 0-52 ] ; p = 0.048 .
+CONCLUSIONS	This study showed the biological and clinical benefit of a pharmalogical intervention .
+CONCLUSIONS	Registration number of the study : ID RCB 2010-A00778-31 .
+

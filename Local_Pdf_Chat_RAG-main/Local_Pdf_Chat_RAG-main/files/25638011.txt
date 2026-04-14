@@ -1,0 +1,18 @@
+25638011
+OBJECTIVE	Secukinumab , a fully human anti-interleukin-17A monoclonal antibody , exhibited promising activity in a proof-of-concept study when administered in intravenous ( IV ) doses to patients with active , chronic , noninfectious uveitis .
+OBJECTIVE	This study compared the efficacy and safety of different IV and subcutaneous ( SC ) doses of secukinumab in patients with noninfectious uveitis .
+METHODS	Multicenter , randomized , double-masked , dose-ranging , phase 2 clinical trial .
+METHODS	Thirty-seven patients with active noninfectious intermediate uveitis , posterior uveitis , or panuveitis who required corticosteroid-sparing immunosuppressive therapy .
+METHODS	Patients were randomized to secukinumab 300 mg SC every 2 weeks for 4 doses , secukinumab 10 mg/kg IV every 2 weeks for 4 doses , or secukinumab 30 mg/kg IV every 4 weeks for 2 doses .
+METHODS	Intravenous or SC saline was administered to maintain masking .
+METHODS	Efficacy was assessed on day 57 ( 2-4 weeks after last dose ) .
+METHODS	Percentage of patients with treatment response , defined as ( 1 ) at least a 2-grade reduction in vitreous haze score or trace or absent vitreous haze in the study eye without an increase in corticosteroid dose and without uveitis worsening or ( 2 ) reduction in corticosteroid dosages to prespecified levels without uveitis worsening .
+METHODS	Percentage of patients with remission , defined as anterior chamber cell and vitreous haze scores of 0 or 0.5 + in both eyes without corticosteroid therapy or uveitis worsening .
+RESULTS	Secukinumab 30 mg/kg IV and 10 mg/kg IV , compared with the 300 mg SC dose , produced higher responder rates ( 72.7 % and 61.5 % vs. 33.3 % , respectively ) and remission rates ( 27.3 % and 38.5 % vs. 16.7 % , respectively ) .
+RESULTS	Statistical and clinical superiority for the 30 mg/kg IV dose compared with the 300 mg SC dose was established in a Bayesian probability model .
+RESULTS	Other measures , including time to response onset , change in visual acuity , and change in vitreous haze score , showed numeric trends favoring IV dosing .
+RESULTS	Secukinumab , administered in IV or SC formulations , appeared safe and was well tolerated .
+CONCLUSIONS	Intravenous secukinumab was effective and well tolerated in noninfectious uveitis requiring systemic corticosteroid-sparing immunosuppressive therapy .
+CONCLUSIONS	Greater activity with IV dosing suggests that patients may not receive sufficient drug with SC administration .
+CONCLUSIONS	High-dose IV secukinumab may be necessary to deliver secukinumab in therapeutic concentrations .
+

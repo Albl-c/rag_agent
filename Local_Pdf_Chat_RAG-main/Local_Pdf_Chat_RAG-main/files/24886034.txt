@@ -1,0 +1,15 @@
+24886034
+BACKGROUND	Mild cognitive impairment ( MCI ) is a condition characterized by memory problems that are more severe than the normal cognitive changes due to aging , but less severe than dementia .
+BACKGROUND	Reduced working memory ( WM ) is regarded as one of the core symptoms of an MCI condition .
+BACKGROUND	Recent studies have indicated that WM can be improved through computer-based training .
+BACKGROUND	The objective of this study is to evaluate if WM training is effective in improving cognitive function in elderly patients with MCI , and if cognitive training induces structural changes in the white and gray matter of the brain , as assessed by structural MRI .
+METHODS	The proposed study is a blinded , randomized , controlled trail that will include 90 elderly patients diagnosed with MCI at a hospital-based memory clinic .
+METHODS	The participants will be randomized to either a training program or a placebo version of the program .
+METHODS	The intervention is computerized WM training performed for 45minutes of 25 sessions over 5weeks .
+METHODS	The placebo version is identical in duration but is non-adaptive in the difficulty level of the tasks .
+METHODS	Neuropsychological assessment and structural MRI will be performed before and 1 month after training , and at a 5-month folllow-up .
+CONCLUSIONS	If computer-based training results in positive changes to memory functions in patients with MCI this may represent a new , cost-effective treatment for MCI .
+CONCLUSIONS	Secondly , evaluation of any training-induced structural changes to gray or white matter will improve the current understanding of the mechanisms behind effective cognitive interventions in patients with MCI .
+BACKGROUND	ClinicalTrials.gov NCT01991405 .
+BACKGROUND	November 18 , 2013 .
+

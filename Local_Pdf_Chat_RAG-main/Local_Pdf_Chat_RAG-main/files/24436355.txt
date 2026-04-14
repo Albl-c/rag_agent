@@ -1,0 +1,11 @@
+24436355
+OBJECTIVE	To evaluate the validity of the Yo-Yo Intermittent Recovery Test Level 1 ( YYIR1 ) for the direct assessment and the indirect estimation of maximal oxygen consumption ( VO2max ) in female soccer players compared with a maximal laboratory treadmill test ( LTT ) .
+METHODS	Eighteen female soccer players ( 21.5 3.4 y , 165.6 7.5 cm , 63.3 7.4 kg ; mean SD ) completed an LTT and a YYIR1 in random order ( 1 wk apart ) .
+METHODS	Their VO2max was directly measured via portable spirometry during both tests and indirectly estimated from a published non-gender-specific formula ( YYIR1-F1 ) .
+RESULTS	The measured VO2max values in LTT and YYIR1 were 55.0 5.3 and 49.9 4.9 mL kg-1 min-1 , respectively , while the estimated VO2max values from YYIR1-F1 corresponded to 45.2 3.4 mL kg-1 min-1 .
+RESULTS	Large positive correlations between the VO2max values from YYIR1 and LTT ( r = .83 , P < .001 , 90 % confidence interval = .64 -.92 ) and YYIR1-F1 and LTT ( r = .67 , P = .002 , .37 -.84 ) were found .
+RESULTS	However , the YYIR1 significantly underestimated players ' VO2max by 9.4 % compared with LTT ( P < .001 ) with Bland-Altman 95 % limits of agreement ranging from -20.0 % to 1.4 % .
+RESULTS	A significant underestimation from the YYIR1-F1 ( P < .001 ) was also identified ( 17.8 % with Bland-Altman 95 % limits of agreement ranging from -31.8 % to -3.8 % ) .
+CONCLUSIONS	The YYIR1 and YYIR1-F1 are not accurate methods for the direct assessment or indirect estimation of VO2max in female soccer players .
+CONCLUSIONS	The YYIR1-F1 lacks gender specificity , which might have been the reason for its larger error .
+

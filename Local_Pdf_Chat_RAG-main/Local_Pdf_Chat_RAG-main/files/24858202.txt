@@ -1,0 +1,17 @@
+24858202
+OBJECTIVE	Data regarding long-term outcomes of neonates reaching viability following early preterm premature rupture of membranes ( PPROM ; < 25.0 weeks at rupture ) are limited .
+OBJECTIVE	We hypothesized that babies delivered after early PPROM would have increased rates of major childhood morbidity compared with those with later PPROM ( 25.0 weeks at rupture ) .
+METHODS	This was a secondary analysis of a multicenter randomized controlled trial of magnesium sulfate vs placebo for cerebral palsy prevention .
+METHODS	Women with singletons and PPROM of 15-32 weeks were included .
+METHODS	All women delivered at 24.0 weeks or longer .
+METHODS	Those with PPROM less than 25.0 weeks ( cases ) were compared with women with PPROM at 25.0-31 .9 weeks ( controls ) .
+METHODS	Composite severe neonatal morbidity ( sepsis , severe intraventricular hemorrhage , periventricular leukomalacia , severe necrotizing enterocolitis , bronchopulmonary dysplasia , and/or death ) and composite severe childhood morbidity at age 2 years ( moderate or severe cerebral palsy and/or Bayley II Infant and Toddler Development scores greater than 2 SD below the mean ) were compared .
+RESULTS	A total of 1531 women ( 275 early PPROM cases ) were included .
+RESULTS	Demographics were similar between the groups .
+RESULTS	Cases delivered earlier ( 26.6 vs 30.1 weeks , P < .001 ) and had a longer rupture-to-delivery interval ( 20.0 vs 10.4 days , P < .001 ) .
+RESULTS	Case neonates had high rates of severe composite neonatal morbidity ( 75.6 % vs 21.8 % , P < .001 ) .
+RESULTS	Children with early PPROM had higher composite severe childhood morbidity ( 51.6 % vs 22.5 % , P < .001 ) .
+RESULTS	Early PPROM remained associated with composite severe childhood morbidity in multivariable models , even when controlling for delivery gestational age and other confounders .
+CONCLUSIONS	Early PPROM is associated with high rates of neonatal morbidity .
+CONCLUSIONS	Early childhood outcomes at age 2 years remain poor compared with those delivered after later PPROM .
+

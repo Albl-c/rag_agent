@@ -1,0 +1,17 @@
+25083010
+OBJECTIVE	To assess the short-term efficacy of a video-based cognitive behavioral therapy for insomnia ( CBT-I ) as compared to a professionally administered CBT-I and to a no-treatment group .
+METHODS	Randomized controlled trial .
+METHODS	Radio-oncology department of a public hospital affiliated with Universit Laval ( CHU de Qubec ) .
+METHODS	Two hundred forty-two women with breast cancer who had received radiation therapy in the past 18 mo and who had insomnia symptoms or were using hypnotic medications were randomized to : ( 1 ) professionally administered CBT-I ( PCBT-I ; n = 81 ) ; ( 2 ) video-based CBT-I ( VCBT-I ; n = 80 ) ; and ( 3 ) no treatment ( CTL ; n = 81 ) .
+METHODS	PCBT-I composed of six weekly , individual sessions of approximately 50 min ; VCBT-I composed of a 60-min animated video + six booklets .
+RESULTS	Insomnia Severity Index ( ISI ) total score and sleep parameters derived from a daily sleep diary and actigraphy , collected at pretreatment and posttreatment .
+RESULTS	PCBT-I and VCBT-I were associated with significantly greater sleep improvements , assessed subjectively , as compared to CTL .
+RESULTS	However , relative to VCBT-I , PCBT-I was associated with significantly greater improvements of insomnia severity , early morning awakenings , depression , fatigue , and dysfunctional beliefs about sleep .
+RESULTS	The remission rates of insomnia ( ISI < 8 ) were significantly greater in PCBT-I as compared to VCBT-I ( 71.3 % versus 44.3 % , P < 0.005 ) .
+CONCLUSIONS	A self-administered cognitive behavioral therapy for insomnia ( CBT-I ) using a video format appears to be a valuable treatment option , but face-to-face sessions remain the optimal format for administering CBT-I efficaciously in patients with breast cancer .
+CONCLUSIONS	Self-help interventions for insomnia may constitute an appropriate entry level as part of a stepped care model .
+BACKGROUND	ClinicalTrials.gov Identifier : NCT00674830 .
+BACKGROUND	Savard J , Ivers H , Savard MH , Morin CM .
+BACKGROUND	Is a video-based cognitive behavioral therapy for insomnia as efficacious as a professionally administered treatment in breast cancer ?
+BACKGROUND	Results of a randomized controlled trial .
+

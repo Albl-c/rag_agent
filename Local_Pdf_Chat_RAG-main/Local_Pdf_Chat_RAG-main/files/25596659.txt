@@ -1,0 +1,15 @@
+25596659
+BACKGROUND	We aimed to compare panitumumab , a fully human monoclonal antibody against EGFR , plus radiotherapy with chemoradiotherapy in patients with unresected , locally advanced squamous-cell carcinoma of the head and neck .
+METHODS	In this international , open-label , randomised , controlled , phase 2 trial , we recruited patients with locally advanced squamous-cell carcinoma of the head and neck from 22 sites in eight countries worldwide .
+METHODS	Patients aged 18 years and older with stage III , IVa , or IVb , previously untreated , measurable ( 10 mm for at least one dimension ) , locally advanced squamous-cell carcinoma of the head and neck ( non-nasopharygeal ) and an Eastern Cooperative Oncology Group performance status of 0-1 were randomly assigned ( 2:3 ) by an independent vendor to open-label chemoradiotherapy ( two cycles of cisplatin 100 mg/m ( 2 ) during radiotherapy ) or to radiotherapy plus panitumumab ( three cycles of panitumumab 9 mg/kg every 3 weeks administered with radiotherapy ) using a stratified randomisation with a block size of five .
+METHODS	All patients received 70-72 Gy to gross tumour and 54 Gy to areas of subclinical disease with accelerated fractionation radiotherapy .
+METHODS	The primary endpoint was local-regional control at 2 years , analysed in all randomly assigned patients who received at least one dose of their assigned protocol-specific treatment ( chemotherapy , radiation , or panitumumab ) .
+METHODS	The trial is closed and this is the final analysis .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT00547157 .
+RESULTS	Between Nov 30 , 2007 , and Nov 16 , 2009 , 152 patients were enrolled , and 151 received treatment ( 61 in the chemoradiotherapy group and 90 in the radiotherapy plus panitumumab group ) .
+RESULTS	Local-regional control at 2 years was 61 % ( 95 % CI 47-72 ) in the chemoradiotherapy group and 51 % ( 40-62 ) in the radiotherapy plus panitumumab group .
+RESULTS	The most frequent grade 3-4 adverse events were mucosal inflammation ( 25 [ 40 % ] of 62 patients in the chemoradiotherapy group vs 37 [ 42 % ] of 89 patients in the radiotherapy plus panitumumab group ) , dysphagia ( 20 [ 32 % ] vs 36 [ 40 % ] ) , and radiation skin injury ( seven [ 11 % ] vs 21 [ 24 % ] ) .
+RESULTS	Serious adverse events were reported in 25 ( 40 % ) of 62 patients in the chemoradiotherapy group and in 30 ( 34 % ) of 89 patients in the radiotherapy plus panitumumab group .
+CONCLUSIONS	Panitumumab can not replace cisplatin in the combined treatment with radiotherapy for unresected stage III-IVb squamous-cell carcinoma of the head and neck , and the role of EGFR inhibition in locally advanced squamous-cell carcinoma of the head and neck needs to be reassessed .
+BACKGROUND	Amgen .
+

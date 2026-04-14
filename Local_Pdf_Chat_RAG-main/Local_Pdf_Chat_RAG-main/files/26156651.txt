@@ -1,0 +1,22 @@
+26156651
+BACKGROUND	There is a major unmet need for effective treatments in patients with squamous cell carcinoma of the lung .
+BACKGROUND	LUX-Lung 8 compared afatinib ( an irreversible ErbB family blocker ) with erlotinib ( a reversible EGFR tyrosine kinase inhibitor ) , as second-line treatment for patients with advanced squamous cell carcinoma of the lung .
+METHODS	We did this open-label , phase 3 randomised controlled trial at 183 cancer centres in 23 countries worldwide .
+METHODS	We enrolled adults with stage IIIB or IV squamous cell carcinoma of the lung who had progressed after at least four cycles of platinum-based-chemotherapy .
+METHODS	Participants were randomly assigned ( 1:1 ) to receive afatinib ( 40 mg per day ) or erlotinib ( 150 mg per day ) until disease progression .
+METHODS	The randomisation was done centrally with an interactive voice or web-based response system and stratified by ethnic origin ( eastern Asian vs non-eastern Asian ) .
+METHODS	Clinicians and patients were not masked to treatment allocation .
+METHODS	The primary endpoint was progression-free survival assessed by independent central review ( intention-to-treat population ) .
+METHODS	The key secondary endpoint was overall survival .
+METHODS	This trial is registered with ClinicalTrials.gov , NCT01523587 .
+RESULTS	795 eligible patients were randomly assigned ( 398 to afatinib , 397 to erlotinib ) .
+RESULTS	Median follow-up at the time of the primary analysis of progression-free survival was 67 months ( IQR 31-102 ) , at which point enrolment was not complete .
+RESULTS	Progression free-survival at the primary analysis was significantly longer with afatinib than with erlotinib ( median 24 months [ 95 % CI 19-29 ] vs 19 months [ 19-22 ] ; hazard ratio [ HR ] 082 [ 95 % CI 068-100 ] , p = 00427 ) .
+RESULTS	At the time of the primary analysis of overall survival ( median follow-up 184 months [ IQR 138-224 ] ) , overall survival was significantly greater in the afatinib group than in the erloinib group ( median 79 months [ 95 % CI 72-87 ] vs 68 months [ 59-78 ] ; HR 081 [ 95 % CI 069-095 ] , p = 00077 ) , as were progression-free survival ( median 26 months [ 95 % CI 20-29 ] vs 19 months [ 19-21 ] ; HR 081 [ 95 % CI 069-096 ] , p = 00103 ) and disease control ( 201 [ 51 % ] of 398 patients vs 157 [ 40 % ] of 397 ; p = 00020 ) .
+RESULTS	The proportion of patients with an objective response did not differ significantly between groups ( 22 [ 6 % ] vs 11 [ 3 % ] ; p = 00551 ) .
+RESULTS	Tumour shrinkage occurred in 103 ( 26 % ) of 398 patients versus 90 ( 23 % ) of 397 patients .
+RESULTS	Adverse event profiles were similar in each group : 224 ( 57 % ) of 392 patients in the afatinib group versus 227 ( 57 % ) of 395 in the erlotinib group had grade 3 or higher adverse events .
+RESULTS	We recorded higher incidences of treatment-related grade 3 diarrhoea with afatinib ( 39 [ 10 % ] vs nine [ 2 % ] ) , of grade 3 stomatitis with afatinib ( 16 [ 4 % ] vs none ) , and of grade 3 rash or acne with erlotinib ( 23 [ 6 % ] vs 41 [ 10 % ] ) .
+CONCLUSIONS	The significant improvements in progression-free survival and overall survival with afatinib compared with erlotinib , along with a manageable safety profile and the convenience of oral administration suggest that afatinib could be an additional option for the treatment of patients with squamous cell carcinoma of the lung .
+BACKGROUND	Boehringer Ingelheim .
+

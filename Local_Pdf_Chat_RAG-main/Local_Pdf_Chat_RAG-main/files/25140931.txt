@@ -1,0 +1,11 @@
+25140931
+BACKGROUND	High - and low-frequency repetitive transcranial magnetic stimulation ( HF-rTMS and LF-rTMS ) has been shown to be beneficial for upper limb hemiparesis in patients with acute stroke .
+BACKGROUND	However , no study has examined the usefulness of bilateral application of HF - and LF-rTMS ( BL-rTMS ) .
+METHODS	Fifty-eight hemiparetic patients with acute stroke were randomly assigned into two groups : HF-rTMS group and BL-rTMS group .
+METHODS	All patients were scheduled to receive five sessions of either HF-rTMS over the lesional hemisphere or BL-rTMS over both hemispheres for 5 days .
+METHODS	Motor function of the affected upper limb was evaluated using the Brunnstrom Recovery Stage ( BRS ) for upper-limb and hand-fingers , grip strength and tapping frequency , before the first session and after the last session of rTMS .
+RESULTS	Improvement of BRS for the upper limb and hand/finger was significantly greater in the BL-rTMS group than the HF-rTMS group ( p < 0.01 ) .
+RESULTS	Improvement in grip strength and tapping frequency was also greater in the BL-rTMS group , although the differences were not statistically significant .
+CONCLUSIONS	The proposed BL-rTMS is safe and feasible and showed a greater improvement of BRS of the affected upper limb compared to HF-rTMS .
+CONCLUSIONS	This novel rTMS approach may be a useful intervention for hemiparetic patients with acute stroke .
+

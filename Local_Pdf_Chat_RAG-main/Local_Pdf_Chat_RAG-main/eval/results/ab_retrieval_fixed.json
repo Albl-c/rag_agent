@@ -1,0 +1,23 @@
+{
+  "total_questions": 20,
+  "hit_at_k": 1.0,
+  "mrr": 1.0,
+  "avg_retrieval_ms": 50.32,
+  "enable_bm25": false,
+  "experiment": {
+    "data_dir": "test_data",
+    "file_count": 100,
+    "chunk_count": 620,
+    "chunk_size": 425,
+    "chunk_overlap": 45,
+    "top_k": 5,
+    "auto_route": false,
+    "enable_bm25": false,
+    "route_counter": {
+      "recursive": 100,
+      "structured_recursive": 0,
+      "markdown_header": 0,
+      "llama_nodes": 0
+    }
+  }
+}

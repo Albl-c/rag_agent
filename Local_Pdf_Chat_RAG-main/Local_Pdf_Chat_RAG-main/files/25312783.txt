@@ -1,0 +1,11 @@
+25312783
+OBJECTIVE	The treatment strategy for steroid-resistant nephrotic syndrome remains uncertain at present , especially in those with calcineurin inhibitor resistance or intolerance .
+OBJECTIVE	To date , few studies have been published using multiple combination therapy of immunosuppressive reagents for children with calcineurin inhibitor-resistant or - intolerant nephrotic syndrome .
+METHODS	Eighteen consecutive children with steroid - and tacrolimus ( TAC ) - resistant ( n = 10 ) or TAC-sensitive but frequent relapsing nephrotic syndrome ( n = 8 ) were randomly recruited in the present study .
+METHODS	All of them received further triple-combination therapy by cyclophosphamide ( CTX , n = 6 ) , mycophenolate mofetil ( MMF , n = 5 ) or leflunomide ( LEF , n = 7 ) .
+METHODS	Their clinical data were collected and efficacy of triple-combination therapy was evaluated .
+RESULTS	Compared with previous double-combination therapy of prednisone ( Pre ) and TAC , the short-term remission rate in all 18 patients was significantly improved after the triple-combination therapy , while the frequent relapse rate in the following 12months was also significantly decreased .
+RESULTS	Among three different subgroups with CTX , MMF or LEF therapy , no significant difference was found in short-term remission rate and the relapse rate within 1year follow up by Kaplan-Meier plot .
+CONCLUSIONS	Triple-combination therapy with Pre + TAC+CTX / MMF/LEF is effective for short-term response and 1year remission , without significant additional side-effects seen in children with steroid-resistant and tacrolimus-resistant or tacrolimus-sensitive but frequently relapsing nephrotic syndrome .
+CONCLUSIONS	Further study for evaluating long-term efficacy and safety of triple-combination therapy with Pre + TAC+CTX / MMF/LEF would be necessary for these patients .
+

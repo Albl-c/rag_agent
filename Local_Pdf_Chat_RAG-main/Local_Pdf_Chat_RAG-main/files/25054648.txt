@@ -1,0 +1,18 @@
+25054648
+METHODS	Single blinded , randomized clinical trial for the evaluation of lumbosacral orthoses ( LSOs ) in the management of lower back pain ( LBP ) .
+OBJECTIVE	To evaluate the effects of two types of LSOs on self-rated disability in patients with LBP .
+BACKGROUND	LSOs are commonly used for the management of LBP , but their effectiveness may vary because of design .
+BACKGROUND	An inextensible LSO ( iLSO ) reduces trunk motion and increases trunk stiffness , whereas an extensible LSO ( eLSO ) does not .
+METHODS	A total of 98 participants with LBP were randomized to 3 groups : ( 1 ) standard care ( SC ) group , which included medication and physical therapy ( n = 29 ) , ( 2 ) SC with eLSO ( eLSO group ) ( n = 32 ) , and ( 3 ) SC with iLSO ( iLSO group ) ( n = 37 ) .
+METHODS	Outcome measures were evaluated before and after 2 weeks of treatment : modified Oswestry Disability Index ( ODI ) , Patient Specific Activity Scale , pain ratings , and Fear Avoidance Beliefs Questionnaire .
+RESULTS	There were no statistically significant differences between groups at baseline .
+RESULTS	Compared with the SC alone , iLSO group showed greater improvement on the ODI scores ( P = 0.01 ) but not the eLSO group .
+RESULTS	The ODI scores improved by a mean of 2.4 ( 95 % confidence interval [ CI ] , 2.2-7 .1 ) , 8.1 ( 95 % CI , 2.8-13 .4 ) , and 14.0 ( 95 % CI , 8.2-19 .8 ) points for SC , eLSO , and iLSO groups , respectively .
+RESULTS	Individuals wearing the iLSO had 4.7 times higher odds of achieving 50 % or greater improvement in the ODI scores than those assigned to SC ( 95 % CI , 1.2-18 .5 , P = 0.03 ) .
+RESULTS	Both the eLSO and iLSO groups had a greater improvement in the Patient Specific Activity Scale scores than the SC group ( P = .05 and P = 0.01 , respectively ) , but the change did not meet the minimal clinically important difference .
+RESULTS	Pain ratings improved for all 3 groups , with no statistical difference between them .
+RESULTS	Finally , no significant differences across groups were found for the Fear Avoidance Beliefs Questionnaire .
+CONCLUSIONS	An iLSO led to greater improvement in ODI scores than SC and an eLSO .
+CONCLUSIONS	We surmise that the likely mechanism responsible for this difference in outcome was the added trunk stiffness and motion restriction by the iLSO .
+METHODS	2 .
+

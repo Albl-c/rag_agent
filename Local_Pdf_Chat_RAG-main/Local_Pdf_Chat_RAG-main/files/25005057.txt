@@ -1,0 +1,11 @@
+25005057
+OBJECTIVE	To compare extra-abdominal repair of the uterine incision at cesarean delivery with in situ repair .
+METHODS	The present study was a double-blind randomized controlled trial conducted at a university hospital in Egypt during 2012-2013 , and included women with an indication for cesarean delivery .
+METHODS	Extra-abdominal repair was used in group 1 ( n = 500 ) and in situ repair in group 2 ( n = 500 ) .
+METHODS	The primary outcome measure was the surgery duration .
+RESULTS	Surgery duration was significantly longer in group 1 than group 2 ( 49.92.3 minutes vs 39.91.8 minutes ; P < 0.001 ) .
+RESULTS	More patients in group 1 than in group 2 had postoperative moderate-to-severe pain ( 165 [ 33.0 % ] vs 115 [ 23.0 % ] ; P = 0.001 ) and needed additional postoperative analgesia ( 100 [ 20.0 % ] vs 50 [ 10.0 % ] ; P < 0.001 ) .
+RESULTS	Moreover , mean time to bowel movement was longer in group 1 than in group 2 ( 17.02.7 hours vs 14.01.9 hours ; P < 0.001 ) .
+CONCLUSIONS	In situ uterine closure is more advantageous than extra-abdominal repair in terms of surgery duration , postoperative pain and need for additional analgesia , and return of bowel movement .
+CONCLUSIONS	ClinicalTrials.gov : NCT01723605 .
+

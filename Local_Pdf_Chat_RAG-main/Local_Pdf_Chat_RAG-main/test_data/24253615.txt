@@ -1,0 +1,14 @@
+24253615
+BACKGROUND	Applying a direct renin inhibitor ( DRI ) to advanced stage chronic kidney disease ( CKD ) patients is a matter of controversy .
+BACKGROUND	The purpose of this study was to evaluate the effect of the DRI , aliskiren , in patients with therapy-resistant hypertension undergoing hemodialysis ( HD ) .
+METHODS	The study was a prospective , randomized multicenter trial exploring the antihypertensive effect of aliskiren in comparison with amlodipine , a calcium channel blocker , in patients undergoing HD .
+METHODS	A total of 83 participants whose blood pressure ( BP ) had previously been treated with more than one antihypertensive agent and not having achieved the BP goal of < 140/90 mmHg were randomly assigned to either aliskiren 150 mg or amlodipine 5 mg as an add-on therapy .
+RESULTS	A significant decrease in pre-dialysis clinic BP and home BP was found only in the amlodipine group and not in the aliskiren group .
+RESULTS	In contrast , there was a significant decrease in atrial natriuretic peptide ( ANP ) in the aliskiren group but not in the amlodipine group .
+RESULTS	N-terminal pro-B-type natriuretic hormone remained unchanged in both groups .
+RESULTS	Aliskiren significantly reduced angiotensin I and II , plasma renin activity , and increased plasma renin content .
+RESULTS	However , such changes were not observed in the amlodipine group .
+CONCLUSIONS	Amlodipine , not aliskiren , effectively reduces BP in CKD patients with refractory hypertension undergoing HD .
+CONCLUSIONS	Aliskiren suppresses the renin-angiotensin system and reduces ANP .
+CONCLUSIONS	Whether the DRI is beneficial in improving cardiovascular events in patients undergoing HD remains to be elucidated in future studies .
+

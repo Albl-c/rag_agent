@@ -1,0 +1,15 @@
+25440820
+OBJECTIVE	To evaluate of efficacy of transgluteal ( supine ) approach for shock wave lithotripsy ( SWL ) in treatment of distal ureteric stones .
+METHODS	This prospective , randomized , comparative study was conducted on 98 patients .
+METHODS	Patients were randomly assigned into 2 groups : group A ( n = 49 ; prone position ) and group B ( n = 49 ; supine position , transgluteal ) .
+METHODS	Inclusion criteria included patients with radiopaque lower ureteric stones 10 mm .
+METHODS	Exclusion criteria included radiolucent stones , stones > 10 mm , the need for any auxiliary procedure , and any contraindication for SWL .
+METHODS	Post-SWL evaluation included plain x-ray of kidney , ureter , and bladder at 2 weeks after treatment and then at monthly intervals after treatment for 3 months .
+METHODS	Stone-free status was defined as no residual stone fragments visible on plain x-ray .
+METHODS	Treatment failure was defined as persistence of stone fragments at 3 months or the need for ureteroscopy .
+RESULTS	Stone-free rate after 1 treatment session was achieved in 44.9 % and 75.5 % for prone and supine positions , respectively .
+RESULTS	Proceeding to ureteroscopy , after failure of the second SWL session to clear the stones , was done in 34.7 % and 8.2 % for prone and supine positions , respectively .
+RESULTS	The overall success rate for SWL treatment in prone and supine groups was 65.3 % and 91.8 % , respectively ( P < .001 ) .
+CONCLUSIONS	Transgluteal SWL while patient in supine position proved efficacy for treatment of distal ureteric stones .
+CONCLUSIONS	Larger group studies comparing the results of SWL in supine position with those of prone position and also with those of ureteroscopy may enrich our data to reach a consensus for the ideal management of distal ureteric stones .
+

@@ -1,0 +1,17 @@
+25688781
+OBJECTIVE	Gaucher disease type 1 is characterized by hepatosplenomegaly , anemia , thrombocytopenia , and skeletal disease .
+OBJECTIVE	A safe , effective oral therapy is needed .
+OBJECTIVE	To determine whether eliglustat , a novel oral substrate reduction therapy , safely reverses clinical manifestations in untreated adults with Gaucher disease type 1 .
+METHODS	Phase 3 , randomized , double-blind , placebo-controlled trial conducted at 18 sites in 12 countries from November 2009 to July 2012 among eligible patients with splenomegaly plus thrombocytopenia and/or anemia .
+METHODS	Of 72 patients screened , 40 were enrolled .
+METHODS	Patients were stratified by spleen volume and randomized 1:1 to receive eliglustat ( 50 or 100 mg twice daily ; n = 20 ) or placebo ( n = 20 ) for 9 months .
+METHODS	The primary efficacy end point was percentage change in spleen volume in multiples of normal from baseline to 9 months ; secondary efficacy end points were change in hemoglobin level and percentage changes in liver volume and platelet count .
+RESULTS	All patients had baseline splenomegaly and thrombocytopenia ( mostly moderate or severe ) , most had mild or moderate hepatomegaly , and 20 % had mild anemia .
+RESULTS	Least-square mean spleen volume decreased by 27.77 % ( 95 % CI , -32.57 % to -22.97 % ) in the eliglustat group ( from 13.89 to 10.17 multiples of normal ) vs an increase of 2.26 % ( 95 % CI , -2.54 % to 7.06 % ) in the placebo group ( from 12.50 to 12.84 multiples of normal ) for an absolute treatment difference of -30.03 % ( 95 % CI , -36.82 % to -23.24 % ; P < .001 ) .
+RESULTS	For the secondary end points , the least-square mean absolute differences between groups all favored eliglustat , with a 1.22-g / dL increase in hemoglobin level ( 95 % CI , 0.57-1 .88 g/dL ; P < .001 ) , 6.64 % decrease in liver volume ( 95 % CI , -11.37 % to -1.91 % ; P = .007 ) , and 41.06 % increase in platelet count ( 95 % CI , 23.95 % -58.17 % ; P < .001 ) .
+RESULTS	No serious adverse events occurred .
+RESULTS	One patient in the eliglustat group withdrew ( non-treatment related ) ; 39 of the 40 patients transitioned to an open-label extension study .
+CONCLUSIONS	Among previously untreated adults with Gaucher disease type 1 , treatment with eliglustat compared with placebo for 9 months resulted in significant improvements in spleen volume , hemoglobin level , liver volume , and platelet count .
+CONCLUSIONS	The clinical significance of these findings is uncertain , and more definitive conclusions about clinical efficacy and utility will require comparison with the standard treatment of enzyme replacement therapy as well as longer-term follow-up .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00891202 .
+

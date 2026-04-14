@@ -1,0 +1,11 @@
+25045152
+METHODS	Genistein from foods or supplements is metabolized by the gut microbiota and the human body , thereby releasing many different metabolites into systemic circulation .
+METHODS	The order of their appearance in plasma and the possible influence of food format are still unknown .
+METHODS	This study compared the nutrikinetic profiles of genistein metabolites .
+RESULTS	In a randomized cross-over trial , 12 healthy young volunteers were administered a single dose of 30 mg genistein provided as a genistein tablet , a genistein tablet in low fat milk , and soy milk containing genistein glycosides .
+RESULTS	A high mass resolution LC-LTQ-Orbitrap FTMS platform detected and quantified in human plasma : free genistein , seven of its phase-II metabolites and 15 gut-derived metabolites .
+RESULTS	Interestingly , a novel metabolite , genistein-4 ' - glucuronide-7-sulfate ( G-4 ` G-7S ) was identified .
+RESULTS	Nutrikinetic analysis using population-based modeling revealed the order of appearance of five genistein phase II metabolites in plasma : ( 1 ) genistein-4 ' ,7 - diglucuronide , ( 2 ) genistein-7-sulfate , ( 3 ) genistein-4 ' - sulfate-7-glucuronide , ( 4 ) genistein-4 ' - glucuronide , and ( 5 ) genistein-7-glucuronide , independent of the food matrix .
+CONCLUSIONS	The conjugated genistein metabolites appear in a distinct order in human plasma .
+CONCLUSIONS	The specific early appearance of G-4 ' ,7 - diG suggests a multistep formation process for the mono and hetero genistein conjugates , involving one or two deglucuronidation steps .
+

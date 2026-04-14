@@ -1,0 +1,15 @@
+24947817
+BACKGROUND	Urinary stone disease is common , with an estimated prevalence among the general population of 2 % to 3 % .
+BACKGROUND	Ureteric stones can cause severe pain and have a significant impact on quality of life , accounting for over 15,000 hospital admissions in England annually .
+BACKGROUND	Uncomplicated cases of smaller stones in the lower ureter are traditionally treated expectantly .
+BACKGROUND	Those who fail standard care or develop complications undergo active treatment , such as extracorporeal shock wave lithotripsy or ureteroscopy with stone retrieval .
+BACKGROUND	Such interventions are expensive , require urological expertise and carry a risk of complications.Growing understanding of ureteric function and pathophysiology has led to the hypothesis that drugs causing relaxation of ureteric smooth muscle , such as the selective - blocker tamsulosin and the calcium-channel blocker nifedipine , can enhance the spontaneous passage of ureteric stones .
+BACKGROUND	The use of drugs in augmenting stone passage , reducing the morbidity and costs associated with ureteric stone disease , is promising .
+BACKGROUND	However , the majority of clinical trials conducted to date have been small , poor to moderate quality and lacking in comprehensive economic evaluation.This trial aims to determine the clinical and cost-effectiveness of tamsulosin and nifedipine in the management of symptomatic urinary stones .
+METHODS	The SUSPEND ( Spontaneous Urinary Stone Passage ENabled by Drugs ) trial is a multicentre , double-blind , randomized controlled trial evaluating two medical expulsive therapy strategies ( nifedipine or tamsulosin ) versus placebo.Patients aged 18 to 65 with a ureteric stone confirmed by non-contrast computed tomography of the kidney , ureter and bladder will be randomized to receive nifedipine , tamsulosin or placebo ( 400 participants per arm ) for a maximum of 28days .
+METHODS	The primary clinical outcome is spontaneous passage of ureteric stones at 4weeks ( defined as no further intervention required to facilitate stone passage ) .
+METHODS	The primary economic outcome is a reduction in the incremental cost per quality-adjusted life years , determined at 12weeks .
+METHODS	The analysis will be based on all participants as randomized ( intention to treat ) .
+METHODS	The trial has 90 % power with a type I error rate of 5 % to detect a 10 % increase in primary outcome between the tamsulosin and nifedipine treatment groups .
+BACKGROUND	ISRCTN69423238 ; EudraCT number : 2010-019469-26 .
+

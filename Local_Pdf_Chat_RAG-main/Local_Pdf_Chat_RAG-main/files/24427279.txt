@@ -1,0 +1,8 @@
+24427279
+BACKGROUND	DHA is accumulated in the central nervous system ( CNS ) before birth and is involved in early developmental processes , such as neurite outgrowth and gene expression .
+OBJECTIVE	To determine whether fetal DHA insufficiency occurs and constrains CNS development in term gestation infants .
+METHODS	A risk reduction model using a randomized prospective study of term gestation single birth healthy infants born to women ( n = 270 ) given a placebo or 400 mg/day DHA from 16 wk gestation to delivery .
+METHODS	Fetal DHA deficiency sufficient to constrain CNS development was assessed based on increased risk that infants in the placebo group would not achieve neurodevelopment scores in the top quartile of all infants in the study .
+RESULTS	Infants in the placebo group were at increased risk of lower language development assessed as words understood ( OR 3.22 , CL 1.49-6 .94 , P = 0.002 ) and produced ( OR 2.61 , CL 1.22-5 .58 , P = 0.01 ) at 14 mo , and words understood ( OR 2.77 , CL 1.23-6 .28 , P = 0.03 ) and sentences produced ( OR 2.60 , CL 1.15-5 .89 , P = 0.02 ) at 18 mo using the McArthur Communicative Developmental Inventory ; receptive ( OR 2.23 , CL 1.08-4 .60 , P = 0.02 ) and expressive language ( OR 1.89 , CL 0.94-3 .83 , P = 0.05 ) at 18 mo using the Bayley Scales of Infant Development III ; and visual acuity ( OR 2.69 , CL 1.10-6 .54 , P = 0.03 ) at 2 mo. .
+BACKGROUND	ClinicalTrials.gov NCT00620672 .
+

@@ -1,0 +1,15 @@
+25488088
+OBJECTIVE	To determine the optimum mode of delivery for women in preterm breech labour at a gestational age of 26 to 32 weeks .
+METHODS	A multicentre randomised controlled trial .
+METHODS	Twenty-six hospitals in England , UK .
+METHODS	Women with a singleton breech fetus in spontaneous preterm labour between 26 and 32 completed weeks of gestation , with no clear indication for a caesarean section or vaginal breech delivery .
+METHODS	Random allocation to either ` intention to delivery vaginally ' or ` intention to deliver by caesarean section ' .
+METHODS	Perinatal mortality , neonatal morbidity , maternal morbidity and gestation at delivery .
+RESULTS	The trial was closed after 17 months because of low recruitment , by which time substantial numbers of women had been in the eligible gestation period .
+RESULTS	Thirteen women from six hospitals were recruited .
+RESULTS	One infant , randomised to and delivered vaginally , was stillborn .
+RESULTS	Three fetal presentations were cephalic at delivery despite a diagnosis of breech presentation at trial entry .
+RESULTS	No formal statistical analysis was performed due to the small numbers .
+CONCLUSIONS	No conclusions about the optimum mode of delivery for women in preterm labour with a fetus presenting by the breech can be drawn from this trial .
+CONCLUSIONS	The low accrual rate was due to clinicians ' reluctance to randomise eligible women , reflecting the circumstances and nature of the trial .
+

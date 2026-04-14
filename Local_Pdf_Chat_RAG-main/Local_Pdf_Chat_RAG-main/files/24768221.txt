@@ -1,0 +1,13 @@
+24768221
+BACKGROUND	Minimally invasive plate osteosynthesis for humeral shaft fractures has been described recently , but there are no randomized studies comparing the clinical results for shoulder function between this technique and locking intramedullary nailing .
+METHODS	A prospective randomized study was performed .
+METHODS	Forty-one humeral shaft fractures ( 40 patients ) were randomized to be treated with a minimally invasive plate ( n = 21 ) or a locking intramedullary nail ( n = 19 ) .
+METHODS	Clinical and radiographic outcome assessments were conducted at 1year postoperatively .
+METHODS	Shoulder function was the primary outcome , as measured by the University of California , Los Angeles Shoulder Scale .
+METHODS	Elbow function was measured by the Broberg-Morrey score , and fracture consolidation and complications were the main secondary outcomes .
+RESULTS	At 1year postoperatively , no significant difference was found with regard to shoulder function according to the University of California , Los Angeles scale between the minimally invasive plate and locking intramedullary nail ( 31.4 points vs 31.2 points , P = .98 ) .
+RESULTS	There was also no difference in elbow function ( 94.8 points vs 94.1 points , P = .96 ) .
+RESULTS	Complications were similar between the groups , without significant differences regarding infection ( P > .99 ) , symptomatic shoulder stiffness ( P = .488 ) , and neurapraxia of the lateral cutaneous nerve of the forearm ( P = .475 ) .
+RESULTS	Fracture union was achieved in all but 1 patient ( 2.4 % ) in the intramedullary nail group within 1year after the surgical procedure .
+CONCLUSIONS	There is no significant difference in shoulder function between antegrade intramedullary nailing and minimally invasive plate osteosynthesis for the treatment of displaced humeral shaft fractures , despite the limited power of our study .
+

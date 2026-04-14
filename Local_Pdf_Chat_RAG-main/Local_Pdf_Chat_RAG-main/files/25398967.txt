@@ -1,0 +1,13 @@
+25398967
+BACKGROUND	Vitamin D supplementation may be an inexpensive intervention to reduce heart failure ( HF ) incidence .
+BACKGROUND	However , there are insufficient data to support this hypothesis .
+BACKGROUND	This study evaluates whether vitamin D plus calcium ( CaD ) supplementation is associated with lower rates of HF in postmenopausal women and whether the effects differ between those at high versus low risk for HF .
+RESULTS	Analyses were restricted to 35 983 ( of original 36 282 ) women aged 50 to 79 years old in the Women 's Health Initiative randomized trial of CaD supplementation who were randomized 1:1 in a double-blinded fashion to receive 1000 mg/d of calcium plus 400 IU/d of vitamin D3 or placebo .
+RESULTS	Overall , 744 adjudicated incident HF cases ( intervention , 363 ; control , 381 ) occurred during a median follow-up of 7.1 ( interquartile range , 1.6 ) years .
+RESULTS	CaD supplementation , compared with placebo , was not associated with reduced HF risk in the overall population , hazard ratio , 0.95 ; P = 0.46 .
+RESULTS	However , CaD supplementation had differential effects ( P interaction = 0.005 ) in subgroups stratified by baseline risk status of HF defined by the presence ( high risk = 17 449 ) or absence ( low risk = 18 534 ) of pre-existing HF precursors including coronary heart diseases , diabetes mellitus , or hypertension : 37 % ( hazard ratio , 0.63 [ 95 % confidence interval , 0.46-0 .87 ] ) lower risk of HF in the low-risk versus hazard ratio , 1.06 ; P = 0.51 , in the high-risk subgroups .
+CONCLUSIONS	CaD supplementation did not significantly reduce HF incidence in the overall cohort , however , it was beneficial among postmenopausal women without major HF precursors while of little value in high-risk subgroups .
+CONCLUSIONS	Additional studies are warranted to confirm these findings and investigate the underlying mechanism .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00000611 .
+

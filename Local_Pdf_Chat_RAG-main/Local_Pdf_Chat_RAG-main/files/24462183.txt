@@ -1,0 +1,9 @@
+24462183
+BACKGROUND	The PLATINUM randomized trial enrolled 1530 patients treated with either the platinum chromium PROMUS Element everolimus-eluting stent ( PtCr-EES ; Boston Scientific , Natick , MA , USA ) or the predicate cobalt chromium PROMUS/XIENCE V EES ( CoCr-EES ; manufactured as XIENCE V by Abbott Vascular , Santa Clara , CA , USA also distributed as PROMUS by Boston Scientific ) , including 124 patients from Japanese sites .
+BACKGROUND	This substudy examines 2-year outcomes in the Japanese and non-Japanese cohorts .
+METHODS	Patients with 1 or 2 de novo native coronary artery lesions ( baseline vessel diameter 2.50 mm to 4.25 mm and length 24mm ) were randomized 1:1 to PtCr-EES ( N = 63 patients in Japan ) versus CoCr-EES ( N = 61 patients in Japan ) .
+RESULTS	Several significant differences were noted in baseline demographics , lesion characteristics , and procedural technique between Japanese and non-Japanese patients , including longer fluoroscopy time , less use of contrast , and greater post-dilatation usage and maximum pressure in Japan .
+RESULTS	Dual antiplatelet usage at 2 years was also higher in Japan .
+RESULTS	Despite these differences , the 2-year rates of target lesion failure were comparable in patients treated with PtCr-EES and CoCr-EES both in Japan ( 3.2 % vs 5.0 % respectively , p = 0.68 ) and outside Japan ( 4.7 % vs 5.9 % respectively , p = 0.33 ; p for interaction = 0.82 ) .
+CONCLUSIONS	This PLATINUM study subanalysis suggests that the PtCr-EES and CoCr-EES provide comparable safety and efficacy in both Japanese and non-Japanese patients .
+

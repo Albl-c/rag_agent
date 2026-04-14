@@ -1,0 +1,19 @@
+24535356
+OBJECTIVE	To explore a new method of patient-involved digital design , esthetic outcome prediction and fabrication for the esthetic rehabilitation of anterior teeth , and to provide an alternative choice for the restoration of anterior teeth .
+METHODS	In this study , 32 patients with esthetic problems in their anterior teeth were included and divided into two groups randomly : the experimental group ( 16 patients ) and control group ( 16 patients ) .
+METHODS	In the experimental group , the dentition and facial images were obtained by intra-oral scanning and Three-dimensional ( 3D ) facial scanning and then calibrated .
+METHODS	The design of the rehabilitation and the esthetic outcome prediction were created by computer-aided design ( CAD ) software .
+METHODS	After morphologic modification according to the patients ' opinions , prostheses were fabricated according to the final design by computer-aided manufacturing ( CAM ) equipment .
+METHODS	As for the control group , the regular design method was applied to restore their anterior teeth .
+METHODS	The time consuming in the first insertion of each restoration in both groups was recorded .
+METHODS	The quality of the prostheses was assessed by another prosthedontist .
+METHODS	The satisfaction to prostheses and the facial appearance were evaluated by the patients .
+RESULTS	The process of the patient-involved digital design and outcome anticipation was successfully established .
+RESULTS	The patients were satisfied with the esthetic effects of the anterior restoration made by the digital technique .
+RESULTS	The acceptance rate of the patients on the digital rehabilitation in the experimental group was 100 % .
+RESULTS	There was no significant difference of the quality of the prostheses between the two groups .
+RESULTS	The satisfaction rate of the patients on prostheses and facial appearance was significantly higher in the experimental group than in the control group ( P < 0.05 ) .
+RESULTS	In addition , the time consuming in the first insertion of the experimental group was much shorter than that in the control group ( P < 0.01 ) .
+CONCLUSIONS	The new method of the patient-involved digital design , esthetic outcome prediction and fabrication for the esthetic rehabilitation of anterior teeth is a practical technique .
+CONCLUSIONS	This method is useful in shortening the time consuming of the restoration of anterior teeth and improving the patient satisfaction with the esthetic outcome .
+

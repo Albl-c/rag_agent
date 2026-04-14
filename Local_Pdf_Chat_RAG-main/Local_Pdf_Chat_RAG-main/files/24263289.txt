@@ -1,0 +1,21 @@
+24263289
+BACKGROUND	Accurately estimating the period of time that individuals are exposed to online intervention content is important for understanding program engagement .
+BACKGROUND	This can be calculated from time-stamped data reflecting navigation to and from individual webpages .
+BACKGROUND	Prolonged periods of inactivity are commonly handled with a time-out feature and assigned a prespecified exposure duration .
+BACKGROUND	Unfortunately , this practice can lead to biased results describing program exposure .
+OBJECTIVE	The aim of the study was to describe how multiple imputations can be used to better account for the time spent viewing webpages that result in a prolonged period of inactivity or a time-out .
+METHODS	To illustrate this method , we present data on time-outs collected from the Q ( 2 ) randomized smoking cessation trial .
+METHODS	For this analysis , we evaluate the effects on intervention exposure of receiving content written in a prescriptive versus motivational tone .
+METHODS	Using multiple imputations , we created five complete datasets in which the time spent viewing webpages that resulted in a time-out were replaced with values estimated with imputation models .
+METHODS	We calculated standard errors using Rubin 's formulas to account for the variability due to the imputations .
+METHODS	We also illustrate how current methods of accounting for time-outs ( excluding timed-out page views or assigning an arbitrary viewing time ) can influence conclusions about participant engagement .
+RESULTS	A total of 63.00 % ( 1175/1865 ) of participants accessed the online intervention in the Q ( 2 ) trial .
+RESULTS	Of the 6592 unique page views , 683 ( 10.36 % , 683/6592 ) resulted in a time-out .
+RESULTS	The median time spent viewing webpages that did not result in a time-out was 1.07 minutes .
+RESULTS	Assuming participants did not spend any time viewing a webpage that resulted in a time-out , no difference between the two message tones was observed ( ratio of mean time online : 0.87 , 95 % CI 0.75-1 .02 ) .
+RESULTS	Assigning 30 minutes of viewing time to all page views that resulted in a time-out concludes that participants who received content in a motivational tone spent less time viewing content ( ratio of mean time online : 0.86 , 95 % CI 0.77-0 .98 ) than those participants who received content in a prescriptive tone .
+RESULTS	Using multiple imputations to account for time-outs concludes that there is no difference in participant engagement between the two message tones ( ratio of mean time online : 0.87 ; 95 % CI 0.75-1 .01 ) .
+CONCLUSIONS	The analytic technique chosen can significantly affect conclusions about online intervention engagement .
+CONCLUSIONS	We propose a standardized methodology in which time spent viewing webpages that result in a time-out is treated as missing information and corrected with multiple imputations .
+BACKGROUND	Clinicaltrials.gov NCT00992264 ; http://clinicaltrials.gov/ct2/show/NCT00992264 ( Archived by WebCite at http://www.webcitation.org/6Kw5m8EkP ) .
+

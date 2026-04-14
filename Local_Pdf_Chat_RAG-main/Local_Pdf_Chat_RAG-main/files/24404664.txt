@@ -1,0 +1,13 @@
+24404664
+OBJECTIVE	The antiseptic effectiveness of 5 % anerdian III , 0.016 % gentamicin , and 0.5 % tobramycin solutions in pre-surgical irrigation of conjunctival sac were compared .
+METHODS	A total of 295 cataract patients ( 302 eyes ) who had undergone phacoemulsification aspiration combined with intraocular lens insertion ( IOL ) were recruited in this prospective study .
+METHODS	Operative eyes were given 0.3 % levofloxacin eye drops for 3 days and then were randomized into three treatment groups : anerdian ( A ) , gentamicin ( B ) and tobramycin ( C ) .
+METHODS	The patients received conjunctival sac irrigation using the respective solutions at 10 minutes preoperatively .
+METHODS	Conjunctival sac sampling was performed before and after irrigation and the samples were used for subsequent bacterial culture and swab tests .
+METHODS	The positive culture rate was used as the main outcome .
+RESULTS	The positive rates of bacterial culture before conjunctival sac irrigation were 17.31 % ( 18 eyes ) in group A , 13.86 % ( 14 eyes ) in group B and 17.3 % ( 14 eyes ) in group C. Post irrigation , the positive rates in the three groups decreased to 5.76 % ( 6 eyes ) , 5.94 % ( 6 eyes ) and 7.22 % ( 7 eyes ) , respectively .
+RESULTS	The positive rates among the three groups did not differ significantly .
+RESULTS	However , the positive rate in group A only significantly differed before and after the irrigation ( P < 0.05 ) .
+RESULTS	No toxic or allergic reactions were observed on the ocular surface of any patient after irrigation .
+CONCLUSIONS	The antiseptic effects of the three types of con junctival sac irrigations did not differ .
+

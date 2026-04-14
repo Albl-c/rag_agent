@@ -1,0 +1,9 @@
+25288513
+BACKGROUND	Current research suggests that glucose facilitates performance on cognitive tasks which possess an episodic memory component and a relatively high level of cognitive demand .
+BACKGROUND	However , the extent to which this glucose facilitation effect is uniform across the lifespan is uncertain .
+METHODS	This study was a repeated measures , randomised , placebo-controlled , cross-over trial designed to assess the cognitive effects of glucose in younger and older adults under single and dual task conditions .
+METHODS	Participants were 24 healthy younger ( average age 20.6 years ) and 24 healthy older adults ( average age 72.5 years ) .
+METHODS	They completed a recognition memory task after consuming drinks containing 25 g glucose and a placebo drink , both in the presence and absence of a secondary tracking task .
+CONCLUSIONS	Glucose enhanced recognition memory response time and tracking precision during the secondary task , in older adults only .
+CONCLUSIONS	These findings do not support preferential targeting of hippocampal function by glucose , rather they suggest that glucose administration differentially increases the availability of attentional resources in older individuals .
+

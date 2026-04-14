@@ -1,0 +1,12 @@
+25168034
+BACKGROUND	Relatively few treatment programs have been developed specifically for smokeless tobacco ( ST ) users who want to quit .
+BACKGROUND	Their results suggest that self-help materials , telephone counseling , and nicotine lozenges are efficacious .
+BACKGROUND	This study provides the first direct examination of the separate and combined effects of telephone counseling and lozenges .
+METHODS	We recruited ST users online ( N = 1067 ) and randomly assigned them to 1 of 3 conditions : ( a ) a lozenge group ( n = 356 ) , who were mailed 4-mg nicotine lozenges ; ( b ) a coach calls group ( n = 354 ) , who were offered 3 coaching phone calls ; or ( c ) a lozenge + coach calls group ( N = 357 ) , who received both lozenges and coaching calls .
+METHODS	Additionally , all participants were mailed self-help materials .
+METHODS	Self-reported tobacco abstinence was assessed at 3 and 6 months after randomization .
+RESULTS	Complete-case and intention-to-treat ( ITT ) analyses for all tobacco abstinence were performed at 3 months , 6 months , and both 3 and 6 months ( repeated point prevalence ) .
+RESULTS	ITT analyses revealed a highly similar result : the lozenge + coach calls condition was significantly more successful in encouraging tobacco abstinence than either the lozenge group or the coach calls group , which did not differ .
+CONCLUSIONS	Combining nicotine lozenges and phone counseling significantly increased tobacco abstinence rates compared with either intervention alone , whereas coach calls and lozenges were equivalent .
+CONCLUSIONS	The study confirms the high tobacco abstinence rates for self-help ST cessation interventions and offers guidance to providing tobacco treatment to ST users .
+

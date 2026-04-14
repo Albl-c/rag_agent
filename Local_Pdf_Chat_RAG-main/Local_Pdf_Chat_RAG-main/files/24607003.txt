@@ -1,0 +1,14 @@
+24607003
+BACKGROUND	New vaccines containing highly conserved Streptococcus pneumoniae proteins such as pneumolysin toxoid ( dPly ) and histidine-triad protein D ( PhtD ) are being developed to provide broader protection against pneumococcal disease .
+BACKGROUND	This study evaluated the safety , reactogenicity and immunogenicity of different pneumococcal protein-containing formulations in adults .
+METHODS	In a phase I double-blind study ( www.clinicaltrials.gov : NCT00707798 ) , healthy adults ( 18-40 years ) were randomized ( 1:2:2:2:2:2:2 ) to receive two doses of one of six investigational vaccine formulations 2 months apart , or a single dose of the control 23-valent pneumococcal polysaccharide vaccine ( 23PPV ; Pneumovax23 , Sanofi Pasteur MSD ) followed by placebo .
+METHODS	The investigational formulations contained dPly alone ( 10 or 30 g ) , or both dPly and PhtD ( 10 or 30 g each ) alone or combined with the polysaccharide conjugates of the 10-valent pneumococcal non-typeable Haemophilus influenzae protein D conjugate vaccine ( PHiD-CV ; Synflorix , GlaxoSmithKline Vaccines ) .
+METHODS	Two groups primed with a formulation containing dPly and PhtD ( 10 or 30 g each ) continued to the follow-up phase II study ( NCT00896064 ) , in which they received a booster dose at 5-9 months after primary vaccination .
+RESULTS	Of 156 enrolled and vaccinated adults , 146 completed the primary immunization and 43 adults received a booster dose .
+RESULTS	During primary and booster vaccination , for any formulation , 8.9 % of doses were followed by grade 3 solicited local or general adverse events .
+RESULTS	No fever > 39.5 C ( oral temperature ) was reported .
+RESULTS	Unsolicited adverse events considered causally related to vaccination were reported following 33.3 % of investigational vaccine doses .
+RESULTS	No serious adverse events were reported for adults receiving investigational vaccine formulations .
+RESULTS	Formulations containing dPly with or without PhtD were immunogenic for these antigens ; polysaccharide conjugate-containing formulations were also immunogenic for those 10 polysaccharides .
+CONCLUSIONS	Investigational vaccine formulations containing dPly and PhtD were well tolerated and immunogenic when administered to healthy adults as standalone protein vaccine or combined with PHiD-CV conjugates .
+

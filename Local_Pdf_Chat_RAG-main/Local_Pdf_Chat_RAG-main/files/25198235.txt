@@ -1,0 +1,11 @@
+25198235
+OBJECTIVE	To examine the effects of a ten week deadlift training program on peak torque and agonist-antagonist coactivation .
+METHODS	Fifty-four untrained subjects ( mean age = 23 years ) participated in this investigation , and were randomly assigned to a training ( males , n = 17 ; females , n = 17 ) or control ( males , n = 9 ; females , n = 11 ) group .
+METHODS	The subjects in the training group performed deadlifts twice per week .
+METHODS	Isometric peak torque for the leg extensors and flexors and surface electromyographic ( EMG ) amplitude for the superficial quadriceps and biceps femoris muscles were assessed .
+RESULTS	Deadlift training increased leg extension peak torque for the males ( P = .008 , Cohen 's d = 0.43 ) and females ( P = .003 , d = 0.48 ) .
+RESULTS	Leg flexion peak torque improved for the females ( P = .001 , d = 0.45 ) .
+RESULTS	Increased EMG amplitude for the superficial quadriceps femoris muscles when they served as agonists was demonstrated for the females ( P = .010 , d = 0.40 ) , but not the males ( P = .059 , d = 0.20 ) .
+RESULTS	For both sexes , the effect sizes for the decline in biceps femoris coactivation were large .
+CONCLUSIONS	Deadlift training elicited improvements in strength and agonist-antagonist coactivation in untrained subjects , and particularly , novice females .
+

@@ -1,0 +1,14 @@
+25450879
+BACKGROUND	Neoangiogenesis is particularly abundant in small-cell lung cancer ( SCLC ) and is associated with poor prognosis .
+BACKGROUND	As a result of the promising nature of phase II studies , a randomized phase III trial was designed to assess the efficacy of adding bevacizumab to first-line chemotherapy with cisplatin-etoposide for treatment of extensive disease SCLC .
+BACKGROUND	We present the treatment rationale and study design of GOIRC trial ( FARM6PMFJM study ) , a multicenter randomized phase III study , supported by AIFA ( Agenzia Italiana del Farmaco ) .
+METHODS	Patients are randomized to receive either cisplatin 25 mg/m ( 2 ) and etoposide 100 mg/m ( 2 ) intravenously on days 1 to 3 ( control arm ) or the same chemotherapy combined with bevacizumab 7.5 mg/kg intravenously on day 1 ( experimental arm ) .
+METHODS	Treatment is repeated every 3 weeks and for a maximum of 6 courses .
+METHODS	Patients randomized to the experimental arm in the absence of disease progression after 6 cycles continue bevacizumab alone until progression or for a maximum of 18 courses .
+METHODS	Tumor assessment is done every 3 cycles .
+METHODS	Major eligibility criteria are : age 18 years ; histologically or cytologically documented extensive disease SCLC ; Eastern Cooperative Oncology Group performance status 2 ; adequate hematological , hepatic and renal functions ; no history of grade 2 or higher hemoptysis ; and no evidence of tumor cavitation .
+METHODS	The primary end point of this study is overall survival .
+METHODS	Secondary end points include response rate , time to progression , and toxicity .
+CONCLUSIONS	An interim futility analysis was performed by an Independent Data Monitoring Committee in September 2013 and the trial obtained approval to continue .
+CONCLUSIONS	As of July 31 , 2014 , 171 patients of 206 planned have been randomized .
+

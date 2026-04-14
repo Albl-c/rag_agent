@@ -1,0 +1,15 @@
+24597699
+BACKGROUND	Various treatments are available for reducible unstable fractures of the distal radius , such as closed reduction combined with fixation by external fixator ( EF ) , and rigid internal fixation using a locked volar plate ( VP ) .
+BACKGROUND	Although there are studies comparing these methods , there is no conclusive evidence indicating which treatment is best .
+BACKGROUND	The hypothesis of this study is that surgical treatment with a VP is more effective than EF from the standpoint of functional outcome ( patient-reported ) .
+METHODS	The study is randomized clinical trial with parallel groups and a blinded evaluator and involves the surgical interventions EF and VP .
+METHODS	Patients will be randomly assigned ( assignment ratio 1:1 ) using sealed opaque envelopes .
+METHODS	This trial will include consecutive adult patients with an acute ( up to 15 days ) displaced , unstable fracture of the distal end of the radius of type A2 , A3 , C1 , C2 or C3 by the Arbeitsgemeinschaft fr Osteosynthesefragen-Association for the Study of Internal Fixation classification and type II or type III by the IDEAL32 classification , without previous surgical treatments of the wrist .
+METHODS	The surgical intervention assigned will be performed by three surgical specialists familiar with the techniques described .
+METHODS	Evaluations will be performed at 2 , and 8 weeks , 3 , 6 and 12 months , with the primary outcomes being measured by the Disabilities of the Arm , Shoulder and Hand ( DASH ) questionnaire and measurement of pain ( Visual Analog Pain Scale and digital algometer ) .
+METHODS	Secondary outcomes will include radiographic parameters , objective functional evaluation ( goniometry and dynamometry ) , and the rate of complications and method failure according to the intention-to-treat principle .
+METHODS	Final postoperative evaluations ( 6 and 12 months ) will be performed by independent blinded evaluators .
+METHODS	For the Student 's t-test , a difference of 10 points in the DASH score , with a 95 % confidence interval , a statistical power of 80 % , and 20 % sampling error results in 36 patients per group .
+CONCLUSIONS	Results from this study protocol will improve the current evidence regarding to the surgical treatment these fractures .
+BACKGROUND	ISCRTN09599740 .
+

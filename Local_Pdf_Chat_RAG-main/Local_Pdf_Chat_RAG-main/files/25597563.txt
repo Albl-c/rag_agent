@@ -1,0 +1,12 @@
+25597563
+OBJECTIVE	To examine the association between blood pressure ( BP ) measures and symptoms of apathy and depression in older adults with various levels of functional ability .
+METHODS	Cross-sectional study using baseline data from the Discontinuation of Antihypertensive Treatment in Elderly people ( DANTE ) Study Leiden .
+METHODS	Primary care setting , the Netherlands .
+METHODS	Community-dwelling individuals aged 75 and older ( N = 430 ) .
+METHODS	Systolic BP ( SBP ) , diastolic BP ( DBP ) , and mean arterial pressure ( MAP ) were measured during home visits .
+METHODS	Symptoms of apathy and depression were assessed using the Apathy Scale and the Geriatric Depression Scale ( GDS-15 ) , respectively .
+METHODS	Stratified linear regression was performed in participants with better and worse functional ability according to the median of the Groningen Activity Restriction Scale .
+RESULTS	In participants with lower functional ability , each 10-mmHg lower SBP , DBP , and MAP was associated with higher Apathy Scale scores ( 0.63 , 0.92 , and 0.94 points , respectively , all P < .005 ) but not with GDS-15 scores .
+RESULTS	In participants with higher functional ability , BP measures were not associated with Apathy Scale or GDS-15 scores .
+CONCLUSIONS	In older participants with poorer functional ability , lower BP was associated with more symptoms of apathy but not depression .
+

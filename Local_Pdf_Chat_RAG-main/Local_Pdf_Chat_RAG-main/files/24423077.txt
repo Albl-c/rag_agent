@@ -1,0 +1,16 @@
+24423077
+BACKGROUND	Uncertainty exists regarding the optimal method to estimate glomerular filtration rate ( GFR ) for disease detection and monitoring .
+BACKGROUND	Widely used GFR estimates have not been validated in British ethnic minority populations .
+METHODS	Iohexol measured GFR will be the reference against which each estimating equation will be compared .
+METHODS	The estimating equations will be based upon serum creatinine and/or cystatin C.
+METHODS	The eGFR-C study has 5 components : 1 ) A prospective longitudinal cohort study of 1300 adults with stage 3 chronic kidney disease followed for 3 years with reference ( measured ) GFR and test ( estimated GFR [ eGFR ] and urinary albumin-to-creatinine ratio ) measurements at baseline and 3 years .
+METHODS	Test measurements will also be undertaken every 6 months .
+METHODS	The study population will include a representative sample of South-Asians and African-Caribbeans .
+METHODS	People with diabetes and proteinuria ( ACR 30 mg/mmol ) will comprise 20-30 % of the study cohort .2 ) A sub-study of patterns of disease progression of 375 people ( 125 each of Caucasian , Asian and African-Caribbean origin ; in each case containing subjects at high and low risk of renal progression ) .
+METHODS	Additional reference GFR measurements will be undertaken after 1 and 2 years to enable a model of disease progression and error to be built .3 ) A biological variability study to establish reference change values for reference and test measures .4 ) A modelling study of the performance of monitoring strategies on detecting progression , utilising estimates of accuracy , patterns of disease progression and estimates of measurement error from studies 1 ) , 2 ) and 3 ) .5 ) A comprehensive cost database for each diagnostic approach will be developed to enable cost-effectiveness modelling of the optimal strategy.The performance of the estimating equations will be evaluated by assessing bias , precision and accuracy .
+METHODS	Data will be modelled as a linear function of time utilising all available ( maximum 7 ) time points compared with the difference between baseline and final reference values .
+METHODS	The percentage of participants demonstrating large error with the respective estimating equations will be compared .
+METHODS	Predictive value of GFR estimates and albumin-to-creatinine ratio will be compared amongst subjects that do or do not show progressive kidney function decline .
+CONCLUSIONS	The eGFR-C study will provide evidence to inform the optimal GFR estimate to be used in clinical practice .
+BACKGROUND	ISRCTN42955626 .
+

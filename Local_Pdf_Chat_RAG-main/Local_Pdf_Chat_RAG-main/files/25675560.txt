@@ -1,0 +1,11 @@
+25675560
+OBJECTIVE	To observe the effects of electroacupuncture at Neiguan ( PC 6 ) and Jianshi ( PC 5 ) com - bined with granisetron on nausea and vomiting as well as serum levels of 5-hydroxy tryptamine ( 5-HT ) and dopamine ( DA ) in chemotherapy patients .
+METHODS	Seventy-two chemotherapy patients who met the inclusive criteria were randomly divided into an observation group ( 38 cases ) and a control group ( 34 cases ) .
+METHODS	The patients in the observation group were treated with electroacupuncture at Neiguan ( PC 6 ) and Jianshi ( PC 5 ) combined with granisetron injection ; the patients in the control group were treated with electroacupuncture at sham-point 1 and sham - point 2 , and the rest treatment was identical to the observation group .
+METHODS	After 3-day treatment , the clinical indices including times of vomiting and severity of nausea , etc. were observed in the two groups .
+RESULTS	( 1 ) At the acute stage within 24 h , the times of vomiting in the two groups were not significantly different ( P > 0.05 ) ; at the delay stage , the severity of nausea was significantly higher in the control group ( P < 0.05 ) .
+RESULTS	( 2 ) As for the comprehensive efficacy and rate of complete control , there was no obvious difference between the two groups at the acute stage ( P > 0.05 ) ; while in the delay stage , the rate of complete control in the observation group was superior to that in the control group ( P < 0.01 ) .
+RESULTS	( 3 ) Compared before and after the treatment , serum levels of 5-HT and DA were evidently reduced in the observation group ( both P < 0.05 ) , while those in the control group were not significantly changed after treatment ( both P > 0.05 ) .
+CONCLUSIONS	Electroacupuncture at Neiguan ( PC 6 ) and Jianshi ( PC 5 ) combined with granisetron could obviously relieve the nausea in chemotherapy patients at the delay stage .
+CONCLUSIONS	The effect mechanism is possibly related to reducing the content of 5-HIT nndl nA
+

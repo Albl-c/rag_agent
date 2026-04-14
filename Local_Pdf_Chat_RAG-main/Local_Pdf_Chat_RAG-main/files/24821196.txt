@@ -1,0 +1,14 @@
+24821196
+BACKGROUND	The N-methyl-D-aspartate glutamate receptor antagonist ketamine , delivered via an intravenous route , has shown rapid antidepressant effects in patients with treatment-resistant depression .
+BACKGROUND	The current study was designed to test the safety , tolerability , and efficacy of intranasal ketamine in patients with depression who had failed at least one prior antidepressant trial .
+METHODS	In a randomized , double-blind , crossover study , 20 patients with major depression were randomly assigned , and 18 completed 2 treatment days with intranasal ketamine hydrochloride ( 50 mg ) or saline solution .
+METHODS	The primary efficacy outcome measure was change in depression severity 24 hours after ketamine or placebo , measured using the Montgomery-sberg Depression Rating Scale .
+METHODS	Secondary outcomes included persistence of benefit , changes in self-reports of depression , changes in anxiety , and proportion of responders .
+METHODS	Potential psychotomimetic , dissociative , hemodynamic , and general adverse effects associated with ketamine were also measured .
+RESULTS	Patients showed significant improvement in depressive symptoms at 24 hours after ketamine compared to placebo ( t = 4.39 , p < .001 ; estimated mean Montgomery-sberg Depression Rating Scale score difference of 7.6 3.7 ; 95 % confidence interval , 3.9-11 .3 ) .
+RESULTS	Response criteria were met by 8 of 18 patients ( 44 % ) 24 hours after ketamine administration compared with 1 of 18 ( 6 % ) after placebo ( p = .033 ) .
+RESULTS	Intranasal ketamine was well tolerated with minimal psychotomimetic or dissociative effects and was not associated with clinically significant changes in hemodynamic parameters .
+CONCLUSIONS	This study provides the first controlled evidence for the rapid antidepressant effects of intranasal ketamine .
+CONCLUSIONS	Treatment was associated with minimal adverse effects .
+CONCLUSIONS	If replicated , these findings may lead to novel approaches to the pharmacologic treatment of patients with major depression .
+

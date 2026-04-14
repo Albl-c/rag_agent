@@ -1,0 +1,13 @@
+25407792
+BACKGROUND	In type 2 diabetes , acute hyperglycemia worsens endothelial function and inflammation , while resistance to GLP-1 action occurs .
+BACKGROUND	All these phenomena seem to be related to the generation of oxidative stress .
+BACKGROUND	A Mediterranean diet , supplemented with olive oil , increases plasma antioxidant capacity , suggesting that its implementation can have a favorable effect on the aforementioned phenomena .
+BACKGROUND	In the present study , we test the hypothesis that a Mediterranean diet using olive oil can counteract the effects of acute hyperglycemia and can improve the resistance of the endothelium to GLP-1 action .
+METHODS	Two groups of type 2 diabetic patients , each consisting of twelve subjects , participated in a randomized trial for three months , following a Mediterranean diet using olive oil or a control low-fat diet .
+METHODS	Plasma antioxidant capacity , endothelial function , nitrotyrosine , 8-iso-PGF2a , IL-6 and ICAM-1 levels were evaluated at baseline and at the end of the study .
+METHODS	The effect of GLP-1 during a hyperglycemic clamp , was also studied at baseline and at the end of the study .
+RESULTS	Compared to the control diet , the Mediterranean diet increased plasma antioxidant capacity and improved basal endothelial function , nitrotyrosine , 8-iso-PGF2a , IL-6 and ICAM-1 levels .
+RESULTS	The Mediterranean diet also reduced the negative effects of acute hyperglycemia , induced by a hyperglycemic clamp , on endothelial function , nitrotyrosine , 8-iso-PGF2a , IL-6 and ICAM-1 levels .
+RESULTS	Furthermore , the Mediterranean diet improved the protective action of GLP-1 on endothelial function , nitrotyrosine , 8-iso-PGF2a , IL-6 and ICAM-1 levels , also increasing GLP-1-induced insulin secretion .
+CONCLUSIONS	These data suggest that the Mediterranean diet , using olive oil , prevents the acute hyperglycemia effect on endothelial function , inflammation and oxidative stress , and improves the action of GLP-1 , which may have a favorable effect on the management of type 2 diabetes , particularly for the prevention of cardiovascular disease .
+

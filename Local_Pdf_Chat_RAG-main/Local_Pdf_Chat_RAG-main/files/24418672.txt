@@ -1,0 +1,12 @@
+24418672
+OBJECTIVE	To determine whether a single bout of resistance exercise produces an analgesic effect in individuals with knee osteoarthritis ( OA ) .
+METHODS	Eleven participants with knee OA ( 65.9 10.4 yrs ) , and 11 old ( 61.3 8.2 yrs ) and 11 young ( 25.0 4.9 yrs ) healthy adults performed separate bouts of upper and lower body resistance exercise .
+METHODS	Baseline and post-exercise pressure pain thresholds were measured at eight sites across the body and pressure pain tolerance was measured at the knee .
+RESULTS	Pressure pain thresholds increased following exercise for all three groups , indicating reduced pain sensitivity .
+RESULTS	For the young and old healthy groups this exercise-induced analgesia ( EIA ) occurred following upper or lower body resistance exercise .
+RESULTS	In contrast , only upper body exercise significantly raised pain thresholds in the knee OA group , with variable non-significant effects following lower body exercise .
+RESULTS	Pressure pain tolerance was unchanged in all groups following either upper or lower body exercise .
+CONCLUSIONS	An acute bout of upper or lower body exercise evoked a systemic decrease in pain sensitivity in healthy individuals irrespective of age .
+CONCLUSIONS	The decreased pain sensitivity following resistance exercise can be attributed to changes in pain thresholds , not pain tolerance .
+CONCLUSIONS	While individuals with knee OA experienced EIA , a systemic decrease in pain sensitivity was only evident following upper body exercise .
+

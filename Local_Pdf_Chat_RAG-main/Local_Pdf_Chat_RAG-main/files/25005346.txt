@@ -1,0 +1,15 @@
+25005346
+BACKGROUND	Guidelines for SPECT myocardial perfusion imaging ( MPI ) traditionally recommend a fixed tracer dose .
+BACKGROUND	Yet , clinical practice shows degraded image quality in heavier patients .
+BACKGROUND	The aim was to optimize and validate the tracer dose and scan time to obtain a constant image quality less dependent on patients ' physical characteristics .
+METHODS	125 patients underwent Cadmium Zinc Telluride ( CZT ) - SPECT stress MPI using a fixed Tc-99m-tetrofosmin tracer dose .
+METHODS	Image quality was scored by three physicians on a 4-point grading scale and related to the number of photon counts normalized to tracer dose and scan time .
+METHODS	Counts were correlated with various patient-specific parameters dealing with patient size and weight to find the best predicting parameter .
+METHODS	From these data , a formula to provide constant image quality was derived , and subsequently tested in 92 new patients .
+RESULTS	Degradation in image quality and photon counts was observed for heavier patients for all patients ' specific parameters ( P < .01 ) .
+RESULTS	We found body weight to be the best-predicting parameter for image quality and derived a new dose formula .
+RESULTS	After applying this new body weight-depended tracer dose and scan time in a new group , image quality was found to be constant ( P > .19 ) in all patients .
+CONCLUSIONS	Also in CZT SPECT image quality decreases with weight .
+CONCLUSIONS	The use of a tracer dose and scan time that depends linearly on patient 's body weight corrected for the varying image quality in CZT-SPECT MPI .
+CONCLUSIONS	This leads to better radiation exposure justification .
+

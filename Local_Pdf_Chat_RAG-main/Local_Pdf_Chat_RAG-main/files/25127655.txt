@@ -1,0 +1,18 @@
+25127655
+BACKGROUND	Perioperative management with reduced-dose warfarin is of potential interest by eliminating the need for bridging while still maintaining a degree of anticoagulation .
+BACKGROUND	The outcomes of this regimen have not been well determined .
+METHODS	In a randomized controlled trial we compared two regimens for management of anticoagulation with warfarin in patients with implantation of a pacemaker or defibrillator .
+METHODS	Half dose of warfarin for 3-6 days , depending on the baseline international normalized ratio ( INR ) , before surgery aiming at an INR of 1.7 was compared with interrupted warfarin for 5 days with preoperative bridging with low-molecular-weight heparin ( LMWH ) at therapeutic dose for 2.5 days .
+METHODS	Main safety outcome was pocket hematoma .
+METHODS	Secondary outcomes were major bleeding , thromboembolism - all within 1 month , days of hospitalization and number of patients requiring correction of INR with vitamin K.
+RESULTS	The study was planned for 450 patients but it was discontinued prematurely due to a change in practice .
+RESULTS	Pocket hematoma occurred in 4 of 85 patients ( 5 % ) randomized to the bridged regimen and in 3 of 86 patients ( 3 % ) randomized to reduced-dose warfarin .
+RESULTS	One pocket hematoma in each group was severe .
+RESULTS	There were no major hemorrhages or thromboembolism within the 1-month window .
+RESULTS	Duration of hospitalization was similar in the two groups .
+RESULTS	Correction of INR the day before surgery with vitamin K had to be used for significantly more patients in the reduced-dose warfarin group ( 41 % ) than in the bridged regimen group ( 6 % ) .
+CONCLUSIONS	The reduced-dose warfarin regimen appeared to have similar safety after device implantation as interrupted warfarin with preoperative LMWH bridging .
+CONCLUSIONS	Due to premature discontinuation no firm conclusion can be drawn .
+CONCLUSIONS	The reduced-dose warfarin regimen often failed to achieve the intended preoperative INR .
+CONCLUSIONS	ClinicalTrials.gov Identifier : NCT 02094157 .
+

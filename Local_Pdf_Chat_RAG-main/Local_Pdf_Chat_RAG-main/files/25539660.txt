@@ -1,0 +1,11 @@
+25539660
+OBJECTIVE	Sublingual immunotherapy ( SLIT ) has been described as a significant intervention in the treatment of allergic rhinitis ( AR ) .
+OBJECTIVE	However , factors that may predict treatment outcomes with respect to quality of life ( QoL ) results and mainly the role of olfactory function are still being underestimated .
+OBJECTIVE	In this study , we investigated determinants that best predict treatment outcomes for QoL , exploring mainly the role of olfaction .
+METHODS	One hundred forty-five patients following SLIT , 45 placebo-controls , and 48 healthy subjects were studied .
+METHODS	Olfactory function was objectively evaluated using `` Sniffin ' Sticks '' test pre - and post-cessation of SLIT .
+METHODS	Three categories of validated QoL questionnaires were filled out by all subjects : questionnaire specific for olfaction ( Questionnaire of Olfactory Deficits ) , questionnaires for assessing psychology ( Beck Depression Inventory , Zung Depression Scale , State & Trait Anxiety Inventory ) , general Short Form-36 health survey .
+RESULTS	Statistically significant improvement of olfactory function by 11.1 % and of all QoL questionnaires results ( all P < .001 ) was observed on final evaluation .
+RESULTS	Anosmia , asthma history , and the severity of symptoms-expressed by the Total Symptoms Score-were proven independent determinants of clinically significant improvement in patients ' QoL .
+CONCLUSIONS	Several factors were found that may predict QoL outcomes in AR patients following SLIT .
+

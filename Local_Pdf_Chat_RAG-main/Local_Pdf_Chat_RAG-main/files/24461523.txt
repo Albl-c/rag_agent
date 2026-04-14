@@ -1,0 +1,10 @@
+24461523
+OBJECTIVE	To investigate the potential antioxidant effects of Phyllanthus niruri ( P. niruri , Euphorbiaceae ) tea on healthy subjects .
+METHODS	Five non-smoking , male healthy volunteers , 20 to 31 years old , were enrolled .
+METHODS	Each subject was treated twice , following a randomized crossover fashion regarding the ingestion of P. niruri infusion ( 5 g/750 mL ) ( tea group ) or 750 mL of water ( control group ) .
+METHODS	Fasting venous blood samples were collected prior to and at 1 , 2 and 4 h after infusion drinking .
+METHODS	Samples were tested for plasmatic gallic acid and ascorbic acid levels , erythrocytic catalase and superoxide dismutase activities , and intracellular DCFH fluorescence in granulocytes , monocytes and lymphocytes .
+RESULTS	Catalase and superoxide dismutase activities were not altered by tea ingestion .
+RESULTS	Plasma levels of gallic acid were significantly increased at 1 , 2 and 4 h after P. niruri ingestion and plasma ascorbic acid at 1 h after P. niruri ingestion .
+CONCLUSIONS	Ingestion of P. niruri tea is associated with a slight increase in antioxidant markers in human blood ( ascorbic acid and gallic acid ) , which may contribute to its pharmacological effects .
+

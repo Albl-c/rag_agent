@@ -1,0 +1,12 @@
+24239202
+OBJECTIVE	This study sought to evaluate the long-term safety and efficacy of everolimus-eluting stents ( EES ) and paclitaxel-eluting stents ( PES ) in patients with obstructive coronary artery disease .
+BACKGROUND	The use of EES compared to PES has been shown to result in improved clinical outcomes in patients undergoing PCI .
+BACKGROUND	However , there have been concerns regarding the durability of these benefits over longer-term follow-up .
+METHODS	SPIRIT III was a prospective , multicenter trial in which 1,002 patients were randomized 2:1 to EES versus PES .
+METHODS	Endpoints included ischemia-driven target vessel failure ( TVF ) ( death , myocardial infarction ( MI ) , or ischemia-driven target vessel revascularization [ TVR ] ) , the pre-specified primary endpoint ) , target lesion failure ( TLF ) ( cardiac death , target-vessel MI , or ischemia-driven target lesion revascularization [ TLR ] ) , major adverse cardiac events ( MACE ) ( cardiac death , MI , or ischemia-driven TLR ) , their individual components and stent thrombosis .
+RESULTS	Five-year follow-up was available in 91.9 % of patients .
+RESULTS	Treatment with EES versus PES resulted in lower 5-year Kaplan-Meier rates of TVF ( 19.3 % vs. 24.5 % , p = 0.05 ) , TLF ( 12.7 % vs. 19.0 % , p = 0.008 ) , and MACE ( 13.2 % vs. 20.7 % , p = 0.007 ) .
+RESULTS	EES also resulted in reduced rates of all-cause death ( 5.9 % vs. 10.1 % , p = 0.02 ) , with nonsignificantly different rates of MI , stent thrombosis , and TLR , and no evidence of late catch-up of TLR over time .
+CONCLUSIONS	At 5 years after treatment , EES compared to PES resulted in durable benefits in composite safety and efficacy measures as well as all-cause mortality .
+CONCLUSIONS	Additionally , the absolute difference in TLR between devices remained stable over time without deterioration of effect during late follow-up .
+

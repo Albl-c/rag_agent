@@ -1,0 +1,12 @@
+26427109
+OBJECTIVE	To compare the impacts of electroacu puncture ( EA ) and moxibustion ( Mox ) on the prima ry gastrointestinal symptoms and the expressions of colonic mucosa-associated neuropeptide substance P ( SP ) and vasoactive intestinal peptide ( VIP ) in patients with either diarrhea-predominant or constipation-predominant irritable bowel syndrome ( IBS-D and IBS-C , respectively ) .
+METHODS	Eighty-five IBS patients were randomly allocated to the EA and Mox groups .
+METHODS	Zusanli ( ST 36 ) and Shangjuxu ( ST 37 ) were selected as acupoints for electroacupuncture or warm moxibustion treatment once a day for 14 consecutive days .
+METHODS	Before and after the treatment sessions , a Visual Analog Pain Scale and the Bristol Stool Form Scale were used to evaluate gastrointestinal symptoms .
+METHODS	There were four dropout cases , leaving 81 participants ( 41 with IBS-D and 40 with IBS-C ) who volunteered to undergo colonoscopy before and after the treatment sessions .
+METHODS	During colonoscopy , sigmoid mucosa were collected to detect SP and VIP expression using immunohistochemistry assay .
+RESULTS	Both EA and Mox treatments were effective at relieving abdominal pain in IBS-D and IBS-C patients .
+RESULTS	However , Mox was more effective at reducing diarrhea in IBS-D patients , whereas EA was more effective at improving constipation in IBS-C patients .
+RESULTS	EA and Mox treatments both down-regulated the abnormally increased SP and VIP expression in the colonic mucosa , with no significant difference shown between the two treatments .
+CONCLUSIONS	Both EA and Mox treatments are effective at ameliorating gastrointestinal symptoms by reducing SP and VIP expression in the colonic mucosa of IBS patients .
+

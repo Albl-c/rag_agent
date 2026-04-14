@@ -1,0 +1,14 @@
+25516028
+OBJECTIVE	To compare the effects of different types of physical and mental activity on self-reported sleep quality over 12 weeks in older adults with cognitive and sleep complaints .
+METHODS	Randomized controlled trial .
+METHODS	General community .
+METHODS	Seventy-two inactive community-dwelling older adults with self-reported sleep and cognitive problems ( mean age 73.3 6.1 ; 60 % women ) .
+METHODS	Random allocation to four arms using a two-by-two factorial design : aerobic + cognitive training , aerobic + educational DVD , stretching + cognitive training , and stretching + educational DVD arms ( 60 min/d , 3 d/wk for physical and mental activity for 12 weeks ) .
+METHODS	Change in sleep quality using seven questions from the Sleep Disorders Questionnaire on the 2005 to 2006 National Health and Nutrition Examination Survey ( range 0-28 , with higher scores reflecting worse sleep quality ) .
+METHODS	Analyses used intention-to-treat methods .
+RESULTS	Sleep quality scores did not differ at baseline , but there was a significant difference between the study arms in change in sleep quality over time ( P < .005 ) .
+RESULTS	Mean sleep quality scores improved significantly more in the stretching + educational DVD arm ( 5.1 points ) than in the stretching + cognitive training ( 1.2 points ) , aerobic + educational DVD ( 1.1 points ) , or aerobic + cognitive training ( 0.25 points ) arms ( all P < .05 , corrected for multiple comparisons ) .
+RESULTS	Differences between arms were strongest for waking at night ( P = .02 ) and taking sleep medications ( P = .004 ) .
+CONCLUSIONS	Self-reported sleep quality improved significantly more with low-intensity physical and mental activities than with moderate - or high-intensity activities in older adults with self-reported cognitive and sleep difficulties .
+CONCLUSIONS	Future longer-term studies with objective sleep measures are needed to corroborate these results .
+

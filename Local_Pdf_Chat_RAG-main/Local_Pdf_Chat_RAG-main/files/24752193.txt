@@ -1,0 +1,14 @@
+24752193
+BACKGROUND	Agility is a determinant component in soccer performance .
+BACKGROUND	This study aimed to evaluate the reliability and sensitivity of a `` Modified Illinois change of direction test '' ( MICODT ) in ninety-five U-14 soccer players .
+METHODS	A total of 95 U-14 soccer players ( mean SD : age : 13.61 1.04 years ; body mass : 30.52 4.54 kg ; height : 1.57 0.1 m ) from a professional and semi-professional soccer academy , participated to this study .
+METHODS	Sixty of them took part in reliability analysis and thirty-two in sensitivity analysis .
+RESULTS	The intraclass correlation coefficient ( ICC ) that aims to assess relative reliability of the MICODT was of 0.99 , and its standard error of measurement ( SEM ) for absolute reliability was < 5 % ( 1.24 % ) .
+RESULTS	The MICODT 's capacity to detect change is `` good '' , it 's SEM ( 0.10 s ) was SWC ( 0.33 s ) .
+RESULTS	The MICODT is significantly correlated to the Illinois change of direction speed test ( ICODT ) ( r = 0.77 ; p < 0.0001 ) .
+RESULTS	The ICODT 's MDC95 ( 0.64 s ) was twice about the MICODT 's MDC95 ( 0.28 s ) , indicating that MICODT presents better ability to detect true changes than ICODT .
+RESULTS	The MICODT provided good sensitivity since elite U-14 soccer players were better than non-elite one on MICODT ( p = 0.005 ; dz = 1.01 [ large ] ) .
+RESULTS	This was supported by an area under the ROC curve of 0.77 ( CI 95 % , 0.59 to 0.89 , p < 0.0008 ) .
+RESULTS	The difference observed in these two groups in ICODT was not statistically significant ( p = 0.14 ; dz = 0.51 [ small ] ) , showing poor discriminant ability .
+CONCLUSIONS	MICODT can be considered as more suitable protocol for assessing agility performance level than ICODT in U-14 soccer players .
+

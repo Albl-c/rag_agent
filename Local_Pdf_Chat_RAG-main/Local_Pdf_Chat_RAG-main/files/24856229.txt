@@ -1,0 +1,9 @@
+24856229
+OBJECTIVE	To evaluate heart rate variability ( HRV ) , hemodynamics , mechanics , dyspnea and blood gases following different mechanical ventilation ( MV ) settings .
+BACKGROUND	No study has evaluated physiological changes during T-piece trials following different MV settings .
+METHODS	In 8 COPD patients on prolonged MV we applied in random order two MV settings : i ) pressure support ( PS ) 20 cm H2O + positive end-expiratory pressure ( PEEP ) 0 cm H2O ( setting-1 ) and ii ) PS 15 cm H2O + PEEP 5 cm H2O ( setting-2 ) , each followed by a 30 min T-piece trial .
+RESULTS	Setting-1 induced greater minute ventilation , tidal volume/inspiratory time and lower pulmonary artery occlusion pressure ; setting-2 reduced intrinsic PEEP .
+RESULTS	Mechanics and hemodynamics data did not differ , but all HRV time domain indices were reduced only after setting-1 , suggesting a decreased parasympathetic and increased sympathetic cardiac modulation .
+CONCLUSIONS	The T-piece trial following setting-2 seems less stressful on neural control of HRV .
+CONCLUSIONS	Future studies on T-piece trials should consider the residual effect of the MV setting .
+

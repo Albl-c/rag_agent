@@ -1,0 +1,16 @@
+24912653
+BACKGROUND	Prophylactic use of fresh-frozen plasma ( FFP ) is common practice in patients with a coagulopathy undergoing an invasive procedure .
+BACKGROUND	Evidence that FFP prevents bleeding is lacking , while risks of transfusion-related morbidity after FFP have been well demonstrated .
+BACKGROUND	We aimed to assess whether omitting prophylactic FFP transfusion in nonbleeding critically ill patients with a coagulopathy who undergo an intervention is noninferior to a prophylactic transfusion of FFP .
+METHODS	A multicenter randomized open-label trial with blinded endpoint evaluation was performed in critically ill patients with a prolonged international normalized ratio ( INR ; 1.5-3 .0 ) .
+METHODS	Patients undergoing placement of a central venous catheter , percutaneous tracheostomy , chest tube , or abscess drainage were eligible .
+METHODS	Patients with clinically overt bleeding , thrombocytopenia , or therapeutic use of anticoagulants were excluded .
+METHODS	Patients were randomly assigned to omitting or administering a prophylactic transfusion of FFP ( 12mL/kg ) .
+METHODS	Outcomes were occurrence of postprocedural bleeding complications , INR correction , and occurrence of lung injury .
+RESULTS	Due to slow inclusion , the trial was stopped before the predefined target enrollment was reached .
+RESULTS	Eighty-one patients were randomly assigned , 40 to FFP and 41 to no FFP transfusion .
+RESULTS	Incidence of bleeding did not differ between groups , with a total of one major and 13 minor bleedings ( p = 0.08 for noninferiority ) .
+RESULTS	FFP transfusion resulted in a reduction of INR to less than 1.5 in 54 % of transfused patients .
+RESULTS	No differences in lung injury scores were observed .
+CONCLUSIONS	In critically ill patients undergoing an invasive procedure , no difference in bleeding complications was found regardless whether FFP was prophylactically administered or not .
+

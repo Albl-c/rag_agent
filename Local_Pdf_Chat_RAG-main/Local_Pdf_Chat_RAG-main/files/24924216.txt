@@ -1,0 +1,12 @@
+24924216
+OBJECTIVE	To evaluate the distribution and extent of myocardial fibrosis identified by either contrast-enhanced Look-Locker or late gadolinium enhancement magnetic resonance imaging ( LGE MRI ) and their relationships between ventricular tachyarrhythmia or risk factors in apical hypertrophic cardiomyopathy ( APH ) .
+METHODS	Twenty-five APH patients were examined using a 3.0 T or 1.5 T instrument .
+METHODS	We used MRI to evaluate myocardial T1 values and scar .
+METHODS	We compared the myocardial fibrosis assessed by contrast-enhanced Look-Locker or LGE MRI with ventricular tachyarrhythmia or risk factors for hypertrophic cardiomyopathy .
+RESULTS	Myocardial scar was present in 17 of the 25 patients with APH .
+RESULTS	Myocardial scar was distributed predominantly in the apical myocardium ( P < 0.01 ) , whereas myocardial T1 values did not differ between the apical , midventricular , and basal septum .
+RESULTS	The extent of myocardial scar according to 16-segment model and ejection fraction were related to ventricular tachyarrhythmia or risk factors in APH ( P < 0.05 for both ) .
+RESULTS	The myocardial T1 value was not associated with the tachyarrhythmia or risk factors .
+CONCLUSIONS	In APH , the extent of myocardial scar on LGE MRI is associated with ventricular tachyarrhythmia and risk factors .
+CONCLUSIONS	Quantification of the myocardial T1 value is not necessary for its risk stratification .
+

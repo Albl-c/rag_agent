@@ -1,0 +1,13 @@
+24236828
+OBJECTIVE	PhaseIII DEFEND-2 investigated whether otelixizumab ( 3.1 mg over 8days ) preserved C-peptide secretion in patients with new-onset Type1 diabetes , focusing on adolescents ( 12-17years ) .
+METHODS	One hundred and seventy-nine patients ( 54 adolescents ) were randomized to otelixizumab or placebo .
+METHODS	The primary endpoint was change in 2-h mixed-meal-stimulated C-peptide area under the curve at month12 .
+METHODS	Enrolment was suspended in April 2011 following negative efficacy results from DEFEND-1 .
+METHODS	DEFEND-2 terminated early after 12months ' efficacy and safety follow-up .
+RESULTS	Change from baseline C-peptide was not significantly different [ = -0.09 nmol/l ( 95 % CI -0.17 to 0 ; P = 0.051 ) ] .
+RESULTS	No differential C-peptide effect was seen for otelixizumab in adolescents and more adverse events were reported .
+CONCLUSIONS	Efficacy and tolerability of otelixizumab was similar to DEFEND-1 .
+CONCLUSIONS	The 3.1-mg dose was non-efficacious in adults and adolescents .
+CONCLUSIONS	Further investigation of the mechanism of action seen at higher doses and therapeutic window is required .
+CONCLUSIONS	Clinical Trials Registry No : NCT00763451 .
+

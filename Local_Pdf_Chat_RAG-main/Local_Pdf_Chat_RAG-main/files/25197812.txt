@@ -1,0 +1,14 @@
+25197812
+OBJECTIVE	Obstructive sleep apnea ( OSA ) is commoner in patients with fluid-retaining states than in those without fluid retention , in men than in women , and worsens with aging .
+OBJECTIVE	In men , OSA severity is related to the amount of fluid shifting out of the legs overnight , but a cause-effect relationship is not established .
+OBJECTIVE	Our objective was to test the hypothesis that mimicking fluid overload during sleep would increase severity of OSA more in older ( 40 years ) than in younger men ( < 40 years ) .
+METHODS	Randomized , single-blind , double crossover study .
+METHODS	Research sleep laboratory .
+METHODS	Seven older and 10 younger men with non-severe or no sleep apnea , matched for body mass index .
+METHODS	During the control arm , normal saline was infused to keep the vein open .
+METHODS	During intervention , subjects received an intravenous bolus of normal saline ( 22 mL/kg body weight ) after sleep onset while they were wearing compression stockings to prevent fluid accumulation in the legs .
+RESULTS	Compared to younger men , infusion of similar amounts of saline in older men caused a greater increase in neck circumference ( P < 0.05 ) and in the AHI ( 32.2 22.1 vs. 2.2 7.1 , P = 0.002 ) .
+CONCLUSIONS	Older men are more susceptible to the adverse effects of intravenous fluid loading on obstructive sleep apnea severity than younger men .
+CONCLUSIONS	This may be due to age-related differences in the amount of fluid accumulating in the neck or upper airway collapsibility in response to intravenous fluid loading .
+CONCLUSIONS	These possibilities remain to be tested in future studies .
+

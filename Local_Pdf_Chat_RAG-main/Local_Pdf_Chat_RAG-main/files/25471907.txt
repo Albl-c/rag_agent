@@ -1,0 +1,19 @@
+25471907
+BACKGROUND	Abundant literature regarding the use of intravenous tranexamic acid ( TXA ) in primary total knee replacement is available .
+BACKGROUND	Randomized controlled trials have confirmed the efficacy of topical TXA compared with placebo , but the comparison between topical and intravenous TXA is unclear .
+BACKGROUND	The present study was designed to verify noninferior efficacy and safety of topical intra-articular TXA compared with intravenous TXA in primary total knee replacement with cemented implants .
+METHODS	A Phase-III , single-center , double-blind , randomized , controlled clinical trial was performed to compare topical intra-articular TXA ( 3 g of TXA in 100 mL of physiological saline solution ) with two intravenous doses of TXA ( 15 mg/kg in 100 mL of physiological saline solution , one dose before tourniquet release and another three hours after surgery ) in a multimodal protocol for blood loss prevention .
+METHODS	The primary outcome was the blood transfusion rate , and the secondary outcomes included visible blood loss ( as measured in the drain ) at twenty-four hours postoperatively and invisible blood loss ( as estimated from the Nadler formula ) at forty-eight hours postoperatively .
+METHODS	The sample size of seventy-eight patients was calculated to give a statistical power of 99 % for demonstrating noninferiority .
+METHODS	Thirty-nine patients each were allocated to receive topical intra-articular TXA ( the experimental group ) and intravenous TXA ( the control group ) ; there were no significant differences in demographics or preoperative laboratory values between the groups .
+METHODS	Noninferiority was estimated by comparing the confidence intervals with a delta of 10 % .
+METHODS	Student t and Mann-Whitney tests were used to assess the significance of any differences .
+RESULTS	The transfusion rate was zero in both groups ; thus , noninferiority was demonstrated for the primary efficacy end point , suggesting equivalence .
+RESULTS	Noninferiority was also demonstrated for the secondary efficacy end points .
+RESULTS	Drain blood loss at twenty-four hours was 315.6 mL ( 95 % confidence interval [ CI ] , 248.5 to 382.7 mL ) in the experimental group and 308.1 mL ( 95 % CI , 247.6 to 368.5 mL ) in the control group ( p = 0.948 , Mann-Whitney ) .
+RESULTS	Also , estimated blood loss at forty-eight hours was 1259.0 mL ( 95 % CI , 1115.6 to 1402.3 mL ) in the experimental group and 1317.9 mL ( 95 % CI , 1175.4 to 1460.4 mL ) in the control group ( p = 0.837 , Mann-Whitney ) .
+RESULTS	No significant safety differences were seen between groups .
+CONCLUSIONS	Topical administration of TXA according to the described protocol demonstrated noninferiority compared with intravenous TXA , with no safety concerns .
+CONCLUSIONS	This randomized controlled trial supports the topical intra-articular administration of TXA in primary total knee replacement with cemented implants .
+METHODS	Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence .
+

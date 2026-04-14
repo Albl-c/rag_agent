@@ -1,0 +1,18 @@
+24432673
+OBJECTIVE	To evaluate the clinical effectiveness and safety of Fangfeng Tongsheng Granule ( FTG ) in the treatment of upper respiratory infection ( superficial cold and interior heat syndrome , exterior and interior excess syndrome ) .
+METHODS	A randomized , double-blinded , multi-centered , placebo-parallel-controlled clinical trial was adopted .
+METHODS	Totally 324 patients were enrolled and assigned to two groups , 216 patients in the treatment group and 108 patients in the control group .
+METHODS	Those in the treatment group took FTG at the daily dose of 3 g , twice per day , the therapeutic course being 3 days .
+METHODS	Those with axillary temperature more than 37 degrees C took one more time before medication .
+METHODS	Those in the control group took simulated agent granules the same dose and dosage as the treatment group .
+METHODS	The effect of Chinese medical syndrome ( ECMS ) , the rate of temperature-dropping-to-normal ( RT ) , the time of temperature-dropping-to-normal ( TT ) , the curative effect of single symptom ( CESS ) and adverse reactions were observed .
+RESULTS	Totally 203 completed the trial in the treatment group and 101 in the control group .
+RESULTS	In the treatment group , the cured-effective rate was 55.67 % ( 113 / 101 ) , the total effective rate was 93.10 % ( 189/101 ) , the ECMS score decreased by 9.24 + / - 4.46 , while they were 5.94 % ( 6/101 ) , 36.63 % ( 37/101 ) , and 3.27 + / - 3.29 , respectively in the control group ( P < 0.01 ) .
+RESULTS	The RT was 87.50 % ( 98/112 ) in the treatment group and 58.49 % ( 31/53 ) in the control group ( P < 0.01 ) .
+RESULTS	The TT in the treatment group was superior to that of the control group ( P < 0.01 ) .
+RESULTS	As for CESS , all of the three primary symptoms and nine secondary symptoms were improved more obviously in the treatment group than in the control group .
+RESULTS	The integral decreased obviously , showing statistical difference ( P < 0.01 ) .
+RESULTS	The decrease was more obvious in the treatment group than in the control group ( P < 0.01 ) .
+RESULTS	There was no adverse event related to FTG .
+CONCLUSIONS	FTG was effective and safe in treating upper respiratory infection ( superficial cold and interior heat syndrome , exterior and interior excess syndrome ) .
+

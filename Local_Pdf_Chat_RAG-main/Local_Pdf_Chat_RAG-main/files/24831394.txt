@@ -1,0 +1,15 @@
+24831394
+OBJECTIVE	To investigate the modulatory effects that dynamic hyperinflation ( DH ) , defined as a reduction in inspiratory capacity ( IC ) , has on exercise tolerance after bronchodilator in patients with COPD .
+METHODS	An experimental , randomized study involving 30 COPD patients without severe hypoxemia .
+METHODS	At baseline , the patients underwent clinical assessment , spirometry , and incremental cardiopulmonary exercise testing ( CPET ) .
+METHODS	On two subsequent visits , the patients were randomized to receive a combination of inhaled fenoterol/ipratropium or placebo .
+METHODS	All patients then underwent spirometry and submaximal CPET at constant speed up to the limit of tolerance ( Tlim ) .
+METHODS	The patients who showed IC ( peak-rest ) < 0 were considered to present with DH ( DH + ) .
+RESULTS	In this sample , 21 patients ( 70 % ) had DH .
+RESULTS	The DH + patients had higher airflow obstruction and lower Tlim than did the patients without DH ( DH - ) .
+RESULTS	Despite equivalent improvement in FEV1 after bronchodilator , the DH - group showed higher IC ( bronchodilator-placebo ) at rest in relation to the DH + group ( p < 0.05 ) .
+RESULTS	However , this was not found in relation to IC at peak exercise between DH + and DH - groups ( 0.19 0.17 L vs. 0.17 0.15 L , p > 0.05 ) .
+RESULTS	In addition , both groups showed similar improvements in Tlim after bronchodilator ( median [ interquartile range ] : 22 % [ 3-60 % ] vs. 10 % [ 3-53 % ] ; p > 0.05 ) .
+CONCLUSIONS	Improvement in TLim was associated with an increase in IC at rest after bronchodilator in HD - patients with COPD .
+CONCLUSIONS	However , even without that improvement , COPD patients can present with greater exercise tolerance after bronchodilator provided that they develop DH during exercise .
+

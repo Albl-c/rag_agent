@@ -1,0 +1,16 @@
+24293753
+OBJECTIVE	Gender differences in the prevalence of sleep apnea/hypopnea syndrome may be mediated via male sex hormones .
+OBJECTIVE	Our objective was to determine the exact pathway for a testosterone-mediated increased propensity for central sleep apnea via blockade of the 5-reductase pathway of testosterone conversion by finasteride .
+METHODS	Randomization to oral finasteride vs. sham , single-center study .
+METHODS	Sleep research laboratory .
+METHODS	Fourteen healthy young males without sleep apnea .
+METHODS	Hypocapnia was induced via brief nasal noninvasive positive pressure ventilation during stable NREM sleep .
+METHODS	Cessation of mechanical ventilation resulted in hypocapnic central apnea or hypopnea .
+RESULTS	The apnea threshold ( AT ) was defined as the end-tidal CO ( P ( ET ) CO ) that demarcated the central apnea closest to the eupneic P ( ET ) CO. .
+RESULTS	The CO reserve was defined as the difference in P ( ET ) CO between eupnea and AT .
+RESULTS	The apneic threshold and CO reserve were measured at baseline and repeated after at a minimum of 1 month .
+RESULTS	Administration of finasteride resulted in decreased serum dihydrotestosterone .
+RESULTS	In the finasteride group , the eupneic ventilatory parameters were unchanged ; however , the AT was decreased ( 38.9 0.6 mm Hg vs. 37.7 0.9 mm Hg , P = 0.02 ) and the CO reserve was increased ( -2.5 0.3 mm Hg vs. -3.8 0.5 mm Hg , P = 0.003 ) at follow-up , with a significantly lower hypocapnic ventilatory response , thus indicating increased breathing stability during sleep .
+RESULTS	No significant changes were noted in the sham group on follow-up study .
+CONCLUSIONS	Inhibition of testosterone action via the 5-reductase pathway may be effective in alleviating breathing instability during sleep , presenting an opportunity for novel therapy for central sleep apnea in selected populations .
+

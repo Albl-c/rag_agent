@@ -1,0 +1,18 @@
+24928191
+OBJECTIVE	To investigate ( 1 ) the effect of spray and stretch versus control on reducing postneedling soreness of 1 latent myofascial trigger point ( MTrP ) and ( 2 ) whether higher levels of psychological distress are associated with increased postneedling pain intensity .
+METHODS	A 72-hour follow-up , single-blind randomized controlled trial .
+METHODS	University community .
+METHODS	Healthy volunteers ( N = 70 ; 40 men , 30 women ) aged 18 to 36 years ( mean age , 214y ) with latent MTrP in 1 upper trapezius muscle .
+METHODS	All subjects received a dry needling application over the upper trapezius muscle .
+METHODS	Then , participants were randomly divided into 2 groups : an intervention group , which received spray and stretch over the needled trapezius muscle , and a control group , which did not receive any intervention .
+METHODS	Visual analog scale ( at postneedling , posttreatment , and 6 , 12 , 24 , 48 , and 72h after needling ) , pressure pain threshold ( at preneedling , postneedling , and 24 and 48h after needling ) .
+METHODS	Psychological distress was evaluated by using the Symptom Checklist-90-Revised .
+RESULTS	Repeated-measures analysis of variance demonstrated a significant interaction between group and time ( F3 ,204.8 = 3.19 ; P < .05 ; p ( 2 ) = .04 ) for changes in postneedling soreness .
+RESULTS	Between-group differences were significant only immediately after intervention ( P = .002 ) , and there were no differences found between groups after 6 hours of the intervention ( P > .05 ) .
+RESULTS	Repeated measures of covariance showed that none of the psychological covariates affected these results .
+RESULTS	Somatization , anxiety , interpersonal sensitivity , and hostility were significantly correlated ( P < .05 ) with postneedling pain intensity .
+RESULTS	Repeated-measures analysis of variance did not show a significant effect of spray and stretch on mechanical hyperalgesia ( F2 .6,175 = 1.9 ; P = .131 ; p ( 2 ) = .02 ) .
+CONCLUSIONS	The spray and stretch had a short-term ( < 6h ) effect in reducing postneedling soreness of a latent MTrP .
+CONCLUSIONS	Pressure pain threshold did not significantly change after spray and stretch .
+CONCLUSIONS	Psychological factors are related to postneedling pain .
+

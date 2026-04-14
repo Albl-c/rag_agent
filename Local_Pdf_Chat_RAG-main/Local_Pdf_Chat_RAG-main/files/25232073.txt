@@ -1,0 +1,20 @@
+25232073
+BACKGROUND	Dynamic rehabilitation has been suggested to be an important part of nonoperative treatment of acute Achilles tendon rupture that results in functional outcome and rerupture rates comparable with those of operative treatment .
+BACKGROUND	However , the optimal role of weight-bearing during early rehabilitation remains unclear .
+BACKGROUND	The purpose of this study was to compare immediate weight-bearing with non-weight-bearing in a nonoperative dynamic treatment protocol for Achilles tendon rupture .
+METHODS	The study was conducted as a blinded , randomized , controlled , parallel superiority trial .
+METHODS	Patients eighteen to sixty years of age were eligible for inclusion .
+METHODS	Both groups were treated nonoperatively with controlled early motion .
+METHODS	The intervention group was allowed full weight-bearing from day one , and the control group was non-weight-bearing for six weeks .
+METHODS	The primary outcome was the Achilles tendon Total Rupture Score ( ATRS ) after one year .
+METHODS	Secondary outcomes included heel-rise work , health-related quality of life , and the rerupture rate .
+METHODS	Outcome assessors were blinded to the intervention .
+RESULTS	Thirty patients were randomized to each group ; twenty-nine in the weight-bearing group and twenty-seven in the control group were analyzed .
+RESULTS	The only significant difference between the groups was better health-related quality of life in the weight-bearing group at twelve months ( p = 0.009 ) .
+RESULTS	The mean ATRS at twelve months was 73 in the weight-bearing group and 74 in the control group ( p = 0.81 ) .
+RESULTS	At twelve months , the total heel-rise work performed by the injured limb relative to that by the uninjured limb was 53 % in the weight-bearing group and 58 % in the control group ( p = 0.37 ) .
+RESULTS	There were three reruptures in the weight-bearing group and two in the control group ( p = 1.0 ) .
+CONCLUSIONS	The ATRS and heel-rise work results did not differ significantly between the groups .
+CONCLUSIONS	The rerupture rate was 9 % overall , and both groups had substantial functional deficits in the injured limb compared with the uninjured limb .
+CONCLUSIONS	Immediate weight-bearing can be recommended as an option in the nonoperative treatment of Achilles tendon rupture .
+

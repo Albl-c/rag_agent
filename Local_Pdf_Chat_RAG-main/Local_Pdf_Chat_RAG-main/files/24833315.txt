@@ -1,0 +1,11 @@
+24833315
+OBJECTIVE	This randomised clinical trial assessed the effects of a 16-week cognitive remediation programme ( NEUROCOM ) combined with an early intervention service ( EIS ) vs. EIS alone .
+METHODS	One hundred and seventeen patients with first episode psychosis were randomly assigned to 4 months cognitive remediation combined with EIS vs. EIS alone .
+METHODS	Statistical analysis of effect was based on intention to treat .
+RESULTS	A total of 98 patients ( 83.8 % ) participated in post-training assessments at 4 months and 92 ( 78.6 % ) in 12-month follow-up assessments .
+RESULTS	No effects were found on the primary outcome measure functional capacity .
+RESULTS	At the post-training assessment , the intervention group had improved significantly on Rosenberg Self-Esteem Scale ( Cohen 's d = 0.54 , P = 0.01 ) , Positive and Negative Symptoms Scale ( PANSS ) , General Psychopathology Scale ( Cohen 's d = 0.51 , P = 0.05 ) and the verbal learning domain ( Cohen 's d = 0.46 , P = 0.02 ) .
+RESULTS	At follow-up assessment , the intervention group retained the significant improvements on the verbal learning domain ( Cohen 's d = 0.58 , P < 0.05 ) .
+RESULTS	Furthermore , significant improvements were observed on the working memory domain ( Cohen 's d = 0.56 , P = 0.01 ) and PANSS positive symptoms ( Cohen 's d = 0.44 , P = 0.04 ) , while improvement on the composite score was marginally significant ( Cohen 's d = 0.34 , P = 0.05 ) .
+CONCLUSIONS	In accordance with other cognitive remediation programmes , this programme demonstrates some immediate and long-term effect on cognitive functioning , symptoms and self-esteem .
+

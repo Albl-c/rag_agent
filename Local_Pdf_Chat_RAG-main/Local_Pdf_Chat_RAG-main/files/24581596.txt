@@ -1,0 +1,19 @@
+24581596
+OBJECTIVE	The use of liver as a reference tissue for semi-quantification of tumour FDG uptake may not be valid in hepatic steatosis ( HS ) .
+OBJECTIVE	Previous studies on the relation between liver FDG uptake and HS have been contradictory probably because they ignored blood glucose ( BG ) .
+OBJECTIVE	Because hepatocyte and blood FDG concentrations equalize , liver FDG uptake parallels BG , which must therefore be considered when studying hepatic FDG uptake .
+OBJECTIVE	We therefore re-examined the relation between HS and liver uptake taking BG into account .
+METHODS	This was a retrospective study of 304 patients undergoing routine PET/CT with imaging 60min post-FDG .
+METHODS	Average standard uptake value ( SUVave ) , maximum SUV ( SUVmax ) and CT density ( index of HS ) were measured in a liver ROI .
+METHODS	Blood pool SUV was based on the left ventricular cavity ( SUVLV ) .
+METHODS	Correlations were assessed using least squares fitting of continuous data .
+METHODS	Patients were also divided into BG subgroups ( < 4 , 4-5 , 5-6 , 6-8 , 8-10 and 10 + mmol/l ) .
+RESULTS	SUVave , SUVmax and SUVLV displayed similar relations with BG .
+RESULTS	SUVmax/SUVLV , but not SUVave/SUVLV , correlated significantly with BG .
+RESULTS	SUVmax , but not SUVave , correlated inversely with CT density before and after adjusting for BG .
+RESULTS	SUVmax/SUVave correlated more strongly with CT density than SUVmax .
+RESULTS	CT density correlated inversely with SUVmax/SUVLV but positively with SUVave/SUVLV .
+CONCLUSIONS	Hepatic SUV is more influenced by BG than by HS .
+CONCLUSIONS	Its relation with BG renders it unsuitable as a reference tissue .
+CONCLUSIONS	Nevertheless , hepatic fat does correlate positively with liver SUV , although this is seen only with SUVmax because SUVave is ` diluted ' by hepatic fat .
+

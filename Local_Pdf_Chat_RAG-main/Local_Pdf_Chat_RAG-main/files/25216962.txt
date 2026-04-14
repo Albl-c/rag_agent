@@ -1,0 +1,11 @@
+25216962
+OBJECTIVE	Aim of this prospective study was to investigate the effectiveness of eutectic mixture of local anaesthetic ( EMLA ) patches on every abdominal incision for pain relief after gynaecologic laparoscopic surgery .
+METHODS	A total of 121 women were prospectively randomised to receive either placebo ( control group ) or EMLA ( study group ) patches on all abdominal incisions .
+METHODS	Postoperative pain was assessed 24 and 48 h after surgery using the short form of the McGill Pain Questionnaire ( SF-MPQ ) .
+METHODS	The amount of analgesic pain medication on demand was assessed in both groups .
+RESULTS	Sixty women were allocated to the study group and 61 patients to the control group before laparoscopic surgery .
+RESULTS	There were no statistically significant differences regarding age , body mass index ( BMI ) , duration of surgery and blood loss comparing both groups .
+RESULTS	There were no statistically significant differences between both groups with regard to postoperative total pain scores 24 h ( McGill total score : 31.77 27.95 vs. 36.80 31.39 , p = 0.3535 ) and 48 h ( McGill total score : 19.18 20.09 vs. 26.61 27.70 , p = 0.0942 ) after surgery .
+RESULTS	Time to mobilisation after surgery ( hours ) was significantly shorter in the study group ( 5.01 3.72 vs. 5.78 3.04 , p = 0.0423 ) .
+CONCLUSIONS	Despite of a significant reduction of time for mobilisation transdermal anaesthetic patches after gynaecologic laparoscopic surgery did not lead to decreased postoperative pain scores .
+

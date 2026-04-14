@@ -1,0 +1,18 @@
+24669146
+OBJECTIVE	To perform a comparative evaluation of the efficacy and acceptability of Rose-K and Soper contact lenses in Keratoconus .
+METHODS	Dr. Rajendra Prasad Center for Ophthalmic Sciences , All India Institute of Medical Sciences , New Delhi .
+METHODS	A randomized comparative clinical trial was performed in keratoconic eyes fitted with Rose-K ( Rose-K group ) and Soper ( Soper group ) contact lenses .
+METHODS	Patients data were evaluated for best spectacle corrected visual acuity , best contact lens corrected visual acuity ( BCLCVA ) , corneal topography , glare acuity , contrast sensitivity , tear function tests and specular microscopy .
+METHODS	Patients were also asked to complete a self-reported comfort questionnaire at each visit .
+RESULTS	Sixty eyes were randomized to the Rose-K and Soper groups .
+RESULTS	The two groups were comparable in all the baseline parameters .
+RESULTS	There was a statistically significant improvement in BCLCVA in both groups at 3 months ( P < 0.01 , both groups ) .
+RESULTS	The difference between in BCLCVA in both groups was not statistically significant .
+RESULTS	In both groups , there was a significant improvement in the comfort score at 3 months compared to baseline ( P < 0.05 , both group ) .
+RESULTS	The Rose-K group had statistically significantly better scores at 1 and 3 months compared with the Soper group ( P = 0.006 and P < 0.001 respectively ) .
+RESULTS	Both groups were associated with a significant ( P < 0.01 ) , but comparable improvement in glare acuity at 3 months .
+RESULTS	There was a significant improvement in contrast sensitivity at 3 months in both groups ( P < 0.01 ) ; the Rose-K group was significantly better than the Soper group at 1 and 3 months ( P = 0.001 and 0.002 respectively ) .
+RESULTS	The mean number of trial lenses required for fitting Rose-K lens ( 2.00 0.59 ) was significantly lower than the Soper lens ( 3.43 0.82 ; P < 0.001 ) .
+CONCLUSIONS	Both the contact lens designs provide an equal improvement in visual acuity in patients with Keratoconus .
+CONCLUSIONS	However , Rose-K contact lens provides greater comfort , better quality of vision and requires less chair time compared with the Soper lens and hence may possibly have a greater acceptability .
+

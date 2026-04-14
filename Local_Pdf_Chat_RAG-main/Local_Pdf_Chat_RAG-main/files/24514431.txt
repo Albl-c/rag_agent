@@ -1,0 +1,11 @@
+24514431
+OBJECTIVE	To investigate the efficacy and safety of sedation with dexmedetomidine in upper gastrointestinal endoscopy .
+METHODS	Patients with ASA physical status I-II undergoing elective upper gastrointestinal endoscopy were randomly allocated to receive dexmedetomidine or midazolam for conscious sedation .
+METHODS	Continuous peripheral oxygen saturation ( SpO2 ) , heart rate , mean arterial pressure ( MAP ) , Ramsay Sedation Scale ( RSS ) and numeric rating scale pain scores were recorded before , during and after the procedure .
+METHODS	Patients completed a post-procedure satisfaction questionnaire .
+RESULTS	Patients in the midazolam group ( n = 30 ) experienced a significant decrease in MAP during sedation compared with pre-sedation values .
+RESULTS	Patients in the dexmedetomidine group ( n = 30 ) had significantly higher SpO2 and RSS scores during sedation than those in the midazolam group .
+RESULTS	Overall satisfaction was higher in the dexmedetomidine group than the midazolam group .
+RESULTS	There were no clinically significant complications in either group .
+CONCLUSIONS	Dexmedetomidine has a good safety profile and is an effective sedative for use in upper gastrointestinal endoscopy .
+

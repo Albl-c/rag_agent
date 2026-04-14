@@ -1,0 +1,14 @@
+24885549
+BACKGROUND	The severity and course of spinal pain is poorly understood in adolescents .
+BACKGROUND	The study aimed to determine the prevalence and two-year incidence , as well as the course , frequency , and intensity of pain in the neck , mid back , and low back ( spinal pain ) .
+METHODS	This study was a school-based prospective cohort study .
+METHODS	All 5th and 6th grade students ( 11-13 years ) at 14 schools in the Region of Southern Denmark were invited to participate ( N = 1,348 ) .
+METHODS	Data were collected in 2010 and again two years later , using an e-survey completed during school time .
+RESULTS	The lifetime prevalence of spinal pain was 86 % and 89 % at baseline and follow-up , respectively .
+RESULTS	A group of 13.6 % ( 95 % CI : 11.8 , 15.6 ) at baseline and 19.5 % ( 95 % CI : 17.1 , 22.0 ) at follow-up reported that they had pain frequently .
+RESULTS	The frequency of pain was strongly associated with the intensity of pain , i.e. , the majority of the participants reported their pain as relatively infrequent and of low intensity , whereas the participants with frequent pain also experienced pain of higher intensity .
+RESULTS	The two-year incidence of spinal pain varied between 40 % and 60 % across the physical locations .
+RESULTS	Progression of pain from one to more locations and from infrequent to more frequent was common over the two-year period .
+CONCLUSIONS	Spinal pain is common at the age of 11-15 years , but some have more pain than others .
+CONCLUSIONS	The pain is likely to progress , i.e. , to more locations , higher frequency , and higher pain intensity over a two-year period .
+

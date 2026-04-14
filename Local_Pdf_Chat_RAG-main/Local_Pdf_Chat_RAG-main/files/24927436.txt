@@ -1,0 +1,12 @@
+24927436
+OBJECTIVE	To evaluate the effect of oral administration of probiotics on intestinal colonization with drug-resistant bacteria among preterm infants in the neonatal intensive care unit ( NICU ) .
+METHODS	A double-blind , randomized , placebo-controlled trial was carried out in the preterm infants who were transferred to the NICU immediately after birth .
+METHODS	These infants were stratified by whether they were breastfed and then randomized into test group and control group .
+METHODS	The test group was given probiotics from the day when enteral feeding began , while the control group was treated conventionally without probiotics .
+METHODS	The two groups were compared in terms of the colonization with extended-spectrum beta-lactamase-producing bacteria , as assessed by rectal swabs on days 1 , 3 , 7 , and 14 after birth , and the incidence of diseases .
+RESULTS	Rectal colonization with drug-resistant bacteria was found in the test group ( n = 119 ) and control group ( n = 138 ) on days 1 , 3 , 7 , and 14 after birth .
+RESULTS	There were no significant differences in the incidence of late-onset sepsis and necrotizing enterocolitis between the two groups ( P > 0.05 ) .
+RESULTS	Among non-breastfed infants , the test group had significantly decreased rectal colonization with drug-resistant bacteria compared with the control group on day 14 after birth ( 71.1 % vs 88.9 % ; P = 0.04 ) .
+RESULTS	No probiotic-related adverse events were observed in the study .
+CONCLUSIONS	Oral administration of probiotics may reduce rectal colonization with drug-resistant bacteria in preterm infants under certain conditions and shows good safety .
+

@@ -1,0 +1,13 @@
+25240168
+OBJECTIVE	Intracoronary thrombus is disrupted by stent deployment and confounded by the development of intrastent plaque prolapse .
+OBJECTIVE	This study aims at investigating the feasibility and repeatability of thrombus quantification prior to stent implantation using optical coherence tomography ( OCT ) in ST-segment elevation myocardial infarction ( STEMI ) patients .
+RESULTS	Patients were enrolled in an OCT substudy of the TOTAL trial ( a randomized trial of routine aspiration ThrOmbecTomy with PCI vs. PCI ALone in patients with STEMI undergoing primary PCI ) of aspiration thrombectomy or percutaneous coronary intervention ( PCI ) alone in primary PCI ( PPCI ) of STEMI .
+RESULTS	Using OCT , thrombus burden ( TB ) and other measures of pre - and post-stent atherothrombus were analysed over the arterial segment defined by the final stent length .
+RESULTS	Feasibility was 86.2 % ( 25/29 patients ) for both pre - and post-stent OCT imaging .
+RESULTS	Altogether , 8111 OCT cross-sections were analysed .
+RESULTS	In Bland-Altman analyses of inter-observer variation ( n = 25 ) , the mean pre-stent TB was 8.76 % for Observer 1 and 8.97 % for Observer 2 ( limits of agreement -2.6 to 2.2 % ) .
+RESULTS	In Bland-Altman analyses of intra-observer variation ( n = 15 ) , the mean pre-stent TB was 8.06 % for the first and 7.35 % for the second round of analysis by Observer 1 ( limits of agreement -1.72 to 3.15 % ) .
+RESULTS	There was a good correlation between pre-stent TB and pre-stent quadrants with thrombus/mm ( r = 0.97 ) , but only modest correlation between pre-stent TB and post-stent atherothrombotic burden ( ATB ; r = 0.54 ) .
+CONCLUSIONS	Measurement of pre-stent TB by OCT during the PPCI of STEMI is feasible and highly repeatable .
+CONCLUSIONS	Pre-stent TB is only modestly correlated with post-stent ATB , which indicates that pre-stent measurements might be of additional value when assessing the TB in STEMI .
+

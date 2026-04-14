@@ -1,0 +1,19 @@
+24752284
+OBJECTIVE	The aims of this study were to ( i ) evaluate the efficacy of phoneme discrimination training for hearing and cognitive abilities of adults aged 50 to 74 years with mild sensorineural hearing loss who were not users of hearing aids , and to ( ii ) determine participant compliance with a self-administered , computer-delivered , home - and game-based auditory training program .
+METHODS	This study was a randomized controlled trial with repeated measures and crossover design .
+METHODS	Participants were trained and tested over an 8 - to 12-week period .
+METHODS	One group ( Immediate Training ) trained during weeks 1 and 4 .
+METHODS	A second waitlist group ( Delayed Training ) did no training during weeks 1 and 4 , but then trained during weeks 5 and 8 .
+METHODS	On-task ( phoneme discrimination ) and transferable outcome measures ( speech perception , cognition , self-report of hearing disability ) for both groups were obtained during weeks 0 , 4 , and 8 , and for the Delayed Training group only at week 12 .
+RESULTS	Robust phoneme discrimination learning was found for both groups , with the largest improvements in threshold shown for those with the poorest initial thresholds .
+RESULTS	Between weeks 1 and 4 , the Immediate Training group showed moderate , significant improvements on self-report of hearing disability , divided attention , and working memory , specifically for conditions or situations that were more complex and therefore more challenging .
+RESULTS	Training did not result in consistent improvements in speech perception in noise .
+RESULTS	There was no evidence of any test-retest effects between weeks 1 and 4 for the Delayed Training group .
+RESULTS	Retention of benefit at 4 weeks post-training was shown for phoneme discrimination , divided attention , working memory , and self-report of hearing disability .
+RESULTS	Improved divided attention and reduced self-reported hearing difficulties were highly correlated .
+CONCLUSIONS	It was observed that phoneme discrimination training benefits some but not all people with mild hearing loss .
+CONCLUSIONS	Evidence presented here , together with that of other studies that used different training stimuli , suggests that auditory training may facilitate cognitive skills that index executive function and the self-perception of hearing difficulty in challenging situations .
+CONCLUSIONS	The development of cognitive skills may be more important than the development of sensory skills for improving communication and speech perception in everyday life .
+CONCLUSIONS	However , improvements were modest .
+CONCLUSIONS	Outcome measures need to be appropriately challenging to be sensitive to the effects of the relatively small amount of training performed .
+

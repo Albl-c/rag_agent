@@ -1,0 +1,10 @@
+24418801
+OBJECTIVE	To evaluate the efficacy of low-level laser therapy ( LLLT ) applied to acupuncture points on the knee joint in combination with exercise and advice in patients with knee osteoarthritis .
+METHODS	Randomised , double-blind , comparative clinical trial .
+METHODS	Forty-nine patients with knee osteoarthritis were assigned at random into two groups : active laser group ( n = 26 ) and placebo laser group ( n = 23 ) .
+METHODS	Using a gallium aluminium arsenide laser device , patients received either active or placebo LLLT at five acupuncture points on the affected knee during nine sessions .
+METHODS	Patients were assessed using a visual analogue scale ( VAS ) and the Saudi Knee Function Scale ( SKFS ) at baseline , the fifth treatment session , the last treatment session , 6 weeks post intervention and 6 months post intervention .
+RESULTS	VAS scores showed a significant improvement in the active laser group compared with the placebo laser group at 6 weeks post intervention [ mean difference -1.3 , 95 % confidence interval ( CI ) of the difference -2.4 to -0.3 ; P = 0.014 ] and 6 months post intervention ( mean difference -1.8 , 95 % CI of the difference -3.0 to -0.7 ; P = 0.003 ) using the independent samples test .
+RESULTS	SKFS scores also showed a significant improvement in the active laser group compared with the placebo laser group at the last treatment session ( median difference -15 , 95 % CI of the difference -27 to -2 ; P = 0.035 ) and 6 months post intervention ( median difference -21 , 95 % CI of the difference -34 to -7 ; P = 0.006 ) using the Mann-Whitney U test .
+CONCLUSIONS	The results demonstrate that short-term application of LLLT to specific acupuncture points in association with exercise and advice is effective in reducing pain and improving quality of life in patients with knee osteoarthritis .
+

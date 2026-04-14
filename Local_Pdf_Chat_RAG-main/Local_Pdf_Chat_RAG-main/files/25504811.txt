@@ -1,0 +1,12 @@
+25504811
+OBJECTIVE	A significant proportion of patients with rheumatoid arthritis do not respond adequately to biologic treatment .
+OBJECTIVE	We hypothesized that lack of response to ( biologic ) disease-modifying antirheumatic drugs ( DMARDs ) is high in patients in whom the subjective , patient-reported component of the Disease Activity Score 28 ( DAS28 ) is high at baseline .
+OBJECTIVE	The primary aim of our present study was to investigate the contribution of the more subjective versus the objective components of the DAS28 to response to biologic agents in RA patients , as well as the changes in this contribution over time .
+OBJECTIVE	The secondary aim was to examine whether the value of this subjective contribution at baseline affects the response to treatment .
+METHODS	The DAS28-P ( the subjective components of the DAS28 relative to the total DAS28 ) was calculated .
+METHODS	Patients were derived from the computer-assisted Management in Early Rheumatoid Arthritis Trial-II and the Biologicals and Outcome Compared and Predicted in Utrecht Region in Rheumatoid Arthritis Study .
+METHODS	Ordinal logistic regression analyses were performed .
+RESULTS	The DAS28-P score at baseline was not associated with the level of response according to European League Against Rheumatism criteria at 3 months .
+RESULTS	Overall , a significant reduction in the DAS28-P score was observed 3 months after start of treatment , showing a greater reduction of the combined subjective components in good responders .
+CONCLUSIONS	The results reject the hypothesis that the lack of response to biologic DMARDs is especially high in patients in whom the patient-reported component of the DAS28 is high at baseline ; these subjective components are not linked to treatment response .
+

@@ -1,0 +1,16 @@
+25391047
+OBJECTIVE	While the Carotid Revascularization Endarterectomy Versus Stenting Trial ( CREST ) has been widely accepted as a landmark trial establishing an equivalent risk of major adverse events following carotid endarterectomy ( CEA ) or carotid artery stenting ( CAS ) , the applicability of these findings to single centers has been questioned owing to the rigid selection criteria for investigators in the study .
+OBJECTIVE	Although refuted by the findings of a subsequent study , a substudy of CREST established a higher periprocedural stroke rate for CAS when the surgeon was a vascular surgeon .
+OBJECTIVE	To present our 30-day results of stroke , death , myocardial infarction , and composite major adverse events to determine if a single vascular surgeon 's outcomes at our hospital are consistent with the results of CREST .
+METHODS	A retrospective analysis of patients with high-grade carotid artery stenosis treated with CEA or CAS by a vascular surgeon at our institution from September 9 , 2005 , through December 17 , 2012 , was performed .
+METHODS	A 2 analysis was used to compare the incidence of specific high-risk patient characteristics in each group .
+METHODS	The Fisher exact test was used to compare the risks of stroke , death , myocardial infarction , and composite major adverse events between CEA and CAS .
+METHODS	These results were then compared with those reported in CREST .
+RESULTS	A total of 182 cases ( 94 CAS and 88 CEA ) performed by a single vascular surgeon were included for analysis .
+RESULTS	While in CREST the periprocedural risk of stroke was higher following CAS ( 4.1 % vs 2.3 % , P = .01 ) and the risk of myocardial infarction was higher following CEA ( 2.3 % vs 1.1 % , P = .03 ) , there was no significant difference in the incidence of these outcomes between the 2 treatment modalities in our study .
+RESULTS	When compared with CREST , our rates of myocardial infarction , stroke , death , and composite adverse events ( CEA , 4.5 % vs 3.4 % ; P = .79 ; CAS , 5.2 % vs 4.3 % ; P > .99 ) were no different .
+CONCLUSIONS	Similar to CREST , the 30-day risk of composite major adverse events was equivalent for the 2 treatment modalities .
+CONCLUSIONS	We attribute our comparable incidence of perioperative stroke with CAS and CEA to improved patient selection .
+CONCLUSIONS	We excluded most patients older than 80 years and those with complex anatomy from consideration for CAS .
+CONCLUSIONS	Our results confirm those of CREST and demonstrate that both CEA and CAS can be performed safely by a vascular surgeon in properly selected patients .
+

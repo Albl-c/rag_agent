@@ -1,0 +1,9 @@
+24767956
+BACKGROUND	Music has been employed in various clinical settings to reduce anxiety .
+BACKGROUND	However , meta-analysis has shown music to have little influence on haemodynamic parameters .
+BACKGROUND	This study aimed at investigating the effect of relaxing music on heart rate recovery after exercise .
+METHODS	Twenty-three student volunteers underwent treadmill exercise and were assessed for heart rate recovery and saliva analysis ; comparing exposure to sedative music with exposure to silence during the recovery period immediately following exercise .
+RESULTS	No differences were found between music and non-music exposure regarding : heart rate recovery , resting pulse rate , and salivary cortisol .
+RESULTS	Music was no different to silence in affecting these physiological measures , which are all associated with anxiety .
+CONCLUSIONS	Relaxing music unaccompanied by meditation techniques or other such interventions may not have a major role in reducing anxiety in certain experimental settings .
+

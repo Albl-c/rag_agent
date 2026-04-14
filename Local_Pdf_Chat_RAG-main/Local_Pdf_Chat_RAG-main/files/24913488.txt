@@ -1,0 +1,16 @@
+24913488
+BACKGROUND	New in-vehicle technologies often outpace the scientific support for their value .
+BACKGROUND	In lieu of valid and consistent scientific support , common wisdom is used , as in the assumption that enhanced roadway delineation improves driving safety .
+OBJECTIVE	To evaluate the effects of a Visibility Enhancement System that selectively improves lane markers ' visibility on driving safety .
+METHODS	A simulation experiment assessed the effects of an in-car lane Visibility Enhancement System ( VES ) that highlights the edges of the road ahead on driver 's behavior and overall safety , under normal and reduced visibility conditions .
+METHODS	Thirty drivers drove in a fix-based simulator through a winding rural road , while attempting to avoid un-enhanced and unexpected obstacles that appeared on the driving lane from time to time .
+METHODS	The simulated VES highlighted the road edges up to a distance of 90 m with two alternative configurations : two continuous red lines or a series of red crosses .
+METHODS	The effects of the two VES configurations on performance were measured during night and fog driving .
+METHODS	Performance measures included speed , lane keeping behavior , eye scanning pattern , reaction time ( RT ) and collisions with the un-enhanced unexpected obstacles .
+METHODS	Subjective measures included confidence and stress .
+RESULTS	With the VES , drivers were more confident , less stressed , and drove faster , but had almost twice as many collisions with the unexpected obstacles .
+RESULTS	Also , steering/braking RT to the obstacles was longer with the VES than without it by nearly 44 msec .
+CONCLUSIONS	The results are consistent with Lebowitz 's theory ( 1977 ) .
+CONCLUSIONS	While the VES enhanced spatial orientation , it fooled the drivers into assuming that the visibility of obstacles on the road was also improved , and thus actually reduced safety .
+CONCLUSIONS	When visibility is an issue in nighttime crashes , the site-specific crashes should be investigated , in cases of collision with objects-on-the-road , improved delineation should be ruled out .
+

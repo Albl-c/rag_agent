@@ -1,0 +1,13 @@
+25256183
+OBJECTIVE	Early and intensive blood pressure-lowering treatment seems to be beneficial in patients with acute hemorrhagic stroke and high blood pressure .
+OBJECTIVE	We wanted to see if similar benefits can be shown from a later and more gradual blood pressure lowering , using data from the Scandinavian Candesartan Acute Stroke Trial ( SCAST ) .
+METHODS	SCAST was a randomized - and placebo-controlled , double-masked trial of candesartan given for 7 days , in 2029 patients with acute stroke and systolic blood pressure 140 mm Hg .
+METHODS	We assessed the effects of candesartan in the 274 patients with hemorrhagic stroke , using the trial 's 2 coprimary effect variables : the composite vascular end point of vascular death , stroke or myocardial infarction , and functional outcome at 6 months , according to the modified Rankin Scale .
+METHODS	We used Cox proportional hazards models and ordinal regression for analysis and adjusted for key , predefined prognostic variables .
+RESULTS	There was no association between treatment with candesartan and risk of vascular events ( 17 of 144 [ 11.8 % ] versus 13 of 130 [ 10.0 % ] ; hazard ratio , 1.36 ; 95 % confidence interval , 0.65-2 .83 ; P = 0.41 ) .
+RESULTS	For functional outcome we found evidence of a negative effect of candesartan ( common odds ratio , 1.61 ; 95 % confidence interval , 1.03-2 .50 ; P = 0.036 ) .
+CONCLUSIONS	There was no evidence that blood pressure-lowering treatment with candesartan is beneficial during the first week of hemorrhagic stroke .
+CONCLUSIONS	Instead , there were signs that such treatment may be harmful , but this needs to be verified in larger studies .
+BACKGROUND	http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00120003 .
+

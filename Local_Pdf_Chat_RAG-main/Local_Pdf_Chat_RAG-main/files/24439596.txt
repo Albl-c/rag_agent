@@ -1,0 +1,14 @@
+24439596
+BACKGROUND	We conducted a prospective , randomized trial comparing protocol to ad libitum ( ad lib ) feeding after laparoscopic pyloromyotomy .
+METHODS	Infants undergoing laparoscopic pyloromyotomy were randomized to protocol versus ad lib feeding strategies .
+METHODS	The protocol started with Pedialyte two hours post-operative .
+METHODS	This was repeated by another round of Pedialyte , then two rounds of half-strength formula or breast milk , followed by two rounds of full strength formula or breast milk , followed by the home feeding regimen , at which time the patient was discharged if feeding well .
+METHODS	The ad lib group was allowed formula or breast milk two hours after the operation and considered for discharge after tolerating three consecutive feeds .
+METHODS	The primary outcome variable was the length of postoperative hospitalization .
+RESULTS	One hundred fifty infants were enrolled between January 2010 and December 2011 .
+RESULTS	There were no differences in patient characteristics at presentation .
+RESULTS	While the ad lib group reached goal feeds sooner than the protocol group , this did not translate into a difference in duration of postoperative hospitalization .
+RESULTS	There were more patients with emesis in the ad lib group after goal feeding was reached , but no difference in readmissions .
+CONCLUSIONS	Ad lib feeding allows patients to reach goal feeds more rapidly than protocol feeding following laparoscopic pyloromyotomy .
+CONCLUSIONS	However , this goal is usually reached beyond discharge hours , resulting in a similar duration of hospitalization .
+

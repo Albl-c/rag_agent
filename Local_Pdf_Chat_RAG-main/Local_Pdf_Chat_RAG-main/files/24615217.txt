@@ -1,0 +1,18 @@
+24615217
+OBJECTIVE	Current tobacco use treatment approaches require smokers to request treatment or depend on the provider to initiate smoking cessation care and are therefore reactive .
+OBJECTIVE	Most smokers do not receive evidence-based treatments for tobacco use that include both behavioral counseling and pharmacotherapy .
+OBJECTIVE	To assess the effect of a proactive , population-based tobacco cessation care model on use of evidence-based tobacco cessation treatments and on population-level smoking cessation rates ( ie , abstinence among all smokers including those who use and do not use treatment ) compared with usual care among a diverse population of current smokers .
+METHODS	The Veterans Victory Over Tobacco Study , a pragmatic randomized clinical trial involving a population-based registry of current smokers aged 18 to 80 years .
+METHODS	A total of 6400 current smokers , identified using the Department of Veterans Affairs ( VA ) electronic medical record , were randomized prior to contact to evaluate both the reach and effectiveness of the proactive care intervention .
+METHODS	Current smokers were randomized to usual care or proactive care .
+METHODS	Proactive care combined ( 1 ) proactive outreach and ( 2 ) offer of choice of smoking cessation services ( telephone or in-person ) .
+METHODS	Proactive outreach included mailed invitations followed by telephone outreach to motivate smokers to seek treatment with choice of services .
+METHODS	The primary outcome was 6-month prolonged smoking abstinence at 1 year and was assessed by a follow-up survey among all current smokers regardless of interest in quitting or treatment utilization .
+RESULTS	A total of 5123 participants were included in the primary analysis .
+RESULTS	The follow-up survey response rate was 66 % .
+RESULTS	The population-level , 6-month prolonged smoking abstinence rate at 1 year was 13.5 % for proactive care compared with 10.9 % for usual care ( P = .02 ) .
+RESULTS	Logistic regression mixed model analysis showed a significant effect of the proactive care intervention on 6-month prolonged abstinence ( odds ratio [ OR ] , 1.27 [ 95 % CI , 1.03-1 .57 ] ) .
+RESULTS	In analyses accounting for nonresponse using likelihood-based not-missing-at-random models , the effect of proactive care on 6-month prolonged abstinence persisted ( OR , 1.33 [ 95 % CI , 1.17-1 .51 ] ) .
+CONCLUSIONS	Proactive , population-based tobacco cessation care using proactive outreach to connect smokers to evidence-based telephone or in-person smoking cessation services is effective for increasing long-term population-level cessation rates .
+BACKGROUND	clinicaltrials.gov Identifier : NCT00608426 .
+

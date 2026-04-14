@@ -1,0 +1,16 @@
+24885673
+BACKGROUND	Bipolar I disorder ( BD-I ) is a chronic mental illness characterized by the presence of one or more manic episodes , or both depressive and manic episodes , usually separated by asymptomatic intervals .
+BACKGROUND	Pharmacists can contribute to the management of BD-I , mainly with the use of effective and safe drugs , and improve the patient 's life quality through pharmaceutical care .
+BACKGROUND	Some studies have shown the effect of pharmaceutical care in the achievement of therapeutic goals in different illnesses ; however , to our knowledge , there is a lack of randomized controlled trials designed to assess the effect of pharmacist intervention in patients with BD .
+BACKGROUND	The aim of this study is to assess the effectiveness of the Dader Method for pharmaceutical care in patients with BD-I .
+METHODS	Randomized , controlled , prospective , single-center clinical trial with duration of 12months will be performed to compare the effect of Dader Method of pharmaceutical care with the usual care process of patients in a psychiatric clinic .
+METHODS	Patients diagnosed with BD-I aged between 18 and 65years who have been discharged or referred from outpatients service of the San Juan de Dios Clinic ( Antioquia , Colombia ) will be included .
+METHODS	Patients will be randomized into the intervention group who will receive pharmaceutical care provided by pharmacists working in collaboration with psychiatrists , or into the control group who will receive usual care and verbal-written counseling regarding BD .
+METHODS	Study outcomes will be assessed at baseline and at 3 , 6 , 9 , and 12months after randomization .
+METHODS	The primary outcome will be to measure the number of hospitalizations , emergency service consultations , and unscheduled outpatient visits .
+METHODS	Effectiveness , safety , adherence , and quality of life will be assessed as secondary outcomes .
+METHODS	Statistical analyses will be performed using two-tailed McNemar tests , Pearson chi-square tests , and Student 's t-tests ; a P value < 0.05 will be considered as statistically significant .
+CONCLUSIONS	As far as we know , this is the first randomized controlled trial to assess the effect of the Dader Method for pharmaceutical care in patients with BD-I and it could generate valuable information and recommendations about the role of pharmacists in the improvement of therapeutic goals , solution of drug-related problems , and adherence .
+BACKGROUND	Registration number NCT01750255 on August 6 , 2012 .
+BACKGROUND	First patient randomized on 24 November 2011 .
+

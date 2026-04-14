@@ -1,0 +1,15 @@
+24703512
+BACKGROUND	Previous studies have reported that stretching of the calf musculature and the plantar fascia are effective management strategies for plantar heel pain ( PHP ) .
+BACKGROUND	However , it is unclear whether myofascial release ( MFR ) can improve the outcomes in this population .
+OBJECTIVE	To investigate whether myofascial release ( MFR ) reduces the pain and functional disability associated with plantar heel pain ( PHP ) in comparison with a control group receiving sham ultrasound therapy ( SUST ) .
+METHODS	Randomized , controlled , double blinded trial .
+METHODS	Nonprofit research foundation clinic in India .
+METHODS	Sixty-six patients , 17 men and 49 women with a clinical diagnosis of PHP were randomly assigned into MFR or a control group and given 12 sessions of treatment per client over 4 weeks .
+METHODS	The Foot Function Index ( FFI ) scale was used to assess pain severity and functional disability .
+METHODS	The primary outcome measure was the difference in FFI scale scores between week 1 ( pretest score ) , week 4 ( posttest score ) , and follow-up at week 12 after randomization .
+METHODS	Additionally , pressure pain thresholds ( PPT ) were assessed over the affected gastrocnemii and soleus muscles , and over the calcaneus , by an assessor blinded to the treatment allocation .
+RESULTS	The simple main effects analysis showed that the MFR group performed better than the control group in weeks 4 and 12 ( P < 0.001 ) .
+RESULTS	Patients in the MFR and control groups reported a 72.4 % and 7.4 % reduction , respectively , in their pain and functional disability in week 4 compared with that in week 1 , which persisted as 60.6 % in the follow-up at week 12 in the MFR group compared to the baseline .
+RESULTS	The mixed ANOVA also revealed significant group-by-time interactions for changes in PPT over the gastrocnemii and soleus muscles , and the calcaneus ( P < 0.05 ) .
+CONCLUSIONS	This study provides evidence that MFR is more effective than a control intervention for PHP .
+

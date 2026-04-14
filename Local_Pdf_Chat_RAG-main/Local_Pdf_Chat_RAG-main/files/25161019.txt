@@ -1,0 +1,16 @@
+25161019
+OBJECTIVE	To improve arterial catheter ( AC ) securement and reduce AC failure ; to assess feasibility of a large randomised controlled trial .
+METHODS	A four-arm , parallel , randomised , controlled , non-blinded pilot trial with 195 intensive care patients taking part , in a tertiary referral hospital in Brisbane , Australia from May to November 2012 .
+METHODS	Standard polyurethane ( SPU ) dressing ( controls ) ; bordered polyurethane ( BPU ) + SPU dressing ; tissue adhesive ( TA ) + SPU dressing ; and sutureless securement device ( SSD ) + SPU dressing ( no sutures used ) .
+METHODS	AC failure , ie , complete dislodgement , occlusion ( monitor failure , inability to infuse or fluid leaking ) , pain or infection ( local or blood ) .
+RESULTS	Median AC dwell time was 26.2 hours and was comparable between groups .
+RESULTS	AC failure occurred in 26/195 patients ( 13 % ) .
+RESULTS	AC failure was significantly worse with SPU dressings ( 10/47 [ 21 % ] ) than with BPU + SPU dressings ( 2 / 43 [ 5 % ] ; P = 0.03 ) , but not significantly different to TA + SPU ( 6/56 [ 11 % ] ; P = 0.18 ) or SSD + SPU ( 8/49 [ 16 % ] ; P = 0.61 ) .
+RESULTS	The dressing applied at AC insertion lasted until AC removal in 68 % of controls ; 56 % of BPU + SPU dressings ; 73 % of TA + SPU dressings ; and 80 % of SSD + SPU dressings ( all P > 0.05 ) .
+RESULTS	There were no infections or serious adverse events .
+RESULTS	Patient and staff satisfaction with all products was high .
+RESULTS	Median costs ( labour and materials ) for securement per patient were significantly higher in all groups compared with the control group ( SPU , $ 3.48 [ IQR , $ 3.48 - $ 9.79 ] ; BPU + SPU , $ 5.07 [ IQR , $ 5.07 - $ 12.99 ] ; SSD + SPU , $ 10.90 [ IQR , $ 10.90 - $ 10.90 ] ; TA + SPU , $ 17.70 [ IQR , $ 17.70 - $ 38.36 ] ; all P < 0.01 ) .
+CONCLUSIONS	AC failure occurred significantly less often with BPU + SPU dressings than with SPU dressings .
+CONCLUSIONS	TA + SPU and SSD + SPU dressings should be further investigated and compared with BPU + SPU dressings as controls .
+CONCLUSIONS	The novel approach of TA + SPU dressings appeared safe and feasible .
+

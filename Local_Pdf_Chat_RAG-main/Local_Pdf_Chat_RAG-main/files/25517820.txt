@@ -1,0 +1,9 @@
+25517820
+METHODS	The bioavailability of rifampicin ( RMP ) decreases by 30 % on interaction with isoniazid ( INH ) in stomach acid conditions , which can result in the development of drug resistance and treatment failure .
+OBJECTIVE	To compare the bioavailability in healthy volunteers of five anti-tuberculosis fixed-drug combinations ( FDCs ) used in China ( formulations A-E ) containing RMP and INH against single-drug formulations taken as reference .
+METHODS	Two - or three-period , two - or three-sequence crossover study of drugs .
+RESULTS	Only RMP formulation E passed the bioequivalence criteria , with 90 % confidence intervals for the log-transformed ratios of AUC , AUC , and Cmax of respectively 89.9-103 .7 , 89.6-102 .2 and 87.7-107 .9 .
+RESULTS	For INH , formulations A , B , C and D passed the bioequivalence test , but not product E , where the 90 % CIs of the log-transformed ratios of AUC , AUC , and Cmax were respectively 85.2-100 .7 , 85.2-100 .7 and 73.8-100 .9 .
+CONCLUSIONS	According to the results of the bioequivalence analysis carried out in this study , RMP formulations A , B , C and D were not within the acceptable range and only formulation E passed the bioequivalence criteria of 80-125 % .
+CONCLUSIONS	In comparison , four-test INH formulations ( A , B , C and D ) were bioequivalent to the corresponding single-drug formulation , while product E failed in the bioequivalence criteria .
+

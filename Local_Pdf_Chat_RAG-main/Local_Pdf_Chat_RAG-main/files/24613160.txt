@@ -1,0 +1,14 @@
+24613160
+OBJECTIVE	To determine whether graft patency after on-pump and off-pump coronary artery bypass surgery is similar when performed using the same heparinization protocol .
+METHODS	In a randomized , controlled , multicenter trial , 900 patients more than 70 years of age received either on-pump or off-pump coronary artery bypass surgery .
+METHODS	Heparin was given to achieve an activated clotting time of 400 seconds before arteriotomy in both groups .
+METHODS	After the procedure , protamine sulfate was given to revert the activated clotting time to less than 120 seconds .
+METHODS	Coronary angiography was performed 6 months after the operation and graft patency was assessed by independent blinded observers .
+RESULTS	A total of 481 patients underwent angiography .
+RESULTS	In the off-pump group , 561 ( 79 % ) of 710 grafts were open , 65 ( 9 % ) were stenotic , and 84 ( 12 % ) were occluded .
+RESULTS	In the on-pump group , 549 ( 86 % ) of 650 grafts were open , 38 ( 5 % ) were stenotic , and 63 ( 9 % ) were occluded .
+RESULTS	The difference between the proportion of open grafts was statistically significant in favor of on-pump surgery ( P = .01 ) .
+RESULTS	The proportion of open left internal thoracic artery grafts was 95 % in both groups .
+RESULTS	Perioperative use of intracoronary shunts did not increase the risk of stenosis of the coronary artery distal to the anastomosis .
+CONCLUSIONS	Despite comparable heparinization , graft patency after off-pump surgery was inferior to that after on-pump surgery .
+

@@ -1,0 +1,15 @@
+24423298
+BACKGROUND	Data on the metabolic effects of GH derived from studies using GH suppression by pharmacological agents may not reflect selective actions .
+OBJECTIVE	The purpose of this study was to evaluate the effects of GH antagonism on glucose and lipid metabolism using pegvisomant , a selective GH receptor antagonist in patients with type 1 diabetes ( T1D ) .
+METHODS	In a randomized , placebo-controlled , crossover study , 10 young adults with T1D were evaluated at baseline and after 4 weeks of treatment with either 10 mg of pegvisomant or placebo .
+METHODS	The assessments included an overnight euglycemic steady state followed by a hyperinsulinemic euglycemic clamp and used glucose and glycerol cold stable isotopes .
+METHODS	Hepatic and peripheral insulin sensitivity ( IS ) , lipid turnover , and intramyocellular lipid ( IMCL ) were measured .
+RESULTS	Compared with placebo , pegvisomant treatment resulted in lower IGF-I levels ( P < .001 ) .
+RESULTS	During the overnight steady state , insulin requirements for euglycemia ( P = .019 ) , insulin levels ( P = .008 ) , and glucose production rates ( Ra ) ( P = .033 ) were reduced .
+RESULTS	During the clamp study , glucose infusion rates ( P = .031 ) increased and glucose Ra ( P = .015 ) decreased whereas glucose disposal rates were unchanged .
+RESULTS	Free fatty acid levels were similar during the steady state but were lower during the clamp ( P = .040 ) after pegvisomant .
+RESULTS	Soleus muscle IMCL decreased after treatment ( P = .024 ) ; however , no change in tibialis anterior muscle was observed .
+CONCLUSIONS	The study demonstrates that GH antagonism in T1D results in improved hepatic insulin sensitivity .
+CONCLUSIONS	Lack of consistent changes in free fatty acid levels may suggest a direct effect of GH on IS .
+CONCLUSIONS	Unchanged peripheral IS despite reductions in IMCL indicate that GH-induced alterations in IMCL may not be causally linked to glucose metabolism .
+

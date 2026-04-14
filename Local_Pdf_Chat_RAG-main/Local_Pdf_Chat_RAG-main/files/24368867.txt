@@ -1,0 +1,15 @@
+24368867
+BACKGROUND	The traditional oxygen delivery methods for oxygen therapy are continuous flow oxygen ( CFO ) and demand oxygen delivery ( DOD ) ; however , oxygen waste is considerable in CFO , while DOD is uncomfortable for patients .
+BACKGROUND	Synchronized DOD ( SDOD ) , which was designed to overcome the drawbacks of both CFO and DOD , supplies oxygen according to the patient 's breathing pattern and the desired oxygen saving .
+BACKGROUND	This study was conducted to examine the overall performance of SDOD in terms of oxygen saturation ( SpO2 ) , patients ' comfort , and oxygen saving ratio ( SR ) .
+METHODS	Study subjects were patients who required oxygen for COPD or pneumonia .
+METHODS	Patients received oxygen through nasal prongs by CFO and SDOD for 30 min each .
+METHODS	SpO2 was measured every 10 min by pulse oximetry , and subjects recorded their level of comfort after 30 min .
+METHODS	The flow of discharged oxygen was recorded to calculate SR. .
+RESULTS	Ten subjects ( median age , 68 y ; range , 56-86 y ) were enrolled .
+RESULTS	The SpO2 of patients during SDOD ( 97 2 % ) was similar to that during CFO ( 96 3 % ) with no statistically significant difference ( P = .53 ) .
+RESULTS	Subjects reported SDOD to be more comfortable than CFO .
+RESULTS	The comfort score of subjects treated with SDOD was 7.05 2.07 ( 0 : very uncomfortable , 10 : very comfortable ) ; this was significantly higher ( P = .02 ) than the comfort score ( 5.20 1.83 ) of subjects treated with CFO .
+RESULTS	The SR values set by clinicians were very similar to calculated SR values .
+CONCLUSIONS	SDOD appears to be more suitable for oxygen therapy than CFO when considering SpO2 , patients ' comfort , and SR. .
+

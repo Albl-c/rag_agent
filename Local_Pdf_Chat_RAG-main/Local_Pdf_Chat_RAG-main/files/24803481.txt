@@ -1,0 +1,15 @@
+24803481
+OBJECTIVE	To explore effects of a pre-screening life style survey on the subsequent attendance proportion in colorectal cancer screening .
+METHODS	Finnish colorectal cancer screening programme in 2011 .
+METHODS	Double randomized and controlled follow-up design .
+METHODS	The study population comprised of 31,951 individuals born in 1951 .
+METHODS	In 2010 to a random sample of every sixth ( n = 5,312 ) person we sent a 7-paged life style questionnaire , and to another random sample of every sixth person ( n = 5,336 ) a 10-paged life style and quality of life questionnaire .
+METHODS	One year later , in 2011 , 31,484 individuals of the original cohort were independently randomized ( 1:1 ) for colorectal cancer screening ( n = 15,748 ) or control group ( n = 15,736 ) .
+METHODS	Of those who were invited for screening , 5185 had received a questionnaire during the previous year .
+RESULTS	5870 individuals ( 55.1 % ) responded to the questionnaire in 2010 .
+RESULTS	The overall attendance at screening in 2011 was 59.0 % in those born in 1951 ( i.e. the 60-year-olds ) .
+RESULTS	In those who had been sent the survey the attendance in screening was 56.6 % ( 57.3 % for the short and 56.0 % for the long questionnaire ) and in those who had not received the questionnaire it was 60.2 % ( P < 0.001 ) .
+CONCLUSIONS	We believe that the observed reduction in attendance in those who had been sent a questionnaire earlier is generally true .
+CONCLUSIONS	Thus , if any survey is enclosed in the screening invitation , this finding should be taken into account when planning the programme .
+CONCLUSIONS	Any extra effort requested may reduce the attendance proportion for screening , reducing the population level impact of screening .
+

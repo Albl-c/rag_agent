@@ -1,0 +1,14 @@
+26027881
+BACKGROUND	Whether patients with early-stage oral cancers should be treated with elective neck dissection at the time of the primary surgery or with therapeutic neck dissection after nodal relapse has been a matter of debate .
+METHODS	In this prospective , randomized , controlled trial , we evaluated the effect on survival of elective node dissection ( ipsilateral neck dissection at the time of the primary surgery ) versus therapeutic node dissection ( watchful waiting followed by neck dissection for nodal relapse ) in patients with lateralized stage T1 or T2 oral squamous-cell carcinomas .
+METHODS	Primary and secondary end points were overall survival and disease-free survival , respectively .
+RESULTS	Between 2004 and 2014 , a total of 596 patients were enrolled .
+RESULTS	As prespecified by the data and safety monitoring committee , this report summarizes results for the first 500 patients ( 245 in the elective-surgery group and 255 in the therapeutic-surgery group ) , with a median follow-up of 39 months .
+RESULTS	There were 81 recurrences and 50 deaths in the elective-surgery group and 146 recurrences and 79 deaths in the therapeutic-surgery group .
+RESULTS	At 3 years , elective node dissection resulted in an improved rate of overall survival ( 80.0 % ; 95 % confidence interval [ CI ] , 74.1 to 85.8 ) , as compared with therapeutic dissection ( 67.5 % ; 95 % CI , 61.0 to 73.9 ) , for a hazard ratio for death of 0.64 in the elective-surgery group ( 95 % CI , 0.45 to 0.92 ; P = 0.01 by the log-rank test ) .
+RESULTS	At that time , patients in the elective-surgery group also had a higher rate of disease-free survival than those in the therapeutic-surgery group ( 69.5 % vs. 45.9 % , P < 0.001 ) .
+RESULTS	Elective node dissection was superior in most subgroups without significant interactions .
+RESULTS	Rates of adverse events were 6.6 % and 3.6 % in the elective-surgery group and the therapeutic-surgery group , respectively .
+CONCLUSIONS	Among patients with early-stage oral squamous-cell cancer , elective neck dissection resulted in higher rates of overall and disease-free survival than did therapeutic neck dissection .
+CONCLUSIONS	( Funded by the Tata Memorial Centre ; ClinicalTrials.gov number , NCT00193765 . )
+

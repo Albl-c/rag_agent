@@ -1,0 +1,21 @@
+24666633
+BACKGROUND	Over 45 % of American women 20-39 years old are at risk for type 2 diabetes , cardiovascular disease , and other health conditions because they are overweight or obese .
+BACKGROUND	The prevalence of overweight and obesity is disproportionately high among low-income women .
+BACKGROUND	This paper describes the study design and rationale of a community based intervention ( Mothers In Motion , MIM ) aimed to prevent weight gain among low-income overweight and obese mothers 18-39 years old by promoting stress management , healthy eating , and physical activity .
+METHODS	Peer recruiters approach participants from 5 Special Supplemental Nutrition Program for Women , Infants , and Children ( WIC ) in Michigan .
+METHODS	The MIM delivers theory-based , culturally-sensitive intervention messages via a combination of DVDs and peer support group teleconferences ( PSGTs ) .
+METHODS	The DVD features African American and white overweight and obese WIC mothers who participated in a healthy lifestyle intervention patterned after MIM .
+METHODS	The PSGTs are led by paraprofessionals from Michigan State University Extension and WIC providers in Michigan who are trained in motivational interviewing and group facilitation skills .
+METHODS	Participants are randomly assigned to an intervention ( n = 350 ) or comparison group ( n = 175 ) .
+METHODS	The intervention group receives a 16-week intervention on a weekly or bi-weekly basis .
+METHODS	Participants are asked to watch 10 MIM DVD chapters at home and join 10 PSGT sessions by phone .
+METHODS	The comparison group receives printed educational materials .
+METHODS	The primary outcome is body weight .
+METHODS	Secondary outcomes include dietary fat , fruit , and vegetable intake ; physical activity ; stress , and affect .
+METHODS	Mediators are self-efficacy , emotional coping response , social support , and autonomous motivation .
+METHODS	Telephone interviews and in-person data collection at WIC offices occur at 3 time points : baseline , immediately , and 3 months after the 16-week intervention .
+CONCLUSIONS	If MIM shows effectiveness , it could have a favorable impact on public health and community programs .
+CONCLUSIONS	The DVDs and PSGTs will be disseminated in WIC , Extension , clinical practice that promote healthy lifestyles for similar target audiences to make a broad contribution to the prevention of weight gain in low-income mothers .
+CONCLUSIONS	Also , our methodology can be adapted by researchers and community stakeholders to help other low-income populations prevent weight gain .
+BACKGROUND	Clinical Trials Number : NCT01839708 .
+

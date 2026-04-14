@@ -1,0 +1,11 @@
+24687921
+OBJECTIVE	In a recent phase II study of onartuzumab ( MetMAb ) , patients whose non-small cell lung cancer ( NSCLC ) tissue scored as positive for MET protein by immunohistochemistry ( IHC ) experienced a significant benefit with onartuzumab plus erlotinib ( O+E ) versus erlotinib .
+OBJECTIVE	We describe development and validation of a standardized MET IHC assay and , retrospectively , evaluate multiple biomarkers as predictors of patient benefit .
+METHODS	Biomarkers related to MET and/or EGF receptor ( EGFR ) signaling were measured by IHC , FISH , quantitative reverse transcription PCR , mutation detection techniques , and ELISA .
+RESULTS	A positive correlation between IHC , Western blotting , and MET mRNA expression was observed in NSCLC cell lines/tissues .
+RESULTS	An IHC scoring system of MET expression taking proportional and intensity-based thresholds into consideration was applied in an analysis of the phase II study and resulted in the best differentiation of outcomes .
+RESULTS	Further analyses revealed a nonsignificant overall survival ( OS ) improvement with O+E in patients with high MET copy number ( mean5 copies/cell by FISH ) ; however , benefit was maintained in `` MET IHC-positive '' / MET FISH-negative patients ( HR , 0.37 ; P = 0.01 ) .
+RESULTS	MET , EGFR , amphiregulin , epiregulin , or HGF mRNA expression did not predict a significant benefit with onartuzumab ; a nonsignificant OS improvement was observed in patients with high tumor MET mRNA levels ( HR , 0.59 ; P = 0.23 ) .
+RESULTS	Patients with low baseline plasma hepatocyte growth factor ( HGF ) exhibited an HR for OS of 0.519 ( P = 0.09 ) in favor of onartuzumab treatment .
+CONCLUSIONS	MET IHC remains the most robust predictor of OS and progression-free survival benefit from O+E relative to all examined exploratory markers .
+

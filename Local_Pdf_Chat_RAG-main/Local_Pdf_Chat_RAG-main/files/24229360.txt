@@ -1,0 +1,17 @@
+24229360
+BACKGROUND	Macrolides reduce exacerbations in patients with COPD .
+BACKGROUND	Their effects on health status has not been assessed as primary outcome and is less clear .
+BACKGROUND	This study assessed the effects of prophylactic azithromycin on cough-specific health status in COPD-patients with chronic productive cough .
+METHODS	In this randomised controlled trial 84 patients met the eligibility criteria : age of 40 years , COPD GOLD stage 2 and chronic productive cough .
+METHODS	The intervention-group ( n = 42 ) received azithromycin 250 mg 3 times a week and the control-group ( n = 42 ) received a placebo .
+METHODS	Primary outcome was cough-specific health status at 12 weeks , measured with the Leicester Cough Questionnaire ( LCQ ) .
+METHODS	Secondary outcomes included generic and COPD-specific health status and exacerbations .
+METHODS	Changes in adverse events and microbiology were monitored .
+RESULTS	Mean age of participants was 6810 years and mean FEV1 was 1.360.47 L.
+RESULTS	The improvement in LCQ total score at 12 weeks was significantly greater with azithromycin ( difference 1.30.5 , 95 % CI 0.3 ; 2.3 , p = 0.01 ) and met the minimal clinically important difference .
+RESULTS	Similar results were found for the domain scores , and COPD-specific and generic health status questionnaires .
+RESULTS	Other secondary endpoints were non-significant .
+RESULTS	No imbalances in adverse events were found .
+CONCLUSIONS	Prophylactic azithromycin improved cough-specific health status in COPD-patients with chronic productive cough to a clinically relevant degree .
+BACKGROUND	ClinicalTrials.gov NCT01071161 .
+
